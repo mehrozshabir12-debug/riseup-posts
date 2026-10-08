@@ -1,5 +1,42 @@
 [
-  {"date": "2026-10-08", "headline": "IRSA projects 22% water shortage for Rabi 2026-27", "source": "https://arynews.tv/22pc-water-shortage-projected-for-rabi-season-2026-27", "image": "posts/2026-10-08-water-shortage.jpg"},
-  {"date": "2026-10-08", "headline": "Sri Lankan vets to examine ailing elephant Madhubala in Karachi", "source": "https://arynews.tv/foreign-veterinary-experts-to-arrive-in-karachi-for-madhubalas-treatment", "published": "2026-10-08 12:50 PKT", "image": "posts/2026-10-08-madhubala-vets.jpg", "video": "posts/2026-10-08-madhubala-vets.mp4"},
-  {"date": "2026-10-08", "headline": "FBR imposes digital production monitoring on key industries", "source": "https://arynews.tv/fbr-tightens-monitoring-of-key-industries-to-improve-tax-collection", "published": "2026-10-08 13:53 PKT", "image": "posts/2026-10-08-fbr-monitoring.jpg", "video": "posts/2026-10-08-fbr-monitoring.mp4"}
+  {
+    "date": "2026-10-08",
+    "headline": "IRSA projects 22% water shortage for Rabi 2026-27",
+    "source": "https://arynews.tv/22pc-water-shortage-projected-for-rabi-season-2026-27",
+    "image": "posts/2026-10-08-water-shortage.jpg"
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Sri Lankan vets to examine ailing elephant Madhubala in Karachi",
+    "source": "https://arynews.tv/foreign-veterinary-experts-to-arrive-in-karachi-for-madhubalas-treatment",
+    "published": "2026-10-08 12:50 PKT",
+    "image": "posts/2026-10-08-madhubala-vets.jpg",
+    "video": "posts/2026-10-08-madhubala-vets.mp4"
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "FBR imposes digital production monitoring on key industries",
+    "source": "https://arynews.tv/fbr-tightens-monitoring-of-key-industries-to-improve-tax-collection",
+    "published": "2026-10-08 13:53 PKT",
+    "image": "posts/2026-10-08-fbr-monitoring.jpg",
+    "video": "posts/2026-10-08-fbr-monitoring.mp4"
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Gold price up Rs600 to Rs435,036 per tola",
+    "source": "https://www.brecorder.com/news/40443271/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+    "published": "2026-10-08 14:51 PKT",
+    "language": "Roman Urdu",
+    "image": "posts/2026-10-08-gold-up-600.jpg",
+    "video": "posts/2026-10-08-gold-up-600.mp4"
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Pakistani among 36 injured in Houthi attacks on Saudi airports",
+    "source": "https://tribune.com.pk/story/2633667/pakistani-among-36-injured-three-killed-in-houthi-attacks-on-saudi-airports",
+    "published": "2026-10-08 13:03 PKT",
+    "language": "English",
+    "image": "posts/2026-10-08-saudi-airports-houthi.jpg",
+    "video": "posts/2026-10-08-saudi-airports-houthi.mp4"
+  }
 ]
