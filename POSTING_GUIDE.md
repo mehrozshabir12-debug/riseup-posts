@@ -58,7 +58,9 @@ Each news story ALSO goes to Stories, at the same time as its posts:
   autoPublish true, same date/time as the story's feed post.
 - TikTok has no Stories through Metricool, so TikTok gets only the normal photo post.
 - If Metricool rejects the Story (plan/post limit or account type), still keep the feed posts and report it.
-- Star posts (manual-photo mode) do NOT get an automatic Story.
+- Star posts ALSO get a Story: make the -story.jpg the same way and schedule facebook + instagram STORY at the same
+  time with `"autoPublish": false` (manual-photo mode, so the owner can add the star's photo before publishing).
+- Every post on every network that supports Stories must have its Story — never skip it.
 
 ## Caption language: mix of Roman Urdu and English (for reach)
 Decide per story:
@@ -88,4 +90,4 @@ The post IMAGE text stays in English (template). Keep "Source: <outlet>" and the
 - **Manual-photo mode**: schedule ONE Metricool post for facebook + instagram + tiktok with the JPG, with
   `"autoPublish": false` (Metricool then sends the user a push notification at the scheduled time so they can add
   the star's photo and publish by hand). instagramData {type: POST}, tiktokData {autoAddMusic: true}.
-  No Reel/audio for star posts. Do not make the MP4.
+  No Reel/audio for star posts. Do not make the MP4. Do make the Story (see Stories section).
