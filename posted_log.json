@@ -60,5 +60,29 @@
     "image": "posts/2026-10-08-world-bank-poverty-response.jpg",
     "video": "posts/2026-10-08-world-bank-poverty-response.mp4",
     "scene": "economy_old"
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Pakistan set to hit 30% EV sales target early as petrol up 54%",
+    "source": "https://propakistani.pk/2026/10/08/30-new-cars-in-pakistan-will-be-electric/",
+    "published": "2026-10-08 16:10 PKT",
+    "language": "Roman Urdu",
+    "image": "posts/2026-10-08-ev-target-early.jpg",
+    "video": "posts/2026-10-08-ev-target-early.mp4",
+    "story": "posts/2026-10-08-ev-target-early-story.jpg",
+    "scene": "fuel",
+    "seed": 840539099
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "PIA fleet revamp with Airbus, Rolls-Royce discussed with UK",
+    "source": "https://arynews.tv/pia-fleet-revamp-on-table-with-airbus-rolls-royce",
+    "published": "2026-10-08 15:21 PKT",
+    "language": "English",
+    "image": "posts/2026-10-08-pia-fleet-airbus.jpg",
+    "video": "posts/2026-10-08-pia-fleet-airbus.mp4",
+    "story": "posts/2026-10-08-pia-fleet-airbus-story.jpg",
+    "scene": "aviation",
+    "seed": 49000985
   }
 ]
