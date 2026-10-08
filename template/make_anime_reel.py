@@ -143,151 +143,168 @@ def paper(rng):
 
 
 REG = "/usr/share/fonts/truetype/google-fonts/Poppins-Regular.ttf"
-MX = 64
+MX = 52
+FADE_START, FADE_END = 830, 1150   # scene fades into black here, exactly like the post image
+TEXT_TOP = 1180
 
 
 def F(sz, bold=True):
     return ImageFont.truetype(BOLD if bold else REG, sz)
 
 
-def shadowed(layer):
-    """soft dark shadow under all drawn text/shapes, so it reads on any scene (no box)."""
-    a = layer.split()[3]
-    sh = Image.new("RGBA", layer.size, (0, 0, 0, 0))
-    sh.putalpha(a.filter(ImageFilter.GaussianBlur(10)).point(lambda v: min(255, int(v * 1.6))))
-    sh2 = Image.new("RGBA", layer.size, (0, 0, 0, 0))
-    sh2.putalpha(a.filter(ImageFilter.GaussianBlur(3)).point(lambda v: min(255, int(v * 1.2))))
-    out = Image.alpha_composite(sh, sh2)
-    out = Image.alpha_composite(out, layer)
-    return out
+def tw_(d, t, f, sw):
+    b = d.textbbox((0, 0), t, font=f, stroke_width=sw); return b[2] - b[0]
 
 
-def rich_lines(d, text, f, max_w):
-    """split text into lines of (word, highlighted) tokens; **x y** = yellow highlight."""
+def fit(d, t, max_w, start, minimum):
+    s_ = start
+    while s_ > minimum:
+        f = F(s_)
+        if tw_(d, t, f, int(s_ * 0.016)) <= max_w:
+            return f, int(s_ * 0.016)
+        s_ -= 2
+    return F(minimum), int(minimum * 0.016)
+
+
+def dt(d, xy, t, f, sw, fill):
+    d.text(xy, t, font=f, fill=fill, stroke_width=sw, stroke_fill=fill)
+
+
+def static_layer():
+    """black fade, logo corner, logo + wordmark, social icons: same as make_post.py."""
+    L = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    g = Image.new("L", (1, H), 0)
+    for y in range(FADE_START, H):
+        v = 255 if y >= FADE_END else int(255 * ((y - FADE_START) / (FADE_END - FADE_START)) ** 1.4)
+        g.putpixel((0, y), v)
+    L.putalpha(g.resize((W, H)))
+    sh = Image.new("L", (W, H), 0)
+    ImageDraw.Draw(sh).ellipse((-220, -200, 520, 300), fill=120)
+    sh = sh.filter(ImageFilter.GaussianBlur(70))
+    L.putalpha(ImageChops.lighter(L.split()[3], sh))
+    d = ImageDraw.Draw(L)
+    logo = Image.open(os.path.join(HERE, "assets", "logo_white.png"))
+    lh = 112
+    logo = logo.resize((round(logo.width * lh / logo.height), lh), Image.LANCZOS)
+    L.alpha_composite(logo, (MX, 40))
+    wf = F(38)
+    d.text((MX + logo.width + 14, 52), "RISEUP", font=wf, fill=(255, 255, 255, 255))
+    d.text((MX + logo.width + 14, 94), "PAKISTAN", font=wf, fill=(255, 255, 255, 255))
+    icons = [Image.open(os.path.join(HERE, "assets", f"icon_{n}.png")).convert("RGBA") for n in ("facebook", "instagram", "tiktok")]
+    ih = 46
+    icons = [i.resize((round(i.width * ih / i.height), ih), Image.LANCZOS) for i in icons]
+    gap = 34
+    total = sum(i.width for i in icons) + gap * 2 * (len(icons) - 1)
+    x = (W - total) // 2; iy = H - 96
+    for k, ic in enumerate(icons):
+        L.alpha_composite(ic, (x, iy)); x += ic.width
+        if k < len(icons) - 1:
+            x += gap; d.line([(x, iy - 4), (x, iy + ih + 4)], fill=(230, 230, 230, 255), width=2); x += gap
+    return L
+
+
+def yellow_line1(d, text, y):
+    max_w = W - 2 * MX - 30
+    f1, sw1 = fit(d, text, max_w, 98, 60)
+    b = d.textbbox((0, 0), text, font=f1, stroke_width=sw1)
+    tw, th = b[2] - b[0], b[3] - b[1]
+    d.rectangle((MX, y, MX + tw + 36, y + th + 28), fill=YELLOW)
+    dt(d, (MX + 18 - b[0], y + 14 - b[1]), text, f1, sw1, (0, 0, 0))
+    return y + th + 28 + 20
+
+
+def big_white(d, text, y):
+    f2, sw2 = fit(d, text, W - 2 * MX, 116, 64)
+    b = d.textbbox((0, 0), text, font=f2, stroke_width=sw2)
+    dt(d, (MX - b[0], y - b[1]), text, f2, sw2, (255, 255, 255))
+    return y + (b[3] - b[1]) + 30
+
+
+def sub_text(d, text, y, size=56, max_lines=None):
+    """white bold text; **words** get the yellow box like sub_hl in the post."""
+    fs = F(size); sws = 1
+    max_w = W - 2 * MX - 30
     toks, hl = [], False
     for w_ in text.split():
-        start = w_.startswith("**"); end = w_.endswith("**") and len(w_) > 2 or (w_ == "**" and hl)
-        clean = w_.strip("*")
-        if start:
+        if w_.startswith("**"):
             hl = True
+        clean = w_.strip("*")
         toks.append((clean, hl))
-        if end:
+        if w_.endswith("**") and (len(w_) > 2 or hl):
             hl = False
-    lines, cur, cw = [], [], 0
-    sp = d.textlength(" ", font=f)
+    # group into runs (normal text / highlighted), then wrap word by word
+    asc = d.textbbox((0, 0), "Hg", font=fs, stroke_width=sws)
+    lh = asc[3] - asc[1]; gap = 14
+    sp = tw_(d, " ", fs, sws) + 4
+    x = MX
+    lines = [[]]
     for wd, h in toks:
-        ww = d.textlength(wd, font=f) + (24 if h else 0)
-        if cur and cw + sp + ww > max_w:
-            lines.append(cur); cur, cw = [], 0
-        cur.append((wd, h)); cw += (sp if cw else 0) + ww
-    if cur:
-        lines.append(cur)
-    return lines
-
-
-def draw_rich(d, lines, f, x, y, lh, col=(255, 255, 255)):
-    sp = d.textlength(" ", font=f)
-    asc = d.textbbox((0, 0), "Hg", font=f)
+        w = tw_(d, wd, fs, sws) + (30 if h else 0)
+        if x > MX and x + w > MX + max_w:
+            lines.append([]); x = MX
+        lines[-1].append((wd, h, x)); x += w + (sp if not h else 12)
     for ln in lines:
-        cx = x
-        merged = []  # join neighbouring highlighted words into one yellow bar
-        for wd, h in ln:
-            if h and merged and merged[-1][1]:
-                merged[-1] = (merged[-1][0] + " " + wd, True)
-            else:
-                merged.append((wd, h))
-        for wd, h in merged:
-            tw = d.textlength(wd, font=f)
+        # merge neighbouring highlighted words into one box
+        i = 0
+        while i < len(ln):
+            wd, h, x0 = ln[i]
             if h:
-                d.rounded_rectangle((cx, y + asc[1] - 8, cx + tw + 24, y + asc[3] + 10), radius=10, fill=YELLOW)
-                d.text((cx + 12, y), wd, font=f, fill=(0, 0, 0))
-                cx += tw + 24 + sp
+                words = [wd]; j = i + 1
+                while j < len(ln) and ln[j][1]:
+                    words.append(ln[j][0]); j += 1
+                txt = " ".join(words)
+                w = tw_(d, txt, fs, sws) + 30
+                d.rectangle((x0, y - 8, x0 + w, y + lh + 10), fill=YELLOW)
+                dt(d, (x0 + 15, y - asc[1]), txt, fs, sws, (0, 0, 0))
+                # shift the rest of the line to follow the merged box
+                shift = (x0 + w + 12) - (ln[j][2] if j < len(ln) else x0 + w + 12)
+                ln[j:] = [(a, b_, c + shift) for a, b_, c in ln[j:]]
+                i = j
             else:
-                d.text((cx, y), wd, font=f, fill=col, stroke_width=1, stroke_fill=col)
-                cx += tw + sp
-        y += lh
+                dt(d, (x0, y - asc[1]), wd, fs, sws, (255, 255, 255)); i += 1
+        y += lh + gap
     return y
 
 
-def yellow_bar(d, text, f, x, y):
-    b = d.textbbox((0, 0), text, font=f)
-    d.rectangle((x, y, x + b[2] - b[0] + 36, y + b[3] - b[1] + 28), fill=YELLOW)
-    d.text((x + 18 - b[0], y + 14 - b[1]), text, font=f, fill=(0, 0, 0), stroke_width=1, stroke_fill=(0, 0, 0))
-    return y + b[3] - b[1] + 28
-
-
-def logo_layer():
-    L = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    logo = Image.open(os.path.join(HERE, "assets", "logo_white.png"))
-    lh = 104
-    logo = logo.resize((round(logo.width * lh / logo.height), lh), Image.LANCZOS)
-    L.paste(logo, (MX, 70), logo)
-    d = ImageDraw.Draw(L)
-    d.text((MX + logo.width + 14, 76), "RISEUP", font=F(38), fill="white")
-    d.text((MX + logo.width + 14, 118), "PAKISTAN", font=F(38), fill="white")
-    return shadowed(L)
-
-
-def bottom_shade():
-    """gentle gradient (not a box) to lift text readability on bright scenes."""
-    g = Image.new("L", (1, H), 0)
-    for y in range(H):
-        t = max(0.0, (y - H * 0.50) / (H * 0.50))
-        g.putpixel((0, y), int(120 * t ** 1.3))
-    L = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    L.putalpha(g.resize((W, H)))
-    return L
+def rule_tag(d, y, tag):
+    y += 18
+    d.rectangle((MX, y, MX + 140, y + 6), fill=YELLOW)
+    y += 26
+    d.text((MX, y), tag or "", font=F(36, False), fill=(255, 255, 255))
 
 
 def intro_layer(cfg):
     L = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
-    mw = W - 2 * MX
-    f2 = F(104)
-    while d.textlength(max(cfg["line2"].split(), key=len), font=f2) > mw and f2.size > 70:
-        f2 = F(f2.size - 4)
-    l2 = rich_lines(d, cfg["line2"], f2, mw)
+    y = yellow_line1(d, cfg["line1"], TEXT_TOP)
+    y = big_white(d, cfg["line2"], y)
     sub = cfg.get("sub", "") + (" **" + cfg["sub_hl"] + "**" if cfg.get("sub_hl") else "")
-    l3 = rich_lines(d, sub, F(56), mw)
-    hgt = 120 + len(l2) * int(f2.size * 1.12) + 24 + len(l3) * 74
-    y = H - 230 - hgt
-    y = yellow_bar(d, cfg["line1"], F(78), MX, y) + 22
-    y = draw_rich(d, l2, f2, MX, y, int(f2.size * 1.12)) + 14
-    draw_rich(d, l3, F(56), MX, y, 74)
-    return shadowed(L)
+    y = sub_text(d, sub, y)
+    rule_tag(d, y, cfg.get("tag", ""))
+    return L
 
 
 def para_layer(cfg, text, i, n):
     L = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
-    mw = W - 2 * MX
-    f = F(60)
-    lines = rich_lines(d, text, f, mw)
-    while len(lines) > 7 and f.size > 46:
-        f = F(f.size - 4); lines = rich_lines(d, text, f, mw)
-    lh = int(f.size * 1.32)
-    hgt = 100 + len(lines) * lh
-    y = H - 260 - hgt
-    y = yellow_bar(d, cfg["line1"], F(46), MX, y) + 34
-    draw_rich(d, lines, f, MX, y, lh)
-    # progress dots
-    x = MX
-    for k in range(n):
-        w_ = 60 if k == i else 24
-        d.rounded_rectangle((x, H - 190, x + w_, H - 176), radius=7, fill=YELLOW if k == i else (255, 255, 255))
-        x += w_ + 16
-    return shadowed(L)
+    y = yellow_line1(d, cfg["line1"], TEXT_TOP) + 10
+    size = 56
+    while size > 44:  # shrink if the paragraph would run into the icons
+        test = Image.new("RGBA", (W, H)); td = ImageDraw.Draw(test)
+        if sub_text(td, text, y, size) < H - 260:
+            break
+        size -= 4
+    y = sub_text(d, text, y, size)
+    rule_tag(d, y, f"{cfg.get('tag', '')}  ·  {i + 1}/{n}" if cfg.get("tag") else f"{i + 1}/{n}")
+    return L
 
 
 def outro_layer(cfg):
     L = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
-    mw = W - 2 * MX
-    q = rich_lines(d, cfg.get("question", "Aap ka kya khayal hai?"), F(80), mw)
-    y = H - 330 - len(q) * 96 - 120
-    y = draw_rich(d, q, F(80), MX, y, 96) + 10
-    y = draw_rich(d, rich_lines(d, "Comment mein batayein", F(52), mw), F(52), MX, y, 70) + 30
-    if cfg.get("source"):
-        y = yellow_bar(d, "Source: " + cfg["source"], F(44), MX, y) + 30
-    draw_rich(d, [[("Follow", False), ("RiseUp", True), ("Pakistan", True)]], F(52), MX, y, 70)
-    return shadowed(L)
+    y = yellow_line1(d, "Aap ki raye?", TEXT_TOP)
+    q = cfg.get("question", "Aap ka kya khayal hai?")
+    y = sub_text(d, q, y, 72)
+    y = sub_text(d, "Comment mein batayein aur **Follow karein**", y + 6)
+    rule_tag(d, y, ("Source: " + cfg["source"]) if cfg.get("source") else "")
+    return L
 
 
 def build_segments(cfg):
@@ -318,7 +335,7 @@ def main():
     rng = random.Random(seed)
     mood = cfg.get("mood") or rng.choice(list(MOODS))
     sky_t, sky_b, c_l, c_s, far, near, grass = MOODS[mood]
-    horizon = rng.randint(1000, 1120)
+    horizon = rng.randint(700, 800)
 
     sky = vgrad(BW, H, sky_t, sky_b).convert("RGBA")
     if mood == "night":
@@ -376,7 +393,7 @@ def main():
     starts, acc = [], 0.0
     for s_ in segs:
         starts.append(acc); acc += s_[1]
-    logo = logo_layer(); shade = bottom_shade(); cache = {}
+    static = static_layer(); cache = {}
     FADE = 0.45
 
     tmp = out + "_frames"
@@ -414,8 +431,7 @@ def main():
                 c = (255, 190, 210) if kind == "petal" else (150, 200, 90)
                 gd.ellipse((x - 7, y - 4, x + 7, y + 4), fill=c + (220,))
         rgb = ImageChops.multiply(frame.convert("RGB"), paper_rgb).convert("RGBA")
-        rgb.alpha_composite(shade)
-        rgb.alpha_composite(logo)
+        rgb.alpha_composite(static)
         # current text segment with fade + slight rise
         for (kind_s, dur, layer), st in zip(segs, starts):
             if st <= tsec < st + dur:

@@ -62,6 +62,26 @@ Each news story ALSO goes to Stories, at the same time as its posts:
   time with `"autoPublish": false` (manual-photo mode, so the owner can add the star's photo before publishing).
 - Every post on every network that supports Stories must have its Story — never skip it.
 
+## Anime Reels: 3 per day (Instagram Reels + TikTok + Facebook Reels)
+Every day make EXACTLY 3 hand-painted anime-style news videos (count entries with `"anime": true` in today's
+posted_log.json). At most one per run, for the run's most shareable story. Slots: the 1st in any run from 1:50 PM,
+the 2nd only from the 4:50 PM run, the 3rd only from the 7:50 PM run (if a slot's run had no fresh story, the next run
+makes it). The anime story still counts as one of the 15 news stories.
+1. Write `posts/<date>-<slug>-anime.json`:
+   `{"line1","line2","sub","sub_hl","tag"` (same as the post image), `"paragraphs"`: 3-5 short paragraphs (15-30 words
+   each, own words, same language as the caption; wrap key numbers/words in **double stars** for the yellow box),
+   `"question"`, `"source"`, `"mood"`: day / spring / sunset / rain / night to fit the story (rain for rain news,
+   night for evening stories, etc.)}
+2. Render: `python3 template/make_anime_reel.py posts/<file>-anime.json posts/<file>-anime.mp4` (takes ~3 min; it has its
+   own nature sound + soft piano, 20-60 s). Extract a frame or two with ffmpeg and look at them.
+3. Commit the .json + .mp4. Schedule ONE Metricool post with the MP4 at the story's time:
+   providers facebook + instagram + tiktok, facebookData {type: REEL}, instagramData {type: REEL, showReelOnFeed: true,
+   isAiGenerated: false} (NO audioConfiguration — the video has its own sound), tiktokData {privacyOption:
+   PUBLIC_TO_EVERYONE, title: <headline>, autoAddMusic: false}, text = the story caption.
+4. For that story this REPLACES the normal Instagram zoom-Reel and the TikTok photo post: schedule the JPG only to
+   facebook (type POST), plus the Story as usual. Log `"anime": true, "anime_video": "posts/..-anime.mp4"`.
+5. Never name "Ghibli"/Studio Ghibli in captions or hashtags; never draw real people.
+
 ## Caption language: mix of Roman Urdu and English (for reach)
 Decide per story:
 - **Roman Urdu** for stories that touch ordinary people's pockets and daily life, or are emotional / viral:

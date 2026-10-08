@@ -49,7 +49,9 @@
     "language": "Roman Urdu",
     "image": "posts/2026-10-08-karachi-winds.jpg",
     "video": "posts/2026-10-08-karachi-winds.mp4",
-    "scene": "rain"
+    "scene": "rain",
+    "anime": true,
+    "anime_video": "posts/2026-10-08-karachi-winds-anime.mp4"
   },
   {
     "date": "2026-10-08",
