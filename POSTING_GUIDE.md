@@ -45,9 +45,16 @@ Schedule each story as TWO Metricool posts at the same time:
   (8 s, 1080x1920, slow zoom), commit it, use its raw.githubusercontent.com URL as media.
   instagramData: `{"type": "REEL", "showReelOnFeed": true, "isAiGenerated": false,
   "audioConfiguration": {"audioId": "<search term>", "audioVolume": 100, "videoVolume": 0}}`.
-  Pick the search term at random from upbeat, popular instrumental / news-background tracks (vary it every post).
-  If Metricool rejects it with a list of candidates, retry once with the first candidate's numeric id. If audio
+  **Trending music first:** at the start of each run, web-search what is trending right now ("trending Instagram
+  Reels audio this week", "trending TikTok sounds Pakistan this week") and use a currently trending track's title /
+  artist as the search term. Prefer tracks whose mood fits the story (no upbeat party song on sad or crime news —
+  use calm instrumental there). If the trending track is not in the catalog (business accounts get a limited
+  library), use the closest candidate Metricool offers, else an upbeat popular instrumental.
+  NEVER repeat a track used earlier today (log `music` for every post and check the log first).
+  If Metricool rejects it with a list of candidates, retry once with the best-fitting candidate's numeric id. If audio
   still fails, schedule the Reel without audioConfiguration rather than skipping the post.
+- TikTok and Facebook: the API cannot pick a specific song. TikTok photo posts use `autoAddMusic: true` (TikTok
+  adds a popular fitting track itself); Facebook gets no added music.
 
 ## Stories on Instagram and Facebook (every news post)
 Each news story ALSO goes to Stories, at the same time as its posts:
@@ -76,11 +83,18 @@ makes it). The anime story still counts as one of the 15 news stories.
    own nature sound + soft piano, 20-60 s). Extract a frame or two with ffmpeg and look at them.
 3. Commit the .json + .mp4. Schedule ONE Metricool post with the MP4 at the story's time:
    providers facebook + instagram + tiktok, facebookData {type: REEL}, instagramData {type: REEL, showReelOnFeed: true,
-   isAiGenerated: false} (NO audioConfiguration — the video has its own sound), tiktokData {privacyOption:
+   isAiGenerated: false} plus the audioConfiguration from rule 8 below, tiktokData {privacyOption:
    PUBLIC_TO_EVERYONE, title: <headline>, autoAddMusic: false}, text = the story caption.
 4. For that story this REPLACES the normal Instagram zoom-Reel and the TikTok photo post: schedule the JPG only to
    facebook (type POST), plus the Story as usual. Log `"anime": true, "anime_video": "posts/..-anime.mp4"`.
 5. Never name "Ghibli"/Studio Ghibli in captions or hashtags; never draw real people.
+6. Keep exactly this look (approved by the owner on 8 Oct 2026): post-style logo and text, painted scene, own sound.
+7. NO REPEATS: each anime video must use a different `mood` from the previous anime video, and the 3 videos of a
+   day must all have different moods (day / spring / sunset / rain / night). Never reuse a `seed`. Log `mood` and
+   `seed` in posted_log.json.
+8. Music on the anime video: on Instagram add a trending track (see Music section) with
+   `"audioConfiguration": {"audioId": ..., "audioVolume": 100, "videoVolume": 35}` so the nature sound stays softly
+   underneath; TikTok `autoAddMusic: false` (the video already has sound); Facebook as is.
 
 ## Caption language: mix of Roman Urdu and English (for reach)
 Decide per story:
