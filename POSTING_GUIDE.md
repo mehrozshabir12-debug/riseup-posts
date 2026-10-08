@@ -36,3 +36,14 @@ Schedule each story as TWO Metricool posts at the same time:
   Pick the search term at random from upbeat, popular instrumental / news-background tracks (vary it every post).
   If Metricool rejects it with a list of candidates, retry once with the first candidate's numeric id. If audio
   still fails, schedule the Reel without audioConfiguration rather than skipping the post.
+
+## Caption language: mix of Roman Urdu and English (for reach)
+Decide per story:
+- **Roman Urdu** for stories that touch ordinary people's pockets and daily life, or are emotional / viral:
+  petrol, bijli & gas bills, sone & dollar rates, mehngai, salaries, jobs, school/college news, weather alerts,
+  holidays, cricket, crime/accidents (no gore), heart-touching stories (e.g. Madhubala). Write natural, simple
+  Roman Urdu (e.g. "Petrol ki qeemat mein Rs 5 ka izafa! ⛽"), keep numbers and names exact.
+- **English** for policy, business, IMF/FBR, international, technical or official-statement stories.
+Roughly half and half across the day. In both languages end the caption with a short question to get comments,
+e.g. Roman Urdu "Aap ka kya khayal hai? Comment mein batayein 👇" / English "What do you think? Tell us below 👇".
+The post IMAGE text stays in English (template). Keep "Source: <outlet>" and the hashtags.
