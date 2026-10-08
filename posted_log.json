@@ -88,5 +88,29 @@
     "seed": 49000985,
     "music": "Home - Giulio Cercato",
     "scheduled": "2026-10-08 17:35 PKT"
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "JPMC young doctors protest three months of unpaid salaries",
+    "source": "https://tribune.com.pk/story/2633701/jpmc-doctors-protest-over-three-months-of-unpaid-salaries",
+    "published": "2026-10-08 16:52 PKT",
+    "language": "Roman Urdu",
+    "image": "posts/2026-10-08-jpmc-doctors-unpaid.jpg",
+    "video": "posts/2026-10-08-jpmc-doctors-unpaid.mp4",
+    "story": "posts/2026-10-08-jpmc-doctors-unpaid-story.jpg",
+    "scene": "health",
+    "seed": 750548110
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Pakistan prisons hold 110,513 inmates against capacity of 68,832 (NCHR report)",
+    "source": "https://www.samaa.tv/2087358151-pakistan-prisons-hold-110-513-inmates-against-capacity",
+    "published": "2026-10-08 ~17:25 PKT",
+    "language": "English",
+    "image": "posts/2026-10-08-prisons-overcrowded.jpg",
+    "video": "posts/2026-10-08-prisons-overcrowded.mp4",
+    "story": "posts/2026-10-08-prisons-overcrowded-story.jpg",
+    "scene": "police",
+    "seed": 515024
   }
 ]
