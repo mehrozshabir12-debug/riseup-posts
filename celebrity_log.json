@@ -29,13 +29,17 @@
     "headline": "Asim Azhar's father Azhar Hussain dances to son's new Coke Studio song 'Maheya' in viral reel; Hania Aamir reacts",
     "source": "ARY News",
     "source_url": "https://arynews.tv/hania-aamir-gushes-over-asim-azhars-fun-reel-with-his-dad",
-    "publish_time": "2026-10-08T22:20:00+05:00",
+    "publish_time": "2026-10-08T22:25:00+05:00",
     "scene": "entertainment",
     "seed": 168862454,
     "files": [
       "posts/2026-10-08-asim-azhar-dad-maheya.jpg",
       "posts/2026-10-08-asim-azhar-dad-maheya-story.jpg"
     ],
-    "autoPublish": false
+    "autoPublish": false,
+    "metricool_ids": [
+      391384471,
+      391384493
+    ]
   }
 ]
