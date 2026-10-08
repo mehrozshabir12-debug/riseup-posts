@@ -14,7 +14,9 @@ Language: English captions. Audience: Pakistan. Timezone for scheduling: Asia/Ka
    Mix topics: economy, weather, energy, water, sports, tech, national, education, health.
    Avoid unverified rumours, graphic violence, and one-sided political attacks. Every number must come from the source.
 3. For each story write a config JSON for `template/make_post.py`:
-   - `theme`: one of economy, weather, energy, water, sports, tech, general
+   - `scene` (NOT `theme`): pick the scene that fits the story best — gold, fuel, electricity, currency, tax, people,
+     heat, wind, rain, cricket, health, education, police, government, world, aviation, animal, tech, water, trade,
+     general, entertainment. See "Image variety" below.
    - `line1` (yellow bar, 2–4 words), `line2` (big white, 2–4 words), `sub` (white, ~6–9 words), `sub_hl` (yellow tail, 1–3 words), `tag` (e.g. "Official finance update")
    Render: `python3 template/make_post.py cfg.json posts/YYYY-MM-DD-slug.jpg`. Look at the image; fix overflow.
 4. Commit and push the images + updated `posted_log.json` to `main`.
@@ -24,6 +26,16 @@ Language: English captions. Audience: Pakistan. Timezone for scheduling: Asia/Ka
    tiktokData {privacyOption: PUBLIC_TO_EVERYONE, title: <headline>}, autoPublish true).
    Caption: emoji + headline, 2–4 short lines/bullets of facts in own words, "Source: <outlet>", 6–8 hashtags starting with #RiseUpPakistan.
 6. Never open, read or send the user's emails.
+
+## Image variety (no repeated look)
+The owner does not want posts that look the same. Rules:
+- Use `scene` in the config. Each scene is drawn with a random seed, so colours, layout and details change every render.
+- Never use the same scene as any of the last 3 posts (news + star posts). make_post.py prints a WARNING if you do —
+  then pick the next-best fitting scene (e.g. economy story: currency / tax / trade / people / gold / government;
+  weather: rain / wind / heat / water; energy: electricity / fuel; international: world / aviation / trade).
+- Only when the story truly needs it (e.g. two gold-price posts) may a scene repeat, and then not back-to-back.
+- Look at the rendered image and the previous post's image side by side; if they look alike, re-render.
+- Log the `scene` and `seed` that make_post.py prints in posted_log.json / celebrity_log.json for every post.
 
 ## Music on Instagram and TikTok (more reach)
 Schedule each story as TWO Metricool posts at the same time:
@@ -56,7 +68,7 @@ The post IMAGE text stays in English (template). Keep "Source: <outlet>" and the
   milestones, awards, weddings/births they announced themselves, public statements, viral moments.
 - Never: rumours, leaked/private content, insults or mockery, claims not in the source, anything about minors,
   political attacks. Write neutrally and kindly.
-- Do NOT use photos of the person (copyright). Use theme `entertainment` (or `sports` for cricketers).
+- Do NOT use photos of the person (copyright). Use scene `entertainment` (or `cricket` for cricketers); vary it per the "Image variety" rules.
 - Captions mostly Roman Urdu, end with a question, "Source: <outlet>", hashtags starting #RiseUpPakistan.
 
 ### Star posts: tagging + manual photo (overrides the scheduling rules above for star posts)

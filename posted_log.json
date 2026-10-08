@@ -19,7 +19,8 @@
     "source": "https://arynews.tv/fbr-tightens-monitoring-of-key-industries-to-improve-tax-collection",
     "published": "2026-10-08 13:53 PKT",
     "image": "posts/2026-10-08-fbr-monitoring.jpg",
-    "video": "posts/2026-10-08-fbr-monitoring.mp4"
+    "video": "posts/2026-10-08-fbr-monitoring.mp4",
+    "scene": "economy_old"
   },
   {
     "date": "2026-10-08",
@@ -28,7 +29,8 @@
     "published": "2026-10-08 14:51 PKT",
     "language": "Roman Urdu",
     "image": "posts/2026-10-08-gold-up-600.jpg",
-    "video": "posts/2026-10-08-gold-up-600.mp4"
+    "video": "posts/2026-10-08-gold-up-600.mp4",
+    "scene": "economy_old"
   },
   {
     "date": "2026-10-08",
@@ -46,7 +48,8 @@
     "published": "2026-10-08 15:53 PKT",
     "language": "Roman Urdu",
     "image": "posts/2026-10-08-karachi-winds.jpg",
-    "video": "posts/2026-10-08-karachi-winds.mp4"
+    "video": "posts/2026-10-08-karachi-winds.mp4",
+    "scene": "rain"
   },
   {
     "date": "2026-10-08",
@@ -55,6 +58,7 @@
     "published": "2026-10-08 14:21 PKT",
     "language": "English",
     "image": "posts/2026-10-08-world-bank-poverty-response.jpg",
-    "video": "posts/2026-10-08-world-bank-poverty-response.mp4"
+    "video": "posts/2026-10-08-world-bank-poverty-response.mp4",
+    "scene": "economy_old"
   }
 ]

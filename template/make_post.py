@@ -4,7 +4,12 @@ Usage:
   python3 make_post.py config.json out.png
 
 config.json keys:
-  photo      path to the top photo (any size; cropped to fill)
+  scene      top graphic: gold, fuel, electricity, currency, tax, people, heat, wind, rain, cricket,
+             health, education, police, government, world, aviation, animal, tech, water, trade,
+             general, entertainment  (drawn with a random seed, so it looks different every time)
+  seed       optional, to reproduce an exact image
+  theme      old name (economy, weather, ...) - used only when no scene is given
+  photo      path to a top photo instead of a scene
   line1      headline line on yellow bar (black text)   e.g. "Remittances Surge"
   line2      big white headline line                     e.g. "To $3.63 Billion"
   sub        white sub-headline text                     e.g. "Pakistan records strong workers' inflows"
@@ -71,11 +76,21 @@ def wrap(d, words, f, sw, max_w):
 
 def render(cfg, out):
     canvas = Image.new("RGB", (W, H), (0, 0, 0))
-    if cfg.get("theme"):
-        import graphics
-        src = graphics.THEMES[cfg["theme"]]()
-    else:
+    if cfg.get("photo"):
         src = Image.open(cfg["photo"]).convert("RGB")
+    else:
+        import random as _r, scenes
+        recent = scenes.recent_scenes(os.path.dirname(HERE), 4)
+        scene = cfg.get("scene")
+        if not scene:  # old-style config: pick a fitting scene not used recently
+            opts = scenes.THEME_SCENES.get(cfg.get("theme", "general"), ["general"])
+            fresh = [o for o in opts if o not in recent]
+            scene = (fresh or opts)[0]
+        if scene in recent[-3:]:
+            print(f"WARNING: scene '{scene}' was used in the last 3 posts {recent[-3:]} - pick another if it fits")
+        seed = cfg.get("seed") or _r.randrange(10**9)
+        src = scenes.render(scene, seed)
+        print(f"scene={scene} seed={seed}")
     photo = cover(src, W, PHOTO_H)
     canvas.paste(photo, (0, 0))
 
