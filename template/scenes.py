@@ -588,9 +588,128 @@ def tribute(rng):
     return _glow(img, C, blur=40, strength=3)
 
 
+def ribbon(rng):
+    """awareness ribbon - Pinktober / breast cancer / any awareness day (pink by default)"""
+    img, _ = _bg(rng, ["purple", "maroon", "navy"])
+    L = _new(); d = ImageDraw.Draw(L)
+    cx, cy = _side(rng), rng.randint(300, 360)
+    col = rng.choice([(255, 105, 180), (255, 130, 200), (240, 80, 160)])
+    w = 46
+    # loop
+    d.ellipse((cx - 120, cy - 220, cx + 120, cy + 40), outline=col + (255,), width=w)
+    # tails crossing
+    d.line([(cx - 70, cy - 10), (cx + 110, cy + 300)], fill=col + (255,), width=w)
+    d.line([(cx + 70, cy - 10), (cx - 110, cy + 300)], fill=tuple(int(c * 0.85) for c in col) + (255,), width=w)
+    for _ in range(rng.randint(10, 18)):
+        x, y, r = rng.randint(0, W), rng.randint(0, 680), rng.randint(6, 16)
+        d.ellipse((x - r, y - r, x + r, y + r), fill=col + (rng.randint(60, 140),))
+    return _glow(img, L, blur=30)
+
+
+def cinema(rng):
+    """film reel + clapperboard - movies, actors, dramas, film legacy"""
+    img, _ = _bg(rng, ["slate", "maroon", "navy", "amber"])
+    L = _new(); d = ImageDraw.Draw(L)
+    cx, cy, r = rng.choice([330, 750]), rng.randint(320, 380), rng.randint(170, 200)
+    d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=(200, 205, 215, 255))
+    d.ellipse((cx - 30, cy - 30, cx + 30, cy + 30), fill=(40, 40, 50, 255))
+    for i in range(6):
+        a = i * math.pi / 3 + rng.uniform(0, 0.5)
+        hx, hy = cx + r * 0.58 * math.cos(a), cy + r * 0.58 * math.sin(a)
+        d.ellipse((hx - 38, hy - 38, hx + 38, hy + 38), fill=(40, 40, 50, 255))
+    # film strip
+    y = rng.randint(600, 660)
+    d.rectangle((0, y, W, y + 90), fill=(25, 25, 30, 255))
+    for x in range(10, W, 50):
+        d.rectangle((x, y + 8, x + 26, y + 22), fill=(230, 230, 230, 255))
+        d.rectangle((x, y + 68, x + 26, y + 82), fill=(230, 230, 230, 255))
+    # clapperboard
+    bx = 1080 - cx - 150
+    by = rng.randint(300, 360)
+    d.rectangle((bx, by, bx + 300, by + 200), fill=(30, 30, 35, 255), outline=(240, 240, 240, 255), width=6)
+    d.polygon([(bx, by - 70), (bx + 300, by - 110), (bx + 300, by - 50), (bx, by - 10)], fill=(240, 240, 240, 255))
+    for k in range(4):
+        x0 = bx + 20 + k * 75
+        d.polygon([(x0, by - 70 - k * 10), (x0 + 35, by - 75 - k * 10), (x0 + 35, by - 18 - k * 10), (x0, by - 13 - k * 10)], fill=(30, 30, 35, 255))
+    return _glow(img, L, blur=24)
+
+
+def music(rng):
+    """microphone + music notes - songs, singers, Coke Studio, concerts"""
+    img, _ = _bg(rng, ["teal", "purple", "orange", "navy"])
+    L = _new(); d = ImageDraw.Draw(L)
+    cx, cy = _side(rng), rng.randint(250, 300)
+    d.rounded_rectangle((cx - 75, cy - 130, cx + 75, cy + 90), radius=75, fill=(210, 215, 225, 255))
+    for yy in range(cy - 100, cy + 70, 22):
+        d.line([(cx - 60, yy), (cx + 60, yy)], fill=(120, 125, 140, 255), width=4)
+    d.arc((cx - 115, cy - 20, cx + 115, cy + 190), 0, 180, fill=(230, 230, 235, 255), width=12)
+    d.rectangle((cx - 9, cy + 190, cx + 9, cy + 330), fill=(230, 230, 235, 255))
+    d.rounded_rectangle((cx - 90, cy + 325, cx + 90, cy + 350), radius=10, fill=(230, 230, 235, 255))
+    for _ in range(rng.randint(4, 6)):
+        nx = rng.choice([rng.randint(60, cx - 180), rng.randint(cx + 180, W - 60)]) if 240 < cx < 840 else rng.randint(60, W - 60)
+        ny, s = rng.randint(120, 600), rng.uniform(0.7, 1.3)
+        col = rng.choice([YELLOW, (255, 120, 220), (120, 255, 220)]) + (255,)
+        d.ellipse((nx - 28 * s, ny - 20 * s, nx + 28 * s, ny + 20 * s), fill=col)
+        d.rectangle((nx + 20 * s, ny - 110 * s, nx + 28 * s, ny), fill=col)
+        d.polygon([(nx + 20 * s, ny - 110 * s), (nx + 70 * s, ny - 80 * s), (nx + 70 * s, ny - 60 * s), (nx + 28 * s, ny - 88 * s)], fill=col)
+    return _glow(img, L, blur=26)
+
+
+def hospital(rng):
+    """hospital building + ambulance light - doctors, hospitals, strikes, health system"""
+    img, _ = _bg(rng, ["sky", "slate", "teal"])
+    L = _new(); d = ImageDraw.Draw(L)
+    cx = _side(rng)
+    top = rng.randint(220, 280)
+    d.rectangle((cx - 230, top, cx + 230, 780), fill=(225, 230, 238, 255))
+    for row in range(4):
+        for colm in range(5):
+            x0, y0 = cx - 200 + colm * 85, top + 130 + row * 100
+            d.rectangle((x0, y0, x0 + 50, y0 + 60), fill=rng.choice([(90, 150, 210), (255, 220, 120)]) + (255,))
+    d.rectangle((cx - 60, top - 120, cx + 60, top + 10), fill=(255, 255, 255, 255))
+    d.rectangle((cx - 15, top - 105, cx + 15, top - 5), fill=(230, 40, 50, 255))
+    d.rectangle((cx - 50, top - 70, cx + 50, top - 40), fill=(230, 40, 50, 255))
+    return _glow(img, L, blur=22)
+
+
+def virus(rng):
+    """virus particles - outbreaks, disease, dengue, polio, plague"""
+    img, _ = _bg(rng, ["green", "olive", "maroon", "teal"])
+    L = _new(); d = ImageDraw.Draw(L)
+    col = rng.choice([(120, 255, 120), (255, 90, 90), (255, 200, 60)])
+    for i in range(rng.randint(3, 5)):
+        cx, cy = rng.randint(120, W - 120), rng.randint(140, 620)
+        r = rng.randint(110, 170) if i == 0 else rng.randint(40, 80)
+        for k in range(12):
+            a = k * math.pi / 6
+            x1, y1 = cx + r * math.cos(a), cy + r * math.sin(a)
+            x2, y2 = cx + (r + r * 0.4) * math.cos(a), cy + (r + r * 0.4) * math.sin(a)
+            d.line([(x1, y1), (x2, y2)], fill=col + (255,), width=max(4, r // 14))
+            d.ellipse((x2 - r * 0.12, y2 - r * 0.12, x2 + r * 0.12, y2 + r * 0.12), fill=col + (255,))
+        d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=col + (220,))
+    return _glow(img, L, blur=30)
+
+
+def prison(rng):
+    """jail bars - prisons, jails, inmates, arrests"""
+    img, _ = _bg(rng, ["slate", "navy", "amber"])
+    L = _new(); d = ImageDraw.Draw(L)
+    x0, x1 = rng.randint(120, 260), rng.randint(820, 960)
+    d.rectangle((x0 - 20, 120, x1 + 20, 150), fill=(170, 175, 185, 255))
+    d.rectangle((x0 - 20, 680, x1 + 20, 710), fill=(170, 175, 185, 255))
+    n = rng.randint(6, 8)
+    for i in range(n):
+        x = x0 + i * (x1 - x0) / (n - 1)
+        d.rounded_rectangle((x - 14, 150, x + 14, 680), radius=10, fill=(200, 205, 215, 255))
+    lx, ly = rng.randint(x0 + 80, x1 - 80), rng.randint(380, 460)
+    d.arc((lx - 40, ly - 80, lx + 40, ly), 180, 360, fill=YELLOW + (255,), width=14)
+    d.rounded_rectangle((lx - 60, ly - 30, lx + 60, ly + 70), radius=12, fill=YELLOW + (255,))
+    return _glow(img, L, blur=24)
+
+
 SCENES = {f.__name__: f for f in [tribute, gold, fuel, electricity, currency, tax, people, heat, wind, rain, cricket, health,
                                   education, police, government, world, aviation, animal, tech, water, trade,
-                                  general, entertainment]}
+                                  general, entertainment, ribbon, cinema, music, hospital, virus, prison]}
 
 # old "theme" names -> scenes that fit them (first = best fit)
 THEME_SCENES = {
@@ -601,7 +720,8 @@ THEME_SCENES = {
     "sports": ["cricket"],
     "tech": ["tech"],
     "general": ["general", "government", "world", "people"],
-    "entertainment": ["entertainment"],
+    "entertainment": ["entertainment", "cinema", "music"],
+    "health": ["health", "hospital", "virus", "ribbon"],
 }
 
 
@@ -617,6 +737,19 @@ def recent_scenes(repo_root, n=4):
                 pass
     items.sort(key=lambda x: str(x.get("published") or x.get("publish_time") or x.get("date") or "").replace("T", " ")[:16])
     return [x.get("scene") or x.get("theme") for x in items[-n:]]
+
+
+def today_scenes(repo_root, today):
+    """scenes already used on `today` (YYYY-MM-DD) in news + star + tribute logs."""
+    used = []
+    for f in ("posted_log.json", "celebrity_log.json", "tribute_log.json"):
+        p = os.path.join(repo_root, f)
+        if os.path.exists(p):
+            try:
+                used += [x.get("scene") for x in json.load(open(p)) if isinstance(x, dict) and str(x.get("date", "")).startswith(today)]
+            except Exception:
+                pass
+    return [u for u in used if u]
 
 
 def render(scene, seed=None):

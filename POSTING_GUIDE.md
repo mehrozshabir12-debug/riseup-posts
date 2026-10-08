@@ -16,7 +16,7 @@ Language: Roman Urdu or English captions (see Caption language). Audience: Pakis
 3. For each story write a config JSON for `template/make_post.py`:
    - `scene` (NOT `theme`): pick the scene that fits the story best — gold, fuel, electricity, currency, tax, people,
      heat, wind, rain, cricket, health, education, police, government, world, aviation, animal, tech, water, trade,
-     general, entertainment. See "Image variety" below.
+     general, entertainment, tribute, ribbon, cinema, music, hospital, virus, prison. See "Image variety" below.
    - `line1` (yellow bar, 2–4 words), `line2` (big white, 2–4 words), `sub` (white, ~6–9 words), `sub_hl` (yellow tail, 1–3 words), `tag` (e.g. "Official finance update")
    Render: `python3 template/make_post.py cfg.json posts/YYYY-MM-DD-slug.jpg`. Look at the image; fix overflow.
 4. Commit and push the images + updated `posted_log.json` to `main`.
@@ -27,15 +27,26 @@ Language: Roman Urdu or English captions (see Caption language). Audience: Pakis
    Caption: emoji + headline, 2–4 short lines/bullets of facts in own words, "Source: <outlet>", 6–8 hashtags starting with #RiseUpPakistan.
 6. Never open, read or send the user's emails.
 
-## Image variety (no repeated look)
-The owner does not want posts that look the same. Rules:
-- Use `scene` in the config. Each scene is drawn with a random seed, so colours, layout and details change every render.
-- Never use the same scene as any of the last 3 posts (news + star posts). make_post.py prints a WARNING if you do —
-  then pick the next-best fitting scene (e.g. economy story: currency / tax / trade / people / gold / government;
-  weather: rain / wind / heat / water; energy: electricity / fuel; international: world / aviation / trade).
-- Only when the story truly needs it (e.g. two gold-price posts) may a scene repeat, and then not back-to-back.
-- Look at the rendered image and the previous post's image side by side; if they look alike, re-render.
-- Log the `scene` and `seed` that make_post.py prints in posted_log.json / celebrity_log.json for every post.
+## Image variety (no repeated look) — OWNER'S STRICT RULE
+The owner has complained twice (8 Oct 2026) about repeated images: one coins/chart image on 3 posts, the
+star/spotlight image on 3 showbiz posts (Pinktober, Nana Patekar legacy, Asim Azhar's dad), the red cross on 2 health posts.
+Rules:
+- A scene may be used ONLY ONCE PER DAY across all posts (news, star, tribute). make_post.py prints
+  "ALREADY USED TODAY" if you break this — then pick another scene. No exceptions, not even for similar stories.
+- The picture must show what the story is about, not just its category:
+  - Pinktober / breast cancer / awareness days → ribbon
+  - films, dramas, actors' careers, film legacy → cinema
+  - songs, singers, Coke Studio, concerts, dance to a song → music
+  - celebrity award / general fame story → entertainment (only one per day)
+  - deaths / condolence → tribute
+  - doctors, hospitals, strikes, health system → hospital; outbreaks, dengue, polio, plague → virus; general health → health
+  - jails, inmates, arrests → prison; crime / law and order → police
+  - economy: gold, currency, tax, trade, people, government (each only once a day)
+  - weather: rain / wind / heat / water; energy: electricity / fuel; international: world / aviation / trade
+- If every fitting scene is already used today, use a real photo from the source (`photo` in the config, if it is
+  licensed for reuse) or `general` with a clearly different palette — never a repeat.
+- Look at the rendered image next to today's earlier images; if any look alike, re-render with another scene.
+- Log the `scene` and `seed` that make_post.py prints in posted_log.json / celebrity_log.json / tribute_log.json for every post.
 
 ## Music on Instagram and TikTok (more reach)
 Schedule each story as TWO Metricool posts at the same time:

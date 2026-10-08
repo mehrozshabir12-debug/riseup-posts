@@ -86,6 +86,10 @@ def render(cfg, out):
             opts = scenes.THEME_SCENES.get(cfg.get("theme", "general"), ["general"])
             fresh = [o for o in opts if o not in recent]
             scene = (fresh or opts)[0]
+        import datetime as _dt
+        _today = (_dt.datetime.utcnow() + _dt.timedelta(hours=5)).strftime("%Y-%m-%d")
+        if scene in scenes.today_scenes(os.path.dirname(HERE), _today):
+            print(f"WARNING: scene '{scene}' was ALREADY USED TODAY - owner rule: pick a different scene that fits the story")
         if scene in recent[-3:]:
             print(f"WARNING: scene '{scene}' was used in the last 3 posts {recent[-3:]} - pick another if it fits")
         seed = cfg.get("seed") or _r.randrange(10**9)
