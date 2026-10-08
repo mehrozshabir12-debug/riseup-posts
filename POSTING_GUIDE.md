@@ -111,6 +111,10 @@ Express Tribune, ARY, Samaa, etc.) confirm it, make on that same day — only on
    "<Name> ki aap ki pasandeeda film kaun si hai?".
    Never use the actor's real voice, film dialogue audio, film clips or photos (copyright) and never draw him/her.
    Instagram music: a calm/emotional instrumental, never an upbeat track.
+   If the owner wants the actor's film dialogue/voice: make a copy without sound
+   (`ffmpeg -i X.mp4 -f lavfi -i anullsrc=r=44100:cl=stereo -map 0:v -map 1:a -c:v copy -c:a aac -shortest X-nosound.mp4`)
+   and schedule the Reel with `"autoPublish": false` and no audioConfiguration, so the owner adds the sound from the
+   platform's own sound library in the app. Never download or rip film audio ourselves.
 Schedule: post 1 about 10 min from now, the Reel 30 min later, post 2 30 min after that (within posting hours).
 Each to facebook + instagram + tiktok (images: facebook+tiktok photo with autoAddMusic true, instagram as POST;
 Reel: facebook REEL + instagram REEL + tiktok), plus facebook + instagram STORY for both images. Captions respectful,
