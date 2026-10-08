@@ -127,7 +127,9 @@
     "video": "posts/2026-10-08-rawalpindi-muddy-water.mp4",
     "story": "posts/2026-10-08-rawalpindi-muddy-water-story.jpg",
     "scene": "water",
-    "seed": 864289147
+    "seed": 864289147,
+    "music": "Head In The Clouds - Sugartapes",
+    "scheduled": "2026-10-08 19:06 PKT"
   },
   {
     "date": "2026-10-08",
@@ -139,6 +141,8 @@
     "video": "posts/2026-10-08-plague-risk-low.mp4",
     "story": "posts/2026-10-08-plague-risk-low-story.jpg",
     "scene": "health",
-    "seed": 776387427
+    "seed": 776387427,
+    "music": "Hold The Moment - Giulio Cercato",
+    "scheduled": "2026-10-08 19:36 PKT"
   }
 ]
