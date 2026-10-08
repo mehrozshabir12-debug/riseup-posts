@@ -118,6 +118,46 @@ def piano(n, rng, mood, sad=False):
     return out + _lp(rev, 3000) * 0.6
 
 
+def sad_music(n, rng):
+    """mournful: slow minor piano melody over a soft string pad (Am - F - Dm - E), long reverb."""
+    out = np.zeros(n)
+    chords = [[57, 60, 64], [53, 57, 60], [50, 53, 57], [52, 56, 59]]   # Am F Dm E (low, warm)
+    bar = 6.0
+    t_all = np.arange(n) / SR
+    # string pad: detuned saws, low-passed, slow swell per chord
+    pad = np.zeros(n)
+    for b in range(int(n / (bar * SR)) + 1):
+        ch = chords[b % 4]; st = int(b * bar * SR); m = min(n - st, int((bar + 1.5) * SR))
+        if m <= 0:
+            break
+        t = np.arange(m) / SR
+        env = np.minimum(1, t / 2.2) * np.minimum(1, np.maximum(0, (bar + 1.5 - t) / 1.5))
+        seg = np.zeros(m)
+        for midi in ch:
+            f = 440 * 2 ** ((midi - 69) / 12)
+            for det in (-0.25, 0.0, 0.25):
+                ph = 2 * np.pi * f * (1 + det / 100) * t
+                seg += (np.sin(ph) + 0.4 * np.sin(2 * ph) + 0.15 * np.sin(3 * ph))
+        pad[st:st + m] += seg * env * 0.012
+    pad = _lp(pad, 1400)
+    # piano melody: sparse notes from the chord, mostly falling
+    pos = int(1.0 * SR); i = 0
+    while pos < n - SR:
+        b = int(pos / (bar * SR)); ch = chords[b % 4]
+        midi = rng.choice(ch) + 12 + rng.choice([0, 0, 0, 12 if i % 7 == 3 else 0])
+        f = 440 * 2 ** ((midi - 69) / 12)
+        m = int(4.0 * SR); t = np.arange(m) / SR
+        tone = (np.sin(2 * np.pi * f * t) + 0.3 * np.sin(4 * np.pi * f * t) + 0.08 * np.sin(6 * np.pi * f * t))
+        tone *= np.exp(-t * 1.1) * (1 - np.exp(-t * 200))
+        end = min(n, pos + m); out[pos:end] += tone[:end - pos] * rng.uniform(0.035, 0.05)
+        pos += int(SR * rng.choice([1.5, 1.5, 3.0])); i += 1
+    mix = out + pad
+    rev = np.zeros(n)
+    for d, g in [(0.043, 0.55), (0.071, 0.45), (0.109, 0.38), (0.163, 0.3), (0.241, 0.24), (0.337, 0.18), (0.461, 0.12)]:
+        k = int(d * SR); rev[k:] += mix[:-k] * g
+    return mix + _lp(rev, 2200) * 0.7
+
+
 def make_audio(path, seconds, mood, seed=None, sad=False):
     rng = random.Random(seed)
     np.random.seed(rng.randint(0, 2**31 - 1))
@@ -128,13 +168,13 @@ def make_audio(path, seconds, mood, seed=None, sad=False):
         standard_normal = staticmethod(lambda k: nrng.standard_normal(k))
         def __getattr__(self, a): return getattr(rng, a)
     r = R()
-    mix = piano(n, rng, mood, sad)
+    mix = sad_music(n, rng) if sad else piano(n, rng, mood)
     if mood == "rain":
         mix += rain(n, r) + thunder(n, rng) + wind(n, r, 0.6)
     elif mood == "night":
         mix += crickets(n, rng) + wind(n, r, 0.4)
     elif sad:
-        mix += wind(n, r, 0.5) + leaves(n, r)
+        mix += wind(n, r, 0.25)
     else:
         mix += wind(n, r) + leaves(n, r) + birds(n, rng, int(seconds / (2.5 if mood in ("day", "spring") else 5)))
     mix *= _env(n, 1.0, 2.0)

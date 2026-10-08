@@ -307,17 +307,17 @@ def para_layer(cfg, text, i, n):
 
 def outro_layer(cfg):
     L = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
-    y = yellow_line1(d, "Aap ki raye?", TEXT_TOP)
+    y = yellow_line1(d, cfg.get("outro_label", "Aap ki raye?"), TEXT_TOP)
     q = cfg.get("question", "Aap ka kya khayal hai?")
     size = 72
     while size > 48:  # keep the source line clear of the icons
         td = ImageDraw.Draw(Image.new("RGBA", (W, H)))
-        yy = sub_text(td, "Comment mein batayein aur **Follow karein**", sub_text(td, q, y, size) + 6)
+        yy = sub_text(td, cfg.get("outro_cta", "Comment mein batayein aur **Follow karein**"), sub_text(td, q, y, size) + 6)
         if yy + 18 + 26 + 50 < H - 120:
             break
         size -= 6
     y = sub_text(d, q, y, size)
-    y = sub_text(d, "Comment mein batayein aur **Follow karein**", y + 6)
+    y = sub_text(d, cfg.get("outro_cta", "Comment mein batayein aur **Follow karein**"), y + 6)
     rule_tag(d, y, ("Source: " + cfg["source"]) if cfg.get("source") else "")
     return L
 
