@@ -116,5 +116,29 @@
     "seed": 515024,
     "music": "Cinematic Trip Downtown - Mark David Lee",
     "scheduled": "2026-10-08 18:40 PKT"
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Several Rawalpindi filtration plants supplying muddy water",
+    "source": "https://propakistani.pk/2026/10/08/several-filtration-plants-in-rawalpindi-supply-muddy-water",
+    "published": "2026-10-08 17:07 PKT",
+    "language": "Roman Urdu",
+    "image": "posts/2026-10-08-rawalpindi-muddy-water.jpg",
+    "video": "posts/2026-10-08-rawalpindi-muddy-water.mp4",
+    "story": "posts/2026-10-08-rawalpindi-muddy-water-story.jpg",
+    "scene": "water",
+    "seed": 864289147
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Health minister says plague risk in Pakistan very low after suspected Siberia case",
+    "source": "https://geo.tv/latest/685621-health-minister-says-plague-risk-in-pakistan-very-low-after-suspected-siberia-case",
+    "published": "2026-10-08 18:28 PKT",
+    "language": "English",
+    "image": "posts/2026-10-08-plague-risk-low.jpg",
+    "video": "posts/2026-10-08-plague-risk-low.mp4",
+    "story": "posts/2026-10-08-plague-risk-low-story.jpg",
+    "scene": "health",
+    "seed": 776387427
   }
 ]
