@@ -144,5 +144,29 @@
     "seed": 776387427,
     "music": "Hold The Moment - Giulio Cercato",
     "scheduled": "2026-10-08 19:36 PKT"
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Sahibzada Farhan to lead Pakistan as new T20I captain in Sri Lanka series starting tomorrow in Rawalpindi",
+    "source": "https://www.dawn.com/news/2035707/pakistan-seek-to-move-beyond-dependence-on-stars-under-sahibzada-farhans-t20i-captaincy",
+    "published": "2026-10-08 19:34 PKT",
+    "language": "Roman Urdu",
+    "image": "posts/2026-10-08-farhan-captain-sl-series.jpg",
+    "video": "posts/2026-10-08-farhan-captain-sl-series.mp4",
+    "story": "posts/2026-10-08-farhan-captain-sl-series-story.jpg",
+    "scene": "cricket",
+    "seed": 235146845
+  },
+  {
+    "date": "2026-10-08",
+    "headline": "Information ministry rejects NYT report on PAF jets used against Houthis as fake",
+    "source": "https://tribune.com.pk/story/2633712/information-ministry-rubbishes-nyt-report-claiming-use-of-paf-aircraft-against-houthis",
+    "published": "2026-10-08 19:53 PKT",
+    "language": "English",
+    "image": "posts/2026-10-08-nyt-paf-report-rejected.jpg",
+    "video": "posts/2026-10-08-nyt-paf-report-rejected.mp4",
+    "story": "posts/2026-10-08-nyt-paf-report-rejected-story.jpg",
+    "scene": "government",
+    "seed": 736078754
   }
 ]
