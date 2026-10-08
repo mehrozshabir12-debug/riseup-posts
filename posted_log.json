@@ -71,7 +71,9 @@
     "video": "posts/2026-10-08-ev-target-early.mp4",
     "story": "posts/2026-10-08-ev-target-early-story.jpg",
     "scene": "fuel",
-    "seed": 840539099
+    "seed": 840539099,
+    "music": "Shoreline (Instrumental) - Giulio Cercato",
+    "scheduled": "2026-10-08 17:05 PKT"
   },
   {
     "date": "2026-10-08",
@@ -83,6 +85,8 @@
     "video": "posts/2026-10-08-pia-fleet-airbus.mp4",
     "story": "posts/2026-10-08-pia-fleet-airbus-story.jpg",
     "scene": "aviation",
-    "seed": 49000985
+    "seed": 49000985,
+    "music": "Home - Giulio Cercato",
+    "scheduled": "2026-10-08 17:35 PKT"
   }
 ]
