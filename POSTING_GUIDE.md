@@ -49,6 +49,17 @@ Schedule each story as TWO Metricool posts at the same time:
   If Metricool rejects it with a list of candidates, retry once with the first candidate's numeric id. If audio
   still fails, schedule the Reel without audioConfiguration rather than skipping the post.
 
+## Stories on Instagram and Facebook (every news post)
+Each news story ALSO goes to Stories, at the same time as its posts:
+- Make the story image: `python3 template/make_story.py posts/<file>.jpg posts/<file>-story.jpg` (1080x1920), look at it,
+  commit it with the post files.
+- Schedule ONE extra Metricool post: providers facebook + instagram, media = raw URL of the -story.jpg,
+  facebookData {type: STORY}, instagramData {type: STORY, isAiGenerated: false}, NO text (stories have no caption),
+  autoPublish true, same date/time as the story's feed post.
+- TikTok has no Stories through Metricool, so TikTok gets only the normal photo post.
+- If Metricool rejects the Story (plan/post limit or account type), still keep the feed posts and report it.
+- Star posts (manual-photo mode) do NOT get an automatic Story.
+
 ## Caption language: mix of Roman Urdu and English (for reach)
 Decide per story:
 - **Roman Urdu** for stories that touch ordinary people's pockets and daily life, or are emotional / viral:
