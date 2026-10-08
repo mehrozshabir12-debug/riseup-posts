@@ -12,6 +12,14 @@
       "posts/2026-10-08-nana-patekar-dies.jpg",
       "posts/2026-10-08-nana-patekar-legacy.jpg",
       "posts/2026-10-08-nana-patekar-anime.mp4"
-    ]
+    ],
+    "scheduled": {
+      "post1": "2026-10-08 20:50",
+      "reel": "2026-10-08 21:20",
+      "post2": "2026-10-08 21:50"
+    },
+    "reel_mood": "sunset",
+    "reel_seed": 874425992,
+    "music_instagram": "Peaceful Piano - Dr. Pheel"
   }
 ]
