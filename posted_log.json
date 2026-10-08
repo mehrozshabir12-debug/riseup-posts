@@ -155,7 +155,9 @@
     "video": "posts/2026-10-08-farhan-captain-sl-series.mp4",
     "story": "posts/2026-10-08-farhan-captain-sl-series-story.jpg",
     "scene": "cricket",
-    "seed": 235146845
+    "seed": 235146845,
+    "music": "Olympian Stadium - Cameron Rasmussen",
+    "scheduled": "2026-10-08 20:07 PKT"
   },
   {
     "date": "2026-10-08",
@@ -167,6 +169,8 @@
     "video": "posts/2026-10-08-nyt-paf-report-rejected.mp4",
     "story": "posts/2026-10-08-nyt-paf-report-rejected-story.jpg",
     "scene": "government",
-    "seed": 736078754
+    "seed": 736078754,
+    "music": "Big Screen Blockbuster - Global Genius",
+    "scheduled": "2026-10-08 20:37 PKT"
   }
 ]
