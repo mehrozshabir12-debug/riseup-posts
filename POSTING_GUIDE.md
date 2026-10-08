@@ -96,6 +96,15 @@ makes it). The anime story still counts as one of the 15 news stories.
    `"audioConfiguration": {"audioId": ..., "audioVolume": 100, "videoVolume": 35}` so the nature sound stays softly
    underneath; TikTok `autoAddMusic: false` (the video already has sound); Facebook as is.
 
+## Reach rules (owner's main goal: maximum reach)
+- Hook first: `line1` must be a 2-4 word hook that makes people stop (e.g. "Petrol Phir Mehnga", "Barish Alert",
+  "Bari Khabar") — never a dull label. The first 2 seconds of every Reel show it.
+- Anime videos: aim for 25-40 s (3-4 short paragraphs); shorter videos get watched to the end, which drives reach.
+- Music: trending track that fits the mood (see Music section) on Instagram; never the same track twice in a day.
+- Captions: first line = the hook + emoji, then facts; end with a question so people comment; 6-8 relevant
+  hashtags incl. #RiseUpPakistan and 1-2 broad ones (#Pakistan, #PakistanNews) — no hashtag stuffing.
+- Prefer stories people share: prices/bills, weather, cricket, jobs, viral human stories.
+
 ## Caption language: mix of Roman Urdu and English (for reach)
 Decide per story:
 - **Roman Urdu** for stories that touch ordinary people's pockets and daily life, or are emotional / viral:
