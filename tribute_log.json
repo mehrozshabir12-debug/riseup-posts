@@ -10,8 +10,8 @@
     "published": "2026-10-08 08:13 PKT",
     "files": [
       "posts/2026-10-08-nana-patekar-dies.jpg",
-      "posts/2026-10-08-nana-patekar-legacy.jpg",
-      "posts/2026-10-08-nana-patekar-anime.mp4"
+      "posts/2026-10-08-nana-patekar-legacy-en.jpg",
+      "posts/2026-10-08-nana-patekar-anime-en.mp4"
     ],
     "scheduled": {
       "post1": "2026-10-08 20:50",
@@ -20,6 +20,7 @@
     },
     "reel_mood": "sunset",
     "reel_seed": 874425992,
-    "music_instagram": "Peaceful Piano - Dr. Pheel"
+    "music_instagram": "own mournful score (no Instagram track)",
+    "language": "English (post 1 Roman Urdu, already published)"
   }
 ]

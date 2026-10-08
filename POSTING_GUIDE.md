@@ -106,11 +106,10 @@ Express Tribune, ARY, Samaa, etc.) confirm it, make on that same day — only on
 1. **Post 1 (news):** scene `tribute` (candle). Hook like "Bollywood Mein Sog" / "Lollywood Mein Sog", name, cause/age
    only as reported.
 2. **Post 2 (legacy):** a different scene (e.g. `entertainment`): career span, famous films, awards — facts from the sources.
-3. **Reel:** anime Reel with `"sad": true` (slow minor-key piano, no birds), mood sunset or night, 3-4 paragraphs
+3. **Reel:** anime Reel with `"sad": true` (mournful minor piano + soft strings, no birds; no extra Instagram track), mood sunset or night, 3-4 paragraphs
    (death as reported, career start, famous work/awards, the role people remember most), question like
    "<Name> ki aap ki pasandeeda film kaun si hai?".
    Never use the actor's real voice, film dialogue audio, film clips or photos (copyright) and never draw him/her.
-   Instagram music: a calm/emotional instrumental, never an upbeat track.
    If the owner wants the actor's film dialogue/voice: make a copy without sound
    (`ffmpeg -i X.mp4 -f lavfi -i anullsrc=r=44100:cl=stereo -map 0:v -map 1:a -c:v copy -c:a aac -shortest X-nosound.mp4`)
    and schedule the Reel with `"autoPublish": false` and no audioConfiguration, so the owner adds the sound from the
@@ -118,7 +117,8 @@ Express Tribune, ARY, Samaa, etc.) confirm it, make on that same day — only on
 Schedule: post 1 about 10 min from now, the Reel 30 min later, post 2 30 min after that (within posting hours).
 Each to facebook + instagram + tiktok (images: facebook+tiktok photo with autoAddMusic true, instagram as POST;
 Reel: facebook REEL + instagram REEL + tiktok), plus facebook + instagram STORY for both images. Captions respectful,
-mostly Roman Urdu, "Source: <outlets>", hashtags #RiseUpPakistan #RIP<Name> etc. NEVER joke, never speculate.
+in ENGLISH (owner's choice for death news: reel text, images and captions all English; anime cfg
+`outro_label: "Your Thoughts?"`, `outro_cta: "Tell us in the comments and **Follow us**"`), "Source: <outlets>", hashtags #RiseUpPakistan #RIP<Name> etc. NEVER joke, never speculate.
 These do NOT count toward the 15 news posts or the 3 anime Reels. Log them in tribute_log.json
 (date, person, sources, files, scheduled times).
 
