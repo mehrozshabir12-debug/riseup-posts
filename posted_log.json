@@ -99,7 +99,9 @@
     "video": "posts/2026-10-08-jpmc-doctors-unpaid.mp4",
     "story": "posts/2026-10-08-jpmc-doctors-unpaid-story.jpg",
     "scene": "health",
-    "seed": 750548110
+    "seed": 750548110,
+    "music": "New Horizons - Giulio Cercato",
+    "scheduled": "2026-10-08 18:10 PKT"
   },
   {
     "date": "2026-10-08",
@@ -111,6 +113,8 @@
     "video": "posts/2026-10-08-prisons-overcrowded.mp4",
     "story": "posts/2026-10-08-prisons-overcrowded-story.jpg",
     "scene": "police",
-    "seed": 515024
+    "seed": 515024,
+    "music": "Cinematic Trip Downtown - Mark David Lee",
+    "scheduled": "2026-10-08 18:40 PKT"
   }
 ]
