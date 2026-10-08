@@ -5,8 +5,12 @@ Language: English captions. Audience: Pakistan. Timezone for scheduling: Asia/Ka
 
 ## Each run
 1. Read `posted_log.json` so no story is repeated (same event = skip, even from another outlet).
-2. Find fresh Pakistan news from the last 24 hours (WebSearch / WebFetch). Prefer reliable outlets:
-   Dawn, The Express Tribune, Geo, The News, Business Recorder, APP, Radio Pakistan, ARY, The Nation, ProPakistani.
+2. Find the most TRENDING Pakistan news of the last 12–24 hours — stories most people are talking about and will
+   share (goal: maximum views and followers). Check what several outlets are all covering at once. Sources:
+   BBC Urdu/BBC News, Dawn, Geo News, ARY News, Bol News, Samaa, Express Tribune, The News, Dunya News, 92 News,
+   Sky News, Al Jazeera, Reuters, Business Recorder, APP, Radio Pakistan, ProPakistani, The Nation.
+   Strong performers: cricket/PSL, petrol & electricity prices, gold & dollar rates, weather alerts, big government
+   decisions, public holidays, jobs/education, viral national stories. Do 5 posts per run, best story first.
    Mix topics: economy, weather, energy, water, sports, tech, national, education, health.
    Avoid unverified rumours, graphic violence, and one-sided political attacks. Every number must come from the source.
 3. For each story write a config JSON for `template/make_post.py`:
