@@ -96,6 +96,14 @@ makes it). The anime story still counts as one of the 15 news stories.
    `"audioConfiguration": {"audioId": ..., "audioVolume": 100, "videoVolume": 35}` so the nature sound stays softly
    underneath; TikTok `autoAddMusic: false` (the video already has sound); Facebook as is.
 
+## TikTok daily limit (IMPORTANT)
+TikTok blocks auto-posting after too many API posts in 24 h (error 40016, seen on 8 Oct 2026 after ~20 posts).
+So TikTok gets at most 8 automatic posts per day: the 3 anime Reels first, then the 5 strongest news stories
+(prices/bills, weather, cricket, viral). Log `"tiktok": true` for each one and count today's before adding TikTok.
+Every other story goes to Facebook + Instagram only (drop "tiktok" from providers). Tribute Reels go to TikTok
+as a separate post with `"autoPublish": false` (owner publishes from the app, which is not limited).
+If Metricool shows error 40016 anyway, stop adding TikTok for the rest of the day and mention it in the report.
+
 ## Posting hours
 All posts go out between 10:00 AM and 11:59 PM Pakistan time. Never schedule anything after 11:59 PM or before
 10:00 AM (at the last run of the day, post only what still fits before midnight).
