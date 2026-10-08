@@ -230,3 +230,28 @@ def tech():
 
 
 THEMES.update({"general": general, "sports": sports, "tech": tech})
+
+
+def entertainment():
+    img = _radial((110, 20, 90), (10, 2, 14), 540, 380, 600)
+    beams = Image.new("RGB", (W, H), (0, 0, 0))
+    d = ImageDraw.Draw(beams)
+    for x0, col in [(120, (255, 120, 220)), (540, (255, 221, 0)), (960, (120, 180, 255))]:
+        d.polygon([(x0 - 20, 0), (x0 + 20, 0), (540 + (x0 - 540) // 3 + 160, 800), (540 + (x0 - 540) // 3 - 160, 800)],
+                  fill=tuple(c // 3 for c in col))
+        d.ellipse((x0 - 28, -20, x0 + 28, 36), fill=col)
+    img = _glow(img, beams, blur=30, strength=2)
+    ov = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    o = ImageDraw.Draw(ov)
+    cx, cy, r, ri = 540, 400, 190, 80  # big star
+    pts = []
+    for i in range(10):
+        a = -math.pi / 2 + i * math.pi / 5
+        rr = r if i % 2 == 0 else ri
+        pts.append((cx + rr * math.cos(a), cy + rr * math.sin(a)))
+    o.polygon(pts, fill=(255, 221, 0, 255))
+    o.rectangle((0, 760, W, 840), fill=(40, 10, 40, 255))
+    return Image.alpha_composite(img.convert("RGBA"), ov).convert("RGB")
+
+
+THEMES["entertainment"] = entertainment

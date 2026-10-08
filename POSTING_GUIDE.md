@@ -47,3 +47,14 @@ Decide per story:
 Roughly half and half across the day. In both languages end the caption with a short question to get comments,
 e.g. Roman Urdu "Aap ka kya khayal hai? Comment mein batayein 👇" / English "What do you think? Tell us below 👇".
 The post IMAGE text stays in English (template). Keep "Source: <outlet>" and the hashtags.
+
+## Social media stars / celebrity posts (separate from the 15 news posts)
+2–3 per day, logged in `celebrity_log.json` (NOT posted_log.json, so they never count toward the 15 news cap).
+- Subjects: Pakistani social media stars, YouTubers, TikTokers, actors, singers, cricketers in the spotlight.
+- Only real, recent (last 24 h) updates reported by established outlets (Dawn Images, Express Tribune
+  Life & Style, Geo, ARY, Samaa, Bol, Dunya, BBC Urdu, Something Haute, Galaxy Lollywood) — new song/drama/film,
+  milestones, awards, weddings/births they announced themselves, public statements, viral moments.
+- Never: rumours, leaked/private content, insults or mockery, claims not in the source, anything about minors,
+  political attacks. Write neutrally and kindly.
+- Do NOT use photos of the person (copyright). Use theme `entertainment` (or `sports` for cricketers).
+- Captions mostly Roman Urdu, end with a question, "Source: <outlet>", hashtags starting #RiseUpPakistan.
