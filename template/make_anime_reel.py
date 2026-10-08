@@ -237,9 +237,16 @@ def sub_text(d, text, y, size=56, max_lines=None):
     asc = d.textbbox((0, 0), "Hg", font=fs, stroke_width=sws)
     lh = asc[3] - asc[1]; gap = 14
     sp = tw_(d, " ", fs, sws) + 4
+    # keep a highlighted phrase together on one line
+    groups = []
+    for wd, h in toks:
+        if h and groups and groups[-1][1]:
+            groups[-1] = (groups[-1][0] + " " + wd, True)
+        else:
+            groups.append((wd, h))
     x = MX
     lines = [[]]
-    for wd, h in toks:
+    for wd, h in groups:
         w = tw_(d, wd, fs, sws) + (30 if h else 0)
         if x > MX and x + w > MX + max_w:
             lines.append([]); x = MX
@@ -302,7 +309,14 @@ def outro_layer(cfg):
     L = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
     y = yellow_line1(d, "Aap ki raye?", TEXT_TOP)
     q = cfg.get("question", "Aap ka kya khayal hai?")
-    y = sub_text(d, q, y, 72)
+    size = 72
+    while size > 48:  # keep the source line clear of the icons
+        td = ImageDraw.Draw(Image.new("RGBA", (W, H)))
+        yy = sub_text(td, "Comment mein batayein aur **Follow karein**", sub_text(td, q, y, size) + 6)
+        if yy + 18 + 26 + 50 < H - 120:
+            break
+        size -= 6
+    y = sub_text(d, q, y, size)
     y = sub_text(d, "Comment mein batayein aur **Follow karein**", y + 6)
     rule_tag(d, y, ("Source: " + cfg["source"]) if cfg.get("source") else "")
     return L

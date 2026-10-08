@@ -1,7 +1,18 @@
-{"mood":"sunset","sad":true,"line1":"Bollywood Mein Sog","line2":"Nana Patekar Nahi Rahe","sub":"Veteran actor ka 75 saal ki umar mein","sub_hl":"inteqal","tag":"Tribute",
-"paragraphs":[
-"Bollywood ke veteran actor **Nana Patekar** Goa mein apne ghar par dil ka dora parne se **75 saal** ki umar mein inteqal kar gaye.",
-"Unhon ne **1978** mein film Gaman se safar shuru kiya aur 4 dahaiyon se zyada Hindi aur Marathi cinema mein kaam kiya.",
-"Parinda, Krantiveer, Agni Sakshi aur Ab Tak Chhappan ne unhein mazboot adakar banaya. **3 National Awards** aur **Padma Shri** unke naam rahe.",
-"Film Welcome mein **Uday Shetty** ka kirdar aaj bhi naujawan nasl mein bohot mashhoor hai."],
-"question":"Nana Patekar ki aap ki pasandeeda film kaun si hai?","source":"Dawn, The News"}
+{
+ "mood": "sunset",
+ "sad": true,
+ "line1": "Bollywood Mein Sog",
+ "line2": "Nana Patekar Nahi Rahe",
+ "sub": "Veteran actor ka 75 saal ki umar mein",
+ "sub_hl": "inteqal",
+ "tag": "Tribute",
+ "paragraphs": [
+  "Bollywood ke veteran actor **Nana Patekar** Goa mein apne ghar par dil ka dora parne se **75 saal** ki umar mein inteqal kar gaye.",
+  "Unhon ne **1978** mein film Gaman se safar shuru kiya aur 4 dahaiyon se zyada Hindi aur Marathi cinema mein kaam kiya.",
+  "Parinda, Krantiveer, Agni Sakshi aur Ab Tak Chhappan ne unhein mazboot adakar banaya. **3 National Awards** aur **Padma Shri** unke naam rahe.",
+  "Film Welcome mein **Uday Shetty** ka kirdar aaj bhi naujawan nasl mein bohot mashhoor hai."
+ ],
+ "question": "Nana Patekar ki aap ki pasandeeda film kaun si hai?",
+ "source": "Dawn, The News",
+ "seed": 874425992
+}
