@@ -24,3 +24,15 @@ Language: English captions. Audience: Pakistan. Timezone for scheduling: Asia/Ka
    tiktokData {privacyOption: PUBLIC_TO_EVERYONE, title: <headline>}, autoPublish true).
    Caption: emoji + headline, 2–4 short lines/bullets of facts in own words, "Source: <outlet>", 6–8 hashtags starting with #RiseUpPakistan.
 6. Never open, read or send the user's emails.
+
+## Music on Instagram and TikTok (more reach)
+Schedule each story as TWO Metricool posts at the same time:
+- **Facebook + TikTok** — the JPG image. tiktokData must include `"autoAddMusic": true` (TikTok adds a fitting
+  track to photo posts automatically).
+- **Instagram Reel** — make the video first: `python3 template/make_video.py posts/<file>.jpg posts/<file>.mp4`
+  (8 s, 1080x1920, slow zoom), commit it, use its raw.githubusercontent.com URL as media.
+  instagramData: `{"type": "REEL", "showReelOnFeed": true, "isAiGenerated": false,
+  "audioConfiguration": {"audioId": "<search term>", "audioVolume": 100, "videoVolume": 0}}`.
+  Pick the search term at random from upbeat, popular instrumental / news-background tracks (vary it every post).
+  If Metricool rejects it with a list of candidates, retry once with the first candidate's numeric id. If audio
+  still fails, schedule the Reel without audioConfiguration rather than skipping the post.
