@@ -2,16 +2,22 @@
 No AI service needed: the scene is painted procedurally (big summer clouds, hills, grass,
 houses, particles) and animated with parallax, so every video looks different.
 
+Text style matches the post template (yellow bar + big white + yellow highlight), no boxes.
+The story plays paragraph by paragraph; natural ambience + soft piano is synthesized (ambience.py).
+
 Usage: python3 make_anime_reel.py cfg.json out.mp4
-cfg: {"mood": "day|sunset|rain|night|spring", "line1": "...", "line2": "...", "sub": "...",
-      "tag": "...", "seed": 123 (optional)}
+cfg: {"mood": "day|sunset|rain|night|spring" (optional, random),
+      "line1": "yellow bar words", "line2": "big white headline", "sub": "white sub", "sub_hl": "yellow tail",
+      "paragraphs": ["short paragraph, **highlight** key numbers", ...]   (3-6, ~15-30 words each),
+      "question": "Aap ka kya khayal hai?", "source": "Dawn", "seed": 123 (optional)}
+Total length = 5 s intro + paragraphs (by word count) + 5 s outro, max 60 s.
 """
 import json, math, random, subprocess, sys, os
 from PIL import Image, ImageDraw, ImageFilter, ImageFont, ImageChops
 
 W, H = 1080, 1920
-FPS, DUR = 24, 9
-PAD = 260                      # extra width for the camera pan
+FPS = 24
+PAD = 420                      # extra width for the camera pan
 BW = W + PAD
 YELLOW = (255, 221, 0)
 BOLD = "/usr/share/fonts/truetype/google-fonts/Poppins-Bold.ttf"
@@ -136,56 +142,174 @@ def paper(rng):
     return n
 
 
-def wrap(d, text, f, max_w):
-    words, lines, cur = text.split(), [], ""
-    for w_ in words:
-        t = (cur + " " + w_).strip()
-        if d.textlength(t, font=f) <= max_w or not cur:
-            cur = t
-        else:
-            lines.append(cur); cur = w_
+REG = "/usr/share/fonts/truetype/google-fonts/Poppins-Regular.ttf"
+MX = 64
+
+
+def F(sz, bold=True):
+    return ImageFont.truetype(BOLD if bold else REG, sz)
+
+
+def shadowed(layer):
+    """soft dark shadow under all drawn text/shapes, so it reads on any scene (no box)."""
+    a = layer.split()[3]
+    sh = Image.new("RGBA", layer.size, (0, 0, 0, 0))
+    sh.putalpha(a.filter(ImageFilter.GaussianBlur(10)).point(lambda v: min(255, int(v * 1.6))))
+    sh2 = Image.new("RGBA", layer.size, (0, 0, 0, 0))
+    sh2.putalpha(a.filter(ImageFilter.GaussianBlur(3)).point(lambda v: min(255, int(v * 1.2))))
+    out = Image.alpha_composite(sh, sh2)
+    out = Image.alpha_composite(out, layer)
+    return out
+
+
+def rich_lines(d, text, f, max_w):
+    """split text into lines of (word, highlighted) tokens; **x y** = yellow highlight."""
+    toks, hl = [], False
+    for w_ in text.split():
+        start = w_.startswith("**"); end = w_.endswith("**") and len(w_) > 2 or (w_ == "**" and hl)
+        clean = w_.strip("*")
+        if start:
+            hl = True
+        toks.append((clean, hl))
+        if end:
+            hl = False
+    lines, cur, cw = [], [], 0
+    sp = d.textlength(" ", font=f)
+    for wd, h in toks:
+        ww = d.textlength(wd, font=f) + (24 if h else 0)
+        if cur and cw + sp + ww > max_w:
+            lines.append(cur); cur, cw = [], 0
+        cur.append((wd, h)); cw += (sp if cw else 0) + ww
     if cur:
         lines.append(cur)
     return lines
 
 
-def text_layer(cfg):
+def draw_rich(d, lines, f, x, y, lh, col=(255, 255, 255)):
+    sp = d.textlength(" ", font=f)
+    asc = d.textbbox((0, 0), "Hg", font=f)
+    for ln in lines:
+        cx = x
+        merged = []  # join neighbouring highlighted words into one yellow bar
+        for wd, h in ln:
+            if h and merged and merged[-1][1]:
+                merged[-1] = (merged[-1][0] + " " + wd, True)
+            else:
+                merged.append((wd, h))
+        for wd, h in merged:
+            tw = d.textlength(wd, font=f)
+            if h:
+                d.rounded_rectangle((cx, y + asc[1] - 8, cx + tw + 24, y + asc[3] + 10), radius=10, fill=YELLOW)
+                d.text((cx + 12, y), wd, font=f, fill=(0, 0, 0))
+                cx += tw + 24 + sp
+            else:
+                d.text((cx, y), wd, font=f, fill=col, stroke_width=1, stroke_fill=col)
+                cx += tw + sp
+        y += lh
+    return y
+
+
+def yellow_bar(d, text, f, x, y):
+    b = d.textbbox((0, 0), text, font=f)
+    d.rectangle((x, y, x + b[2] - b[0] + 36, y + b[3] - b[1] + 28), fill=YELLOW)
+    d.text((x + 18 - b[0], y + 14 - b[1]), text, font=f, fill=(0, 0, 0), stroke_width=1, stroke_fill=(0, 0, 0))
+    return y + b[3] - b[1] + 28
+
+
+def logo_layer():
     L = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    d = ImageDraw.Draw(L)
-    # logo
     logo = Image.open(os.path.join(HERE, "assets", "logo_white.png"))
-    lh = 100
+    lh = 104
     logo = logo.resize((round(logo.width * lh / logo.height), lh), Image.LANCZOS)
-    sh = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(sh).rounded_rectangle((40, 50, 60 + logo.width + 270, 170), radius=30, fill=(0, 0, 0, 110))
-    L = Image.alpha_composite(L, sh)
-    L.paste(logo, (60, 60), logo)
+    L.paste(logo, (MX, 70), logo)
     d = ImageDraw.Draw(L)
-    wf = ImageFont.truetype(BOLD, 36)
-    d.text((70 + logo.width, 66), "RISEUP", font=wf, fill="white")
-    d.text((70 + logo.width, 106), "PAKISTAN", font=wf, fill="white")
-    # bottom card
-    f1 = ImageFont.truetype(BOLD, 64); f2 = ImageFont.truetype(BOLD, 84); f3 = ImageFont.truetype(BOLD, 46)
-    l2 = wrap(d, cfg["line2"], f2, W - 140)
-    l3 = wrap(d, cfg.get("sub", ""), f3, W - 140)
-    hgt = 110 + len(l2) * 100 + len(l3) * 60 + 120
-    top = H - 140 - hgt
-    card = Image.new("RGBA", (W, H), (0, 0, 0, 0))
-    ImageDraw.Draw(card).rounded_rectangle((40, top, W - 40, H - 120), radius=40, fill=(10, 20, 30, 185))
-    L = Image.alpha_composite(L, card)
-    d = ImageDraw.Draw(L)
-    y = top + 40
-    tw = d.textlength(cfg["line1"], font=f1)
-    d.rounded_rectangle((70, y, 70 + tw + 40, y + 88), radius=16, fill=YELLOW)
-    d.text((90, y + 8), cfg["line1"], font=f1, fill="black")
-    y += 115
-    for ln in l2:
-        d.text((70, y), ln, font=f2, fill="white"); y += 100
-    for ln in l3:
-        d.text((70, y), ln, font=f3, fill=(235, 235, 235)); y += 60
-    if cfg.get("tag"):
-        d.text((70, y + 20), cfg["tag"], font=ImageFont.truetype(BOLD, 34), fill=YELLOW)
+    d.text((MX + logo.width + 14, 76), "RISEUP", font=F(38), fill="white")
+    d.text((MX + logo.width + 14, 118), "PAKISTAN", font=F(38), fill="white")
+    return shadowed(L)
+
+
+def bottom_shade():
+    """gentle gradient (not a box) to lift text readability on bright scenes."""
+    g = Image.new("L", (1, H), 0)
+    for y in range(H):
+        t = max(0.0, (y - H * 0.50) / (H * 0.50))
+        g.putpixel((0, y), int(120 * t ** 1.3))
+    L = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    L.putalpha(g.resize((W, H)))
     return L
+
+
+def intro_layer(cfg):
+    L = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
+    mw = W - 2 * MX
+    f2 = F(104)
+    while d.textlength(max(cfg["line2"].split(), key=len), font=f2) > mw and f2.size > 70:
+        f2 = F(f2.size - 4)
+    l2 = rich_lines(d, cfg["line2"], f2, mw)
+    sub = cfg.get("sub", "") + (" **" + cfg["sub_hl"] + "**" if cfg.get("sub_hl") else "")
+    l3 = rich_lines(d, sub, F(56), mw)
+    hgt = 120 + len(l2) * int(f2.size * 1.12) + 24 + len(l3) * 74
+    y = H - 230 - hgt
+    y = yellow_bar(d, cfg["line1"], F(78), MX, y) + 22
+    y = draw_rich(d, l2, f2, MX, y, int(f2.size * 1.12)) + 14
+    draw_rich(d, l3, F(56), MX, y, 74)
+    return shadowed(L)
+
+
+def para_layer(cfg, text, i, n):
+    L = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
+    mw = W - 2 * MX
+    f = F(60)
+    lines = rich_lines(d, text, f, mw)
+    while len(lines) > 7 and f.size > 46:
+        f = F(f.size - 4); lines = rich_lines(d, text, f, mw)
+    lh = int(f.size * 1.32)
+    hgt = 100 + len(lines) * lh
+    y = H - 260 - hgt
+    y = yellow_bar(d, cfg["line1"], F(46), MX, y) + 34
+    draw_rich(d, lines, f, MX, y, lh)
+    # progress dots
+    x = MX
+    for k in range(n):
+        w_ = 60 if k == i else 24
+        d.rounded_rectangle((x, H - 190, x + w_, H - 176), radius=7, fill=YELLOW if k == i else (255, 255, 255))
+        x += w_ + 16
+    return shadowed(L)
+
+
+def outro_layer(cfg):
+    L = Image.new("RGBA", (W, H), (0, 0, 0, 0)); d = ImageDraw.Draw(L)
+    mw = W - 2 * MX
+    q = rich_lines(d, cfg.get("question", "Aap ka kya khayal hai?"), F(80), mw)
+    y = H - 330 - len(q) * 96 - 120
+    y = draw_rich(d, q, F(80), MX, y, 96) + 10
+    y = draw_rich(d, rich_lines(d, "Comment mein batayein", F(52), mw), F(52), MX, y, 70) + 30
+    if cfg.get("source"):
+        y = yellow_bar(d, "Source: " + cfg["source"], F(44), MX, y) + 30
+    draw_rich(d, [[("Follow", False), ("RiseUp", True), ("Pakistan", True)]], F(52), MX, y, 70)
+    return shadowed(L)
+
+
+def build_segments(cfg):
+    segs = [("intro", 5.0, intro_layer(cfg))]
+    paras = cfg.get("paragraphs", [])
+    for i, p in enumerate(paras):
+        words = len(p.replace("**", "").split())
+        segs.append(("para", max(5.0, min(11.0, words / 2.6 + 1.8)), para_layer(cfg, p, i, len(paras))))
+    segs.append(("outro", 5.0, outro_layer(cfg)))
+    total = sum(s[1] for s in segs)
+    if total > 60:  # shrink paragraph time proportionally
+        k = (60 - 10) / (total - 10)
+        segs = [(a, b * k if a == "para" else b, c) for a, b, c in segs]
+    return segs
+
+
+def faded(layer, a, cache):
+    key = (id(layer), round(a, 2))
+    if key not in cache:
+        l2 = layer.copy(); l2.putalpha(layer.split()[3].point(lambda v: int(v * a)))
+        cache[key] = l2
+    return cache[key]
 
 
 def main():
@@ -238,36 +362,45 @@ def main():
     front_l = brush(front_l, rng, front_pts, [lerp(grass, (220, 240, 120), 0.4), lerp(grass, (10, 40, 10), 0.4), grass],
                     n=2600, rx=(6, 16), ry=(10, 30))
 
-    paper_tex = paper(rng)
-    txt = text_layer(cfg)
+    paper_rgb = Image.merge("RGB", [paper(rng).point(lambda v: 225 + v // 8)] * 3)
     particles = [[rng.uniform(0, W), rng.uniform(0, H), rng.uniform(1, 3), rng.uniform(0, 6)] for _ in range(70)]
     kind = {"rain": "rain", "night": "firefly", "spring": "petal"}.get(mood, rng.choice(["leaf", "petal", "none"]))
+    r2 = random.Random(seed + 1)
+    ys = {int(px): py for px, py in front_pts}
+    blades = [(r2.randint(0, W + PAD), r2.randint(10, 420), r2.randint(40, 120),
+               lerp(grass, (200, 230, 120), r2.uniform(0, 0.5))) for _ in range(320)]
+
+    segs = build_segments(cfg)
+    total = sum(s[1] for s in segs)
+    N = int(total * FPS)
+    starts, acc = [], 0.0
+    for s_ in segs:
+        starts.append(acc); acc += s_[1]
+    logo = logo_layer(); shade = bottom_shade(); cache = {}
+    FADE = 0.45
 
     tmp = out + "_frames"
     os.makedirs(tmp, exist_ok=True)
-    N = FPS * DUR
     for f in range(N):
-        t = f / (N - 1)
-        cam = int(PAD * t)                     # camera pans left->right
+        tsec = f / FPS
+        t = f / max(1, N - 1)
+        cam = int(PAD * t)
         frame = sky.crop((int(cam * 0.2), 0, int(cam * 0.2) + W, H)).copy()
         for img, x, y, sp in clouds:
-            frame.alpha_composite(img, (int(x + sp * f - cam * 0.3), int(y)))
+            xx = (x + sp * f * 0.6 - cam * 0.3)
+            xx = (xx + img.width) % (BW + img.width) - img.width   # wrap around for long videos
+            frame.alpha_composite(img, (int(xx), int(y)))
         frame.alpha_composite(far_l.crop((int(cam * 0.4), 0, int(cam * 0.4) + W, H)))
         frame.alpha_composite(mid_l.crop((int(cam * 0.7), 0, int(cam * 0.7) + W, H)))
-        fr = front_l.crop((cam, 0, cam + W, H))
-        frame.alpha_composite(fr)
-        # swaying grass blades
+        frame.alpha_composite(front_l.crop((cam, 0, cam + W, H)))
         gd = ImageDraw.Draw(frame)
-        r2 = random.Random(seed + 1)
-        for _ in range(320):
-            x = r2.randint(0, W); base = H
-            for px, py in front_pts:
-                if abs(px - cam - x) < 8:
-                    base = py; break
-            base += r2.randint(10, 400)
-            hgt = r2.randint(40, 120); sway = 10 * math.sin(f / 8 + x / 50)
-            gd.line([(x, base), (x + sway, base - hgt)], fill=lerp(grass, (200, 230, 120), r2.uniform(0, 0.5)) + (255,), width=4)
-        # particles
+        for bx, off, hgt, col in blades:
+            x = bx - cam
+            if not -10 < x < W + 10:
+                continue
+            base = ys.get(bx - bx % 8, H) + off
+            sway = 10 * math.sin(f / 8 + bx / 50)
+            gd.line([(x, base), (x + sway, base - hgt)], fill=col + (255,), width=4)
         for p in particles:
             if kind == "rain":
                 y = (p[1] + f * 38 * p[2] / 2) % H; x = (p[0] - f * 4) % W
@@ -278,30 +411,33 @@ def main():
                 gd.ellipse((x - 4, y - 4, x + 4, y + 4), fill=(255, 250, 150, a))
             elif kind in ("petal", "leaf"):
                 y = (p[1] + f * 3 * p[2]) % H; x = (p[0] + f * 2 + 30 * math.sin(f / 12 + p[3])) % W
-                col = (255, 190, 210) if kind == "petal" else (150, 200, 90)
-                gd.ellipse((x - 7, y - 4, x + 7, y + 4), fill=col + (220,))
-        rgb = frame.convert("RGB")
-        rgb = ImageChops.multiply(rgb, Image.merge("RGB", [paper_tex.point(lambda v: 225 + v // 8)] * 3))
-        rgb = rgb.convert("RGBA")
-        # text fades in during the first second
-        a = min(1.0, f / FPS)
-        if a < 1:
-            tl = txt.copy(); tl.putalpha(txt.split()[3].point(lambda v: int(v * a)))
-        else:
-            tl = txt
-        rgb.alpha_composite(tl)
-        rgb.convert("RGB").save(f"{tmp}/{f:04d}.jpg", quality=90)
+                c = (255, 190, 210) if kind == "petal" else (150, 200, 90)
+                gd.ellipse((x - 7, y - 4, x + 7, y + 4), fill=c + (220,))
+        rgb = ImageChops.multiply(frame.convert("RGB"), paper_rgb).convert("RGBA")
+        rgb.alpha_composite(shade)
+        rgb.alpha_composite(logo)
+        # current text segment with fade + slight rise
+        for (kind_s, dur, layer), st in zip(segs, starts):
+            if st <= tsec < st + dur:
+                local = tsec - st
+                a = min(1.0, local / FADE, (dur - local) / FADE) if kind_s != "outro" else min(1.0, local / FADE)
+                a = max(0.0, a)
+                rise = int(30 * (1 - min(1.0, local / FADE)))
+                if a > 0.01:
+                    rgb.alpha_composite(faded(layer, a, cache) if a < 1 else layer, (0, rise))
+        rgb.convert("RGB").save(f"{tmp}/{f:05d}.jpg", quality=88)
 
-    music = cfg.get("music")
-    cmd = ["ffmpeg", "-y", "-framerate", str(FPS), "-i", f"{tmp}/%04d.jpg"]
-    cmd += ["-f", "lavfi", "-i", "anullsrc=r=44100:cl=stereo"]
-    cmd += ["-map", "0:v", "-map", "1:a", "-t", str(DUR), "-c:v", "libx264", "-preset", "veryfast", "-crf", "20",
-            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "96k", "-movflags", "+faststart", out]
+    import ambience
+    wav = out + ".wav"
+    ambience.make_audio(wav, N / FPS, mood, seed)
+    cmd = ["ffmpeg", "-y", "-framerate", str(FPS), "-i", f"{tmp}/%05d.jpg", "-i", wav,
+           "-map", "0:v", "-map", "1:a", "-shortest", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
+           "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", out]
     subprocess.run(cmd, check=True, capture_output=True)
     for fn in os.listdir(tmp):
         os.remove(os.path.join(tmp, fn))
-    os.rmdir(tmp)
-    print(f"saved {out} mood={mood} seed={seed}")
+    os.rmdir(tmp); os.remove(wav)
+    print(f"saved {out} mood={mood} seed={seed} length={N / FPS:.1f}s")
 
 
 if __name__ == "__main__":
