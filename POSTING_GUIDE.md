@@ -58,3 +58,11 @@ The post IMAGE text stays in English (template). Keep "Source: <outlet>" and the
   political attacks. Write neutrally and kindly.
 - Do NOT use photos of the person (copyright). Use theme `entertainment` (or `sports` for cricketers).
 - Captions mostly Roman Urdu, end with a question, "Source: <outlet>", hashtags starting #RiseUpPakistan.
+
+### Star posts: tagging + manual photo (overrides the scheduling rules above for star posts)
+- **Tag the star**: add their official Instagram/TikTok handle (e.g. @username) in the caption ONLY if the handle
+  is confirmed by the source article or the star's verified account. If not sure, do not tag — never guess.
+- **Manual-photo mode**: schedule ONE Metricool post for facebook + instagram + tiktok with the JPG, with
+  `"autoPublish": false` (Metricool then sends the user a push notification at the scheduled time so they can add
+  the star's photo and publish by hand). instagramData {type: POST}, tiktokData {autoAddMusic: true}.
+  No Reel/audio for star posts. Do not make the MP4.
