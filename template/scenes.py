@@ -569,7 +569,26 @@ def entertainment(rng):
     return _glow(img, L, blur=30)
 
 
-SCENES = {f.__name__: f for f in [gold, fuel, electricity, currency, tax, people, heat, wind, rain, cricket, health,
+def tribute(rng):
+    """candle + soft bokeh - for deaths / condolence posts"""
+    img, _ = _bg(rng, ["slate", "navy", "purple", "maroon"])
+    L = _new(); d = ImageDraw.Draw(L)
+    for _ in range(rng.randint(14, 24)):  # bokeh
+        x, y, r = rng.randint(0, W), rng.randint(0, 600), rng.randint(14, 46)
+        d.ellipse((x - r, y - r, x + r, y + r), fill=rng.choice([(255, 200, 120), (255, 230, 180), (200, 200, 255)]) + (rng.randint(25, 70),))
+    img = Image.alpha_composite(img, L.filter(ImageFilter.GaussianBlur(6)))
+    C = _new(); c = ImageDraw.Draw(C)
+    cx = _side(rng); top = rng.randint(330, 400)
+    c.rounded_rectangle((cx - 70, top, cx + 70, 760), radius=16, fill=(245, 238, 225, 255))
+    c.ellipse((cx - 70, top - 18, cx + 70, top + 18), fill=(255, 250, 240, 255))
+    c.line([(cx, top - 10), (cx, top - 40)], fill=(40, 30, 20, 255), width=5)
+    c.ellipse((cx - 26, top - 130, cx + 26, top - 30), fill=(255, 190, 60, 255))
+    c.polygon([(cx, top - 175), (cx - 24, top - 90), (cx + 24, top - 90)], fill=(255, 190, 60, 255))
+    c.ellipse((cx - 11, top - 95, cx + 11, top - 45), fill=(255, 250, 220, 255))
+    return _glow(img, C, blur=40, strength=3)
+
+
+SCENES = {f.__name__: f for f in [tribute, gold, fuel, electricity, currency, tax, people, heat, wind, rain, cricket, health,
                                   education, police, government, world, aviation, animal, tech, water, trade,
                                   general, entertainment]}
 

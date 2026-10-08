@@ -1,7 +1,7 @@
 # RiseUp Pakistan – automatic news posting guide
 
 Brand: RiseUp Pakistan (Metricool blogId 7305396). Networks: facebook, instagram, tiktok.
-Language: English captions. Audience: Pakistan. Timezone for scheduling: Asia/Karachi.
+Language: Roman Urdu or English captions (see Caption language). Audience: Pakistan. Timezone for scheduling: Asia/Karachi.
 
 ## Each run
 1. Read `posted_log.json` so no story is repeated (same event = skip, even from another outlet).
@@ -71,8 +71,8 @@ Each news story ALSO goes to Stories, at the same time as its posts:
 
 ## Anime Reels: 3 per day (Instagram Reels + TikTok + Facebook Reels)
 Every day make EXACTLY 3 hand-painted anime-style news videos (count entries with `"anime": true` in today's
-posted_log.json). At most one per run, for the run's most shareable story. Slots: the 1st in any run from 1:50 PM,
-the 2nd only from the 4:50 PM run, the 3rd only from the 7:50 PM run (if a slot's run had no fresh story, the next run
+posted_log.json). At most one per run, for the run's most shareable story. Slots: the 1st in any run from 9:50 AM,
+the 2nd only from the 2:50 PM run, the 3rd only from the 7:50 PM run (if a slot's run had no fresh story, the next run
 makes it). The anime story still counts as one of the 15 news stories.
 1. Write `posts/<date>-<slug>-anime.json`:
    `{"line1","line2","sub","sub_hl","tag"` (same as the post image), `"paragraphs"`: 3-5 short paragraphs (15-30 words
@@ -95,6 +95,28 @@ makes it). The anime story still counts as one of the 15 news stories.
 8. Music on the anime video: on Instagram add a trending track (see Music section) with
    `"audioConfiguration": {"audioId": ..., "audioVolume": 100, "videoVolume": 35}` so the nature sound stays softly
    underneath; TikTok `autoAddMusic: false` (the video already has sound); Facebook as is.
+
+## Posting hours
+All posts go out between 10:00 AM and 11:59 PM Pakistan time. Never schedule anything after 11:59 PM or before
+10:00 AM (at the last run of the day, post only what still fits before midnight).
+
+## Tribute package: death of a famous Pakistani or Indian actor (separate from everything else)
+When a famous Pakistani or Indian actor dies and at least TWO established outlets (Dawn, Geo, BBC Urdu, The News,
+Express Tribune, ARY, Samaa, etc.) confirm it, make on that same day — only once per person (check tribute_log.json):
+1. **Post 1 (news):** scene `tribute` (candle). Hook like "Bollywood Mein Sog" / "Lollywood Mein Sog", name, cause/age
+   only as reported.
+2. **Post 2 (legacy):** a different scene (e.g. `entertainment`): career span, famous films, awards — facts from the sources.
+3. **Reel:** anime Reel with `"sad": true` (slow minor-key piano, no birds), mood sunset or night, 3-4 paragraphs
+   (death as reported, career start, famous work/awards, the role people remember most), question like
+   "<Name> ki aap ki pasandeeda film kaun si hai?".
+   Never use the actor's real voice, film dialogue audio, film clips or photos (copyright) and never draw him/her.
+   Instagram music: a calm/emotional instrumental, never an upbeat track.
+Schedule: post 1 about 10 min from now, the Reel 30 min later, post 2 30 min after that (within posting hours).
+Each to facebook + instagram + tiktok (images: facebook+tiktok photo with autoAddMusic true, instagram as POST;
+Reel: facebook REEL + instagram REEL + tiktok), plus facebook + instagram STORY for both images. Captions respectful,
+mostly Roman Urdu, "Source: <outlets>", hashtags #RiseUpPakistan #RIP<Name> etc. NEVER joke, never speculate.
+These do NOT count toward the 15 news posts or the 3 anime Reels. Log them in tribute_log.json
+(date, person, sources, files, scheduled times).
 
 ## Reach rules (owner's main goal: maximum reach)
 - Hook first: `line1` must be a 2-4 word hook that makes people stop (e.g. "Petrol Phir Mehnga", "Barish Alert",

@@ -83,13 +83,17 @@ def crickets(n, rng):
     return out
 
 
-def piano(n, rng, mood):
-    """slow gentle arpeggios on major-7 / add9 chords, piano-like decay."""
+def piano(n, rng, mood, sad=False):
+    """slow gentle arpeggios on major-7 / add9 chords (minor & slower when sad), piano-like decay."""
     out = np.zeros(n)
     root = rng.choice([57, 60, 62, 65])  # A3 C4 D4 F4 (midi)
     prog = rng.choice([[0, 5, 9, 7], [0, 9, 5, 7], [0, 7, 9, 5]])
     shapes = {0: [0, 4, 7, 11, 14], 5: [0, 4, 7, 11, 14], 9: [0, 3, 7, 10, 14], 7: [0, 4, 7, 10, 14]}
     beat = 0.62 if mood != "night" else 0.8
+    if sad:
+        prog = rng.choice([[0, 8, 3, 10], [0, 5, 8, 7]])
+        shapes = {0: [0, 3, 7, 10, 14], 8: [0, 4, 7, 11], 3: [0, 4, 7, 11], 10: [0, 4, 7, 14], 5: [0, 3, 7, 10], 7: [0, 4, 7, 10]}
+        beat = 1.0
     pos, i = int(0.5 * SR), 0
     while pos < n - SR:
         deg = prog[(i // 8) % 4]
@@ -114,7 +118,7 @@ def piano(n, rng, mood):
     return out + _lp(rev, 3000) * 0.6
 
 
-def make_audio(path, seconds, mood, seed=None):
+def make_audio(path, seconds, mood, seed=None, sad=False):
     rng = random.Random(seed)
     np.random.seed(rng.randint(0, 2**31 - 1))
     nrng = np.random.default_rng(rng.randint(0, 2**31 - 1))
@@ -124,11 +128,13 @@ def make_audio(path, seconds, mood, seed=None):
         standard_normal = staticmethod(lambda k: nrng.standard_normal(k))
         def __getattr__(self, a): return getattr(rng, a)
     r = R()
-    mix = piano(n, rng, mood)
+    mix = piano(n, rng, mood, sad)
     if mood == "rain":
         mix += rain(n, r) + thunder(n, rng) + wind(n, r, 0.6)
     elif mood == "night":
         mix += crickets(n, rng) + wind(n, r, 0.4)
+    elif sad:
+        mix += wind(n, r, 0.5) + leaves(n, r)
     else:
         mix += wind(n, r) + leaves(n, r) + birds(n, rng, int(seconds / (2.5 if mood in ("day", "spring") else 5)))
     mix *= _env(n, 1.0, 2.0)

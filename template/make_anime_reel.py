@@ -9,7 +9,8 @@ Usage: python3 make_anime_reel.py cfg.json out.mp4
 cfg: {"mood": "day|sunset|rain|night|spring" (optional, random),
       "line1": "yellow bar words", "line2": "big white headline", "sub": "white sub", "sub_hl": "yellow tail",
       "paragraphs": ["short paragraph, **highlight** key numbers", ...]   (3-6, ~15-30 words each),
-      "question": "Aap ka kya khayal hai?", "source": "Dawn", "seed": 123 (optional)}
+      "question": "Aap ka kya khayal hai?", "source": "Dawn", "seed": 123 (optional),
+      "sad": true (optional: slow minor-key piano, no birds - for deaths/tributes/tragedies)}
 Total length = 5 s intro + paragraphs (by word count) + 5 s outro, max 60 s.
 """
 import json, math, random, subprocess, sys, os
@@ -445,7 +446,7 @@ def main():
 
     import ambience
     wav = out + ".wav"
-    ambience.make_audio(wav, N / FPS, mood, seed)
+    ambience.make_audio(wav, N / FPS, mood, seed, sad=bool(cfg.get("sad")))
     cmd = ["ffmpeg", "-y", "-framerate", str(FPS), "-i", f"{tmp}/%05d.jpg", "-i", wav,
            "-map", "0:v", "-map", "1:a", "-shortest", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k", "-movflags", "+faststart", out]
