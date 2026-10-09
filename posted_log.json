@@ -302,9 +302,16 @@
   "story": "posts/2026-10-09-pak-sl-trophy-unveiled-story.jpg",
   "scene": "general",
   "seed": 35029877,
-  "music": "TBD",
+  "music": "Whatever It Takes - The Sheen",
   "tiktok": false,
-  "scheduled": "TBD"
+  "scheduled": "2026-10-09 13:07 PKT",
+  "music_note": "trending 'Patient Zero - Taylor Swift' gave no exact match - used catalog track",
+  "metricool_ids": {
+   "fb_post": 391830841,
+   "ig_reel": 391831072,
+   "stories": 391830958
+  },
+  "tiktok_note": "skipped: TikTok 8/day budget (6 used, 2 reserved for remaining anime Reels)"
  },
  {
   "date": "2026-10-09",
@@ -317,8 +324,15 @@
   "story": "posts/2026-10-09-sugar-deregulation-review-story.jpg",
   "scene": "government",
   "seed": 167880920,
-  "music": "TBD",
+  "music": "Coffee After Chaos - Auralux",
   "tiktok": false,
-  "scheduled": "TBD"
+  "scheduled": "2026-10-09 13:37 PKT",
+  "music_note": "trending 'Autumn Colors - LuLuMusic' gave no exact match - used catalog calm track",
+  "metricool_ids": {
+   "fb_post": 391831123,
+   "ig_reel": 391831505,
+   "stories": 391831300
+  },
+  "tiktok_note": "skipped: TikTok 8/day budget"
  }
 ]
