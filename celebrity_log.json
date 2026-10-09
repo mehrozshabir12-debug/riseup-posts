@@ -41,5 +41,27 @@
       391384471,
       391384493
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "person": "Sahibzada Farhan",
+    "handle": null,
+    "headline": "Sahibzada Farhan leads Pakistan for first time at home in T20I series vs Sri Lanka; says captaincy is a matter of pride",
+    "source": "Samaa TV (also 24 News HD)",
+    "source_url": "https://www.samaa.tv/2087358162-sahibzada-farhan-optimistic-about-leading-pakistan-in-sri-lanka-t20is",
+    "source_urls": [
+      "https://www.samaa.tv/2087358162-sahibzada-farhan-optimistic-about-leading-pakistan-in-sri-lanka-t20is",
+      "https://www.24newshd.tv/08-Oct-2026/pakistan-sri-lanka-captains-confident-ahead-rawalpindi-t20i-opener"
+    ],
+    "publish_time": "2026-10-09T12:37:00+05:00",
+    "scene": "entertainment",
+    "seed": 93027214,
+    "scene_note": "cricket already used today (Abbas Afridi news post)",
+    "files": [
+      "posts/2026-10-09-sahibzada-farhan-captain-debut.jpg",
+      "posts/2026-10-09-sahibzada-farhan-captain-debut-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": true
   }
 ]
