@@ -48,6 +48,15 @@ Rules:
 - Look at the rendered image next to today's earlier images; if any look alike, re-render with another scene.
 - Log the `scene` and `seed` that make_post.py prints in posted_log.json / celebrity_log.json / tribute_log.json for every post.
 
+## Reel cover / thumbnail (OWNER'S RULE — more clicks)
+Every Reel (Instagram REEL, Facebook REEL, TikTok video — zoom Reels, anime Reels and tribute Reels) must use the
+story's own content image as its cover, never a random video frame. In the Metricool `info` of every post that has a
+video, add:
+  "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/<file>-story.jpg"
+(the 9:16 -story.jpg with the headline, made by make_story.py — push it to main BEFORE scheduling so the URL works).
+Never add videoThumbnailUrl to a STORY or an image-only post (Metricool rejects it). If Metricool rejects the cover,
+schedule the Reel without it and mention it in the report.
+
 ## Music on Instagram and TikTok (more reach)
 Schedule each story as TWO Metricool posts at the same time:
 - **Facebook + TikTok** — the JPG image. tiktokData must include `"autoAddMusic": true` (TikTok adds a fitting
