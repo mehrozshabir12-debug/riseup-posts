@@ -181,10 +181,14 @@ The post IMAGE text stays in English (template). Keep "Source: <outlet>" and the
 - Do NOT use photos of the person (copyright). Use scene `entertainment` (or `cricket` for cricketers); vary it per the "Image variety" rules.
 - Captions mostly Roman Urdu, end with a question, "Source: <outlet>", hashtags starting #RiseUpPakistan.
 
-### Star posts: tagging + manual photo (overrides the scheduling rules above for star posts)
+### Star posts: tagging + AUTO-PUBLISH (owner's rule, 9 Oct 2026 — no more manual photo)
 - **Tag the star**: add their official Instagram/TikTok handle (e.g. @username) in the caption ONLY if the handle
   is confirmed by the source article or the star's verified account. If not sure, do not tag — never guess.
-- **Manual-photo mode**: schedule ONE Metricool post for facebook + instagram + tiktok with the JPG, with
-  `"autoPublish": false` (Metricool then sends the user a push notification at the scheduled time so they can add
-  the star's photo and publish by hand). instagramData {type: POST}, tiktokData {autoAddMusic: true}.
-  No Reel/audio for star posts. Do not make the MP4. Do make the Story (see Stories section).
+- **Auto-publish**: the owner no longer adds photos by hand. Every star post and its Story are scheduled with
+  `"autoPublish": true`, using our own rendered graphic (no photos of the person — copyright).
+  Pick the scene that fits the story per "Image variety" (music for songs/singers, cinema for films/dramas,
+  cricket for cricketers, entertainment for general fame/awards — each scene only once per day).
+- Schedule ONE Metricool post for facebook + instagram with the JPG (instagramData {type: POST}); add tiktok
+  (tiktokData {autoAddMusic: true}) only if today's TikTok count is under the 8/day limit (see TikTok daily limit),
+  and log `"tiktok": true` if added. Plus the facebook + instagram STORY with the -story.jpg, no text.
+  No Reel/audio for star posts.
