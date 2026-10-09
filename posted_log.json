@@ -349,7 +349,15 @@
     "seed": 94311671,
     "anime": false,
     "tiktok": false,
-    "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT"
+    "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+    "music": "Clouds - Giulio Cercato",
+    "music_note": "trending 'Autumn Journey - Andrea Vanzo' not in catalog - used calm catalog instrumental (audioType music)",
+    "scheduled": "2026-10-09 14:08 PKT",
+    "metricool_ids": {
+      "fb_post": 391866890,
+      "ig_reel": 391867531,
+      "stories": 391867047
+    }
   },
   {
     "date": "2026-10-09",
@@ -365,6 +373,14 @@
     "seed": 24436848,
     "anime": false,
     "tiktok": false,
-    "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT"
+    "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+    "music": "Fresher Than Air - Trout Recording",
+    "music_note": "trending 'My October - The Folks' only as original_sound - used music candidate",
+    "scheduled": "2026-10-09 14:38 PKT",
+    "metricool_ids": {
+      "fb_post": 391867648,
+      "ig_reel": 391867821,
+      "stories": 391867752
+    }
   }
 ]
