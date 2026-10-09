@@ -258,5 +258,37 @@
       391771637,
       391771687
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "headline": "Abbas Afridi to lead Pakistan's 7-man squad in Hong Kong Sixes (Oct 30-Nov 1)",
+    "source": "https://tribune.com.pk/story/2633849/abbas-afridi-to-lead-pakistan-in-hong-kong-sixes",
+    "published": "2026-10-09 11:47 PKT",
+    "language": "Roman Urdu",
+    "image": "posts/2026-10-09-abbas-afridi-hk-sixes.jpg",
+    "video": "posts/2026-10-09-abbas-afridi-hk-sixes.mp4",
+    "story": "posts/2026-10-09-abbas-afridi-hk-sixes-story.jpg",
+    "scene": "cricket",
+    "seed": 881977182,
+    "music": "Purity - Ross Lara",
+    "music_note": "trending 'Pure - Sienna Spiro' only available as original_sound - used closest music candidate",
+    "tiktok": true,
+    "scheduled": "2026-10-09 12:10 PKT"
+  },
+  {
+    "date": "2026-10-09",
+    "headline": "AirSial to launch daily direct Islamabad-Quetta flights from October 25",
+    "source": "https://propakistani.pk/2026/10/09/airsial-to-launch-new-route-from-october-25/",
+    "published": "2026-10-09 11:22 PKT",
+    "language": "English",
+    "image": "posts/2026-10-09-airsial-isb-quetta.jpg",
+    "video": "posts/2026-10-09-airsial-isb-quetta.mp4",
+    "story": "posts/2026-10-09-airsial-isb-quetta-story.jpg",
+    "scene": "aviation",
+    "seed": 249604669,
+    "music": "High With Me (Instrumental) - GEEZ",
+    "music_note": "trending 'Nicole Kidman - ADELA' search gave no exact match - used catalog instrumental",
+    "tiktok": true,
+    "scheduled": "2026-10-09 12:40 PKT"
   }
 ]
