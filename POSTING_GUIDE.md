@@ -3,6 +3,11 @@
 Brand: RiseUp Pakistan (Metricool blogId 7305396). Networks: facebook, instagram, tiktok.
 Language: Roman Urdu or English captions (see Caption language). Audience: Pakistan. Timezone for scheduling: Asia/Karachi.
 
+## ⛔ TIKTOK PAUSE (owner's order, 9 Oct 2026 1:36 PM PKT)
+Do NOT add "tiktok" to ANY post (news, anime, star, tribute) until **10 Oct 2026, 1:40 PM Asia/Karachi**.
+Until then post to Facebook + Instagram only. After that time, resume TikTok under the "TikTok daily limit"
+rule (max 8 automatic TikTok posts per day). Once the pause has passed, this section can be ignored.
+
 ## Each run
 1. Read `posted_log.json` so no story is repeated (same event = skip, even from another outlet).
 2. Find the most TRENDING Pakistan news of the last 12–24 hours — stories most people are talking about and will
