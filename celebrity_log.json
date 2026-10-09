@@ -67,5 +67,24 @@
       391811472,
       391811495
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "person": "Jawed Sheikh, Saba Hameed, Shagufta Ejaz, Khalid Anum, Kubra Khan, Gohar Rasheed, Ahmed Ali Akbar, Ally Khan, Nabeel Zafar",
+    "handle": "@khaled_anam @sabahamid_21 @shaguftaejazofficial",
+    "headline": "Pakistani stars visit Palestinian patients in Jordan with SKT Welfare, help deliver food to 500+ displaced families (29 Sep-3 Oct mission)",
+    "source": "24 News HD",
+    "source_url": "https://www.24newshd.tv/09-Oct-2026/pakistani-stars-visit-palestinian-children-deliver-500-food-parcels-jordan",
+    "publish_time": "2026-10-09T17:45:00+05:00",
+    "scene": "people",
+    "seed": 290834322,
+    "scene_note": "music/cinema don't fit; entertainment already used today (Sahibzada Farhan)",
+    "files": [
+      "posts/2026-10-09-pak-stars-jordan-palestinians.jpg",
+      "posts/2026-10-09-pak-stars-jordan-palestinians-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT"
   }
 ]
