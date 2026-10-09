@@ -102,7 +102,7 @@
       "https://24newshd.tv/09-Oct-2026/saboor-ali-hails-amar-khan-s-honest-portrayal-mitti-de-baway",
       "https://24newshd.tv/09-Oct-2026/revenge-turns-brutal-baala-billo-s-feud-spirals-control-mitti-de-baway"
     ],
-    "publish_time": "2026-10-09T22:20:00+05:00",
+    "publish_time": "2026-10-09T22:25:00+05:00",
     "scene": "cinema",
     "seed": 198766701,
     "files": [
@@ -112,6 +112,10 @@
     "autoPublish": true,
     "tiktok": false,
     "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
-    "skipped": "Neelam Muneer baby report - unconfirmed (family sources only)"
+    "skipped": "Neelam Muneer baby report - unconfirmed (family sources only)",
+    "metricool_ids": [
+      392241894,
+      392241915
+    ]
   }
 ]
