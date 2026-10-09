@@ -85,6 +85,10 @@
     ],
     "autoPublish": true,
     "tiktok": false,
-    "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT"
+    "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
+    "metricool_ids": [
+      392018156,
+      392018178
+    ]
   }
 ]
