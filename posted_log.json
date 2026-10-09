@@ -432,5 +432,53 @@
    "fb_post": 391912933,
    "stories": 391912947
   }
+ },
+ {
+  "date": "2026-10-09",
+  "language": "Roman Urdu",
+  "anime": false,
+  "tiktok": false,
+  "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+  "headline": "Gold jumps Rs5,900 to Rs440,936 per tola (24K); 10g Rs378,031; intl $4,184/oz",
+  "source": "https://en.dailypakistan.com.pk/09-Oct-2026/gold-price-in-pakistan-jumps-to-rs440936-per-tola-check-new-rates",
+  "source_outlet": "Daily Pakistan",
+  "published": "2026-10-09 15:21 PKT",
+  "image": "posts/2026-10-09-gold-rs5900-jump.jpg",
+  "story": "posts/2026-10-09-gold-rs5900-jump-story.jpg",
+  "video": "posts/2026-10-09-gold-rs5900-jump.mp4",
+  "scene": "gold",
+  "seed": 199265052,
+  "music": "Fly (Reels Sound - Listicle) - Tony Dark Eyes",
+  "music_note": "trending 'Autumn Colors - LuLuMusic' not resolvable - used music candidate",
+  "scheduled": "2026-10-09 16:21 PKT",
+  "metricool_ids": {
+   "ig_reel": 391957765,
+   "fb_post": 391957809,
+   "stories": 391957832
+  }
+ },
+ {
+  "date": "2026-10-09",
+  "language": "Roman Urdu",
+  "anime": false,
+  "tiktok": false,
+  "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+  "headline": "PCB launches PCB Live streaming app (Android, iOS, web) ahead of Pakistan vs Sri Lanka T20Is",
+  "source": "https://propakistani.pk/2026/10/09/pcb-launches-live-streaming-app-for-fans/",
+  "source_outlet": "ProPakistani",
+  "published": "2026-10-09 14:47 PKT",
+  "image": "posts/2026-10-09-pcb-live-app.jpg",
+  "story": "posts/2026-10-09-pcb-live-app-story.jpg",
+  "video": "posts/2026-10-09-pcb-live-app.mp4",
+  "scene": "tech",
+  "seed": 298182688,
+  "music": "Closer To The Edge (feat. Danelle Sandoval) - Giulio Cercato",
+  "music_note": "trending 'Funkytown - Lipps Inc.' only available as original_sound - used music candidate",
+  "scheduled": "2026-10-09 16:51 PKT",
+  "metricool_ids": {
+   "ig_reel": 391958100,
+   "fb_post": 391958142,
+   "stories": 391958169
+  }
  }
 ]
