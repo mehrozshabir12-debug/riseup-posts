@@ -70,6 +70,13 @@ Schedule each story as TWO Metricool posts at the same time:
   artist as the search term. Prefer tracks whose mood fits the story (no upbeat party song on sad or crime news —
   use calm instrumental there). If the trending track is not in the catalog (business accounts get a limited
   library), use the closest candidate Metricool offers, else an upbeat popular instrumental.
+  **ONLY real music, NEVER voice / "original_sound" (owner complaint 9 Oct 2026):** the 10:15 tyres Reel got
+  "Someday We Will Dream About Today" as audioType "original_sound" from a random account
+  (@comissaodeprojetosfousp) — it was a person talking in a foreign language. After scheduling, read the response:
+  `audioConfiguration.audioType` MUST be "music" (with a displayArtist). If it is "original_sound" or anything else,
+  immediately update the post with a different track (an instrumental from the "music" catalog), or remove the
+  audioConfiguration. Prefer instrumental tracks (no lyrics in foreign languages). Never pick a candidate that has an
+  igUsername instead of a displayArtist.
   NEVER repeat a track used earlier today (log `music` for every post and check the log first).
   If Metricool rejects it with a list of candidates, retry once with the best-fitting candidate's numeric id. If audio
   still fails, schedule the Reel without audioConfiguration rather than skipping the post.
