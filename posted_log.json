@@ -480,5 +480,25 @@
    "fb_post": 391958142,
    "stories": 391958169
   }
+ },
+ {
+  "date": "2026-10-09",
+  "language": "Roman Urdu",
+  "anime": true,
+  "anime_video": "posts/2026-10-09-flour-price-rise-anime.mp4",
+  "mood": "night",
+  "anime_seed": 279579763,
+  "tiktok": false,
+  "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+  "headline": "Flour price up to Rs400 per 20kg bag in a week (Bannu); Rs3,400 in Islamabad, Karachi, Peshawar - PBS weekly data",
+  "source": "https://propakistani.pk/2026/10/09/flour-gets-more-expensive-across-pakistan/",
+  "source_outlet": "ProPakistani",
+  "published": "2026-10-09 18:33 PKT",
+  "image": "posts/2026-10-09-flour-price-rise.jpg",
+  "story": "posts/2026-10-09-flour-price-rise-story.jpg",
+  "scene": "photo (custom wheat/flour-sack illustration - every fitting scene already used today)",
+  "seed": 731904226,
+  "music": "Autumn Colors - LuLuMusic",
+  "scheduled": "2026-10-09 20:13 PKT"
  }
 ]

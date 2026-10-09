@@ -1,0 +1,16 @@
+{
+ "mood": "night",
+ "line1": "Aata Phir Mehnga",
+ "line2": "Rs 400 Tak Izafa",
+ "sub": "20kg flour bag hits Rs 3,400 in",
+ "sub_hl": "3 big cities",
+ "tag": "PBS weekly price data",
+ "paragraphs": [
+  "Pakistan Bureau of Statistics ke taaza haftawar data ke mutabiq mulk bhar mein **aata** phir mehnga ho gaya hai.",
+  "Sab se bara izafa **Bannu** mein hua, jahan 20 kilo ka thaila ek hafte mein **Rs 400** mehnga ho kar Rs 3,300 ka ho gaya.",
+  "Islamabad, Karachi aur Peshawar mein 20 kilo aata ab **Rs 3,400** ka mil raha hai. Rawalpindi mein Rs 347 ka izafa hua.",
+  "Lahore (**Rs 2,300**) aur Faisalabad (**Rs 2,200**) mein qeemat is hafte nahi badli."
+ ],
+ "question": "Aap ke shehar mein aata kitne ka hai?",
+ "source": "ProPakistani / PBS"
+}
