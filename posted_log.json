@@ -186,7 +186,12 @@
   "seed": 577667780,
   "music": "Someday We Will Dream About Today - The Sways",
   "tiktok": true,
-  "scheduled": "2026-10-09 10:15 PKT"
+  "scheduled": "2026-10-09 10:15 PKT",
+  "metricool_ids": [
+   391753736,
+   391753845,
+   391753792
+  ]
  },
  {
   "date": "2026-10-09",
@@ -198,12 +203,18 @@
   "story": "posts/2026-10-09-markhor-permits-auction-story.jpg",
   "scene": "animal",
   "seed": 207962621,
-  "music": "Autumn Colors - LuLuMusic",
+  "music": "Reflection - Sam Marshall",
   "anime": true,
   "anime_video": "posts/2026-10-09-markhor-permits-auction-anime.mp4",
   "mood": "day",
   "anime_seed": 63901360,
   "tiktok": true,
-  "scheduled": "2026-10-09 10:45 PKT"
+  "scheduled": "2026-10-09 10:45 PKT",
+  "music_note": "trending 'Autumn Colors - LuLuMusic' not in IG catalog",
+  "metricool_ids": [
+   391753870,
+   391753998,
+   391753891
+  ]
  }
 ]
