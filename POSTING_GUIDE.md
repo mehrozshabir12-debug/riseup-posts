@@ -106,6 +106,8 @@ Every day make EXACTLY 3 hand-painted anime-style news videos (count entries wit
 posted_log.json). At most one per run, for the run's most shareable story. Slots: the 1st in any run from 9:50 AM,
 the 2nd only from the 2:50 PM run, the 3rd only from the 7:50 PM run (if a slot's run had no fresh story, the next run
 makes it). The anime story still counts as one of the 15 news stories.
+   **Reserve the slot:** if today's news count is 14 and fewer than 3 anime Reels are logged before the 7:50 PM run,
+   do NOT post a normal story — keep the 15th slot for the 3rd anime Reel (otherwise 15 and 3 cannot both be met).
 1. Write `posts/<date>-<slug>-anime.json`:
    `{"line1","line2","sub","sub_hl","tag"` (same as the post image), `"paragraphs"`: 3-5 short paragraphs (15-30 words
    each, own words, same language as the caption; wrap key numbers/words in **double stars** for the yellow box),
