@@ -498,7 +498,13 @@
   "story": "posts/2026-10-09-flour-price-rise-story.jpg",
   "scene": "photo (custom wheat/flour-sack illustration - every fitting scene already used today)",
   "seed": 731904226,
-  "music": "Autumn Colors - LuLuMusic",
-  "scheduled": "2026-10-09 20:13 PKT"
+  "music": "Dark Forest - Company Money",
+  "scheduled": "2026-10-09 20:13 PKT",
+  "music_note": "trending 'Autumn Colors - LuLuMusic' not in catalog (multiple/no match) - used unused music candidate; audioType music",
+  "metricool_ids": {
+   "anime_reel_fb_ig": 392140549,
+   "fb_post": 392140651,
+   "stories": 392140677
+  }
  }
 ]
