@@ -90,5 +90,28 @@
       392018156,
       392018178
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "person": "Amar Khan (praised by Saboor Ali)",
+    "handle": null,
+    "headline": "Saboor Ali praises Amar Khan's 'solid and honest' performance as Zareena in Green Entertainment's drama Mitti De Baway",
+    "source": "24 News HD",
+    "source_url": "https://24newshd.tv/09-Oct-2026/saboor-ali-hails-amar-khan-s-honest-portrayal-mitti-de-baway",
+    "source_urls": [
+      "https://24newshd.tv/09-Oct-2026/saboor-ali-hails-amar-khan-s-honest-portrayal-mitti-de-baway",
+      "https://24newshd.tv/09-Oct-2026/revenge-turns-brutal-baala-billo-s-feud-spirals-control-mitti-de-baway"
+    ],
+    "publish_time": "2026-10-09T22:20:00+05:00",
+    "scene": "cinema",
+    "seed": 198766701,
+    "files": [
+      "posts/2026-10-09-amar-khan-mitti-de-baway.jpg",
+      "posts/2026-10-09-amar-khan-mitti-de-baway-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
+    "skipped": "Neelam Muneer baby report - unconfirmed (family sources only)"
   }
 ]
