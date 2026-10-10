@@ -630,5 +630,53 @@
       "ig_reel": 392591440,
       "stories": 392591405
     }
+  },
+  {
+    "date": "2026-10-10",
+    "anime": false,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+    "layout": "bold",
+    "source_outlet": "ProPakistani",
+    "language": "Roman Urdu",
+    "headline": "BISP launches nationwide awareness/training campaign on new digital payment system; women can withdraw from any partner-bank retailer in any city; helpline 0800-26477",
+    "source": "https://propakistani.pk/2026/10/10/bisp-launches-awareness-campaign-for-digital-payment-system/",
+    "published": "2026-10-10 11:51 PKT",
+    "image": "posts/2026-10-10-bisp-digital-payment.jpg",
+    "story": "posts/2026-10-10-bisp-digital-payment-story.jpg",
+    "video": "posts/2026-10-10-bisp-digital-payment.mp4",
+    "scene": "government",
+    "seed": 381338674,
+    "music": "Upside Down - Mike Block (id 581639516835198, audioType music)",
+    "scheduled": "2026-10-10 13:10 PKT",
+    "metricool": {
+      "facebook_post": 392612363,
+      "instagram_reel": 392612476,
+      "story": 392612420
+    }
+  },
+  {
+    "date": "2026-10-10",
+    "anime": false,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+    "layout": "bold",
+    "source_outlet": "ProPakistani",
+    "language": "English",
+    "headline": "KP orders 331 government schools to register with Global Virtual School platform for online science, maths, English and IT classes to tackle teacher shortages",
+    "source": "https://propakistani.pk/2026/10/10/kp-launches-online-teaching-plan-for-331-schools/",
+    "published": "2026-10-10 12:12 PKT",
+    "image": "posts/2026-10-10-kp-online-teaching-331-schools.jpg",
+    "story": "posts/2026-10-10-kp-online-teaching-331-schools-story.jpg",
+    "video": "posts/2026-10-10-kp-online-teaching-331-schools.mp4",
+    "scene": "tech",
+    "seed": 389579420,
+    "music": "The Process - Jackson Whalan (id 1543577430102877, audioType music)",
+    "scheduled": "2026-10-10 13:40 PKT",
+    "metricool": {
+      "facebook_post": 392612508,
+      "instagram_reel": 392612542,
+      "story": 392612548
+    }
   }
 ]
