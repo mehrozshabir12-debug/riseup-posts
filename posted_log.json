@@ -863,7 +863,12 @@
   "anime_cfg": "posts/2026-10-10-airport-smart-scanners-anime.json",
   "scene": "world",
   "seed": 129224492,
-  "music": "PENDING",
-  "scheduled": "2026-10-10 20:20 PKT"
+  "music": "Iced Latte - Global Genius (id 810120545333296, audioType music; trending 'Funkytown - Lipps Inc' only had an original_sound match)",
+  "scheduled": "2026-10-10 20:20 PKT",
+  "metricool": {
+   "facebook_post": 392792835,
+   "anime_reel_fb_ig_tiktok": 392792979,
+   "story": 392793012
+  }
  }
 ]
