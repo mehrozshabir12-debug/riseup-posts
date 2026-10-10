@@ -158,6 +158,10 @@
     "autoPublish": true,
     "tiktok": true,
     "handle_note": "Not tagged: article only shows brand account @omalbykomal, personal handle not confirmed",
-    "skipped": "Nadia Afgan Tamasha 5 stance (contestant allegations/controversy); Hania Aamir-Asim Azhar Maheya follow-up (Maheya already posted 8 Oct)"
+    "skipped": "Nadia Afgan Tamasha 5 stance (contestant allegations/controversy); Hania Aamir-Asim Azhar Maheya follow-up (Maheya already posted 8 Oct)",
+    "metricool_ids": [
+      392711437,
+      392711444
+    ]
   }
 ]
