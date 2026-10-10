@@ -140,5 +140,24 @@
       392596097,
       392596111
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "person": "Komal Aziz Khan",
+    "handle": null,
+    "headline": "Former actress Komal Aziz responds to comments on her weight gain after her clothing-brand photoshoot; urges people to be kind and avoid personal remarks",
+    "source": "24 News HD",
+    "source_url": "https://www.24newshd.tv/10-Oct-2026/komal-aziz-hits-back-body-shamers-weight-gain",
+    "publish_time": "2026-10-10T17:25:00+05:00",
+    "scene": "entertainment",
+    "seed": 843082080,
+    "files": [
+      "posts/2026-10-10-komal-aziz-be-kind.jpg",
+      "posts/2026-10-10-komal-aziz-be-kind-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": true,
+    "handle_note": "Not tagged: article only shows brand account @omalbykomal, personal handle not confirmed",
+    "skipped": "Nadia Afgan Tamasha 5 stance (contestant allegations/controversy); Hania Aamir-Asim Azhar Maheya follow-up (Maheya already posted 8 Oct)"
   }
 ]
