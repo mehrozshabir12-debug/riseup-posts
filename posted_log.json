@@ -772,5 +772,28 @@
    "instagram_reel": 392681320,
    "story": 392681535
   }
+ },
+ {
+  "date": "2026-10-10",
+  "anime": false,
+  "tiktok": true,
+  "layout": "bold",
+  "source_outlet": "ProPakistani",
+  "language": "Roman Urdu",
+  "headline": "Around 15 UK universities suspend recruitment from Pakistan; Pakistan study-visa withdrawal rate 40.9% in H1 2026 (3% a year earlier); sponsor refusal threshold cut to 5% from 10%",
+  "source": "https://propakistani.pk/2026/10/10/15-uk-universities-suspend-recruitment-from-pakistan/",
+  "published": "2026-10-10 16:15 PKT",
+  "image": "posts/2026-10-10-uk-unis-pause-pakistan.jpg",
+  "story": "posts/2026-10-10-uk-unis-pause-pakistan-story.jpg",
+  "video": "posts/2026-10-10-uk-unis-pause-pakistan.mp4",
+  "scene": "aviation",
+  "seed": 288935793,
+  "music": "Reflection - Sam Marshall (id 478728841591377, audioType music; trending 'Autumn Colors - LuLuMusic' had multiple matches)",
+  "scheduled": "2026-10-10 17:07 PKT",
+  "metricool": {
+   "facebook_tiktok_post": 392705510,
+   "instagram_reel": 392705828,
+   "story": 392705735
+  }
  }
 ]
