@@ -126,6 +126,11 @@ def render(cfg, out):
 
     max_w = W - 2 * MX - 30
 
+    if cfg.get("style") == "bold":
+        render_bold(canvas, d, cfg)
+        canvas.save(out, quality=95)
+        return
+
     # line 1 on yellow bar
     f1, sw1 = fit(d, cfg["line1"], BOLD, max_w, 98, 60)
     b = d.textbbox((0, 0), cfg["line1"], font=f1, stroke_width=sw1)
@@ -190,6 +195,72 @@ def render(cfg, out):
             x += sep_gap
 
     canvas.save(out, quality=95)
+
+
+def render_bold(canvas, d, cfg):
+    """'bold' news style: centred UPPERCASE headline with a yellow-boxed key word, yellow rules,
+    kicker, short description, SOURCE line and icons.
+    cfg: head1, head2_hl (yellow box), head2 (white after the box), kicker, desc, source, date"""
+    max_w = W - 2 * MX
+    y = 690
+    h1 = cfg["head1"].upper()
+    f1, sw1 = fit(d, h1, BOLD, max_w, 104, 60)
+    b = d.textbbox((0, 0), h1, font=f1, stroke_width=sw1)
+    draw_text(d, ((W - (b[2] - b[0])) // 2 - b[0], y - b[1]), h1, f1, sw1, (255, 255, 255))
+    y += (b[3] - b[1]) + 34
+    hl, rest = cfg.get("head2_hl", "").upper(), cfg.get("head2", "").upper()
+    size = f1.size
+    while size > 56:
+        f2 = font(BOLD, size); sw2 = int(size * 0.016)
+        wh = text_w(d, hl, f2, sw2) + 40 if hl else 0
+        wr = text_w(d, rest, f2, sw2) if rest else 0
+        if wh + (24 if hl and rest else 0) + wr <= max_w:
+            break
+        size -= 2
+    asc = d.textbbox((0, 0), "HG", font=f2, stroke_width=sw2)
+    th = asc[3] - asc[1]
+    x = (W - (wh + (24 if hl and rest else 0) + wr)) // 2
+    if hl:
+        d.rectangle((x, y - 16, x + wh, y + th + 16), fill=YELLOW)
+        draw_text(d, (x + 20, y - asc[1]), hl, f2, sw2, (0, 0, 0))
+        x += wh + 24
+    if rest:
+        draw_text(d, (x, y - asc[1]), rest, f2, sw2, (255, 255, 255))
+    y += th + 40
+    d.rectangle((MX + 10, y, MX + 170, y + 6), fill=YELLOW)
+    y += 28
+    if cfg.get("kicker"):
+        k = cfg["kicker"].upper()
+        fk, swk = fit(d, k, BOLD, max_w, 62, 40)
+        b = d.textbbox((0, 0), k, font=fk, stroke_width=swk)
+        draw_text(d, ((W - (b[2] - b[0])) // 2 - b[0], y - b[1]), k, fk, swk, (255, 255, 255))
+        y += (b[3] - b[1]) + 26
+    if cfg.get("desc"):
+        fd = font(REG, 42)
+        for ln in wrap(d, cfg["desc"].split(), fd, 0, max_w - 60)[:2]:
+            b = d.textbbox((0, 0), ln, font=fd)
+            d.text(((W - (b[2] - b[0])) // 2 - b[0], y - b[1]), ln, font=fd, fill=(240, 240, 240))
+            y += 54
+    y += 14
+    d.rectangle((MX + 10, y, MX + 170, y + 6), fill=YELLOW)
+    y += 26
+    src = cfg.get("source", "")
+    if src:
+        fsb, fsr = font(BOLD, 34), font(REG, 34)
+        tail = " " + src.upper() + (" • " + cfg["date"].upper() if cfg.get("date") else "")
+        d.text((MX + 10, y), "SOURCE:", font=fsb, fill=(255, 255, 255))
+        d.text((MX + 10 + d.textlength("SOURCE:", font=fsb), y), tail, font=fsr, fill=(255, 255, 255))
+    # icons (same as classic)
+    icons = [Image.open(A(f"icon_{n}.png")) for n in ("facebook", "instagram", "tiktok")]
+    ih = 46
+    icons = [i.resize((round(i.width * ih / i.height), ih), Image.LANCZOS) for i in icons]
+    gap = 34
+    total = sum(i.width for i in icons) + gap * 2 * (len(icons) - 1)
+    x = (W - total) // 2; iy = H - 82
+    for k_, ic in enumerate(icons):
+        canvas.paste(ic, (x, iy), ic); x += ic.width
+        if k_ < len(icons) - 1:
+            x += gap; d.line([(x, iy - 4), (x, iy + ih + 4)], fill=(230, 230, 230), width=2); x += gap
 
 
 if __name__ == "__main__":
