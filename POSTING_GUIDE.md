@@ -22,7 +22,15 @@ rule (max 8 automatic TikTok posts per day). Once the pause has passed, this sec
    - `scene` (NOT `theme`): pick the scene that fits the story best — gold, fuel, electricity, currency, tax, people,
      heat, wind, rain, cricket, health, education, police, government, world, aviation, animal, tech, water, trade,
      general, entertainment, tribute, ribbon, cinema, music, hospital, virus, prison. See "Image variety" below.
-   - `line1` (yellow bar, 2–4 words), `line2` (big white, 2–4 words), `sub` (white, ~6–9 words), `sub_hl` (yellow tail, 1–3 words), `tag` (e.g. "Official finance update")
+   - LAYOUT (owner's choice since 10 Oct 2026, for ALL image posts — news, star and tribute): `"style": "bold"` with
+     `head1` (white headline line, 2–4 words, the hook), `head2_hl` (the key number/word in the yellow box, 1–3 words),
+     `head2` (rest of line 2, 0–2 words), `kicker` (short uppercase heading, 3–5 words), `desc` (one plain sentence,
+     max ~10 words), `source` (outlet name), `date` (e.g. "10 Oct 2026"). Text is drawn UPPERCASE and centred.
+     Example: {"style":"bold","scene":"fuel","head1":"Petrol Price Up","head2_hl":"Rs 5","head2":"Per Litre",
+     "kicker":"New Rates From Tonight","desc":"OGRA notifies new fuel prices for the next 15 days",
+     "source":"Dawn","date":"10 Oct 2026"}
+     (The old `line1/line2/sub/sub_hl/tag` layout still works but is no longer used for posts. Anime Reels keep their
+     approved look.)
    Render: `python3 template/make_post.py cfg.json posts/YYYY-MM-DD-slug.jpg`. Look at the image; fix overflow.
 4. Commit and push the images + updated `posted_log.json` to `main`.
    Public URL: `https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/<file>.jpg`
