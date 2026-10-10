@@ -506,5 +506,55 @@
    "fb_post": 392140651,
    "stories": 392140677
   }
+ },
+ {
+  "date": "2026-10-10",
+  "language": "Roman Urdu",
+  "anime": true,
+  "anime_video": "posts/2026-10-10-pak-beat-sl-1st-t20i-anime.mp4",
+  "mood": "sunset",
+  "anime_seed": 688544820,
+  "tiktok": false,
+  "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+  "headline": "Pakistan beat Sri Lanka by 4 wickets in 1st T20I at Rawalpindi; Farhan 89 (53), Maaz Sadaqat 50 (29), Naseem 3/36; lead series 1-0",
+  "source": "https://propakistani.pk/2026/10/10/pakistan-cruise-to-victory-over-sri-lanka-in-first-t20i/",
+  "source_outlet": "ProPakistani",
+  "published": "2026-10-10 08:45 PKT",
+  "image": "posts/2026-10-10-pak-beat-sl-1st-t20i.jpg",
+  "story": "posts/2026-10-10-pak-beat-sl-1st-t20i-story.jpg",
+  "scene": "cricket",
+  "seed": 361137219,
+  "music": "Make It Pop - Chela Rivas",
+  "music_note": "trending 'Nicole Kidman - ADELA' not in catalog (multiple matches) - used unused music candidate; audioType music",
+  "scheduled": "2026-10-10 10:08 PKT",
+  "metricool_ids": {
+   "anime_reel_fb_ig": 392559200,
+   "fb_post": 392559251,
+   "stories": 392559265
+  }
+ },
+ {
+  "date": "2026-10-10",
+  "language": "Roman Urdu",
+  "anime": false,
+  "tiktok": false,
+  "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+  "headline": "PM Shehbaz says fuel subsidy scheme will continue; 10m+ direct beneficiaries, Rs75bn allocated (bikes, rickshaws, Qingqi, cars up to 800cc)",
+  "source": "https://tribune.com.pk/story/2633996/pm-says-fuel-subsidy-scheme-will-continue",
+  "source_outlet": "The Express Tribune",
+  "published": "2026-10-10 09:20 PKT",
+  "image": "posts/2026-10-10-fuel-subsidy-continues.jpg",
+  "story": "posts/2026-10-10-fuel-subsidy-continues-story.jpg",
+  "video": "posts/2026-10-10-fuel-subsidy-continues.mp4",
+  "scene": "fuel",
+  "seed": 586151638,
+  "music": "Pink Guitar - cloud cover",
+  "music_note": "trending 'Pure - Sienna Spiro' only as original_sound - used music-catalog instrumental",
+  "scheduled": "2026-10-10 10:38 PKT",
+  "metricool_ids": {
+   "ig_reel": 392559330,
+   "fb_post": 392559347,
+   "stories": 392559355
+  }
  }
 ]
