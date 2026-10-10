@@ -844,5 +844,26 @@
    "instagram_reel": 392762007,
    "story": 392761904
   }
+ },
+ {
+  "date": "2026-10-10",
+  "anime": true,
+  "anime_video": "posts/2026-10-10-airport-smart-scanners-anime.mp4",
+  "mood": "night",
+  "anime_seed": 607924653,
+  "tiktok": true,
+  "layout": "bold",
+  "source_outlet": "Dawn",
+  "language": "English",
+  "headline": "PM Shehbaz orders smart scanners at all international airports; bags to be screened electronically instead of manual customs checks; customs told not to question/harass passengers; staff training to international standards",
+  "source": "https://www.dawn.com/news/2036166/pm-shehbaz-orders-installation-of-smart-scanners-at-airports",
+  "published": "2026-10-10 19:11 PKT",
+  "image": "posts/2026-10-10-airport-smart-scanners.jpg",
+  "story": "posts/2026-10-10-airport-smart-scanners-story.jpg",
+  "anime_cfg": "posts/2026-10-10-airport-smart-scanners-anime.json",
+  "scene": "world",
+  "seed": 129224492,
+  "music": "PENDING",
+  "scheduled": "2026-10-10 20:20 PKT"
  }
 ]
