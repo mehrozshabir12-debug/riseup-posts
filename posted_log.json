@@ -724,5 +724,53 @@
    "instagram_reel": 392640759,
    "story": 392640692
   }
+ },
+ {
+  "date": "2026-10-10",
+  "anime": true,
+  "anime_video": "posts/2026-10-10-gold-up-rs1100-anime.mp4",
+  "mood": "day",
+  "anime_seed": 516490979,
+  "tiktok": true,
+  "layout": "bold",
+  "source_outlet": "Business Recorder",
+  "language": "Roman Urdu",
+  "headline": "Gold up Rs1,100 to Rs442,036 per tola (24K) on Saturday; 10g Rs378,974; intl $4,195/oz; silver Rs6,555",
+  "source": "https://www.brecorder.com/news/40443557/gold-prices-gain-rs1100-per-tola-in-pakistan",
+  "published": "2026-10-10 14:55 PKT",
+  "image": "posts/2026-10-10-gold-up-rs1100.jpg",
+  "story": "posts/2026-10-10-gold-up-rs1100-story.jpg",
+  "scene": "gold",
+  "seed": 215693153,
+  "music": "Simple Pleasures (Reels Sound - Photo Dump) - Alex Blue (id 1131479132514825, audioType music; searched 'Hello October Sugar Lime Blue')",
+  "scheduled": "2026-10-10 16:15 PKT",
+  "metricool": {
+   "facebook_post": 392680401,
+   "anime_reel_fb_ig_tiktok": 392680359,
+   "story": 392680416
+  }
+ },
+ {
+  "date": "2026-10-10",
+  "anime": false,
+  "tiktok": false,
+  "layout": "bold",
+  "source_outlet": "ProPakistani",
+  "language": "English",
+  "headline": "University VCs/rectors sign Charter for Tobacco and Nicotine-Free Campuses at COMSATS Islamabad: cigarettes, vapes, heated tobacco, nicotine pouches to be phased out; forum to seek national policy via HEC",
+  "source": "https://propakistani.pk/2026/10/10/smoking-vaping-and-nicotine-pouches-banned-in-pakistani-universities/",
+  "published": "2026-10-10 15:24 PKT",
+  "image": "posts/2026-10-10-smoke-free-campuses.jpg",
+  "story": "posts/2026-10-10-smoke-free-campuses-story.jpg",
+  "video": "posts/2026-10-10-smoke-free-campuses.mp4",
+  "scene": "health",
+  "seed": 786282694,
+  "music": "Heros Journey (Instrumental) - Abby Posner (id 1274149560124013, audioType music)",
+  "scheduled": "2026-10-10 16:45 PKT",
+  "metricool": {
+   "facebook_post": 392681479,
+   "instagram_reel": 392681320,
+   "story": 392681535
+  }
  }
 ]
