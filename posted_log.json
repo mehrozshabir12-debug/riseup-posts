@@ -580,5 +580,55 @@
       "fb_post": 392573268,
       "stories": 392573280
     }
+  },
+  {
+    "date": "2026-10-10",
+    "anime": false,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+    "layout": "bold",
+    "language": "Roman Urdu",
+    "headline": "PM approves interest-free Hajj savings scheme: monthly digital savings, transferable to family, withdraw anytime without deduction; rules in ~2 months",
+    "source": "https://propakistani.pk/2026/10/10/govt-approves-interest-free-hajj-savings-scheme/",
+    "source_outlet": "ProPakistani",
+    "published": "2026-10-10 10:52 PKT",
+    "image": "posts/2026-10-10-hajj-savings-scheme.jpg",
+    "story": "posts/2026-10-10-hajj-savings-scheme-story.jpg",
+    "video": "posts/2026-10-10-hajj-savings-scheme.mp4",
+    "scene": "currency",
+    "seed": 575773373,
+    "music": "Endless Hope - Daria Novo",
+    "music_note": "trending 'About You - The 1975' only as original_sound - used calm music-catalog instrumental; audioType music",
+    "scheduled": "2026-10-10 12:08 PKT",
+    "metricool_ids": {
+      "fb_post": 392591246,
+      "ig_reel": 392591348,
+      "stories": 392591253
+    }
+  },
+  {
+    "date": "2026-10-10",
+    "anime": false,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 13:40 PKT",
+    "layout": "bold",
+    "language": "English",
+    "headline": "Retest of top 100 MDCAT 2026 candidates demanded in letter to PMDC (JI Karachi); health minister orders PMDC probe into Sindh complaints",
+    "source": "https://propakistani.pk/2026/10/10/retest-of-top-100-mdcat-candidates-demanded/",
+    "source_outlet": "ProPakistani",
+    "published": "2026-10-10 10:09 PKT",
+    "image": "posts/2026-10-10-mdcat-retest-demand.jpg",
+    "story": "posts/2026-10-10-mdcat-retest-demand-story.jpg",
+    "video": "posts/2026-10-10-mdcat-retest-demand.mp4",
+    "scene": "people",
+    "seed": 862356944,
+    "music": "Cup Of Calm - Afterlight",
+    "music_note": "calm music-catalog instrumental (serious exam story); audioType music",
+    "scheduled": "2026-10-10 12:38 PKT",
+    "metricool_ids": {
+      "fb_post": 392591387,
+      "ig_reel": 392591440,
+      "stories": 392591405
+    }
   }
 ]
