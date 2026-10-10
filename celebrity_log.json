@@ -117,5 +117,24 @@
       392241894,
       392241915
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "person": "Faysal Quraishi",
+    "handle": null,
+    "headline": "Faysal Quraishi says parents should stand by their children even after marriage; sons and daughters deserve equal support (also mentions upcoming film Mango Jutt)",
+    "source": "Dunya News",
+    "source_url": "https://dunyanews.tv/index.php/en/Entertainment/976932-faysal-quraishi-says-parents-should-stand-by-their-children-even-after",
+    "publish_time": "2026-10-10T12:30:00+05:00",
+    "scene": "cinema",
+    "seed": 125712213,
+    "files": [
+      "posts/2026-10-10-faysal-quraishi-parents-message.jpg",
+      "posts/2026-10-10-faysal-quraishi-parents-message-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
+    "skipped": "Emaan Fatima vs Rajab Butt family court case (private/legal dispute); Yumna Zaidi crying video (private moment)"
   }
 ]
