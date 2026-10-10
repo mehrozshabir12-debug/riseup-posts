@@ -176,6 +176,11 @@
     "seed": 253128981,
     "tiktok": true,
     "image": "posts/2026-10-10-meera-canada-border.jpg",
-    "story_image": "posts/2026-10-10-meera-canada-border-story.jpg"
+    "story_image": "posts/2026-10-10-meera-canada-border-story.jpg",
+    "metricool_ids": {
+      "post": 392852039,
+      "story": 392852049
+    },
+    "networks": "facebook+instagram+tiktok; story facebook+instagram"
   }
 ]
