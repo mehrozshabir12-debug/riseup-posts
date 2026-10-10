@@ -836,7 +836,13 @@
   "scene": "general",
   "seed": 906691059,
   "scene_note": "government/people/general already used today; guide fallback: general with clearly different palette/motif (maroon mic vs earlier green rings)",
-  "music": "TBD",
-  "scheduled": "TBD"
+  "music": "Painted White - Julia Gartha (id 1142425671382048, audioType music; trending 'Pure - Sienna Spiro' only had original_sound matches)",
+  "scheduled": "2026-10-10 19:15 PKT",
+  "providers_note": "JPG to Facebook only (political story, TikTok budget kept for 3rd anime Reel/strong stories)",
+  "metricool": {
+   "facebook_post": 392761890,
+   "instagram_reel": 392762007,
+   "story": 392761904
+  }
  }
 ]
