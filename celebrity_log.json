@@ -135,6 +135,10 @@
     "autoPublish": true,
     "tiktok": false,
     "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
-    "skipped": "Emaan Fatima vs Rajab Butt family court case (private/legal dispute); Yumna Zaidi crying video (private moment)"
+    "skipped": "Emaan Fatima vs Rajab Butt family court case (private/legal dispute); Yumna Zaidi crying video (private moment)",
+    "metricool_ids": [
+      392596097,
+      392596111
+    ]
   }
 ]
