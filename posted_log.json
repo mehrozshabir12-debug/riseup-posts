@@ -942,5 +942,24 @@
       "instagram_reel": 393130582,
       "story": 393130544
     }
+  },
+  {
+    "date": "2026-10-11",
+    "anime": false,
+    "tiktok": false,
+    "layout": "bold",
+    "source_outlet": "ARY News",
+    "language": "English",
+    "headline": "Security forces foil infiltration attempt from Afghanistan in Kurram: 12 khawarij and Afghan Taliban killed, Naib Subedar Hidayat Aman (40, Ghizer) martyred (ISPR)",
+    "source": "https://arynews.tv/kurram-infiltration-attempt-foiled-12-terrorists-killed-1-soldier-martyred",
+    "source_also": "https://tribune.com.pk/story/2634214/one-soldier-martyred-12-terrorists-killed-as-security-forces-foil-infiltration-attempt-in-kurram",
+    "published": "2026-10-11 12:34 PKT",
+    "image": "posts/2026-10-11-kurram-infiltration-foiled.jpg",
+    "story": "posts/2026-10-11-kurram-infiltration-foiled-story.jpg",
+    "video": "posts/2026-10-11-kurram-infiltration-foiled.mp4",
+    "scene": "police",
+    "seed": 174067389,
+    "music": "pending",
+    "scheduled": "pending"
   }
 ]
