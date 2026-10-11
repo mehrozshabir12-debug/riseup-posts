@@ -870,5 +870,26 @@
    "anime_reel_fb_ig_tiktok": 392792979,
    "story": 392793012
   }
+ },
+ {
+  "date": "2026-10-11",
+  "anime": true,
+  "anime_video": "posts/2026-10-11-pak-sl-2nd-t20i-today-anime.mp4",
+  "mood": "day",
+  "anime_seed": 379977674,
+  "tiktok": true,
+  "layout": "bold",
+  "source_outlet": "Daily Pakistan",
+  "language": "Roman Urdu",
+  "headline": "Pakistan vs Sri Lanka 2nd T20I today 6pm at Rawalpindi; Pakistan lead 3-match series 1-0 and can seal it with a win; 3rd T20I on Oct 13",
+  "source": "https://en.dailypakistan.com.pk/11-Oct-2026/pakistan-confident-of-sealing-t20i-series-against-sri-lanka-in-2nd-match-today",
+  "published": "2026-10-11 08:52 PKT",
+  "image": "posts/2026-10-11-pak-sl-2nd-t20i-today.jpg",
+  "story": "posts/2026-10-11-pak-sl-2nd-t20i-today-story.jpg",
+  "anime_cfg": "posts/2026-10-11-pak-sl-2nd-t20i-today-anime.json",
+  "scene": "cricket",
+  "seed": 908467691,
+  "music": "PENDING",
+  "scheduled": "PENDING"
  }
 ]
