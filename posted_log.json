@@ -889,7 +889,12 @@
   "anime_cfg": "posts/2026-10-11-pak-sl-2nd-t20i-today-anime.json",
   "scene": "cricket",
   "seed": 908467691,
-  "music": "PENDING",
-  "scheduled": "PENDING"
+  "music": "Glow (prod. by Jayme Stone) (Instrumental) - KNOTTS (id 336015428971390, audioType music; trending 'Patient Zero - Taylor Swift' had multiple matches)",
+  "scheduled": "2026-10-11 10:20 PKT",
+  "metricool": {
+   "facebook_post": 393101223,
+   "anime_reel_fb_ig_tiktok": 393101291,
+   "story": 393101232
+  }
  }
 ]
