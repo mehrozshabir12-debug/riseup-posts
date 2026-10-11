@@ -707,9 +707,45 @@ def prison(rng):
     return _glow(img, L, blur=24)
 
 
+def security(rng):
+    """army / security deployment: mountains, shield with crescent + star, searchlight beams."""
+    img, _ = _bg(rng, ["olive", "green", "slate", "teal"])
+    Lb = _new(); lb = ImageDraw.Draw(Lb)
+    for x0 in (rng.randint(60, 260), rng.randint(820, 1020)):  # searchlight beams
+        lb.polygon([(x0, 840), (x0 - 260 + rng.randint(-60, 60), 0), (x0 + 120 + rng.randint(-60, 60), 0)],
+                   fill=(255, 245, 200, 60))
+    img = _glow(img, Lb, blur=40, strength=1)
+    L = _new(); d = ImageDraw.Draw(L)
+    # mountain ridges
+    for layer, (col, base) in enumerate([((20, 45, 30, 255), 620), ((10, 25, 18, 255), 700)]):
+        pts = [(0, 840)]; x = 0
+        while x <= W:
+            pts.append((x, base - rng.randint(60, 220) if (x // 120) % 2 == 0 else base - rng.randint(0, 50)))
+            x += rng.randint(100, 160)
+        pts += [(W, base), (W, 840)]
+        d.polygon(pts, fill=col)
+    cx, cy = _side(rng), rng.randint(330, 380)
+    s = rng.uniform(0.95, 1.1)
+    sh = [(cx, cy - 230 * s), (cx + 190 * s, cy - 160 * s), (cx + 175 * s, cy + 50 * s), (cx, cy + 230 * s),
+          (cx - 175 * s, cy + 50 * s), (cx - 190 * s, cy - 160 * s)]
+    d.polygon(sh, fill=(225, 190, 70, 255))
+    inner = [(cx + (x - cx) * 0.86, cy + (y - cy) * 0.86) for x, y in sh]
+    d.polygon(inner, fill=(1, 90, 45, 255))
+    r = 95 * s
+    d.ellipse((cx - r, cy - r, cx + r, cy + r), fill=(255, 255, 255, 255))
+    d.ellipse((cx - r + 38 * s, cy - r - 18 * s, cx + r + 38 * s, cy + r - 18 * s), fill=(1, 90, 45, 255))
+    d.polygon(_star(cx + 40 * s, cy - 40 * s, 34 * s, 14 * s, rot=0.3), fill=(255, 255, 255, 255))
+    # chevrons under the shield
+    for k in range(rng.randint(2, 3)):
+        y = cy + 255 * s + k * 34
+        d.line([(cx - 90, y), (cx, y + 26), (cx + 90, y)], fill=YELLOW + (255,), width=12, joint="curve")
+    _sparkles(d, rng, rng.randint(6, 12), (255, 240, 190))
+    return _glow(img, L, blur=18, strength=1)
+
+
 SCENES = {f.__name__: f for f in [tribute, gold, fuel, electricity, currency, tax, people, heat, wind, rain, cricket, health,
                                   education, police, government, world, aviation, animal, tech, water, trade,
-                                  general, entertainment, ribbon, cinema, music, hospital, virus, prison]}
+                                  general, entertainment, ribbon, cinema, music, hospital, virus, prison, security]}
 
 # old "theme" names -> scenes that fit them (first = best fit)
 THEME_SCENES = {
