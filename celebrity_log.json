@@ -1,225 +1,241 @@
 [
- {
-  "date": "2026-10-08",
-  "person": "Shamoon Abbasi",
-  "handle": null,
-  "headline": "Shamoon Abbasi responds to Shaan Shahid on TikTokers in films: audiences and box office should decide",
-  "source": "24 News HD",
-  "source_url": "https://www.24newshd.tv/08-Oct-2026/shamoon-abbasi-challenges-shan-shahid-tiktokers-films",
-  "publish_time": "2026-10-08T15:20:00+05:00",
-  "image": "posts/2026-10-08-shamoon-abbasi-tiktokers-debate.jpg"
- },
- {
-  "date": "2026-10-08",
-  "person": "Minal Khan",
-  "handle": null,
-  "headline": "Minal Khan wears pink ribbon for Pinktober, urges women to check for signs of breast cancer",
-  "source": "Dawn Images",
-  "source_url": "https://images.dawn.com/news/1195973/minal-khan-wants-you-to-care-for-yourself-and-check-for-signs-of-breast-cancer",
-  "publish_time": "2026-10-08T18:40:00+05:00",
-  "image": "posts/2026-10-08-minal-khan-breast-cancer-awareness.jpg",
-  "story_image": "posts/2026-10-08-minal-khan-breast-cancer-awareness-story.jpg",
-  "scene": "entertainment",
-  "seed": 635624638
- },
- {
-  "date": "2026-10-08",
-  "person": "Asim Azhar",
-  "handle": "@asimazhar",
-  "headline": "Asim Azhar's father Azhar Hussain dances to son's new Coke Studio song 'Maheya' in viral reel; Hania Aamir reacts",
-  "source": "ARY News",
-  "source_url": "https://arynews.tv/hania-aamir-gushes-over-asim-azhars-fun-reel-with-his-dad",
-  "publish_time": "2026-10-08T22:25:00+05:00",
-  "scene": "entertainment",
-  "seed": 168862454,
-  "files": [
-   "posts/2026-10-08-asim-azhar-dad-maheya.jpg",
-   "posts/2026-10-08-asim-azhar-dad-maheya-story.jpg"
-  ],
-  "autoPublish": false,
-  "metricool_ids": [
-   391384471,
-   391384493
-  ]
- },
- {
-  "date": "2026-10-09",
-  "person": "Sahibzada Farhan",
-  "handle": null,
-  "headline": "Sahibzada Farhan leads Pakistan for first time at home in T20I series vs Sri Lanka; says captaincy is a matter of pride",
-  "source": "Samaa TV (also 24 News HD)",
-  "source_url": "https://www.samaa.tv/2087358162-sahibzada-farhan-optimistic-about-leading-pakistan-in-sri-lanka-t20is",
-  "source_urls": [
-   "https://www.samaa.tv/2087358162-sahibzada-farhan-optimistic-about-leading-pakistan-in-sri-lanka-t20is",
-   "https://www.24newshd.tv/08-Oct-2026/pakistan-sri-lanka-captains-confident-ahead-rawalpindi-t20i-opener"
-  ],
-  "publish_time": "2026-10-09T12:37:00+05:00",
-  "scene": "entertainment",
-  "seed": 93027214,
-  "scene_note": "cricket already used today (Abbas Afridi news post)",
-  "files": [
-   "posts/2026-10-09-sahibzada-farhan-captain-debut.jpg",
-   "posts/2026-10-09-sahibzada-farhan-captain-debut-story.jpg"
-  ],
-  "autoPublish": true,
-  "tiktok": true,
-  "metricool_ids": [
-   391811472,
-   391811495
-  ]
- },
- {
-  "date": "2026-10-09",
-  "person": "Jawed Sheikh, Saba Hameed, Shagufta Ejaz, Khalid Anum, Kubra Khan, Gohar Rasheed, Ahmed Ali Akbar, Ally Khan, Nabeel Zafar",
-  "handle": "@khaled_anam @sabahamid_21 @shaguftaejazofficial",
-  "headline": "Pakistani stars visit Palestinian patients in Jordan with SKT Welfare, help deliver food to 500+ displaced families (29 Sep-3 Oct mission)",
-  "source": "24 News HD",
-  "source_url": "https://www.24newshd.tv/09-Oct-2026/pakistani-stars-visit-palestinian-children-deliver-500-food-parcels-jordan",
-  "publish_time": "2026-10-09T17:45:00+05:00",
-  "scene": "people",
-  "seed": 290834322,
-  "scene_note": "music/cinema don't fit; entertainment already used today (Sahibzada Farhan)",
-  "files": [
-   "posts/2026-10-09-pak-stars-jordan-palestinians.jpg",
-   "posts/2026-10-09-pak-stars-jordan-palestinians-story.jpg"
-  ],
-  "autoPublish": true,
-  "tiktok": false,
-  "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
-  "metricool_ids": [
-   392018156,
-   392018178
-  ]
- },
- {
-  "date": "2026-10-09",
-  "person": "Amar Khan (praised by Saboor Ali)",
-  "handle": null,
-  "headline": "Saboor Ali praises Amar Khan's 'solid and honest' performance as Zareena in Green Entertainment's drama Mitti De Baway",
-  "source": "24 News HD",
-  "source_url": "https://24newshd.tv/09-Oct-2026/saboor-ali-hails-amar-khan-s-honest-portrayal-mitti-de-baway",
-  "source_urls": [
-   "https://24newshd.tv/09-Oct-2026/saboor-ali-hails-amar-khan-s-honest-portrayal-mitti-de-baway",
-   "https://24newshd.tv/09-Oct-2026/revenge-turns-brutal-baala-billo-s-feud-spirals-control-mitti-de-baway"
-  ],
-  "publish_time": "2026-10-09T22:25:00+05:00",
-  "scene": "cinema",
-  "seed": 198766701,
-  "files": [
-   "posts/2026-10-09-amar-khan-mitti-de-baway.jpg",
-   "posts/2026-10-09-amar-khan-mitti-de-baway-story.jpg"
-  ],
-  "autoPublish": true,
-  "tiktok": false,
-  "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
-  "skipped": "Neelam Muneer baby report - unconfirmed (family sources only)",
-  "metricool_ids": [
-   392241894,
-   392241915
-  ]
- },
- {
-  "date": "2026-10-10",
-  "person": "Faysal Quraishi",
-  "handle": null,
-  "headline": "Faysal Quraishi says parents should stand by their children even after marriage; sons and daughters deserve equal support (also mentions upcoming film Mango Jutt)",
-  "source": "Dunya News",
-  "source_url": "https://dunyanews.tv/index.php/en/Entertainment/976932-faysal-quraishi-says-parents-should-stand-by-their-children-even-after",
-  "publish_time": "2026-10-10T12:30:00+05:00",
-  "scene": "cinema",
-  "seed": 125712213,
-  "files": [
-   "posts/2026-10-10-faysal-quraishi-parents-message.jpg",
-   "posts/2026-10-10-faysal-quraishi-parents-message-story.jpg"
-  ],
-  "autoPublish": true,
-  "tiktok": false,
-  "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
-  "skipped": "Emaan Fatima vs Rajab Butt family court case (private/legal dispute); Yumna Zaidi crying video (private moment)",
-  "metricool_ids": [
-   392596097,
-   392596111
-  ]
- },
- {
-  "date": "2026-10-10",
-  "person": "Komal Aziz Khan",
-  "handle": null,
-  "headline": "Former actress Komal Aziz responds to comments on her weight gain after her clothing-brand photoshoot; urges people to be kind and avoid personal remarks",
-  "source": "24 News HD",
-  "source_url": "https://www.24newshd.tv/10-Oct-2026/komal-aziz-hits-back-body-shamers-weight-gain",
-  "publish_time": "2026-10-10T17:25:00+05:00",
-  "scene": "entertainment",
-  "seed": 843082080,
-  "files": [
-   "posts/2026-10-10-komal-aziz-be-kind.jpg",
-   "posts/2026-10-10-komal-aziz-be-kind-story.jpg"
-  ],
-  "autoPublish": true,
-  "tiktok": true,
-  "handle_note": "Not tagged: article only shows brand account @omalbykomal, personal handle not confirmed",
-  "skipped": "Nadia Afgan Tamasha 5 stance (contestant allegations/controversy); Hania Aamir-Asim Azhar Maheya follow-up (Maheya already posted 8 Oct)",
-  "metricool_ids": [
-   392711437,
-   392711444
-  ]
- },
- {
-  "date": "2026-10-10",
-  "person": "Meera (Syeda Irtiza Rubab)",
-  "handle": null,
-  "headline": "Actress Meera turned back at Canada's Niagara border while travelling from New York for a show; says she does not yet know why and is verifying the facts",
-  "source": "Geo News",
-  "source_url": "https://www.geo.tv/latest/685934-meera-deported-from-canada-after-immigration-questioning",
-  "publish_time": "2026-10-10T22:25:00+05:00",
-  "scene": "music",
-  "seed": 253128981,
-  "tiktok": true,
-  "image": "posts/2026-10-10-meera-canada-border.jpg",
-  "story_image": "posts/2026-10-10-meera-canada-border-story.jpg",
-  "metricool_ids": {
-   "post": 392852039,
-   "story": 392852049
+  {
+    "date": "2026-10-08",
+    "person": "Shamoon Abbasi",
+    "handle": null,
+    "headline": "Shamoon Abbasi responds to Shaan Shahid on TikTokers in films: audiences and box office should decide",
+    "source": "24 News HD",
+    "source_url": "https://www.24newshd.tv/08-Oct-2026/shamoon-abbasi-challenges-shan-shahid-tiktokers-films",
+    "publish_time": "2026-10-08T15:20:00+05:00",
+    "image": "posts/2026-10-08-shamoon-abbasi-tiktokers-debate.jpg"
   },
-  "networks": "facebook+instagram+tiktok; story facebook+instagram"
- },
- {
-  "date": "2026-10-11",
-  "person": "Sania Saeed",
-  "handle": null,
-  "headline": "Sania Saeed questions the idea that a son should obey his mother without question, discussing her character Khushbakht and son Abu Bakar (Sheheryar Munawar) in drama Dar e Nijaat (BBC Urdu interview)",
-  "source": "24 News HD (interview with BBC Urdu)",
-  "source_url": "https://www.24newshd.tv/11-Oct-2026/sania-saeed-questions-abu-bakar-s-blind-obedience-khushbakht-dar-e-nijaat",
-  "publish_time": "2026-10-11T12:24:00+05:00",
-  "scene": "cinema",
-  "seed": 863505589,
-  "tiktok": true,
-  "image": "posts/2026-10-11-sania-saeed-dar-e-nijaat.jpg",
-  "story_image": "posts/2026-10-11-sania-saeed-dar-e-nijaat-story.jpg",
-  "networks": "facebook+instagram+tiktok; story facebook+instagram",
-  "metricool_ids": {
-   "post": 393134912,
-   "story": 393134922
+  {
+    "date": "2026-10-08",
+    "person": "Minal Khan",
+    "handle": null,
+    "headline": "Minal Khan wears pink ribbon for Pinktober, urges women to check for signs of breast cancer",
+    "source": "Dawn Images",
+    "source_url": "https://images.dawn.com/news/1195973/minal-khan-wants-you-to-care-for-yourself-and-check-for-signs-of-breast-cancer",
+    "publish_time": "2026-10-08T18:40:00+05:00",
+    "image": "posts/2026-10-08-minal-khan-breast-cancer-awareness.jpg",
+    "story_image": "posts/2026-10-08-minal-khan-breast-cancer-awareness-story.jpg",
+    "scene": "entertainment",
+    "seed": 635624638
+  },
+  {
+    "date": "2026-10-08",
+    "person": "Asim Azhar",
+    "handle": "@asimazhar",
+    "headline": "Asim Azhar's father Azhar Hussain dances to son's new Coke Studio song 'Maheya' in viral reel; Hania Aamir reacts",
+    "source": "ARY News",
+    "source_url": "https://arynews.tv/hania-aamir-gushes-over-asim-azhars-fun-reel-with-his-dad",
+    "publish_time": "2026-10-08T22:25:00+05:00",
+    "scene": "entertainment",
+    "seed": 168862454,
+    "files": [
+      "posts/2026-10-08-asim-azhar-dad-maheya.jpg",
+      "posts/2026-10-08-asim-azhar-dad-maheya-story.jpg"
+    ],
+    "autoPublish": false,
+    "metricool_ids": [
+      391384471,
+      391384493
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "person": "Sahibzada Farhan",
+    "handle": null,
+    "headline": "Sahibzada Farhan leads Pakistan for first time at home in T20I series vs Sri Lanka; says captaincy is a matter of pride",
+    "source": "Samaa TV (also 24 News HD)",
+    "source_url": "https://www.samaa.tv/2087358162-sahibzada-farhan-optimistic-about-leading-pakistan-in-sri-lanka-t20is",
+    "source_urls": [
+      "https://www.samaa.tv/2087358162-sahibzada-farhan-optimistic-about-leading-pakistan-in-sri-lanka-t20is",
+      "https://www.24newshd.tv/08-Oct-2026/pakistan-sri-lanka-captains-confident-ahead-rawalpindi-t20i-opener"
+    ],
+    "publish_time": "2026-10-09T12:37:00+05:00",
+    "scene": "entertainment",
+    "seed": 93027214,
+    "scene_note": "cricket already used today (Abbas Afridi news post)",
+    "files": [
+      "posts/2026-10-09-sahibzada-farhan-captain-debut.jpg",
+      "posts/2026-10-09-sahibzada-farhan-captain-debut-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": true,
+    "metricool_ids": [
+      391811472,
+      391811495
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "person": "Jawed Sheikh, Saba Hameed, Shagufta Ejaz, Khalid Anum, Kubra Khan, Gohar Rasheed, Ahmed Ali Akbar, Ally Khan, Nabeel Zafar",
+    "handle": "@khaled_anam @sabahamid_21 @shaguftaejazofficial",
+    "headline": "Pakistani stars visit Palestinian patients in Jordan with SKT Welfare, help deliver food to 500+ displaced families (29 Sep-3 Oct mission)",
+    "source": "24 News HD",
+    "source_url": "https://www.24newshd.tv/09-Oct-2026/pakistani-stars-visit-palestinian-children-deliver-500-food-parcels-jordan",
+    "publish_time": "2026-10-09T17:45:00+05:00",
+    "scene": "people",
+    "seed": 290834322,
+    "scene_note": "music/cinema don't fit; entertainment already used today (Sahibzada Farhan)",
+    "files": [
+      "posts/2026-10-09-pak-stars-jordan-palestinians.jpg",
+      "posts/2026-10-09-pak-stars-jordan-palestinians-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
+    "metricool_ids": [
+      392018156,
+      392018178
+    ]
+  },
+  {
+    "date": "2026-10-09",
+    "person": "Amar Khan (praised by Saboor Ali)",
+    "handle": null,
+    "headline": "Saboor Ali praises Amar Khan's 'solid and honest' performance as Zareena in Green Entertainment's drama Mitti De Baway",
+    "source": "24 News HD",
+    "source_url": "https://24newshd.tv/09-Oct-2026/saboor-ali-hails-amar-khan-s-honest-portrayal-mitti-de-baway",
+    "source_urls": [
+      "https://24newshd.tv/09-Oct-2026/saboor-ali-hails-amar-khan-s-honest-portrayal-mitti-de-baway",
+      "https://24newshd.tv/09-Oct-2026/revenge-turns-brutal-baala-billo-s-feud-spirals-control-mitti-de-baway"
+    ],
+    "publish_time": "2026-10-09T22:25:00+05:00",
+    "scene": "cinema",
+    "seed": 198766701,
+    "files": [
+      "posts/2026-10-09-amar-khan-mitti-de-baway.jpg",
+      "posts/2026-10-09-amar-khan-mitti-de-baway-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
+    "skipped": "Neelam Muneer baby report - unconfirmed (family sources only)",
+    "metricool_ids": [
+      392241894,
+      392241915
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "person": "Faysal Quraishi",
+    "handle": null,
+    "headline": "Faysal Quraishi says parents should stand by their children even after marriage; sons and daughters deserve equal support (also mentions upcoming film Mango Jutt)",
+    "source": "Dunya News",
+    "source_url": "https://dunyanews.tv/index.php/en/Entertainment/976932-faysal-quraishi-says-parents-should-stand-by-their-children-even-after",
+    "publish_time": "2026-10-10T12:30:00+05:00",
+    "scene": "cinema",
+    "seed": 125712213,
+    "files": [
+      "posts/2026-10-10-faysal-quraishi-parents-message.jpg",
+      "posts/2026-10-10-faysal-quraishi-parents-message-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": false,
+    "tiktok_note": "TikTok paused until 10 Oct 1:40 PM PKT",
+    "skipped": "Emaan Fatima vs Rajab Butt family court case (private/legal dispute); Yumna Zaidi crying video (private moment)",
+    "metricool_ids": [
+      392596097,
+      392596111
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "person": "Komal Aziz Khan",
+    "handle": null,
+    "headline": "Former actress Komal Aziz responds to comments on her weight gain after her clothing-brand photoshoot; urges people to be kind and avoid personal remarks",
+    "source": "24 News HD",
+    "source_url": "https://www.24newshd.tv/10-Oct-2026/komal-aziz-hits-back-body-shamers-weight-gain",
+    "publish_time": "2026-10-10T17:25:00+05:00",
+    "scene": "entertainment",
+    "seed": 843082080,
+    "files": [
+      "posts/2026-10-10-komal-aziz-be-kind.jpg",
+      "posts/2026-10-10-komal-aziz-be-kind-story.jpg"
+    ],
+    "autoPublish": true,
+    "tiktok": true,
+    "handle_note": "Not tagged: article only shows brand account @omalbykomal, personal handle not confirmed",
+    "skipped": "Nadia Afgan Tamasha 5 stance (contestant allegations/controversy); Hania Aamir-Asim Azhar Maheya follow-up (Maheya already posted 8 Oct)",
+    "metricool_ids": [
+      392711437,
+      392711444
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "person": "Meera (Syeda Irtiza Rubab)",
+    "handle": null,
+    "headline": "Actress Meera turned back at Canada's Niagara border while travelling from New York for a show; says she does not yet know why and is verifying the facts",
+    "source": "Geo News",
+    "source_url": "https://www.geo.tv/latest/685934-meera-deported-from-canada-after-immigration-questioning",
+    "publish_time": "2026-10-10T22:25:00+05:00",
+    "scene": "music",
+    "seed": 253128981,
+    "tiktok": true,
+    "image": "posts/2026-10-10-meera-canada-border.jpg",
+    "story_image": "posts/2026-10-10-meera-canada-border-story.jpg",
+    "metricool_ids": {
+      "post": 392852039,
+      "story": 392852049
+    },
+    "networks": "facebook+instagram+tiktok; story facebook+instagram"
+  },
+  {
+    "date": "2026-10-11",
+    "person": "Sania Saeed",
+    "handle": null,
+    "headline": "Sania Saeed questions the idea that a son should obey his mother without question, discussing her character Khushbakht and son Abu Bakar (Sheheryar Munawar) in drama Dar e Nijaat (BBC Urdu interview)",
+    "source": "24 News HD (interview with BBC Urdu)",
+    "source_url": "https://www.24newshd.tv/11-Oct-2026/sania-saeed-questions-abu-bakar-s-blind-obedience-khushbakht-dar-e-nijaat",
+    "publish_time": "2026-10-11T12:24:00+05:00",
+    "scene": "cinema",
+    "seed": 863505589,
+    "tiktok": true,
+    "image": "posts/2026-10-11-sania-saeed-dar-e-nijaat.jpg",
+    "story_image": "posts/2026-10-11-sania-saeed-dar-e-nijaat-story.jpg",
+    "networks": "facebook+instagram+tiktok; story facebook+instagram",
+    "metricool_ids": {
+      "post": 393134912,
+      "story": 393134922
+    }
+  },
+  {
+    "date": "2026-10-11",
+    "person": "Babrik Shah",
+    "handle": null,
+    "headline": "Babrik Shah wins ARY Digital's reality show Tamasha Season 5 in grand finale (10 Oct), takes home Rs 47 lakh; Esra Ayesha runner-up, Fasih Khalid third; host Adnan Siddiqui announced result",
+    "source": "24 News HD / Daily Pakistan",
+    "source_url": "https://www.24newshd.tv/11-Oct-2026/babrik-shah-crowned-tamasha-5-winner-thrilling-grand-finale",
+    "source_url_2": "https://en.dailypakistan.com.pk/10-Oct-2026/babrik-shah-wins-tamasha-season-5-taking-home-rs4-7-million-in-prize-money",
+    "publish_time": "2026-10-11T17:25:00+05:00",
+    "scene": "entertainment",
+    "seed": 751406028,
+    "tiktok": true,
+    "image": "posts/2026-10-11-babrik-shah-tamasha-5-winner.jpg",
+    "story_image": "posts/2026-10-11-babrik-shah-tamasha-5-winner-story.jpg",
+    "networks": "facebook+instagram+tiktok; story facebook+instagram",
+    "metricool_ids": {
+      "post": 393246151,
+      "story": 393246163
+    }
+  },
+  {
+    "date": "2026-10-11",
+    "person": "Sanam Baloch",
+    "handle": "@thesanambaloch",
+    "headline": "Sanam Baloch posts 'first attempt at singing' Instagram reel; twist at the end reveals the voice is singer Sabreen Hisbani's",
+    "source": "ARY News",
+    "source_url": "https://arynews.tv/sanam-balochs-hilarious-lip-sync-prank-steals-the-show",
+    "publish_time": "2026-10-11T22:24:00+05:00",
+    "scene": "music",
+    "seed": 309654130,
+    "tiktok": false,
+    "tiktok_note": "skipped: today's TikTok count already 8/8",
+    "image": "posts/2026-10-11-sanam-baloch-lip-sync-twist.jpg",
+    "story_image": "posts/2026-10-11-sanam-baloch-lip-sync-twist-story.jpg",
+    "networks": "facebook+instagram; story facebook+instagram"
   }
- },
- {
-  "date": "2026-10-11",
-  "person": "Babrik Shah",
-  "handle": null,
-  "headline": "Babrik Shah wins ARY Digital's reality show Tamasha Season 5 in grand finale (10 Oct), takes home Rs 47 lakh; Esra Ayesha runner-up, Fasih Khalid third; host Adnan Siddiqui announced result",
-  "source": "24 News HD / Daily Pakistan",
-  "source_url": "https://www.24newshd.tv/11-Oct-2026/babrik-shah-crowned-tamasha-5-winner-thrilling-grand-finale",
-  "source_url_2": "https://en.dailypakistan.com.pk/10-Oct-2026/babrik-shah-wins-tamasha-season-5-taking-home-rs4-7-million-in-prize-money",
-  "publish_time": "2026-10-11T17:25:00+05:00",
-  "scene": "entertainment",
-  "seed": 751406028,
-  "tiktok": true,
-  "image": "posts/2026-10-11-babrik-shah-tamasha-5-winner.jpg",
-  "story_image": "posts/2026-10-11-babrik-shah-tamasha-5-winner-story.jpg",
-  "networks": "facebook+instagram+tiktok; story facebook+instagram",
-  "metricool_ids": {
-   "post": 393246151,
-   "story": 393246163
-  }
- }
 ]
