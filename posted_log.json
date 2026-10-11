@@ -1094,5 +1094,34 @@
       "story": 393265940
     },
     "note": "no TikTok: 7 of 8 TikTok slots used today (5 news + 2 star), last slot reserved for the 3rd anime Reel"
+  },
+  {
+    "date": "2026-10-11",
+    "anime": false,
+    "tiktok": false,
+    "layout": "bold",
+    "source_outlet": "ProPakistani / Business Recorder",
+    "language": "Roman Urdu",
+    "headline": "Federal govt deploys Pakistan Army in KP under Article 245 'in aid of civil power' for the duration of the emergency (troop numbers to be set by Governor with GHQ); Governor Kundi's 11-member advisory council to run KP departments",
+    "source": "https://propakistani.pk/2026/10/11/govt-deploys-pakistan-army-in-kp-after-imposing-emergency/",
+    "source_also": [
+      "https://www.brecorder.com/news/40443685/govt-deploys-army-for-security-of-lives-properties-in-khyber-pakhtunkhwa",
+      "https://urdu.bolnews.com/pakistan/858455",
+      "https://propakistani.pk/2026/10/11/kp-governor-forms-11-member-team-to-run-province/"
+    ],
+    "published": "2026-10-11 18:06 PKT (Bol 17:46, ProPakistani council story 17:52, Business Recorder 18:11)",
+    "image": "posts/2026-10-11-army-deployed-kp.jpg",
+    "story": "posts/2026-10-11-army-deployed-kp-story.jpg",
+    "video": "posts/2026-10-11-army-deployed-kp.mp4",
+    "scene": "security",
+    "seed": 289736590,
+    "music": "Float (Instrumental) - Sleeping Lion (id 589750179694057, audioType music; searched trending 'Patient Zero - Taylor Swift', multiple matches; calm for security news)",
+    "scheduled": "2026-10-11 19:12 PKT",
+    "networks": "facebook POST (no TikTok: 7/8 daily TikTok used, last slot reserved for 3rd anime); instagram REEL; facebook+instagram STORY",
+    "metricool_ids": {
+      "facebook_post": 393299879,
+      "instagram_reel": 393300123,
+      "story": 393299896
+    }
   }
 ]
