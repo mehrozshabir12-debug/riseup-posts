@@ -743,9 +743,42 @@ def security(rng):
     return _glow(img, L, blur=18, strength=1)
 
 
+def trophy(rng):
+    """series win / title / championship: golden cup under spotlights with confetti."""
+    img, _ = _bg(rng, ["navy", "purple", "green", "maroon", "teal"])
+    L = _new(); d = ImageDraw.Draw(L)
+    cx = _side(rng)
+    for k in range(rng.randint(3, 5)):  # spotlight beams
+        x0 = rng.randint(0, W)
+        d.polygon([(x0 - 30, 0), (x0 + 30, 0), (cx + 150, 720), (cx - 150, 720)], fill=(255, 250, 220, 22))
+    img = _glow(img, L, blur=30, strength=1)
+    T = _new(); t = ImageDraw.Draw(T)
+    g1, g2 = (250, 200, 40, 255), (200, 140, 20, 255)
+    top = rng.randint(150, 200)
+    t.chord((cx - 170, top - 60, cx + 170, top + 300), 0, 180, fill=g1)          # cup bowl
+    t.rectangle((cx - 170, top - 10, cx + 170, top + 120), fill=g1)
+    t.ellipse((cx - 170, top - 40, cx + 170, top + 20), fill=g2)                 # rim
+    t.ellipse((cx - 150, top - 30, cx + 150, top + 10), fill=(120, 80, 10, 255))
+    for sgn in (-1, 1):                                                           # handles
+        t.arc((cx + sgn * 200 - 70, top + 10, cx + sgn * 200 + 70, top + 170), 0, 360, fill=g2, width=22)
+    t.rectangle((cx - 28, top + 235, cx + 28, top + 360), fill=g2)                 # stem
+    t.rounded_rectangle((cx - 120, top + 355, cx + 120, top + 400), radius=10, fill=g1)
+    t.rounded_rectangle((cx - 160, top + 400, cx + 160, top + 480), radius=12, fill=(60, 35, 15, 255))
+    t.rectangle((cx - 110, top + 425, cx + 110, top + 455), fill=g1)
+    t.polygon(_star(cx, top + 120, 60, 25), fill=(255, 245, 200, 255))
+    t.line([(cx - 120, top + 20), (cx - 80, top + 200)], fill=(255, 250, 220, 160), width=10)  # shine
+    for _ in range(rng.randint(60, 110)):                                          # confetti
+        x, y = rng.randint(0, W), rng.randint(0, 760)
+        col = rng.choice([(0, 200, 90), (255, 255, 255), YELLOW, (60, 170, 255), (235, 60, 80)])
+        w, h = rng.randint(8, 18), rng.randint(4, 9)
+        piece = Image.new("RGBA", (w, h), col + (230,)).rotate(rng.randint(0, 180), expand=True)
+        T.paste(piece, (x, y), piece)
+    return _glow(img, T, blur=24, strength=2)
+
+
 SCENES = {f.__name__: f for f in [tribute, gold, fuel, electricity, currency, tax, people, heat, wind, rain, cricket, health,
                                   education, police, government, world, aviation, animal, tech, water, trade,
-                                  general, entertainment, ribbon, cinema, music, hospital, virus, prison, security]}
+                                  general, entertainment, ribbon, cinema, music, hospital, virus, prison, security, trophy]}
 
 # old "theme" names -> scenes that fit them (first = best fit)
 THEME_SCENES = {
@@ -753,7 +786,7 @@ THEME_SCENES = {
     "weather": ["rain", "wind", "heat"],
     "energy": ["electricity", "fuel"],
     "water": ["water"],
-    "sports": ["cricket"],
+    "sports": ["cricket", "trophy"],
     "tech": ["tech"],
     "general": ["general", "government", "world", "people"],
     "entertainment": ["entertainment", "cinema", "music"],
