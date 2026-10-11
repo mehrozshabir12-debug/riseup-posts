@@ -1,0 +1,17 @@
+{
+ "mood": "sunset",
+ "seed": 64806714,
+ "line1": "Meat Exporter Hit",
+ "line2": "Profit Down 74%",
+ "sub": "War disrupts Gulf shipping for",
+ "sub_hl": "TOMCL",
+ "tag": "Business, Exports",
+ "paragraphs": [
+  "The Organic Meat Company, a Pakistani exporter listed on the PSX, says its yearly profit fell **74%** to about **$405,000** in FY2026.",
+  "Sales dropped more than **11%** to **$44.4 million**, down from $50.5 million last year.",
+  "The company links the fall to the US-Iran war, which **disrupted shipments** to its Gulf markets such as the UAE and Saudi Arabia.",
+  "It exports beef, mutton and camel meat to more than **16 countries**."
+ ],
+ "question": "Will the Gulf crisis hurt more Pakistani exporters?",
+ "source": "ProPakistani"
+}
