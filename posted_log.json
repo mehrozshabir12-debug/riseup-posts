@@ -995,5 +995,32 @@
       "instagram_reel": 393169007,
       "story": 393168961
     }
+  },
+  {
+    "date": "2026-10-11",
+    "anime": true,
+    "anime_video": "posts/2026-10-11-meat-export-profit-drop-anime.mp4",
+    "anime_cfg": "posts/2026-10-11-meat-export-profit-drop-anime.json",
+    "mood": "sunset",
+    "anime_seed": "64806714",
+    "tiktok": true,
+    "layout": "bold",
+    "source_outlet": "ProPakistani",
+    "language": "English",
+    "headline": "The Organic Meat Company (TOMCL) FY2026 profit falls 74% to ~$405,000; sales down 11% to $44.4m as US-Iran war disrupts Gulf shipments",
+    "source": "https://propakistani.pk/2026/10/11/us-iran-war-drives-dagger-through-pakistan-meat-exports/",
+    "published": "2026-10-11 15:46 PKT",
+    "image": "posts/2026-10-11-meat-export-profit-drop.jpg",
+    "story": "posts/2026-10-11-meat-export-profit-drop-story.jpg",
+    "scene": "trade",
+    "seed": "319157869",
+    "music": "Melodic Mountain - Ross Lara (id 297072506536797, audioType music; trending 'About You - The 1975' only as original_sound)",
+    "scheduled": "2026-10-11 16:18 PKT",
+    "metricool": {
+      "anime_reel_fb_ig_tiktok": 393219103,
+      "facebook_post": 393219154,
+      "story": 393219173
+    },
+    "note": "only fresh (<2h) Pakistan story this run besides KP-emergency follow-ups (skipped as repeat of the 12:05/14:08 KP posts)"
   }
 ]
