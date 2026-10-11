@@ -1172,7 +1172,13 @@
     "video": "posts/2026-10-11-pak-beat-sl-82-runs-series.mp4",
     "scene": "trophy",
     "seed": 740600315,
-    "music": "Funkytown - Lipps Inc. (trending search term)",
-    "scheduled": "pending"
+    "music": "Iced Latte - Global Genius (id 810120545333296, audioType music; searched trending 'Funkytown - Lipps Inc.', only original_sound matches)",
+    "scheduled": "2026-10-11 22:12 PKT",
+    "metricool_ids": {
+      "facebook_post": 393400437,
+      "instagram_reel": 393400627,
+      "stories": 393400528
+    },
+    "networks": "facebook POST + instagram REEL + fb/ig STORY (no TikTok: 8/day limit reached)"
   }
 ]
