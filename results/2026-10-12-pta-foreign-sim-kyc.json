@@ -1,0 +1,146 @@
+{
+ "id": "2026-10-12-pta-foreign-sim-kyc",
+ "revision": 1,
+ "request": "requests/2026-10-12-pta-foreign-sim-kyc.json",
+ "type": "news",
+ "headline": "PTA proposes KYC identity checks for foreign SIM and eSIM users on international roaming under draft 2026 inbound roaming regulations; comments open until 10 November",
+ "warnings": [
+  "narrated Reel failed (narration failed: edge-tts attempt 1: Command '['/home/runner/.local/bin/edge-tts', '--voice', 'ur-PK-AsadNeural', '--rate=+4%', '--text', 'پی ٹی اے غیر ملکی سم اور ای سم استعمال کرنے والوں کی شناخت چیک کرنے کا منصوبہ بنا رہا ہے۔', '--write-media', '/tmp/reel_4um44e08/v0.mp3']' returned non-zero exit status 1.; edge-tts attempt 2: Command '['/home/runner/.local/bin/edge-tts', '--voice', 'ur-PK-AsadNeural', '--rate=+4%', '--text', 'پی ٹی اے غیر ملکی سم اور ای سم استعمال کرنے والوں کی شناخت چیک کرنے کا منصوبہ بنا رہا ہے۔', '--write-media', '/tmp/reel_4um44e08/v0.mp3']' returned non-zero exit status 1.; edge-tts attempt 3: Command '['/home/runner/.local/bin/edge-tts', '--voice', 'ur-PK-AsadNeural', '--rate=+4%', '--text', 'پی ٹی اے غیر ملکی سم اور ای سم استعمال کرنے والوں کی شناخت چیک کرنے کا منصوبہ بنا رہا ہے۔', '--write-media', '/tmp/reel_4um44e08/v0.mp3']' returned non-zero exit status 1.); approved zoom Reel used instead"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-10-12T15:45:00+05:00",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-12-pta-foreign-sim-kyc.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-12-pta-foreign-sim-kyc-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-12-pta-foreign-sim-kyc.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-12-pta-foreign-sim-kyc.jpg",
+  "story": "posts/2026-10-12-pta-foreign-sim-kyc-story.jpg",
+  "reel": "posts/2026-10-12-pta-foreign-sim-kyc.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 685012562,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-12T15:45:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "📱 Foreign SIM users ki identity check hogi?\n\n• PTA ne international roaming par foreign SIM aur eSIM users ke liye KYC tajweez di hai\n• Passport, qaumiyat, Pakistan aamad ki tareekh aur qayam ki muddat jaisi maloomat maangi ja sakti hain\n• Maqsad: spoofed calls, SMS phishing, extortion aur online fraud rokna\n• Abhi yeh sirf draft hai, raaye 10 November tak di ja sakti hai\n\nKya yeh qadam fraud rokne mein madadgar hoga? Comment mein batayein 👇\n\nSource: ProPakistani\n\n#RiseUpPakistan #PTA #Pakistan #PakistanNews #SIM #CyberFraud #Telecom",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-12-pta-foreign-sim-kyc.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PTA ka foreign SIM users ke liye KYC plan",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-12T15:45:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "📱 Foreign SIM users ki identity check hogi?\n\n• PTA ne international roaming par foreign SIM aur eSIM users ke liye KYC tajweez di hai\n• Passport, qaumiyat, Pakistan aamad ki tareekh aur qayam ki muddat jaisi maloomat maangi ja sakti hain\n• Maqsad: spoofed calls, SMS phishing, extortion aur online fraud rokna\n• Abhi yeh sirf draft hai, raaye 10 November tak di ja sakti hai\n\nKya yeh qadam fraud rokne mein madadgar hoga? Comment mein batayein 👇\n\nSource: ProPakistani\n\n#RiseUpPakistan #PTA #Pakistan #PakistanNews #SIM #CyberFraud #Telecom",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-12-pta-foreign-sim-kyc.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-12-pta-foreign-sim-kyc-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": false,
+     "showReelOnFeed": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-12T15:45:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-12-pta-foreign-sim-kyc-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": false
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-12T15:25:49+05:00"
+}
