@@ -1483,7 +1483,7 @@
   "reel_kind": "narrated",
   "scheduled": "2026-10-12 15:53 PKT",
   "music": null,
-  "publish_status": "scheduled",
+  "publish_status": "published",
   "metricool_ids": {
    "feed": 393898948,
    "reel": 393899023,
@@ -1495,21 +1495,27 @@
     "facebook": "PUBLISHED"
    },
    "reel": {
-    "facebook": "PENDING",
-    "instagram": "PENDING",
-    "tiktok": "PENDING"
+    "facebook": "PUBLISHED",
+    "instagram": "PUBLISHED",
+    "tiktok": "PUBLISHED"
    },
    "story": {
     "facebook": "PUBLISHED",
-    "instagram": "PENDING"
+    "instagram": "PUBLISHED"
    }
   },
   "public_urls": {
    "feed": {
     "facebook": "https://facebook.com/122185478282855502/posts/122186113142855502"
    },
+   "reel": {
+    "facebook": "https://facebook.com/reel/974270865108204",
+    "instagram": "https://www.instagram.com/reel/DeZENaHiPwY/",
+    "tiktok": "https://www.tiktok.com/@riseuppakistan2025/video/7695733162038594822"
+   },
    "story": {
-    "facebook": "https://facebook.com/122185478282855502/posts/997124610073549"
+    "facebook": "https://facebook.com/122185478282855502/posts/997124610073549",
+    "instagram": "https://www.instagram.com/stories/riseuppakistann/4006251470969681348"
    }
   }
  }
