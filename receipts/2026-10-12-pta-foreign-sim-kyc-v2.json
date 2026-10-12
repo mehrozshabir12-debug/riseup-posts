@@ -1,7 +1,7 @@
 {
  "id": "2026-10-12-pta-foreign-sim-kyc-v2",
  "scheduled": "2026-10-12 15:53 PKT",
- "checked_at": "2026-10-12 15:55 PKT",
+ "checked_at": "2026-10-12 15:58 PKT",
  "posts": {
   "feed": {
    "metricool_id": 393898948,
@@ -16,21 +16,26 @@
   "reel": {
    "metricool_id": 393899023,
    "status": {
-    "facebook": "PENDING",
-    "instagram": "PENDING",
-    "tiktok": "PENDING"
+    "facebook": "PUBLISHED",
+    "instagram": "PUBLISHED",
+    "tiktok": "PUBLISHED"
    },
-   "note": "Metricool status PUBLISHING (video processing)",
+   "public_urls": {
+    "facebook": "https://facebook.com/reel/974270865108204",
+    "instagram": "https://www.instagram.com/reel/DeZENaHiPwY/",
+    "tiktok": "https://www.tiktok.com/@riseuppakistan2025/video/7695733162038594822"
+   },
    "attempts": 1
   },
   "story": {
    "metricool_id": 393899049,
    "status": {
     "facebook": "PUBLISHED",
-    "instagram": "PENDING"
+    "instagram": "PUBLISHED"
    },
    "public_urls": {
-    "facebook": "https://facebook.com/122185478282855502/posts/997124610073549"
+    "facebook": "https://facebook.com/122185478282855502/posts/997124610073549",
+    "instagram": "https://www.instagram.com/stories/riseuppakistann/4006251470969681348"
    },
    "attempts": 1
   }
