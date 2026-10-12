@@ -1,3 +1,5 @@
+> ⏸ **ALL RISEUP POSTING IS PAUSED by the owner (12 Oct 2026).** No posts, no scheduling, no requests until the owner resumes.
+
 # RiseUp Pakistan – automatic news posting guide
 
 Brand: RiseUp Pakistan (Metricool blogId 7305396). Networks: facebook, instagram, tiktok.

@@ -1,3 +1,5 @@
+> ⏸ **SYSTEM PAUSED by the owner (12 Oct 2026).** Do not commit requests, do not schedule anything in Metricool, and do not post. Wait until the owner says to resume.
+
 # RiseUp Pakistan: operating guide for ChatGPT (GitHub connector + Metricool connector)
 
 Repo: `mehrozshabir12-debug/riseup-posts` (branch `main`). Metricool brand **blogId `7305396`**, timezone **Asia/Karachi**.

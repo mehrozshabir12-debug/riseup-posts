@@ -6,15 +6,16 @@ name: RiseUp Media Manager
 # Posting results are reported back with  receipts/<id>.json  (merged automatically).
 # Optional: with METRICOOL_USER_TOKEN + METRICOOL_USER_ID secrets it also schedules via the Metricool API.
 
+# ⏸ PAUSED by the owner on 12 Oct 2026 (Pakistan time 16:00). Automatic triggers are switched off:
+# committing requests/ or receipts/ does NOTHING until the owner says to resume.
+# To resume, restore these lines under "on:":
+#   push:
+#     branches: [main]
+#     paths: ["requests/**.json", "receipts/**.json"]
+#   schedule:
+#     - cron: "*/30 * * * *"
 on:
-  push:
-    branches: [main]
-    paths:
-      - "requests/**.json"
-      - "receipts/**.json"
   workflow_dispatch: {}
-  schedule:
-    - cron: "*/30 * * * *"        # status check + safe retry (only does work in Metricool API mode)
 
 permissions:
   contents: write
