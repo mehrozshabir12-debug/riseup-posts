@@ -1206,5 +1206,43 @@
    "stories": 393435457
   },
   "networks": "facebook POST + instagram REEL + fb/ig STORY (no TikTok: 8/day limit reached)"
+ },
+ {
+  "date": "2026-10-12",
+  "anime": true,
+  "anime_video": "posts/2026-10-12-kp-3-districts-schools-closed-anime.mp4",
+  "anime_cfg": "posts/2026-10-12-kp-3-districts-schools-closed-anime.json",
+  "mood": "day",
+  "anime_seed": "591546619",
+  "tiktok": true,
+  "layout": "bold",
+  "source_outlet": "ProPakistani",
+  "language": "Roman Urdu",
+  "headline": "Schools, colleges and universities closed today (12 Oct) in Swabi, Mardan and Nowshera (KP) after emergency; Mardan and Nowshera exams cancelled; BISE Swat postpones matric exams until further notice",
+  "source": "https://propakistani.pk/2026/10/12/holiday-announced-for-schools-colleges-and-universities-in-3-kp-districts/",
+  "source2": "https://propakistani.pk/2026/10/12/matric-exams-postponed-in-kp-district/",
+  "published": "2026-10-12 09:10 PKT (Swat matric: 09:24 PKT)",
+  "scene": "people",
+  "seed": 392936209,
+  "image": "posts/2026-10-12-kp-3-districts-schools-closed.jpg",
+  "story": "posts/2026-10-12-kp-3-districts-schools-closed-story.jpg",
+  "music": "PENDING"
+ },
+ {
+  "date": "2026-10-12",
+  "anime": false,
+  "tiktok": true,
+  "layout": "bold",
+  "source_outlet": "Business Recorder",
+  "language": "English",
+  "headline": "PSX: KSE-100 down 399.74 points (0.24%) to 166,689.53 in early Monday trade amid political noise",
+  "source": "https://www.brecorder.com/news/40443776/psx-kse-100-down-nearly-400-points-amid-political-noise",
+  "published": "2026-10-12 09:53 PKT",
+  "scene": "currency",
+  "seed": 88206213,
+  "image": "posts/2026-10-12-psx-kse100-down-400.jpg",
+  "story": "posts/2026-10-12-psx-kse100-down-400-story.jpg",
+  "video": "posts/2026-10-12-psx-kse100-down-400.mp4",
+  "music": "PENDING"
  }
 ]
