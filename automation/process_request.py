@@ -120,6 +120,8 @@ def render_one(path, rid, req):
             acfg.setdefault("question", "Aap ka kya khayal hai?"); acfg.setdefault("source", req["card"]["source"])
             if req["type"] == "tribute":
                 acfg["sad"] = True
+            from news_reel import fix_highlights
+            acfg["paragraphs"] = [fix_highlights(x) for x in acfg.get("paragraphs", [])]
             ap = os.path.join(work, f"{rid}-anime.json"); save_json(ap, acfg)
             o = run([PY, os.path.join(TEMPLATE, "make_anime_reel.py"), ap, reel], timeout=1500)
             m = re.search(r"mood=(\w+) seed=(\d+)", o)

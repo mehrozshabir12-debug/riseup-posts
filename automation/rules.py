@@ -99,6 +99,8 @@ def validate(req, filename):
         for i, sg in enumerate(segs):
             if not isinstance(sg, dict) or not _s(sg.get("text")).strip() or not _s(sg.get("voice")).strip():
                 E.append(f"reel.segments[{i}] needs text (on screen) and voice (spoken)")
+            elif sg["text"].count("**") % 2:
+                E.append(f"reel.segments[{i}].text has an unclosed ** highlight")
             elif len(sg["text"].replace("**", "")) > 190:
                 E.append(f"reel.segments[{i}].text too long (max 190 characters)")
         for k in ("intro_voice", "outro_question"):

@@ -43,6 +43,15 @@ def _zoom(img, z, w, h):
     return img.crop((l, t, l + cw, t + ch)).resize((w, h), Image.BILINEAR)
 
 
+import re
+_HL_PUNCT = re.compile(r"\*\*([^*]+?)\*\*([,.;:!?،۔]+)")
+
+
+def fix_highlights(text):
+    """'**word**,' -> '**word,**' so the approved highlight parser always closes the yellow box."""
+    return _HL_PUNCT.sub(r"**\1\2**", text)
+
+
 def reel_text_cfg(req):
     card, reel = req["card"], req.get("reel") or {}
     en = req.get("language") == "English"
@@ -76,7 +85,7 @@ def build(req, story_jpg, out_mp4, seed=None, allow_fallback_voice=False):
         p, secs, eng = tts.speak(text, os.path.join(tmp, f"v{i}.wav"), lang, voice, allow_fallback_voice)
         clips.append((p, secs)); engine = eng
     layers = [("intro", AR.intro_layer(tcfg))] + \
-             [("para", AR.para_layer(tcfg, s["text"], i, n)) for i, s in enumerate(segs_in)] + \
+             [("para", AR.para_layer(tcfg, fix_highlights(s["text"]), i, n)) for i, s in enumerate(segs_in)] + \
              [("outro", AR.outro_layer(tcfg))]
     segs = [("cover", COVER_S, None, None)]
     for (kind, layer), (clip, secs) in zip(layers, clips):
