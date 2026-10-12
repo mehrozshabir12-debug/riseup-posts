@@ -7,6 +7,10 @@
 > facebook + instagram (instagramData {type: POST}) + tiktok if under the 8/day limit (tiktokData autoAddMusic true);
 > (b) facebook + instagram STORY with the -story.jpg. Tribute package = 2 image posts + Stories, no Reel.
 
+> ✅ **TIKTOK LIMIT RAISED to 12 per day (owner's order, 12 Oct 2026).** Count today's TikTok posts in posted_log.json
+> + celebrity_log.json; add "tiktok" while the count is under 12. If Metricool shows TikTok error 40016, stop TikTok
+> for the rest of the day and say so in the report. This overrides the 8/day number below.
+
 # RiseUp Pakistan – automatic news posting guide
 
 Brand: RiseUp Pakistan (Metricool blogId 7305396). Networks: facebook, instagram, tiktok.
