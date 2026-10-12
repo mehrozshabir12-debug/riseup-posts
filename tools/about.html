@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>About Toolkhana | Toolkhana</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a toolbox drawer – header strip, grid of tool "bins", one open workbench at a time */
+:root{
+  --bg:#f3f6f4; --surface:#ffffff; --sunk:#e7ede9; --fg:#14211b; --muted:#5b6b63;
+  --line:#d3ddd7; --accent:#0d7a55; --accent-ink:#ffffff; --accent-soft:#d6efe4; --warn:#b4531a;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Figtree",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+  --r:14px; color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1714; --surface:#16211c; --sunk:#1d2a24; --fg:#e6efe9; --muted:#9db0a6;
+  --line:#2a3a33; --accent:#3ccf94; --accent-ink:#06261a; --accent-soft:#183a2c; --warn:#f0a06a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1714; --surface:#16211c; --sunk:#1d2a24; --fg:#e6efe9; --muted:#9db0a6;
+  --line:#2a3a33; --accent:#3ccf94; --accent-ink:#06261a; --accent-soft:#183a2c; --warn:#f0a06a; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font:16px/1.55 var(--body);padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+[hidden]{display:none!important}
+img,canvas{max-width:100%}
+a{color:var(--accent)}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:16px}
+header{border-bottom:1px solid var(--line);background:var(--surface)}
+header .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:14px}
+.logo{display:flex;align-items:center;gap:10px;font:800 1.35rem/1 var(--display);letter-spacing:-.02em;color:var(--fg);text-decoration:none}
+.logo b{display:grid;place-items:center;width:34px;height:34px;border-radius:9px;background:var(--accent);color:var(--accent-ink);font-size:1rem}
+.safe{font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:6px}
+.safe::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--accent)}
+.hero{padding-block:36px 8px}
+h1{font:800 clamp(1.9rem,5vw,3rem)/1.05 var(--display);letter-spacing:-.03em;margin:0 0 10px;text-wrap:balance}
+.hero p{color:var(--muted);max-width:60ch;margin:0}
+h2{font:600 1.05rem/1.2 var(--display);margin:0}
+.sect{font:500 .72rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:30px 0 12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.tool{display:flex;gap:14px;align-items:flex-start;padding:16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);text-decoration:none;color:var(--fg);transition:border-color .15s,transform .15s}
+.tool:hover,.tool:focus-visible{border-color:var(--accent);transform:translateY(-2px);outline:none}
+.tool .ic{flex:none;width:42px;height:42px;border-radius:10px;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center}
+.tool p{margin:4px 0 0;font-size:.88rem;color:var(--muted)}
+.ad{margin:28px 0;min-height:90px;border:1px dashed var(--line);border-radius:10px;display:grid;place-items:center;color:var(--muted);font:500 .72rem var(--mono);letter-spacing:.1em}
+/* workbench */
+.bench{padding-block:24px 40px}
+.back{display:inline-flex;gap:6px;align-items:center;color:var(--muted);text-decoration:none;font-weight:500;margin-bottom:14px}
+.back:hover{color:var(--fg)}
+.bench h1{font-size:clamp(1.6rem,4vw,2.3rem)}
+.lead{color:var(--muted);margin:0 0 20px;max-width:62ch}
+.drop{display:grid;place-items:center;text-align:center;gap:6px;padding:34px 16px;border:2px dashed var(--line);border-radius:var(--r);background:var(--surface);cursor:pointer;transition:border-color .15s,background .15s}
+.drop.over,.drop:hover{border-color:var(--accent);background:var(--accent-soft)}
+.drop strong{font:600 1.05rem var(--display)}
+.drop span{color:var(--muted);font-size:.88rem}
+.drop input{display:none}
+.panel{margin-top:16px;padding:16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);display:grid;gap:14px}
+.row{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center}
+label{font-weight:500;font-size:.92rem;display:flex;gap:8px;align-items:center}
+input[type=number],input[type=text],select{font:inherit;color:var(--fg);background:var(--sunk);border:1px solid var(--line);border-radius:8px;padding:7px 10px;min-width:0}
+input[type=number]{width:96px}
+input[type=range]{accent-color:var(--accent);width:180px;max-width:100%}
+.btn{font:600 .95rem var(--body);border:0;border-radius:10px;padding:11px 18px;background:var(--accent);color:var(--accent-ink);cursor:pointer;display:inline-flex;gap:8px;align-items:center;text-decoration:none}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:var(--sunk);color:var(--fg)}
+.btn:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.files{display:grid;gap:8px}
+.file{display:flex;align-items:center;gap:12px;padding:8px 10px;background:var(--sunk);border-radius:10px;min-width:0}
+.file img{width:48px;height:48px;object-fit:cover;border-radius:6px;flex:none}
+.file .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:.9rem}
+.file .sz{font:500 .78rem var(--mono);color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+.file .x{border:0;background:none;color:var(--muted);cursor:pointer;font-size:1.1rem;padding:2px 6px}
+.file .mv{border:0;background:none;color:var(--muted);cursor:pointer;padding:2px 4px}
+.out{display:grid;gap:8px}
+.out .file{background:var(--accent-soft)}
+.save{font:600 .85rem var(--body);color:var(--accent);text-decoration:none;white-space:nowrap}
+.note{font-size:.85rem;color:var(--muted)}
+.err{color:var(--warn);font-weight:500}
+.pp{display:grid;grid-template-columns:minmax(0,280px) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:640px){.pp{grid-template-columns:1fr}}
+.pp canvas{width:100%;height:auto;border-radius:8px;border:1px solid var(--line);background:var(--sunk)}
+.thumbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:10px}
+.thumbs a{display:grid;gap:4px;text-decoration:none;color:var(--muted);font:500 .75rem var(--mono);text-align:center}
+.thumbs img{border:1px solid var(--line);border-radius:6px;background:#fff}
+.how{margin-top:28px;display:grid;gap:8px;max-width:70ch}
+.how h2{margin-top:6px}
+.how p,.how li{color:var(--muted);font-size:.93rem}
+footer{border-top:1px solid var(--line);padding-block:22px;color:var(--muted);font-size:.85rem}
+footer .wrap{display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head><body><header><div class="wrap"><a class="logo" href="index.html"><b>T</b>Toolkhana</a><a class="back" href="index.html" style="margin:0">← All tools</a></div></header>
+<main class="wrap" style="padding-block:32px 48px;max-width:760px"><div class="how" style="margin:0"><h1>About Toolkhana</h1><p>Toolkhana is a free set of everyday image and PDF tools: compress, resize and convert photos, make passport photos, turn images into PDFs, and merge, split or convert PDF files.</p><p>Every tool runs inside your own web browser. Your files are never uploaded to our servers, so they stay private and the tools work quickly even on a slow connection.</p><p>The site is free to use and is supported by advertising.</p></div></main>
+<footer><div class="wrap"><span>© 2026 Toolkhana</span><span><a href="about.html">About</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms</a></span></div></footer></body></html>

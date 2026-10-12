@@ -1,0 +1,368 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Toolkhana – Free Image & PDF Tools</title>
+<meta name="description" content="Free online image and PDF tools: compress, resize and convert images, make passport photos, merge and split PDFs, images to PDF and PDF to JPG. Files never leave your device.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Figtree:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: a toolbox drawer – header strip, grid of tool "bins", one open workbench at a time */
+:root{
+  --bg:#f3f6f4; --surface:#ffffff; --sunk:#e7ede9; --fg:#14211b; --muted:#5b6b63;
+  --line:#d3ddd7; --accent:#0d7a55; --accent-ink:#ffffff; --accent-soft:#d6efe4; --warn:#b4531a;
+  --display:"Bricolage Grotesque",ui-sans-serif,system-ui,sans-serif;
+  --body:"Figtree",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+  --r:14px; color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f1714; --surface:#16211c; --sunk:#1d2a24; --fg:#e6efe9; --muted:#9db0a6;
+  --line:#2a3a33; --accent:#3ccf94; --accent-ink:#06261a; --accent-soft:#183a2c; --warn:#f0a06a; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f1714; --surface:#16211c; --sunk:#1d2a24; --fg:#e6efe9; --muted:#9db0a6;
+  --line:#2a3a33; --accent:#3ccf94; --accent-ink:#06261a; --accent-soft:#183a2c; --warn:#f0a06a; color-scheme:dark}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--fg);font:16px/1.55 var(--body);padding:env(safe-area-inset-top,0) 0 env(safe-area-inset-bottom,0)}
+[hidden]{display:none!important}
+img,canvas{max-width:100%}
+a{color:var(--accent)}
+.wrap{max-width:1080px;margin:0 auto;padding-inline:16px}
+header{border-bottom:1px solid var(--line);background:var(--surface)}
+header .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-block:14px}
+.logo{display:flex;align-items:center;gap:10px;font:800 1.35rem/1 var(--display);letter-spacing:-.02em;color:var(--fg);text-decoration:none}
+.logo b{display:grid;place-items:center;width:34px;height:34px;border-radius:9px;background:var(--accent);color:var(--accent-ink);font-size:1rem}
+.safe{font-size:.85rem;color:var(--muted);display:flex;align-items:center;gap:6px}
+.safe::before{content:"";width:8px;height:8px;border-radius:50%;background:var(--accent)}
+.hero{padding-block:36px 8px}
+h1{font:800 clamp(1.9rem,5vw,3rem)/1.05 var(--display);letter-spacing:-.03em;margin:0 0 10px;text-wrap:balance}
+.hero p{color:var(--muted);max-width:60ch;margin:0}
+h2{font:600 1.05rem/1.2 var(--display);margin:0}
+.sect{font:500 .72rem/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:30px 0 12px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.tool{display:flex;gap:14px;align-items:flex-start;padding:16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);text-decoration:none;color:var(--fg);transition:border-color .15s,transform .15s}
+.tool:hover,.tool:focus-visible{border-color:var(--accent);transform:translateY(-2px);outline:none}
+.tool .ic{flex:none;width:42px;height:42px;border-radius:10px;background:var(--accent-soft);color:var(--accent);display:grid;place-items:center}
+.tool p{margin:4px 0 0;font-size:.88rem;color:var(--muted)}
+.ad{margin:28px 0;min-height:90px;border:1px dashed var(--line);border-radius:10px;display:grid;place-items:center;color:var(--muted);font:500 .72rem var(--mono);letter-spacing:.1em}
+/* workbench */
+.bench{padding-block:24px 40px}
+.back{display:inline-flex;gap:6px;align-items:center;color:var(--muted);text-decoration:none;font-weight:500;margin-bottom:14px}
+.back:hover{color:var(--fg)}
+.bench h1{font-size:clamp(1.6rem,4vw,2.3rem)}
+.lead{color:var(--muted);margin:0 0 20px;max-width:62ch}
+.drop{display:grid;place-items:center;text-align:center;gap:6px;padding:34px 16px;border:2px dashed var(--line);border-radius:var(--r);background:var(--surface);cursor:pointer;transition:border-color .15s,background .15s}
+.drop.over,.drop:hover{border-color:var(--accent);background:var(--accent-soft)}
+.drop strong{font:600 1.05rem var(--display)}
+.drop span{color:var(--muted);font-size:.88rem}
+.drop input{display:none}
+.panel{margin-top:16px;padding:16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);display:grid;gap:14px}
+.row{display:flex;flex-wrap:wrap;gap:12px 18px;align-items:center}
+label{font-weight:500;font-size:.92rem;display:flex;gap:8px;align-items:center}
+input[type=number],input[type=text],select{font:inherit;color:var(--fg);background:var(--sunk);border:1px solid var(--line);border-radius:8px;padding:7px 10px;min-width:0}
+input[type=number]{width:96px}
+input[type=range]{accent-color:var(--accent);width:180px;max-width:100%}
+.btn{font:600 .95rem var(--body);border:0;border-radius:10px;padding:11px 18px;background:var(--accent);color:var(--accent-ink);cursor:pointer;display:inline-flex;gap:8px;align-items:center;text-decoration:none}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:var(--sunk);color:var(--fg)}
+.btn:focus-visible,input:focus-visible,select:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.files{display:grid;gap:8px}
+.file{display:flex;align-items:center;gap:12px;padding:8px 10px;background:var(--sunk);border-radius:10px;min-width:0}
+.file img{width:48px;height:48px;object-fit:cover;border-radius:6px;flex:none}
+.file .nm{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:.9rem}
+.file .sz{font:500 .78rem var(--mono);color:var(--muted);white-space:nowrap;font-variant-numeric:tabular-nums}
+.file .x{border:0;background:none;color:var(--muted);cursor:pointer;font-size:1.1rem;padding:2px 6px}
+.file .mv{border:0;background:none;color:var(--muted);cursor:pointer;padding:2px 4px}
+.out{display:grid;gap:8px}
+.out .file{background:var(--accent-soft)}
+.save{font:600 .85rem var(--body);color:var(--accent);text-decoration:none;white-space:nowrap}
+.note{font-size:.85rem;color:var(--muted)}
+.err{color:var(--warn);font-weight:500}
+.pp{display:grid;grid-template-columns:minmax(0,280px) minmax(0,1fr);gap:18px;align-items:start}
+@media (max-width:640px){.pp{grid-template-columns:1fr}}
+.pp canvas{width:100%;height:auto;border-radius:8px;border:1px solid var(--line);background:var(--sunk)}
+.thumbs{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:10px}
+.thumbs a{display:grid;gap:4px;text-decoration:none;color:var(--muted);font:500 .75rem var(--mono);text-align:center}
+.thumbs img{border:1px solid var(--line);border-radius:6px;background:#fff}
+.how{margin-top:28px;display:grid;gap:8px;max-width:70ch}
+.how h2{margin-top:6px}
+.how p,.how li{color:var(--muted);font-size:.93rem}
+footer{border-top:1px solid var(--line);padding-block:22px;color:var(--muted);font-size:.85rem}
+footer .wrap{display:flex;flex-wrap:wrap;gap:8px 20px;justify-content:space-between}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="#"><b>T</b>Toolkhana</a>
+  <span class="safe">Files stay on your device</span>
+</div></header>
+
+<main class="wrap">
+<section id="home" style="padding-bottom:40px">
+  <div class="hero">
+    <h1>Free image &amp; PDF tools that work in your browser</h1>
+    <p>Compress, resize and convert photos, make passport photos, and merge, split or convert PDFs. No sign-up, no watermark, and nothing is uploaded: every file is processed on your own phone or computer.</p>
+  </div>
+  <div class="sect">Image tools</div>
+  <div class="grid" id="g-img"></div>
+  <div class="ad">ADVERTISEMENT</div>
+  <div class="sect">PDF tools</div>
+  <div class="grid" id="g-pdf"></div>
+</section>
+
+<section id="bench" class="bench" hidden>
+  <a class="back" href="#">← All tools</a>
+  <h1 id="b-title"></h1>
+  <p class="lead" id="b-lead"></p>
+  <label class="drop" id="drop" tabindex="0">
+    <input type="file" id="fin">
+    <strong id="d-main">Choose files</strong>
+    <span id="d-sub">or drag and drop them here</span>
+  </label>
+  <div class="panel" id="panel" hidden>
+    <div class="files" id="list"></div>
+    <div id="opts"></div>
+    <div class="row"><button class="btn" id="go">Start</button><button class="btn ghost" id="clear">Clear</button><span class="note" id="status" role="status"></span></div>
+    <div class="out" id="out"></div>
+  </div>
+  <div class="ad">ADVERTISEMENT</div>
+  <div class="how" id="how"></div>
+</section>
+</main>
+
+<footer><div class="wrap">
+  <span>© <span id="yr"></span> Toolkhana. Free tools, processed locally in your browser.</span>
+  <span><a href="about.html">About</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms</a></span>
+</div></footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+<script>
+const $=s=>document.querySelector(s);
+const I={
+ img:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="9" cy="9" r="2"/><path d="m21 15-5-5L5 21"/></svg>',
+ pdf:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6"/></svg>',
+ user:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="2" width="16" height="20" rx="2"/><circle cx="12" cy="10" r="3"/><path d="M7 18c1-2.5 3-3.5 5-3.5s4 1 5 3.5"/></svg>'
+};
+const TOOLS={
+ compress:{g:'img',ic:'img',t:'Compress Image',d:'Make JPG, PNG or WebP photos smaller in KB.',accept:'image/*',multi:true,
+   lead:'Reduce photo size for WhatsApp, forms and email. Choose the quality; lower quality gives a smaller file.',
+   how:'<h2>How to compress an image</h2><ol><li>Choose one or more photos.</li><li>Set the quality (70% keeps photos sharp for most uses).</li><li>Press Compress and save each smaller file.</li></ol><p>Need a photo under a size limit, like 100 KB for an online form? Lower the quality or also set a maximum width.</p>'},
+ resize:{g:'img',ic:'img',t:'Resize Image',d:'Change width and height in pixels or percent.',accept:'image/*',multi:true,
+   lead:'Set an exact size in pixels or scale by percent. Keep the aspect ratio so photos do not stretch.'},
+ convert:{g:'img',ic:'img',t:'Convert Image',d:'JPG ↔ PNG ↔ WebP in one click.',accept:'image/*',multi:true,
+   lead:'Convert photos between JPG, PNG and WebP. PNG keeps transparency; JPG is best for photos.'},
+ passport:{g:'img',ic:'user',t:'Passport Photo Maker',d:'35×45 mm photos and a 4×6 print sheet.',accept:'image/*',multi:false,
+   lead:'Crop a photo to passport size and get a ready-to-print 4×6 inch sheet. Sizes for Pakistan (NADRA / passport), Australia, UK, EU, US and India.',
+   how:'<h2>Tips for a good passport photo</h2><ul><li>Face the camera, plain light background, no shadows.</li><li>Use the zoom slider so the head fills most of the frame; the guide lines show where the chin and top of head should be.</li><li>Print the 4×6 sheet at any photo shop or at home on 4×6 photo paper at 100% scale.</li></ul><p>Always check the latest rules of the office you are applying to.</p>'},
+ img2pdf:{g:'pdf',ic:'pdf',t:'Images to PDF',d:'Turn photos or scans into one PDF.',accept:'image/jpeg,image/png,image/webp',multi:true,
+   lead:'Combine photos or scanned pages into a single PDF. Use the arrows to change page order.'},
+ merge:{g:'pdf',ic:'pdf',t:'Merge PDF',d:'Join several PDFs into one file.',accept:'application/pdf',multi:true,
+   lead:'Combine PDF files in the order you choose. Use the arrows to reorder.'},
+ split:{g:'pdf',ic:'pdf',t:'Split PDF',d:'Extract pages or split every page.',accept:'application/pdf',multi:false,
+   lead:'Pick the pages you need, like 1-3, 5, or split every page into its own PDF.'},
+ pdf2jpg:{g:'pdf',ic:'pdf',t:'PDF to JPG',d:'Save every PDF page as an image.',accept:'application/pdf',multi:false,
+   lead:'Convert each page of a PDF into a high-quality JPG image.'}
+};
+for(const [k,t] of Object.entries(TOOLS)){
+  const a=document.createElement('a');a.className='tool';a.href='#'+k;
+  a.innerHTML=`<span class="ic">${I[t.ic]}</span><span><h2>${t.t}</h2><p>${t.d}</p></span>`;
+  $('#g-'+t.g).appendChild(a);
+}
+$('#yr').textContent=new Date().getFullYear();
+
+let cur=null, files=[], outs=[];
+const kb=n=>n<1048576?(n/1024).toFixed(0)+' KB':(n/1048576).toFixed(2)+' MB';
+const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const base=n=>n.replace(/\.[^.]+$/,'');
+function status(t,err){const s=$('#status');s.textContent=t||'';s.className='note'+(err?' err':'')}
+
+function route(){
+  const k=location.hash.slice(1);
+  outs.forEach(u=>URL.revokeObjectURL(u));outs=[];files=[];
+  if(!TOOLS[k]){cur=null;$('#home').hidden=false;$('#bench').hidden=true;document.title='Toolkhana – Free Image & PDF Tools';return}
+  cur=k;const t=TOOLS[k];
+  $('#home').hidden=true;$('#bench').hidden=false;
+  $('#b-title').textContent=t.t;$('#b-lead').textContent=t.lead;
+  $('#how').innerHTML=t.how||'';
+  document.title=t.t+' – Free & Private | Toolkhana';
+  const fin=$('#fin');fin.accept=t.accept;fin.multiple=t.multi;fin.value='';
+  $('#d-main').textContent=t.multi?'Choose files':'Choose a file';
+  $('#d-sub').textContent='or drag and drop '+(t.multi?'them':'it')+' here';
+  $('#go').textContent={compress:'Compress',resize:'Resize',convert:'Convert',passport:'Make sheet',img2pdf:'Create PDF',merge:'Merge PDFs',split:'Split PDF',pdf2jpg:'Convert to JPG'}[k];
+  renderOpts();render();window.scrollTo(0,0);
+}
+addEventListener('hashchange',route);
+
+function addFiles(list){
+  const t=TOOLS[cur];let added=[...list].filter(f=>t.accept.split(',').some(a=>a.endsWith('/*')?f.type.startsWith(a.slice(0,-1)):f.type===a));
+  if(!added.length){status('That file type is not supported here.',true);return}
+  files=t.multi?files.concat(added):[added[0]];
+  status('');render();if(cur==='passport')ppLoad();
+}
+$('#fin').addEventListener('change',e=>{addFiles(e.target.files);e.target.value=''});
+const drop=$('#drop');
+['dragenter','dragover'].forEach(ev=>drop.addEventListener(ev,e=>{e.preventDefault();drop.classList.add('over')}));
+['dragleave','drop'].forEach(ev=>drop.addEventListener(ev,e=>{e.preventDefault();drop.classList.remove('over')}));
+drop.addEventListener('drop',e=>addFiles(e.dataTransfer.files));
+drop.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();$('#fin').click()}});
+$('#clear').onclick=()=>{files=[];$('#out').innerHTML='';status('');render()};
+
+function render(){
+  $('#panel').hidden=!files.length;
+  const L=$('#list');L.innerHTML='';
+  const reorder=['img2pdf','merge'].includes(cur);
+  files.forEach((f,i)=>{
+    const d=document.createElement('div');d.className='file';
+    const th=f.type.startsWith('image/')?`<img alt="" src="${URL.createObjectURL(f)}">`:`<span class="ic" style="color:var(--accent)">${I.pdf}</span>`;
+    d.innerHTML=`${th}<span class="nm">${esc(f.name)}</span><span class="sz">${kb(f.size)}</span>`+
+      (reorder?`<button class="mv" aria-label="Move up" data-u="${i}">▲</button><button class="mv" aria-label="Move down" data-d="${i}">▼</button>`:'')+
+      `<button class="x" aria-label="Remove" data-x="${i}">×</button>`;
+    L.appendChild(d);
+  });
+  L.querySelectorAll('[data-x]').forEach(b=>b.onclick=()=>{files.splice(+b.dataset.x,1);render()});
+  L.querySelectorAll('[data-u]').forEach(b=>b.onclick=()=>{const i=+b.dataset.u;if(i>0){[files[i-1],files[i]]=[files[i],files[i-1]];render()}});
+  L.querySelectorAll('[data-d]').forEach(b=>b.onclick=()=>{const i=+b.dataset.d;if(i<files.length-1){[files[i+1],files[i]]=[files[i],files[i+1]];render()}});
+  $('#go').disabled=!files.length||(cur==='merge'&&files.length<2);
+  if(cur==='merge'&&files.length===1)status('Add at least one more PDF to merge.');
+}
+
+function renderOpts(){
+  const o=$('#opts');
+  const fmt=(id,def)=>`<label>Format <select id="${id}"><option value="image/jpeg"${def==='jpg'?' selected':''}>JPG</option><option value="image/png"${def==='png'?' selected':''}>PNG</option><option value="image/webp"${def==='webp'?' selected':''}>WebP</option></select></label>`;
+  o.innerHTML={
+   compress:`<div class="row"><label>Quality <input type="range" id="q" min="10" max="95" value="70"> <span id="qv" class="sz">70%</span></label><label>Max width <input type="number" id="mw" placeholder="Original" min="50"> px</label><label>Output <select id="cf"><option value="image/jpeg">JPG</option><option value="image/webp">WebP</option></select></label></div>`,
+   resize:`<div class="row"><label><select id="rm"><option value="px">Pixels</option><option value="pc">Percent</option></select></label><label>Width <input type="number" id="rw" min="1"></label><label>Height <input type="number" id="rh" min="1"></label><label><input type="checkbox" id="rk" checked> Keep ratio</label><label>Percent <input type="number" id="rp" value="50" min="1" max="500"> %</label></div><p class="note">With "Keep ratio", fill only width or height and the other is calculated for each image.</p>`,
+   convert:`<div class="row">${fmt('tf','png')}<label>Quality <input type="range" id="tq" min="10" max="100" value="92"></label></div>`,
+   passport:`<div class="pp"><canvas id="ppc" width="350" height="450" aria-label="Passport photo preview"></canvas><div class="panel" style="margin:0">
+     <label>Size <select id="ps"><option value="35x45">35 × 45 mm – Pakistan, Australia, UK, EU, India</option><option value="51x51">2 × 2 in – USA</option><option value="40x50">40 × 50 mm</option><option value="30x40">30 × 40 mm</option></select></label>
+     <label>Zoom <input type="range" id="pz" min="100" max="400" value="100"></label>
+     <label>Left / right <input type="range" id="px" min="-100" max="100" value="0"></label>
+     <label>Up / down <input type="range" id="py" min="-100" max="100" value="0"></label>
+     <label>Copies on 4×6 sheet <select id="pn"><option>4</option><option selected>6</option><option>8</option></select></label>
+     <p class="note">Line guides: the top of the head near the upper line, the chin near the lower line.</p></div></div>`,
+   img2pdf:`<div class="row"><label>Page <select id="pg"><option value="a4">A4</option><option value="letter">Letter</option><option value="fit">Same as image</option></select></label><label>Margin <select id="pm"><option value="0">None</option><option value="20" selected>Small</option><option value="40">Large</option></select></label></div>`,
+   merge:'',
+   split:`<div class="row"><label><input type="radio" name="sm" value="range" checked> Pages</label><input type="text" id="sr" placeholder="e.g. 1-3, 5, 8-10" aria-label="Pages to extract"><label><input type="radio" name="sm" value="each"> Every page as a separate PDF</label></div>`,
+   pdf2jpg:`<div class="row"><label>Quality <select id="dq"><option value="1.5">Normal</option><option value="2" selected>High</option><option value="3">Very high</option></select></label></div>`
+  }[cur]||'';
+  if(cur==='compress'){const q=$('#q');q.oninput=()=>$('#qv').textContent=q.value+'%'}
+  if(cur==='passport'){['ps','pz','px','py'].forEach(id=>$('#'+id).oninput=ppDraw)}
+}
+
+function addOut(blob,name){
+  const u=URL.createObjectURL(blob);outs.push(u);
+  const d=document.createElement('div');d.className='file';
+  const th=blob.type.startsWith('image/')?`<img alt="" src="${u}">`:`<span class="ic" style="color:var(--accent)">${I.pdf}</span>`;
+  d.innerHTML=`${th}<span class="nm">${esc(name)}</span><span class="sz">${kb(blob.size)}</span><a class="save" href="${u}" download="${esc(name)}">Download</a>`;
+  $('#out').appendChild(d);
+}
+const loadImg=f=>new Promise((res,rej)=>{const i=new Image();i.onload=()=>res(i);i.onerror=()=>rej(new Error('Could not read '+f.name));i.src=URL.createObjectURL(f)});
+const toBlob=(c,type,q)=>new Promise(r=>c.toBlob(r,type,q));
+function draw(img,w,h,type){const c=document.createElement('canvas');c.width=w;c.height=h;const x=c.getContext('2d');if(type==='image/jpeg'){x.fillStyle='#fff';x.fillRect(0,0,w,h)}x.drawImage(img,0,0,w,h);return c}
+const ext={'image/jpeg':'jpg','image/png':'png','image/webp':'webp'};
+
+$('#go').onclick=async()=>{
+  $('#go').disabled=true;$('#out').innerHTML='';status('Working…');
+  try{await RUN[cur]();status('Done. Your files are ready below.')}
+  catch(e){console.error(e);status(e.message||'Something went wrong. Try another file.',true)}
+  $('#go').disabled=false;
+};
+const RUN={
+ async compress(){
+  const q=$('#q').value/100,mw=+$('#mw').value||0,type=$('#cf').value;
+  for(const f of files){const i=await loadImg(f);let w=i.naturalWidth,h=i.naturalHeight;if(mw&&w>mw){h=Math.round(h*mw/w);w=mw}
+   const b=await toBlob(draw(i,w,h,type),type,q);addOut(b,base(f.name)+'-compressed.'+ext[type]);
+   status(`${f.name}: ${kb(f.size)} → ${kb(b.size)}`)}
+ },
+ async resize(){
+  const m=$('#rm').value,W=+$('#rw').value,H=+$('#rh').value,k=$('#rk').checked,p=+$('#rp').value/100;
+  if(m==='px'&&!W&&!H)throw new Error('Enter a width or a height.');
+  for(const f of files){const i=await loadImg(f),r=i.naturalWidth/i.naturalHeight;let w,h;
+   if(m==='pc'){w=i.naturalWidth*p;h=i.naturalHeight*p}
+   else if(k){w=W||H*r;h=W?W/r:H}else{w=W||i.naturalWidth;h=H||i.naturalHeight}
+   w=Math.max(1,Math.round(w));h=Math.max(1,Math.round(h));
+   const type=f.type==='image/png'?'image/png':f.type==='image/webp'?'image/webp':'image/jpeg';
+   addOut(await toBlob(draw(i,w,h,type),type,.92),`${base(f.name)}-${w}x${h}.${ext[type]}`)}
+ },
+ async convert(){
+  const type=$('#tf').value,q=$('#tq').value/100;
+  for(const f of files){const i=await loadImg(f);addOut(await toBlob(draw(i,i.naturalWidth,i.naturalHeight,type),type,q),base(f.name)+'.'+ext[type])}
+ },
+ async passport(){
+  const one=ppCanvas(600);const n=+$('#pn').value;
+  const S=document.createElement('canvas');S.width=1800;S.height=1200;const x=S.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,1800,1200);
+  const [mw,mh]=ppSize(),dpi=300,pw=Math.round(mw/25.4*dpi),ph=Math.round(mh/25.4*dpi);
+  const cols=n===4?2:n===6?3:4,rows=2,gx=(1800-cols*pw)/(cols+1),gy=(1200-rows*ph)/(rows+1);
+  for(let r=0;r<rows;r++)for(let c=0;c<cols;c++){const X=gx+c*(gx+pw),Y=gy+r*(gy+ph);x.drawImage(one,X,Y,pw,ph);x.strokeStyle='#bbb';x.lineWidth=1;x.strokeRect(X,Y,pw,ph)}
+  addOut(await toBlob(ppCanvas(Math.round(mw/25.4*dpi)),'image/jpeg',.95),'passport-photo.jpg');
+  addOut(await toBlob(S,'image/jpeg',.95),'passport-sheet-4x6.jpg');
+ },
+ async img2pdf(){
+  const {PDFDocument}=PDFLib,doc=await PDFDocument.create(),pg=$('#pg').value,mg=+$('#pm').value;
+  const sizes={a4:[595.28,841.89],letter:[612,792]};
+  for(const f of files){
+   let bytes=await f.arrayBuffer(),em;
+   if(f.type==='image/png')em=await doc.embedPng(bytes);
+   else if(f.type==='image/jpeg')em=await doc.embedJpg(bytes);
+   else{const i=await loadImg(f);const b=await toBlob(draw(i,i.naturalWidth,i.naturalHeight,'image/jpeg'),'image/jpeg',.92);em=await doc.embedJpg(await b.arrayBuffer())}
+   let [W,H]=pg==='fit'?[em.width+mg*2,em.height+mg*2]:sizes[pg];
+   if(pg!=='fit'&&em.width>em.height)[W,H]=[H,W];
+   const s=Math.min((W-mg*2)/em.width,(H-mg*2)/em.height),w=em.width*s,h=em.height*s;
+   doc.addPage([W,H]).drawImage(em,{x:(W-w)/2,y:(H-h)/2,width:w,height:h});
+  }
+  addOut(new Blob([await doc.save()],{type:'application/pdf'}),'images.pdf');
+ },
+ async merge(){
+  const {PDFDocument}=PDFLib,out=await PDFDocument.create();
+  for(const f of files){let src;try{src=await PDFDocument.load(await f.arrayBuffer())}catch(e){throw new Error(f.name+' is password-protected or damaged.')}
+   (await out.copyPages(src,src.getPageIndices())).forEach(p=>out.addPage(p))}
+  addOut(new Blob([await out.save()],{type:'application/pdf'}),'merged.pdf');
+ },
+ async split(){
+  const {PDFDocument}=PDFLib,f=files[0];let src;
+  try{src=await PDFDocument.load(await f.arrayBuffer())}catch(e){throw new Error('This PDF is password-protected or damaged.')}
+  const n=src.getPageCount(),mode=document.querySelector('input[name=sm]:checked').value;
+  const make=async(idx,name)=>{const d=await PDFDocument.create();(await d.copyPages(src,idx)).forEach(p=>d.addPage(p));addOut(new Blob([await d.save()],{type:'application/pdf'}),name)};
+  if(mode==='each'){for(let i=0;i<n;i++)await make([i],`${base(f.name)}-page-${i+1}.pdf`);return}
+  const idx=[];for(const part of $('#sr').value.split(',')){const m=part.trim().match(/^(\d+)\s*(?:-\s*(\d+))?$/);if(!m)continue;
+   let a=+m[1],b=+(m[2]||m[1]);if(a>b)[a,b]=[b,a];for(let i=a;i<=b;i++)if(i>=1&&i<=n&&!idx.includes(i-1))idx.push(i-1)}
+  if(!idx.length)throw new Error(`Enter pages between 1 and ${n}, like 1-3, 5.`);
+  await make(idx,`${base(f.name)}-pages.pdf`);
+ },
+ async pdf2jpg(){
+  pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+  const f=files[0],sc=+$('#dq').value;let pdf;
+  try{pdf=await pdfjsLib.getDocument({data:await f.arrayBuffer()}).promise}catch(e){throw new Error('This PDF is password-protected or damaged.')}
+  for(let p=1;p<=pdf.numPages;p++){status(`Page ${p} of ${pdf.numPages}…`);const pg=await pdf.getPage(p),vp=pg.getViewport({scale:sc});
+   const c=document.createElement('canvas');c.width=vp.width;c.height=vp.height;const x=c.getContext('2d');x.fillStyle='#fff';x.fillRect(0,0,c.width,c.height);
+   await pg.render({canvasContext:x,viewport:vp}).promise;addOut(await toBlob(c,'image/jpeg',.92),`${base(f.name)}-page-${p}.jpg`)}
+ }
+};
+
+/* passport */
+let ppImg=null;
+const ppSize=()=>$('#ps').value.split('x').map(Number);
+async function ppLoad(){ppImg=await loadImg(files[0]);ppDraw()}
+function ppCanvas(w){
+  const [mw,mh]=ppSize(),h=Math.round(w*mh/mw),c=document.createElement('canvas');c.width=w;c.height=h;const x=c.getContext('2d');
+  x.fillStyle='#fff';x.fillRect(0,0,w,h);if(!ppImg)return c;
+  const z=$('#pz').value/100,base=Math.max(w/ppImg.naturalWidth,h/ppImg.naturalHeight)*z,dw=ppImg.naturalWidth*base,dh=ppImg.naturalHeight*base;
+  const ox=(w-dw)/2+($('#px').value/100)*(dw/2),oy=(h-dh)/2+($('#py').value/100)*(dh/2);
+  x.drawImage(ppImg,ox,oy,dw,dh);return c;
+}
+function ppDraw(){
+  const cv=$('#ppc');if(!cv)return;const [mw,mh]=ppSize();cv.width=350;cv.height=Math.round(350*mh/mw);
+  const x=cv.getContext('2d');x.drawImage(ppCanvas(350),0,0);
+  x.strokeStyle='rgba(13,122,85,.85)';x.setLineDash([6,5]);x.lineWidth=1.5;
+  [0.1,0.8].forEach(f=>{x.beginPath();x.moveTo(0,cv.height*f);x.lineTo(cv.width,cv.height*f);x.stroke()});
+  x.beginPath();x.moveTo(cv.width/2,0);x.lineTo(cv.width/2,cv.height);x.stroke();
+}
+route();
+</script>
+</body>
+</html>
