@@ -1226,7 +1226,13 @@
   "seed": 392936209,
   "image": "posts/2026-10-12-kp-3-districts-schools-closed.jpg",
   "story": "posts/2026-10-12-kp-3-districts-schools-closed-story.jpg",
-  "music": "PENDING"
+  "music": "Fairytales Age Too - cloud cover (id 1368174622072131, audioType music; trending 'Autumn Colors - LuLuMusic' gave multiple matches; calm for school-closure news)",
+  "scheduled": "2026-10-12 10:20 PKT",
+  "metricool_ids": {
+   "fb_post": 393720615,
+   "anime_reel_fb_ig_tt": 393720755,
+   "story": 393720685
+  }
  },
  {
   "date": "2026-10-12",
@@ -1243,6 +1249,12 @@
   "image": "posts/2026-10-12-psx-kse100-down-400.jpg",
   "story": "posts/2026-10-12-psx-kse100-down-400-story.jpg",
   "video": "posts/2026-10-12-psx-kse100-down-400.mp4",
-  "music": "PENDING"
+  "music": "Upside Down - Mike Block (id 581639516835198, audioType music; candidate list for trending 'Upside Down - Diana Ross')",
+  "scheduled": "2026-10-12 10:50 PKT",
+  "metricool_ids": {
+   "fb_tt_photo": 393720792,
+   "ig_reel": 393720837,
+   "story": 393720888
+  }
  }
 ]
