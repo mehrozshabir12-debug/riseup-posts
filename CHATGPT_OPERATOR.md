@@ -35,7 +35,7 @@ You only ever **create text files**. You never upload images or videos, and you 
 - `date`: `payload.publicationDate.dateTime + "+05:00"`
 - `info`: the payload object **exactly as given**, sent as a JSON string. Do not change networks, types, audio, covers, captions or `autoPublish`.
 
-Note each returned post id. The media URLs are public `raw.githubusercontent.com` links, so no upload is needed.
+If `publicationDate` is already past or less than 3 minutes away, use now + 5 minutes for both `date` and `info.publicationDate.dateTime` (same time for feed, reel and story). Note each returned post id. The media URLs are public `raw.githubusercontent.com` links, so no upload is needed.
 Optional music: before committing, put `"music": {"audioId": "<trending track>"}` in the request. If Metricool returns several candidates, retry with the exact numeric id.
 
 **6. Verify, then commit a receipt.**
@@ -60,7 +60,7 @@ Optional music: before committing, put `"music": {"audioId": "<trending track>"}
 
 ## Limits (the workflow enforces them; plan around them)
 - **15** news per day, **3** star posts per day (only when there is genuine news), **TikTok max 8 per day**. When the TikTok cap is hit, TikTok is dropped from the payloads automatically.
-- Posting hours: **10:00 AM – 11:59 PM PKT**. With `"publish": {"at": "auto"}`, posts are spaced about **30 min** apart. Outside posting hours, the post moves to the next day at 10:05.
+- Posting hours: **10:00 AM – 11:59 PM PKT**. With `"publish": {"at": "auto"}` the slot is now + 20 min, and news posts are spaced about **30 min** apart. Outside posting hours, the post moves to the next day at 10:05.
 - Normal news never repeats. Duplicates are caught by request id, source URL, or a similar headline (≥ 60% word overlap, last 3 days).
 - Tribute (death): up to **3** respectful versions per person, and 2 sources on different websites are required.
 - Freshness: older than 2 h gives a warning; older than 24 h is rejected (48 h for tributes).

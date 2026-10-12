@@ -245,7 +245,7 @@ def pick_slot(req):
         if not in_hours(t):
             raise Reject("publish.at must be between 10:00 AM and 11:59 PM Pakistan time")
         return t
-    t = now + dt.timedelta(minutes=10)
+    t = now + dt.timedelta(minutes=20)   # time for ChatGPT to read results and schedule
     if req["type"] == "news":
         last = last_scheduled_news()
         if last and t < last + dt.timedelta(minutes=MIN_GAP_MIN):
