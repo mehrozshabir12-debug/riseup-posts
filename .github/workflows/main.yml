@@ -1,0 +1,88 @@
+
+name: RiseUp Media Manager
+
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "Unique news ID, e.g. fia-helpline"
+        required: true
+        type: string
+      feed_url:
+        description: "Public HTTPS URL of approved feed JPG"
+        required: true
+        type: string
+      story_url:
+        description: "Public HTTPS URL of approved story JPG"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: riseup-media
+  cancel-in-progress: false
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download and validate approved images
+        env:
+          SLUG: ${{ inputs.slug }}
+          FEED_URL: ${{ inputs.feed_url }}
+          STORY_URL: ${{ inputs.story_url }}
+        run: |
+          python -m pip install pillow requests
+          python - <<'PY'
+          import os, re, io
+          from pathlib import Path
+          from urllib.parse import urlparse
+          import requests
+          from PIL import Image
+
+          slug = os.environ["SLUG"]
+          if not re.fullmatch(r"[a-z0-9][a-z0-9-]{0,79}", slug):
+              raise ValueError("Invalid news ID")
+
+          out = Path("posts")
+          out.mkdir(exist_ok=True)
+
+          for kind, expected in [
+              ("feed", (1080, 1350)),
+              ("story", (1080, 1920))
+          ]:
+              url = os.environ[kind.upper() + "_URL"]
+              if urlparse(url).scheme != "https":
+                  raise ValueError("HTTPS URL required")
+              response = requests.get(url, timeout=30)
+              response.raise_for_status()
+              if len(response.content) > 15_000_000:
+                  raise ValueError("Image too large")
+              img = Image.open(io.BytesIO(response.content))
+              img.load()
+              if img.size != expected:
+                  raise ValueError(
+                      f"{kind}: expected {expected}, got {img.size}"
+                  )
+              if img.format != "JPEG":
+                  raise ValueError("Only JPG supported")
+              target = out / f"{slug}{'-story' if kind == 'story' else ''}.jpg"
+              if target.exists():
+                  raise ValueError(f"Already exists: {target}")
+              target.write_bytes(response.content)
+              print(f"Validated {target}")
+          PY
+
+      - name: Commit approved media
+        run: |
+          git config user.name "RiseUp Automation"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add posts/
+          git diff --cached --quiet && exit 0
+          git commit -m "Add approved RiseUp media"
+          git push
