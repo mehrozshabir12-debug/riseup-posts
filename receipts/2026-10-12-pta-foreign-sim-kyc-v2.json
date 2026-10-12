@@ -1,11 +1,15 @@
 {
  "id": "2026-10-12-pta-foreign-sim-kyc-v2",
  "scheduled": "2026-10-12 15:53 PKT",
+ "checked_at": "2026-10-12 15:55 PKT",
  "posts": {
   "feed": {
    "metricool_id": 393898948,
    "status": {
-    "facebook": "PENDING"
+    "facebook": "PUBLISHED"
+   },
+   "public_urls": {
+    "facebook": "https://facebook.com/122185478282855502/posts/122186113142855502"
    },
    "attempts": 1
   },
@@ -16,13 +20,17 @@
     "instagram": "PENDING",
     "tiktok": "PENDING"
    },
+   "note": "Metricool status PUBLISHING (video processing)",
    "attempts": 1
   },
   "story": {
    "metricool_id": 393899049,
    "status": {
-    "facebook": "PENDING",
+    "facebook": "PUBLISHED",
     "instagram": "PENDING"
+   },
+   "public_urls": {
+    "facebook": "https://facebook.com/122185478282855502/posts/997124610073549"
    },
    "attempts": 1
   }
