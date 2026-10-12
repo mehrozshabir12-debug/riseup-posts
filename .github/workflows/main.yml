@@ -1,21 +1,20 @@
-
 name: RiseUp Media Manager
 
+# ChatGPT (or anyone) commits a text-only request file  requests/<id>.json  ->  this workflow renders the
+# approved feed card + Story + Reel, checks the design, commits them to posts/, verifies the public raw URLs,
+# writes results/<id>.json (status + media URLs + ready Metricool payloads) and updates the logs.
+# Posting results are reported back with  receipts/<id>.json  (merged automatically).
+# Optional: with METRICOOL_USER_TOKEN + METRICOOL_USER_ID secrets it also schedules via the Metricool API.
+
 on:
-  workflow_dispatch:
-    inputs:
-      slug:
-        description: "Unique news ID, e.g. fia-helpline"
-        required: true
-        type: string
-      feed_url:
-        description: "Public HTTPS URL of approved feed JPG"
-        required: true
-        type: string
-      story_url:
-        description: "Public HTTPS URL of approved story JPG"
-        required: true
-        type: string
+  push:
+    branches: [main]
+    paths:
+      - "requests/**.json"
+      - "receipts/**.json"
+  workflow_dispatch: {}
+  schedule:
+    - cron: "*/30 * * * *"        # status check + safe retry (only does work in Metricool API mode)
 
 permissions:
   contents: write
@@ -24,65 +23,97 @@ concurrency:
   group: riseup-media
   cancel-in-progress: false
 
+env:
+  METRICOOL_USER_TOKEN: ${{ secrets.METRICOOL_USER_TOKEN }}
+  METRICOOL_USER_ID: ${{ secrets.METRICOOL_USER_ID }}
+  METRICOOL_BLOG_ID: ${{ vars.METRICOOL_BLOG_ID || '7305396' }}
+  PYTHONUNBUFFERED: "1"
+
 jobs:
-  upload:
+  process:
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Download and validate approved images
-        env:
-          SLUG: ${{ inputs.slug }}
-          FEED_URL: ${{ inputs.feed_url }}
-          STORY_URL: ${{ inputs.story_url }}
+      - name: Install tools (ffmpeg, Python libs, TTS) and approved fonts
         run: |
-          python -m pip install pillow requests
-          python - <<'PY'
-          import os, re, io
-          from pathlib import Path
-          from urllib.parse import urlparse
-          import requests
-          from PIL import Image
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg espeak-ng > /dev/null
+          python -m pip install -q pillow numpy scipy edge-tts
+          sudo mkdir -p /usr/share/fonts/truetype/google-fonts
+          sudo cp template/fonts/Poppins-Bold.ttf template/fonts/Poppins-Regular.ttf /usr/share/fonts/truetype/google-fonts/
 
-          slug = os.environ["SLUG"]
-          if not re.fullmatch(r"[a-z0-9][a-z0-9-]{0,79}", slug):
-              raise ValueError("Invalid news ID")
+      - name: Approved template integrity check
+        run: python automation/design_check.py template
 
-          out = Path("posts")
-          out.mkdir(exist_ok=True)
+      - name: Render requests (validate, dedupe, caps, render, design checks)
+        id: render
+        continue-on-error: true
+        run: python automation/process_request.py render
 
-          for kind, expected in [
-              ("feed", (1080, 1350)),
-              ("story", (1080, 1920))
-          ]:
-              url = os.environ[kind.upper() + "_URL"]
-              if urlparse(url).scheme != "https":
-                  raise ValueError("HTTPS URL required")
-              response = requests.get(url, timeout=30)
-              response.raise_for_status()
-              if len(response.content) > 15_000_000:
-                  raise ValueError("Image too large")
-              img = Image.open(io.BytesIO(response.content))
-              img.load()
-              if img.size != expected:
-                  raise ValueError(
-                      f"{kind}: expected {expected}, got {img.size}"
-                  )
-              if img.format != "JPEG":
-                  raise ValueError("Only JPG supported")
-              target = out / f"{slug}{'-story' if kind == 'story' else ''}.jpg"
-              if target.exists():
-                  raise ValueError(f"Already exists: {target}")
-              target.write_bytes(response.content)
-              print(f"Validated {target}")
-          PY
-
-      - name: Commit approved media
+      - name: Commit rendered media
         run: |
           git config user.name "RiseUp Automation"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add posts/
-          git diff --cached --quiet && exit 0
-          git commit -m "Add approved RiseUp media"
-          git push
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add posts results 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Render RiseUp media for new requests"
+            for i in 1 2 3 4 5; do git push -q && break; git pull -q --rebase; sleep 3; done
+          fi
+
+      - name: Verify public URLs, build Metricool payloads, update logs
+        id: finalize
+        continue-on-error: true
+        run: python automation/process_request.py finalize
+
+      - name: Merge posting receipts
+        run: python automation/process_request.py receipts
+
+      - name: Commit results and logs
+        run: |
+          git add results posted_log.json celebrity_log.json tribute_log.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Update RiseUp results and logs"
+            for i in 1 2 3 4 5; do git push -q && break; git pull -q --rebase; sleep 3; done
+          fi
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## RiseUp results" >> $GITHUB_STEP_SUMMARY
+          for f in $(git diff --name-only HEAD~2 HEAD -- results 2>/dev/null); do
+            python -c "import json,sys;d=json.load(open('$f'));print(f\"- **{d['id']}**: {d['status']} {'; '.join(d.get('errors',[]))}\")" >> $GITHUB_STEP_SUMMARY
+          done
+
+      - name: Fail the run if any request failed
+        if: steps.render.outcome == 'failure' || steps.finalize.outcome == 'failure'
+        run: |
+          echo "One or more requests were rejected or failed - see results/<id>.json"
+          exit 1
+
+  verify:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Skip when Metricool API secrets are not set
+        id: gate
+        run: |
+          if [ -n "$METRICOOL_USER_TOKEN" ] && [ -n "$METRICOOL_USER_ID" ]; then echo "on=1" >> $GITHUB_OUTPUT; else echo "API mode off - nothing to do"; fi
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.on == '1'
+      - name: Check Metricool status and retry failed networks once
+        if: steps.gate.outputs.on == '1'
+        run: |
+          python -m pip install -q pillow
+          python automation/process_request.py verify
+          git config user.name "RiseUp Automation"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results posted_log.json celebrity_log.json tribute_log.json
+          if ! git diff --cached --quiet; then
+            git commit -q -m "Update Metricool publishing status"
+            for i in 1 2 3; do git push -q && break; git pull -q --rebase; sleep 3; done
+          fi

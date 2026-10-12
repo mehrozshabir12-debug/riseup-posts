@@ -220,3 +220,8 @@ The post IMAGE text stays in English (template). Keep "Source: <outlet>" and the
 - Each news Reel explains exactly one news event, with visuals relevant to that same event.
 - Maximum duration: 60 seconds.
 - The Reel cover must be the approved news card for that same story.
+
+## GitHub automation for ChatGPT (12 Oct 2026)
+The repo now renders media by itself: commit a text-only `requests/<id>.json` and the workflow
+`.github/workflows/main.yml` makes the approved card, Story and Reel, checks the design, commits them to `posts/`,
+and writes `results/<id>.json` with live raw URLs and ready Metricool payloads. Full steps: `CHATGPT_OPERATOR.md`.

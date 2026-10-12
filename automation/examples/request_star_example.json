@@ -1,0 +1,34 @@
+{
+ "id": "2026-10-12-star-example",
+ "type": "star",
+ "headline": "Singer X releases new song that crosses 1 million views in a day",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/<id>",
+   "published_at": "2026-10-12T14:00:00+05:00"
+  }
+ ],
+ "person": {
+  "name": "Singer X",
+  "handle": "@official_handle_only_if_confirmed"
+ },
+ "card": {
+  "scene": "music",
+  "head1": "New Song Hit",
+  "head2_hl": "1 Million",
+  "head2": "Views",
+  "kicker": "Singer X",
+  "desc": "Song trends at number one on YouTube Pakistan",
+  "source": "Express Tribune",
+  "date": "12 Oct 2026"
+ },
+ "reel": {
+  "type": "none"
+ },
+ "caption": "🎵 ...\n\nAap ko gaana kaisa laga? Comment mein batayein 👇\n\nSource: Express Tribune\n\n#RiseUpPakistan #Music",
+ "publish": {
+  "at": "auto"
+ }
+}

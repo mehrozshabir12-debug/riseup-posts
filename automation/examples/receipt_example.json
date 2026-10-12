@@ -1,0 +1,32 @@
+{
+ "id": "2026-10-12-fia-helpline",
+ "scheduled": "2026-10-12 16:10 PKT",
+ "posts": {
+  "feed": {
+   "metricool_id": 393900001,
+   "status": {
+    "facebook": "PUBLISHED"
+   },
+   "public_urls": {
+    "facebook": "https://facebook.com/..."
+   }
+  },
+  "reel": {
+   "metricool_id": 393900002,
+   "status": {
+    "facebook": "PUBLISHED",
+    "instagram": "PUBLISHED",
+    "tiktok": "ERROR"
+   },
+   "error": "tiktok: <message>",
+   "attempts": 1
+  },
+  "story": {
+   "metricool_id": 393900003,
+   "status": {
+    "facebook": "PUBLISHED",
+    "instagram": "PUBLISHED"
+   }
+  }
+ }
+}

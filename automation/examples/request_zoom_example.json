@@ -1,0 +1,35 @@
+{
+ "id": "2026-10-12-petrol-price-cut",
+ "type": "news",
+ "headline": "Government cuts petrol price by Rs 5 per litre from midnight",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/<article-id>",
+   "published_at": "2026-10-12T15:00:00+05:00"
+  }
+ ],
+ "card": {
+  "scene": "fuel",
+  "head1": "Petrol Sasta",
+  "head2_hl": "Rs 5",
+  "head2": "Per Litre",
+  "kicker": "New Price From Midnight",
+  "desc": "Finance Division notification issued tonight",
+  "source": "Geo News",
+  "date": "12 Oct 2026"
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "caption": "📞 FIA ki nayi helpline!\n\n• Online fraud ki shikayat ab seedha FIA ko\n• Screenshots aur number saath dein\n\nKya aap ke saath kabhi online fraud hua? Comment mein batayein 👇\n\nSource: Dawn\n\n#RiseUpPakistan #FIA #Pakistan #PakistanNews",
+ "tiktok_title": "FIA ki nayi online fraud helpline",
+ "publish": {
+  "at": "auto"
+ },
+ "music": {
+  "audioId": "2991194837697937",
+  "label": "Chase It (Instrumental) - JQ, The Red Collective"
+ }
+}

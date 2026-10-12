@@ -1,0 +1,52 @@
+{
+ "id": "2026-10-12-fia-helpline",
+ "type": "news",
+ "headline": "FIA launches a new helpline for online fraud complaints across Pakistan",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/<article-id>",
+   "published_at": "2026-10-12T15:00:00+05:00"
+  }
+ ],
+ "card": {
+  "scene": "police",
+  "head1": "FIA Helpline",
+  "head2_hl": "Online Fraud",
+  "head2": "Complaints",
+  "kicker": "New Number Launched",
+  "desc": "Citizens can now report scams directly to FIA",
+  "source": "Dawn",
+  "date": "12 Oct 2026"
+ },
+ "reel": {
+  "type": "narrated",
+  "intro_voice": "FIA ne online fraud ki shikayat ke liye nayi helpline shuru kar di hai.",
+  "segments": [
+   {
+    "text": "FIA ne **online fraud** ke liye nayi helpline shuru ki",
+    "voice": "Federal Investigation Agency ne online fraud ki shikayaton ke liye nayi helpline jari ki hai."
+   },
+   {
+    "text": "Shehri ab **seedha call** kar ke scam report kar sakte hain",
+    "voice": "Ab shehri seedha call kar ke kisi bhi scam ki report kar sakte hain."
+   },
+   {
+    "text": "Shikayat ke saath **screenshots** aur number zaroor dein",
+    "voice": "Shikayat karte waqt screenshots aur number zaroor dein."
+   }
+  ],
+  "outro_question": "Kya aap ke saath kabhi online fraud hua?",
+  "scenes": [
+   "police",
+   "tech",
+   "security"
+  ]
+ },
+ "caption": "📞 FIA ki nayi helpline!\n\n• Online fraud ki shikayat ab seedha FIA ko\n• Screenshots aur number saath dein\n\nKya aap ke saath kabhi online fraud hua? Comment mein batayein 👇\n\nSource: Dawn\n\n#RiseUpPakistan #FIA #Pakistan #PakistanNews",
+ "tiktok_title": "FIA ki nayi online fraud helpline",
+ "publish": {
+  "at": "auto"
+ }
+}
