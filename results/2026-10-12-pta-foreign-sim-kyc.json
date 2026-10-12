@@ -140,7 +140,9 @@
   },
   "posts": {}
  },
- "status": "awaiting_publish",
+ "status": "cancelled",
  "log": "posted_log.json",
- "updated_at": "2026-10-12T15:25:49+05:00"
+ "updated_at": "2026-10-12T15:29:26+05:00",
+ "cancel_reason": "Test run: narration fell back to zoom Reel; replaced by narrated version 2026-10-12-pta-foreign-sim-kyc-reel",
+ "receipt_sha": "f40b3b93848c3474f2ac922066e8c78922c470ed87a7cec8b5d0d66307c2c7d3"
 }

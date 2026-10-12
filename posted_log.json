@@ -1423,8 +1423,9 @@
   "reel_kind": "zoom",
   "scheduled": "2026-10-12 15:45 PKT",
   "music": null,
-  "publish_status": "awaiting_publish",
+  "publish_status": "cancelled",
   "metricool_ids": {},
-  "video": "posts/2026-10-12-pta-foreign-sim-kyc.mp4"
+  "video": "posts/2026-10-12-pta-foreign-sim-kyc.mp4",
+  "cancel_reason": "Test run: narration fell back to zoom Reel; replaced by narrated version 2026-10-12-pta-foreign-sim-kyc-reel"
  }
 ]
