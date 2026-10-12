@@ -1388,12 +1388,13 @@
    "status": {
     "facebook": "PUBLISHED",
     "instagram": "PUBLISHED",
-    "tiktok": "AWAITING_CONFIRMATION"
+    "tiktok": "PUBLISHED"
    },
    "note": "User requested narrated single-story Reel and then authorized going live on all networks; same news story, not an additional daily story.",
    "public_urls": {
     "facebook": "https://facebook.com/reel/2687161691800284",
-    "instagram": "https://www.instagram.com/reel/DeY7eK-E54_/"
+    "instagram": "https://www.instagram.com/reel/DeY7eK-E54_/",
+    "tiktok": "https://www.tiktok.com/@riseuppakistan2025/video/7695713434037456148"
    }
   }
  }
