@@ -1483,8 +1483,26 @@
   "reel_kind": "narrated",
   "scheduled": "2026-10-12 15:53 PKT",
   "music": null,
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-12-pta-foreign-sim-kyc-v2-reel.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 393898948,
+   "reel": 393899023,
+   "story": 393899049
+  },
+  "video": "posts/2026-10-12-pta-foreign-sim-kyc-v2-reel.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
