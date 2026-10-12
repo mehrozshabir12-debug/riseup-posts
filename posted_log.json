@@ -1518,5 +1518,58 @@
     "instagram": "https://www.instagram.com/stories/riseuppakistann/4006251470969681348"
    }
   }
+ },
+ {
+  "date": "2026-10-12",
+  "layout": "bold",
+  "headline": "Gold price falls Rs 2,100 per tola to Rs 439,936 (24K); 10g Rs 377,174; international $4,174/oz down $21 (APSGJA)",
+  "source_outlet": "Samaa",
+  "source": "https://www.samaa.tv/2087358362-gold-price-in-pakistan-falls-by-rs2-100-oct-12-2026",
+  "sources": [
+   {
+    "outlet": "Samaa",
+    "url": "https://www.samaa.tv/2087358362-gold-price-in-pakistan-falls-by-rs2-100-oct-12-2026",
+    "published_at": "2026-10-12 ~15:30 PKT"
+   },
+   {
+    "outlet": "Capital News Point",
+    "url": "https://english.capitalnewspoint.com/2026/10/12/gold-prices-drop-by-rs2100-per-tola-in-pakistan-silver-also-falls/",
+    "published_at": "2026-10-12T15:32:55+05:00"
+   }
+  ],
+  "published": "2026-10-12T15:32:55+05:00",
+  "language": "Roman Urdu",
+  "scene": "gold",
+  "seed": 429005671,
+  "image": "posts/2026-10-12-gold-falls-2100.jpg",
+  "story": "posts/2026-10-12-gold-falls-2100-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": null,
+  "scheduled": "2026-10-12 17:06 PKT"
+ },
+ {
+  "date": "2026-10-12",
+  "layout": "bold",
+  "headline": "Rupee closes at 276.97 per dollar in interbank, gains Re0.03 vs Friday's 277.00",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40443811/intra-day-update-rupee-records-gain-against-us-dollar",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40443811/intra-day-update-rupee-records-gain-against-us-dollar",
+    "published_at": "2026-10-12T15:43:00+05:00"
+   }
+  ],
+  "published": "2026-10-12T15:43:00+05:00",
+  "language": "Roman Urdu",
+  "scene": "trade",
+  "seed": 917329187,
+  "image": "posts/2026-10-12-rupee-closes-27697.jpg",
+  "story": "posts/2026-10-12-rupee-closes-27697-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": null,
+  "scheduled": "2026-10-12 17:36 PKT"
  }
 ]
