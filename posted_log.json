@@ -1365,12 +1365,28 @@
   "status": {
    "facebook": "PUBLISHED",
    "instagram": "PUBLISHED",
-   "tiktok": "AWAITING_CONFIRMATION"
+   "tiktok": "PUBLISHED"
   },
   "public_urls": {
    "facebook": "https://facebook.com/122185478282855502/posts/122186089838855502",
-   "instagram": "https://www.instagram.com/p/DeY0UU5FbIw/"
+   "instagram": "https://www.instagram.com/p/DeY0UU5FbIw/",
+   "tiktok": "https://www.tiktok.com/@riseuppakistan2025/video/7695697079552724276"
   },
-  "tiktok_detail": "Published:7695696894445750324"
+  "tiktok_detail": "Published:7695696894445750324",
+  "story_metricool_id": 393858336,
+  "story_status": {
+   "facebook": "PUBLISHED",
+   "instagram": "PUBLISHED"
+  },
+  "reel": {
+   "metricool_id": 393859804,
+   "uuid": "1545045184232637563",
+   "scheduled": "2026-10-12 14:37 PKT",
+   "duration": 42,
+   "narration": "Urdu",
+   "cover": "posts/riseup_first_news_approved.jpg",
+   "status": "PENDING",
+   "note": "User requested narrated single-story Reel and then authorized going live on all networks; same news story, not an additional daily story."
+  }
  }
 ]
