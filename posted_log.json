@@ -1348,5 +1348,20 @@
    "fb_tiktok": 393766223,
    "stories": 393766236
   }
+ },
+ {
+  "date": "2026-10-12",
+  "headline": "Pakistan's $1 Billion+ Privatisation Plan; 5–6 state entities targeted",
+  "source_outlet": "Reuters / Dawn",
+  "image": "posts/riseup_first_news_approved.jpg",
+  "approved_design": true,
+  "scene": "approved_islamabad_privatisation",
+  "tiktok": true,
+  "scheduled": "2026-10-12 13:35 PKT",
+  "metricool_ids": {
+   "facebook_instagram_tiktok": 393820073
+  },
+  "metricool_uuid": "3305088677110566075",
+  "status": "scheduled"
  }
 ]
