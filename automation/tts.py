@@ -36,19 +36,30 @@ def speak(text, out_wav, lang="ur", voice=None, allow_fallback=False):
             w.writeframes((np.zeros(n)).astype(np.int16).tobytes())
         return out_wav, wav_seconds(out_wav), "silent-test"
     errors = []
+    mp3 = out_wav[:-4] + ".mp3"
     exe = shutil.which("edge-tts")
-    if exe:
-        mp3 = out_wav[:-4] + ".mp3"
-        for attempt in range(3):
-            try:
-                subprocess.run([exe, "--voice", voice, "--rate=+4%", "--text", text, "--write-media", mp3],
-                               check=True, capture_output=True, timeout=90)
+    if exe and os.environ.get("RISEUP_TTS") != "gtts":
+        for attempt in range(2):
+            r = subprocess.run([exe, "--voice", voice, "--text", text, "--write-media", mp3],
+                               capture_output=True, text=True, timeout=90)
+            if r.returncode == 0 and os.path.exists(mp3) and os.path.getsize(mp3) > 1000:
                 _to_wav(mp3, out_wav); os.remove(mp3)
                 return out_wav, wav_seconds(out_wav), f"edge-tts:{voice}"
-            except Exception as e:  # network hiccup -> retry
-                errors.append(f"edge-tts attempt {attempt + 1}: {e}")
-    else:
+            errors.append(f"edge-tts: {(r.stderr or r.stdout).strip().splitlines()[-1:] or ['exit ' + str(r.returncode)]}")
+    elif not exe:
         errors.append("edge-tts not installed")
+    # second engine: Google TTS (gTTS), supports Urdu and English
+    g = shutil.which("gtts-cli")
+    if g:
+        tld = "com.pk" if lang == "ur" else "co.uk"
+        for attempt in range(2):
+            r = subprocess.run([g, text, "-l", lang, "-t", tld, "-o", mp3], capture_output=True, text=True, timeout=90)
+            if r.returncode == 0 and os.path.exists(mp3) and os.path.getsize(mp3) > 1000:
+                _to_wav(mp3, out_wav); os.remove(mp3)
+                return out_wav, wav_seconds(out_wav), f"gtts:{lang}"
+            errors.append(f"gtts: {(r.stderr or r.stdout).strip().splitlines()[-1:] or ['exit ' + str(r.returncode)]}")
+    else:
+        errors.append("gtts not installed")
     if allow_fallback and shutil.which("espeak-ng"):
         subprocess.run(["espeak-ng", "-v", "ur" if lang == "ur" else "en", "-s", "150", "-w", out_wav + ".raw.wav", text],
                        check=True, capture_output=True)

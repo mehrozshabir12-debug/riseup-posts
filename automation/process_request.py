@@ -271,6 +271,15 @@ def phase_receipts():
         h = sha256(p)
         if not res or res.get("receipt_sha") == h:
             continue
+        if rec.get("cancel"):
+            if res.get("status") in ("published", "partial", "scheduled"):
+                res.setdefault("warnings", []).append("cancel ignored: already sent to Metricool")
+            else:
+                res["status"] = "cancelled"; res["published"] = False
+                res["cancel_reason"] = rec.get("reason", "")
+                update_log_entry(rid, lambda e: e.update(publish_status="cancelled", cancel_reason=rec.get("reason", "")))
+            res["receipt_sha"] = h
+            write_result(rid, res); print(f"receipt {rid} -> {res['status']}"); continue
         if res.get("status") in ("rejected", "failed"):
             res.setdefault("warnings", []).append("receipt ignored: request was not rendered"); res["receipt_sha"] = h
             write_result(rid, res); continue

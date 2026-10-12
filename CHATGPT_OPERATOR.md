@@ -51,6 +51,10 @@ Optional music: before committing, put `"music": {"audioId": "<trending track>"}
 - The workflow sets `published` only when every network is PUBLISHED. Otherwise it sets `partial`, `scheduled` or `publish_failed`.
 - To update a receipt, edit the same file again; it is re-merged.
 
+**Cancel** a rendered request that you will NOT publish (wrong facts, better version coming): commit
+`receipts/<id>.json` = `{"id": "<id>", "cancel": true, "reason": "…"}`. It frees the daily slot and the duplicate lock.
+Only possible before anything was sent to Metricool.
+
 **7. Retry safely, at most 2 extra attempts.**
 - Retry only when a network shows `ERROR`.
 - Create **one** new post with the same payload, but put **only the failed networks** in `providers` and set a new time (now + 5 min).
