@@ -1640,5 +1640,20 @@
       "story": 394098216
     },
     "networks": "facebook+instagram POST, facebook+instagram STORY"
+  },
+  {
+    "date": "2026-10-12",
+    "headline": "All educational institutions in Peshawar to remain open as usual on Tuesday 13 Oct; DC office asks parents and students to ignore fake closure notices",
+    "source": "24 News HD",
+    "source_url": "https://www.24newshd.tv/12-Oct-2026/educational-institutions-peshawar-remain-open-october-13",
+    "published": "2026-10-12 22:05 PKT",
+    "caption_language": "Roman Urdu",
+    "scene": "security",
+    "seed": 784810406,
+    "tiktok": false,
+    "image": "posts/2026-10-12-peshawar-schools-open-oct13.jpg",
+    "story": "posts/2026-10-12-peshawar-schools-open-oct13-story.jpg",
+    "scheduled": "2026-10-12 22:25 PKT",
+    "networks": "facebook+instagram POST, facebook+instagram STORY"
   }
 ]
