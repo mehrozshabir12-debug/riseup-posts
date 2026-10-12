@@ -1,4 +1,5 @@
-> ⏸ **ALL RISEUP POSTING IS PAUSED by the owner (12 Oct 2026).** No posts, no scheduling, no requests until the owner resumes.
+> ▶ **Claude's scheduled tasks RESUMED by the owner (12 Oct 2026, 4:30 PM PKT).** Post exactly as before. The ChatGPT
+> handover (CHATGPT_OPERATOR.md, requests/ workflow) stays PAUSED — do not use requests/ or the workflow.
 
 # RiseUp Pakistan – automatic news posting guide
 
