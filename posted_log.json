@@ -1621,5 +1621,19 @@
       "feed": 394003080,
       "story": 394003098
     }
+  },
+  {
+    "date": "2026-10-12",
+    "headline": "Petrol up Rs 145.13/litre in 2026 (Rs 253.17 in Jan to Rs 398.30 on 10 Oct); diesel up Rs 139.16; daily pricing since 21 Jul: petrol up 35 times, down 22",
+    "source": "ProPakistani",
+    "source_url": "https://propakistani.pk/2026/10/12/petrol-up-by-nearly-rs-150-per-litre-in-2026/",
+    "published": "2026-10-12 19:15 PKT",
+    "caption_language": "Roman Urdu",
+    "scene": "tax",
+    "seed": 528038988,
+    "tiktok": false,
+    "image": "posts/2026-10-12-petrol-up-rs145-in-2026.jpg",
+    "story": "posts/2026-10-12-petrol-up-rs145-in-2026-story.jpg",
+    "scheduled": "2026-10-12 20:00 PKT"
   }
 ]
