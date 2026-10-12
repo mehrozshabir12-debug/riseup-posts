@@ -1453,8 +1453,9 @@
   "reel_kind": "narrated",
   "scheduled": "2026-10-12 15:49 PKT",
   "music": null,
-  "publish_status": "awaiting_publish",
+  "publish_status": "cancelled",
   "metricool_ids": {},
-  "video": "posts/2026-10-12-pta-foreign-sim-kyc-reel-reel.mp4"
+  "video": "posts/2026-10-12-pta-foreign-sim-kyc-reel-reel.mp4",
+  "cancel_reason": "Highlight text bug (** after comma) found in visual review; replaced by -v2"
  }
 ]
