@@ -118,7 +118,8 @@ Only possible before anything was sent to Metricool.
 **`reel.type`**
 - `narrated`: one-story Reel, at most 60 s. It opens on the news card (also the cover), then each segment has the approved text style over changing topic scenes, with narration and a breaking-news sting.
   - 2–6 `segments`; on-screen `text` max 190 characters.
-  - Narration voices: Urdu `ur-PK-AsadNeural` by default (write `voice` lines in **Urdu script** for natural Urdu), or English `en-GB-RyanNeural` (when `language` is English). Override with `"voice"`.
+  - Narration: write `voice` lines in **Urdu script** (Roman Urdu is read badly), or English when `language` is English. Engine order: Microsoft neural voice (edge-tts, `ur-PK-AsadNeural` / `en-GB-RyanNeural`) → Google TTS (gTTS). On 12 Oct 2026, edge-tts failed on GitHub runners and Google TTS (Urdu) did the narration; `results.render.reel.narration_engine` shows which one was used.
+  - Keep the whole Reel under 60 s: about 4 segments of one or two short sentences each (the test Reel with 4 segments was 56.7 s).
   - If the narration fails or runs too long, the system uses the approved zoom Reel instead and adds a warning.
 - `zoom`: the original 8 s zoom Reel. On IG, music comes from `music.audioId`.
 - `anime`: the original anime Reel. Needs `paragraphs` (3–6, `**bold**` highlights), plus `mood` and `question`.
