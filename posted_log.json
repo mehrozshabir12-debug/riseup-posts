@@ -1653,7 +1653,11 @@
     "tiktok": false,
     "image": "posts/2026-10-12-peshawar-schools-open-oct13.jpg",
     "story": "posts/2026-10-12-peshawar-schools-open-oct13-story.jpg",
-    "scheduled": "2026-10-12 22:25 PKT",
-    "networks": "facebook+instagram POST, facebook+instagram STORY"
+    "scheduled": "2026-10-12 22:17 PKT",
+    "networks": "facebook+instagram POST, facebook+instagram STORY",
+    "metricool_ids": {
+      "post": 394213655,
+      "story": 394213680
+    }
   }
 ]
