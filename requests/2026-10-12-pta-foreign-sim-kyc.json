@@ -1,0 +1,24 @@
+{
+ "id": "2026-10-12-pta-foreign-sim-kyc",
+ "type": "news",
+ "headline": "PTA proposes KYC identity checks for foreign SIM and eSIM users on international roaming under draft 2026 inbound roaming regulations; comments open until 10 November",
+ "language": "Roman Urdu",
+ "sources": [{"outlet": "ProPakistani", "url": "https://propakistani.pk/2026/10/12/pta-to-regulate-foreign-sims/", "published_at": "2026-10-12T14:49:08+05:00"}],
+ "card": {"scene": "tech", "head1": "Foreign SIM Users", "head2_hl": "PTA", "head2": "KYC Plan",
+          "kicker": "Draft Roaming Rules 2026", "desc": "Passport and travel details may be checked to curb fraud",
+          "source": "ProPakistani", "date": "12 Oct 2026"},
+ "reel": {"type": "narrated",
+   "intro_voice": "پی ٹی اے غیر ملکی سم اور ای سم استعمال کرنے والوں کی شناخت چیک کرنے کا منصوبہ بنا رہا ہے۔",
+   "segments": [
+     {"text": "PTA ne foreign SIM aur eSIM users ke liye **KYC** tajweez di", "voice": "پی ٹی اے نے انٹرنیشنل رومنگ پر غیر ملکی سم اور ای سم استعمال کرنے والوں کے لیے شناخت کی تصدیق تجویز کی ہے۔"},
+     {"text": "**Passport**, qaumiyat aur Pakistan aamad ki tareekh maangi ja sakti hai", "voice": "اس میں پاسپورٹ، قومیت، پاکستان آمد کی تاریخ اور قیام کی مدت جیسی معلومات مانگی جا سکتی ہیں۔"},
+     {"text": "Maqsad: **spoofed calls**, SMS phishing aur online fraud rokna", "voice": "پی ٹی اے کے مطابق اس کا مقصد جعلی کالز، ایس ایم ایس فراڈ اور بھتہ خوری کو روکنا ہے۔"},
+     {"text": "Abhi yeh draft hai, raaye **10 November** tak", "voice": "یہ ابھی صرف مسودہ ہے، اور اس پر دس نومبر تک رائے دی جا سکتی ہے۔"}
+   ],
+   "outro_question": "Kya yeh qadam fraud rokne mein madadgar hoga?",
+   "outro_voice": "کیا یہ قدم فراڈ روکنے میں مددگار ہوگا؟ کمنٹ میں بتائیں، اور فالو کریں۔",
+   "scenes": ["tech", "security", "world"]},
+ "caption": "📱 Foreign SIM users ki identity check hogi?\n\n• PTA ne international roaming par foreign SIM aur eSIM users ke liye KYC tajweez di hai\n• Passport, qaumiyat, Pakistan aamad ki tareekh aur qayam ki muddat jaisi maloomat maangi ja sakti hain\n• Maqsad: spoofed calls, SMS phishing, extortion aur online fraud rokna\n• Abhi yeh sirf draft hai, raaye 10 November tak di ja sakti hai\n\nKya yeh qadam fraud rokne mein madadgar hoga? Comment mein batayein 👇\n\nSource: ProPakistani\n\n#RiseUpPakistan #PTA #Pakistan #PakistanNews #SIM #CyberFraud #Telecom",
+ "tiktok_title": "PTA ka foreign SIM users ke liye KYC plan",
+ "publish": {"at": "auto", "networks": ["facebook", "instagram", "tiktok"], "stories": true}
+}
