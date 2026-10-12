@@ -1,6 +1,12 @@
 > ▶ **Claude's scheduled tasks RESUMED by the owner (12 Oct 2026, 4:30 PM PKT).** Post exactly as before. The ChatGPT
 > handover (CHATGPT_OPERATOR.md, requests/ workflow) stays PAUSED — do not use requests/ or the workflow.
 
+> ⛔ **NO REELS / NO VIDEOS (owner's order, 12 Oct 2026, to save usage).** Do NOT run make_video.py,
+> make_anime_reel.py or any video step, and do not schedule any REEL (Instagram, Facebook) or TikTok video.
+> This overrides every Reel/anime/tribute-Reel/music rule below. Each story is: (a) ONE post with the JPG to
+> facebook + instagram (instagramData {type: POST}) + tiktok if under the 8/day limit (tiktokData autoAddMusic true);
+> (b) facebook + instagram STORY with the -story.jpg. Tribute package = 2 image posts + Stories, no Reel.
+
 # RiseUp Pakistan – automatic news posting guide
 
 Brand: RiseUp Pakistan (Metricool blogId 7305396). Networks: facebook, instagram, tiktok.
