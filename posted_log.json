@@ -1595,7 +1595,11 @@
     "seed": 616587300,
     "image": "posts/2026-10-12-karachi-brt-red-line-2028.jpg",
     "story": "posts/2026-10-12-karachi-brt-red-line-2028-story.jpg",
-    "scheduled": "2026-10-12 18:09 PKT"
+    "scheduled": "2026-10-12 18:09 PKT",
+    "metricool_ids": {
+      "feed": 394003000,
+      "story": 394003023
+    }
   },
   {
     "date": "2026-10-12",
@@ -1612,6 +1616,10 @@
     "seed": 570401128,
     "image": "posts/2026-10-12-kp-pms-exam-31-oct.jpg",
     "story": "posts/2026-10-12-kp-pms-exam-31-oct-story.jpg",
-    "scheduled": "2026-10-12 18:39 PKT"
+    "scheduled": "2026-10-12 18:39 PKT",
+    "metricool_ids": {
+      "feed": 394003080,
+      "story": 394003098
+    }
   }
 ]
