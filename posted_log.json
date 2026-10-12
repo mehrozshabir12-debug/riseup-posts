@@ -1362,6 +1362,15 @@
    "facebook_instagram_tiktok": 393820073
   },
   "metricool_uuid": "3305088677110566075",
-  "status": "scheduled"
+  "status": {
+   "facebook": "PUBLISHED",
+   "instagram": "PUBLISHED",
+   "tiktok": "AWAITING_CONFIRMATION"
+  },
+  "public_urls": {
+   "facebook": "https://facebook.com/122185478282855502/posts/122186089838855502",
+   "instagram": "https://www.instagram.com/p/DeY0UU5FbIw/"
+  },
+  "tiktok_detail": "Published:7695696894445750324"
  }
 ]
