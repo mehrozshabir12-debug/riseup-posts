@@ -214,3 +214,9 @@ The post IMAGE text stays in English (template). Keep "Source: <outlet>" and the
   (tiktokData {autoAddMusic: true}) only if today's TikTok count is under the 8/day limit (see TikTok daily limit),
   and log `"tiktok": true` if added. Plus the facebook + instagram STORY with the -story.jpg, no text.
   No Reel/audio for star posts.
+
+
+## Owner's Reel presentation limits (12 Oct 2026)
+- Each news Reel explains exactly one news event, with visuals relevant to that same event.
+- Maximum duration: 60 seconds.
+- The Reel cover must be the approved news card for that same story.
