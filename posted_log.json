@@ -1546,7 +1546,11 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": null,
-  "scheduled": "2026-10-12 17:06 PKT"
+  "scheduled": "2026-10-12 17:06 PKT",
+  "metricool_ids": {
+   "feed": 393951254,
+   "story": 393951278
+  }
  },
  {
   "date": "2026-10-12",
@@ -1570,6 +1574,10 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": null,
-  "scheduled": "2026-10-12 17:36 PKT"
+  "scheduled": "2026-10-12 17:36 PKT",
+  "metricool_ids": {
+   "feed": 393951331,
+   "story": 393951357
+  }
  }
 ]
