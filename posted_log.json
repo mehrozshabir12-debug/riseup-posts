@@ -1634,6 +1634,11 @@
     "tiktok": false,
     "image": "posts/2026-10-12-petrol-up-rs145-in-2026.jpg",
     "story": "posts/2026-10-12-petrol-up-rs145-in-2026-story.jpg",
-    "scheduled": "2026-10-12 20:00 PKT"
+    "scheduled": "2026-10-12 20:05 PKT",
+    "metricool_ids": {
+      "post": 394098192,
+      "story": 394098216
+    },
+    "networks": "facebook+instagram POST, facebook+instagram STORY"
   }
 ]
