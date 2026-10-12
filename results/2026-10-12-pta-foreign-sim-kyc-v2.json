@@ -158,9 +158,11 @@
     "attempts": 1,
     "metricool_id": 393898948,
     "status": {
-     "facebook": "PENDING"
+     "facebook": "PUBLISHED"
     },
-    "public_urls": {}
+    "public_urls": {
+     "facebook": "https://facebook.com/122185478282855502/posts/122186113142855502"
+    }
    },
    "reel": {
     "attempts": 1,
@@ -176,15 +178,17 @@
     "attempts": 1,
     "metricool_id": 393899049,
     "status": {
-     "facebook": "PENDING",
+     "facebook": "PUBLISHED",
      "instagram": "PENDING"
     },
-    "public_urls": {}
+    "public_urls": {
+     "facebook": "https://facebook.com/122185478282855502/posts/997124610073549"
+    }
    }
   }
  },
  "status": "scheduled",
  "log": "posted_log.json",
- "updated_at": "2026-10-12T15:36:56+05:00",
- "receipt_sha": "14c5b8724afef5abf2254e9a712ab818c28c580f9a89bc13a91c0813b695ca57"
+ "updated_at": "2026-10-12T15:56:46+05:00",
+ "receipt_sha": "01057a76d7f2461570f266760d7ab39baadd0cc0f2b2a206e6ab0e0491be81f4"
 }

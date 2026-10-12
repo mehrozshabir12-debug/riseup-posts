@@ -1492,7 +1492,7 @@
   "video": "posts/2026-10-12-pta-foreign-sim-kyc-v2-reel.mp4",
   "network_status": {
    "feed": {
-    "facebook": "PENDING"
+    "facebook": "PUBLISHED"
    },
    "reel": {
     "facebook": "PENDING",
@@ -1500,8 +1500,16 @@
     "tiktok": "PENDING"
    },
    "story": {
-    "facebook": "PENDING",
+    "facebook": "PUBLISHED",
     "instagram": "PENDING"
+   }
+  },
+  "public_urls": {
+   "feed": {
+    "facebook": "https://facebook.com/122185478282855502/posts/122186113142855502"
+   },
+   "story": {
+    "facebook": "https://facebook.com/122185478282855502/posts/997124610073549"
    }
   }
  }
