@@ -1427,5 +1427,34 @@
   "metricool_ids": {},
   "video": "posts/2026-10-12-pta-foreign-sim-kyc.mp4",
   "cancel_reason": "Test run: narration fell back to zoom Reel; replaced by narrated version 2026-10-12-pta-foreign-sim-kyc-reel"
+ },
+ {
+  "date": "2026-10-12",
+  "request_id": "2026-10-12-pta-foreign-sim-kyc-reel",
+  "layout": "bold",
+  "headline": "PTA proposes KYC identity checks for foreign SIM and eSIM users on international roaming under draft 2026 inbound roaming regulations; comments open until 10 November",
+  "source_outlet": "ProPakistani",
+  "source": "https://propakistani.pk/2026/10/12/pta-to-regulate-foreign-sims/",
+  "sources": [
+   {
+    "outlet": "ProPakistani",
+    "url": "https://propakistani.pk/2026/10/12/pta-to-regulate-foreign-sims/",
+    "published_at": "2026-10-12T14:49:08+05:00"
+   }
+  ],
+  "published": "2026-10-12T14:49:08+05:00",
+  "language": "Roman Urdu",
+  "scene": "tech",
+  "seed": 914910601,
+  "image": "posts/2026-10-12-pta-foreign-sim-kyc-reel.jpg",
+  "story": "posts/2026-10-12-pta-foreign-sim-kyc-reel-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "narrated",
+  "scheduled": "2026-10-12 15:49 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-12-pta-foreign-sim-kyc-reel-reel.mp4"
  }
 ]
