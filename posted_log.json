@@ -1671,7 +1671,13 @@
     "seed": 342539080,
     "tiktok": true,
     "image": "posts/2026-10-13-rehman-baba-express-derails-multan.jpg",
-    "story": "posts/2026-10-13-rehman-baba-express-derails-multan-story.jpg"
+    "story": "posts/2026-10-13-rehman-baba-express-derails-multan-story.jpg",
+    "scheduled": "2026-10-13 10:05 PKT",
+    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY",
+    "metricool_ids": {
+      "post": 394597845,
+      "story": 394597868
+    }
   },
   {
     "date": "2026-10-13",
@@ -1684,6 +1690,12 @@
     "seed": 726334800,
     "tiktok": false,
     "image": "posts/2026-10-13-peshawar-brt-resumes.jpg",
-    "story": "posts/2026-10-13-peshawar-brt-resumes-story.jpg"
+    "story": "posts/2026-10-13-peshawar-brt-resumes-story.jpg",
+    "scheduled": "2026-10-13 10:35 PKT",
+    "networks": "facebook+instagram POST, facebook+instagram STORY",
+    "metricool_ids": {
+      "post": 394597898,
+      "story": 394597934
+    }
   }
 ]
