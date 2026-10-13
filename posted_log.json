@@ -1711,7 +1711,11 @@
     "image": "posts/2026-10-13-lahore-smog-aqi-201.jpg",
     "story": "posts/2026-10-13-lahore-smog-aqi-201-story.jpg",
     "scheduled": "2026-10-13 11:09 PKT",
-    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
+    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY",
+    "metricool_ids": {
+      "post": 394626842,
+      "story": 394626865
+    }
   },
   {
     "date": "2026-10-13",
@@ -1726,6 +1730,10 @@
     "image": "posts/2026-10-13-karachi-water-pipeline-china.jpg",
     "story": "posts/2026-10-13-karachi-water-pipeline-china-story.jpg",
     "scheduled": "2026-10-13 11:39 PKT",
-    "networks": "facebook+instagram POST, facebook+instagram STORY"
+    "networks": "facebook+instagram POST, facebook+instagram STORY",
+    "metricool_ids": {
+      "post": 394626918,
+      "story": 394626935
+    }
   }
 ]
