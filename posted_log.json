@@ -1697,5 +1697,35 @@
       "post": 394597898,
       "story": 394597934
     }
+  },
+  {
+    "date": "2026-10-13",
+    "headline": "Lahore tops most-polluted list: overall AQI 201, Gulberg II at 300; PMD forecasts rain for Lahore",
+    "source": "Daily Pakistan",
+    "source_url": "https://en.dailypakistan.com.pk/13-Oct-2026/rain-forecast-today-as-lahore-ranks-as-worlds-most-polluted-city",
+    "published": "2026-10-13 09:44 PKT",
+    "caption_language": "Roman Urdu",
+    "scene": "wind",
+    "seed": 654265975,
+    "tiktok": true,
+    "image": "posts/2026-10-13-lahore-smog-aqi-201.jpg",
+    "story": "posts/2026-10-13-lahore-smog-aqi-201-story.jpg",
+    "scheduled": "2026-10-13 11:09 PKT",
+    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
+  },
+  {
+    "date": "2026-10-13",
+    "headline": "Sindh CM in China: Wuhan firm HBSZ willing to build 100 km water pipeline for Karachi; 44 of 54 Sukkur Barrage gates replaced",
+    "source": "ARY News",
+    "source_url": "https://arynews.tv/cm-sindh-china-visit-invites-firm-for-100-km-k-4-water-pipeline-reviews-sukkur-barrage-gates",
+    "published": "2026-10-13 10:24 PKT",
+    "caption_language": "English",
+    "scene": "water",
+    "seed": 267717089,
+    "tiktok": false,
+    "image": "posts/2026-10-13-karachi-water-pipeline-china.jpg",
+    "story": "posts/2026-10-13-karachi-water-pipeline-china-story.jpg",
+    "scheduled": "2026-10-13 11:39 PKT",
+    "networks": "facebook+instagram POST, facebook+instagram STORY"
   }
 ]
