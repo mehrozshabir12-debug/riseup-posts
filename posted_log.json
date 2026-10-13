@@ -1844,6 +1844,10 @@
   "image": "posts/2026-10-13-fatah-2-er-test.jpg",
   "story": "posts/2026-10-13-fatah-2-er-test-story.jpg",
   "scheduled": "2026-10-13 18:05 PKT",
-  "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
+  "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY",
+  "metricool_ids": {
+   "post": 394926325,
+   "story": 394926367
+  }
  }
 ]
