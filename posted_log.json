@@ -1920,6 +1920,10 @@
   "image": "posts/2026-10-13-pak-sl-3rd-t20i-sl-consolation.jpg",
   "story": "posts/2026-10-13-pak-sl-3rd-t20i-sl-consolation-story.jpg",
   "scheduled": "2026-10-13 22:05 PKT",
-  "networks": "facebook+instagram POST, facebook+instagram STORY (TikTok daily limit 8 reached)"
+  "networks": "facebook+instagram POST, facebook+instagram STORY (TikTok daily limit 8 reached)",
+  "metricool_ids": {
+   "post": 395146910,
+   "story": 395146935
+  }
  }
 ]
