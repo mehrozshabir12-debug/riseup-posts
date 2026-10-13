@@ -1901,6 +1901,10 @@
     "image": "posts/2026-10-13-eu-legal-migration-skilled-workers.jpg",
     "story": "posts/2026-10-13-eu-legal-migration-skilled-workers-story.jpg",
     "scheduled": "2026-10-13 21:07 PKT",
-    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
+    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY",
+    "metricool_ids": {
+      "post": 395095815,
+      "story": 395095849
+    }
   }
 ]
