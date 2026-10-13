@@ -1938,7 +1938,11 @@
   "tiktok": false,
   "image": "posts/2026-10-13-nadra-lost-b-form-replacement.jpg",
   "story": "posts/2026-10-13-nadra-lost-b-form-replacement-story.jpg",
-  "scheduled": "2026-10-13 22:58 PKT",
-  "networks": "facebook+instagram POST, facebook+instagram STORY (TikTok daily limit 8 reached)"
+  "scheduled": "2026-10-13 23:03 PKT",
+  "networks": "facebook+instagram POST, facebook+instagram STORY (TikTok daily limit 8 reached)",
+  "metricool_ids": {
+   "post": 395195477,
+   "story": 395195498
+  }
  }
 ]
