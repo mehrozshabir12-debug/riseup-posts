@@ -1747,7 +1747,13 @@
   "seed": 750199716,
   "tiktok": true,
   "image": "posts/2026-10-13-pak-sl-3rd-t20i-sweep.jpg",
-  "story": "posts/2026-10-13-pak-sl-3rd-t20i-sweep-story.jpg"
+  "story": "posts/2026-10-13-pak-sl-3rd-t20i-sweep-story.jpg",
+  "scheduled": "2026-10-13 12:07 PKT",
+  "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY",
+  "metricool_ids": {
+   "post": 394652460,
+   "story": 394652472
+  }
  },
  {
   "date": "2026-10-13",
@@ -1760,6 +1766,12 @@
   "seed": 116846714,
   "tiktok": false,
   "image": "posts/2026-10-13-sc-seniority-hearing-ruling.jpg",
-  "story": "posts/2026-10-13-sc-seniority-hearing-ruling-story.jpg"
+  "story": "posts/2026-10-13-sc-seniority-hearing-ruling-story.jpg",
+  "scheduled": "2026-10-13 12:37 PKT",
+  "networks": "facebook+instagram POST, facebook+instagram STORY",
+  "metricool_ids": {
+   "post": 394652507,
+   "story": 394652535
+  }
  }
 ]
