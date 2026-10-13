@@ -1887,5 +1887,20 @@
       "post": 395052232,
       "story": 395052274
     }
+  },
+  {
+    "date": "2026-10-13",
+    "headline": "Pakistan urges EU to expand legal migration pathways for skilled Pakistani workers; Dar meets EU Commissioner Magnus Brunner in Islamabad; EU praises 64% cut in illegal migration to Europe",
+    "source": "24 News HD",
+    "source_url": "https://www.24newshd.tv/13-Oct-2026/pakistan-eu-discuss-expanding-legal-migration-pathways-skilled-workers",
+    "published": "2026-10-13 20:01 PKT",
+    "caption_language": "Roman Urdu",
+    "scene": "world",
+    "seed": 266696533,
+    "tiktok": true,
+    "image": "posts/2026-10-13-eu-legal-migration-skilled-workers.jpg",
+    "story": "posts/2026-10-13-eu-legal-migration-skilled-workers-story.jpg",
+    "scheduled": "2026-10-13 21:07 PKT",
+    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
   }
 ]
