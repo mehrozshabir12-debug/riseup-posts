@@ -1787,6 +1787,10 @@
     "image": "posts/2026-10-13-gold-up-rs900.jpg",
     "story": "posts/2026-10-13-gold-up-rs900-story.jpg",
     "scheduled": "2026-10-13 15:14 PKT",
-    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
+    "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY",
+    "metricool_ids": {
+      "post": 394786619,
+      "story": 394786642
+    }
   }
 ]
