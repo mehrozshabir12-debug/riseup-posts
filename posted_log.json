@@ -1882,6 +1882,10 @@
     "image": "posts/2026-10-13-sbp-banking-on-equality-women.jpg",
     "story": "posts/2026-10-13-sbp-banking-on-equality-women-story.jpg",
     "scheduled": "2026-10-13 20:20 PKT",
-    "networks": "facebook+instagram POST, facebook+instagram STORY"
+    "networks": "facebook+instagram POST, facebook+instagram STORY",
+    "metricool_ids": {
+      "post": 395052232,
+      "story": 395052274
+    }
   }
 ]
