@@ -1825,6 +1825,10 @@
   "image": "posts/2026-10-13-rupee-gains-276-96.jpg",
   "story": "posts/2026-10-13-rupee-gains-276-96-story.jpg",
   "scheduled": "2026-10-13 17:24 PKT",
-  "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
+  "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY",
+  "metricool_ids": {
+   "post": 394890988,
+   "story": 394891022
+  }
  }
 ]
