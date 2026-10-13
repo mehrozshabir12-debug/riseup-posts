@@ -1830,5 +1830,20 @@
    "post": 394890988,
    "story": 394891022
   }
+ },
+ {
+  "date": "2026-10-13",
+  "headline": "Pakistan Army test-launches extended-range Fatah-2 hypersonic ballistic missile; ISPR says it can defeat enemy missile defences; President, PM, Field Marshal congratulate",
+  "source": "Dawn",
+  "source_url": "https://dawn.com/news/2036882/army-conducts-successful-test-launch-of-hypersonic-fatah-2-extended-range-missile-ispr",
+  "published": "2026-10-13 17:27 PKT",
+  "caption_language": "English",
+  "scene": "general",
+  "seed": 490388259,
+  "tiktok": true,
+  "image": "posts/2026-10-13-fatah-2-er-test.jpg",
+  "story": "posts/2026-10-13-fatah-2-er-test-story.jpg",
+  "scheduled": "2026-10-13 18:05 PKT",
+  "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
  }
 ]
