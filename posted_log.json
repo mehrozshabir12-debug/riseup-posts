@@ -1659,5 +1659,31 @@
       "post": 394213655,
       "story": 394213680
     }
+  },
+  {
+    "date": "2026-10-13",
+    "headline": "Rehman Baba Express (Karachi-Peshawar) derails near Sher Shah Bridge, Multan around 5:15 AM; all 14 coaches off track; at least 5 dead, 30 injured taken to Nishtar Hospital; PM takes notice",
+    "source": "The News",
+    "source_url": "https://www.thenews.pk/story/1442720-rehman-baba-express-derails-near-multan-killing-at-least-five-passengers",
+    "published": "2026-10-13 08:29 PKT",
+    "caption_language": "Roman Urdu",
+    "scene": "hospital",
+    "seed": 342539080,
+    "tiktok": true,
+    "image": "posts/2026-10-13-rehman-baba-express-derails-multan.jpg",
+    "story": "posts/2026-10-13-rehman-baba-express-derails-multan-story.jpg"
+  },
+  {
+    "date": "2026-10-13",
+    "headline": "Peshawar BRT returns to normal operations on all routes from Tuesday 13 Oct",
+    "source": "ProPakistani",
+    "source_url": "https://propakistani.pk/2026/10/13/brt-peshawar-to-resume-today/",
+    "published": "2026-10-13 09:09 PKT",
+    "caption_language": "Roman Urdu",
+    "scene": "people",
+    "seed": 726334800,
+    "tiktok": false,
+    "image": "posts/2026-10-13-peshawar-brt-resumes.jpg",
+    "story": "posts/2026-10-13-peshawar-brt-resumes-story.jpg"
   }
 ]
