@@ -1862,7 +1862,11 @@
   "tiktok": true,
   "image": "posts/2026-10-13-wheat-price-soon.jpg",
   "story": "posts/2026-10-13-wheat-price-soon-story.jpg",
-  "scheduled": "2026-10-13 19:15 PKT",
-  "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY"
+  "scheduled": "2026-10-13 19:10 PKT",
+  "networks": "facebook+instagram+tiktok POST, facebook+instagram STORY",
+  "metricool_ids": {
+   "post": 394986136,
+   "story": 394986162
+  }
  }
 ]
