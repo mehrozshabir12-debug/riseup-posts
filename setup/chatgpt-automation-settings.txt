@@ -1,4 +1,4 @@
-CHATGPT SCHEDULED TASK — "RiseUp Pakistan Publishing"  (version 3, 15 Oct 2026: ChatGPT makes the image)
+CHATGPT SCHEDULED TASK — "RiseUp Pakistan Publishing"  (version 4, 15 Oct 2026: ChatGPT makes the photo, GitHub adds the approved design)
 =================================================================================================
 
 Timezone: Australia/Perth (UTC+08:00) — unchanged
@@ -10,13 +10,12 @@ Only this ONE task enabled.
 TASK PROMPT (paste exactly)
 ---------------------------------------------------------------------------------------------
 RiseUp Pakistan hourly run. Read the file riseup-chatgpt-prompt.txt from GitHub repo
-mehrozshabir12-debug/riseup-posts (branch main) and follow it exactly, sections 0 to 7, for ONE target slot:
-the next whole hour in Pakistan time (Asia/Karachi, UTC+05:00) among 10:00-23:00 and 00:00.
-Create the news card image yourself in the approved style, check every word in it, attach it with mediaFiles
-and schedule the feed post and the Stories post in Metricool. Always commit runs/<slot>.json — "started" at the
-beginning, the real outcome at the end — even when you skip. If news, verification, image, GitHub or Metricool
-fails, skip safely and record the exact error; never claim a post exists unless Metricool returned it.
-Message me only when the outcome starts with "error".
-TEST MODE: create both Metricool posts with "draft": true.
+mehrozshabir12-debug/riseup-posts (branch main) FRESH and follow it exactly, sections 0 to 7, for ONE target
+slot: the next whole hour in Pakistan time (Asia/Karachi, UTC+05:00) among 10:00-23:00 and 00:00.
+Create only the photo (no text, no logo); GitHub adds the approved design. Always commit runs/<slot>.json —
+"started" at the beginning, the real outcome at the end — even when you skip. If news, verification, photo,
+GitHub or Metricool fails, skip safely and record the exact error; never claim a post exists unless Metricool
+returned it. Message me only when the outcome starts with "error".
+TEST MODE: use "dry_run": true in the request and "draft": true on both Metricool posts.
 ---------------------------------------------------------------------------------------------
 Go live = delete the last line (TEST MODE ...).

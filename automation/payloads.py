@@ -37,7 +37,7 @@ def build(req, media, slot, allow_tiktok):
     title = req.get("tiktok_title") or req["card"]["head1"]
     ai = req.get("ai_generated")
     if ai is None:
-        ai = kind == "narrated"          # synthetic (TTS) voice -> honest AI label
+        ai = kind == "narrated" or bool((req.get("card") or {}).get("photo_url"))   # TTS voice or AI photo
     music = req.get("music") or {}
     out = {}
 
@@ -100,7 +100,7 @@ def build(req, media, slot, allow_tiktok):
             p = _base(slot + STORY_DELAY, "", nets, [media["story"]])
             p.pop("text")                       # every network is a Story -> no text (Metricool rule)
             if "facebook" in nets: p["facebookData"] = fb("STORY")
-            if "instagram" in nets: p["instagramData"] = {"type": "STORY", "isAiGenerated": False}
+            if "instagram" in nets: p["instagramData"] = {"type": "STORY", "isAiGenerated": bool(ai)}
             out["story"] = p
     uses_tiktok = any(any(pr["network"] == "tiktok" for pr in p["providers"]) for p in out.values())
     return out, uses_tiktok

@@ -16,6 +16,10 @@ LANGS = {"Roman Urdu", "English"}
 MOODS = {"day", "sunset", "rain", "night", "spring"}
 
 
+PHOTO_HOSTS = {"static.metricool.com", "raw.githubusercontent.com"}
+HOLDER_MARK = "RISEUP PHOTO HOLDER"
+
+
 class Reject(Exception):
     pass
 
@@ -80,7 +84,12 @@ def validate(req, filename):
     card = req.get("card")
     if not isinstance(card, dict):
         E.append("card object is required"); card = {}
-    if card.get("scene") not in scenes.SCENES:
+    photo_url = _s(card.get("photo_url")).strip()
+    if photo_url:
+        pu = urlparse(photo_url)
+        if pu.scheme != "https" or pu.hostname not in PHOTO_HOSTS:
+            E.append("card.photo_url must be the https link Metricool returned (static.metricool.com/...)")
+    elif card.get("scene") not in scenes.SCENES:
         E.append(f"card.scene must be one of: {', '.join(sorted(scenes.SCENES))}")
     for k, mx in (("head1", 30), ("head2_hl", 24), ("head2", 30), ("kicker", 40), ("desc", 110), ("source", 40), ("date", 20)):
         v = card.get(k, "")
@@ -104,7 +113,7 @@ def validate(req, filename):
     if "seed" in card and not isinstance(card["seed"], int):
         E.append("card.seed must be an integer")
     if "photo" in card:
-        E.append("card.photo is not allowed: only the approved original scene graphics are used")
+        E.append("card.photo is not allowed: use card.photo_url (the Metricool link of the AI photo)")
 
     reel = req.get("reel") or {"type": "none"}
     if not isinstance(reel, dict) or reel.get("type") not in REEL_TYPES:
@@ -152,6 +161,8 @@ def validate(req, filename):
             E.append(f"caption must name the source outlet '{card.get('source')}'")
         if re.search(r"https?://", cap):
             E.append("caption must not contain links")
+        if isinstance(card, dict) and card.get("photo_url") and "ai-generated" not in cap.lower():
+            E.append("caption must contain the line 'Image: AI-generated illustration.' (AI photo used)")
         if "ghibli" in cap.lower():
             E.append("never mention Ghibli")
         if len(cap) > 2100:

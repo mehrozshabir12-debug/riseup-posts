@@ -61,6 +61,31 @@ def pending_requests():
 
 # ---------------- render phase ----------------
 
+def fetch_photo(url, dst, tries=6, wait=10):
+    """Download the AI photo ChatGPT uploaded to Metricool; must be a real image of usable size."""
+    from PIL import Image
+    last = None
+    for _ in range(tries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "RiseUp-Media-Manager"})
+            with urllib.request.urlopen(req, timeout=60) as r:
+                data = r.read(25 * 1024 * 1024 + 1)
+            if len(data) > 25 * 1024 * 1024:
+                raise ValueError("photo larger than 25 MB")
+            tmp = dst + ".dl"
+            with open(tmp, "wb") as f:
+                f.write(data)
+            im = Image.open(tmp); im.load()
+            if min(im.size) < 600:
+                raise ValueError(f"photo too small {im.size}")
+            im.convert("RGB").save(dst, quality=95)
+            os.remove(tmp)
+            return dst
+        except Exception as e:
+            last = e
+            time.sleep(wait)
+    raise RuntimeError(f"download failed: {last}")
+
 def render_one(path, rid, req):
     warnings, render_info = [], {}
     errs = rules.validate(req, path)
@@ -79,6 +104,11 @@ def render_one(path, rid, req):
     shutil.rmtree(work, ignore_errors=True); os.makedirs(work)
     card = dict(req["card"]); card["style"] = "bold"
     card.pop("photo", None)
+    if card.get("photo_url"):
+        try:
+            card["photo"] = fetch_photo(card.pop("photo_url"), os.path.join(work, f"{rid}-photo.jpg"))
+        except Exception as e:
+            return {"status": "failed", "errors": [f"AI photo could not be used: {e}"]}
     if not card.get("seed"):
         card["seed"] = random.randrange(10 ** 9)
     card_cfg = os.path.join(work, f"{rid}.json"); save_json(card_cfg, card)
@@ -220,7 +250,7 @@ def phase_finalize():
         src = req["sources"][0]
         entry = {"date": st.get("riseup_day") or slot.strftime("%Y-%m-%d"), "slot": st.get("target_slot"), "request_id": rid, "layout": "bold", "headline": req["headline"],
                  "source_outlet": src["outlet"], "source": src["url"], "sources": req["sources"],
-                 "published": src["published_at"], "language": req["language"], "scene": req["card"]["scene"],
+                 "published": src["published_at"], "language": req["language"], "scene": req["card"].get("scene") or "ai_photo",
                  "seed": st["card_seed"], "image": st["media"]["feed"], "story": st["media"]["story"],
                  "tiktok": uses_tt, "anime": st["media"]["reel_kind"] == "anime",
                  "reel_kind": st["media"]["reel_kind"], "scheduled": slot.strftime("%Y-%m-%d %H:%M PKT"),
@@ -277,7 +307,8 @@ def slot_taken_in_metricool(slot):
             nets = [p.get("network") for p in x.get("providers", [])]
             types = [(x.get(n + "Data") or {}).get("type") for n in nets]
             story = bool(nets) and all(t == "STORY" for t in types)
-            if when[:16] == slot.strftime("%Y-%m-%dT%H:%M") and not story:
+            holder = str(x.get("text") or "").startswith(rules.HOLDER_MARK)
+            if when[:16] == slot.strftime("%Y-%m-%dT%H:%M") and not story and not holder:
                 return x.get("id")
     except Exception as e:
         print("WARNING slot check against Metricool failed:", e)

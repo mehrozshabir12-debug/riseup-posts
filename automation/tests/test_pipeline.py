@@ -109,6 +109,15 @@ class Rules(unittest.TestCase):
         r = req(); r["caption"] = "Story text, says Dawn. More text here for length.\n\n#RiseUpPakistan #a #b"
         self.assertTrue(any("exactly 5" in e for e in self.rules.validate(r, "requests/2026-10-14-test-story.json")))
 
+    def test_photo_url_rules(self):
+        r = req(); r["card"].pop("scene"); r["card"]["photo_url"] = "https://static.metricool.com/planner/202610/x.png"
+        errs = self.rules.validate(r, "requests/2026-10-14-test-story.json")
+        self.assertTrue(any("AI-generated" in e for e in errs))           # caption must disclose the AI photo
+        r["caption"] = "Two short sentences, naming Dawn.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #a #b #c #d"
+        self.assertEqual(self.rules.validate(r, "requests/2026-10-14-test-story.json"), [])
+        r["card"]["photo_url"] = "https://example.com/x.png"
+        self.assertTrue(any("photo_url" in e for e in self.rules.validate(r, "requests/2026-10-14-test-story.json")))
+
     def test_wrong_card_date_rejected(self):
         r = req(); r["card"]["date"] = "15 OCT 2026"
         self.assertTrue(any("card.date" in e for e in self.rules.validate(r, "requests/2026-10-14-test-story.json")))
