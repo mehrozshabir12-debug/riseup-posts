@@ -1957,7 +1957,11 @@
     "tiktok": true,
     "image": "posts/2026-10-14-fakhar-100-t20i-sixes.jpg",
     "story": "posts/2026-10-14-fakhar-100-t20i-sixes-story.jpg",
-    "scheduled": "2026-10-14 11:05 PKT"
+    "scheduled": "2026-10-14 11:05 PKT",
+    "metricool_ids": {
+      "post": 395571991,
+      "story": 395572008
+    }
   },
   {
     "date": "2026-10-14",
@@ -1971,6 +1975,10 @@
     "tiktok": true,
     "image": "posts/2026-10-14-psx-kse100-down-483.jpg",
     "story": "posts/2026-10-14-psx-kse100-down-483-story.jpg",
-    "scheduled": "2026-10-14 11:35 PKT"
+    "scheduled": "2026-10-14 11:35 PKT",
+    "metricool_ids": {
+      "post": 395572049,
+      "story": 395572063
+    }
   }
 ]
