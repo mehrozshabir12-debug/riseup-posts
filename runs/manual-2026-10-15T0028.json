@@ -1,6 +1,38 @@
 {
   "slot": "2026-10-15T00:28:00+05:00",
-  "outcome": "started",
+  "riseup_day": "2026-10-14",
   "run_started_pkt": "2026-10-15T00:17:16+05:00",
-  "test_mode": false
+  "run_finished_pkt": "2026-10-15T00:19:00+05:00",
+  "test_mode": false,
+  "outcome": "skipped_no_fresh_verified_news",
+  "story": null,
+  "card_text": null,
+  "image_attempts": [],
+  "metricool": {
+    "feed": null,
+    "story": null
+  },
+  "stages": {
+    "metricool_read": "Brand 7305396 confirmed Asia/Karachi and Facebook, Instagram, TikTok connected; ten six-hour windows queried covering prior 48h and future 12h, no slot conflict.",
+    "previous_slot_check": "No feed/story posts at 23:28 or 23:33 in the checked windows; older Instagram Story ERROR observed at 2026-10-14 11:35, not retried because this is a one-time manual live run and not previous slot.",
+    "news_search": "Checked Dawn latest, Geo latest and Pakistan, searched APP; no candidate with confirmed article timestamp within 2026-10-14 22:28 to 2026-10-15 00:28 PKT.",
+    "verification": "No story met exact timestamp and approved two-source/official-source requirements.",
+    "image": "not generated; no verified story",
+    "publish": "No posts created; no verified story."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Punjab schools updated timings announced",
+      "reason": "Geo lists relative update time only; exact article publication/substantive-update timestamp and independent corroboration not established."
+    },
+    {
+      "headline": "Sohail Afridi and PTI leaders held at undisclosed location",
+      "reason": "Geo relative time only; no independently verified exact article timestamp; politically sensitive allegations."
+    },
+    {
+      "headline": "National Assembly passes resolution on KP emergency",
+      "reason": "Dawn article updated 14 Oct 16:20 PKT, outside two-hour window."
+    }
+  ],
+  "errors": []
 }
