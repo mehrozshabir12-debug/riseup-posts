@@ -39,7 +39,12 @@ and never touch posts marked draft=true (Claude's drafts).
 ---------------------------------------
 - getBrandSettings once: confirm blogId 7305396, timezone Asia/Karachi and that Facebook, Instagram and
   TikTok are connected. If a network is missing, write it in the run log errors.
-- getScheduledPosts for blogId 7305396, timezone Asia/Karachi, from NOW−48 h to NOW+24 h, extendedRange true.
+- getScheduledPosts for blogId 7305396, timezone Asia/Karachi, extendedRange FALSE, in SIX-HOUR windows
+  (one call per window; a single big range exceeds the tool's size limit and fails):
+  first T−1h..T+1h (slot check + previous slot), then the windows covering NOW−48 h .. NOW+12 h.
+  If a window still says the result is too large, split that window in half and retry it.
+  The duplicate check is complete only when every window succeeded; if any window keeps failing,
+  outcome "error_metricool_history_incomplete" and stop (never post without a full duplicate check).
   This returns published, pending, error and draft posts. From it note:
   a) whether a NON-Story post already exists at T (any creator, including drafts). If yes ->
      outcome "skipped_slot_taken", stop. One story per slot, never two.
