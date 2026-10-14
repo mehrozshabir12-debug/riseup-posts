@@ -1,6 +1,39 @@
 {
   "slot": "2026-10-15T00:31:00+05:00",
-  "outcome": "started",
+  "riseup_day": "2026-10-14",
   "run_started_pkt": "2026-10-15T00:20:54+05:00",
-  "test_mode": false
+  "run_finished_pkt": "2026-10-15T00:24:00+05:00",
+  "test_mode": false,
+  "outcome": "skipped_no_fresh_verified_news",
+  "freshness_window": null,
+  "story": null,
+  "card_text": null,
+  "image_attempts": [],
+  "metricool": {
+    "feed": null,
+    "story": null
+  },
+  "stages": {
+    "metricool_read": "Connected Facebook, Instagram and TikTok confirmed; slot and complete 48h history queried successfully in six-hour windows, no slot conflict.",
+    "previous_slot_check": "No previous slot posts found; historical IG Story ERROR from 14 Oct 11:35 not retried because not previous slot.",
+    "news_search": "Searched Dawn, Business Recorder, APP, Geo and official Finance/Cabinet Division; considered 2h, 3h, 6h, 12h and 24h windows.",
+    "verification": "No nonduplicate candidate met both exact original article timestamp and two independent approved outlets, or timestamped official primary source, for the same news event.",
+    "image": "Not generated; no qualifying verified story.",
+    "publish": "Not attempted; no posts created."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Aurangzeb discusses targeted fuel subsidies with IMF deputy managing director",
+      "reason": "Dawn 14 Oct 20:40 PKT within 6h, but a second independent approved report or timestamped official primary report on this exact meeting could not be established."
+    },
+    {
+      "headline": "PM appoints Zafar Iqbal special assistant on energy",
+      "reason": "Dawn 14 Oct 16:57 PKT within 12h; Cabinet Division confirms appointment but official item has no exact publication timestamp, and second approved outlet timestamp not verified."
+    },
+    {
+      "headline": "Pakistan eyes US energy imports and Boeing financing",
+      "reason": "Business Recorder 14 Oct 11:47 PKT within 24h, but exact second approved source reporting same details was not verified."
+    }
+  ],
+  "errors": []
 }
