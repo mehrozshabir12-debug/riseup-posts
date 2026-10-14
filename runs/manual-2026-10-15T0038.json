@@ -1,6 +1,49 @@
 {
   "slot": "2026-10-15T00:38:00+05:00",
-  "outcome": "started",
+  "riseup_day": "2026-10-14",
   "run_started_pkt": "2026-10-15T00:27:32+05:00",
-  "test_mode": false
+  "run_finished_pkt": "2026-10-15T00:34:00+05:00",
+  "test_mode": false,
+  "outcome": "error_image_reference_unavailable",
+  "freshness_window": "3h",
+  "story": {
+    "headline": "Pakistan and Oman discuss strengthening bilateral ties and regional peace",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "url": "https://www.dawn.com/news/2037082/omani-fm-meets-pm-shehbaz-commends-pakistans-sustained-diplomatic-efforts-for-regional-peace",
+        "published_at": "2026-10-14T22:02:00+05:00",
+        "timestamp_type": "updated; substantive-update status not independently proven"
+      },
+      {
+        "outlet": "Express Tribune",
+        "url": "https://tribune.com.pk/story/2634774/pakistan-oman-agree-to-strengthen-bilateral-ties-step-up-diplomacy-for-regional-peace",
+        "published_at": "2026-10-14",
+        "timestamp_type": "date only; confirming source"
+      }
+    ]
+  },
+  "card_text": null,
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "refused: image generation tool requires the user's existing style reference image to be uploaded or identified; no usable image target in conversation. Do not retry."
+    }
+  ],
+  "metricool": {
+    "feed": null,
+    "story": null
+  },
+  "stages": {
+    "metricool_read": "Brand 7305396, Asia/Karachi, FB/IG/TikTok confirmed; 11 window queries succeeded, no posts at manual slot, checked 48h duplicates.",
+    "previous_slot_check": "No previous-slot post found at T-1h; historic Instagram Story error from 14 Oct 11:35 not touched.",
+    "news_search": "Searched current Dawn, Express Tribune, Geo, APP and official sources; found potential Oman meeting candidate.",
+    "verification": "Dawn update at 22:02 PKT and independent Tribune same-day corroboration; however substantive nature of Dawn update not independently established, so cannot certify freshness.",
+    "image": "Image tool refused due to unavailable approved reference image; no image created or inspected.",
+    "publish": "No Metricool createScheduledPost calls; no posts created."
+  },
+  "skipped_candidates": [],
+  "errors": [
+    "Image generation tool: The user asked to edit or restore a specific existing image, but there is no usable image target in the conversation. Do not retry image generation. Tell the user to upload or identify the image before calling image_gen again."
+  ]
 }
