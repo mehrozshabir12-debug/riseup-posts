@@ -234,6 +234,12 @@ def phase_finalize():
         if req.get("person"):
             entry["person"] = req["person"]
         res["status"] = "awaiting_publish"
+        if (req.get("publish") or {}).get("dry_run") is True:
+            # test mode: real render + real payloads, but nobody publishes and nothing counts toward caps
+            res["status"] = "dry_run_ready"; res["metricool"]["mode"] = "dry_run"
+            entry["publish_status"] = "dry_run"
+            append_log(LOG_FOR_TYPE[req["type"]], entry); res["log"] = LOG_FOR_TYPE[req["type"]]
+            write_result(rid, res); os.remove(sp); print(f"== {rid} -> dry_run_ready"); continue
         if metricool_api.available():
             all_ok = True
             clash = slot_taken_in_metricool(slot)

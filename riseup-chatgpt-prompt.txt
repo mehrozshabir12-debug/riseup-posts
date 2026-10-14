@@ -136,6 +136,7 @@ results/<id>.json "metricool.mode" tells you who publishes:
   "api"               -> the workflow already scheduled it with the Metricool API. DO NOT call
                          createScheduledPost (that would duplicate the post). Go to section 7.
   "chatgpt_connector" -> you publish it (section 5).
+  "dry_run"           -> a test request ("publish": {"dry_run": true}); status "dry_run_ready". NEVER publish it.
 
 
 5. PUBLISH (connector mode only)

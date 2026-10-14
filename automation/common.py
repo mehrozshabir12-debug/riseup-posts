@@ -105,7 +105,7 @@ def entry_day(e):
 
 
 def counts_toward_caps(e):
-    return e.get("publish_status") not in ("failed", "cancelled", "rejected")
+    return e.get("publish_status") not in ("failed", "cancelled", "rejected", "dry_run")
 
 
 def sha256(path):

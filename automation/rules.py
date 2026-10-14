@@ -171,6 +171,8 @@ def validate(req, filename):
     except Exception:
         E.append("publish.slot is required: the target slot, e.g. 2026-10-14T15:00:00+05:00 "
                  "(minute 00, hours 10-23 or 00 PKT)")
+    if "dry_run" in pub and not isinstance(pub["dry_run"], bool):
+        E.append("publish.dry_run must be true or false")
     music = req.get("music")
     if music is not None and not (isinstance(music, dict) and _s(str(music.get("audioId", ""))).strip()):
         E.append("music must be {\"audioId\": \"<numeric id or exact search term>\"}")
