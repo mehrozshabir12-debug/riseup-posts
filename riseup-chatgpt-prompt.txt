@@ -101,8 +101,13 @@ create in this run, and never touch posts marked draft=true that you did not cre
 
 3. CREATE THE NEWS CARD IMAGE (your image tool)
 ------------------------------------------------
-First write the card text, then generate ONE image. Style = reference/owner-style-reference.png in the repo
-(open it if you can): a realistic documentary-style photo on top, a black panel at the bottom.
+First write the card text, then generate ONE NEW image from a TEXT description only.
+IMPORTANT: this is a brand-new image, NOT an edit. Do NOT open, upload or mention any reference/approved image
+file to the image tool, and do not say "like the reference" or "edit/restore" in the image request — the image tool
+then refuses with "no usable image target". The full style is described below; that description is enough.
+(reference/owner-style-reference.png in the repo is only for the owner and Claude to compare against.)
+Write the image request like: "Create a new 1080x1350 portrait social media news card: <photo scene>.
+Bottom 40% solid black panel with this exact text: <...>" and then the layout below.
 
 Card text (only facts from the sources; never invent or round numbers, names, quotes or dates):
   HEADLINE line 1: 2-4 words, white, ALL CAPS
