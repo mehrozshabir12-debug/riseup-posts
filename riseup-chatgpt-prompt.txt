@@ -45,7 +45,7 @@ For each story create these Metricool posts at the same time slot:
  B. Instagram: type REEL with the MP4, showReelOnFeed true, isAiGenerated true, post text, and audioConfiguration with an upbeat instrumental news/background track (audioId = search term; if several matches come back, retry with the exact numeric id of the most suitable one). If audio is rejected, publish the Instagram post as type POST with the image instead and tell me.
  C. Stories: one post with providers facebook (type STORY) and instagram (type STORY, isAiGenerated true), the image, NO text, 5 minutes after A/B.
  D. TikTok (only for the 8 chosen stories): the image, post text, autoAddMusic true, privacy PUBLIC_TO_EVERYONE.
-Time slots (Pakistan time, UTC+5): 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00, 21:00, 22:00. Use the next free slot; never two stories in one slot; never a time in the past.
+Time slots (Pakistan time, UTC+5): 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 19:00, 20:00, 21:00, 22:00, 23:00, 00:00 (midnight ending that Pakistan calendar day). One story per hour, 15 slots in total; never two stories in one slot; never a time in the past.
 Never post text-only. If an image or video cannot be attached, stop and tell me.
 Never publish a story that failed step 1.
 
