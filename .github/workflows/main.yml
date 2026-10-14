@@ -1,20 +1,27 @@
 name: RiseUp Media Manager
 
-# ChatGPT (or anyone) commits a text-only request file  requests/<id>.json  ->  this workflow renders the
-# approved feed card + Story + Reel, checks the design, commits them to posts/, verifies the public raw URLs,
-# writes results/<id>.json (status + media URLs + ready Metricool payloads) and updates the logs.
-# Posting results are reported back with  receipts/<id>.json  (merged automatically).
-# Optional: with METRICOOL_USER_TOKEN + METRICOOL_USER_ID secrets it also schedules via the Metricool API.
+# THE MEDIA + PUBLISHING ENGINE FOR THE CHATGPT AUTOMATION (corrected 14 Oct 2026)
+#
+# ChatGPT never makes or uploads image files. Each hourly ChatGPT run commits TEXT ONLY:
+#   requests/<id>.json   (a verified story)            -> this workflow renders + publishes it
+#   runs/<slot>.json     (what the run did, even skips) -> the watchdog checks it
+# This workflow renders the APPROVED card + Story with template/ (byte-checked against
+# automation/approved_template.sha256), commits them to posts/, confirms the public raw URLs work,
+# then EITHER schedules them itself through the Metricool REST API (API mode, recommended)
+# OR writes ready payloads to results/<id>.json for ChatGPT's Metricool connector (connector mode).
+#
+# API mode is ON when these repository secrets exist (Settings > Secrets and variables > Actions):
+#   METRICOOL_USER_TOKEN, METRICOOL_USER_ID          (never paste them into ChatGPT or a file)
+#
+# GitHub cron is UTC. PKT = UTC+5 with no daylight saving, so minute values are identical.
 
-# ⏸ PAUSED by the owner on 12 Oct 2026 (Pakistan time 16:00). Automatic triggers are switched off:
-# committing requests/ or receipts/ does NOTHING until the owner says to resume.
-# To resume, restore these lines under "on:":
-#   push:
-#     branches: [main]
-#     paths: ["requests/**.json", "receipts/**.json"]
-#   schedule:
-#     - cron: "*/30 * * * *"
 on:
+  push:
+    branches: [main]
+    paths: ["requests/**.json", "receipts/**.json"]
+  schedule:
+    - cron: "7,22,37,52 5-19 * * *"   # status check + safe retry, 10:07-00:52 PKT
+    - cron: "55 4-18 * * *"           # watchdog at 09:55-23:55 PKT: did ChatGPT's run leave a log?
   workflow_dispatch: {}
 
 permissions:
@@ -34,18 +41,26 @@ jobs:
   process:
     if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 30
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Install tools (ffmpeg, Python libs, TTS) and approved fonts
+      - name: Install image tools and approved fonts
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg espeak-ng > /dev/null
-          python -m pip install -q pillow numpy scipy edge-tts gTTS
+          python -m pip install -q pillow numpy scipy
           sudo mkdir -p /usr/share/fonts/truetype/google-fonts
           sudo cp template/fonts/Poppins-Bold.ttf template/fonts/Poppins-Regular.ttf /usr/share/fonts/truetype/google-fonts/
+
+      - name: Install video tools only when a pending request has a Reel
+        run: |
+          if python automation/process_request.py needs_video; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng > /dev/null
+            python -m pip install -q edge-tts gTTS
+          fi
+
+      - name: Offline rule tests (slots, midnight, freshness, sources, payloads)
+        run: python -m unittest automation/tests/test_pipeline.py
 
       - name: Approved template integrity check
         run: python automation/design_check.py template
@@ -53,7 +68,7 @@ jobs:
       - name: Apply receipts first (cancellations free their slot before new requests)
         run: python automation/process_request.py receipts
 
-      - name: Render requests (validate, dedupe, caps, render, design checks)
+      - name: Render requests (validate, verify sources, freshness, dedupe, caps, render, design checks)
         id: render
         continue-on-error: true
         run: python automation/process_request.py render
@@ -68,7 +83,7 @@ jobs:
             for i in 1 2 3 4 5; do git push -q && break; git pull -q --rebase; sleep 3; done
           fi
 
-      - name: Verify public URLs, build Metricool payloads, update logs
+      - name: Verify public URLs, build Metricool payloads, publish (API mode), update logs
         id: finalize
         continue-on-error: true
         run: python automation/process_request.py finalize
@@ -92,24 +107,24 @@ jobs:
             python -c "import json,sys;d=json.load(open('$f'));print(f\"- **{d['id']}**: {d['status']} {'; '.join(d.get('errors',[]))}\")" >> $GITHUB_STEP_SUMMARY
           done
 
-      - name: Fail the run if any request failed
+      - name: Fail the run if any request failed (GitHub e-mails the owner)
         if: steps.render.outcome == 'failure' || steps.finalize.outcome == 'failure'
         run: |
           echo "One or more requests were rejected or failed - see results/<id>.json"
           exit 1
 
   verify:
-    if: github.event_name == 'schedule'
+    if: github.event_name == 'schedule' && github.event.schedule == '7,22,37,52 5-19 * * *'
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
       - name: Skip when Metricool API secrets are not set
         id: gate
         run: |
-          if [ -n "$METRICOOL_USER_TOKEN" ] && [ -n "$METRICOOL_USER_ID" ]; then echo "on=1" >> $GITHUB_OUTPUT; else echo "API mode off - nothing to do"; fi
+          if [ -n "$METRICOOL_USER_TOKEN" ] && [ -n "$METRICOOL_USER_ID" ]; then echo "on=1" >> $GITHUB_OUTPUT; else echo "Connector mode - ChatGPT verifies statuses at its next run"; fi
       - uses: actions/checkout@v4
         if: steps.gate.outputs.on == '1'
-      - name: Check Metricool status and retry failed networks once
+      - name: Check Metricool status and retry ONLY failed networks (max 2 retries)
         if: steps.gate.outputs.on == '1'
         run: |
           python -m pip install -q pillow
@@ -121,3 +136,12 @@ jobs:
             git commit -q -m "Update Metricool publishing status"
             for i in 1 2 3; do git push -q && break; git pull -q --rebase; sleep 3; done
           fi
+
+  watchdog:
+    if: github.event_name == 'schedule' && github.event.schedule == '55 4-18 * * *'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fail loudly when the ChatGPT run for the upcoming slot left no run log
+        run: python automation/process_request.py watchdog

@@ -10,7 +10,10 @@ Original settings preserved (see examples in the handover):
   narrated Reel: FB photo | FB REEL + IG REEL + TikTok narrated MP4 (narration is the audio) | Story
 All: autoPublish true, Reel cover (videoThumbnailUrl) = the approved card story image, Stories without text.
 """
+import datetime as dt
 from common import TZ_NAME
+
+STORY_DELAY = dt.timedelta(minutes=5)   # FB/IG Story is a separate post, 5 minutes after the feed post
 
 
 def _date(slot):
@@ -48,7 +51,7 @@ def build(req, media, slot, allow_tiktok):
         d = {"privacyOption": "PUBLIC_TO_EVERYONE", "title": title[:90], "autoAddMusic": not video,
              "disableComment": False, "disableDuet": False, "disableStitch": False}
         if video:
-            d["isAigc"] = bool(ai)
+            d["isAigc"] = bool(ai)          # Metricool: isAigc is NOT supported on TikTok photo posts
         return d
 
     if typ == "star" or kind == "none":
@@ -94,7 +97,8 @@ def build(req, media, slot, allow_tiktok):
     if (req.get("publish") or {}).get("stories", True):
         nets = [n for n in ("facebook", "instagram") if n in want]
         if nets:
-            p = _base(slot, "", nets, [media["story"]])
+            p = _base(slot + STORY_DELAY, "", nets, [media["story"]])
+            p.pop("text")                       # every network is a Story -> no text (Metricool rule)
             if "facebook" in nets: p["facebookData"] = fb("STORY")
             if "instagram" in nets: p["instagramData"] = {"type": "STORY", "isAiGenerated": False}
             out["story"] = p
