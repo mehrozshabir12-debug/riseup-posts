@@ -1,5 +1,35 @@
 {
   "slot": "2026-10-15T00:00:00+05:00",
-  "outcome": "started",
-  "run_started_pkt": "2026-10-14T23:50:00+05:00"
+  "riseup_day": "2026-10-14",
+  "run_started_pkt": "2026-10-14T23:50:00+05:00",
+  "run_finished_pkt": "2026-10-14T23:50:00+05:00",
+  "outcome": "skipped_no_fresh_verified_news",
+  "request_id": null,
+  "mode": null,
+  "dry_run": true,
+  "stages": {
+    "metricool_read": "Brand 7305396 connected FB/IG/TikTok; initial 48h+24h query exceeded 25000 token limit; narrowed 22:00-01:00 query succeeded with no posts returned.",
+    "previous_slot_check": "No previous slot posts in narrowed response; comprehensive prior 48h duplicate audit unavailable due result-size limit.",
+    "news_search": "Searched Dawn, APP, Pakistan government PID and other latest-news listings for 22:00-00:00 PKT window.",
+    "verification": "No candidate with an article-opened, exact source timestamp within 22:00-00:00 PKT and required independent/official verification.",
+    "request_commit": "not attempted: no eligible verified story",
+    "publish": "not attempted: dry_run=true; no request created"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Pakistan-Oman Joint Ministerial Commission visit",
+      "reason": "PID government press release timestamp 21:50:16 PKT, earlier than 22:00 cutoff."
+    },
+    {
+      "headline": "National Assembly and Senate endorse KP emergency",
+      "reason": "Dawn latest listed 20:23 PKT update, earlier than 22:00 cutoff."
+    },
+    {
+      "headline": "APP national updates",
+      "reason": "Displayed articles at approximately 13:00 PKT, outside required 22:00-00:00 window."
+    }
+  ],
+  "errors": [
+    "Metricool initial broad-range getScheduledPosts returned: The result exceeds the maximum allowed size (~28715 tokens, limit: 25000). Please reduce the date range or the number of metrics requested in a single call, then retry. Narrowed query succeeded."
+  ]
 }
