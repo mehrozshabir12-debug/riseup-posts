@@ -2029,7 +2029,11 @@
     "tiktok": false,
     "image": "posts/2026-10-14-aramco-hq-hit.jpg",
     "story_image": "posts/2026-10-14-aramco-hq-hit-story.jpg",
-    "scheduled": "2026-10-14 13:03 PKT"
+    "scheduled": "2026-10-14 13:04 PKT",
+    "metricool_ids": {
+      "post": 395637889,
+      "story": 395637915
+    }
   },
   {
     "date": "2026-10-14",
@@ -2043,6 +2047,10 @@
     "tiktok": true,
     "image": "posts/2026-10-14-di-khan-section-144.jpg",
     "story_image": "posts/2026-10-14-di-khan-section-144-story.jpg",
-    "scheduled": "2026-10-14 13:33 PKT"
+    "scheduled": "2026-10-14 13:33 PKT",
+    "metricool_ids": {
+      "post": 395638001,
+      "story": 395638027
+    }
   }
 ]
