@@ -14,7 +14,7 @@ from urllib.parse import urlparse
 
 PKT = dt.timezone(dt.timedelta(hours=5))
 SLOT_HOURS = (10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 0)
-FRESH_MAX_H = 2.0
+FRESH_MAX_H = 24.0         # owner 15 Oct: newest first (2h, 3h, 6h, 12h), max 24h
 STORY_DELAY_MIN = 5          # FB/IG Story goes out 5 minutes after the feed post
 MIN_LEAD_MIN = 5             # never schedule closer than 5 minutes from "now"
 LATE_GRACE_MIN = 15          # a late run may publish up to slot+15 min, otherwise the slot is missed

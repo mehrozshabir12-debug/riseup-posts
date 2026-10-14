@@ -79,12 +79,12 @@ class Sources(unittest.TestCase):
     def test_freshness_relative_to_slot(self):
         slot, now = P("2026-10-14T15:00:00+05:00"), P("2026-10-14T14:45:00+05:00")
         f = lambda *t: slots.freshness([{"published_at": x} for x in t], slot, now, common.parse_time)[0]
-        self.assertTrue(f("2026-10-14T13:00:00+05:00"))                 # exactly 2 h
-        self.assertFalse(f("2026-10-14T12:59:00+05:00"))
+        self.assertTrue(f("2026-10-13T15:00:00+05:00"))                 # exactly 24 h
+        self.assertFalse(f("2026-10-13T14:59:00+05:00"))
         self.assertTrue(f("2026-10-14T09:00:00+05:00", "2026-10-14T14:10:00+05:00"))   # newest decides
         self.assertFalse(f("2026-10-14T16:00:00+05:00"))                # future = wrong time zone
         self.assertTrue(f("2026-10-14T09:10:00Z"))                      # 14:10 PKT given in UTC
-        upd = [{"published_at": "2026-10-14T08:00:00+05:00", "updated_at": "2026-10-14T14:00:00+05:00",
+        upd = [{"published_at": "2026-10-13T08:00:00+05:00", "updated_at": "2026-10-14T14:00:00+05:00",
                 "substantive_update": False}]
         self.assertFalse(slots.freshness(upd, slot, now, common.parse_time)[0])  # light refresh does not count
         upd[0]["substantive_update"] = True
@@ -125,8 +125,8 @@ class Rules(unittest.TestCase):
 
     def test_stale_rejected(self):
         r = req(); r["sources"] = [{"outlet": "Dawn", "url": "https://www.dawn.com/news/1",
-                                    "published_at": "2026-10-14T11:00:00+05:00"},
-                                   {"outlet": "Geo", "url": "https://www.geo.tv/2", "published_at": "2026-10-14T12:30:00+05:00"}]
+                                    "published_at": "2026-10-13T11:00:00+05:00"},
+                                   {"outlet": "Geo", "url": "https://www.geo.tv/2", "published_at": "2026-10-13T12:30:00+05:00"}]
         with self.assertRaises(self.rules.Reject):
             self.rules.freshness(r, P("2026-10-14T15:00:00+05:00"))
 
