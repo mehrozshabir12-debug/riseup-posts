@@ -67,10 +67,10 @@ def render_one(path, rid, req):
     if errs:
         return {"status": "rejected", "errors": errs}
     try:
-        fresh_notes, age_h = rules.freshness(req)
+        target, slot = rules.pick_slot(req)            # target slot (HH:00) and actual publication time
+        fresh_notes, age_h = rules.freshness(req, target)
         rules.check_duplicates(req)
-        slot = rules.pick_slot(req)
-        allow_tt, cap_notes, counts = rules.check_caps(req, slot)
+        allow_tt, cap_notes, counts = rules.check_caps(req, target)
     except rules.Reject as e:
         return {"status": "rejected", "errors": [str(e)]}
     warnings += fresh_notes + cap_notes
@@ -149,7 +149,8 @@ def render_one(path, rid, req):
         media["reel"] = rel(os.path.join(POSTS, os.path.basename(reel)))
     media["reel_kind"] = reel_kind if reel else "none"
     shutil.rmtree(work, ignore_errors=True)
-    state = {"id": rid, "revision": req.get("revision", 1), "slot": slot.isoformat(), "allow_tiktok": allow_tt,
+    state = {"id": rid, "revision": req.get("revision", 1), "slot": slot.isoformat(), "target_slot": target.isoformat(),
+             "riseup_day": rules.slots.riseup_day(target).isoformat(), "allow_tiktok": allow_tt,
              "media": media, "card_seed": card["seed"], "render": render_info, "warnings": warnings,
              "age_hours": age_h, "counts_before": counts}
     save_json(os.path.join(WORK, f"{rid}.state.json"), state)
@@ -205,7 +206,8 @@ def phase_finalize():
         dead = [u for u in urls.values() if not url_live(u)]
         res = {"id": rid, "revision": st["revision"], "request": f"requests/{rid}.json", "type": req["type"],
                "headline": req["headline"], "warnings": st["warnings"], "errors": [],
-               "slot_pkt": st["slot"], "media": urls, "media_paths": st["media"], "render": st["render"],
+               "slot_pkt": st["slot"], "target_slot": st.get("target_slot", st["slot"]),
+               "riseup_day": st.get("riseup_day"), "media": urls, "media_paths": st["media"], "render": st["render"],
                "card_seed": st["card_seed"], "published": False}
         if dead:
             res.update(status="failed", errors=[f"media URL not reachable: {u}" for u in dead])
@@ -216,7 +218,7 @@ def phase_finalize():
         res["metricool"] = {"blogId": BLOG_ID, "mode": "api" if metricool_api.available() else "chatgpt_connector",
                             "payloads": posts, "posts": {}}
         src = req["sources"][0]
-        entry = {"date": slot.strftime("%Y-%m-%d"), "request_id": rid, "layout": "bold", "headline": req["headline"],
+        entry = {"date": st.get("riseup_day") or slot.strftime("%Y-%m-%d"), "slot": st.get("target_slot"), "request_id": rid, "layout": "bold", "headline": req["headline"],
                  "source_outlet": src["outlet"], "source": src["url"], "sources": req["sources"],
                  "published": src["published_at"], "language": req["language"], "scene": req["card"]["scene"],
                  "seed": st["card_seed"], "image": st["media"]["feed"], "story": st["media"]["story"],
@@ -232,8 +234,21 @@ def phase_finalize():
         if req.get("person"):
             entry["person"] = req["person"]
         res["status"] = "awaiting_publish"
+        if (req.get("publish") or {}).get("dry_run") is True:
+            # test mode: real render + real payloads, but nobody publishes and nothing counts toward caps
+            res["status"] = "dry_run_ready"; res["metricool"]["mode"] = "dry_run"
+            entry["publish_status"] = "dry_run"
+            append_log(LOG_FOR_TYPE[req["type"]], entry); res["log"] = LOG_FOR_TYPE[req["type"]]
+            write_result(rid, res); os.remove(sp); print(f"== {rid} -> dry_run_ready"); continue
         if metricool_api.available():
             all_ok = True
+            clash = slot_taken_in_metricool(slot)
+            if clash:
+                res.update(status="publish_failed", errors=[f"Metricool already has a post at {slot:%H:%M} PKT "
+                                                           f"(id {clash}); not scheduling a second story in one slot"])
+                entry["publish_status"] = "publish_failed"
+                append_log(LOG_FOR_TYPE[req["type"]], entry); write_result(rid, res); os.remove(sp); ok = False
+                continue
             for name, info in posts.items():
                 r = metricool_api.create(info)
                 res["metricool"]["posts"][name] = {"metricool_id": r["id"], "http": r["http"], "error": r["error"],
@@ -251,6 +266,22 @@ def phase_finalize():
         os.remove(sp)
         print(f"== {rid} -> {res['status']}")
     return ok
+
+
+def slot_taken_in_metricool(slot):
+    """Id of an existing non-Story Metricool post (incl. drafts, e.g. Claude's) at this exact time, else None."""
+    try:
+        day = slot.strftime("%Y-%m-%d")
+        for x in metricool_api.list_posts(f"{day}T00:00:00", f"{day}T23:59:59"):
+            when = (x.get("publicationDate") or {}).get("dateTime", "")
+            nets = [p.get("network") for p in x.get("providers", [])]
+            types = [(x.get(n + "Data") or {}).get("type") for n in nets]
+            story = bool(nets) and all(t == "STORY" for t in types)
+            if when[:16] == slot.strftime("%Y-%m-%dT%H:%M") and not story:
+                return x.get("id")
+    except Exception as e:
+        print("WARNING slot check against Metricool failed:", e)
+    return None
 
 
 # ---------------- receipts (results reported back by ChatGPT) ----------------
@@ -339,6 +370,9 @@ def phase_verify():
             if failed and p.get("attempts", 1) < 3 and rules.in_hours(now + dt.timedelta(minutes=5)):
                 info = dict(res["metricool"]["payloads"][name])
                 info["providers"] = [{"network": n} for n in failed]   # retry ONLY the failed networks
+                for k in ("facebookData", "instagramData", "tiktokData"):
+                    if k[:-4] not in failed:
+                        info.pop(k, None)                              # networkData only for retried networks
                 info["publicationDate"] = {"dateTime": (now + dt.timedelta(minutes=5)).strftime("%Y-%m-%dT%H:%M:00"),
                                            "timezone": "Asia/Karachi"}
                 r = metricool_api.create(info)
@@ -354,7 +388,36 @@ def phase_verify():
     return True
 
 
+# ---------------- helpers for the workflow ----------------
+
+def phase_needs_video():
+    """Exit 0 when a pending request needs ffmpeg/TTS (a Reel), else exit 1 -> saves ~2 min per run."""
+    for _, _, req, _ in pending_requests():
+        if isinstance(req, dict) and (req.get("reel") or {}).get("type", "none") != "none":
+            print("video needed"); return True
+    print("no video needed"); return False
+
+
+def phase_watchdog():
+    """Fails (=> GitHub e-mails the owner) when the ChatGPT run for the upcoming slot left no run log.
+    Every ChatGPT run must commit runs/<slot>.json, even when it skips the slot."""
+    import slots
+    now = now_pkt()
+    target = slots.next_slot(now - dt.timedelta(minutes=15))   # tolerant of GitHub's late cron starts
+    path = os.path.join(ROOT, "runs", target.strftime("%Y-%m-%dT%H%M") + ".json")
+    if os.path.exists(path):
+        log = load_json(path, {})
+        print(f"watchdog: {rel(path)} -> {log.get('outcome')}")
+        if str(log.get("outcome", "")).startswith("error") or log.get("outcome") == "started":
+            print("::error::ChatGPT run reported an error:", log.get("errors")); return False
+        return True
+    print(f"::error::No ChatGPT run log for slot {target:%Y-%m-%d %H:%M} PKT ({rel(path)} missing). "
+          "The automation did not run, or stopped before writing its log.")
+    return False
+
+
 if __name__ == "__main__":
     phase = sys.argv[1] if len(sys.argv) > 1 else "render"
-    ok = {"render": phase_render, "finalize": phase_finalize, "receipts": phase_receipts, "verify": phase_verify}[phase]()
+    ok = {"render": phase_render, "finalize": phase_finalize, "receipts": phase_receipts, "verify": phase_verify,
+          "needs_video": phase_needs_video, "watchdog": phase_watchdog}[phase]()
     sys.exit(0 if ok else 3)

@@ -1,0 +1,19 @@
+{
+ "slot": "2026-10-14T15:00:00+05:00",
+ "riseup_day": "2026-10-14",
+ "run_started_pkt": "2026-10-14T14:45:10+05:00",
+ "run_finished_pkt": "2026-10-14T14:53:40+05:00",
+ "outcome": "request_committed",
+ "request_id": "2026-10-14-example-petrol-price-cut",
+ "mode": "api",
+ "stages": {
+  "metricool_read": "ok: 9 posts in last 48 h, slot free, TikTok today 4",
+  "previous_slot_check": "ok: 14:00 FB PUBLISHED, IG PUBLISHED, TikTok PUBLISHED, Story FB PUBLISHED, Story IG ERROR -> retried once (id 395700001)",
+  "news_search": "3 candidates found",
+  "verification": "chosen: APP 13:10 PKT + Dawn 13:25 PKT (updated 14:05, substantive)",
+  "request_commit": "ok: requests/2026-10-14-example-petrol-price-cut.json",
+  "publish": "api mode: workflow schedules it"
+ },
+ "skipped_candidates": [{"headline": "older story", "reason": "first published 11:40 PKT, 3.3 h before slot"}],
+ "errors": []
+}

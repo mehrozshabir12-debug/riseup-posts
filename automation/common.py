@@ -90,6 +90,12 @@ def update_log_entry(request_id, updater):
 
 
 def entry_day(e):
+    """RiseUp day of a log entry. A post scheduled at 00:00-09:59 PKT belongs to the PREVIOUS date
+    (the midnight slot closes RiseUp day D), so caps such as TikTok 8/day are counted correctly."""
+    m = re.match(r"(\d{4}-\d{2}-\d{2})[ T](\d{2}):(\d{2})", str(e.get("scheduled") or ""))
+    if m:
+        d = dt.date.fromisoformat(m.group(1))
+        return (d - dt.timedelta(days=1)).isoformat() if int(m.group(2)) < 10 else d.isoformat()
     for k in ("scheduled", "published", "date"):
         v = str(e.get(k) or "")
         m = re.match(r"(\d{4}-\d{2}-\d{2})", v)
@@ -99,7 +105,7 @@ def entry_day(e):
 
 
 def counts_toward_caps(e):
-    return e.get("publish_status") not in ("failed", "cancelled", "rejected")
+    return e.get("publish_status") not in ("failed", "cancelled", "rejected", "dry_run")
 
 
 def sha256(path):

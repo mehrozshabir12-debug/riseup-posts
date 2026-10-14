@@ -1,0 +1,19 @@
+{
+ "id": "2026-10-14-example-petrol-price-cut",
+ "type": "news",
+ "headline": "EXAMPLE ONLY - full factual sentence of the story, used for duplicate checks",
+ "language": "English",
+ "sources": [
+  {"outlet": "APP", "url": "https://www.app.com.pk/national/example-article/", "published_at": "2026-10-14T13:10:00+05:00"},
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/0000000/example", "published_at": "2026-10-14T13:25:00+05:00",
+   "updated_at": "2026-10-14T14:05:00+05:00", "substantive_update": true}
+ ],
+ "card": {"scene": "fuel", "head1": "Petrol Price Cut", "head2_hl": "Rs 0.00", "head2": "Per Litre",
+          "kicker": "New Rates From Today", "desc": "One short factual sentence, max 110 characters",
+          "source": "APP", "date": "14 OCT 2026"},
+ "caption": "Two or three short English sentences with only sourced facts, naming APP.\n\n#RiseUpPakistan #PetrolPrice #Pakistan #FuelPrices #PakistanNews",
+ "tiktok_title": "Petrol price cut",
+ "publish": {"slot": "2026-10-14T15:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true},
+ "reel": {"type": "none"},
+ "ai_generated": null
+}
