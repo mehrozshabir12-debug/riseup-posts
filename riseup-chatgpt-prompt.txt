@@ -104,7 +104,7 @@ Exact layout — portrait 1080 x 1350 (4:5), same positions every time:
  - Bottom ~40%: solid black panel with, top to bottom, centred: headline line 1, headline line 2 (yellow box),
    short yellow line (left), sub-headline, summary, second short yellow line (left), source line (left-aligned),
    and at the bottom centre white Facebook | Instagram | TikTok icons with thin dividers.
- - Small "AI-generated image" label, bottom-right of the photo area, white, small, semi-transparent.
+ - NO "AI-generated" label on the image itself (the AI note goes in the caption, section 4).
  - Font: heavy bold sans-serif (Poppins / Montserrat style), all text crisp.
 Photo rules:
  - NO other text anywhere in the photo: no signs, banners, shop names, slogans or captions.
@@ -116,15 +116,16 @@ Photo rules:
 
 CHECK THE IMAGE before posting — read every word in the actual generated image and compare letter by letter:
  headline, yellow-box figure, sub-headline, summary, outlet name, date, logo text "RISEUP PAKISTAN",
- "AI-generated image" label, 3 icons, 4:5 portrait, no extra text or logos in the photo.
+ 3 icons, 4:5 portrait, no extra text, labels or logos in the photo.
  Any mistake -> regenerate (max 3 attempts in total). Still wrong after 3 -> outcome "error_image_text",
  do not post. Write in the run log what was wrong in each attempt.
 
 
 4. CAPTION
 ----------
-2-3 short simple English sentences with only sourced facts, naming the outlet; then a blank line; then exactly
-5 hashtags including #RiseUpPakistan. No links. TikTok title: short, max 90 characters.
+2-3 short simple English sentences with only sourced facts, naming the outlet; then a blank line; then the line
+"Image: AI-generated illustration."; then a blank line; then exactly 5 hashtags including #RiseUpPakistan.
+No links. TikTok title: short, max 90 characters.
 
 
 5. SCHEDULE IN METRICOOL (attach the image you generated)
