@@ -1,5 +1,63 @@
 {
   "slot": "2026-10-15T00:50:00+05:00",
-  "outcome": "started",
-  "run_started_pkt": "2026-10-15T00:39:20+05:00"
+  "riseup_day": "2026-10-14",
+  "run_started_pkt": "2026-10-15T00:39:20+05:00",
+  "run_finished_pkt": "2026-10-15T00:44:00+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan Oman Talks — Stronger Ties",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "published_at": "2026-10-14T22:02:00+05:00"
+      },
+      {
+        "outlet": "Express Tribune",
+        "published_at": "2026-10-14"
+      }
+    ]
+  },
+  "freshness_window": "3h",
+  "card_text": {
+    "line1": "PAKISTAN OMAN TALKS",
+    "highlight": "STRONGER TIES",
+    "sub": "REGIONAL PEACE AND COOPERATION",
+    "summary": "Both countries agreed to deepen cooperation and support regional peace.",
+    "source_line": "SOURCE: DAWN • 14 OCT 2026"
+  },
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 396216730,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5137886528058733583",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 396216903,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5779311415938074655",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "stages": {
+    "metricool_read": "complete",
+    "previous_slot_check": "No posts found around T-1 hour",
+    "news_search": "completed",
+    "verification": "Dawn and Express Tribune",
+    "image": "generated and inspected",
+    "publish": "both LIVE scheduled and media checked"
+  },
+  "errors": []
 }
