@@ -1,6 +1,49 @@
 {
   "slot": "2026-10-15T00:44:00+05:00",
-  "outcome": "started",
+  "riseup_day": "2026-10-14",
   "run_started_pkt": "2026-10-15T00:33:15+05:00",
-  "test_mode": false
+  "run_finished_pkt": "2026-10-15T00:37:00+05:00",
+  "test_mode": false,
+  "outcome": "error_tool_unavailable_image_generation",
+  "freshness_window": "3h",
+  "story": {
+    "headline": "Omani foreign minister meets Pakistan PM, both sides discuss regional peace",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "url": "https://www.dawn.com/news/2037082/omani-fm-meets-pm-shehbaz-commends-pakistans-sustained-diplomatic-efforts-for-regional-peace",
+        "published_at": "2026-10-14T22:02:00+05:00",
+        "timestamp_type": "article updated"
+      },
+      {
+        "outlet": "Express Tribune",
+        "url": "https://tribune.com.pk/story/2634774/pakistan-oman-agree-to-strengthen-bilateral-ties-step-up-diplomacy-for-regional-peace",
+        "published_at": "2026-10-14",
+        "timestamp_type": "date-only confirming source"
+      }
+    ]
+  },
+  "card_text": null,
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "refused: image generator interpreted the request as an edit or restore despite the user's explicit text-only brand-new generation instructions"
+    }
+  ],
+  "metricool": {
+    "feed": null,
+    "story": null
+  },
+  "stages": {
+    "metricool_read": "Brand 7305396, Asia/Karachi, all three networks connected; 11 successful window queries including 48h duplicate history; manual slot available.",
+    "previous_slot_check": "No previous-slot posts at 23:44/23:49 PKT; no retries needed.",
+    "news_search": "Dawn and Express Tribune Pakistan-Oman reports checked.",
+    "verification": "Dawn article updated 14 Oct 22:02 PKT; Tribune independently confirms same-day meeting and bilateral talks. Main source's update includes PM meeting facts.",
+    "image": "Image tool refused to generate, no image available to verify or upload.",
+    "publish": "No Metricool post created; no public links."
+  },
+  "skipped_candidates": [],
+  "errors": [
+    "Image generation tool: The user asked to edit or restore a specific existing image, but there is no usable image target in the conversation. Do not retry image generation. Tell the user to upload or identify the image before calling image_gen again."
+  ]
 }
