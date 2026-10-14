@@ -80,6 +80,15 @@ create in this run, and never touch posts marked draft=true that you did not cre
   BBC (bbc.com / bbc.co.uk), Reuters (reuters.com), AP (apnews.com), Al Jazeera (aljazeera.com),
   Arab News (arabnews.pk / arabnews.com). Any other website does not count.
   A wire story re-published by an outlet (e.g. "Express Tribune (Reuters)") is ONE source, not two.
+  TIMESTAMPS — what is required where (clarified 15 Oct 2026):
+  - The MAIN source (the one that makes the story fresh) needs its exact published/updated time from the
+    article itself. Its date goes on the card.
+  - The CONFIRMING source only has to report the same event with the same key facts (names, figures, place),
+    published on the same day or later. Its exact minute is NOT required; its date is enough.
+  - An official notification / press release that shows a date but no time counts as the official primary
+    source when its date is today (PKT); a news article with an exact time then serves as the main source
+    for freshness. If no article has an exact time, use the official item's date and the 8-hour rule cannot
+    be proven -> do not use it.
 - Cross-check every name, number, place, price and date between the sources before designing anything.
 - Skip: rumours, "sources say", unconfirmed casualty figures, graphic violence, private individuals, stories about
   minors, one-sided political attacks. Politics: neutral and factual.
