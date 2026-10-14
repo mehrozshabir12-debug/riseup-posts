@@ -79,8 +79,8 @@ class Sources(unittest.TestCase):
     def test_freshness_relative_to_slot(self):
         slot, now = P("2026-10-14T15:00:00+05:00"), P("2026-10-14T14:45:00+05:00")
         f = lambda *t: slots.freshness([{"published_at": x} for x in t], slot, now, common.parse_time)[0]
-        self.assertTrue(f("2026-10-13T15:00:00+05:00"))                 # exactly 24 h
-        self.assertFalse(f("2026-10-13T14:59:00+05:00"))
+        self.assertTrue(f("2026-10-14T07:00:00+05:00"))                 # exactly 8 h
+        self.assertFalse(f("2026-10-14T06:59:00+05:00"))
         self.assertTrue(f("2026-10-14T09:00:00+05:00", "2026-10-14T14:10:00+05:00"))   # newest decides
         self.assertFalse(f("2026-10-14T16:00:00+05:00"))                # future = wrong time zone
         self.assertTrue(f("2026-10-14T09:10:00Z"))                      # 14:10 PKT given in UTC

@@ -62,11 +62,11 @@ create in this run, and never touch posts marked draft=true that you did not cre
 - FRESHNESS (owner's rule, 15 Oct 2026): the NEWEST suitable story wins. Search in widening windows before T and
   take the first window that has a story passing every other rule:
     1) published or substantively updated within 2 hours before T  (best)
-    2) otherwise within 3 hours, then 6 hours, then 12 hours
-    3) otherwise within 24 hours before T                          (maximum — never older)
+    2) otherwise within 3 hours, then 4 hours, then 6 hours
+    3) otherwise within 8 hours before T                           (maximum — never older)
   "Substantively updated" = new facts/figures, not a re-headline or minor edit. Within a window, pick the most
   important story for ordinary people. The story must still be new to our page (duplicate check, section 1b).
-  Write the window used in the run log ("freshness_window": "2h" / "3h" / "6h" / "12h" / "24h").
+  Write the window used in the run log ("freshness_window": "2h" / "3h" / "4h" / "6h" / "8h").
   A timestamp later than NOW is impossible: re-check the time zone.
 - Open the article itself and read its own published/updated timestamp (meta or byline). Convert it to PKT.
   Do NOT use search-snippet dates, "2 hours ago" labels or crawl dates. If you cannot establish the exact
@@ -85,7 +85,7 @@ create in this run, and never touch posts marked draft=true that you did not cre
   minors, one-sided political attacks. Politics: neutral and factual.
 - Prefer stories that matter to ordinary people: prices, fuel, electricity, jobs, education, weather, health,
   cricket, economy, technology, major national decisions.
-- A slot is skipped only when NOTHING from the last 24 hours passes all rules (verified, not a duplicate, safe).
+- A slot is skipped only when NOTHING from the last 8 hours passes all rules (verified, not a duplicate, safe).
   Then outcome "skipped_no_fresh_verified_news", list the best rejected candidates
   and why in the run log, stop. Never post old news to fill a slot. A skip is a correct result.
 
