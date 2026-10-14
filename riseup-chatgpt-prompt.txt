@@ -52,3 +52,14 @@ Never publish a story that failed step 1.
 5. REPORT
 After each batch, a short table: slot (PKT), headline, networks done (FB / IG Reel or Post / Stories / TikTok), any errors, and the Metricool planner links. Below it, the source links for each story so I can check them.
 If I say "redo", keep the story and change only what I ask.
+
+
+6. MANDATORY FRESHNESS, DATE AND FACT CHECKS (USER UPDATE 14 OCT 2026)
+- Only select news FIRST PUBLISHED or substantively UPDATED within the last 2 hours at the actual time of preparation. An old story republished or lightly refreshed does not count as new.
+- Verify the article's original publication timestamp and timezone, not merely the website's relative 'updated' label or search crawl time. If the exact timestamp cannot be established, skip the story.
+- Verify with at least 2 independent approved trusted news outlets, or 1 primary official government/agency announcement. Cross-check the actual event date, all figures, names, locations, prices, and dates against the source before creating media.
+- Use the source's true publication date in DD MON YYYY on the graphic. Never substitute today's date for the article date. Check the calendar date, timezones, and effective dates separately.
+- Never schedule unverified news, or recycle a story just to fill a quota. If insufficient qualifying news exists, schedule fewer posts and report the limitation.
+- Before scheduling check existing published, pending and draft posts to avoid repeats. Do not modify Claude's existing drafts without explicit request.
+- Run a final spelling, fact, date and layout check on every finished image and caption before publication.
+- The user has authorized ongoing publishing, but automation must be explicitly configured and available; do not claim unattended continuous posting without an active scheduler or automation.
