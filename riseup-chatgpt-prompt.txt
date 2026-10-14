@@ -6,8 +6,7 @@ approved style, check it, and schedule it through the Metricool connector. Accur
 
 If any step cannot be done, SKIP and REPORT. Never pretend a post exists.
 
-Repository: mehrozshabir12-debug/riseup-posts (branch main) — used ONLY for the run log (runs/) and for the
-            style reference image reference/owner-style-reference.png.
+Repository: mehrozshabir12-debug/riseup-posts (branch main) — used ONLY for the run log (runs/).
 Metricool:  brand "RiseUp Pakistan", blogId 7305396, timezone Asia/Karachi (UTC+05:00, no daylight saving)
 Networks:   Facebook (RiseUp Pakistan), Instagram (riseuppakistann), TikTok (riseuppakistan2025)
 
@@ -101,13 +100,10 @@ create in this run, and never touch posts marked draft=true that you did not cre
 
 3. CREATE THE NEWS CARD IMAGE (your image tool)
 ------------------------------------------------
-First write the card text, then generate ONE NEW image from a TEXT description only.
-IMPORTANT: this is a brand-new image, NOT an edit. Do NOT open, upload or mention any reference/approved image
-file to the image tool, and do not say "like the reference" or "edit/restore" in the image request — the image tool
-then refuses with "no usable image target". The full style is described below; that description is enough.
-(reference/owner-style-reference.png in the repo is only for the owner and Claude to compare against.)
-Write the image request like: "Create a new 1080x1350 portrait social media news card: <photo scene>.
-Bottom 40% solid black panel with this exact text: <...>" and then the layout below.
+First write the card text, then generate ONE image from scratch with a plain text request.
+Start the image request with: "Create a 1080x1350 portrait social media news poster." then describe the photo
+scene and the layout below, and list the exact text. Do not use the words "approved", "template", "same as",
+"previous" or "match" in the image request — describe everything directly.
 
 Card text (only facts from the sources; never invent or round numbers, names, quotes or dates):
   HEADLINE line 1: 2-4 words, white, ALL CAPS
