@@ -1,7 +1,7 @@
 RISEUP PAKISTAN — HOURLY RUNBOOK FOR CLAUDE (Runway photo version, 16 Oct 2026)
 ==============================================================================
 Claude's scheduled task runs this at HH:45 PKT (09:45 ... 23:45). One verified story per slot.
-Photo: Runway API (GitHub secret RUNWAY_API_KEY) via card.photo_prompt. Design: GitHub renders the approved
+Photo: Runway connector (mcp__Runway__generate_image, nano-banana-2-lite, 4 credits) -> card.photo_url. Design: GitHub renders the approved
 card. Publishing: Claude's Metricool connector. Accuracy first; if any step fails, SKIP and REPORT.
 
 Repo: mehrozshabir12-debug/riseup-posts (main). Metricool blogId 7305396, Asia/Karachi.
@@ -91,15 +91,19 @@ never touch drafts you did not create. Never read or send the owner's e-mails.
   and why in the run log, stop. Never post old news to fill a slot. A skip is a correct result.
 
 
-3. CARD TEXT, PHOTO PROMPT AND CAPTION
--------------------------------------
-Card text (only sourced facts): head1 (2-4 words, max 30), head2_hl (yellow box, 1-3 words, max 24),
-head2 (0-2 words), kicker (3-5 words, max 40), desc (one sentence, max 12 words), source (outlet),
-date ("DD MON YYYY" = earliest source's PKT publication date).
-photo_prompt (20-700 characters): describe ONE realistic scene of the story in plain words — place, objects,
-anonymous ordinary people, light. No real identifiable people (politicians, officials, celebrities, athletes),
-no brand logos unless the story is about that company, no violence/injury/weapons, no text or signs.
-GitHub adds "no text, no logos, photorealistic documentary" automatically.
+3. CARD TEXT, PHOTO AND CAPTION
+------------------------------
+Card text (only sourced facts; never round numbers): head1 (2-4 words, max 30), head2_hl (yellow box, 1-3 words,
+max 24), head2 (0-2 words, may be ""), kicker (3-5 words, max 40), desc (one sentence, max 12 words),
+source (outlet), date ("DD MON YYYY" = earliest source's PKT publication date).
+PHOTO — Runway connector, CHEAPEST model, ONE image per run (owner: spend as few credits as possible):
+  mcp__Runway__generate_image(model "nano-banana-2-lite", ratio "4:3", promptText = one realistic scene of the
+  story: place, objects, anonymous ordinary people, natural light, ending with "Absolutely no text, letters,
+  numbers, signs, logos or watermarks anywhere in the image."). Then mcp__Runway__get_task until it has "url".
+  No real identifiable people (politicians, officials, celebrities, athletes), no brand logos unless the story is
+  about that company, no violence/injury/weapons. Look at the image: retry ONCE only if it shows readable text,
+  a real public figure, gore or a clear distortion. Never use another model.
+  If the result says credits are too low: outcome "error_runway_credits", stop (do not post without a photo).
 Caption: 2-3 short English sentences naming the outlet; blank line; "Image: AI-generated illustration.";
 blank line; exactly 5 hashtags including #RiseUpPakistan. No links. tiktok_title max 90 characters.
 
@@ -109,7 +113,7 @@ blank line; exactly 5 hashtags including #RiseUpPakistan. No links. tiktok_title
 Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id; never reuse an id):
 {"id": "...", "type": "news", "headline": "<one full factual sentence>", "language": "English",
  "sources": [{"outlet": "...", "url": "https://...", "published_at": "<ISO +05:00>"}, ...],
- "card": {"photo_prompt": "...", "head1": "...", "head2_hl": "...", "head2": "...", "kicker": "...",
+ "card": {"photo_url": "<the Runway url, copied exactly>", "head1": "...", "head2_hl": "...", "head2": "...", "kicker": "...",
           "desc": "...", "source": "...", "date": "DD MON YYYY"},
  "caption": "...", "tiktok_title": "...",
  "publish": {"slot": "<T ISO +05:00>", "networks": ["facebook", "instagram", "tiktok"], "stories": true,
@@ -120,8 +124,8 @@ Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id
 5. WAIT, CHECK, PUBLISH
 -----------------------
 - Poll results/<id>.json on main every 60 s, up to 10 min (git pull or gh api).
-  rejected/failed -> copy errors to the run log (outcome error_rejected / error_render_failed). A Runway refusal
-  ("Runway task FAILED ...") may be retried ONCE with a simpler, wider scene in a NEW request id. Then stop.
+  rejected/failed -> copy errors to the run log (outcome error_rejected / error_render_failed). If the photo could not be
+  downloaded, re-run get_task for a fresh url and commit ONE new request with a NEW id. Then stop.
 - awaiting_publish / dry_run_ready -> download results.media.feed and LOOK at it: every word, figure, date and
   source correct; photo realistic with no text, logos or identifiable public figures; no distortions.
   Anything wrong -> do not publish, outcome error_card_check.

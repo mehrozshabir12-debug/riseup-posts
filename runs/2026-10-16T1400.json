@@ -1,0 +1,10 @@
+{"slot": "2026-10-16T14:00:00+05:00", "riseup_day": "2026-10-16", "run_started_pkt": "2026-10-16T12:48:00+05:00",
+ "run_finished_pkt": "2026-10-16T12:51:00+05:00", "test_mode": false, "outcome": "scheduled",
+ "freshness_window": "8h", "request_id": "2026-10-16-sbp-reserves-rise-16m",
+ "story": {"headline": "SBP reserves rose $16m to $21.469bn in week ended Oct 9",
+           "sources": [{"outlet": "Dawn", "url": "https://www.dawn.com/news/2037469/state-bank-of-pakistans-reserves-rise", "published_at": "2026-10-16T07:03:00+05:00"},
+                       {"outlet": "State Bank of Pakistan", "url": "https://www.sbp.org.pk/assets/document/forex.pdf", "published_at": "row 9-Oct-26 (no release time shown)"}]},
+ "photo": {"tool": "Runway nano-banana-2-lite", "credits": 4, "task_id": "c6ab8a56-0cc3-41db-b77c-42a3ef049bf6"},
+ "metricool": {"feed": {"id": 397499230, "networks": {"facebook": "PENDING", "instagram": "PENDING", "tiktok": "PENDING"}},
+               "story": {"id": 397499257, "networks": {"facebook": "PENDING", "instagram": "PENDING"}}},
+ "stages": {"publish": "first post of the Claude + Runway pipeline, run manually in chat"}, "errors": []}
