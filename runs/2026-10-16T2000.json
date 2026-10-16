@@ -1,1 +1,49 @@
-{"slot": "2026-10-16T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-16T19:47:30+05:00"}
+{
+ "slot": "2026-10-16T20:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T19:47:30+05:00",
+ "run_finished_pkt": "2026-10-16T19:55:41+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "stages": {
+  "metricool_read": "Brand 7305396, timezone Asia/Karachi; facebook, instagram, tiktok connected. Windows 16 Oct 19:00-21:00 and 14 Oct 19:00 - 17 Oct 08:00 (6h windows) all read OK. Slot 20:00 free. RiseUp day 16 Oct: 6 news feed posts (14:00, 15:00, 16:04, 17:00, 18:03, owner 18:20), 6 with TikTok. Caps not reached.",
+  "previous_slot_check": "19:00 slot was skipped (no posts at 19:00/19:05). Latest posts 18:03 feed 397733502, 18:08 story 397733539, 18:20/18:25 owner posts all PUBLISHED on every network. No retries needed.",
+  "news_search": "Checked Geo Pakistan/latest, Dawn latest (page cached, newest 07:49), web searches. 2h-4h windows: only political/tragedy items or single-source stories.",
+  "verification": "Gold +Rs2,800/tola (Business Recorder 16:17 PKT) had no second approved outlet; KP police martyrs package (Dawn 15:50, Express Tribune 17:24) is a re-report of the same figures announced 14 Oct (24NewsHD 14 Oct 19:34) and sources differ on the wedding grant (Rs1m vs Rs10m).",
+  "image": "Not generated (no verified story; no credits spent).",
+  "publish": "Nothing scheduled."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold rises Rs2,800 to Rs440,636 per tola (Business Recorder 16:17 PKT, APGJSA rates)",
+   "reason": "Only one approved outlet (others: Samaa, ARY, Daily Pakistan, ProPakistani, 24NewsHD - not approved)"
+  },
+  {
+   "headline": "KP raises compensation for martyred police to up to Rs35m (Dawn 15:50, Express Tribune 17:24)",
+   "reason": "Same package and figures already announced 14 Oct (not new); Dawn says Rs1m wedding grant, Tribune Rs10m"
+  },
+  {
+   "headline": "Families of children killed in Peshawar school roof collapse demand justice (Geo)",
+   "reason": "Tragedy involving minors"
+  },
+  {
+   "headline": "Pakistan warns India of forceful response over defence minister's remarks (Geo)",
+   "reason": "Tense military rhetoric; skipped in previous slots"
+  },
+  {
+   "headline": "Sanaullah / PM's aide link lifting KP governor's rule to PTI (Express Tribune, Geo)",
+   "reason": "One-sided political statement"
+  }
+ ],
+ "errors": [
+  "WebFetch https://tribune.com.pk/latest: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time and was withdrawn.",
+  "WebFetch https://www.brecorder.com/latest-news: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time and was withdrawn.",
+  "add_repo tool not found via ToolSearch; repo was already in session scope and cloned, so not needed."
+ ]
+}
