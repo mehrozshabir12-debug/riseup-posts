@@ -1,0 +1,114 @@
+{
+ "id": "2026-10-16-dar-action-hoarding-overpricing",
+ "revision": 1,
+ "request": "requests/2026-10-16-dar-action-hoarding-overpricing.json",
+ "type": "news",
+ "headline": "Deputy Prime Minister Ishaq Dar ordered strict action against hoarding, artificial shortages and overpricing of essential commodities after a cabinet committee in Islamabad was told stocks are adequate with no shortages anticipated.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-16T16:04:00+05:00",
+ "target_slot": "2026-10-16T16:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-dar-action-hoarding-overpricing.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-dar-action-hoarding-overpricing-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-16-dar-action-hoarding-overpricing.jpg",
+  "story": "posts/2026-10-16-dar-action-hoarding-overpricing-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 369833941,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T16:04:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Deputy Prime Minister Ishaq Dar ordered strict action against hoarding, artificial shortages and overpricing of essential commodities, The Express Tribune and Dawn reported. Chairing a cabinet committee in Islamabad, he was told stocks are adequate, with no shortages anticipated and prices stabilising.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #Inflation #EssentialCommodities #PakistanEconomy",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-dar-action-hoarding-overpricing.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "DPM Dar orders strict action against hoarding and overpricing",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T16:09:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-dar-action-hoarding-overpricing-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-16T15:58:12+05:00"
+}

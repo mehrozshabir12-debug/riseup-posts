@@ -2148,5 +2148,44 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "2026-10-16T16:00:00+05:00",
+  "request_id": "2026-10-16-dar-action-hoarding-overpricing",
+  "layout": "bold",
+  "headline": "Deputy Prime Minister Ishaq Dar ordered strict action against hoarding, artificial shortages and overpricing of essential commodities after a cabinet committee in Islamabad was told stocks are adequate with no shortages anticipated.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2635175/dar-orders-action-against-hoarding-overpricing-of-essential-commodities",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2635175/dar-orders-action-against-hoarding-overpricing-of-essential-commodities",
+    "published_at": "2026-10-16T12:44:18+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037554/dpm-dar-reviews-essential-commodity-stocks-prices-at-cabinet-committee-meeting",
+    "published_at": "2026-10-16T11:44:00+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/dpm-directs-monitoring-of-supply-chains-prices-of-essential-commodities/",
+    "published_at": "2026-10-16T11:04:20+05:00"
+   }
+  ],
+  "published": "2026-10-16T12:44:18+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 369833941,
+  "image": "posts/2026-10-16-dar-action-hoarding-overpricing.jpg",
+  "story": "posts/2026-10-16-dar-action-hoarding-overpricing-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-10-16 16:04 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
