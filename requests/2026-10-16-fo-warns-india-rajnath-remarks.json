@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-16-fo-warns-india-rajnath-remarks",
+ "type": "news",
+ "headline": "Pakistan's Foreign Office rejected Indian Defence Minister Rajnath Singh's remarks as provocative and warned that any aggression would meet a forceful response.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/686828-pakistan-warns-india-of-forceful-response-over-ministers-provocative-remarks",
+   "published_at": "2026-10-16T15:49:00+05:00"
+  },
+  {
+   "outlet": "Radio Pakistan",
+   "url": "https://www.radio.gov.pk/16-10-2026/pakistan-warns-india-against-any-misadventure",
+   "published_at": "2026-10-16T00:00:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9d2a650a-4fe2-4d5b-a579-88e17b7c20a9/02461f3b-7c8b-4d2d-95a2-18f357148298/Realistic_photo_of_an_empty_government_press_briefing_room_i.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjdmZDkxNTYyZjE5MDJiMSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjMxNzE0Mn0.5pbVVGap5JSv7DZAinJ50LUz_jfszg-7AdXxcURKi8Y",
+  "head1": "Pakistan Warns",
+  "head2_hl": "India",
+  "head2": "",
+  "kicker": "Foreign Office weekly briefing",
+  "desc": "FO rejects Rajnath Singh's remarks, warns of forceful response",
+  "source": "Geo News",
+  "date": "16 OCT 2026"
+ },
+ "caption": "Pakistan's Foreign Office rejected Indian Defence Minister Rajnath Singh's remarks as provocative, Geo News and Radio Pakistan reported. Spokesperson Sajjad Haider Khan said Pakistan's restraint should not be mistaken for weakness and any aggression would meet a forceful response.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #ForeignOffice #PakIndia #Diplomacy",
+ "tiktok_title": "Pakistan warns India of forceful response over Rajnath Singh's remarks",
+ "publish": {
+  "slot": "2026-10-16T23:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "none"},
+ "ai_generated": true
+}
