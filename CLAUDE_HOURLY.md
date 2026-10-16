@@ -151,7 +151,7 @@ Commit runs/<...>.json (same path as section 0):
  "outcome": "scheduled | scheduled_as_draft | skipped_no_fresh_verified_news | skipped_slot_taken |
              skipped_slot_missed | skipped_daily_cap | error_<short reason>",
  "story": {"headline": "...", "sources": [{"outlet": "...", "url": "...", "published_at": "<ISO +05:00>"}]},
- "request_id": "...", "photo_holder_id": 0, "card_url": "<results.media.feed>",
+ "request_id": "...", "card_url": "<results.media.feed>",
  "image_attempts": [{"attempt": 1, "result": "ok | text in photo | refused: <message>"}],
  "metricool": {"feed": {"id": 0, "plannerUrl": "...", "networks": {"facebook": "PENDING", "instagram": "PENDING", "tiktok": "PENDING"}},
                "story": {"id": 0, "plannerUrl": "...", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}},
@@ -163,8 +163,3 @@ If a tool (web search, image generation, GitHub, Metricool) is not available or 
 "error_tool_unavailable: <tool>" with the exact message. A GitHub watchdog fails at HH:55 when this file is missing
 or still says "started", and GitHub e-mails the owner.
 Do not message the owner for routine success. Do message on any outcome starting with "error".
-
-
-7. RUN LOG — runs/<date of T>T<HHMM>.json, "started" first, final outcome at the end (same fields as before:
-slot, riseup_day, outcome, freshness_window, story, request_id, metricool ids/statuses, stages, skipped_candidates,
-errors). The :55 watchdog fails if it is missing or still "started".
