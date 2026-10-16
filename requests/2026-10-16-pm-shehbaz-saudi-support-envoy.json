@@ -1,0 +1,44 @@
+{
+ "id": "2026-10-16-pm-shehbaz-saudi-support-envoy",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif told new Saudi Ambassador Dr Rajeh Tami Albugamy in Islamabad that Pakistan stands shoulder to shoulder with Saudi Arabia in protecting its sovereignty and security, and condemned the recent escalation in Houthi attacks on the kingdom whose victims included Pakistani nationals.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/686827-pakistan-stands-shoulder-to-shoulder-with-saudi-arabia-vows-pm-shehbaz-amid-houthi-attacks",
+   "published_at": "2026-10-16T16:07:00+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037578/pm-shehbaz-reaffirms-support-for-saudi-arabia-in-meeting-with-new-envoy",
+   "published_at": "2026-10-16T14:29:06+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9fa2cec8-53a9-4917-8818-2a40e76c5c82/91a3e84d-b564-4228-af13-d99557abafc8/Realistic_news_photograph_of_an_elegant_formal_diplomatic_me.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiODZkNjUyYzIxZmI2ZWI1MiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjI2MzIzNH0.9Ik-MeWI7eC6NDYVuPuJFc7Yl79x5pcDzIvpaZgXJps",
+  "head1": "Pakistan Stands With",
+  "head2_hl": "Saudi Arabia",
+  "head2": "",
+  "kicker": "PM Meets New Saudi Envoy",
+  "desc": "PM condemned Houthi attacks whose victims included Pakistani nationals",
+  "source": "Geo News",
+  "date": "16 OCT 2026"
+ },
+ "caption": "Prime Minister Shehbaz Sharif said Pakistan stands \"shoulder to shoulder\" with Saudi Arabia in protecting its sovereignty and security, Geo News and Dawn reported. Meeting new Saudi Ambassador Dr Rajeh Tami Albugamy in Islamabad, he condemned the recent escalation in Houthi attacks on the kingdom, whose victims included Pakistani nationals.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #SaudiArabia #PakSaudi #Diplomacy",
+ "tiktok_title": "PM Shehbaz: Pakistan stands shoulder to shoulder with Saudi Arabia",
+ "publish": {
+  "slot": "2026-10-16T17:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "none"
+ },
+ "ai_generated": true
+}
