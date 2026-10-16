@@ -1,0 +1,44 @@
+{
+ "id": "2026-10-16-current-account-deficit-sept-r2",
+ "type": "news",
+ "headline": "Pakistan posted a current account deficit of $356 million in September 2026, against a $133 million surplus in September 2025, according to State Bank of Pakistan data.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistans-current-account-deficit-widens-nearly-fivefold-in-september-3004371",
+   "published_at": "2026-10-16T20:43:00+05:00"
+  },
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40444553/pakistan-posts-356mn-current-account-deficit-in-sept-2026",
+   "published_at": "2026-10-16T17:49:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/6363a48b-2d1d-47ad-88a6-576f85e48dfb/14a88c26-a2e3-49c6-a205-33062adc1872/Realistic_photo_of_the_busy_Karachi_port_container_terminal_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTA2YzRlMGZhYTM1MGFkNyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjI4NzYzMX0.XM4yzbm6ksenOFIfe68ZLr0mNNN9SGYUjkBF1rQIDiA",
+  "head1": "Current Account",
+  "head2_hl": "Deficit",
+  "head2": "Widens",
+  "kicker": "September 2026 SBP Data",
+  "desc": "Deficit hits $356 million against $133 million surplus last September",
+  "source": "Arab News",
+  "date": "16 OCT 2026"
+ },
+ "caption": "Pakistan posted a current account deficit of $356 million in September 2026, compared with a surplus of $133 million a year earlier, Arab News and Business Recorder reported, citing State Bank data. The deficit for July-September reached $874 million, Business Recorder said.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #CurrentAccount #PakistanEconomy #Pakistan",
+ "tiktok_title": "Pakistan posts $356 million current account deficit in September 2026",
+ "publish": {
+  "slot": "2026-10-16T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "none"
+ },
+ "ai_generated": true
+}
