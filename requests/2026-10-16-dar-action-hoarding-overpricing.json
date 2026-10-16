@@ -1,0 +1,49 @@
+{
+ "id": "2026-10-16-dar-action-hoarding-overpricing",
+ "type": "news",
+ "headline": "Deputy Prime Minister Ishaq Dar ordered strict action against hoarding, artificial shortages and overpricing of essential commodities after a cabinet committee in Islamabad was told stocks are adequate with no shortages anticipated.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635175/dar-orders-action-against-hoarding-overpricing-of-essential-commodities",
+   "published_at": "2026-10-16T12:44:18+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037554/dpm-dar-reviews-essential-commodity-stocks-prices-at-cabinet-committee-meeting",
+   "published_at": "2026-10-16T11:44:00+05:00"
+  },
+  {
+   "outlet": "APP",
+   "url": "https://www.app.com.pk/national/dpm-directs-monitoring-of-supply-chains-prices-of-essential-commodities/",
+   "published_at": "2026-10-16T11:04:20+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/2efc6414-c7d6-426e-b385-05c0358700dd/a26b9d00-f603-4200-a9c7-f6f87b8c19f3/Realistic_photo_of_a_busy_wholesale_grain_and_flour_market_i.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZGFjNjQxNDIzYWRiMDgxZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjI2MjcyMn0.YmPD9HiSkL0J6d9eTMxtKxXdGtK6lQ6C9rLUsqsehj0",
+  "head1": "Action Ordered Against",
+  "head2_hl": "Hoarding",
+  "head2": "",
+  "kicker": "Essential Commodities Review",
+  "desc": "Officials told DPM Dar stocks are adequate, no shortages anticipated",
+  "source": "Express Tribune",
+  "date": "16 OCT 2026"
+ },
+ "caption": "Deputy Prime Minister Ishaq Dar ordered strict action against hoarding, artificial shortages and overpricing of essential commodities, The Express Tribune and Dawn reported. Chairing a cabinet committee in Islamabad, he was told stocks are adequate, with no shortages anticipated and prices stabilising.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #Inflation #EssentialCommodities #PakistanEconomy",
+ "tiktok_title": "DPM Dar orders strict action against hoarding and overpricing",
+ "publish": {
+  "slot": "2026-10-16T16:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "none"
+ },
+ "ai_generated": true
+}
