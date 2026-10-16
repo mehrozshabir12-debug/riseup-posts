@@ -1,1 +1,84 @@
-{"slot": "2026-10-16T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-16T15:47:04+05:00"}
+{
+ "slot": "2026-10-16T16:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T15:47:04+05:00",
+ "run_finished_pkt": "2026-10-16T15:59:24+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Deputy Prime Minister Ishaq Dar ordered strict action against hoarding, artificial shortages and overpricing of essential commodities after a cabinet committee in Islamabad was told stocks are adequate with no shortages anticipated.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2635175/dar-orders-action-against-hoarding-overpricing-of-essential-commodities",
+    "published_at": "2026-10-16T12:44:18+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037554/dpm-dar-reviews-essential-commodity-stocks-prices-at-cabinet-committee-meeting",
+    "published_at": "2026-10-16T11:44:00+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/dpm-directs-monitoring-of-supply-chains-prices-of-essential-commodities/",
+    "published_at": "2026-10-16T11:04:20+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-16-dar-action-hoarding-overpricing",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-dar-action-hoarding-overpricing.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "task_id": "2efc6414-c7d6-426e-b385-05c0358700dd",
+   "model": "nano-banana-2-lite",
+   "credits_remaining_at_submit": 72
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 397639894,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7907315389434119008",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 397639924,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3175099379768474103",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi; facebook, instagram, tiktok connected. All 6h windows 14 Oct 15:00 - 17 Oct 05:00 read OK. Slot 16:00 free. Today's counts before this post: 2 news feed posts, 2 TikTok.",
+  "previous_slot_check": "15:00 feed 397587019 PUBLISHED on facebook (https://facebook.com/122185478282855502/posts/122186580806855502), instagram (https://www.instagram.com/p/DejRrnUj2zP/), tiktok (https://www.tiktok.com/@riseuppakistan2025/video/7697204467535498516); 15:05 story 397587034 PUBLISHED on facebook and instagram. No retries needed.",
+  "news_search": "Nothing new passing all rules found in 2h/3h windows (fresh items were duplicates, political, or Peshawar school collapse involving children). Newest qualifying: Express Tribune 12:44 PKT (4h window).",
+  "verification": "Express Tribune + Dawn + APP (three approved outlets) agree: DPM Ishaq Dar chaired cabinet committee on essential commodities in Islamabad on 16 Oct; told adequate stocks, no shortages anticipated, prices stabilising; warned strict action against hoarding, artificial shortages and overpricing. Not a duplicate of last 48h posts.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, wholesale flour/grain market with anonymous people, no readable text or public figures.",
+  "publish": "NOW was past T-5 min, so renderer set feed 16:04 and story 16:09 (within T+15). Feed and story cards checked visually; created in Metricool, confirmed PENDING with getScheduledPosts."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "ECP rejects Punjab bid to delay LG polls until April",
+   "reason": "Decision 15 Oct; The News timestamp 00:00 PKT, older than 8h"
+  },
+  {
+   "headline": "Peshawar school roof collapse: case registered against owners",
+   "reason": "Tragedy involving children; casualty-focused"
+  },
+  {
+   "headline": "Jirgas underway in K-P to select RDC members",
+   "reason": "Political, single source found"
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest-news, tribune.com.pk/latest, brecorder.com/latest-news: PROVENANCE_REQUIRED (permission request not answered in time); worked around via search-result URLs"
+ ]
+}
