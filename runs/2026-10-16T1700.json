@@ -1,1 +1,90 @@
-{"slot": "2026-10-16T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-16T16:47:48+05:00"}
+{
+ "slot": "2026-10-16T17:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T16:47:48+05:00",
+ "run_finished_pkt": "2026-10-16T16:54:33+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif told new Saudi Ambassador Dr Rajeh Tami Albugamy in Islamabad that Pakistan stands shoulder to shoulder with Saudi Arabia in protecting its sovereignty and security, and condemned the recent escalation in Houthi attacks on the kingdom whose victims included Pakistani nationals.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/686827-pakistan-stands-shoulder-to-shoulder-with-saudi-arabia-vows-pm-shehbaz-amid-houthi-attacks",
+    "published_at": "2026-10-16T16:07:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037578/pm-shehbaz-reaffirms-support-for-saudi-arabia-in-meeting-with-new-envoy",
+    "published_at": "2026-10-16T14:29:06+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-16-pm-shehbaz-saudi-support-envoy",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pm-shehbaz-saudi-support-envoy.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "text in photo: Saudi flag showed pseudo-Arabic calligraphy script",
+   "task_id": "8472ae25-a481-4997-ba35-ec22e6ac4e77",
+   "model": "nano-banana-2-lite",
+   "credits_remaining_at_submit": 68
+  },
+  {
+   "attempt": 2,
+   "result": "ok",
+   "task_id": "9fa2cec8-53a9-4917-8818-2a40e76c5c82",
+   "model": "nano-banana-2-lite",
+   "credits_remaining_at_submit": 64
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 397680951,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=408358538396386860",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 397680980,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4956930499345271267",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi; facebook, instagram, tiktok connected. All 6h windows 14 Oct 16:00 - 17 Oct 05:00 read OK. Slot 17:00 free. Today's counts before this post: 3 news feed posts, 3 TikTok.",
+  "previous_slot_check": "16:04 feed 397639894 PUBLISHED on facebook (https://facebook.com/122185478282855502/posts/122186585456855502), instagram (https://www.instagram.com/p/DejYjJmEbYb/), tiktok (https://www.tiktok.com/@riseuppakistan2025/video/7697219943590300949); 16:09 story 397639924 PUBLISHED on facebook (https://facebook.com/122185478282855502/posts/1734313940999821) and instagram (https://www.instagram.com/stories/riseuppakistann/4009158581728325653). No retries needed.",
+  "news_search": "2h window (15:00-17:00 PKT): Geo News 16:07 PKT on PM Shehbaz meeting new Saudi ambassador. Chosen as newest verified story.",
+  "verification": "Geo News (16:07 PKT, PM Office statement) + Dawn (published 14:29, updated 16:19 PKT) agree: PM Shehbaz met new Saudi Ambassador Dr Rajeh Tami Albugamy in Islamabad on 16 Oct, reaffirmed support for Saudi sovereignty/security, condemned Houthi escalation whose victims included Pakistani nationals. Different event from 14 Oct Aramco-strike post.",
+  "image": "Runway nano-banana-2-lite 4:3; attempt 1 rejected (flag calligraphy text), attempt 2 ok: empty diplomatic room with Pakistan flag, no text or people.",
+  "publish": "Feed and story cards checked visually; created in Metricool at 17:00 / 17:05, confirmed PENDING via getScheduledPosts."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan urges pilgrims to pay second Hajj 2027 instalment before Oct 20 (Arab News 16:03)",
+   "reason": "No same-day confirming approved outlet (APP/Tribune items dated 12 Oct and earlier); reminder, not a new development"
+  },
+  {
+   "headline": "England arrive in Islamabad for ODI tri-series (Express Tribune 11:55)",
+   "reason": "Only in 6h window; a 2h-window story was available"
+  },
+  {
+   "headline": "Pakistan warns India of forceful response over defence minister's remarks",
+   "reason": "Tense political/military rhetoric, not verified with second source"
+  },
+  {
+   "headline": "Pakistan second-worst in South Asia on Global Hunger Index",
+   "reason": "Geo published 15 Oct 15:42, older than 8h"
+  }
+ ],
+ "errors": [
+  "WebSearch (one query): PROXY_REJECTED - The WebSearch proxy rejected the request (HTTP 400): The request was invalid"
+ ]
+}
