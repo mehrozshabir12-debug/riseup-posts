@@ -1,1 +1,66 @@
-{"slot": "2026-10-16T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-16T21:46:07+05:00"}
+{
+ "slot": "2026-10-16T22:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T21:46:07+05:00",
+ "run_finished_pkt": "2026-10-16T21:54:50+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan posted a current account deficit of $356 million in September 2026, against a $133 million surplus in September 2025, according to State Bank of Pakistan data.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-current-account-deficit-widens-nearly-fivefold-in-september-3004371",
+    "published_at": "2026-10-16T20:43:00+05:00"
+   },
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40444553/pakistan-posts-356mn-current-account-deficit-in-sept-2026",
+    "published_at": "2026-10-16T17:49:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-16-current-account-deficit-sept-r2",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-current-account-deficit-sept-r2.jpg",
+ "image_attempts": [
+  {
+   "attempt": 0,
+   "result": "ok - reused the Runway photo generated and checked by the 21:00 run for this same story (request 2026-10-16-current-account-deficit-sept, never published); 0 new credits spent. Checked again on the rendered card: no text, no logos, no public figures."
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 397945096,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1188865807105572571",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 397945130,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7409063536433347083",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 16 Oct 21:00-23:00, then 14 Oct 21:00 - 17 Oct 10:00 in 6h windows all read OK. Slot 22:00 free. RiseUp day 16 Oct before this post: 6 news feed posts, 6 with TikTok. Caps not reached.",
+  "previous_slot_check": "21:00 slot had no posts (render failed). Latest posts 18:03/18:08 and 18:20/18:25 all PUBLISHED on every network. No retries needed.",
+  "news_search": "The SBP September current account story found by the 21:00 run was never posted (render pipeline crash) and is still the newest important story within 2h of 22:00 (Arab News 20:43 PKT).",
+  "verification": "Re-opened both articles this run. Arab News byline 16 Oct 2026 20:43 (meta 15:43:15Z): Sept deficit $356m, Aug $73m, Sept 2025 surplus $133m. Business Recorder published 17:13:04, updated 17:49:17 PKT: same figures, 3MFY27 deficit $874m.",
+  "image": "Reused 21:00 run's Runway nano-banana-2-lite image (Karachi port containers at dusk). No new generation.",
+  "render": "Fixed receipts/2026-10-16-psx-kse100-closes-higher-233.json (status strings -> per-network dicts, as automation expects); render workflow then ran OK. Request r2 rendered 21:54, status awaiting_publish.",
+  "publish": "Card and story viewed and correct. Feed 397945096 at 22:00, Story 397945130 at 22:05; getScheduledPosts 21:55-22:10 confirms both, all providers PENDING, media re-hosted by Metricool from the raw.githubusercontent card."
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "Previous-run cause (resolved this run): process_request.py phase_receipts AttributeError 'str' object has no attribute 'items' caused by the 18:00 receipt storing status as a string. Fixed by rewriting that receipt's status fields as per-network dicts (no change to automation/).",
+  "WebFetch of the article URLs taken from the repo file failed with PROVENANCE_REQUIRED; succeeded after the same URLs appeared in a web search.",
+  "add_repo tool not found via ToolSearch; repo was already in session scope and cloned."
+ ]
+}
