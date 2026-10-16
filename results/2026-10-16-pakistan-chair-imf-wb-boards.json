@@ -1,0 +1,114 @@
+{
+ "id": "2026-10-16-pakistan-chair-imf-wb-boards",
+ "revision": 1,
+ "request": "requests/2026-10-16-pakistan-chair-imf-wb-boards.json",
+ "type": "news",
+ "headline": "Pakistan's Economic Affairs Minister Ahad Khan Cheema was named incoming chair of the Boards of Governors of the IMF and World Bank Group for 2027, Pakistan's first time in the role since 1953.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-16T15:00:00+05:00",
+ "target_slot": "2026-10-16T15:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pakistan-chair-imf-wb-boards.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pakistan-chair-imf-wb-boards-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-16-pakistan-chair-imf-wb-boards.jpg",
+  "story": "posts/2026-10-16-pakistan-chair-imf-wb-boards-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 704397338,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T15:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan will chair the Boards of Governors of the IMF and World Bank Group in 2027, its first time since 1953, Dawn and Geo News reported. Economic Affairs Minister Ahad Khan Cheema was announced as incoming chair at the annual meetings in Bangkok.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IMF #WorldBank #PakistanEconomy #Pakistan",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pakistan-chair-imf-wb-boards.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan to chair IMF, World Bank boards in 2027, first time since 1953",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T15:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pakistan-chair-imf-wb-boards-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-16T14:50:29+05:00"
+}

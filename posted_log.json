@@ -2100,5 +2100,39 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "2026-10-16T15:00:00+05:00",
+  "request_id": "2026-10-16-pakistan-chair-imf-wb-boards",
+  "layout": "bold",
+  "headline": "Pakistan's Economic Affairs Minister Ahad Khan Cheema was named incoming chair of the Boards of Governors of the IMF and World Bank Group for 2027, Pakistan's first time in the role since 1953.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/686791-pakistan-to-chair-world-bank-imf-boards-in-2027-for-first-time-since-1953",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/686791-pakistan-to-chair-world-bank-imf-boards-in-2027-for-first-time-since-1953",
+    "published_at": "2026-10-16T12:18:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-chairmanship-of-imf-world-bank-boards-in-2027",
+    "published_at": "2026-10-16T11:55:51+05:00"
+   }
+  ],
+  "published": "2026-10-16T12:18:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 704397338,
+  "image": "posts/2026-10-16-pakistan-chair-imf-wb-boards.jpg",
+  "story": "posts/2026-10-16-pakistan-chair-imf-wb-boards-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-10-16 15:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
