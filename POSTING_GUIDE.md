@@ -1,6 +1,11 @@
 > ▶ **Claude's scheduled tasks RESUMED by the owner (12 Oct 2026, 4:30 PM PKT).** Post exactly as before. The ChatGPT
 > handover (CHATGPT_OPERATOR.md, requests/ workflow) stays PAUSED — do not use requests/ or the workflow.
 
+> ✅ **17 Oct 2026 — owner re-enabled the Instagram zoom Reel with music** (Instagram views fell from ~800-1,400/day
+> to ~50/day without Reels). Each story: FB + TikTok photo, Instagram zoom Reel + trending music (see "Music on
+> Instagram and TikTok"), FB + IG Story. The zoom video is rendered by GitHub (reel.type "zoom"). The rest of the
+> note below still applies to anime, narrated and tribute Reels, which stay OFF.
+>
 > ⛔ **NO REELS / NO VIDEOS (owner's order, 12 Oct 2026, to save usage).** Do NOT run make_video.py,
 > make_anime_reel.py or any video step, and do not schedule any REEL (Instagram, Facebook) or TikTok video.
 > This overrides every Reel/anime/tribute-Reel/music rule below. Each story is: (a) ONE post with the JPG to

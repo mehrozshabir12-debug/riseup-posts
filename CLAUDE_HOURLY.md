@@ -104,6 +104,14 @@ PHOTO — Runway connector, CHEAPEST model, ONE image per run (owner: spend as f
   about that company, no violence/injury/weapons. Look at the image: retry ONCE only if it shows readable text,
   a real public figure, gore or a clear distortion. Never use another model.
   If the result says credits are too low: outcome "error_runway_credits", stop (do not post without a photo).
+MUSIC (owner's order 17 Oct 2026: Instagram Reels with music are back — almost all Instagram views came from Reels):
+  Pick ONE track per story for the Instagram Reel. Web-search what is trending now ("trending Instagram Reels audio
+  this week", "trending sounds Pakistan this week") and use a trending track's "title artist" as music.audioId (a
+  search term), or a numeric Metricool audio id. Mood must fit the story: calm instrumental for sad, crime, disaster
+  or serious news; upbeat only for good news, cricket wins, prices falling. Prefer instrumentals (no foreign-language
+  lyrics). Never the same track twice in one RiseUp day: read "music" in today's runs/*.json first.
+  Only the Instagram Reel gets this music. TikTok photo posts keep autoAddMusic (TikTok picks); Facebook gets none.
+  Anime and narrated Reels stay OFF (reel.type is always "zoom" — the 8 s zoom video is rendered free by GitHub).
 Caption: 2-3 short English sentences naming the outlet; blank line; "Image: AI-generated illustration.";
 blank line; exactly 5 hashtags including #RiseUpPakistan. No links. tiktok_title max 90 characters.
 
@@ -118,7 +126,8 @@ Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id
  "caption": "...", "tiktok_title": "...",
  "publish": {"slot": "<T ISO +05:00>", "networks": ["facebook", "instagram", "tiktok"], "stories": true,
              "dry_run": <true in TEST MODE>},
- "reel": {"type": "none"}, "ai_generated": true}
+ "reel": {"type": "zoom"}, "music": {"audioId": "<track search term or numeric id>", "label": "<title - artist>"},
+ "ai_generated": true}
 
 
 5. WAIT, CHECK, PUBLISH
@@ -129,10 +138,19 @@ Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id
 - awaiting_publish / dry_run_ready -> download results.media.feed and LOOK at it: every word, figure, date and
   source correct; photo realistic with no text, logos or identifiable public figures; no distortions.
   Anything wrong -> do not publish, outcome error_card_check.
+- awaiting_publish also gives results.media.reel (the zoom MP4). Open it once to confirm it plays and shows the card.
 - Feed: createScheduledPost(blogId "7305396", date = payloads.feed.publicationDate.dateTime + "+05:00",
-  info = payloads.feed exactly). Story: same with payloads.story. TEST MODE: add "draft": true to both.
-- getScheduledPosts T-5 min..T+10 min: both posts exist, providers PENDING, media = raw.githubusercontent card.
-- Commit receipts/<id>.json {"id", "scheduled", "posts": {"feed": {"metricool_id", "status"}, "story": {...}}}
+  info = payloads.feed exactly) — Facebook + TikTok photo. Reel: same with payloads.reel — the Instagram Reel with
+  music. Story: same with payloads.story. TEST MODE: add "draft": true to all three.
+- MUSIC CHECK (owner complaint 9 Oct: a Reel once got a stranger talking in a foreign language): read the Reel's
+  createScheduledPost response / getScheduledPosts entry. instagramData.audioConfiguration.audioType MUST be
+  "music" with a displayArtist. If it is "original_sound", has an igUsername instead of a displayArtist, or Metricool
+  rejected the audio with a candidate list: updateScheduledPost ONCE with the best "music" candidate (a calm
+  instrumental is always safe). If audio still fails, update the Reel to have no audioConfiguration (the post must
+  still go out). Write the final track in the run log as "music".
+- getScheduledPosts T-5 min..T+10 min: feed, Reel and Story exist, providers PENDING, media = raw.githubusercontent
+  card / MP4.
+- Commit receipts/<id>.json {"id", "scheduled", "posts": {"feed": {"metricool_id", "status"}, "reel": {...}, "story": {...}}}
   with the real statuses only.
 
 
@@ -158,7 +176,9 @@ Commit runs/<...>.json (same path as section 0):
  "request_id": "...", "card_url": "<results.media.feed>",
  "image_attempts": [{"attempt": 1, "result": "ok | text in photo | refused: <message>"}],
  "metricool": {"feed": {"id": 0, "plannerUrl": "...", "networks": {"facebook": "PENDING", "instagram": "PENDING", "tiktok": "PENDING"}},
+               "reel": {"id": 0, "plannerUrl": "...", "networks": {"instagram": "PENDING"}},
                "story": {"id": 0, "plannerUrl": "...", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}},
+ "music": "<title - artist actually attached, or none>",
  "stages": {"metricool_read": "...", "previous_slot_check": "...", "news_search": "...", "verification": "...",
             "image": "...", "publish": "..."},
  "skipped_candidates": [{"headline": "...", "reason": "..."}],
