@@ -1,0 +1,25 @@
+{
+ "id": "2026-10-16-pakistan-chair-imf-wb-boards",
+ "type": "news",
+ "headline": "Pakistan's Economic Affairs Minister Ahad Khan Cheema was named incoming chair of the Boards of Governors of the IMF and World Bank Group for 2027, Pakistan's first time in the role since 1953.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Geo News", "url": "https://www.geo.tv/latest/686791-pakistan-to-chair-world-bank-imf-boards-in-2027-for-first-time-since-1953", "published_at": "2026-10-16T12:18:00+05:00"},
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-chairmanship-of-imf-world-bank-boards-in-2027", "published_at": "2026-10-16T11:55:51+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9d6b1898-0b9d-4094-b6fb-600dc65b53eb/125968a3-331f-4948-bbe6-d7cde148ff38/Realistic_photo_of_a_large_modern_international_conference_h.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNTg3ZjE3NTc1MzkyOGJlYSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjMwODA1NX0.FnhH0evCruvKnOyxto5TRL12nI1CiHstbt6gJxOU72U",
+  "head1": "Pakistan To Chair",
+  "head2_hl": "IMF, World Bank",
+  "head2": "Boards",
+  "kicker": "First Time Since 1953",
+  "desc": "Ahad Cheema named 2027 chair at Bangkok annual meetings",
+  "source": "Dawn",
+  "date": "16 OCT 2026"
+ },
+ "caption": "Pakistan will chair the Boards of Governors of the IMF and World Bank Group in 2027, its first time since 1953, Dawn and Geo News reported. Economic Affairs Minister Ahad Khan Cheema was announced as incoming chair at the annual meetings in Bangkok.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IMF #WorldBank #PakistanEconomy #Pakistan",
+ "tiktok_title": "Pakistan to chair IMF, World Bank boards in 2027, first time since 1953",
+ "publish": {"slot": "2026-10-16T15:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "none"},
+ "ai_generated": true
+}
