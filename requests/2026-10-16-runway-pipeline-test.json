@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-16-runway-pipeline-test",
+ "type": "test",
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3-pro-image/images/4f474094-81fa-4f24-85da-924e187c3145/fc955db9-03a1-43bc-b05c-dee2848eb819/Realistic_documentary_news_photograph_of_a_busy_petrol_stati.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNmY2OTc2ZGI2NTAzN2QyMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjI4NjY4M30.2fx5QhjwEBJfaFeBFYJTWYRnbtDbCYdhAIcMCp7-V74",
+  "head1": "Petrol Price Cut",
+  "head2_hl": "Rs 2.71",
+  "head2": "Per Litre",
+  "kicker": "Pipeline Test Only",
+  "desc": "Runway photo with the approved RiseUp design",
+  "source": "Test",
+  "date": "16 OCT 2026"
+ },
+ "reel": {
+  "type": "none"
+ }
+}
