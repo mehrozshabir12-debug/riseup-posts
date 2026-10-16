@@ -1,0 +1,27 @@
+{
+ "id": "2026-10-16-spi-inflation-1138-yoy",
+ "type": "news",
+ "headline": "Pakistan's weekly SPI inflation stood at 11.38% year-on-year in the week ending October 15, while the index fell 0.04% week-on-week, Pakistan Bureau of Statistics data showed.",
+ "language": "English",
+ "sources": [
+  {"outlet": "APP", "url": "https://www.app.com.pk/business/weekly-inflation-decreases-0-04pc/", "published_at": "2026-10-16T20:19:55+05:00"},
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2037605/short-term-inflation-surges-to-1138pc-due-to-costly-food", "published_at": "2026-10-16T18:18:03+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/a8733e74-ca07-46a8-90a6-ea24a64c7439/e2bc8a8c-48d4-4fe0-917e-2b49e4e16577/Realistic_photo_of_a_busy_vegetable_and_grocery_market_stall.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNmFlMTNmMGIzZDdkYWYwOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjI4MjYzNX0.JTahE-lrBAHQisQrYzPFc2m-5ySdPA8A6cM8L4dH3ao",
+  "head1": "Weekly Inflation",
+  "head2_hl": "11.38%",
+  "head2": "YoY",
+  "kicker": "Tomatoes Down 23.05% In Week",
+  "desc": "Wheat flour up 3.36%, chicken up 3.31% in week to Oct 15",
+  "source": "APP",
+  "date": "16 OCT 2026"
+ },
+ "caption": "Short-term inflation measured by the weekly SPI stood at 11.38% year-on-year in the week ending October 15, APP and Dawn reported, citing Pakistan Bureau of Statistics data. Prices fell 0.04% from the previous week as tomatoes dropped 23.05%, while wheat flour rose 3.36% and chicken 3.31%.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Inflation #SPI #PakistanEconomy #Pakistan",
+ "tiktok_title": "Weekly SPI inflation at 11.38% year-on-year",
+ "publish": {"slot": "2026-10-17T00:00:00+05:00", "networks": ["facebook", "instagram"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "Autumn Journey Andrea Vanzo", "label": "Autumn Journey - Andrea Vanzo"},
+ "ai_generated": true,
+ "notes": "TikTok omitted: 8/8 TikTok posts already used in RiseUp day 16 Oct. Freshness window 4h (APP 20:19 PKT)."
+}
