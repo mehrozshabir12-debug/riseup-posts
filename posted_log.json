@@ -2130,9 +2130,23 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "none",
-  "scheduled": "2026-10-16 15:00 PKT",
+  "scheduled": "2026-10-16T15:00:00+05:00",
   "music": null,
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {}
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 397587019,
+   "story": 397587034
+  },
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
