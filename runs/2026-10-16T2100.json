@@ -1,1 +1,48 @@
-{"slot": "2026-10-16T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-16T20:47:07+05:00"}
+{
+ "slot": "2026-10-16T21:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T20:47:07+05:00",
+ "run_finished_pkt": "2026-10-16T21:05:02+05:00",
+ "test_mode": false,
+ "outcome": "error_render_failed",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan posted a current account deficit of $356 million in September 2026, against a $133 million surplus in September 2025, according to State Bank of Pakistan data.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-current-account-deficit-widens-nearly-fivefold-in-september-3004371",
+    "published_at": "2026-10-16T20:43:00+05:00"
+   },
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40444553/pakistan-posts-356mn-current-account-deficit-in-sept-2026",
+    "published_at": "2026-10-16T17:49:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-16-current-account-deficit-sept",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": null,
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 16 Oct 20:00-22:00, then 14 Oct 20:00 - 17 Oct 09:00 all read OK. Slot 21:00 free. RiseUp day 16 Oct: 6 news feed posts (14:00, 15:00, 16:04, 17:00, 18:03, owner 18:20), 6 with TikTok. Caps not reached.",
+  "previous_slot_check": "20:00 slot was skipped (no posts 20:00-21:00). Latest posts 18:03/18:08 and owner 18:20/18:25 all PUBLISHED on every network. No retries needed.",
+  "news_search": "Found SBP September current account data (Arab News 20:43 PKT, Business Recorder 17:13/updated 17:49 PKT). Not posted before.",
+  "verification": "Two approved outlets agree: Sept 2026 deficit $356m, Aug deficit $73m (revised), Sept 2025 surplus $133m; BR gives 3MFY27 $874m (Arab News 'about $870m').",
+  "image": "Runway nano-banana-2-lite, 1 image (Karachi port containers at dusk), checked: no text, no public figures. 52 credits left (low-credit warning).",
+  "publish": "Not published. GitHub render run 38927627592 (RiseUp Media Manager) failed before rendering; results/<id>.json never appeared by 21:05, slot window closes 21:15. No card to check, so nothing sent to Metricool."
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "GitHub Actions run 38927627592 job 'process', step 'python automation/process_request.py receipts': File automation/process_request.py line 380, in phase_receipts: cur[\"status\"] = {k: str(v).upper() for k, v in (info.get(\"status\") or {}).items()} -> AttributeError: 'str' object has no attribute 'items'",
+  "Cause: receipts/2026-10-16-psx-kse100-closes-higher-233.json (18:00 run) stores posts.feed.status and posts.story.status as strings (\"PENDING\"), while the automation expects a per-network dict. Every workflow run since then crashes in the receipts phase before rendering (runs 80, 81, 84, 86, 88 failed). Not fixed by this run (outside its scope).",
+  "WebFetch https://www.brecorder.com/news/40444553: PROVENANCE_REQUIRED (the full-slug URL fetched fine)",
+  "add_repo tool not found via ToolSearch; repo was already in session scope and cloned."
+ ]
+}
