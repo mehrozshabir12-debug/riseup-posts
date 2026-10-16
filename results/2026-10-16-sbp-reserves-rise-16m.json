@@ -1,0 +1,114 @@
+{
+ "id": "2026-10-16-sbp-reserves-rise-16m",
+ "revision": 1,
+ "request": "requests/2026-10-16-sbp-reserves-rise-16m.json",
+ "type": "news",
+ "headline": "State Bank of Pakistan foreign exchange reserves rose by $16 million to $21.469 billion in the week ended October 9; total liquid reserves $26.863 billion",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-16T14:00:00+05:00",
+ "target_slot": "2026-10-16T14:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-sbp-reserves-rise-16m.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-sbp-reserves-rise-16m-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-16-sbp-reserves-rise-16m.jpg",
+  "story": "posts/2026-10-16-sbp-reserves-rise-16m-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 572899570,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "The State Bank of Pakistan's foreign exchange reserves rose by $16 million to $21.469 billion in the week ended October 9, Dawn reported. Total liquid reserves reached $26.863 billion, including $5.393 billion held by commercial banks.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #ForexReserves #PakistanEconomy #Pakistan",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-sbp-reserves-rise-16m.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "SBP reserves rise to $21.469 billion",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-sbp-reserves-rise-16m-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-16T12:50:15+05:00"
+}
