@@ -1,0 +1,12 @@
+{
+ "id": "2026-10-16-current-account-deficit-sept",
+ "revision": 1,
+ "request": "requests/2026-10-16-current-account-deficit-sept.json",
+ "status": "rejected",
+ "errors": [
+  "slot 2026-10-16 21:00 PKT was missed (now 21:46); never schedule in the past"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-10-16T21:46:51+05:00"
+}
