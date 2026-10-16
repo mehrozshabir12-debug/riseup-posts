@@ -1,0 +1,104 @@
+{
+ "id": "2026-10-16-runway-pipeline-test",
+ "revision": 1,
+ "request": "requests/2026-10-16-runway-pipeline-test.json",
+ "type": "test",
+ "headline": "pipeline test",
+ "warnings": [
+  "TEST request: never published"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-10-16T13:00:00+05:00",
+ "target_slot": "2026-10-16T13:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-runway-pipeline-test.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-runway-pipeline-test-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-16-runway-pipeline-test.jpg",
+  "story": "posts/2026-10-16-runway-pipeline-test-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 325405731,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "dry_run",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T13:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "TEST ONLY",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-runway-pipeline-test.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T13:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-runway-pipeline-test-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "dry_run_ready",
+ "updated_at": "2026-10-16T12:42:54+05:00"
+}
