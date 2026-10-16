@@ -1,0 +1,45 @@
+{
+ "id": "2026-10-16-sbp-reserves-rise-16m",
+ "type": "news",
+ "headline": "State Bank of Pakistan foreign exchange reserves rose by $16 million to $21.469 billion in the week ended October 9; total liquid reserves $26.863 billion",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037469/state-bank-of-pakistans-reserves-rise",
+   "published_at": "2026-10-16T07:03:00+05:00"
+  },
+  {
+   "outlet": "State Bank of Pakistan",
+   "url": "https://www.sbp.org.pk/assets/document/forex.pdf",
+   "published_at": "2026-10-16T07:03:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/c6ab8a56-0cc3-41db-b77c-42a3ef049bf6/3289a814-2380-4083-875e-9fd930486f59/Realistic_documentary_news_photograph_of_the_exterior_of_a_l.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzE0NDMxNDJiZWQ0ZTQzMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjI0NTQ0Mn0.z8_ZLDHwG3MHY6xc7i-LVAxBkDP_7JwiblqnnXVD9V0",
+  "head1": "SBP Reserves Rise",
+  "head2_hl": "$21.469 Billion",
+  "head2": "",
+  "kicker": "Up $16 Million In A Week",
+  "desc": "Total liquid reserves reached $26.863bn in the week ended October 9",
+  "source": "Dawn",
+  "date": "16 OCT 2026"
+ },
+ "caption": "The State Bank of Pakistan's foreign exchange reserves rose by $16 million to $21.469 billion in the week ended October 9, Dawn reported. Total liquid reserves reached $26.863 billion, including $5.393 billion held by commercial banks.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #ForexReserves #PakistanEconomy #Pakistan",
+ "tiktok_title": "SBP reserves rise to $21.469 billion",
+ "publish": {
+  "slot": "2026-10-16T14:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "none"
+ },
+ "ai_generated": true,
+ "notes": "SBP forex.pdf row 9-Oct-26: SBP 21,469.5 / banks 5,393.8 / total 26,863.3 (US$ m); SBP table shows no release time, Dawn time used."
+}
