@@ -110,6 +110,22 @@ MUSIC (owner's order 17 Oct 2026: Instagram Reels with music are back — almost
   search term), or a numeric Metricool audio id. Mood must fit the story: calm instrumental for sad, crime, disaster
   or serious news; upbeat only for good news, cricket wins, prices falling. Prefer instrumentals (no foreign-language
   lyrics). Never the same track twice in one RiseUp day: read "music" in today's runs/*.json first.
+  VERIFIED MUSIC LIST (owner complaint 17 Oct 2026: a Reel went out with NO sound because the trending search
+  term only matched "original_sound"). These numeric ids are known Instagram "music" tracks. If the trending search
+  term is not confirmed as audioType "music", use a NUMERIC id from this list instead (one not used today):
+    calm / serious news: 478728841591377 Reflection - Sam Marshall | 1329928372147056 Slow Living - stereogully |
+      1211414204067053 Drift Away (Instrumental) - Giulio Cercato | 589750179694057 Float (Instrumental) - Sleeping Lion |
+      985048086988929 Vow (Instrumental) - Ross Lara | 1362869204224018 Purity - Ross Lara |
+      297072506536797 Melodic Mountain - Ross Lara | 1197857668796525 Carry On (Instrumental) - Giulio Cercato |
+      1142425671382048 Painted White - Julia Gartha | 1368174622072131 Fairytales Age Too - cloud cover
+    neutral / economy: 757785052896581 Sunday In October - Trout Recording | 810120545333296 Iced Latte - Global Genius |
+      934661001819759 Cafe Lovers - Global Genius | 1131479132514825 Simple Pleasures - Alex Blue |
+      614418411270205 A Little Love Song - Alex Blue | 836981678209890 I'll Always Be Around - Alex Blue |
+      2384396914990297 City Around The Corner - The Poison Oaks
+    upbeat / good news / cricket: 581639516835198 Upside Down - Mike Block | 1543577430102877 The Process - Jackson Whalan |
+      1274149560124013 Heros Journey (Instrumental) - Abby Posner | 336015428971390 Glow (Instrumental) - KNOTTS |
+      2479868452044482 Out In The Wild - bldgs | 2991194837697937 Chase It (Instrumental) - JQ, The Red Collective
+  A Reel must NOT go out silent: try up to 3 list ids before ever removing the audio.
   Only the Instagram Reel gets this music. TikTok photo posts keep autoAddMusic (TikTok picks); Facebook gets none.
   Anime and narrated Reels stay OFF (reel.type is always "zoom" — the 8 s zoom video is rendered free by GitHub).
 Caption: 2-3 short English sentences naming the outlet; blank line; "Image: AI-generated illustration.";
@@ -145,9 +161,10 @@ Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id
 - MUSIC CHECK (owner complaint 9 Oct: a Reel once got a stranger talking in a foreign language): read the Reel's
   createScheduledPost response / getScheduledPosts entry. instagramData.audioConfiguration.audioType MUST be
   "music" with a displayArtist. If it is "original_sound", has an igUsername instead of a displayArtist, or Metricool
-  rejected the audio with a candidate list: updateScheduledPost ONCE with the best "music" candidate (a calm
-  instrumental is always safe). If audio still fails, update the Reel to have no audioConfiguration (the post must
-  still go out). Write the final track in the run log as "music".
+  rejected the audio with a candidate list: updateScheduledPost with the best candidate whose audioType is "music";
+  if there is none, use a numeric id from the VERIFIED MUSIC LIST (section 3) that fits the mood and is unused today,
+  and check again. Up to 3 tries. Only if all 3 fail, update the Reel to have no audioConfiguration (the post must
+  still go out) and write "error_reel_silent" in the run log errors. Write the final track in the run log as "music".
 - getScheduledPosts T-5 min..T+10 min: feed, Reel and Story exist, providers PENDING, media = raw.githubusercontent
   card / MP4.
 - Commit receipts/<id>.json {"id", "scheduled", "posts": {"feed": {"metricool_id", "status"}, "reel": {...}, "story": {...}}}
