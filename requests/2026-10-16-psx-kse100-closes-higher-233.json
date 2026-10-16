@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-16-psx-kse100-closes-higher-233",
+ "type": "news",
+ "headline": "The PSX benchmark KSE-100 index closed 233.55 points (0.14%) higher at 166,419.72 on Friday after range-bound trading.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635189/psx-edges-higher-to-166533-points",
+   "published_at": "2026-10-16T16:57:03+05:00"
+  },
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40444524/psx-kse-100-index-closes-marginally-higher-after-range-bound-trading",
+   "published_at": "2026-10-16T17:41:20+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/8986680c-83d5-4252-a24e-9e40def6b23c/2a0f3609-8fd4-492c-91a8-f20d3c686277/Realistic_documentary_news_photograph_of_a_stock_exchange_tr.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzY3NWE4ZjhjMzM1YjY2OSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjI4MjIzMn0.awii9fXhbPhDg1-75p3XuJOdOEvkCPbfyi0H_tqZH90",
+  "head1": "PSX Closes Higher",
+  "head2_hl": "166,419.72",
+  "head2": "",
+  "kicker": "KSE-100 Up 233.55 Points",
+  "desc": "Selective large-cap buying lifted the index 0.14% on Friday",
+  "source": "Express Tribune",
+  "date": "16 OCT 2026"
+ },
+ "caption": "The PSX benchmark KSE-100 index closed 233.55 points, or 0.14%, higher at 166,419.72 on Friday after range-bound trading, The Express Tribune and Business Recorder reported. Selective buying in large-cap stocks drove the modest gain.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #PakistanEconomy #Pakistan",
+ "tiktok_title": "PSX: KSE-100 closes 233.55 points higher at 166,419.72",
+ "publish": {
+  "slot": "2026-10-16T18:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "none"},
+ "ai_generated": true
+}
