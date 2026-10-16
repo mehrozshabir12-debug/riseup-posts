@@ -1,5 +1,74 @@
 {
  "slot": "2026-10-16T23:00:00+05:00",
- "outcome": "started",
- "run_started_pkt": "2026-10-16T22:47:06+05:00"
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T22:47:06+05:00",
+ "run_finished_pkt": "2026-10-16T22:56:53+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "8h",
+ "story": {
+  "headline": "Pakistan's Foreign Office rejected Indian Defence Minister Rajnath Singh's remarks as provocative and warned that any aggression would meet a forceful response.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/686828-pakistan-warns-india-of-forceful-response-over-ministers-provocative-remarks",
+    "published_at": "2026-10-16T15:49:00+05:00"
+   },
+   {
+    "outlet": "Radio Pakistan (radio.gov.pk, official)",
+    "url": "https://www.radio.gov.pk/16-10-2026/pakistan-warns-india-against-any-misadventure",
+    "published_at": "2026-10-16 (date only)"
+   }
+  ]
+ },
+ "request_id": "2026-10-16-fo-warns-india-rajnath-remarks",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-fo-warns-india-rajnath-remarks.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 397997416,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1387124399173121641",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 397997436,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6020023085733295740",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 16 Oct 22:00-17 Oct 00:00, then 14 Oct 22:00 - 17 Oct 11:00 in 6h windows, all OK. Slot 23:00 free. RiseUp day 16 Oct before this post: 7 news feed posts, 7 with TikTok (this is the 8th TikTok; cap now reached for the day).",
+  "previous_slot_check": "22:00 feed 397945096 PUBLISHED on facebook/instagram/tiktok; 22:05 story 397945130 PUBLISHED on facebook/instagram. No retries needed.",
+  "news_search": "Dawn latest pages served stale cached copies (newest 07:49). Geo Pakistan category scanned; FO weekly briefing reply to Rajnath Singh (Geo 15:49 PKT) was the newest suitable story not already posted; nothing fresher verifiable found in the time available.",
+  "verification": "Geo News article meta published 2026-10-16T15:49:00+05:00, modified 15:55:17: FO spokesperson Sajjad Haider Khan rejected Rajnath Singh's remarks, restraint not weakness, aggression would meet forceful response. Radio Pakistan (official *.gov.pk) dated 16 Oct 2026 reports the same statement and quotes.",
+  "image": "Runway nano-banana-2-lite 4:3, task 9d2a650a-4fe2-4d5b-a579-88e17b7c20a9: press briefing room with anonymous journalists and a Pakistani flag; no text, logos or public figures. Credits remaining after: 48 (low-credit warning).",
+  "publish": "Render finished 22:55 (awaiting_publish). Feed and story cards viewed: all text, source and date correct. Feed 397997416 at 23:01, Story 397997436 at 23:06 (payload times). getScheduledPosts 22:55-23:10 confirms both, all providers PENDING, media re-hosted by Metricool from the raw.githubusercontent cards."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Families of children killed in Peshawar school roof collapse demand justice",
+   "reason": "story centres on minors' deaths"
+  },
+  {
+   "headline": "PM's aide links lifting of KP emergency to PTI",
+   "reason": "one-sided political statement"
+  }
+ ],
+ "errors": [
+  "add_repo tool not found via ToolSearch; repo was already in session scope and cloned.",
+  "WebFetch https://tribune.com.pk/latest: PROVENANCE_REQUIRED (permission request not answered in time).",
+  "Runway: lowCredits true, creditsRemaining 48 (free plan)."
+ ]
 }
