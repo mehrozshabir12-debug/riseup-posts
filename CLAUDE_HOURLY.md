@@ -1,0 +1,170 @@
+RISEUP PAKISTAN — HOURLY RUNBOOK FOR CLAUDE (Runway photo version, 16 Oct 2026)
+==============================================================================
+Claude's scheduled task runs this at HH:45 PKT (09:45 ... 23:45). One verified story per slot.
+Photo: Runway API (GitHub secret RUNWAY_API_KEY) via card.photo_prompt. Design: GitHub renders the approved
+card. Publishing: Claude's Metricool connector. Accuracy first; if any step fails, SKIP and REPORT.
+
+Repo: mehrozshabir12-debug/riseup-posts (main). Metricool blogId 7305396, Asia/Karachi.
+Never touch template/, automation/, .github/. Never edit/delete posts you did not create in this run;
+never touch drafts you did not create. Never read or send the owner's e-mails.
+
+0. TIME — DO THIS FIRST, EVERY RUN
+----------------------------------
+- Get the real current time and convert it to Pakistan time (PKT = UTC+05:00). Call it NOW.
+- TARGET SLOT T = the next whole hour after NOW that is one of:
+  10:00 11:00 12:00 13:00 14:00 15:00 16:00 17:00 18:00 19:00 20:00 21:00 22:00 23:00 00:00
+  (between 00:01 and 09:59 the next slot is 10:00).
+- The 23:45 run prepares 00:00 of the NEXT calendar date. That 00:00 post still belongs to the RiseUp day that
+  started at 10:00 the day before. RISEUP DAY D = slots 10:00 D ... 23:00 D + 00:00 of D+1.
+  All daily counts (15 news, 8 TikTok) are per RiseUp day, never per calendar date.
+- RUN LOG path: runs/<calendar date of T>T<HHMM of T>.json. Examples: slot 15:00 on 14 Oct =
+  runs/2026-10-14T1500.json; slot 00:00 closing 14 Oct = runs/2026-10-15T0000.json.
+- Immediately commit the run log with {"slot": "<T ISO +05:00>", "outcome": "started",
+  "run_started_pkt": "<NOW ISO>"}. You overwrite it at the end (section 7).
+- Publication time: T itself. Never schedule anything in the past or less than 5 minutes from NOW.
+  If NOW is already later than T−5 min, the post may go at NOW+5 min, but only until T+15 min;
+  after that the slot is MISSED: outcome "skipped_slot_missed", stop.
+
+
+1. CHECK METRICOOL BEFORE ANYTHING ELSE
+---------------------------------------
+- getBrandSettings once: confirm blogId 7305396, timezone Asia/Karachi and that Facebook, Instagram and TikTok
+  are connected. If a network is missing, write it in the run log errors.
+- getScheduledPosts for blogId 7305396, timezone Asia/Karachi, extendedRange FALSE, in SIX-HOUR windows
+  (one call per window; a single big range exceeds the tool's size limit and fails):
+  first T−1h..T+1h (slot check + previous slot), then the windows covering NOW−48 h .. NOW+12 h.
+  If a window still says the result is too large, split that window in half and retry it.
+  The duplicate check is complete only when every window succeeded; if any window keeps failing,
+  outcome "error_metricool_history_incomplete" and stop (never post without a full duplicate check).
+  From it note:
+  a) whether a NON-Story post already exists at T (any creator, drafts included — but ignore posts whose text
+     starts with "RISEUP PHOTO HOLDER"). If yes ->
+     outcome "skipped_slot_taken", stop. One story per slot, never two.
+  b) the stories of the last 48 h, to avoid duplicates (same event = duplicate, even from another outlet or with
+     a new angle, unless there is a genuinely new development).
+  c) today's counts for this RiseUp day: news feed posts (max 15) and posts that include TikTok (max 8).
+     Drafts do not count.
+  d) the PREVIOUS slot's posts (feed post at T−1 h and its Story at T−55 min): read each network's status.
+     If a network shows ERROR, follow section 6. Record what you saw in the run log ("previous_slot_check").
+
+
+2. FIND THE NEWS (web search, every run)
+---------------------------------------
+- Pakistan news, or world news that directly affects Pakistan (prices, fuel, Pakistanis abroad, cricket ...).
+- FRESHNESS (owner's rule, 15 Oct 2026): the NEWEST suitable story wins. Search in widening windows before T and
+  take the first window that has a story passing every other rule:
+    1) published or substantively updated within 2 hours before T  (best)
+    2) otherwise within 3 hours, then 4 hours, then 6 hours
+    3) otherwise within 8 hours before T                           (maximum — never older)
+  "Substantively updated" = new facts/figures, not a re-headline or minor edit. Within a window, pick the most
+  important story for ordinary people. The story must still be new to our page (duplicate check, section 1b).
+  Write the window used in the run log ("freshness_window": "2h" / "3h" / "4h" / "6h" / "8h").
+  A timestamp later than NOW is impossible: re-check the time zone.
+- Open the article itself and read its own published/updated timestamp (meta or byline). Convert it to PKT.
+  Do NOT use search-snippet dates, "2 hours ago" labels or crawl dates. If you cannot establish the exact
+  timestamp, the source does not count.
+- VERIFICATION: either
+  (a) 2 articles from 2 DIFFERENT approved outlets, both reporting the same facts, or
+  (b) 1 official primary source (a *.gov.pk site, SBP, ISPR, PBS, OGRA, NEPRA, PTA, NADRA, FBR, ECP, PSX, PMD,
+      NDMA, PCB).
+  Approved outlets: Dawn (dawn.com), Express Tribune (tribune.com.pk), Geo News (geo.tv), The News
+  (thenews.com.pk), Business Recorder (brecorder.com), APP (app.com.pk), PTV News (ptv.com.pk),
+  BBC (bbc.com / bbc.co.uk), Reuters (reuters.com), AP (apnews.com), Al Jazeera (aljazeera.com),
+  Arab News (arabnews.pk / arabnews.com). Any other website does not count.
+  A wire story re-published by an outlet (e.g. "Express Tribune (Reuters)") is ONE source, not two.
+  TIMESTAMPS — what is required where (clarified 15 Oct 2026):
+  - The MAIN source (the one that makes the story fresh) needs its exact published/updated time from the
+    article itself. Its date goes on the card.
+  - The CONFIRMING source only has to report the same event with the same key facts (names, figures, place),
+    published on the same day or later. Its exact minute is NOT required; its date is enough.
+  - An official notification / press release that shows a date but no time counts as the official primary
+    source when its date is today (PKT); a news article with an exact time then serves as the main source
+    for freshness. If no article has an exact time, use the official item's date and the 8-hour rule cannot
+    be proven -> do not use it.
+- Cross-check every name, number, place, price and date between the sources before designing anything.
+- Skip: rumours, "sources say", unconfirmed casualty figures, graphic violence, private individuals, stories about
+  minors, one-sided political attacks. Politics: neutral and factual.
+- Prefer stories that matter to ordinary people: prices, fuel, electricity, jobs, education, weather, health,
+  cricket, economy, technology, major national decisions.
+- A slot is skipped only when NOTHING from the last 8 hours passes all rules (verified, not a duplicate, safe).
+  Then outcome "skipped_no_fresh_verified_news", list the best rejected candidates
+  and why in the run log, stop. Never post old news to fill a slot. A skip is a correct result.
+
+
+3. CARD TEXT, PHOTO PROMPT AND CAPTION
+-------------------------------------
+Card text (only sourced facts): head1 (2-4 words, max 30), head2_hl (yellow box, 1-3 words, max 24),
+head2 (0-2 words), kicker (3-5 words, max 40), desc (one sentence, max 12 words), source (outlet),
+date ("DD MON YYYY" = earliest source's PKT publication date).
+photo_prompt (20-700 characters): describe ONE realistic scene of the story in plain words — place, objects,
+anonymous ordinary people, light. No real identifiable people (politicians, officials, celebrities, athletes),
+no brand logos unless the story is about that company, no violence/injury/weapons, no text or signs.
+GitHub adds "no text, no logos, photorealistic documentary" automatically.
+Caption: 2-3 short English sentences naming the outlet; blank line; "Image: AI-generated illustration.";
+blank line; exactly 5 hashtags including #RiseUpPakistan. No links. tiktok_title max 90 characters.
+
+
+4. REQUEST
+----------
+Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id; never reuse an id):
+{"id": "...", "type": "news", "headline": "<one full factual sentence>", "language": "English",
+ "sources": [{"outlet": "...", "url": "https://...", "published_at": "<ISO +05:00>"}, ...],
+ "card": {"photo_prompt": "...", "head1": "...", "head2_hl": "...", "head2": "...", "kicker": "...",
+          "desc": "...", "source": "...", "date": "DD MON YYYY"},
+ "caption": "...", "tiktok_title": "...",
+ "publish": {"slot": "<T ISO +05:00>", "networks": ["facebook", "instagram", "tiktok"], "stories": true,
+             "dry_run": <true in TEST MODE>},
+ "reel": {"type": "none"}, "ai_generated": true}
+
+
+5. WAIT, CHECK, PUBLISH
+-----------------------
+- Poll results/<id>.json on main every 60 s, up to 10 min (git pull or gh api).
+  rejected/failed -> copy errors to the run log (outcome error_rejected / error_render_failed). A Runway refusal
+  ("Runway task FAILED ...") may be retried ONCE with a simpler, wider scene in a NEW request id. Then stop.
+- awaiting_publish / dry_run_ready -> download results.media.feed and LOOK at it: every word, figure, date and
+  source correct; photo realistic with no text, logos or identifiable public figures; no distortions.
+  Anything wrong -> do not publish, outcome error_card_check.
+- Feed: createScheduledPost(blogId "7305396", date = payloads.feed.publicationDate.dateTime + "+05:00",
+  info = payloads.feed exactly). Story: same with payloads.story. TEST MODE: add "draft": true to both.
+- getScheduledPosts T-5 min..T+10 min: both posts exist, providers PENDING, media = raw.githubusercontent card.
+- Commit receipts/<id>.json {"id", "scheduled", "posts": {"feed": {"metricool_id", "status"}, "story": {...}}}
+  with the real statuses only.
+
+
+6. VERIFY AND RETRY (at the start of each run, for the previous slot)
+--------------------------------------------------------------------
+- PUBLISHED: note the publicUrl in the run log.
+- ERROR: retry ONCE now, at most 2 retries in total per network: createScheduledPost with the same image and
+  text, providers = ONLY the failed networks (keep only those networks' data), time = NOW+5 min.
+  Never re-post a network that is PUBLISHED or PENDING (that creates a duplicate).
+  Instagram Story "The media is not ready for publishing, please wait for a moment" is an Instagram processing
+  delay: the retry at NOW+5 min is the fix. TikTok error 40016 (daily limit) = no more TikTok that RiseUp day.
+  To reuse the image for a retry, use the link from the original post's "media".
+
+
+7. FINISH: OVERWRITE THE RUN LOG (every run, including skips)
+---------------------------------------------------------------
+Commit runs/<...>.json (same path as section 0):
+{"slot": "...", "riseup_day": "YYYY-MM-DD", "run_started_pkt": "...", "run_finished_pkt": "...",
+ "test_mode": true|false,
+ "outcome": "scheduled | scheduled_as_draft | skipped_no_fresh_verified_news | skipped_slot_taken |
+             skipped_slot_missed | skipped_daily_cap | error_<short reason>",
+ "story": {"headline": "...", "sources": [{"outlet": "...", "url": "...", "published_at": "<ISO +05:00>"}]},
+ "request_id": "...", "photo_holder_id": 0, "card_url": "<results.media.feed>",
+ "image_attempts": [{"attempt": 1, "result": "ok | text in photo | refused: <message>"}],
+ "metricool": {"feed": {"id": 0, "plannerUrl": "...", "networks": {"facebook": "PENDING", "instagram": "PENDING", "tiktok": "PENDING"}},
+               "story": {"id": 0, "plannerUrl": "...", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}},
+ "stages": {"metricool_read": "...", "previous_slot_check": "...", "news_search": "...", "verification": "...",
+            "image": "...", "publish": "..."},
+ "skipped_candidates": [{"headline": "...", "reason": "..."}],
+ "errors": ["exact error text from any tool call"]}
+If a tool (web search, image generation, GitHub, Metricool) is not available or returns an error, write outcome
+"error_tool_unavailable: <tool>" with the exact message. A GitHub watchdog fails at HH:55 when this file is missing
+or still says "started", and GitHub e-mails the owner.
+Do not message the owner for routine success. Do message on any outcome starting with "error".
+
+
+7. RUN LOG — runs/<date of T>T<HHMM>.json, "started" first, final outcome at the end (same fields as before:
+slot, riseup_day, outcome, freshness_window, story, request_id, metricool ids/statuses, stages, skipped_candidates,
+errors). The :55 watchdog fails if it is missing or still "started".

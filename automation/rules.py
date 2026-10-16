@@ -85,7 +85,13 @@ def validate(req, filename):
     if not isinstance(card, dict):
         E.append("card object is required"); card = {}
     photo_url = _s(card.get("photo_url")).strip()
-    if photo_url:
+    photo_prompt = _s(card.get("photo_prompt")).strip()
+    if photo_prompt:
+        if not 20 <= len(photo_prompt) <= 700:
+            E.append("card.photo_prompt must be 20-700 characters describing the photo scene")
+        if photo_url:
+            E.append("use card.photo_prompt OR card.photo_url, not both")
+    elif photo_url:
         pu = urlparse(photo_url)
         if pu.scheme != "https" or pu.hostname not in PHOTO_HOSTS:
             E.append("card.photo_url must be the https link Metricool returned (static.metricool.com/...)")
@@ -161,7 +167,8 @@ def validate(req, filename):
             E.append(f"caption must name the source outlet '{card.get('source')}'")
         if re.search(r"https?://", cap):
             E.append("caption must not contain links")
-        if isinstance(card, dict) and card.get("photo_url") and "ai-generated" not in cap.lower():
+        if isinstance(card, dict) and (card.get("photo_url") or card.get("photo_prompt")) \
+                and "ai-generated" not in cap.lower():
             E.append("caption must contain the line 'Image: AI-generated illustration.' (AI photo used)")
         if "ghibli" in cap.lower():
             E.append("never mention Ghibli")

@@ -104,7 +104,18 @@ def render_one(path, rid, req):
     shutil.rmtree(work, ignore_errors=True); os.makedirs(work)
     card = dict(req["card"]); card["style"] = "bold"
     card.pop("photo", None)
-    if card.get("photo_url"):
+    if card.get("photo_prompt"):
+        import runway
+        try:
+            raw = os.path.join(work, f"{rid}-photo.raw")
+            render_info["photo"] = runway.generate(card.pop("photo_prompt"), raw)
+            from PIL import Image
+            Image.open(raw).convert("RGB").save(os.path.join(work, f"{rid}-photo.jpg"), quality=95)
+            os.remove(raw)
+            card["photo"] = os.path.join(work, f"{rid}-photo.jpg")
+        except Exception as e:
+            return {"status": "failed", "errors": [f"Runway photo failed: {e}"]}
+    elif card.get("photo_url"):
         try:
             card["photo"] = fetch_photo(card.pop("photo_url"), os.path.join(work, f"{rid}-photo.jpg"))
         except Exception as e:

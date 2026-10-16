@@ -37,7 +37,7 @@ def build(req, media, slot, allow_tiktok):
     title = req.get("tiktok_title") or req["card"]["head1"]
     ai = req.get("ai_generated")
     if ai is None:
-        ai = kind == "narrated" or bool((req.get("card") or {}).get("photo_url"))   # TTS voice or AI photo
+        ai = kind == "narrated" or bool((req.get("card") or {}).get("photo_url") or (req.get("card") or {}).get("photo_prompt"))   # TTS voice or AI photo
     music = req.get("music") or {}
     out = {}
 

@@ -144,6 +144,40 @@ class Rules(unittest.TestCase):
         self.assertEqual(common.entry_day({"scheduled": "2026-10-14 13:04 PKT"}), "2026-10-14")
 
 
+class Runway(unittest.TestCase):
+    def test_generate_polls_and_saves(self):
+        import runway, tempfile, io
+        os.environ["RUNWAY_API_KEY"] = "test-key"
+        calls = []
+        def fake_call(method, path, body=None, timeout=60):
+            calls.append((method, path, body))
+            if method == "POST":
+                return 200, {"id": "task1"}
+            return 200, ({"status": "RUNNING"} if len(calls) < 3 else {"status": "SUCCEEDED", "output": ["https://x/img.png"]})
+        class R(io.BytesIO):
+            def __enter__(self): return self
+            def __exit__(self, *a): return False
+        orig_call, orig_open, orig_sleep = runway._call, runway.urllib.request.urlopen, runway.time.sleep
+        runway._call = fake_call; runway.urllib.request.urlopen = lambda *a, **k: R(b"PNGDATA"); runway.time.sleep = lambda s: None
+        try:
+            dst = os.path.join(tempfile.mkdtemp(), "p.raw")
+            info = runway.generate("Busy Karachi petrol station at sunset, motorbikes queueing", dst)
+            self.assertEqual(open(dst, "rb").read(), b"PNGDATA")
+            self.assertEqual(info["task_id"], "task1")
+            self.assertEqual(calls[0][1], "/text_to_image")
+            self.assertIn("no text", calls[0][2]["promptText"].lower())
+            self.assertEqual(calls[0][2]["model"], "gen4_image")
+        finally:
+            runway._call, runway.urllib.request.urlopen, runway.time.sleep = orig_call, orig_open, orig_sleep
+            os.environ.pop("RUNWAY_API_KEY", None)
+
+    def test_missing_key(self):
+        import runway
+        os.environ.pop("RUNWAY_API_KEY", None)
+        with self.assertRaises(RuntimeError):
+            runway.generate("Busy Karachi petrol station at sunset", "/tmp/x")
+
+
 class Payloads(unittest.TestCase):
     def test_feed_and_story(self):
         media = {"feed": "https://raw.githubusercontent.com/x/y/main/posts/a.jpg",
