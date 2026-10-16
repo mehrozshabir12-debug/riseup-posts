@@ -1,1 +1,33 @@
-{"slot": "2026-10-16T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-16T18:47:20+05:00"}
+{
+ "slot": "2026-10-16T19:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T18:47:20+05:00",
+ "run_finished_pkt": "2026-10-16T18:55:42+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi; facebook, instagram, tiktok connected. Windows 18:00-20:00 and 14 Oct 18:00 - 17 Oct 07:00 (6h each) all read OK. Slot 19:00 free. Today's RiseUp-day counts: 5 news feed posts (14:00-18:00) + owner extra at 18:20; 6 with TikTok. Caps not reached.",
+  "previous_slot_check": "18:03 feed 397733502 PUBLISHED on facebook (https://facebook.com/122185478282855502/posts/122186597678855502), instagram (https://www.instagram.com/p/DejmWuQjtyS/), tiktok (https://www.tiktok.com/@riseuppakistan2025/video/7697251045868719380); 18:08 story 397733539 PUBLISHED on facebook (https://facebook.com/122185478282855502/posts/2594700270973882) and instagram (https://www.instagram.com/stories/riseuppakistann/4009218480826034847). Owner extra 18:20/18:25 also PUBLISHED. No retries needed.",
+  "news_search": "2h window: best candidate SBP September current account deficit (Business Recorder, published 17:13 PKT, updated 17:20 PKT).",
+  "verification": "Failed: only Business Recorder among approved outlets reported the September figures. Other reports were Aaj, ProPakistani, TechJuice, 24NewsHD, Bloom Pakistan (not approved). SBP BPM6 PDF fetched still showed August 2026 as latest month (SBP primary not confirmable). Not enough time left before T+15 to keep searching and render.",
+  "image": "Not generated (no verified story; no credits spent).",
+  "publish": "Nothing scheduled."
+ },
+ "skipped_candidates": [
+  {"headline": "Pakistan posts $356mn current account deficit in September 2026 (Business Recorder 17:13 PKT)", "reason": "Only one approved outlet; no second approved outlet or readable SBP primary source with September data"},
+  {"headline": "2 children among 8 killed in separate road accidents in K-P (Express Tribune)", "reason": "Tragedy involving minors"},
+  {"headline": "Pakistan condemns Indian defence minister's remarks threatening military aggression (Express Tribune)", "reason": "Tense military rhetoric; skipped in previous slots too"},
+  {"headline": "PM Shehbaz reaffirms support for Saudi Arabia; Pakistan to chair IMF/WB boards; England arrive for tri-series", "reason": "Duplicates of posts already published today"}
+ ],
+ "errors": [
+  "WebSearch with allowed_domains: PROXY_REJECTED (HTTP 400): The request was invalid",
+  "WebFetch https://tribune.com.pk/latest: PROVENANCE_REQUIRED - permission request not answered in time and withdrawn",
+  "curl https://www.sbp.org.pk/assets/document/Balancepayment_BPM6.pdf: CONNECT tunnel failed, response 403"
+ ]
+}
