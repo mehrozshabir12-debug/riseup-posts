@@ -2393,5 +2393,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "2026-10-17T00:00:00+05:00",
+  "request_id": "2026-10-16-spi-inflation-1138-yoy",
+  "layout": "bold",
+  "headline": "Pakistan's weekly SPI inflation stood at 11.38% year-on-year in the week ending October 15, while the index fell 0.04% week-on-week, Pakistan Bureau of Statistics data showed.",
+  "source_outlet": "APP",
+  "source": "https://www.app.com.pk/business/weekly-inflation-decreases-0-04pc/",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/business/weekly-inflation-decreases-0-04pc/",
+    "published_at": "2026-10-16T20:19:55+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037605/short-term-inflation-surges-to-1138pc-due-to-costly-food",
+    "published_at": "2026-10-16T18:18:03+05:00"
+   }
+  ],
+  "published": "2026-10-16T20:19:55+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 851499462,
+  "image": "posts/2026-10-16-spi-inflation-1138-yoy.jpg",
+  "story": "posts/2026-10-16-spi-inflation-1138-yoy-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 00:00 PKT",
+  "music": "Autumn Journey - Andrea Vanzo",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-16-spi-inflation-1138-yoy.mp4"
  }
 ]

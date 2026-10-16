@@ -1,0 +1,139 @@
+{
+ "id": "2026-10-16-spi-inflation-1138-yoy",
+ "revision": 1,
+ "request": "requests/2026-10-16-spi-inflation-1138-yoy.json",
+ "type": "news",
+ "headline": "Pakistan's weekly SPI inflation stood at 11.38% year-on-year in the week ending October 15, while the index fell 0.04% week-on-week, Pakistan Bureau of Statistics data showed.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-17T00:00:00+05:00",
+ "target_slot": "2026-10-17T00:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-spi-inflation-1138-yoy.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-spi-inflation-1138-yoy-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-spi-inflation-1138-yoy.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-16-spi-inflation-1138-yoy.jpg",
+  "story": "posts/2026-10-16-spi-inflation-1138-yoy-story.jpg",
+  "reel": "posts/2026-10-16-spi-inflation-1138-yoy.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 851499462,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-17T00:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Short-term inflation measured by the weekly SPI stood at 11.38% year-on-year in the week ending October 15, APP and Dawn reported, citing Pakistan Bureau of Statistics data. Prices fell 0.04% from the previous week as tomatoes dropped 23.05%, while wheat flour rose 3.36% and chicken 3.31%.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Inflation #SPI #PakistanEconomy #Pakistan",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-spi-inflation-1138-yoy.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-17T00:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Short-term inflation measured by the weekly SPI stood at 11.38% year-on-year in the week ending October 15, APP and Dawn reported, citing Pakistan Bureau of Statistics data. Prices fell 0.04% from the previous week as tomatoes dropped 23.05%, while wheat flour rose 3.36% and chicken 3.31%.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Inflation #SPI #PakistanEconomy #Pakistan",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-spi-inflation-1138-yoy.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-spi-inflation-1138-yoy-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "Autumn Journey Andrea Vanzo",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-17T00:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-spi-inflation-1138-yoy-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-16T23:49:26+05:00"
+}
