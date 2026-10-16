@@ -1,0 +1,114 @@
+{
+ "id": "2026-10-16-current-account-deficit-sept-r2",
+ "revision": 1,
+ "request": "requests/2026-10-16-current-account-deficit-sept-r2.json",
+ "type": "news",
+ "headline": "Pakistan posted a current account deficit of $356 million in September 2026, against a $133 million surplus in September 2025, according to State Bank of Pakistan data.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-16T22:00:00+05:00",
+ "target_slot": "2026-10-16T22:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-current-account-deficit-sept-r2.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-current-account-deficit-sept-r2-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-16-current-account-deficit-sept-r2.jpg",
+  "story": "posts/2026-10-16-current-account-deficit-sept-r2-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 580530469,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan posted a current account deficit of $356 million in September 2026, compared with a surplus of $133 million a year earlier, Arab News and Business Recorder reported, citing State Bank data. The deficit for July-September reached $874 million, Business Recorder said.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #CurrentAccount #PakistanEconomy #Pakistan",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-current-account-deficit-sept-r2.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan posts $356 million current account deficit in September 2026",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-current-account-deficit-sept-r2-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-16T21:54:02+05:00"
+}

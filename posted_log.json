@@ -2297,5 +2297,39 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "2026-10-16T22:00:00+05:00",
+  "request_id": "2026-10-16-current-account-deficit-sept-r2",
+  "layout": "bold",
+  "headline": "Pakistan posted a current account deficit of $356 million in September 2026, against a $133 million surplus in September 2025, according to State Bank of Pakistan data.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistans-current-account-deficit-widens-nearly-fivefold-in-september-3004371",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-current-account-deficit-widens-nearly-fivefold-in-september-3004371",
+    "published_at": "2026-10-16T20:43:00+05:00"
+   },
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40444553/pakistan-posts-356mn-current-account-deficit-in-sept-2026",
+    "published_at": "2026-10-16T17:49:00+05:00"
+   }
+  ],
+  "published": "2026-10-16T20:43:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 580530469,
+  "image": "posts/2026-10-16-current-account-deficit-sept-r2.jpg",
+  "story": "posts/2026-10-16-current-account-deficit-sept-r2-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-10-16 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
