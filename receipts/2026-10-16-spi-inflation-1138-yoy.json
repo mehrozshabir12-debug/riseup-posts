@@ -1,0 +1,29 @@
+{
+ "id": "2026-10-16-spi-inflation-1138-yoy",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 398038834,
+   "status": {
+    "facebook": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2237356124317499599"
+  },
+  "reel": {
+   "metricool_id": 398039074,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4893168571223393122",
+   "note": "originally 398038893; updated to remove original_sound audio"
+  },
+  "story": {
+   "metricool_id": 398038904,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-264354299374779552"
+  }
+ }
+}

@@ -1,1 +1,80 @@
-{"slot": "2026-10-17T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-16T23:46:03+05:00"}
+{
+ "slot": "2026-10-17T00:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T23:46:03+05:00",
+ "run_finished_pkt": "2026-10-16T23:51:36+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Pakistan's weekly SPI inflation stood at 11.38% year-on-year in the week ending October 15, while the index fell 0.04% week-on-week, Pakistan Bureau of Statistics data showed.",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/business/weekly-inflation-decreases-0-04pc/",
+    "published_at": "2026-10-16T20:19:55+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037605/short-term-inflation-surges-to-1138pc-due-to-costly-food",
+    "published_at": "2026-10-16T18:18:03+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-16-spi-inflation-1138-yoy",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-spi-inflation-1138-yoy.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398038834,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2237356124317499599",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398039074,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4893168571223393122",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398038904,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-264354299374779552",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 16 Oct 23:00-17 Oct 01:00, then 14 Oct 23:45 - 17 Oct 11:50 in 6h windows, all OK. Slot 00:00 free. RiseUp day 16 Oct: 8 news feed posts before this one, 8 with TikTok -> TikTok cap reached, so this post is Facebook + Instagram only.",
+  "previous_slot_check": "23:01 feed 397997416 PUBLISHED on facebook/instagram/tiktok; 23:06 story 397997436 PUBLISHED on facebook/instagram. No retries needed.",
+  "news_search": "Dawn latest list scanned; weekly SPI (PBS, released Friday) is the newest suitable story not yet posted: APP 20:19 PKT. A further search for later stories failed (WebSearch proxy HTTP 400). Other Dawn items were political (KP governor remarks, court walk-out) or already posted.",
+  "verification": "APP article 2026-10-16T20:19:55+05:00 and Dawn (Mubarak Zeb Khan) 2026-10-16T18:18:03+05:00 both: SPI +11.38% YoY, -0.04% WoW, week ending 15 Oct, 51 items (23 up, 7 down, 21 stable), tomatoes -23.05%, wheat flour +3.36%, chicken +3.31%.",
+  "image": "Runway nano-banana-2-lite 4:3, task a8733e74-ca07-46a8-90a6-ea24a64c7439: market stall with tomatoes, onions, flour sacks, anonymous shopper and vendor; no text/logos/public figures. Credits remaining after: 44 (low-credit warning).",
+  "publish": "Render awaiting_publish 23:49. Feed card and zoom Reel (8 s, 1080x1920) viewed: all text, figures, source and date correct. Feed 398038834 (FB) 00:00, Reel 398038893 (IG) 00:00, Story 398038904 (FB+IG) 00:05. Reel audio 'Autumn Journey Andrea Vanzo' resolved to original_sound (igUsername andorralovers) -> one fix attempt with 'October Adrián Berenguer' was rejected (multiple matches; all Berenguer candidates original_sound, only 'music' candidate was 'A Little Love Song' by Alex Blue, mood unsuitable for inflation news) -> Reel updated with no audioConfiguration (new id 398039074). getScheduledPosts 23:55-00:10 confirms feed, Reel, Story all PENDING, media re-hosted by Metricool from raw.githubusercontent card/MP4."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Naqvi: political party head upset over not being appointed KP governor (Dawn)",
+   "reason": "one-sided political statement"
+  },
+  {
+   "headline": "Imaan, Hadi walk out of proceedings over jail trial (Dawn)",
+   "reason": "political court case, not for ordinary-people feed"
+  }
+ ],
+ "errors": [
+  "Metricool audio: 'Autumn Journey Andrea Vanzo' resolved to audioType original_sound (igUsername andorralovers)",
+  "Metricool updateScheduledPost: Instagram audio 'October Adrián Berenguer' had multiple matches (candidates all original_sound except 614418411270205 A Little Love Song - Alex Blue)",
+  "WebSearch: The WebSearch proxy rejected the request (HTTP 400): The request was invalid"
+ ]
+}
