@@ -2345,5 +2345,39 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "2026-10-16T23:00:00+05:00",
+  "request_id": "2026-10-16-fo-warns-india-rajnath-remarks",
+  "layout": "bold",
+  "headline": "Pakistan's Foreign Office rejected Indian Defence Minister Rajnath Singh's remarks as provocative and warned that any aggression would meet a forceful response.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/686828-pakistan-warns-india-of-forceful-response-over-ministers-provocative-remarks",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/686828-pakistan-warns-india-of-forceful-response-over-ministers-provocative-remarks",
+    "published_at": "2026-10-16T15:49:00+05:00"
+   },
+   {
+    "outlet": "Radio Pakistan",
+    "url": "https://www.radio.gov.pk/16-10-2026/pakistan-warns-india-against-any-misadventure",
+    "published_at": "2026-10-16T00:00:00+05:00"
+   }
+  ],
+  "published": "2026-10-16T15:49:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 580635865,
+  "image": "posts/2026-10-16-fo-warns-india-rajnath-remarks.jpg",
+  "story": "posts/2026-10-16-fo-warns-india-rajnath-remarks-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-10-16 23:01 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
