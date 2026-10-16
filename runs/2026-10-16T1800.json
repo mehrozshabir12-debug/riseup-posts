@@ -1,5 +1,81 @@
 {
  "slot": "2026-10-16T18:00:00+05:00",
- "outcome": "started",
- "run_started_pkt": "2026-10-16T17:47:46+05:00"
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T17:47:46+05:00",
+ "run_finished_pkt": "2026-10-16T17:57:53+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The PSX benchmark KSE-100 index closed 233.55 points (0.14%) higher at 166,419.72 on Friday after range-bound trading.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2635189/psx-edges-higher-to-166533-points",
+    "published_at": "2026-10-16T16:57:03+05:00"
+   },
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40444524/psx-kse-100-index-closes-marginally-higher-after-range-bound-trading",
+    "published_at": "2026-10-16T17:41:20+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-16-psx-kse100-closes-higher-233",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-psx-kse100-closes-higher-233.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "task_id": "8986680c-83d5-4252-a24e-9e40def6b23c",
+   "model": "nano-banana-2-lite",
+   "credits_remaining_at_submit": 56
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 397733502,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5280004027409937780",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 397733539,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2090592566603302642",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi; facebook, instagram, tiktok connected. Windows 17:00-19:00 and 14 Oct 17:00 - 17 Oct 06:00 (6h each) all read OK. Slot 18:00 free (owner's extra England-arrival post is at 18:20, story 18:25). Today's counts before this post: 4 news feed posts + owner extra at 18:20; 4-5 TikTok.",
+  "previous_slot_check": "17:00 feed 397680951 PUBLISHED on facebook (https://facebook.com/122185478282855502/posts/122186589974855502), instagram (https://www.instagram.com/p/DejfWP_D0je/), tiktok (https://www.tiktok.com/@riseuppakistan2025/video/7697235245753519381); 17:05 story 397680980 PUBLISHED on facebook (https://facebook.com/122185478282855502/posts/1053764977641586) and instagram (https://www.instagram.com/stories/riseuppakistann/4009186815817864194). No retries needed.",
+  "news_search": "2h window (16:00-18:00 PKT): Express Tribune 16:57 PKT on PSX Friday close. Chosen as newest safe verified story.",
+  "verification": "Express Tribune (meta 11:57 UTC = 16:57 PKT) and Business Recorder (updated 17:41 PKT) agree: KSE-100 closed at 166,419.72, up 233.55 points (0.14%). Not a duplicate: last PSX post was Wednesday 14 Oct early trade.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt: trading floor with anonymous traders, abstract charts, no readable text or logos.",
+  "publish": "Feed and story cards checked visually. NOW was 17:57 (> T-5), so posts set to 18:03 / 18:08 (>= NOW+5, within T+15); payloads otherwise exactly as results. Confirmed PENDING via getScheduledPosts."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Families of children killed in Peshawar school roof collapse demand justice (Geo)",
+   "reason": "Story about minors / tragedy"
+  },
+  {
+   "headline": "Pakistan warns India of forceful response over defence minister's remarks",
+   "reason": "Tense military rhetoric; skipped previous slot too"
+  },
+  {
+   "headline": "PM's aide links lifting of KP emergency measures to PTI",
+   "reason": "One-sided political statement"
+  },
+  {
+   "headline": "England arrive in Pakistan for ODI tri-series",
+   "reason": "Already scheduled by owner as extra post at 18:20 (duplicate)"
+  }
+ ],
+ "errors": []
 }

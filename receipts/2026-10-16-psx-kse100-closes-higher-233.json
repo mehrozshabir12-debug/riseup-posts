@@ -1,0 +1,25 @@
+{
+ "id": "2026-10-16-psx-kse100-closes-higher-233",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 397733502,
+   "status": "PENDING",
+   "publication_pkt": "2026-10-16T18:03:00+05:00",
+   "providers": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 397733539,
+   "status": "PENDING",
+   "publication_pkt": "2026-10-16T18:08:00+05:00",
+   "providers": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
