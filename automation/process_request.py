@@ -91,12 +91,20 @@ def render_one(path, rid, req):
     errs = rules.validate(req, path)
     if errs:
         return {"status": "rejected", "errors": errs}
-    try:
+    if req.get("type") == "test":
+        import slots as _sl
+        target = slot = _sl.next_slot(now_pkt() + dt.timedelta(minutes=5))
+        req.setdefault("publish", {})["dry_run"] = True
+        req.setdefault("caption", "TEST ONLY"); req.setdefault("sources", [{"outlet": "test", "url": "", "published_at": ""}])
+        req.setdefault("headline", "pipeline test"); req.setdefault("language", "English")
+        fresh_notes, age_h, allow_tt, cap_notes, counts = [], 0, False, ["TEST request: never published"], {}
+    else:
+      try:
         target, slot = rules.pick_slot(req)            # target slot (HH:00) and actual publication time
         fresh_notes, age_h = rules.freshness(req, target)
         rules.check_duplicates(req)
         allow_tt, cap_notes, counts = rules.check_caps(req, target)
-    except rules.Reject as e:
+      except rules.Reject as e:
         return {"status": "rejected", "errors": [str(e)]}
     warnings += fresh_notes + cap_notes
 
@@ -243,6 +251,11 @@ def phase_finalize():
     for sp in sorted(glob.glob(os.path.join(WORK, "*.state.json"))):
         st = load_json(sp); rid = st["id"]
         req = load_json(os.path.join(REQUESTS, f"{rid}.json"))
+        if req.get("type") == "test":                 # same defaults as in render_one; never published
+            req.setdefault("publish", {})["dry_run"] = True
+            req.setdefault("caption", "TEST ONLY"); req.setdefault("headline", "pipeline test")
+            req.setdefault("language", "English")
+            req.setdefault("sources", [{"outlet": "test", "url": "", "published_at": ""}])
         urls = {k: raw_url(os.path.join(ROOT, v)) for k, v in st["media"].items() if k != "reel_kind"}
         dead = [u for u in urls.values() if not url_live(u)]
         res = {"id": rid, "revision": st["revision"], "request": f"requests/{rid}.json", "type": req["type"],
@@ -279,7 +292,8 @@ def phase_finalize():
             # test mode: real render + real payloads, but nobody publishes and nothing counts toward caps
             res["status"] = "dry_run_ready"; res["metricool"]["mode"] = "dry_run"
             entry["publish_status"] = "dry_run"
-            append_log(LOG_FOR_TYPE[req["type"]], entry); res["log"] = LOG_FOR_TYPE[req["type"]]
+            if req["type"] != "test":
+                append_log(LOG_FOR_TYPE[req["type"]], entry); res["log"] = LOG_FOR_TYPE[req["type"]]
             write_result(rid, res); os.remove(sp); print(f"== {rid} -> dry_run_ready"); continue
         if metricool_api.available():
             all_ok = True

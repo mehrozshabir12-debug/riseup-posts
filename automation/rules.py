@@ -16,7 +16,7 @@ LANGS = {"Roman Urdu", "English"}
 MOODS = {"day", "sunset", "rain", "night", "spring"}
 
 
-PHOTO_HOSTS = {"static.metricool.com", "raw.githubusercontent.com"}
+PHOTO_HOSTS = {"static.metricool.com", "raw.githubusercontent.com", "dnznrvs05pmza.cloudfront.net"}   # last = Runway outputs
 HOLDER_MARK = "RISEUP PHOTO HOLDER"
 
 
@@ -28,8 +28,26 @@ def _s(x):
     return x if isinstance(x, str) else ""
 
 
+def validate_test(req, filename):
+    """type "test": pipeline check only (photo download + approved render). Never published, never logged."""
+    E = []
+    rid = _s(req.get("id"))
+    if not ID_RE.match(rid) or os.path.splitext(os.path.basename(filename))[0] != rid:
+        E.append("id must look like 2026-10-12-short-slug and equal the file name")
+    card = req.get("card") if isinstance(req.get("card"), dict) else {}
+    u = urlparse(_s(card.get("photo_url")))
+    if card.get("photo_url") and (u.scheme != "https" or u.hostname not in PHOTO_HOSTS):
+        E.append("card.photo_url host not allowed")
+    for k in ("head1", "source", "date"):
+        if not _s(card.get(k)).strip():
+            E.append(f"card.{k} is required")
+    return E
+
+
 def validate(req, filename):
     """Return list of errors (empty = valid)."""
+    if isinstance(req, dict) and req.get("type") == "test":
+        return validate_test(req, filename)
     E = []
     rid = _s(req.get("id"))
     if not ID_RE.match(rid):
