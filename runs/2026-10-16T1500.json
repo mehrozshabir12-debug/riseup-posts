@@ -1,1 +1,75 @@
-{"slot": "2026-10-16T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-16T14:46:29+05:00"}
+{
+ "slot": "2026-10-16T15:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "run_started_pkt": "2026-10-16T14:46:29+05:00",
+ "run_finished_pkt": "2026-10-16T14:51:17+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "3h",
+ "story": {
+  "headline": "Pakistan's Economic Affairs Minister Ahad Khan Cheema was named incoming chair of the Boards of Governors of the IMF and World Bank Group for 2027, Pakistan's first time in the role since 1953.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/686791-pakistan-to-chair-world-bank-imf-boards-in-2027-for-first-time-since-1953",
+    "published_at": "2026-10-16T12:18:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-chairmanship-of-imf-world-bank-boards-in-2027",
+    "published_at": "2026-10-16T11:55:51+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-16-pakistan-chair-imf-wb-boards",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pakistan-chair-imf-wb-boards.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "task_id": "9d6b1898-0b9d-4094-b6fb-600dc65b53eb",
+   "model": "nano-banana-2-lite",
+   "credits_remaining_at_submit": 76
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 397587019,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2605845176372447139",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 397587034,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4960297108327383793",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi; facebook, instagram, tiktok connected. All windows 14 Oct 14:00 - 17 Oct 03:00 read OK. Slot 15:00 free. Today's counts before this post: 1 news feed post, 1 TikTok.",
+  "previous_slot_check": "14:00 feed 397499230 PUBLISHED on facebook (https://facebook.com/122185478282855502/posts/122186574398855502), instagram (https://www.instagram.com/p/DejKuCPj8Ho/), tiktok (https://www.tiktok.com/@riseuppakistan2025/video/7697188793589484821); 14:05 story 397499257 PUBLISHED on facebook and instagram. No retries needed.",
+  "news_search": "Newest qualifying story: Geo News 12:18 PKT (3h window); nothing passing all rules found within 2h.",
+  "verification": "Geo News + Dawn (two approved outlets) agree: Ahad Khan Cheema, chair of IMF/WBG Boards of Governors for 2027, first since 1953, announced at annual meetings in Bangkok. Not a duplicate of last 48h (petrol cut 14 Oct, Pakistan-Oman draft 15 Oct, SBP reserves 16 Oct).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, conference hall with anonymous delegates, no readable text or public figures.",
+  "publish": "Card and story image checked visually; feed + story created in Metricool, confirmed PENDING with getScheduledPosts."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Islamabad H-9 and G-6 weekly bazaars closed over fire safety",
+   "reason": "Only non-approved outlets (Pakistan Observer, 24News, Samaa); first reported 15 Oct"
+  },
+  {
+   "headline": "DPM Dar reviews essential commodity stocks and prices",
+   "reason": "Dawn 11:44 only one approved source found; less fresh than chosen story"
+  }
+ ],
+ "errors": [
+  "WebSearch with allowed_domains filter twice returned: PROXY_REJECTED (HTTP 400): The request was invalid (worked around with unfiltered searches)"
+ ]
+}
