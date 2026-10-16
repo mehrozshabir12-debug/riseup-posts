@@ -2201,5 +2201,39 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "2026-10-16T17:00:00+05:00",
+  "request_id": "2026-10-16-pm-shehbaz-saudi-support-envoy",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif told new Saudi Ambassador Dr Rajeh Tami Albugamy in Islamabad that Pakistan stands shoulder to shoulder with Saudi Arabia in protecting its sovereignty and security, and condemned the recent escalation in Houthi attacks on the kingdom whose victims included Pakistani nationals.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/686827-pakistan-stands-shoulder-to-shoulder-with-saudi-arabia-vows-pm-shehbaz-amid-houthi-attacks",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/686827-pakistan-stands-shoulder-to-shoulder-with-saudi-arabia-vows-pm-shehbaz-amid-houthi-attacks",
+    "published_at": "2026-10-16T16:07:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037578/pm-shehbaz-reaffirms-support-for-saudi-arabia-in-meeting-with-new-envoy",
+    "published_at": "2026-10-16T14:29:06+05:00"
+   }
+  ],
+  "published": "2026-10-16T16:07:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 942448722,
+  "image": "posts/2026-10-16-pm-shehbaz-saudi-support-envoy.jpg",
+  "story": "posts/2026-10-16-pm-shehbaz-saudi-support-envoy-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-10-16 17:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

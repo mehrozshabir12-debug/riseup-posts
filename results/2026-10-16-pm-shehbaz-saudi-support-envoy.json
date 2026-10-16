@@ -1,0 +1,114 @@
+{
+ "id": "2026-10-16-pm-shehbaz-saudi-support-envoy",
+ "revision": 1,
+ "request": "requests/2026-10-16-pm-shehbaz-saudi-support-envoy.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif told new Saudi Ambassador Dr Rajeh Tami Albugamy in Islamabad that Pakistan stands shoulder to shoulder with Saudi Arabia in protecting its sovereignty and security, and condemned the recent escalation in Houthi attacks on the kingdom whose victims included Pakistani nationals.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-16T17:00:00+05:00",
+ "target_slot": "2026-10-16T17:00:00+05:00",
+ "riseup_day": "2026-10-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pm-shehbaz-saudi-support-envoy.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pm-shehbaz-saudi-support-envoy-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-16-pm-shehbaz-saudi-support-envoy.jpg",
+  "story": "posts/2026-10-16-pm-shehbaz-saudi-support-envoy-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 942448722,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T17:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif said Pakistan stands \"shoulder to shoulder\" with Saudi Arabia in protecting its sovereignty and security, Geo News and Dawn reported. Meeting new Saudi Ambassador Dr Rajeh Tami Albugamy in Islamabad, he condemned the recent escalation in Houthi attacks on the kingdom, whose victims included Pakistani nationals.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #SaudiArabia #PakSaudi #Diplomacy",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pm-shehbaz-saudi-support-envoy.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PM Shehbaz: Pakistan stands shoulder to shoulder with Saudi Arabia",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-16T17:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-16-pm-shehbaz-saudi-support-envoy-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-16T16:53:45+05:00"
+}
