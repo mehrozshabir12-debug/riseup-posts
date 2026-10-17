@@ -1,1 +1,27 @@
-{"slot": "2026-10-17T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T16:47:18+05:00"}
+{
+ "slot": "2026-10-17T17:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T16:47:18+05:00",
+ "run_finished_pkt": "2026-10-17T16:56:25+05:00",
+ "test_mode": false,
+ "outcome": "error_rejected",
+ "freshness_window": "3h",
+ "story": {"headline": "Armed men abducted 20 police recruits of the Kalat Police Training Centre in Balochistan's Mastung district, officials said.",
+  "sources": [{"outlet": "Dawn", "url": "https://www.dawn.com/news/2037816/armed-men-abduct-20-under-training-police-personnel-in-mastung-officials", "published_at": "2026-10-17T14:38:09+05:00"},
+   {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/gunmen-kidnap-20-police-constables-in-militancy-hit-southwestern-pakistan-official-3004430", "published_at": "2026-10-17T12:39:00+05:00"}]},
+ "request_id": "2026-10-17-mastung-20-police-recruits-abducted",
+ "card_url": null,
+ "image_attempts": [{"attempt": 1, "result": "ok"}],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 16:00-18:00 17 Oct, then 15 Oct 16:00 - 18 Oct 05:00 in 6h windows, all OK. Slot 17:00 free. RiseUp day 17 Oct: 4 news feed posts, 4 TikTok so far.",
+  "previous_slot_check": "16:03 feed 398439028 PUBLISHED facebook+tiktok; 16:03 reel 398439048 PUBLISHED instagram (music: Heros Journey - Abby Posner); 16:08 story 398439056 PUBLISHED facebook/instagram. No retries needed.",
+  "news_search": "Mastung abduction (Dawn 14:38 PKT) chosen in 3h window; Aurangzeb energy-supplies story (Dawn/AFP 11:04, updated 12:21) had no independent second approved outlet found.",
+  "verification": "Dawn + Arab News agree: 20 police recruits/constables from Kalat training centre abducted by armed men in Mastung district; no claim of responsibility. (Arab News says Friday; day left off card.)",
+  "image": "Runway nano-banana-2-lite, 1 image, ok (highway, white van, no text). Credits remaining 24 (low).",
+  "publish": "Not published: GitHub render rejected the request (card.source 'Dawn / Arab News' not named verbatim in caption). Per runbook, rejected -> stop."
+ },
+ "skipped_candidates": [{"headline": "Pakistan has enough energy supplies to last through November: Aurangzeb", "reason": "only Dawn (AFP) found; no second approved outlet in time"}],
+ "errors": ["results/2026-10-17-mastung-20-police-recruits-abducted.json: status rejected: caption must name the source outlet 'Dawn / Arab News'", "WebSearch proxy: HTTP 400 The request was invalid (one query)"]
+}
