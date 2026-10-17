@@ -1,1 +1,51 @@
-{"slot": "2026-10-17T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T13:45:59+05:00"}
+{
+ "slot": "2026-10-17T14:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T13:45:59+05:00",
+ "run_finished_pkt": "2026-10-17T13:54:49+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram (riseuppakistann), tiktok connected. Windows 13:00-15:00 17 Oct, then 15 Oct 13:45 - 18 Oct 01:45 in 6h windows, all OK. Slot 14:00 free. RiseUp day 17 Oct: 2 news feed posts (10:00, 12:00), 2 TikTok.",
+  "previous_slot_check": "13:00 slot was skipped (no posts). Last posts 12:00 feed 398347116 (facebook + tiktok PUBLISHED), Reel 398347147 (instagram PUBLISHED, music Iced Latte - Global Genius), Story 398347156 (facebook + instagram PUBLISHED). No retries needed.",
+  "news_search": "Web searches + Dawn latest, Geo latest, Business Recorder latest, Arab News, Tribune story searches for 06:00-14:00 PKT.",
+  "verification": "No candidate had two approved outlets (different outlets) or an official primary source within 8h before 14:00.",
+  "image": "not generated (no story)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "SSGC 11-hour gas shutdown in parts of Karachi 10pm Sat-9am Sun for Qatar mainline work (Geo 09:46, upd 11:23)",
+   "reason": "only other copy is thenews.pk (13:04), not the approved thenews.com.pk domain, same Jang group Web Desk text; other confirmations ARY / Daily Times / Abb Takk not approved"
+  },
+  {
+   "headline": "NADRA sets up 43 citizen centres in 11 K-P districts, World Bank $46m project (Tribune 10:00)",
+   "reason": "single approved outlet"
+  },
+  {
+   "headline": "Punjab colleges get 225,000+ online inter applications, girls 147,000 (Tribune 10:08)",
+   "reason": "single approved outlet (Nation/ProPakistani not approved); news first reported 16 Oct"
+  },
+  {
+   "headline": "Wheat flour prices at record high, millers urge private imports (Business Recorder 04:52)",
+   "reason": "single approved outlet, industry claims; Tribune Tando Jam piece has different facts"
+  },
+  {
+   "headline": "Aurangzeb: energy supplies last through November (Dawn/AFP)",
+   "reason": "single AFP interview = one source; rejected at 12:00 and 13:00 too"
+  },
+  {
+   "headline": "Kohat attack mastermind killed (Arab News)",
+   "reason": "security/violence, single outlet"
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest-news, tribune.com.pk/latest, brecorder.com/latest-news first attempt: PROVENANCE_REQUIRED (permission request not answered); later fetches from search results worked"
+ ]
+}
