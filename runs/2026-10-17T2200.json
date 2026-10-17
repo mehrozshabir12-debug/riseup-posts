@@ -1,1 +1,52 @@
-{"slot": "2026-10-17T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T21:46:50+05:00"}
+{
+ "slot": "2026-10-17T22:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T21:46:50+05:00",
+ "run_finished_pkt": "2026-10-17T21:54:49+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "slot window 21:00-23:00 read OK: no non-Story post at 22:00; full 48h duplicate scan not needed because no story qualified",
+  "previous_slot_check": "21:00 slot (Shaheen/Babar): feed 398591328 facebook PUBLISHED https://facebook.com/122185478282855502/posts/122186721116855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7697668489942666502; reel 398591391 instagram PUBLISHED https://www.instagram.com/reel/DemgIXFiC32/ (music The Process - Jackson Whalan); story 398591401 facebook+instagram PUBLISHED",
+  "news_search": "searched 14:00-22:00 PKT window (8h max) on approved outlets; Dawn latest items 14:38-18:09; no qualifying item",
+  "verification": "no candidate passed",
+  "image": "not generated (no story)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Centre was compelled to impose emergency in KP, PM reiterates (Dawn 18:09)",
+   "reason": "reiteration of an earlier statement, no new development; partisan political dispute"
+  },
+  {
+   "headline": "Shaheen Afridi wants unity to be Pakistan's identity (Dawn 17:48)",
+   "reason": "duplicate of 21:00 slot story"
+  },
+  {
+   "headline": "Armed men abduct 20 police trainees in Mastung (Dawn 14:38)",
+   "reason": "duplicate of 18:00 slot story"
+  },
+  {
+   "headline": "Minister rebukes JUI-F chief over KP governance (Dawn 17:21) / Islamabad ATC summons police chief (Dawn 17:58)",
+   "reason": "one-sided political attack / court procedural, low public value"
+  },
+  {
+   "headline": "Gold price falls Rs1,600 per tola (Samaa, Profit, ARY, Aaj)",
+   "reason": "no approved outlet or official source found"
+  },
+  {
+   "headline": "Aurangzeb: energy supplies last through November (Dawn/AFP 11:04)",
+   "reason": "older than 8h before slot"
+  }
+ ],
+ "errors": [
+  "WebSearch with allowed_domains returned: PROXY_REJECTED (HTTP 400): The request was invalid",
+  "WebFetch geo.tv/latest-news: PROVENANCE_REQUIRED (permission request not answered in time)"
+ ]
+}
