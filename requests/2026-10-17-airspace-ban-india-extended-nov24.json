@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-17-airspace-ban-india-extended-nov24",
+ "type": "news",
+ "headline": "Pakistan extended its airspace ban on Indian aircraft until 5am on November 24, 2026, through a NOTAM issued by the Pakistan Airports Authority.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/687043-pakistan-extends-airspace-ban-on-indian-aircraft-till-nov-24",
+   "published_at": "2026-10-17T22:20:00+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037862/indian-airlines-barred-from-using-pakistani-airspace-until-nov-24-as-ban-extended",
+   "published_at": "2026-10-17T22:55:25+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/a6ed7ad4-dc5d-432c-83e8-16af9dee325b/bf2d56a1-49b7-4138-8865-91dc8ed15934/Realistic_photo_of_a_quiet_air_traffic_control_room_in_Pakis.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzg5Nzk4NTUyMTBhZTdlOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjQyNjQ1M30.QinOkZlLtOqoTJeIv-8YvfgW-q803J3mDMKE2TFUk8o",
+  "head1": "India Airspace Ban",
+  "head2_hl": "Extended",
+  "head2": "",
+  "kicker": "Until November 24, 2026",
+  "desc": "Pakistan Airports Authority NOTAM keeps airspace closed to Indian aircraft.",
+  "source": "Geo News",
+  "date": "17 OCT 2026"
+ },
+ "caption": "Pakistan has extended its airspace ban on Indian aircraft until 5am on November 24, Geo News and Dawn reported. The Pakistan Airports Authority issued a NOTAM on Saturday; the restriction was first imposed in April 2025.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Airspace #PakIndia #Aviation #Pakistan",
+ "tiktok_title": "Pakistan extends airspace ban on Indian aircraft until Nov 24",
+ "publish": {
+  "slot": "2026-10-18T00:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1131479132514825",
+  "label": "Simple Pleasures - Alex Blue"
+ },
+ "ai_generated": true
+}
