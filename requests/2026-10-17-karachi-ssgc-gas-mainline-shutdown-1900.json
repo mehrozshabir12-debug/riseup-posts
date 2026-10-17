@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900",
+ "type": "news",
+ "headline": "SSGC will shut its 24-inch Qatar mainline in Karachi's Sher Shah area for maintenance from 10pm Saturday to 9am Sunday, warning of low gas pressure in parts of Baldia, Orangi and SITE if work overruns.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635375/ssgc-warns-parts-of-karachi-may-face-gas-supply-disruption-tomorrow",
+   "published_at": "2026-10-17T17:26:17+05:00"
+  },
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/686951-parts-of-karachi-to-face-gas-supply-suspension-this-weekend-ssgc",
+   "published_at": "2026-10-17T09:46:34+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/be36ed86-6744-4de2-9661-f2816fa2cd66/ecd8f11f-0840-46c2-8f96-03560d599620/Realistic_news_photograph_at_dusk_of_gas_utility_maintenance.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMTYzZTY3OTQxYmI3NzlkYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjM5NDkwMH0._k0T3LwqvEgt5TjFpWy0umgpSA0dGbuHrMS4bcmfYdg",
+  "head1": "Karachi Gas",
+  "head2_hl": "Shutdown",
+  "head2": "Tonight",
+  "kicker": "SSGC Mainline Maintenance",
+  "desc": "Sher Shah mainline shut 10pm Saturday to 9am Sunday.",
+  "source": "Express Tribune",
+  "date": "17 OCT 2026"
+ },
+ "caption": "SSGC will shut its 24-inch Qatar mainline in Karachi's Sher Shah area for maintenance from 10pm Saturday to 9am Sunday, The Express Tribune and Geo News reported. If the work overruns, areas including parts of Baldia Town, Orangi Town and SITE may face low gas pressure.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Karachi #SSGC #GasSupply #Pakistan",
+ "tiktok_title": "Karachi: SSGC gas mainline shutdown from 10pm Saturday to 9am Sunday",
+ "publish": {
+  "slot": "2026-10-17T19:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "934661001819759",
+  "label": "Cafe Lovers - Global Genius"
+ },
+ "ai_generated": true
+}
