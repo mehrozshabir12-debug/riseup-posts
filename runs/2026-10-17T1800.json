@@ -1,1 +1,73 @@
-{"slot": "2026-10-17T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T17:46:46+05:00"}
+{
+ "slot": "2026-10-17T18:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T17:46:46+05:00",
+ "run_finished_pkt": "2026-10-17T17:51:25+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Armed men abducted 20 police recruits of the Kalat Police Training Centre in Balochistan's Mastung district, officials said.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037816/armed-men-abduct-20-under-training-police-personnel-in-mastung-officials",
+    "published_at": "2026-10-17T14:38:09+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/gunmen-kidnap-20-police-constables-in-militancy-hit-southwestern-pakistan-official-3004430",
+    "published_at": "2026-10-17T12:39:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-17-mastung-police-recruits-abducted-1800",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-mastung-police-recruits-abducted-1800.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398487694,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=763479798185545668",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398487749,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2152345775637771704",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398487761,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2886454639982916106",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Drift Away (Instrumental) - Giulio Cercato",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 17:00-19:00 17 Oct, then 15 Oct 17:00 - 18 Oct 06:00 in 6h windows, all OK. Slot 18:00 free. RiseUp day 17 Oct before this run: 4 news feed posts, 4 TikTok.",
+  "previous_slot_check": "17:00 slot had no posts (17:00 run ended error_rejected). Last posts 16:03 feed 398439028 PUBLISHED facebook+tiktok, 16:03 reel 398439048 PUBLISHED, 16:08 story 398439056 PUBLISHED. No retries needed.",
+  "news_search": "No fresher verified story found in 2h/3h windows (Dawn latest list stale; searches returned older items). Mastung abduction (Dawn 14:38, updated 14:52 PKT) was never posted because the 17:00 request was rejected; used in 4h window.",
+  "verification": "Dawn + Arab News agree: 20 police recruits from the Kalat Police Training Centre abducted by armed men in Mastung district; no claim of responsibility; search under way (Dawn). Re-read Dawn at 17:47: no recovery reported.",
+  "image": "Runway nano-banana-2-lite, 1 image, ok (highway checkpoint, white van, two policemen from behind, no text). Credits remaining 20 (low).",
+  "publish": "Render awaiting_publish; card and zoom MP4 (8 s, 1080x1920, h264+aac) checked. Feed, Reel and Story created; Reel audioType music, displayArtist Giulio Cercato on first try. Media copied to static.metricool.com by Metricool."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan has enough energy supplies to last through November: Aurangzeb",
+   "reason": "Dawn/AFP 11:04 PKT, older than chosen story and no second approved outlet found"
+  }
+ ],
+ "errors": []
+}

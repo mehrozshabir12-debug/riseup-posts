@@ -1,0 +1,35 @@
+{
+ "id": "2026-10-17-mastung-police-recruits-abducted-1800",
+ "scheduled": "2026-10-17T18:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 398487694,
+   "uuid": "763479798185545668",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 398487749,
+   "uuid": "-2152345775637771704",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "1211414204067053",
+    "audioType": "music",
+    "title": "Drift Away (Instrumental)",
+    "displayArtist": "Giulio Cercato"
+   }
+  },
+  "story": {
+   "metricool_id": 398487761,
+   "uuid": "-2886454639982916106",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
