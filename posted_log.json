@@ -2682,10 +2682,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-17 18:00 PKT",
+  "scheduled": "2026-10-17T18:00:00+05:00",
   "music": "Drift Away (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-17-mastung-police-recruits-abducted-1800.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 398487694,
+   "reel": 398487749,
+   "story": 398487761
+  },
+  "video": "posts/2026-10-17-mastung-police-recruits-abducted-1800.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
