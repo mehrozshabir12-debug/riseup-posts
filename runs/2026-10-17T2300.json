@@ -1,1 +1,71 @@
-{"slot": "2026-10-17T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T22:45:53+05:00"}
+{
+ "slot": "2026-10-17T23:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T22:45:53+05:00",
+ "run_finished_pkt": "2026-10-17T22:56:44+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistani security forces responded to what officials called unprovoked firing by Afghan Taliban forces in Upper Kurram, Khyber Pakhtunkhwa, targeting the Topsar border post and the Shipola base camp, according to state media and security officials.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037853/security-forces-respond-to-unprovoked-firing-by-afghan-taliban-along-kurram-border-state-media",
+    "published_at": "2026-10-17T21:00:51+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-several-afghan-taliban-killed-base-camp-destroyed-in-border-clash-3004459",
+    "published_at": "2026-10-17T20:28:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-17-kurram-border-firing-response",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-kurram-border-firing-response.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398662683,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8672417804418367658",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398662729,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2992016139647994884",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398662764,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3486152721138729063",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Float (Instrumental) - Sleeping Lion",
+ "freshness_window": "2h",
+ "stages": {
+  "metricool_read": "brand OK (FB, IG, TikTok connected, Asia/Karachi); all windows 15 Oct 22:00 - 18 Oct 12:00 read OK; no non-Story post at 23:00; no Kurram/Afghan border story in last 48h; RiseUp day counts before this post: 8 feed posts, 7 with TikTok (this is the 8th TikTok, cap reached)",
+  "previous_slot_check": "22:00 slot was skipped (no posts); 21:00 slot feed 398591328, reel 398591391, story 398591401 all PUBLISHED",
+  "news_search": "Dawn 21:00:51 PKT (upd 21:15) main source, within 2h of slot",
+  "verification": "Dawn + Arab News (20:28 PKT) agree: Upper Kurram, unprovoked Afghan Taliban firing per officials, Topsar post and Shipola base camp targeted, firing ongoing; casualty claims ('several Taliban reportedly killed', unverified) deliberately left out",
+  "image": "Runway nano-banana-2-lite, 1 image, ok; Runway reported creditsRemaining 4 (lowCredits) after this run",
+  "publish": "feed+reel+story created 22:56 PKT for 23:01/23:06 (T-5 rule); reel audioType music, displayArtist Sleeping Lion; all PENDING"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "WebFetch tribune.com.pk/latest: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "Runway: creditsRemaining 4, lowCredits true - next run may hit error_runway_credits"
+ ]
+}
