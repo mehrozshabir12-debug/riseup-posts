@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-17-shaheen-no-pressure-on-babar",
+ "type": "news",
+ "headline": "Pakistan ODI captain Shaheen Shah Afridi said there is no pressure on Babar Azam, calling him the team's main player, ahead of the home ODI tri-series with England and Sri Lanka.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Geo News", "url": "https://geo.tv/latest/687031-no-pressure-on-babar-shaheen-hails-star-batter-ahead-of-odi-tri-series", "published_at": "2026-10-17T20:19:00+05:00"},
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2037834/shaheen-afridi-wants-unity-to-be-pakistans-identity-under-his-leadership", "published_at": "2026-10-17T17:48:59+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9f2e0d0a-c5ee-4614-933e-be0e4afe5e3e/602e3934-1a86-43d9-aeb4-a25818fcbffd/Realistic_news_photograph_of_a_cricket_stadium_in_Rawalpindi.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZGVjZjViZTZkYTRmOGM0ZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjQwMzQzMH0.QB3y_kIGXlbkXHXzdeqdfIWR_qmqYbP2LzG9i5LCXWA",
+  "head1": "No Pressure",
+  "head2_hl": "On Babar",
+  "head2": "",
+  "kicker": "Shaheen Ahead Of Tri-Series",
+  "desc": "Pakistan captain calls Babar Azam the team's main player",
+  "source": "Geo News",
+  "date": "17 OCT 2026"
+ },
+ "caption": "Pakistan ODI captain Shaheen Shah Afridi said there is no pressure on Babar Azam, calling him the team's main player, Geo News and Dawn reported. Speaking at Rawalpindi Cricket Stadium ahead of the home ODI tri-series with England and Sri Lanka, he said the team is united. Pakistan face Sri Lanka in the opener on Sunday, Dawn said.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanCricket #TriSeries #BabarAzam #ShaheenAfridi",
+ "tiktok_title": "Shaheen: No pressure on Babar, he is our main player",
+ "publish": {"slot": "2026-10-17T21:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "1543577430102877", "label": "The Process - Jackson Whalan"},
+ "ai_generated": true
+}
