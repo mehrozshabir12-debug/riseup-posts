@@ -1,1 +1,80 @@
-{"slot": "2026-10-17T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T20:46:41+05:00"}
+{
+ "slot": "2026-10-17T21:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T20:46:41+05:00",
+ "run_finished_pkt": "2026-10-17T20:56:55+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan ODI captain Shaheen Shah Afridi said there is no pressure on Babar Azam, calling him the team's main player, ahead of the home ODI tri-series with England and Sri Lanka.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://geo.tv/latest/687031-no-pressure-on-babar-shaheen-hails-star-batter-ahead-of-odi-tri-series",
+    "published_at": "2026-10-17T20:19:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037834/shaheen-afridi-wants-unity-to-be-pakistans-identity-under-his-leadership",
+    "published_at": "2026-10-17T17:48:59+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-17-shaheen-no-pressure-on-babar",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-shaheen-no-pressure-on-babar.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (cricket ball and stumps on outfield, blurred anonymous players, no text). Runway credits remaining 8 (low)."
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398591328,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8917511937494239034",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398591391,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8222978286851569003",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398591401,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4250531486401871561",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 20:00-22:00 17 Oct, then 15 Oct 20:00 - 18 Oct 09:00 in 6h windows, all OK. Slot 21:00 free. RiseUp day 17 Oct before this post: 7 news feed posts, 6 with TikTok (19:00 feed was Facebook only).",
+  "previous_slot_check": "20:00 slot was skipped (no posts). 19:00 and 19:30 posts all PUBLISHED per getScheduledPosts; no retries needed.",
+  "news_search": "Dawn homepage/latest, Tribune homepage, web searches. 2h window: Geo News 'No pressure on Babar' (20:19 PKT) chosen. Rejected: PM on KP emergency (one-sided political), CNSC Gen Aamer Raza warning (same PMA Kakul event already posted 16:03), SSGC gas (posted 19:03).",
+  "verification": "Geo News 20:19 (exact time from page metadata) + Dawn 17:48:59 (upd 18:02) both report Shaheen's pre-series press conference at Rawalpindi Cricket Stadium and his 'no pressure on Babar... our main player' remark. Opener vs Sri Lanka on Sunday attributed to Dawn in caption.",
+  "image": "1 Runway nano-banana-2-lite image, accepted on first attempt.",
+  "publish": "Render awaiting_publish; card and zoom MP4 (8.0 s) checked. Payload slot 21:01 was <5 min from NOW (20:56), so feed and Reel scheduled at 21:02 and Story at 21:07. Reel audio confirmed audioType music, displayArtist Jackson Whalan. All providers PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Centre was compelled to impose emergency in KP, PM reiterates (Dawn 18:09)",
+   "reason": "One-sided political"
+  },
+  {
+   "headline": "CNSC warns of 'response beyond imagination' (Tribune)",
+   "reason": "Duplicate of PMA Kakul post at 16:03"
+  }
+ ],
+ "errors": [
+  "WebFetch tribune.com.pk/story/2635377: PROVENANCE_REQUIRED (permission request not answered)",
+  "WebFetch pcb.com.pk media advisory: CLIENT_ERROR 'There was an error while fetching.'"
+ ]
+}
