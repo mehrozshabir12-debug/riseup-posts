@@ -2859,5 +2859,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-18T00:00:00+05:00",
+  "request_id": "2026-10-17-airspace-ban-india-extended-nov24",
+  "layout": "bold",
+  "headline": "Pakistan extended its airspace ban on Indian aircraft until 5am on November 24, 2026, through a NOTAM issued by the Pakistan Airports Authority.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/687043-pakistan-extends-airspace-ban-on-indian-aircraft-till-nov-24",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/687043-pakistan-extends-airspace-ban-on-indian-aircraft-till-nov-24",
+    "published_at": "2026-10-17T22:20:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037862/indian-airlines-barred-from-using-pakistani-airspace-until-nov-24-as-ban-extended",
+    "published_at": "2026-10-17T22:55:25+05:00"
+   }
+  ],
+  "published": "2026-10-17T22:20:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 25039217,
+  "image": "posts/2026-10-17-airspace-ban-india-extended-nov24.jpg",
+  "story": "posts/2026-10-17-airspace-ban-india-extended-nov24-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-18 00:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-airspace-ban-india-extended-nov24.mp4"
  }
 ]
