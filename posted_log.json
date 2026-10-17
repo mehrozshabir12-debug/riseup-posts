@@ -2496,5 +2496,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-17T12:00:00+05:00",
+  "request_id": "2026-10-17-sindh-huawei-karachi-labs",
+  "layout": "bold",
+  "headline": "Sindh Chief Minister Murad Ali Shah invited Huawei to set up R&D facilities or technology labs in Karachi during a visit to its Lianqiu Lake R&D Centre in Shanghai.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2037690/cm-murad-seeks-chinese-expertise-in-smart-city-planning-for-karachi",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037690/cm-murad-seeks-chinese-expertise-in-smart-city-planning-for-karachi",
+    "published_at": "2026-10-17T04:57:05+05:00"
+   },
+   {
+    "outlet": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2635271/sindh-taps-huawei-to-build-an-ai-powered-future",
+    "published_at": "2026-10-17T01:46:00+05:00"
+   }
+  ],
+  "published": "2026-10-17T04:57:05+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 318771859,
+  "image": "posts/2026-10-17-sindh-huawei-karachi-labs.jpg",
+  "story": "posts/2026-10-17-sindh-huawei-karachi-labs-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 12:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-sindh-huawei-karachi-labs.mp4"
  }
 ]
