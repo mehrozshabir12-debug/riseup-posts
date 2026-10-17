@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-17-kurram-border-firing-response",
+ "type": "news",
+ "headline": "Pakistani security forces responded to what officials called unprovoked firing by Afghan Taliban forces in Upper Kurram, Khyber Pakhtunkhwa, targeting the Topsar border post and the Shipola base camp, according to state media and security officials.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2037853/security-forces-respond-to-unprovoked-firing-by-afghan-taliban-along-kurram-border-state-media", "published_at": "2026-10-17T21:00:51+05:00"},
+  {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/pakistan-says-several-afghan-taliban-killed-base-camp-destroyed-in-border-clash-3004459", "published_at": "2026-10-17T20:28:00+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/6a3310a5-aab3-490f-9938-311d32002e87/e3442b43-12c9-4c78-b79b-36176f0b5b8e/Realistic_news_photograph_of_rugged__barren_mountain_ridges_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOGZhMzJjMGMxYTNmNTM3YSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjQyMTEzMn0.FqcO4br_tAUbzWhfHSdaDGxX6PrE98aQ4mS0PebCyQE",
+  "head1": "Pak Army Responds",
+  "head2_hl": "Kurram Border",
+  "head2": "",
+  "kicker": "Afghan Taliban Firing",
+  "desc": "Army targeted Topsar post and Shipola camp, officials say.",
+  "source": "Dawn",
+  "date": "17 OCT 2026"
+ },
+ "caption": "Pakistani security forces responded to what officials called unprovoked firing by Afghan Taliban forces in the Upper Kurram sector of Khyber Pakhtunkhwa, Dawn and Arab News reported. Citing state media and security officials, they said the army targeted the Topsar border post and the Shipola base camp, and firing was continuing.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Kurram #KhyberPakhtunkhwa #PakAfghanBorder #Pakistan",
+ "tiktok_title": "Pakistan Army responds to Afghan Taliban firing in Upper Kurram",
+ "publish": {"slot": "2026-10-17T23:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "589750179694057", "label": "Float (Instrumental) - Sleeping Lion"},
+ "ai_generated": true
+}
