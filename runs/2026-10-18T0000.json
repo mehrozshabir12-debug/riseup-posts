@@ -1,1 +1,76 @@
-{"slot": "2026-10-18T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T23:46:09+05:00"}
+{
+ "slot": "2026-10-18T00:00:00+05:00",
+ "outcome": "scheduled",
+ "run_started_pkt": "2026-10-17T23:46:09+05:00",
+ "riseup_day": "2026-10-17",
+ "run_finished_pkt": "2026-10-17T23:50:26+05:00",
+ "test_mode": false,
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan extended its airspace ban on Indian aircraft until 5am on November 24, 2026, through a NOTAM issued by the Pakistan Airports Authority.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/687043-pakistan-extends-airspace-ban-on-indian-aircraft-till-nov-24",
+    "published_at": "2026-10-17T22:20:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037862/indian-airlines-barred-from-using-pakistani-airspace-until-nov-24-as-ban-extended",
+    "published_at": "2026-10-17T22:55:25+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-17-airspace-ban-india-extended-nov24",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-airspace-ban-india-extended-nov24.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398690877,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6369488413732027865",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398690922,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5072020425918495882",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398690933,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2421763330253146363",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures (Reels Sound - Photo Dump) - Alex Blue",
+ "daily_counts": {
+  "news_feed_posts_before": 9,
+  "tiktok_posts_before": 8
+ },
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook+instagram+tiktok connected; windows 2026-10-15T23:00..2026-10-18T12:00 all succeeded; no post at 00:00",
+  "previous_slot_check": "23:01 Kurram feed (FB, TikTok) PUBLISHED, Reel PUBLISHED https://www.instagram.com/reel/DemtWKXDVwL/, 23:06 Story FB+IG PUBLISHED",
+  "news_search": "Geo News 22:20 PKT and Dawn 22:55 PKT on PAA NOTAM extending airspace ban on Indian aircraft to Nov 24",
+  "verification": "2 approved outlets (Geo News, Dawn) agree: PAA NOTAM, Indian aircraft barred, until 5am (04:59) Nov 24; not posted in last 48h",
+  "image": "Runway nano-banana-2-lite, 1 attempt, no text/logos/public figures; creditsRemaining reported 0 after this task",
+  "publish": "feed Facebook only (TikTok daily cap of 8 reached), Instagram zoom Reel with music (audioType music, Alex Blue), Story FB+IG at 00:05; all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Taliban personnel killed in Kurram infiltration attempt (Geo)",
+   "reason": "same event as 23:00 Kurram post; 'sources' based"
+  }
+ ],
+ "errors": []
+}
