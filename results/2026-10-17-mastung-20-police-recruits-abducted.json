@@ -1,0 +1,12 @@
+{
+ "id": "2026-10-17-mastung-20-police-recruits-abducted",
+ "revision": 1,
+ "request": "requests/2026-10-17-mastung-20-police-recruits-abducted.json",
+ "status": "rejected",
+ "errors": [
+  "caption must name the source outlet 'Dawn / Arab News'"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-10-17T16:55:59+05:00"
+}
