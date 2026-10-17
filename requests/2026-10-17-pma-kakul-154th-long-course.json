@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-17-pma-kakul-154th-long-course",
+ "type": "news",
+ "headline": "Cadets of the 154th PMA Long Course graduated at a passing-out parade at the Pakistan Military Academy, Kakul, on Saturday, reviewed by CNSC General Aamer Raza.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-military-academy-graduates-cadets-including-those-from-palestine-qatar-iraq-3004437",
+   "published_at": "2026-10-17T14:46:00+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037799/any-miscalculation-by-adversaries-will-invite-response-beyond-their-imagination-calculation-warns-cnsc",
+   "published_at": "2026-10-17T10:49:14+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/d917a25f-8e4f-4113-8fe1-9e3b1f8ec7d2/6dac7338-ca94-427f-b680-661d1285abdf/Realistic_news_photograph_of_a_military_academy_passing_out_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjg1OTNhMDkzNWQxZjFkYyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjM2MjUwNX0.tksY__gCMaGa2--QXLywILpXArYtqZIFJPi3oOtuDTs",
+  "head1": "Cadets Pass Out",
+  "head2_hl": "PMA Kakul",
+  "head2": "",
+  "kicker": "154th Long Course Graduates",
+  "desc": "CNSC Gen Aamer Raza reviewed the parade on Saturday",
+  "source": "Arab News",
+  "date": "17 OCT 2026"
+ },
+ "caption": "Cadets of the 154th PMA Long Course graduated at a passing-out parade at the Pakistan Military Academy, Kakul, on Saturday, Arab News and Dawn reported. Commander National Strategic Command General Aamer Raza reviewed the parade and addressed the cadets.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PMA #Kakul #PakistanArmy #Pakistan",
+ "tiktok_title": "154th PMA Long Course cadets pass out at Kakul",
+ "publish": {
+  "slot": "2026-10-17T16:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1274149560124013",
+  "label": "Heros Journey (Instrumental) - Abby Posner"
+ },
+ "ai_generated": true
+}
