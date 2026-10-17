@@ -1,1 +1,51 @@
-{"slot": "2026-10-17T13:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T12:46:03+05:00"}
+{
+ "slot": "2026-10-17T13:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T12:46:03+05:00",
+ "run_finished_pkt": "2026-10-17T12:55:24+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 12:00-14:00 17 Oct, then 15 Oct 12:00 - 18 Oct 02:00 in 6h windows, all OK. Slot 13:00 free. RiseUp day 17 Oct: 2 news feed posts (10:00, 12:00), 2 TikTok.",
+  "previous_slot_check": "12:00 feed 398347116 (facebook PUBLISHED https://facebook.com/122185478282855502/posts/122186674208855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7697528716708105524), Reel 398347147 (instagram PUBLISHED https://www.instagram.com/reel/DelhnzEEwRP/, audio music Iced Latte - Global Genius), Story 398347156 (facebook + instagram PUBLISHED). No retries needed.",
+  "news_search": "Dawn latest/home, Tribune, Geo, Arab News, Business Recorder searches up to 8h before T.",
+  "verification": "No candidate had two approved outlets or an official primary source within 8h before 13:00.",
+  "image": "not generated (no story)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "FCC: minor offence (Rs500 fine) cannot bar police constable job (Tribune 10:02)",
+   "reason": "single approved outlet; confirmations only Daily Times / The Nation (not approved); judgment not found on fccp.gov.pk"
+  },
+  {
+   "headline": "Pakistan to roll out e-passports within a month, NA told (Geo 12:40)",
+   "reason": "single approved outlet; conflicts with earlier reports that MRP issuance already stopped on 15 Oct"
+  },
+  {
+   "headline": "OGDCL to raise drilling 65% to 33 wells in FY27 (Arab News 09:42)",
+   "reason": "single approved outlet"
+  },
+  {
+   "headline": "Aurangzeb: energy supplies last through November (Dawn/AFP 11:04, upd 12:21)",
+   "reason": "all copies are the same AFP interview = one source; rejected at 12:00 too"
+  },
+  {
+   "headline": "20 police constables kidnapped in Mastung (Arab News 12:39)",
+   "reason": "anonymous officials only, single outlet, security incident"
+  },
+  {
+   "headline": "Two militants killed in Chagai IBO (Tribune 11:04)",
+   "reason": "security sources only; violence"
+  }
+ ],
+ "errors": [
+  "WebFetch tribune.com.pk/latest and geo.tv/latest-news: PROVENANCE_REQUIRED (permission request not answered)"
+ ]
+}
