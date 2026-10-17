@@ -2807,5 +2807,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-17T23:00:00+05:00",
+  "request_id": "2026-10-17-kurram-border-firing-response",
+  "layout": "bold",
+  "headline": "Pakistani security forces responded to what officials called unprovoked firing by Afghan Taliban forces in Upper Kurram, Khyber Pakhtunkhwa, targeting the Topsar border post and the Shipola base camp, according to state media and security officials.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2037853/security-forces-respond-to-unprovoked-firing-by-afghan-taliban-along-kurram-border-state-media",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037853/security-forces-respond-to-unprovoked-firing-by-afghan-taliban-along-kurram-border-state-media",
+    "published_at": "2026-10-17T21:00:51+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-several-afghan-taliban-killed-base-camp-destroyed-in-border-clash-3004459",
+    "published_at": "2026-10-17T20:28:00+05:00"
+   }
+  ],
+  "published": "2026-10-17T21:00:51+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 97065074,
+  "image": "posts/2026-10-17-kurram-border-firing-response.jpg",
+  "story": "posts/2026-10-17-kurram-border-firing-response-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 23:01 PKT",
+  "music": "Float (Instrumental) - Sleeping Lion",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-kurram-border-firing-response.mp4"
  }
 ]
