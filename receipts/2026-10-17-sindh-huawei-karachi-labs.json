@@ -1,0 +1,27 @@
+{
+ "id": "2026-10-17-sindh-huawei-karachi-labs",
+ "scheduled": "2026-10-17T12:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 398347116,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 398347147,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": "music: Iced Latte - Global Genius (810120545333296)"
+  },
+  "story": {
+   "metricool_id": 398347156,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

@@ -1,1 +1,81 @@
-{"slot": "2026-10-17T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T11:46:22+05:00"}
+{
+ "slot": "2026-10-17T12:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T11:46:22+05:00",
+ "run_finished_pkt": "2026-10-17T11:53:53+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "8h",
+ "story": {
+  "headline": "Sindh Chief Minister Murad Ali Shah invited Huawei to set up R&D facilities or technology labs in Karachi during a visit to its Lianqiu Lake R&D Centre in Shanghai.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037690/cm-murad-seeks-chinese-expertise-in-smart-city-planning-for-karachi",
+    "published_at": "2026-10-17T04:57:05+05:00"
+   },
+   {
+    "outlet": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2635271/sindh-taps-huawei-to-build-an-ai-powered-future",
+    "published_at": "2026-10-17T01:46:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-17-sindh-huawei-karachi-labs",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-sindh-huawei-karachi-labs.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398347116,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8800155875793192484",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398347147,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6116224959499616348",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398347156,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8694770089193222576",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 11:00-13:00 17 Oct, then 15 Oct 11:00 - 18 Oct 00:00 in 6h windows, all OK. Slot 12:00 free. RiseUp day 17 Oct: 1 news feed post, 1 TikTok before this one.",
+  "previous_slot_check": "11:00 slot was skipped (no posts). 10:00 posts already confirmed PUBLISHED by the 11:00 run. No retries needed.",
+  "news_search": "Dawn latest, Tribune home, Geo Pakistan, web searches (FCA Rs2.56, rabies toll, Aurangzeb AFP interview, Sindh CM Huawei).",
+  "verification": "Dawn 04:57 PKT 17 Oct (main, exact timestamp) + Express Tribune 17 Oct 01:46 PKT: both report CM Murad visiting Huawei Lianqiu Lake R&D Centre in Shanghai, inviting Huawei to set up R&D facilities/labs in Karachi linked to Education City, and proposing cloud, data centre, cybersecurity and AI computing cooperation.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, no text/logos; credits remaining 36 (lowCredits warning).",
+  "publish": "Card and zoom MP4 checked. Feed (FB+TikTok), Reel (IG, audioType music Iced Latte - Global Genius) and Story created; all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Attacks on Gulf energy infrastructure worrying: Aurangzeb (Dawn 11:04, Geo, Arab News)",
+   "reason": "all copies are the same AFP interview = one source"
+  },
+  {
+   "headline": "Rabies deaths in Sindh reach 40 (Dawn 04:57)",
+   "reason": "Tribune (16 Oct) gives 39; figures conflict and death was on 15 Oct"
+  },
+  {
+   "headline": "DISCOs seek Rs2.56/unit FCA for September (Tribune 17 Oct)",
+   "reason": "first reported 16 Oct 07:21 (Dawn), older than 8h"
+  }
+ ],
+ "errors": []
+}
