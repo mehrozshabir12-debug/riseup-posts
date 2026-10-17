@@ -2444,5 +2444,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-17T10:00:00+05:00",
+  "request_id": "2026-10-17-lsm-august-067",
+  "layout": "bold",
+  "headline": "Pakistan's large-scale manufacturing output grew 0.67% year-on-year in August 2026 but fell 4.96% from July, Pakistan Bureau of Statistics data showed.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2037724/big-industry-output-posts-meagre-rise",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037724/big-industry-output-posts-meagre-rise",
+    "published_at": "2026-10-17T04:56:34+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2635298/lsm-stalls-as-steel-fertiliser-slump",
+    "published_at": "2026-10-17T02:24:02+05:00"
+   }
+  ],
+  "published": "2026-10-17T04:56:34+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 689891958,
+  "image": "posts/2026-10-17-lsm-august-067.jpg",
+  "story": "posts/2026-10-17-lsm-august-067-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 10:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-lsm-august-067.mp4"
  }
 ]
