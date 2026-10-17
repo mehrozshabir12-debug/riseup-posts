@@ -1,1 +1,76 @@
-{"slot": "2026-10-17T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T18:46:17+05:00"}
+{
+ "slot": "2026-10-17T19:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T18:46:17+05:00",
+ "run_finished_pkt": "2026-10-17T18:56:49+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "SSGC will shut its 24-inch Qatar mainline in Karachi's Sher Shah area for maintenance from 10pm Saturday to 9am Sunday, warning of low gas pressure in parts of Baldia, Orangi and SITE if work overruns.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2635375/ssgc-warns-parts-of-karachi-may-face-gas-supply-disruption-tomorrow",
+    "published_at": "2026-10-17T17:26:17+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/686951-parts-of-karachi-to-face-gas-supply-suspension-this-weekend-ssgc",
+    "published_at": "2026-10-17T09:46:34+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398524551,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6012176315529054807",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398524592,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8808989022902337299",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398524602,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7053531374440041431",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 18:00-20:00 17 Oct, then 15 Oct 18:00 - 18 Oct 07:00 in 6h windows, all OK. Slot 19:00 free. RiseUp day 17 Oct before this run: 5 news feed posts, 5 TikTok.",
+  "previous_slot_check": "18:00 slot: feed 398487694 PUBLISHED facebook (https://facebook.com/122185478282855502/posts/122186702576855502) + tiktok (https://www.tiktok.com/@riseuppakistan2025/video/7697621661037677844); reel 398487749 PUBLISHED (https://www.instagram.com/reel/DemLB5Mj8qo/); story 398487761 PUBLISHED facebook+instagram. No retries needed.",
+  "news_search": "Express Tribune front page + web search. SSGC Karachi gas mainline shutdown (Tribune 17:26 PKT) is newest suitable story, within 2h window; not posted in last 48h.",
+  "verification": "Express Tribune (17:26 PKT) + Geo News (09:46, modified 11:23 PKT) agree: SSGC 24-inch Qatar mainline, Sher Shah, Karachi, maintenance 10pm Sat 17 Oct to 9am Sun 18 Oct; low pressure possible in Baldia Town, Orangi Town areas and SITE if work overruns.",
+  "image": "Runway nano-banana-2-lite, 1 image, ok (pipeline trench, three workers in vests from behind, no text). Credits remaining 16 (low).",
+  "publish": "Render awaiting_publish; card and zoom MP4 (8 s, 1080x1920, h264+aac) checked. Renderer skipped TikTok (TikTok pacing: 5 by 19:00). NOW was 18:56 (> T-5), so feed+reel scheduled 19:03 and story 19:08 (NOW+5 rule). Reel audioType music, displayArtist Global Genius on first try. All PENDING, media copied to static.metricool.com."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "CNSC Gen Aamer Raza warns adversaries of 'response beyond imagination'",
+   "reason": "From the PMA Kakul parade already posted at 16:03 (duplicate event)"
+  },
+  {
+   "headline": "Fazl seeks joint in-camera session as ministers reject 'spoils of war' charge",
+   "reason": "Political back-and-forth; less relevant to ordinary people"
+  }
+ ],
+ "errors": []
+}

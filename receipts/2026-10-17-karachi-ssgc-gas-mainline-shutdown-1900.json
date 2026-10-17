@@ -1,0 +1,37 @@
+{
+ "id": "2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 398524551,
+   "status": {
+    "facebook": "PENDING"
+   },
+   "publicationDate": "2026-10-17T19:03:00+05:00",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6012176315529054807"
+  },
+  "reel": {
+   "metricool_id": 398524592,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-10-17T19:03:00+05:00",
+   "audio": {
+    "audioId": "934661001819759",
+    "audioType": "music",
+    "title": "Cafe Lovers",
+    "displayArtist": "Global Genius"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8808989022902337299"
+  },
+  "story": {
+   "metricool_id": 398524602,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-10-17T19:08:00+05:00",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7053531374440041431"
+  }
+ }
+}
