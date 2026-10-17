@@ -2734,10 +2734,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-17 19:00 PKT",
+  "scheduled": true,
   "music": "Cafe Lovers - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 398524551,
+   "reel": 398524592,
+   "story": 398524602
+  },
+  "video": "posts/2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
