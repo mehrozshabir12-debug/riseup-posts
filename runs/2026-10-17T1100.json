@@ -1,1 +1,48 @@
-{"slot": "2026-10-17T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T10:47:12+05:00"}
+{
+ "slot": "2026-10-17T11:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T10:47:12+05:00",
+ "run_finished_pkt": "2026-10-17T11:00:05+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 10:00-12:00 17 Oct, then 15 Oct 10:00 - 17 Oct 23:00 in 6h windows, all OK. Slot 11:00 free. RiseUp day 17 Oct: 1 news feed post, 1 TikTok so far.",
+  "previous_slot_check": "10:00 feed 398308743 PUBLISHED facebook (https://facebook.com/122185478282855502/posts/122186666378855502) + tiktok (https://www.tiktok.com/@riseuppakistan2025/video/7697497491222056213); 10:00 reel 398308776 PUBLISHED instagram (https://www.instagram.com/reel/DelT09cDpBJ/, audio music Sunday In October - Trout Recording); 10:05 story 398308808 PUBLISHED facebook/instagram. No retries needed.",
+  "news_search": "Dawn latest scanned (items 03:00-11:00 PKT); web searches for Basant LHC ruling, Afghanistan talks, TechCrunch Disrupt, Malaysia trade roadmap. Tribune and Geo latest pages could not be fetched (permission request withdrawn).",
+  "verification": "No candidate within 8h had a second approved outlet or a same-day official source.",
+  "image": "not started",
+  "publish": "not started"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan rules out unconditional talks with Afghanistan (Dawn, published 04:56, updated 06:59)",
+   "reason": "single approved outlet; official source is the MOFA briefing transcript dated 16 Oct (not today); Al Jazeera 16 Oct piece does not report these remarks"
+  },
+  {
+   "headline": "LHC rejects plea against 10-day Basant festival (Dawn updated 08:58)",
+   "reason": "ruling reported on 16 Oct (older than 8h); confirming reports only from non-approved outlets"
+  },
+  {
+   "headline": "Pakistan showcases 20 tech firms at TechCrunch Disrupt 2026 (Dawn 07:42)",
+   "reason": "single approved outlet"
+  },
+  {
+   "headline": "Roadmap set to boost trade with Malaysia (Dawn 04:56)",
+   "reason": "single approved outlet found"
+  },
+  {
+   "headline": "Pakistan among 10 countries bearing brunt of hunger crisis (Dawn 07:32)",
+   "reason": "single approved outlet; also rejected at 10:00"
+  }
+ ],
+ "errors": [
+  "WebFetch https://tribune.com.pk/latest: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time and was withdrawn.",
+  "WebFetch https://www.geo.tv/latest-news: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time and was withdrawn."
+ ]
+}
