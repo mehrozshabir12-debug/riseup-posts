@@ -2600,5 +2600,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-17T16:00:00+05:00",
+  "request_id": "2026-10-17-pma-kakul-154th-long-course",
+  "layout": "bold",
+  "headline": "Cadets of the 154th PMA Long Course graduated at a passing-out parade at the Pakistan Military Academy, Kakul, on Saturday, reviewed by CNSC General Aamer Raza.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-military-academy-graduates-cadets-including-those-from-palestine-qatar-iraq-3004437",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-military-academy-graduates-cadets-including-those-from-palestine-qatar-iraq-3004437",
+    "published_at": "2026-10-17T14:46:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037799/any-miscalculation-by-adversaries-will-invite-response-beyond-their-imagination-calculation-warns-cnsc",
+    "published_at": "2026-10-17T10:49:14+05:00"
+   }
+  ],
+  "published": "2026-10-17T14:46:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 267945773,
+  "image": "posts/2026-10-17-pma-kakul-154th-long-course.jpg",
+  "story": "posts/2026-10-17-pma-kakul-154th-long-course-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 16:03 PKT",
+  "music": "Heros Journey (Instrumental) - Abby Posner",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-pma-kakul-154th-long-course.mp4"
  }
 ]
