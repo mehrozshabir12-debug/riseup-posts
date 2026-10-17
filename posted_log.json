@@ -2755,5 +2755,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-17T21:00:00+05:00",
+  "request_id": "2026-10-17-shaheen-no-pressure-on-babar",
+  "layout": "bold",
+  "headline": "Pakistan ODI captain Shaheen Shah Afridi said there is no pressure on Babar Azam, calling him the team's main player, ahead of the home ODI tri-series with England and Sri Lanka.",
+  "source_outlet": "Geo News",
+  "source": "https://geo.tv/latest/687031-no-pressure-on-babar-shaheen-hails-star-batter-ahead-of-odi-tri-series",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://geo.tv/latest/687031-no-pressure-on-babar-shaheen-hails-star-batter-ahead-of-odi-tri-series",
+    "published_at": "2026-10-17T20:19:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037834/shaheen-afridi-wants-unity-to-be-pakistans-identity-under-his-leadership",
+    "published_at": "2026-10-17T17:48:59+05:00"
+   }
+  ],
+  "published": "2026-10-17T20:19:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 929986121,
+  "image": "posts/2026-10-17-shaheen-no-pressure-on-babar.jpg",
+  "story": "posts/2026-10-17-shaheen-no-pressure-on-babar-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 21:01 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-shaheen-no-pressure-on-babar.mp4"
  }
 ]

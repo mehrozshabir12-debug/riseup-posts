@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-17-shaheen-no-pressure-on-babar",
+ "revision": 1,
+ "request": "requests/2026-10-17-shaheen-no-pressure-on-babar.json",
+ "type": "news",
+ "headline": "Pakistan ODI captain Shaheen Shah Afridi said there is no pressure on Babar Azam, calling him the team's main player, ahead of the home ODI tri-series with England and Sri Lanka.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-17T21:01:00+05:00",
+ "target_slot": "2026-10-17T21:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-shaheen-no-pressure-on-babar.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-shaheen-no-pressure-on-babar-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-shaheen-no-pressure-on-babar.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-17-shaheen-no-pressure-on-babar.jpg",
+  "story": "posts/2026-10-17-shaheen-no-pressure-on-babar-story.jpg",
+  "reel": "posts/2026-10-17-shaheen-no-pressure-on-babar.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 929986121,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-17T21:01:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan ODI captain Shaheen Shah Afridi said there is no pressure on Babar Azam, calling him the team's main player, Geo News and Dawn reported. Speaking at Rawalpindi Cricket Stadium ahead of the home ODI tri-series with England and Sri Lanka, he said the team is united. Pakistan face Sri Lanka in the opener on Sunday, Dawn said.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanCricket #TriSeries #BabarAzam #ShaheenAfridi",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-shaheen-no-pressure-on-babar.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Shaheen: No pressure on Babar, he is our main player",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-17T21:01:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan ODI captain Shaheen Shah Afridi said there is no pressure on Babar Azam, calling him the team's main player, Geo News and Dawn reported. Speaking at Rawalpindi Cricket Stadium ahead of the home ODI tri-series with England and Sri Lanka, he said the team is united. Pakistan face Sri Lanka in the opener on Sunday, Dawn said.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanCricket #TriSeries #BabarAzam #ShaheenAfridi",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-shaheen-no-pressure-on-babar.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-shaheen-no-pressure-on-babar-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1543577430102877",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-17T21:06:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-shaheen-no-pressure-on-babar-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-17T20:55:57+05:00"
+}
