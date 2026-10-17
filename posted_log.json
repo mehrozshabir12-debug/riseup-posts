@@ -2652,5 +2652,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-17T18:00:00+05:00",
+  "request_id": "2026-10-17-mastung-police-recruits-abducted-1800",
+  "layout": "bold",
+  "headline": "Armed men abducted 20 police recruits of the Kalat Police Training Centre in Balochistan's Mastung district, officials said.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2037816/armed-men-abduct-20-under-training-police-personnel-in-mastung-officials",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037816/armed-men-abduct-20-under-training-police-personnel-in-mastung-officials",
+    "published_at": "2026-10-17T14:38:09+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/gunmen-kidnap-20-police-constables-in-militancy-hit-southwestern-pakistan-official-3004430",
+    "published_at": "2026-10-17T12:39:00+05:00"
+   }
+  ],
+  "published": "2026-10-17T14:38:09+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 50778925,
+  "image": "posts/2026-10-17-mastung-police-recruits-abducted-1800.jpg",
+  "story": "posts/2026-10-17-mastung-police-recruits-abducted-1800-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 18:00 PKT",
+  "music": "Drift Away (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-mastung-police-recruits-abducted-1800.mp4"
  }
 ]
