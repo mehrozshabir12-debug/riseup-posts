@@ -2474,10 +2474,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-17 10:00 PKT",
+  "scheduled": "2026-10-17T10:00:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-17-lsm-august-067.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 398308743,
+   "reel": 398308776,
+   "story": 398308808
+  },
+  "video": "posts/2026-10-17-lsm-august-067.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
