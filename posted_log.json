@@ -2548,5 +2548,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-17T15:00:00+05:00",
+  "request_id": "2026-10-17-khuzdar-earthquake-59",
+  "layout": "bold",
+  "headline": "A 5.9-magnitude earthquake struck Balochistan's Khuzdar district on Saturday morning at a depth of 25km, with no loss of life or property reported.",
+  "source_outlet": "The Express Tribune",
+  "source": "https://tribune.com.pk/story/2635350/59-magnitude-earthquake-jolts-balochistans-khuzdar-adjoining-areas",
+  "sources": [
+   {
+    "outlet": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2635350/59-magnitude-earthquake-jolts-balochistans-khuzdar-adjoining-areas",
+    "published_at": "2026-10-17T14:09:16+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037802/59-magnitude-earthquake-jolts-balochistans-khuzdar",
+    "published_at": "2026-10-17T12:31:24+05:00"
+   }
+  ],
+  "published": "2026-10-17T14:09:16+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 334045647,
+  "image": "posts/2026-10-17-khuzdar-earthquake-59.jpg",
+  "story": "posts/2026-10-17-khuzdar-earthquake-59-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 15:00 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-khuzdar-earthquake-59.mp4"
  }
 ]
