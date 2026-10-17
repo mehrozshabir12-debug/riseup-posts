@@ -464,8 +464,17 @@ def phase_watchdog():
     if os.path.exists(path):
         log = load_json(path, {})
         print(f"watchdog: {rel(path)} -> {log.get('outcome')}")
-        if str(log.get("outcome", "")).startswith("error") or log.get("outcome") == "started":
-            print("::error::ChatGPT run reported an error:", log.get("errors")); return False
+        if str(log.get("outcome", "")).startswith("error"):
+            print("::error::The run reported an error:", log.get("errors")); return False
+        if log.get("outcome") == "started":
+            started = log.get("run_started_pkt")
+            try:
+                age = (now - dt.datetime.fromisoformat(started)).total_seconds() / 60
+            except (TypeError, ValueError):
+                age = 999
+            if age < 30:                       # still running: hourly runs take ~10 min
+                print(f"watchdog: run still in progress ({age:.0f} min)"); return True
+            print(f"::error::Run for {target:%H:%M} started {age:.0f} min ago and never finished."); return False
         return True
     print(f"::error::No ChatGPT run log for slot {target:%Y-%m-%d %H:%M} PKT ({rel(path)} missing). "
           "The automation did not run, or stopped before writing its log.")

@@ -181,7 +181,9 @@ def validate(req, filename):
         if len(tags) != 5:
             E.append(f"caption must end with exactly 5 hashtags (found {len(tags)})")
         outlet = _s(card.get("source")).split("(")[0].strip().lower() if isinstance(card, dict) else ""
-        if outlet and outlet not in cap.lower():
+        # "Dawn / Arab News" -> each outlet must appear, however the caption joins them ("Dawn and Arab News")
+        parts = [o.strip() for o in re.split(r"\s*(?:/|,|&|\band\b)\s*", outlet) if o.strip()]
+        if parts and not all(o in cap.lower() for o in parts):
             E.append(f"caption must name the source outlet '{card.get('source')}'")
         if re.search(r"https?://", cap):
             E.append("caption must not contain links")
