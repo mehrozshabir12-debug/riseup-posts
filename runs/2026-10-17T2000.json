@@ -1,1 +1,29 @@
-{"slot": "2026-10-17T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T19:46:12+05:00"}
+{
+ "slot": "2026-10-17T20:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T19:46:12+05:00",
+ "run_finished_pkt": "2026-10-17T20:00:32+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [{"attempt": 1, "result": "ok (empty cricket stadium, no text) - generated for the Shaheen Afridi candidate before verification failed; not used. Runway credits remaining 12 (low)."}],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 19:00-21:00 17 Oct, then 15 Oct 19:00 - 18 Oct 08:00 in 6h windows, all OK. Slot 20:00 free. RiseUp day 17 Oct: 7 news feed posts, 6 with TikTok (incl. owner-supplied Abbottabad post 19:30).",
+  "previous_slot_check": "19:00 slot: feed 398524551 PUBLISHED facebook (https://facebook.com/122185478282855502/posts/122186707730855502); reel 398524592 PUBLISHED (https://www.instagram.com/reel/DemSFKOgCwU/), music Cafe Lovers - Global Genius; story 398524602 PUBLISHED facebook+instagram. Owner's 19:30 Abbottabad post 398540604/398540679/398540687 also PUBLISHED. No retries needed.",
+  "news_search": "Dawn homepage/latest, Express Tribune homepage, web searches. 2h window (18:00-20:00): only Dawn 'Centre was compelled to impose emergency in KP, PM reiterates' (18:09) - rejected as one-sided political attack. 3h window: Dawn Sport 'Shaheen Afridi wants unity...' (17:48, upd 18:02).",
+  "verification": "Shaheen Afridi pre-series press conference story: no second approved outlet (Geo/Tribune/The News/APP/PCB etc.) found for 17 Oct; Arab News/AP hit was Nov 2025 (old). PCB media advisory could not be fetched. Not verified -> not posted. Aurangzeb energy story: AFP wire on both Dawn (11:04) and Tribune (14:47) = one source and outside 8h by Dawn's time.",
+  "image": "1 Runway image generated before verification failed; unused.",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {"headline": "Centre was compelled to impose emergency in KP, PM Shehbaz reiterates (Dawn 18:09)", "reason": "One-sided political accusations against PTI; rule: skip one-sided political attacks"},
+  {"headline": "Shaheen Afridi wants unity to be Pakistan's identity; Pakistan open ODI tri-series vs Sri Lanka on Sunday (Dawn 17:48)", "reason": "Only one approved outlet found for 17 Oct; no second approved source or official PCB item reachable"},
+  {"headline": "Aurangzeb: Pakistan has energy supplies through November (AFP via Dawn/Tribune)", "reason": "Single wire source (AFP) on both outlets; Dawn timestamp 11:04 is older than 8h"},
+  {"headline": "Islamabad ATC summons police chief in case against Imaan and Hadi (Dawn 17:58)", "reason": "Sensitive legal/political case; not suitable"}
+ ],
+ "errors": ["WebFetch geo.tv/latest-news and tribune.com.pk/latest: PROVENANCE_REQUIRED (permission request not answered)", "WebFetch pcb.com.pk media advisory: CLIENT_ERROR 'There was an error while fetching.'"]
+}
