@@ -2578,10 +2578,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-17 15:00 PKT",
+  "scheduled": "2026-10-17T15:00:00+05:00",
   "music": "Reflection - Sam Marshall",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-17-khuzdar-earthquake-59.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 398413100,
+   "reel": 398413128,
+   "story": 398413135
+  },
+  "video": "posts/2026-10-17-khuzdar-earthquake-59.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
