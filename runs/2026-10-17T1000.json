@@ -1,1 +1,85 @@
-{"slot": "2026-10-17T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T09:47:25+05:00"}
+{
+ "slot": "2026-10-17T10:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T09:47:25+05:00",
+ "run_finished_pkt": "2026-10-17T09:54:29+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "6h",
+ "story": {
+  "headline": "Pakistan's large-scale manufacturing output grew 0.67% year-on-year in August 2026 but fell 4.96% from July, Pakistan Bureau of Statistics data showed.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037724/big-industry-output-posts-meagre-rise",
+    "published_at": "2026-10-17T04:56:34+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2635298/lsm-stalls-as-steel-fertiliser-slump",
+    "published_at": "2026-10-17T02:24:02+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-17-lsm-august-067",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-lsm-august-067.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398308743,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3162707288319872145",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398308776,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2500924961705708393",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398308808,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4330129053019388021",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram, tiktok connected. Windows 09:00-11:00 17 Oct, then 15 Oct 09:00 - 17 Oct 22:00 in 6h windows, all OK. Slot 10:00 free. New RiseUp day 17 Oct: 0 news feed posts, 0 TikTok before this one.",
+  "previous_slot_check": "00:00 feed 398038834 PUBLISHED facebook; 00:00 reel 398039074 PUBLISHED instagram (no audioConfiguration shown); 00:05 story 398038904 PUBLISHED facebook/instagram. No retries needed.",
+  "news_search": "Dawn latest + Tribune home + Geo scanned. Newest verifiable story: LSM August 2026 (Dawn 04:56, 6h window). Nothing newer passed verification.",
+  "verification": "Dawn + Express Tribune, same figures (0.67% YoY, -4.96% MoM, 1.85% Jul-Aug, QIM 113.19), both citing PBS.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, no text/logos/public figures. Card and zoom MP4 (8s, 1080x1920, h264+aac) checked.",
+  "publish": "Feed (FB+TikTok), IG Reel with music, Story at 10:05 created; Reel audioType music, displayArtist Trout Recording; all PENDING in getScheduledPosts 09:55-10:10."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PMA Kakul passing out parade (Geo 09:28)",
+   "reason": "only one approved outlet found; no second source / ISPR release reachable"
+  },
+  {
+   "headline": "Pakistan among 10 countries bearing brunt of hunger crisis (Dawn 04:56)",
+   "reason": "single approved outlet"
+  },
+  {
+   "headline": "Rabies deaths in Sindh reach 40 (Dawn 04:57)",
+   "reason": "single approved outlet"
+  },
+  {
+   "headline": "Govt cuts petrol price by Rs3.93 (16 Oct ~22:00)",
+   "reason": "older than 8 hours before slot"
+  }
+ ],
+ "errors": []
+}

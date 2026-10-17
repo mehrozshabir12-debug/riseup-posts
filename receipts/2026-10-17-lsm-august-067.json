@@ -1,0 +1,27 @@
+{
+ "id": "2026-10-17-lsm-august-067",
+ "scheduled": "2026-10-17T10:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 398308743,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 398308776,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "music": "Sunday In October - Trout Recording (audioType music)"
+  },
+  "story": {
+   "metricool_id": 398308808,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
