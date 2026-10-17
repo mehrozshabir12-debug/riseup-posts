@@ -2630,10 +2630,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-17 16:03 PKT",
+  "scheduled": "2026-10-17T16:03:00+05:00",
   "music": "Heros Journey (Instrumental) - Abby Posner",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-17-pma-kakul-154th-long-course.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 398439028,
+   "reel": 398439048,
+   "story": 398439056
+  },
+  "video": "posts/2026-10-17-pma-kakul-154th-long-course.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
