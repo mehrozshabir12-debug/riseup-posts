@@ -1,0 +1,32 @@
+{
+ "id": "2026-10-17-pma-kakul-154th-long-course",
+ "scheduled": "2026-10-17T16:03:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 398439028,
+   "uuid": "-8750988660302593584",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 398439048,
+   "uuid": "4624796155712718291",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "music": "Heros Journey (Instrumental) - Abby Posner",
+   "audioType": "music"
+  },
+  "story": {
+   "metricool_id": 398439056,
+   "uuid": "7687233586834525952",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "scheduled": "2026-10-17T16:08:00+05:00"
+  }
+ }
+}

@@ -1,1 +1,77 @@
-{"slot": "2026-10-17T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T15:47:24+05:00"}
+{
+ "slot": "2026-10-17T16:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T15:47:24+05:00",
+ "run_finished_pkt": "2026-10-17T15:58:30+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Cadets of the 154th PMA Long Course graduated at a passing-out parade at the Pakistan Military Academy, Kakul, on Saturday, reviewed by CNSC General Aamer Raza.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-military-academy-graduates-cadets-including-those-from-palestine-qatar-iraq-3004437",
+    "published_at": "2026-10-17T14:46:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037799/any-miscalculation-by-adversaries-will-invite-response-beyond-their-imagination-calculation-warns-cnsc",
+    "published_at": "2026-10-17T10:49:14+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-17-pma-kakul-154th-long-course",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-pma-kakul-154th-long-course.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398439028,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8750988660302593584",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398439048,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4624796155712718291",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398439056,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7687233586834525952",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Heros Journey (Instrumental) - Abby Posner",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all windows NOW-48h..NOW+12h read; slot 16:00 free; today's feed news posts 3 (10,12,15), TikTok 3",
+  "previous_slot_check": "15:00 feed FB PUBLISHED https://facebook.com/122185478282855502/posts/122186687108855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7697575090615078196; Reel PUBLISHED https://www.instagram.com/reel/Del2ZIFH06B/ (music Reflection); Story FB+IG PUBLISHED",
+  "news_search": "2h window: Arab News 14:46 PKT PMA passing-out parade",
+  "verification": "Arab News (14:46) + Dawn (10:49, upd 12:22) both report 154th Long Course passing-out parade at PMA Kakul on 17 Oct with CNSC Gen Aamer Raza; Express Tribune also reports. Foreign-cadet list only in Arab News, left out.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, no text/public figures",
+  "publish": "feed+reel+story created at 16:03/16:03/16:08 (NOW+5 rule, NOW 15:58); reel audioType music, displayArtist Abby Posner. Music picked from VERIFIED MUSIC LIST (no trending search to save time in slot)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM Shehbaz honours Asian Games medalists, announces National Sports Conference (APP 15:18)",
+   "reason": "single approved outlet (24NewsHD not approved)"
+  },
+  {
+   "headline": "Dar meets AJK PM Gilani (APP 15:23)",
+   "reason": "single approved outlet; no official release found"
+  }
+ ],
+ "errors": []
+}
