@@ -1,1 +1,70 @@
-{"slot": "2026-10-17T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-17T14:47:08+05:00"}
+{
+ "slot": "2026-10-17T15:00:00+05:00",
+ "riseup_day": "2026-10-17",
+ "run_started_pkt": "2026-10-17T14:47:08+05:00",
+ "run_finished_pkt": "2026-10-17T14:51:30+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "A 5.9-magnitude earthquake struck Balochistan's Khuzdar district on Saturday morning at a depth of 25km, with no loss of life or property reported.",
+  "sources": [
+   {
+    "outlet": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2635350/59-magnitude-earthquake-jolts-balochistans-khuzdar-adjoining-areas",
+    "published_at": "2026-10-17T14:09:16+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037802/59-magnitude-earthquake-jolts-balochistans-khuzdar",
+    "published_at": "2026-10-17T12:31:24+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-17-khuzdar-earthquake-59",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-17-khuzdar-earthquake-59.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "44eef7f8-8d07-48a2-a87a-880eeaa99817",
+   "credits_remaining_after": 32
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 398413100,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7657697566059285628",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 398413128,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4647285446013534044",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 398413135,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4551127239161722623",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall",
+ "stages": {
+  "metricool_read": "Brand 7305396, Asia/Karachi; facebook, instagram (riseuppakistann), tiktok connected. Windows 14:00-16:00 17 Oct, then 15 Oct 14:00 - 18 Oct 03:00 in 6h windows, all OK. Slot 15:00 free. RiseUp day 17 Oct before this run: 2 news feed posts (10:00, 12:00), 2 TikTok. No earthquake story in last 48h.",
+  "previous_slot_check": "13:00 and 14:00 slots were skipped (no posts). Last posts 12:00 feed 398347116 (facebook + tiktok PUBLISHED), Reel 398347147 (instagram PUBLISHED), Story 398347156 (facebook + instagram PUBLISHED). No retries needed.",
+  "news_search": "Web searches for Pakistan news 17 Oct; Dawn results; Khuzdar quake search.",
+  "verification": "Express Tribune (staff, Quetta, 14:09 PKT) + Dawn (12:31 PKT), both citing PMD: 5.9 magnitude, 25km depth, 48km NW of Khuzdar, no loss of life/property.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, checked: no text, no public figures.",
+  "publish": "Card and 8s zoom MP4 checked. Feed (FB+TikTok), IG Reel with music (audioType music, Reflection - Sam Marshall), Story (FB+IG) all PENDING. Trending-audio search not confirmed as Metricool 'music' so used verified list id 478728841591377."
+ },
+ "skipped_candidates": [],
+ "errors": []
+}
