@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-17-sindh-huawei-karachi-labs",
+ "type": "news",
+ "headline": "Sindh Chief Minister Murad Ali Shah invited Huawei to set up R&D facilities or technology labs in Karachi during a visit to its Lianqiu Lake R&D Centre in Shanghai.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037690/cm-murad-seeks-chinese-expertise-in-smart-city-planning-for-karachi",
+   "published_at": "2026-10-17T04:57:05+05:00"
+  },
+  {
+   "outlet": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2635271/sindh-taps-huawei-to-build-an-ai-powered-future",
+   "published_at": "2026-10-17T01:46:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/34dc595e-dead-4950-923a-b5ce9ac7a155/4e46c89a-7dfe-417e-adbc-30a1c690dbda/Realistic_photo_of_a_modern_technology_research_lab__a_brigh.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYWIzMzY5ZmZiMWVkMzgzMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjM1OTgwN30.Bd4yIG11oWXWpXUi0a5KOdrH4wocHUcT-RdF-YJKqqM",
+  "head1": "Sindh Invites",
+  "head2_hl": "Huawei",
+  "head2": "To Karachi",
+  "kicker": "R&D Labs For Karachi",
+  "desc": "CM Murad wants tech labs at Karachi Education City",
+  "source": "Dawn",
+  "date": "17 OCT 2026"
+ },
+ "caption": "Sindh Chief Minister Murad Ali Shah invited Huawei to set up R&D facilities or technology labs in Karachi, linked to Karachi Education City, Dawn and The Express Tribune reported. During a visit to Huawei's Lianqiu Lake R&D Centre in Shanghai, he also proposed cooperation on a government cloud, data centres, cybersecurity and AI computing.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Sindh #Karachi #Technology #Pakistan",
+ "tiktok_title": "Sindh CM invites Huawei to set up R&D labs in Karachi",
+ "publish": {
+  "slot": "2026-10-17T12:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "810120545333296",
+  "label": "Iced Latte - Global Genius"
+ },
+ "ai_generated": true
+}
