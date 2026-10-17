@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-17-lsm-august-067",
+ "type": "news",
+ "headline": "Pakistan's large-scale manufacturing output grew 0.67% year-on-year in August 2026 but fell 4.96% from July, Pakistan Bureau of Statistics data showed.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037724/big-industry-output-posts-meagre-rise",
+   "published_at": "2026-10-17T04:56:34+05:00"
+  },
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635298/lsm-stalls-as-steel-fertiliser-slump",
+   "published_at": "2026-10-17T02:24:02+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/7e27a297-a4eb-4441-b565-6bdafd81134f/ab15e964-dddb-404c-b0fd-f8af70c47b0c/Realistic_documentary_photo_inside_a_large_manufacturing_fac.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDc3ZDNlZjUyMWQ4ZjM3NSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjM1MzY1M30.z8rkcdM9kgaVsWYsWzF0GfIhAjsF1T_aY8x94UO97Lg",
+  "head1": "Big Industry Output",
+  "head2_hl": "Up 0.67%",
+  "head2": "",
+  "kicker": "August 2026 PBS Data",
+  "desc": "Production fell 4.96% from July; July-August growth 1.85%",
+  "source": "Dawn",
+  "date": "17 OCT 2026"
+ },
+ "caption": "Pakistan's large-scale manufacturing grew 0.67% year-on-year in August 2026 but fell 4.96% from July, Dawn and The Express Tribune reported, citing Pakistan Bureau of Statistics data. Growth for July-August reached 1.85%, while iron and steel and fertiliser output declined.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LSM #PakistanEconomy #Manufacturing #Pakistan",
+ "tiktok_title": "Pakistan's big industry output grows 0.67% in August 2026",
+ "publish": {
+  "slot": "2026-10-17T10:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
