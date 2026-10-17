@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-17-khuzdar-earthquake-59",
+ "type": "news",
+ "headline": "A 5.9-magnitude earthquake struck Balochistan's Khuzdar district on Saturday morning at a depth of 25km, with no loss of life or property reported.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2635350/59-magnitude-earthquake-jolts-balochistans-khuzdar-adjoining-areas",
+   "published_at": "2026-10-17T14:09:16+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037802/59-magnitude-earthquake-jolts-balochistans-khuzdar",
+   "published_at": "2026-10-17T12:31:24+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/44eef7f8-8d07-48a2-a87a-880eeaa99817/bbdd7e17-f041-4df6-890c-39b20c84adaf/Realistic_news_photo_of_a_small_town_in_the_dry_rocky_hills_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTE3NDBiMTIyOWViMTdjMSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjM4NzczMH0.9v9zizp0Qr7dWR0zbQercCsB-SKcIujOq1eFIFkW8qk",
+  "head1": "Earthquake Jolts",
+  "head2_hl": "Khuzdar",
+  "head2": "",
+  "kicker": "5.9 Magnitude, 25km Deep",
+  "desc": "No loss of life or property damage reported",
+  "source": "Dawn",
+  "date": "17 OCT 2026"
+ },
+ "caption": "A 5.9-magnitude earthquake jolted Balochistan's Khuzdar district on Saturday morning, Dawn and The Express Tribune reported, citing the Pakistan Meteorological Department. The quake struck at a depth of 25km, 48km northwest of Khuzdar, and no loss of life or property was reported.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Earthquake #Khuzdar #Balochistan #Pakistan",
+ "tiktok_title": "5.9-magnitude earthquake jolts Khuzdar, no losses reported",
+ "publish": {
+  "slot": "2026-10-17T15:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "478728841591377",
+  "label": "Reflection - Sam Marshall"
+ },
+ "ai_generated": true
+}
