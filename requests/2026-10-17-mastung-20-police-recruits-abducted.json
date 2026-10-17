@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-17-mastung-20-police-recruits-abducted",
+ "type": "news",
+ "headline": "Armed men abducted 20 police recruits of the Kalat Police Training Centre in Balochistan's Mastung district, officials said.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2037816/armed-men-abduct-20-under-training-police-personnel-in-mastung-officials",
+   "published_at": "2026-10-17T14:38:09+05:00"
+  },
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/gunmen-kidnap-20-police-constables-in-militancy-hit-southwestern-pakistan-official-3004430",
+   "published_at": "2026-10-17T12:39:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/78adeb7c-2a3e-4b3f-ab73-d6a3b0e8fe41/8c6b1d9c-5b22-42e8-9136-3f0ccc977752/Realistic_documentary_photograph_of_a_lonely_two_lane_highwa.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOGQ1OWRhNTI2ZTVhMmMwOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjMzNjg1MH0.9RsIfflDU2EIQgj2WwH-y-cx20cxQK54MbHYQBmJvfk",
+  "head1": "20 Police Recruits",
+  "head2_hl": "Abducted",
+  "head2": "",
+  "kicker": "Mastung, Balochistan",
+  "desc": "Armed men stopped their van; search operation underway.",
+  "source": "Dawn / Arab News",
+  "date": "17 OCT 2026"
+ },
+ "caption": "Armed men abducted 20 police recruits from the Kalat Police Training Centre in Balochistan's Mastung district, Dawn and Arab News reported, citing officials. Dawn said security forces have launched a search in nearby mountains, and no group has claimed responsibility.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Mastung #Balochistan #PakistanNews #Pakistan",
+ "tiktok_title": "20 police recruits abducted in Mastung, Balochistan",
+ "publish": {
+  "slot": "2026-10-17T17:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1329928372147056",
+  "label": "Slow Living - stereogully"
+ },
+ "ai_generated": true
+}
