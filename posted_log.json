@@ -2704,5 +2704,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "2026-10-17T19:00:00+05:00",
+  "request_id": "2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900",
+  "layout": "bold",
+  "headline": "SSGC will shut its 24-inch Qatar mainline in Karachi's Sher Shah area for maintenance from 10pm Saturday to 9am Sunday, warning of low gas pressure in parts of Baldia, Orangi and SITE if work overruns.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2635375/ssgc-warns-parts-of-karachi-may-face-gas-supply-disruption-tomorrow",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2635375/ssgc-warns-parts-of-karachi-may-face-gas-supply-disruption-tomorrow",
+    "published_at": "2026-10-17T17:26:17+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/686951-parts-of-karachi-to-face-gas-supply-suspension-this-weekend-ssgc",
+    "published_at": "2026-10-17T09:46:34+05:00"
+   }
+  ],
+  "published": "2026-10-17T17:26:17+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 736789416,
+  "image": "posts/2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900.jpg",
+  "story": "posts/2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-17 19:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-17-karachi-ssgc-gas-mainline-shutdown-1900.mp4"
  }
 ]
