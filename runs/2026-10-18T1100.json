@@ -1,1 +1,65 @@
-{"slot": "2026-10-18T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-18T10:47:07+05:00"}
+{
+ "slot": "2026-10-18T11:00:00+05:00",
+ "riseup_day": "2026-10-18",
+ "run_started_pkt": "2026-10-18T10:47:07+05:00",
+ "run_finished_pkt": "2026-10-18T10:54:51+05:00",
+ "test_mode": false,
+ "outcome": "error_runway_credits",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan halted trade with Iran at the Taftan crossing after the Commerce Ministry withdrew its October 3 order; Quetta's chamber told members to stop new orders and Iran cited 'technical issues'.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2635441/trade-at-taftan-comes-to-a-grinding-halt",
+    "published_at": "2026-10-18T09:24:39+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2037865",
+    "published_at": "2026-10-18T00:10:54+05:00"
+   }
+  ]
+ },
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "refused: This Runway workspace is out of credits."
+  }
+ ],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 10:00-12:00 empty; all 6h windows 16 Oct 10:00 .. 18 Oct 23:00 read OK; RiseUp day 18 Oct counts: 0 feed, 0 TikTok",
+  "previous_slot_check": "slot 10:00 was skipped (no post). Last posts slot 00:00 (feed 398690877, reel 398690922, story 398690933) all PUBLISHED.",
+  "news_search": "approved-outlet searches; Dawn/Geo latest pages could not be fetched (permission withdrawn)",
+  "verification": "Taftan/Iran trade halt verified: Express Tribune 09:24 PKT (main, within 2h) + Dawn 18 Oct 00:10 (confirming: Taftan + Gabd-Rimdan, Commerce memo withdrawing Oct 3 order, Quetta chamber advice, Iran spokesperson 'technical issues'). Not posted in last 48h.",
+  "image": "Runway generate_image nano-banana-2-lite refused: workspace out of credits",
+  "publish": "none - stopped per runbook (no photo, no post)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan calls claims of US Navy using its territory against Iran 'fabricated propaganda' (Arab News 09:45)",
+   "reason": "no second approved outlet found"
+  },
+  {
+   "headline": "One in three adults in Pakistan lives with psychological disorder: study (Dawn upd 08:59)",
+   "reason": "no second approved outlet today; same survey figures reported Nov 2025"
+  },
+  {
+   "headline": "Peshawar pilot dies in microlight crash in Jhang (Express Tribune 09:34)",
+   "reason": "only one approved outlet; private individual"
+  },
+  {
+   "headline": "Tri-series begins today in Rawalpindi (Business Recorder)",
+   "reason": "duplicate of 17 Oct 21:02 post (opener vs Sri Lanka on Sunday)"
+  }
+ ],
+ "errors": [
+  "mcp__Runway__generate_image: This Runway workspace is out of credits. This generation couldn't be submitted because the connected workspace doesn't have enough credits. Do not retry this request. Do not try a different model — that also needs credits.",
+  "WebFetch https://www.dawn.com/latest-news and https://www.geo.tv/latest-news: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time and was withdrawn.",
+  "WebSearch (allowed_domains incl. reuters/aljazeera): PROXY_REJECTED HTTP 400 The request was invalid"
+ ]
+}
