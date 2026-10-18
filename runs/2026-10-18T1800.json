@@ -1,1 +1,28 @@
-{"slot": "2026-10-18T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-18T17:46:57+05:00"}
+{
+ "slot": "2026-10-18T18:00:00+05:00",
+ "riseup_day": "2026-10-18",
+ "run_started_pkt": "2026-10-18T17:46:57+05:00",
+ "run_finished_pkt": "2026-10-18T17:47:17+05:00",
+ "test_mode": false,
+ "outcome": "error_runway_credits",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: getScheduledPosts 7305396 Asia/Karachi 17:00-19:00 returned no posts (slot 18:00 free; nothing at 17:00)",
+  "previous_slot_check": "slot 17:00 was not posted (error_runway_credits); nothing to verify or retry.",
+  "news_search": "not run - Runway balance checked first and is 0, so no card can be made this slot",
+  "verification": "n/a",
+  "image": "mcp__Runway__show_plans_and_credits: workspace 37342403 Free plan, credits plan 0 / purchased 0 / total 0 (nano-banana-2-lite needs 4). Generation not attempted.",
+  "publish": "none - stopped per runbook section 3 (no photo, no post)"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "Runway workspace 37342403 (Free plan) still has 0 credits (show_plans_and_credits total 0). Ninth consecutive slot lost (10:00 skipped, 11:00-18:00 error_runway_credits). Owner must add credits / upgrade at https://app.runwayml.com/settings/billing.",
+  "mcp__claude-code-remote__add_repo: not available as a tool (repo already cloned and in scope; push works)"
+ ]
+}
