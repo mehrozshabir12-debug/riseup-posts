@@ -1,1 +1,55 @@
-{"slot": "2026-10-18T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-18T09:47:10+05:00"}
+{
+ "slot": "2026-10-18T10:00:00+05:00",
+ "riseup_day": "2026-10-18",
+ "run_started_pkt": "2026-10-18T09:47:10+05:00",
+ "run_finished_pkt": "2026-10-18T09:54:42+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all 6h windows 16 Oct 09:00 .. 18 Oct 22:00 read OK; no post at 10:00; RiseUp day 18 Oct counts: 0 feed, 0 TikTok",
+  "previous_slot_check": "slot 00:00 (airspace ban): feed 398690877 facebook PUBLISHED; reel 398690922 instagram PUBLISHED (music Simple Pleasures - Alex Blue); story 398690933 facebook+instagram PUBLISHED. No errors, no retries needed.",
+  "news_search": "Dawn latest (items 06:39-09:27 PKT), Express Tribune home, targeted searches. Started 09:46 PKT, 14 min before slot.",
+  "verification": "no candidate within 8h had a second approved outlet or official source confirmed in time",
+  "image": "not generated (no story) - 0 Runway credits used",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Digging for Red Line damages gas pipeline, disrupts supply in Karachi (Dawn, upd 18 Oct 08:54)",
+   "reason": "event was Saturday 1-5pm and already restored; only Dawn among approved outlets; overlaps the 17 Oct SSGC Karachi gas post"
+  },
+  {
+   "headline": "Food exports surge 25pc in July-Sept (Dawn 06:39)",
+   "reason": "article fetch failed (permission request withdrawn); no second approved outlet found"
+  },
+  {
+   "headline": "Karachi's Green Line extension to be completed in FY27 (Dawn upd 09:03)",
+   "reason": "only Daily Times (not approved) as second source"
+  },
+  {
+   "headline": "PM orders probe into vaccine procurement for pilgrims",
+   "reason": "first reported 17 Oct, older than 8 h"
+  },
+  {
+   "headline": "Govt moves to curb LPG hoarding ahead of winter (Dawn 06:39)",
+   "reason": "no confirming approved outlet found"
+  },
+  {
+   "headline": "Governor's rule in KP / Nawaz backs it (Dawn 07:20)",
+   "reason": "politically one-sided statement; not suitable without neutral framing and a second source"
+  }
+ ],
+ "notes": [
+  "Express Tribune headline 'Pakistan extends airspace ban for Indian aircraft until October 23' differs from the 00:00 post (Nov 24, per Geo News and Dawn); owner may want to double-check. Not changed by this run."
+ ],
+ "errors": [
+  "WebFetch https://www.dawn.com/news/2037910/food-exports-surge-25pc-in-july-sept: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time and was withdrawn."
+ ]
+}
