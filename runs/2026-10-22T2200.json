@@ -1,5 +1,28 @@
 {
  "slot": "2026-10-22T22:00:00+05:00",
- "outcome": "started",
- "run_started_pkt": "2026-10-22T21:47:03+05:00"
+ "riseup_day": "2026-10-22",
+ "run_started_pkt": "2026-10-22T21:47:03+05:00",
+ "run_finished_pkt": "2026-10-22T21:47:17+05:00",
+ "test_mode": false,
+ "outcome": "error_runway_credits",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: getScheduledPosts 7305396 Asia/Karachi 2026-10-22T21:00..23:00 returned no posts (slot 22:00 free). Wider 48h windows not read because the run stopped at the credit check.",
+  "previous_slot_check": "slot 21:00 has no post in Metricool (that run ended error_runway_credits); nothing to verify or retry.",
+  "news_search": "not run - Runway balance is 0, so no card can be made this slot",
+  "verification": "n/a",
+  "image": "mcp__Runway__show_plans_and_credits: workspace 37342403 Free plan, credits plan 0 / purchased 0 / total 0 (nano-banana-2-lite needs 4). Generation not attempted.",
+  "publish": "none - stopped per runbook section 3 (no photo, no post)"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "Runway workspace 37342403 (Free plan) still has 0 credits (show_plans_and_credits total 0). Owner must add credits / upgrade at https://app.runwayml.com/settings/billing.",
+  "add_repo tool not available in this session (repo already in scope; existing clone used and push works)"
+ ]
 }
