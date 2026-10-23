@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-23-uthal-road-accident-2000",
+ "type": "news",
+ "headline": "At least 12 people were killed and 22 injured when a passenger bus and a van collided near Zero Point in Uthal, Balochistan, on 23 October, Dawn and Express Tribune reported.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039255/at-least-12-killed-22-injured-in-road-accident-near-zero-point-in-balochistans-uthal",
+   "published_at": "2026-10-23T16:07:19+05:00"
+  },
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636509/at-least-12-killed-as-passenger-bus-collides-with-van-in-balochistans-uthal",
+   "published_at": "2026-10-23T16:35:56+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b7d902c2-67c3-4485-8fae-ffb0155b237a/81211fef-f516-4f45-a67e-925c7d85052d/Realistic_news_photo_of_a_national_highway_in_a_dry__rocky_B.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDA0ZjIwZDE3YTQ3YWM0NyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjkzOTQ3M30.mZtCTJYx4hGYS5QMMVlQ_ijffNcXX4jbGgd06C_MUzE",
+  "head1": "12 Killed In",
+  "head2_hl": "Uthal",
+  "head2": "Crash",
+  "kicker": "Bus and van collide",
+  "desc": "A passenger bus and van collided near Zero Point; 22 injured.",
+  "source": "Dawn",
+  "date": "23 OCT 2026"
+ },
+ "caption": "At least 12 people were killed and 22 injured when a passenger bus and a van collided near Zero Point in Uthal, Balochistan, Dawn reports. The injured were shifted to hospitals and then referred to Karachi, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Balochistan #RoadSafety #Uthal #PakistanNews",
+ "tiktok_title": "12 killed, 22 injured as bus and van collide in Balochistan's Uthal",
+ "publish": {
+  "slot": "2026-10-23T20:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1211414204067053",
+  "label": "Drift Away (Instrumental) - Giulio Cercato"
+ },
+ "ai_generated": true
+}
