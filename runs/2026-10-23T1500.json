@@ -1,1 +1,34 @@
-{"slot": "2026-10-23T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T14:46:21+05:00"}
+{
+ "slot": "2026-10-23T15:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T14:46:10+05:00",
+ "run_finished_pkt": "2026-10-23T14:55:48+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. getScheduledPosts T-1h..T+1h and 10 six-hour windows 2026-10-21T14:47..2026-10-24T02:47 all succeeded; slot 15:00 free; stories last 48h: Dar/Istanbul R4-E3 (11:00), UNIDO Sindh $40m (13:00), PSL 12 direct signings (14:00); this RiseUp day: 3 news posts, 3 TikTok.",
+  "previous_slot_check": "Slot 14:00: feed 403942832 facebook PUBLISHED (https://facebook.com/122185478282855502/posts/122187354818855502), tiktok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7699786631489801478); reel 403942872 instagram PUBLISHED (https://www.instagram.com/reel/De1MbJhjaFx/), audio music The Process - Jackson Whalan; story 403942884 facebook+instagram PUBLISHED. No retries needed.",
+  "news_search": "web search + article fetches. geo.tv/latest-news, thenews.com.pk/latest-stories, app.com.pk/national, radio.gov.pk, pmo.gov.pk, arabnews.pk listing fetches failed (PROVENANCE_REQUIRED); dawn.com/latest-news and brecorder.com/latest-news returned stale cached listings.",
+  "verification": "No candidate within 8h had a second approved outlet or official primary source confirming the same facts.",
+  "image": "not generated (no verified story; no credits spent)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {"headline": "Pakistan deploys 1,782 5G sites in 24 cities (Jazz 1,015, Zong 640, Ufone 127) - Business Recorder 14:40 PKT", "reason": "single source; APP (20 Oct) and Express Tribune (21 Oct) only say 'more than 1,700 sites', older than the main source and not the same figures"},
+  {"headline": "PM Shehbaz meets Alvarez & Marsal MD, seeks international consulting expertise for reforms - Business Recorder 14:26 PKT", "reason": "single approved source (only Hum English otherwise, not approved); PMO press release could not be fetched"},
+  {"headline": "DPM Dar arrives in Istanbul for R4/R4+E3 meetings (Dawn upd 13:16, Geo upd 13:05)", "reason": "duplicate of 11:00 post, no outcome of the meeting reported yet"},
+  {"headline": "KSE-100 falls 2,006 points to 163,924 (Express Tribune)", "reason": "Thursday 22 Oct close, published 03:13 PKT - older than 8 h"},
+  {"headline": "Smog warning (Express Tribune editorial)", "reason": "editorial, published 09:59 PKT, no news facts to verify"}
+ ],
+ "errors": [
+  "WebFetch PROVENANCE_REQUIRED: The permission request for this URL was not answered in time - https://www.geo.tv/latest-news, https://www.thenews.com.pk/latest-stories, https://www.app.com.pk/national/, https://www.radio.gov.pk/latest-news, https://www.pmo.gov.pk/press_releases.php, https://www.arabnews.pk/taxonomy/term/27411",
+  "WebFetch client_error: https://www.brecorder.com/news/40445417/psx-kse-100-down-over-2000-points-amid-escalating-me-conflict",
+  "add_repo tool not available in this session (repo already cloned; push works)"
+ ]
+}
