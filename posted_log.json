@@ -3118,5 +3118,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "2026-10-23T19:00:00+05:00",
+  "request_id": "2026-10-23-lpg-shortage-iran-border-1900",
+  "layout": "bold",
+  "headline": "Pakistan's LPG shortage worsened and cylinder prices surged after the Taftan crossing with Iran was closed, cutting supplies, Reuters and Express Tribune reported on 23 October.",
+  "source_outlet": "Business Recorder (Reuters)",
+  "source": "https://www.brecorder.com/news/40445620/pakistan-lpg-shortage-worsens-after-border-closure-traders-say",
+  "sources": [
+   {
+    "outlet": "Business Recorder (Reuters)",
+    "url": "https://www.brecorder.com/news/40445620/pakistan-lpg-shortage-worsens-after-border-closure-traders-say",
+    "published_at": "2026-10-23T15:37:34+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636417/lpg-crisis-deepens-as-ogra-delays-op",
+    "published_at": "2026-10-23T09:27:23+05:00"
+   }
+  ],
+  "published": "2026-10-23T15:37:34+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 200021203,
+  "image": "posts/2026-10-23-lpg-shortage-iran-border-1900.jpg",
+  "story": "posts/2026-10-23-lpg-shortage-iran-border-1900-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-23 19:04 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-23-lpg-shortage-iran-border-1900.mp4"
  }
 ]
