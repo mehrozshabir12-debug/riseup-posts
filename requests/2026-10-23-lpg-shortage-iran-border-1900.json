@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-23-lpg-shortage-iran-border-1900",
+ "type": "news",
+ "headline": "Pakistan's LPG shortage worsened and cylinder prices surged after the Taftan crossing with Iran was closed, cutting supplies, Reuters and Express Tribune reported on 23 October.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder (Reuters)",
+   "url": "https://www.brecorder.com/news/40445620/pakistan-lpg-shortage-worsens-after-border-closure-traders-say",
+   "published_at": "2026-10-23T15:37:34+05:00"
+  },
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636417/lpg-crisis-deepens-as-ogra-delays-op",
+   "published_at": "2026-10-23T09:27:23+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/2ffec11d-5854-4c0b-8534-8c34d1c164b9/e2426ea5-78b6-4f37-be1c-c9af705773fd/Realistic_photo_of_a_small_LPG_cylinder_shop_on_a_dusty_stre.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNTM3YTdjMmQwZGY0MjM0MiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjg3ODUwOX0.eZLz5OgKcVdmSb4PEPV5o_d4vnjnXKP6gJtiqWsp6Kk",
+  "head1": "LPG Shortage",
+  "head2_hl": "Worsens",
+  "head2": "",
+  "kicker": "After Iran border closure",
+  "desc": "Cylinder prices surge as Taftan crossing closure cuts supplies.",
+  "source": "Reuters",
+  "date": "23 OCT 2026"
+ },
+ "caption": "Pakistan's LPG shortage has worsened since the Taftan crossing with Iran was closed, cutting supplies, Reuters reports. Cylinder prices have surged in several areas, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LPG #GasPrices #Pakistan #PakistanNews",
+ "tiktok_title": "LPG shortage worsens in Pakistan after Iran border closure",
+ "publish": {
+  "slot": "2026-10-23T19:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "478728841591377",
+  "label": "Reflection - Sam Marshall"
+ },
+ "ai_generated": true
+}
