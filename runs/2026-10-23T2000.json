@@ -1,1 +1,76 @@
-{"slot": "2026-10-23T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T19:47:51+05:00"}
+{
+ "slot": "2026-10-23T20:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T19:47:51+05:00",
+ "run_finished_pkt": "2026-10-23T19:52:48+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "At least 12 people were killed and 22 injured when a passenger bus and a van collided near Zero Point in Uthal, Balochistan, on 23 October, Dawn and Express Tribune reported.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039255/at-least-12-killed-22-injured-in-road-accident-near-zero-point-in-balochistans-uthal",
+    "published_at": "2026-10-23T16:07:19+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636509/at-least-12-killed-as-passenger-bus-collides-with-van-in-balochistans-uthal",
+    "published_at": "2026-10-23T16:35:56+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-23-uthal-road-accident-2000",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-uthal-road-accident-2000.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (Runway nano-banana-2-lite task b7d902c2-67c3-4485-8fae-ffb0155b237a; no readable text, no public figures, no injured people)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404251165,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1108886660813993872",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404251258,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2779478329983323631",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404251296,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7003875993057604066",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Drift Away (Instrumental) - Giulio Cercato (1211414204067053, audioType music)",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. T-1h..T+1h window plus 10 six-hour windows 2026-10-21T19:48..2026-10-24T07:48 all succeeded. Slot 20:00 free. RiseUp day before this post: 5 news feed posts, 5 with TikTok. Music used today: Sunday In October, Simple Pleasures, The Process, Slow Living, Reflection.",
+  "previous_slot_check": "19:00 feed 404202677 (FB+TikTok), reel 404202757 (IG), story 404202781 (FB+IG): all PUBLISHED. FB https://facebook.com/122185478282855502/posts/122187383930855502 ; TikTok https://www.tiktok.com/@riseuppakistan2025/video/7699865000482983175 ; IG reel https://www.instagram.com/reel/De1vMkTDIsy/ ; IG story https://www.instagram.com/stories/riseuppakistann/4014322724196858808. No retries needed.",
+  "news_search": "web search (approved outlets) + fetch of candidate articles",
+  "verification": "Dawn 16:07 PKT (updated 16:54): at least 12 killed, about 22 injured, coach and minibus collided near Zero Point, Uthal, Quetta-Karachi highway; injured shifted to Bela then Karachi. Express Tribune 16:35 PKT: at least 12 killed, 22 injured, passenger bus and van collided near Zero Point in Uthal, Lasbela; injured referred to Karachi. Card/caption use only the shared facts.",
+  "image": "1 Runway nano-banana-2-lite image, checked",
+  "publish": "Request committed ~19:50, rendered 19:51:17 awaiting_publish. Card and 8 s 1080x1920 zoom MP4 (h264+aac) checked. Feed+Reel 20:00, Story 20:05 from payloads exactly. Reel audio audioType music, displayArtist Giulio Cercato. getScheduledPosts 19:55-20:10 shows all three PENDING. Trending-audio web search skipped; verified-list calm instrumental used for serious news."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Lahore DC formally notifies 3-day Basant on 12-14 March 2027 with kite/string rules and no-fly zones (Dawn 19:19 PKT)",
+   "reason": "no second approved outlet with a 23 Oct report found in time (Tribune/Geo items are older)"
+  }
+ ],
+ "errors": [
+  "add_repo tool not available in this session (repo already cloned; push works)",
+  "WebSearch (first query with allowed_domains incl. reuters/aljazeera): PROXY_REJECTED HTTP 400 The request was invalid"
+ ]
+}
