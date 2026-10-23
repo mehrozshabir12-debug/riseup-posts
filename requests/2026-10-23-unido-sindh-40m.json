@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-23-unido-sindh-40m",
+ "type": "news",
+ "headline": "UNIDO will mobilise around $40 million from international donors and investors for a dedicated development programme in Sindh, agreed between Chief Minister Murad Ali Shah and UNIDO Deputy Director General Fatou Haidara at the CM House in Karachi.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039117/unido-to-mobilise-40m-for-sindh-rural-development-climate-resilient-projects",
+   "published_at": "2026-10-23T07:06:18+05:00"
+  },
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636445/unido-plans-40m-uplift-programme-for-sindh",
+   "published_at": "2026-10-23T07:18:03+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/25baefc5-669a-4ac5-acc7-29c5743d9bba/6a8531e7-c524-43ac-9d48-a091dd78243d/Realistic_documentary_photo_of_a_rural_village_in_Sindh__Pak.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzRmNDdjMDJkZGIwYzk1MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjg3NTI2Nn0.oVC8x_RqgZx7sexpVxIdWGOhedXMtjy2dhmV0x7wOH4",
+  "head1": "UNIDO For Sindh",
+  "head2_hl": "$40 Million",
+  "head2": "Plan",
+  "kicker": "Rural uplift, climate projects",
+  "desc": "CM Murad Shah, UNIDO agree five-year Sindh development push.",
+  "source": "Dawn",
+  "date": "23 OCT 2026"
+ },
+ "caption": "UNIDO will mobilise around $40 million from international donors and investors for a dedicated development programme in Sindh, Dawn reports. The plan, agreed between CM Murad Ali Shah and UNIDO's Fatou Haidara, targets rural development, climate-resilient infrastructure and jobs, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Sindh #UNIDO #RuralDevelopment #PakistanNews",
+ "tiktok_title": "UNIDO to mobilise $40 million for Sindh rural development",
+ "publish": {
+  "slot": "2026-10-23T13:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1131479132514825",
+  "label": "Simple Pleasures - Alex Blue"
+ },
+ "ai_generated": true
+}
