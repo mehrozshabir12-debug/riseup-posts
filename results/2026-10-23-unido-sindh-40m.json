@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-23-unido-sindh-40m",
+ "revision": 1,
+ "request": "requests/2026-10-23-unido-sindh-40m.json",
+ "type": "news",
+ "headline": "UNIDO will mobilise around $40 million from international donors and investors for a dedicated development programme in Sindh, agreed between Chief Minister Murad Ali Shah and UNIDO Deputy Director General Fatou Haidara at the CM House in Karachi.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-23T13:00:00+05:00",
+ "target_slot": "2026-10-23T13:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-unido-sindh-40m.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-unido-sindh-40m-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-unido-sindh-40m.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-23-unido-sindh-40m.jpg",
+  "story": "posts/2026-10-23-unido-sindh-40m-story.jpg",
+  "reel": "posts/2026-10-23-unido-sindh-40m.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 114432431,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-23T13:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "UNIDO will mobilise around $40 million from international donors and investors for a dedicated development programme in Sindh, Dawn reports. The plan, agreed between CM Murad Ali Shah and UNIDO's Fatou Haidara, targets rural development, climate-resilient infrastructure and jobs, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Sindh #UNIDO #RuralDevelopment #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-unido-sindh-40m.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "UNIDO to mobilise $40 million for Sindh rural development",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-23T13:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "UNIDO will mobilise around $40 million from international donors and investors for a dedicated development programme in Sindh, Dawn reports. The plan, agreed between CM Murad Ali Shah and UNIDO's Fatou Haidara, targets rural development, climate-resilient infrastructure and jobs, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Sindh #UNIDO #RuralDevelopment #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-unido-sindh-40m.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-unido-sindh-40m-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1131479132514825",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-23T13:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-unido-sindh-40m-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-23T12:55:10+05:00"
+}

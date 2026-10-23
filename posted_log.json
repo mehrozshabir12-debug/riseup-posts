@@ -2962,5 +2962,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "2026-10-23T13:00:00+05:00",
+  "request_id": "2026-10-23-unido-sindh-40m",
+  "layout": "bold",
+  "headline": "UNIDO will mobilise around $40 million from international donors and investors for a dedicated development programme in Sindh, agreed between Chief Minister Murad Ali Shah and UNIDO Deputy Director General Fatou Haidara at the CM House in Karachi.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2039117/unido-to-mobilise-40m-for-sindh-rural-development-climate-resilient-projects",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039117/unido-to-mobilise-40m-for-sindh-rural-development-climate-resilient-projects",
+    "published_at": "2026-10-23T07:06:18+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636445/unido-plans-40m-uplift-programme-for-sindh",
+    "published_at": "2026-10-23T07:18:03+05:00"
+   }
+  ],
+  "published": "2026-10-23T07:06:18+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 114432431,
+  "image": "posts/2026-10-23-unido-sindh-40m.jpg",
+  "story": "posts/2026-10-23-unido-sindh-40m-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-23 13:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-23-unido-sindh-40m.mp4"
  }
 ]
