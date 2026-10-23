@@ -1,1 +1,33 @@
-{"slot": "2026-10-23T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T09:47:03+05:00"}
+{
+ "slot": "2026-10-23T10:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T09:47:03+05:00",
+ "run_finished_pkt": "2026-10-23T09:54:10+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, Facebook/Instagram/TikTok connected. getScheduledPosts T-1h..T+1h and 10 six-hour windows 2026-10-21T09:45..2026-10-23T21:50 all returned no posts (slot 10:00 free; no stories in last 48 h; 0 posts this RiseUp day).",
+  "previous_slot_check": "slot 00:00 (23 Oct) has no post in Metricool (that run ended error_runway_credits); nothing to verify or retry.",
+  "news_search": "web search done; homepage listings of dawn.com/latest-news, geo.tv/latest-news, tribune.com.pk/latest could not be fetched (PROVENANCE_REQUIRED: permission request not answered in time).",
+  "verification": "only fresh candidate (Arab News, 08:39 PKT) had no second approved outlet; APP search hit was an unrelated Oct 2025 Jeddah expo story.",
+  "image": "not generated (no verified story). Runway show_plans_and_credits: Pro plan, 2250 credits available - credit problem of 21-23 Oct is resolved.",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {"headline": "President Zardari urges converting Pakistan-Saudi ties into stronger economic partnerships at Saudi-Pakistan Real Estate Exhibition, Lahore (Arab News, published 2026-10-23T08:39+05:00)", "reason": "no confirming article from a second approved outlet found; event itself was 22 Oct; render + check could not finish before T+15"},
+  {"headline": "Pakistan climb to fourth in ICC ODI rankings (Express Tribune, 2026-10-22T11:13+05:00)", "reason": "older than 8 hours before T"},
+  {"headline": "16 killed as Tibet hit by magnitude 7 earthquake", "reason": "only non-approved outlet (Daily Pakistan) seen; no direct Pakistan impact"}
+ ],
+ "errors": [
+  "WebFetch dawn.com/latest-news, geo.tv/latest-news, tribune.com.pk/latest: PROVENANCE_REQUIRED (The permission request for this URL was not answered in time)",
+  "WebSearch with allowed_domains (11 domains): PROXY_REJECTED HTTP 400 The request was invalid",
+  "add_repo tool not available in this session (repo already cloned; push works)"
+ ]
+}
