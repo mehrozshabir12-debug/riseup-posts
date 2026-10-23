@@ -1,0 +1,27 @@
+{
+ "id": "2026-10-23-unido-sindh-40m",
+ "scheduled": "2026-10-23T13:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 403901886,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 403901961,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": "music: Simple Pleasures (Reels Sound - Photo Dump) - Alex Blue"
+  },
+  "story": {
+   "metricool_id": 403901982,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
