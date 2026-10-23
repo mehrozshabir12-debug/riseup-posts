@@ -2940,10 +2940,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-23 11:05 PKT",
+  "scheduled": "2026-10-23T11:05:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-23-dar-istanbul-r4-e3.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 403832796,
+   "reel": 403833005,
+   "story": 403833035
+  },
+  "video": "posts/2026-10-23-dar-istanbul-r4-e3.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
