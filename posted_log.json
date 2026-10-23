@@ -3170,5 +3170,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "2026-10-23T20:00:00+05:00",
+  "request_id": "2026-10-23-uthal-road-accident-2000",
+  "layout": "bold",
+  "headline": "At least 12 people were killed and 22 injured when a passenger bus and a van collided near Zero Point in Uthal, Balochistan, on 23 October, Dawn and Express Tribune reported.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2039255/at-least-12-killed-22-injured-in-road-accident-near-zero-point-in-balochistans-uthal",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039255/at-least-12-killed-22-injured-in-road-accident-near-zero-point-in-balochistans-uthal",
+    "published_at": "2026-10-23T16:07:19+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636509/at-least-12-killed-as-passenger-bus-collides-with-van-in-balochistans-uthal",
+    "published_at": "2026-10-23T16:35:56+05:00"
+   }
+  ],
+  "published": "2026-10-23T16:07:19+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 804006273,
+  "image": "posts/2026-10-23-uthal-road-accident-2000.jpg",
+  "story": "posts/2026-10-23-uthal-road-accident-2000-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-23 20:00 PKT",
+  "music": "Drift Away (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-23-uthal-road-accident-2000.mp4"
  }
 ]
