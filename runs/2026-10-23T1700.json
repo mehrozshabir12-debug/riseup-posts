@@ -1,1 +1,61 @@
-{"slot": "2026-10-23T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T16:48:37+05:00"}
+{
+ "slot": "2026-10-23T17:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T16:48:37+05:00",
+ "run_finished_pkt": "2026-10-23T17:10:26+05:00",
+ "test_mode": false,
+ "outcome": "error_render_timeout",
+ "story": {
+  "headline": "Lahore ranked as the world's most polluted city on Friday, 23 October, on IQAir's live ranking, with its air quality in the hazardous range and New Delhi second.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous",
+    "published_at": "2026-10-23T12:14:31+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/687888-lahore-ranks-worlds-most-polluted-city-as-residents-advised-to-wear-masks",
+    "published_at": "2026-10-23T10:06:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h",
+ "request_id": "2026-10-23-lahore-smog-world-most-polluted",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": null,
+ "music": "none (planned: Slow Living - stereogully, 1329928372147056; nothing posted)",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. getScheduledPosts T-1h..T+1h empty; 10 six-hour windows 2026-10-21T16:48..2026-10-24T04:48 all succeeded. Slot 17:00 free. This RiseUp day: 3 news posts (11:00 Dar Istanbul, 13:00 UNIDO Sindh, 14:00 PSL12), 3 TikTok. Music used today: Sunday In October, Simple Pleasures, The Process.",
+  "previous_slot_check": "Slot 16:00 had no posts (run error_render_timeout). 14:00 feed 403942832, reel 403942872, story 403942884 all PUBLISHED. No retries needed.",
+  "news_search": "web search + article fetch (Tribune, Geo); dawn.com/latest-news fetch blocked (PROVENANCE_REQUIRED).",
+  "verification": "Newest candidates (2h/3h windows) failed verification (see skipped_candidates). Lahore smog story never posted (16:00 run failed): Dawn 12:14 PKT (upd 12:36) + Geo 10:06 PKT agree -> 6h window.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image (task e3562040-0f74-45ea-854b-4ebdf3422a6b); checked: no readable text (background signs blurred), no public figures.",
+  "publish": "Request committed 16:55 PKT (commit a9e2fe9). GitHub Actions run 39949564037 (job 120400421116) stuck in step 4 'Install video tools only when a pending request has a Reel' since 11:56:20 UTC; still in_progress at 17:10 PKT, no results file. NOW+5 would exceed T+15, so slot missed. Nothing scheduled in Metricool."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Naqvi announces Islamabad high-rise plot auctions, 1,000-acre Manhattan-style city and 450-acre safari park (Express Tribune 15:57 PKT)",
+   "reason": "only one approved outlet; confirmations only from Samaa, 24News, Hum (not approved)"
+  },
+  {
+   "headline": "Govt signals another delay in Islamabad LG polls despite ECP 20 Dec schedule (Geo 14:34 PKT)",
+   "reason": "single approved source, 'reportedly'/signal framing, political"
+  },
+  {
+   "headline": "PM Shehbaz meets Alvarez & Marsal's Peter Briggs, calls for accountability with consultants (Express Tribune 14:19 PKT)",
+   "reason": "single approved source; no time to confirm; low relevance"
+  }
+ ],
+ "errors": [
+  "GitHub Actions run 39949564037 'RiseUp Media Manager' stuck >14 min in step 4 'Install video tools only when a pending request has a Reel' (same step that hung run 39941959391 at 16:00, cancelled after 30 min). results/2026-10-23-lahore-smog-world-most-polluted.json never appeared (16:55-17:10 PKT).",
+  "Requests 2026-10-23-lahore-most-polluted-city (slot 16:00) and 2026-10-23-lahore-smog-world-most-polluted (slot 17:00) remain unrendered; they must not be posted late.",
+  "add_repo tool not available in this session (repo already cloned; push works)"
+ ]
+}
