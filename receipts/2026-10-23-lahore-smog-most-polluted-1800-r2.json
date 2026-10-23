@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-23-lahore-smog-most-polluted-1800-r2",
+ "scheduled": "2026-10-23T18:04:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 404147879,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 404147927,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "1329928372147056",
+    "audioType": "music",
+    "title": "Slow Living",
+    "displayArtist": "stereogully"
+   }
+  },
+  "story": {
+   "metricool_id": 404147937,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "scheduled": "2026-10-23T18:09:00+05:00"
+  }
+ }
+}

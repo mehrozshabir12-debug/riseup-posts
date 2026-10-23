@@ -1,1 +1,81 @@
-{"slot": "2026-10-23T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T17:48:15+05:00"}
+{
+ "slot": "2026-10-23T18:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T17:48:15+05:00",
+ "run_finished_pkt": "2026-10-23T17:59:22+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Lahore ranked as the world's most polluted city on Friday, 23 October, on IQAir's live ranking, with its air quality in the hazardous range and New Delhi second.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous",
+    "published_at": "2026-10-23T12:14:31+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/687888-lahore-ranks-worlds-most-polluted-city-as-residents-advised-to-wear-masks",
+    "published_at": "2026-10-23T10:06:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h",
+ "request_id": "2026-10-23-lahore-smog-most-polluted-1800-r2",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-lahore-smog-most-polluted-1800-r2.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (reused Runway image from the unrendered 17:00 request, task e3562040-0f74-45ea-854b-4ebdf3422a6b; no new credits spent)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404147879,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3865385894725729186",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404147927,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1058025859700209813",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404147937,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-356644414483183417",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Slow Living - stereogully (1329928372147056, audioType music)",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. T-1h..T+1h empty; 10 six-hour windows 2026-10-21T17:48..2026-10-24T05:48 all succeeded. Slot 18:00 free. RiseUp day before this post: 3 news, 3 TikTok. Music used today: Sunday In October, Simple Pleasures, The Process.",
+  "previous_slot_check": "Slot 17:00 had no posts (run error_render_timeout; its request was later rejected as slot missed). 14:00 posts all PUBLISHED. No retries needed.",
+  "news_search": "web search; outlet section pages blocked for fetch (PROVENANCE_REQUIRED permission timeout).",
+  "verification": "Lahore smog story (never posted): Dawn 12:14 PKT + Geo 10:06 PKT agree -> 6h window. Newer candidates failed (see skipped_candidates).",
+  "image": "Reused the already-checked Runway nano-banana-2-lite image from request 2026-10-23-lahore-smog-world-most-polluted (no readable text, no public figures).",
+  "publish": "First request 2026-10-23-lahore-smog-most-polluted-1800 rejected (I set slot 18:10; renderer requires minute 00). Re-sent as -r2 with slot 18:00; rendered 17:57:57 (awaiting_publish, payload time 18:03). Card and zoom MP4 (8 s, 1080x1920) checked. Feed/Reel scheduled at 18:04 and Story at 18:09 (moved 1 min from payload so it is >=5 min after NOW 17:58:43). Reel audio confirmed audioType music, displayArtist stereogully. getScheduledPosts 17:55-18:15 shows all three PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Weekly SPI for week ended 22 Oct 2026: index 374.84, 0.65% change WoW (PBS, 12:30 PKT)",
+   "reason": "PBS page does not state direction or YoY; rise/11.85% only from non-approved outlets (24News, others); approved outlet pages and PBS PDF could not be fetched"
+  },
+  {
+   "headline": "KSE-100 closes down 1,549.44 points (0.95%) at 162,374.87 (Business Recorder, updated 16:58 PKT)",
+   "reason": "close figures only from one approved outlet; Express Tribune 13:54 PKT gives intraday figures (-1,335.01 to 162,589.30), not the same facts"
+  }
+ ],
+ "errors": [
+  "request 2026-10-23-lahore-smog-most-polluted-1800 rejected: publish.slot is required: the target slot, e.g. 2026-10-14T15:00:00+05:00 (minute 00, hours 10-23 or 00 PKT)",
+  "WebFetch PROVENANCE_REQUIRED: The permission request for this URL was not answered in time (brecorder, app.com.pk, tribune, thenews, geo section pages; PBS SPI PDF)",
+  "add_repo tool not available in this session (repo already cloned; push works)"
+ ]
+}
