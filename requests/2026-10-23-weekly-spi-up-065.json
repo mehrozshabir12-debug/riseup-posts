@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-23-weekly-spi-up-065",
+ "type": "news",
+ "headline": "Pakistan's weekly Sensitive Price Indicator rose 0.65% to 374.84 in the week ended 22 October 2026, according to Pakistan Bureau of Statistics data released on 23 October.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
+   "published_at": "2026-10-23T19:50:07+05:00"
+  },
+  {
+   "outlet": "Pakistan Bureau of Statistics",
+   "url": "https://www.pbs.gov.pk/weekly-sensitive-price-indicator-spi-for-the-week-ended-on-22-10-2026/",
+   "published_at": "2026-10-23T12:30:13+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/bd327fbf-2494-425e-aa6e-b353bc2e5850/eae7b603-e0ca-4f1f-a5d1-a667f77c2cef/Realistic_photograph_of_a_local_grocery_stall_in_a_Pakistani.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzI2NTg0YzdiY2ZkMjY5MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjg5MjIzMX0.K18MwalYoVUB6xOX8ELqpQgHkR2kKWnACpCgvi_xDFE",
+  "head1": "Weekly Inflation",
+  "head2_hl": "Up 0.65%",
+  "head2": "",
+  "kicker": "Week ended 22 October",
+  "desc": "Sensitive Price Indicator rose to 374.84, PBS data shows.",
+  "source": "PBS, Dawn",
+  "date": "23 OCT 2026"
+ },
+ "caption": "Pakistan's weekly Sensitive Price Indicator rose 0.65% in the week ended 22 October, Pakistan Bureau of Statistics data shows. Dawn reports wheat flour, LPG and chicken were among the items that got costlier.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Inflation #SPI #Pakistan #PakistanNews",
+ "tiktok_title": "Pakistan's weekly inflation rises 0.65% in week ended 22 October",
+ "publish": {
+  "slot": "2026-10-23T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "810120545333296",
+  "label": "Iced Latte - Global Genius"
+ },
+ "ai_generated": true
+}
