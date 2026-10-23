@@ -1,1 +1,50 @@
-{"slot": "2026-10-23T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T21:46:41+05:00"}
+{
+ "slot": "2026-10-23T22:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T21:46:41+05:00",
+ "run_finished_pkt": "2026-10-23T21:56:04+05:00",
+ "test_mode": false,
+ "outcome": "error_rejected",
+ "story": {
+  "headline": "Pakistan's weekly Sensitive Price Indicator rose 0.65% to 374.84 in the week ended 22 October 2026, according to Pakistan Bureau of Statistics data released on 23 October.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
+    "published_at": "2026-10-23T19:50:07+05:00"
+   },
+   {
+    "outlet": "Pakistan Bureau of Statistics",
+    "url": "https://www.pbs.gov.pk/weekly-sensitive-price-indicator-spi-for-the-week-ended-on-22-10-2026/",
+    "published_at": "2026-10-23T12:30:13+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-10-23-weekly-spi-up-065",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "text in photo: readable 'WHEAT FLOUR' printed on a sack"
+  },
+  {
+   "attempt": 2,
+   "result": "ok"
+  }
+ ],
+ "metricool": {},
+ "music": "none (planned: Iced Latte - Global Genius, 810120545333296; nothing posted)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all 6h windows NOW-48h..NOW+12h succeeded; slot 22:00 free; today 6 feed posts, 6 TikTok",
+  "previous_slot_check": "21:00 slot was skipped (no posts); 20:00 feed/reel/story all PUBLISHED",
+  "news_search": "ok: Dawn 'Rising flour prices fuel weekly inflation' 19:50 PKT",
+  "verification": "Dawn (main, exact time) + PBS official SPI page dated 23-10-2026 (0.65%, 374.84). 11.85% y-o-y only in Dawn so kept off card/caption",
+  "image": "ok on attempt 2 (Runway nano-banana-2-lite, 2 images)",
+  "publish": "not attempted: GitHub renderer rejected request"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "results/2026-10-23-weekly-spi-up-065.json status rejected: caption must name the source outlet 'PBS, Dawn'"
+ ]
+}
