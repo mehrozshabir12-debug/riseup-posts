@@ -1,1 +1,70 @@
-{"slot": "2026-10-23T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T10:48:11+05:00"}
+{
+ "slot": "2026-10-23T11:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T10:48:11+05:00",
+ "run_finished_pkt": "2026-10-23T11:00:39+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Deputy PM and Foreign Minister Ishaq Dar has left for Istanbul to attend the first-ever meeting of R-4 (Pakistan, Egypt, Saudi Arabia, Turkiye) and E-3 (France, UK, Germany) foreign ministers on 23 October, hosted by Turkiye's Hakan Fidan.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039222/dpm-dar-departs-for-istanbul-ahead-of-r-4-bloc-european-e3-diplomats-meetings",
+    "published_at": "2026-10-23T10:25:08+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636419/muslim-eu-fms-to-meet-in-istanbul",
+    "published_at": "2026-10-23T05:22:42+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-23-dar-istanbul-r4-e3",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-dar-istanbul-r4-e3.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 403832796,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5764350836704197965",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 403833005,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4886395360173342466",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 403833035,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=831851295300534819",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected; getScheduledPosts T-1h..T+1h and 10 six-hour windows 2026-10-21T10:45..2026-10-23T22:50 all empty (slot free, no stories last 48h, 0 posts this RiseUp day).",
+  "previous_slot_check": "slot 10:00 was skipped (no post in Metricool); nothing to verify or retry.",
+  "news_search": "web search; Dawn article published 2026-10-23T10:25:08+05:00 (updated 10:34:46) - within 2h of T.",
+  "verification": "Dawn (main, exact time) + Express Tribune (Kamran Yousaf, 2026-10-23T00:22:42Z = 05:22 PKT) report same facts: first-ever R4-E3 FM meeting in Istanbul on Friday 23 Oct, hosted by Hakan Fidan, Dar attending; R4 = Pakistan, Egypt, Saudi Arabia, Turkiye; E3 = France, UK, Germany.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image (task 19c0ded7-f09f-49e4-88d0-c0a7b49d4e29), empty Istanbul conference room, no text/people; credits remaining 2246.",
+  "publish": "results awaiting_publish; card and zoom MP4 (8.0 s) checked; feed/reel at 11:05 (NOW+5, slot payload time), story 11:10; Reel audio audioType=music, displayArtist Trout Recording; all providers PENDING; Metricool re-hosted media on static.metricool.com."
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "add_repo tool not available in this session (repo already cloned; push works)"
+ ]
+}

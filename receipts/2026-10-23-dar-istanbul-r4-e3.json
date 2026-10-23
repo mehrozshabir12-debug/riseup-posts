@@ -1,0 +1,29 @@
+{
+ "id": "2026-10-23-dar-istanbul-r4-e3",
+ "scheduled": "2026-10-23T11:05:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 403832796,
+   "uuid": "-5764350836704197965",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 403833005,
+   "uuid": "-4886395360173342466",
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 403833035,
+   "uuid": "831851295300534819",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
