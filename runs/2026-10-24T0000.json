@@ -1,1 +1,37 @@
-{"slot": "2026-10-24T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T23:46:29+05:00"}
+{
+ "slot": "2026-10-24T00:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T23:46:29+05:00",
+ "run_finished_pkt": "2026-10-23T23:52:59+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "freshness_window": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 23:00-01:00 + all 6h windows 21 Oct 23:45..24 Oct 11:50 succeeded; slot 00:00 free; RiseUp day 23 Oct: 7 feed posts, 7 TikTok",
+  "previous_slot_check": "23:00 slot: feed 404420710 facebook+tiktok PUBLISHED (fb 122187404174855502, tiktok 7699925084290534677), reel 404420749 instagram PUBLISHED https://www.instagram.com/reel/De2KRrYkqwx/ (audio music Iced Latte), story 404420759 facebook+instagram PUBLISHED",
+  "news_search": "Freshest candidate again Dawn 'Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO' (published 21:39:12 PKT, 3h window). Searched for a confirming approved outlet (Tribune, Geo, The News, APP, Arab News, Reuters, Al Jazeera): only non-approved outlets (Aaj, Samaa, Minute Mirror, Pakistan Observer) carry it. Other searches found no other fresh story within 8h with two approved outlets in the time available.",
+  "verification": "failed: no second approved outlet or official primary source for the only fresh candidate",
+  "image": "not generated (0 credits)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO (Dawn 21:39 PKT)",
+   "reason": "only one approved outlet; confirming coverage only from Aaj/Samaa/Minute Mirror/Pakistan Observer (not approved)"
+  },
+  {
+   "headline": "Pakistan mediating between US, Iran to reduce tensions: FO (24 News HD)",
+   "reason": "source not approved; no approved-outlet article found"
+  }
+ ],
+ "errors": [
+  "WebSearch with allowed_domains: PROXY_REJECTED (HTTP 400): The request was invalid",
+  "geo.tv/latest and tribune.com.pk/latest fetch: PROVENANCE_REQUIRED (permission request not answered in time)"
+ ]
+}
