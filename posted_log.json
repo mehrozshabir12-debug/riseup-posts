@@ -3200,10 +3200,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-23 20:00 PKT",
+  "scheduled": true,
   "music": "Drift Away (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-23-uthal-road-accident-2000.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 404251165,
+   "reel": 404251258,
+   "story": 404251296
+  },
+  "video": "posts/2026-10-23-uthal-road-accident-2000.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
