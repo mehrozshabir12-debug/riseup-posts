@@ -3222,5 +3222,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "2026-10-23T23:00:00+05:00",
+  "request_id": "2026-10-23-weekly-spi-up-065-2300",
+  "layout": "bold",
+  "headline": "Pakistan's weekly Sensitive Price Indicator rose 0.65% to 374.84 in the week ended 22 October 2026, according to Pakistan Bureau of Statistics data released on 23 October.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
+    "published_at": "2026-10-23T19:50:07+05:00"
+   },
+   {
+    "outlet": "Pakistan Bureau of Statistics",
+    "url": "https://www.pbs.gov.pk/weekly-sensitive-price-indicator-spi-for-the-week-ended-on-22-10-2026/",
+    "published_at": "2026-10-23T12:30:13+05:00"
+   }
+  ],
+  "published": "2026-10-23T19:50:07+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 861262942,
+  "image": "posts/2026-10-23-weekly-spi-up-065-2300.jpg",
+  "story": "posts/2026-10-23-weekly-spi-up-065-2300-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-23 23:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-23-weekly-spi-up-065-2300.mp4"
  }
 ]
