@@ -3014,5 +3014,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "2026-10-23T14:00:00+05:00",
+  "request_id": "2026-10-23-psl12-direct-signings-auction",
+  "layout": "bold",
+  "headline": "The PCB has opened the PSL 12 direct signing window from 23 October until 23 November 2026, letting each franchise sign one marquee player who did not feature in PSL 10 or PSL 11, with the player auction set for 23 January 2027.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2636484/psl-12-roadmap-sets-stage",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636484/psl-12-roadmap-sets-stage",
+    "published_at": "2026-10-23T13:08:44+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/687910-pcb-opens-direct-signings-for-psl-12-sets-january-23-for-player-auction",
+    "published_at": "2026-10-23T13:29:00+05:00"
+   }
+  ],
+  "published": "2026-10-23T13:08:44+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 958911411,
+  "image": "posts/2026-10-23-psl12-direct-signings-auction.jpg",
+  "story": "posts/2026-10-23-psl12-direct-signings-auction-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-23 14:01 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-23-psl12-direct-signings-auction.mp4"
  }
 ]
