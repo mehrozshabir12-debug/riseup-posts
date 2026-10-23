@@ -1,1 +1,61 @@
-{"slot": "2026-10-23T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T15:47:25+05:00"}
+{
+ "slot": "2026-10-23T16:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T15:47:17+05:00",
+ "run_finished_pkt": "2026-10-23T16:09:18+05:00",
+ "test_mode": false,
+ "outcome": "error_render_timeout",
+ "story": {
+  "headline": "Lahore ranked as the world's most polluted city on Friday, 23 October, on IQAir's live ranking, with its air quality in the hazardous range and New Delhi second.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous",
+    "published_at": "2026-10-23T12:14:31+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/687888-lahore-ranks-worlds-most-polluted-city-as-residents-advised-to-wear-masks",
+    "published_at": "2026-10-23T10:06:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-23-lahore-most-polluted-city",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": null,
+ "music": "none (planned: Reflection - Sam Marshall, 478728841591377; nothing posted)",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. getScheduledPosts T-1h..T+1h (empty) and 10 six-hour windows 2026-10-21T15:47..2026-10-24T03:47 all succeeded; slot 16:00 free; stories last 48h: Dar/Istanbul R4-E3 (11:00), UNIDO Sindh $40m (13:00), PSL 12 direct signings (14:00); this RiseUp day: 3 news posts, 3 TikTok.",
+  "previous_slot_check": "Slot 15:00 was skipped (no posts). Slot 14:00: feed 403942832 facebook+tiktok PUBLISHED, reel 403942872 PUBLISHED (music The Process - Jackson Whalan), story 403942884 PUBLISHED. No retries needed.",
+  "news_search": "web search + article fetches (Business Recorder, Dawn, The News, Geo).",
+  "verification": "Dawn 12:14 PKT (upd 12:36) + Geo News 10:06 PKT agree: Lahore world's most polluted city on Friday per IQAir live ranking, hazardous air, New Delhi second, masks advised. AQI figures differ (Dawn 410, Geo 344 at ~8am) so no AQI number used on card/caption.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image (task f11bb507-110f-4df4-9287-df1f7f12d616), checked: no readable text, no public figures.",
+  "publish": "Request committed 15:50 PKT (commit 1782154). GitHub Actions run 39941959391 (job 120375299598) stuck in step 'Install video tools only when a pending request has a Reel' from 10:51:15 UTC; still in_progress at 16:09 PKT, no results/2026-10-23-lahore-most-polluted-city.json. Card never rendered, so nothing could be checked or posted; slot cannot be met (T+15 limit). Nothing scheduled in Metricool."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan LPG shortage worsens after Iran border closure; 12kg cylinder Rs7,000 from Rs4,500 (Reuters via Business Recorder 15:37 PKT)",
+   "reason": "only one source (Reuters wire); Dawn/The News LPG pieces are from 19-21 Oct (older than main source) with different figures"
+  },
+  {
+   "headline": "World Bank's Sandeep Mahajan meets FM Aurangzeb, urges continued reforms (Business Recorder 15:29 PKT)",
+   "reason": "single approved source; no Finance Division/APP confirmation found"
+  },
+  {
+   "headline": "CDF Munir visits Corps HQ Peshawar, vows to hit terrorists hard (Geo, ISPR)",
+   "reason": "security/political statement; Lahore smog story more relevant to ordinary people"
+  }
+ ],
+ "errors": [
+  "GitHub Actions run 39941959391 'RiseUp Media Manager' (request 2026-10-23-lahore-most-polluted-city) stuck >18 min in step 4 'Install video tools only when a pending request has a Reel'; results/<id>.json never appeared within the 10-min poll (15:50-16:09 PKT).",
+  "Request 2026-10-23-lahore-most-polluted-city remains in requests/ unrendered for slot 16:00; it must not be posted late.",
+  "add_repo tool not available in this session (repo already cloned; push works)"
+ ]
+}
