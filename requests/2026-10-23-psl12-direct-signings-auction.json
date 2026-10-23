@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-23-psl12-direct-signings-auction",
+ "type": "news",
+ "headline": "The PCB has opened the PSL 12 direct signing window from 23 October until 23 November 2026, letting each franchise sign one marquee player who did not feature in PSL 10 or PSL 11, with the player auction set for 23 January 2027.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636484/psl-12-roadmap-sets-stage",
+   "published_at": "2026-10-23T13:08:44+05:00"
+  },
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/687910-pcb-opens-direct-signings-for-psl-12-sets-january-23-for-player-auction",
+   "published_at": "2026-10-23T13:29:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b0eec06a-62fa-47b7-b1d1-b129ea21d99b/6ecb4ada-c032-4b09-bfea-1b8a67ecfa0c/Realistic_documentary_photo_of_an_empty_cricket_stadium_in_P.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjMwZDViZmYxMGE3MzQ4OSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjg5MTAwN30.84Bk4ywgVlyXIW5URPrNGnrMQfQ7oG5Typ_TNqo-Xpk",
+  "head1": "PSL 12 Signings",
+  "head2_hl": "Window Open",
+  "head2": "",
+  "kicker": "Player auction on 23 January",
+  "desc": "Each franchise can sign one marquee player by 23 November.",
+  "source": "Express Tribune",
+  "date": "23 OCT 2026"
+ },
+ "caption": "The PCB has opened the PSL 12 direct signing window until 23 November, letting each franchise sign one marquee player who did not play in PSL 10 or PSL 11, Express Tribune reports. The player auction is set for 23 January 2027 and the 44-match tournament runs from 18 March to 2 May 2027, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSL12 #PakistanCricket #HBLPSL #PakistanNews",
+ "tiktok_title": "PSL 12 direct signings open, player auction on 23 January 2027",
+ "publish": {
+  "slot": "2026-10-23T14:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1543577430102877",
+  "label": "The Process - Jackson Whalan"
+ },
+ "ai_generated": true
+}
