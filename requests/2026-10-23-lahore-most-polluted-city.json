@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-23-lahore-most-polluted-city",
+ "type": "news",
+ "headline": "Lahore ranked as the world's most polluted city on Friday, 23 October, on IQAir's live ranking, with its air quality in the hazardous range and New Delhi second.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous",
+   "published_at": "2026-10-23T12:14:31+05:00"
+  },
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/687888-lahore-ranks-worlds-most-polluted-city-as-residents-advised-to-wear-masks",
+   "published_at": "2026-10-23T10:06:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f11bb507-110f-4df4-9287-df1f7f12d616/bf3970f3-2022-4c9a-b4cf-3b40f0f2b2b8/Realistic_documentary_photo_of_a_busy_Lahore_street_on_a_haz.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzM2NmE5NjE3NmViOTc5NCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjg5NDA0OX0.V6LY32Ogu32pq34XegaLrCQn2jnjPLHMD35jZtRk6N4",
+  "head1": "Lahore Tops",
+  "head2_hl": "Pollution",
+  "head2": "List",
+  "kicker": "World's most polluted city",
+  "desc": "IQAir ranks Lahore first, New Delhi second; masks advised.",
+  "source": "Dawn",
+  "date": "23 OCT 2026"
+ },
+ "caption": "Lahore ranked as the world's most polluted city on Friday morning on IQAir's live ranking, with air quality turning hazardous, Dawn reports. New Delhi was second, and residents were advised to wear masks outdoors, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Lahore #Smog #AirQuality #PakistanNews",
+ "tiktok_title": "Lahore ranked world's most polluted city as smog turns hazardous",
+ "publish": {
+  "slot": "2026-10-23T16:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "478728841591377",
+  "label": "Reflection - Sam Marshall"
+ },
+ "ai_generated": true
+}
