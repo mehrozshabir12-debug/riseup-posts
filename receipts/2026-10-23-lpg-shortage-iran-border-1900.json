@@ -1,0 +1,30 @@
+{
+ "id": "2026-10-23-lpg-shortage-iran-border-1900",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 404202677,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "publicationDate": "2026-10-23T19:04:00+05:00"
+  },
+  "reel": {
+   "metricool_id": 404202757,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-10-23T19:04:00+05:00",
+   "music": "Reflection - Sam Marshall (478728841591377, audioType music)"
+  },
+  "story": {
+   "metricool_id": 404202781,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-10-23T19:09:00+05:00"
+  }
+ }
+}

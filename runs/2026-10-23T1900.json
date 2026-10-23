@@ -1,1 +1,81 @@
-{"slot": "2026-10-23T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T18:47:56+05:00"}
+{
+ "slot": "2026-10-23T19:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T18:47:56+05:00",
+ "run_finished_pkt": "2026-10-23T18:59:35+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan's LPG shortage worsened and cylinder prices surged after the Taftan crossing with Iran was closed, cutting supplies, Reuters and Express Tribune reported on 23 October.",
+  "sources": [
+   {
+    "outlet": "Business Recorder (Reuters)",
+    "url": "https://www.brecorder.com/news/40445620/pakistan-lpg-shortage-worsens-after-border-closure-traders-say",
+    "published_at": "2026-10-23T15:37:34+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636417/lpg-crisis-deepens-as-ogra-delays-op",
+    "published_at": "2026-10-23T09:27:23+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-23-lpg-shortage-iran-border-1900",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-lpg-shortage-iran-border-1900.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (Runway nano-banana-2-lite task 2ffec11d-5854-4c0b-8534-8c34d1c164b9; no text, no public figures)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404202677,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5214301321164600792",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404202757,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7698446528956157097",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404202781,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-766346335729332853",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall (478728841591377, audioType music)",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. T-1h..T+1h window plus 10 six-hour windows 2026-10-21T18:48..2026-10-24T06:48 all succeeded. Slot 19:00 free. RiseUp day before this post: 4 news, 4 TikTok. Music used today: Sunday In October, Simple Pleasures, The Process, Slow Living.",
+  "previous_slot_check": "18:00 feed 404147879 (FB+TikTok), reel 404147927 (IG), story 404147937 (FB+IG): all PUBLISHED. FB https://facebook.com/122185478282855502/posts/122187372788855502 ; TikTok https://www.tiktok.com/@riseuppakistan2025/video/7699848875988749576 ; IG reel https://www.instagram.com/reel/De1oD56Fasz/. No retries needed.",
+  "news_search": "web search + fetch of candidate articles",
+  "verification": "Business Recorder (Reuters) 15:37 PKT: LPG shortage worsens after Gabd-Rimdan and Taftan crossings closed 17 Oct, cylinder prices up. Express Tribune 09:27 PKT same day: LPG crisis deepens, prices soar after Taftan border closure. Card/caption use only facts in both (shortage, price surge, Taftan closure); single-source figures (Rs7,000 vs >Rs10,000 per cylinder) left out because they differ.",
+  "image": "1 Runway nano-banana-2-lite image, checked",
+  "publish": "Request committed 18:57, rendered 18:58:39 awaiting_publish. Card and 8 s 1080x1920 zoom MP4 checked. Feed+Reel 19:04, Story 19:09 from payloads exactly. Reel audio audioType music, displayArtist Sam Marshall. getScheduledPosts 18:55-19:10 shows all three PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold falls Rs7,000 per tola to Rs424,536 (Business Recorder 16:10 PKT)",
+   "reason": "no second approved outlet found (only Aaj, Samaa, ARY, Daily Times, 24News etc.)"
+  },
+  {
+   "headline": "Naqvi announces Islamabad high-rise plot auctions, Manhattan-style city and safari park (Express Tribune 15:57 PKT)",
+   "reason": "no second approved outlet; Arab News expo article does not mention it"
+  }
+ ],
+ "errors": [
+  "add_repo tool not available in this session (repo already cloned; push works)",
+  "WebFetch tribune.com.pk homepage and geo.tv/latest-news: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "WebFetch brecorder rupee article 40445625: client_error"
+ ]
+}
