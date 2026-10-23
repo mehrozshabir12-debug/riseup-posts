@@ -2910,5 +2910,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "2026-10-23T11:00:00+05:00",
+  "request_id": "2026-10-23-dar-istanbul-r4-e3",
+  "layout": "bold",
+  "headline": "Deputy PM and Foreign Minister Ishaq Dar has left for Istanbul to attend the first-ever meeting of R-4 (Pakistan, Egypt, Saudi Arabia, Turkiye) and E-3 (France, UK, Germany) foreign ministers on 23 October, hosted by Turkiye's Hakan Fidan.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2039222/dpm-dar-departs-for-istanbul-ahead-of-r-4-bloc-european-e3-diplomats-meetings",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039222/dpm-dar-departs-for-istanbul-ahead-of-r-4-bloc-european-e3-diplomats-meetings",
+    "published_at": "2026-10-23T10:25:08+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636419/muslim-eu-fms-to-meet-in-istanbul",
+    "published_at": "2026-10-23T05:22:42+05:00"
+   }
+  ],
+  "published": "2026-10-23T10:25:08+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 599882735,
+  "image": "posts/2026-10-23-dar-istanbul-r4-e3.jpg",
+  "story": "posts/2026-10-23-dar-istanbul-r4-e3-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-23 11:05 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-23-dar-istanbul-r4-e3.mp4"
  }
 ]

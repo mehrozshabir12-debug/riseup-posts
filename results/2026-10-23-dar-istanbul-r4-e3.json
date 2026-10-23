@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-23-dar-istanbul-r4-e3",
+ "revision": 1,
+ "request": "requests/2026-10-23-dar-istanbul-r4-e3.json",
+ "type": "news",
+ "headline": "Deputy PM and Foreign Minister Ishaq Dar has left for Istanbul to attend the first-ever meeting of R-4 (Pakistan, Egypt, Saudi Arabia, Turkiye) and E-3 (France, UK, Germany) foreign ministers on 23 October, hosted by Turkiye's Hakan Fidan.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-23T11:05:00+05:00",
+ "target_slot": "2026-10-23T11:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-dar-istanbul-r4-e3.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-dar-istanbul-r4-e3-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-dar-istanbul-r4-e3.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-23-dar-istanbul-r4-e3.jpg",
+  "story": "posts/2026-10-23-dar-istanbul-r4-e3-story.jpg",
+  "reel": "posts/2026-10-23-dar-istanbul-r4-e3.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 599882735,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-23T11:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Deputy PM and Foreign Minister Ishaq Dar has left for Istanbul for the first-ever meeting of R-4 and E-3 foreign ministers, Dawn reports. Pakistan, Egypt, Saudi Arabia and Turkiye will meet France, the UK and Germany at Turkiye's invitation, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #Istanbul #Diplomacy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-dar-istanbul-r4-e3.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Ishaq Dar in Istanbul for first-ever R4-E3 foreign ministers meeting",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-23T11:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Deputy PM and Foreign Minister Ishaq Dar has left for Istanbul for the first-ever meeting of R-4 and E-3 foreign ministers, Dawn reports. Pakistan, Egypt, Saudi Arabia and Turkiye will meet France, the UK and Germany at Turkiye's invitation, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #Istanbul #Diplomacy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-dar-istanbul-r4-e3.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-dar-istanbul-r4-e3-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "757785052896581",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-23T11:10:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-dar-istanbul-r4-e3-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-23T10:59:17+05:00"
+}
