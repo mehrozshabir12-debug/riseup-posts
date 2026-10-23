@@ -1,0 +1,12 @@
+{
+ "id": "2026-10-23-lahore-smog-most-polluted-1800",
+ "revision": 1,
+ "request": "requests/2026-10-23-lahore-smog-most-polluted-1800.json",
+ "status": "rejected",
+ "errors": [
+  "publish.slot is required: the target slot, e.g. 2026-10-14T15:00:00+05:00 (minute 00, hours 10-23 or 00 PKT)"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-10-23T17:56:28+05:00"
+}
