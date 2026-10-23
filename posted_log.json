@@ -3066,5 +3066,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "2026-10-23T18:00:00+05:00",
+  "request_id": "2026-10-23-lahore-smog-most-polluted-1800-r2",
+  "layout": "bold",
+  "headline": "Lahore ranked as the world's most polluted city on Friday, 23 October, on IQAir's live ranking, with its air quality in the hazardous range and New Delhi second.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous",
+    "published_at": "2026-10-23T12:14:31+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/687888-lahore-ranks-worlds-most-polluted-city-as-residents-advised-to-wear-masks",
+    "published_at": "2026-10-23T10:06:00+05:00"
+   }
+  ],
+  "published": "2026-10-23T12:14:31+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 92240495,
+  "image": "posts/2026-10-23-lahore-smog-most-polluted-1800-r2.jpg",
+  "story": "posts/2026-10-23-lahore-smog-most-polluted-1800-r2-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-23 18:03 PKT",
+  "music": "Slow Living - stereogully",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-23-lahore-smog-most-polluted-1800-r2.mp4"
  }
 ]
