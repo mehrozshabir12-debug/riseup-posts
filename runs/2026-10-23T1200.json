@@ -1,1 +1,49 @@
-{"slot": "2026-10-23T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T11:47:34+05:00"}
+{
+ "slot": "2026-10-23T12:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T11:47:34+05:00",
+ "run_finished_pkt": "2026-10-23T11:54:32+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. getScheduledPosts T-1h..T+1h and 10 six-hour windows 2026-10-21T11:45..2026-10-23T23:50 all succeeded; slot 12:00 free; only story in last 48h = Dar/Istanbul R4-E3 (11:00); this RiseUp day: 1 news post, 1 TikTok.",
+  "previous_slot_check": "slot 11:00: feed 403832796 facebook PUBLISHED https://facebook.com/122185478282855502/posts/122187343322855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7699740410607930645; reel 403833005 instagram PUBLISHED https://www.instagram.com/reel/De035C7iU9_/ (audio music, Trout Recording); story 403833035 facebook PUBLISHED https://facebook.com/122185478282855502/posts/2998144593900232, instagram PUBLISHED https://www.instagram.com/stories/riseuppakistann/4014081512945572471. No retries needed.",
+  "news_search": "web search + fetch of listing pages. geo.tv/latest-news loaded (no clock times); dawn.com/latest-news, tribune.com.pk/latest, brecorder.com/latest-news, app.com.pk/national and several Geo articles failed with PROVENANCE_REQUIRED (permission request not answered in time).",
+  "verification": "no Pakistan story from the last 8h could be confirmed with an exact article timestamp from an approved outlet plus a second approved source/official source; by 11:57 PKT there was no time left to render and check a card before T+15.",
+  "image": "not generated (no verified story).",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Petrol cut to Rs377.71, diesel raised to Rs391.75 per litre for 23 Oct (daily OGRA review)",
+   "reason": "announced on the night of 22 Oct (older than 8h before T per search results); Business Recorder article could not be opened to read its timestamp (PROVENANCE_REQUIRED); other hits (ARY, Aaj, PakWheels, Pakistan Observer) are not approved outlets."
+  },
+  {
+   "headline": "PSX KSE-100 falls 2,006 points to 163,924 on oil fears",
+   "reason": "Thursday 22 Oct close - older than 8h."
+  },
+  {
+   "headline": "World Bank warns Middle East conflict could strain Pakistan's economy (Geo)",
+   "reason": "published 22 Oct, older than 8h; article fetch blocked."
+  },
+  {
+   "headline": "Strong earthquake hits China's Tibet, killing 16 (Geo, ~07:00 PKT)",
+   "reason": "not Pakistan-related; casualty story."
+  },
+  {
+   "headline": "13-year-old Karachi girl rescued after dangerous online tasks (Geo)",
+   "reason": "story about a minor - excluded by rules."
+  }
+ ],
+ "errors": [
+  "WebFetch PROVENANCE_REQUIRED: permission request not answered in time - for https://www.dawn.com/latest-news, https://tribune.com.pk/latest, https://www.brecorder.com/latest-news, https://www.app.com.pk/national/ and Geo article pages",
+  "add_repo tool not available in this session (repo already cloned; push works)"
+ ]
+}
