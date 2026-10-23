@@ -1,1 +1,73 @@
-{"slot": "2026-10-23T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T22:46:28+05:00"}
+{
+ "slot": "2026-10-23T23:00:00+05:00",
+ "outcome": "scheduled",
+ "run_started_pkt": "2026-10-23T22:46:28+05:00",
+ "riseup_day": "2026-10-23",
+ "run_finished_pkt": "2026-10-23T22:55:06+05:00",
+ "test_mode": false,
+ "story": {
+  "headline": "Pakistan's weekly Sensitive Price Indicator rose 0.65% to 374.84 in the week ended 22 October 2026, according to Pakistan Bureau of Statistics data released on 23 October.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039284/rising-flour-prices-fuel-weekly-inflation",
+    "published_at": "2026-10-23T19:50:07+05:00"
+   },
+   {
+    "outlet": "Pakistan Bureau of Statistics",
+    "url": "https://www.pbs.gov.pk/weekly-sensitive-price-indicator-spi-for-the-week-ended-on-22-10-2026/",
+    "published_at": "2026-10-23T12:30:13+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-23-weekly-spi-up-065-2300",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-weekly-spi-up-065-2300.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (reused the Runway photo already generated and checked in the 22:00 run; 0 new credits)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404420710,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4875651181113330888",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404420749,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2229989420422771118",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404420759,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3429627556668225738",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius (810120545333296, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 22:00-24:00 + all 6h windows 21 Oct 22:46..24 Oct 10:46 succeeded; slot 23:00 free; today 6 feed posts, 6 TikTok",
+  "previous_slot_check": "22:00 slot: no posts (request rejected); 21:00 skipped; 20:00 feed/reel/story all PUBLISHED",
+  "news_search": "Freshest candidate: Dawn 'Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO' 21:39 PKT (2h window) - no second approved outlet found, skipped. Used SPI story (Dawn 19:50 PKT, 4h window), not posted before because 22:00 request was rejected for caption wording.",
+  "verification": "Dawn (main, exact time 19:50 PKT) + PBS official SPI page dated 23-10-2026 (0.65%, 374.84), as verified in the 22:00 run",
+  "image": "reused 22:00 Runway image (nano-banana-2-lite), no text/logos/public figures",
+  "publish": "feed+reel at 23:00, story 23:05, all PENDING; reel audio verified audioType music"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan, Saudi Arabia have completed ratification of Makkah defence pact: FO (Dawn 21:39 PKT)",
+   "reason": "only one approved outlet found within time; no confirming source"
+  }
+ ],
+ "errors": []
+}

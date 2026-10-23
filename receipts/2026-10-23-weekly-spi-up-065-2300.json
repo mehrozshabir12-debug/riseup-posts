@@ -1,0 +1,35 @@
+{
+ "id": "2026-10-23-weekly-spi-up-065-2300",
+ "scheduled": "2026-10-23T23:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 404420710,
+   "uuid": "4875651181113330888",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 404420749,
+   "uuid": "-2229989420422771118",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "810120545333296",
+    "audioType": "music",
+    "title": "Iced Latte",
+    "displayArtist": "Global Genius"
+   }
+  },
+  "story": {
+   "metricool_id": 404420759,
+   "uuid": "-3429627556668225738",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
