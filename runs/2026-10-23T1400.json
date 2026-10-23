@@ -2,24 +2,77 @@
  "slot": "2026-10-23T14:00:00+05:00",
  "riseup_day": "2026-10-23",
  "run_started_pkt": "2026-10-23T13:46:20+05:00",
- "run_finished_pkt": "2026-10-23T13:52:19+05:00",
+ "run_finished_pkt": "2026-10-23T13:56:24+05:00",
  "test_mode": false,
- "outcome": "error_tool_unavailable: WebFetch (article pages could not be opened to read timestamps)",
- "story": null,
- "request_id": null,
- "card_url": null,
- "image_attempts": [],
- "metricool": {},
- "music": "none",
- "stages": {
-  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. getScheduledPosts T-1h..T+1h and 10 six-hour windows 2026-10-21T13:46..2026-10-24T01:46 all succeeded; slot 14:00 free; stories in last 48h: Dar/Istanbul R4-E3 (11:00), UNIDO Sindh $40m (13:00); this RiseUp day: 2 news posts, 2 TikTok.",
-  "previous_slot_check": "Slot 13:00: feed 403901886 facebook PUBLISHED (https://facebook.com/122185478282855502/posts/122187350468855502), tiktok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7699771324339604757); reel 403901961 instagram PUBLISHED (https://www.instagram.com/reel/De1FqRlCmB4/, music Simple Pleasures - Alex Blue); story 403901982 facebook+instagram PUBLISHED. No retries needed.",
-  "news_search": "3 web searches returned no approved-outlet articles from the last 8 h with usable timestamps; fetching dawn.com/latest-news and tribune.com.pk/latest failed (PROVENANCE_REQUIRED).",
-  "verification": "not possible: no article could be opened to read its own published time, so freshness and 2-source verification could not be proven.",
-  "image": "not generated (no verified story; no Runway credits spent).",
-  "publish": "nothing created in Metricool."
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The PCB has opened the PSL 12 direct signing window from 23 October until 23 November 2026, letting each franchise sign one marquee player who did not feature in PSL 10 or PSL 11, with the player auction set for 23 January 2027.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636484/psl-12-roadmap-sets-stage",
+    "published_at": "2026-10-23T13:08:44+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/687910-pcb-opens-direct-signings-for-psl-12-sets-january-23-for-player-auction",
+    "published_at": "2026-10-23T13:29:00+05:00"
+   }
+  ]
  },
- "skipped_candidates": [],
+ "request_id": "2026-10-23-psl12-direct-signings-auction",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-23-psl12-direct-signings-auction.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 403942832,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8853595260640149003",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 403942872,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2997581118038363152",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 403942884,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4715028402979098548",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. getScheduledPosts T-1h..T+1h and 10 six-hour windows 2026-10-21T13:46..2026-10-24T01:46 all succeeded; slot 14:00 free; stories in last 48h: Dar/Istanbul R4-E3 (11:00), UNIDO Sindh $40m (13:00); this RiseUp day before this post: 2 news posts, 2 TikTok.",
+  "previous_slot_check": "Slot 13:00: feed 403901886 facebook PUBLISHED (https://facebook.com/122185478282855502/posts/122187350468855502), tiktok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7699771324339604757); reel 403901961 instagram PUBLISHED (https://www.instagram.com/reel/De1FqRlCmB4/); story 403901982 facebook+instagram PUBLISHED. No retries needed.",
+  "news_search": "web search; dawn.com/latest-news and tribune.com.pk/latest listing fetches failed (PROVENANCE_REQUIRED), individual article pages fetched OK. Earlier interim run log said error_tool_unavailable; superseded by this result.",
+  "verification": "Express Tribune (13:08:44 PKT, meta article:published_time) + Geo News (13:29 PKT, meta) both report PCB opened PSL 12 direct signing window 23 Oct-23 Nov 2026, one marquee player not in PSL 10/11 per franchise, auction 23 Jan 2027, PSL 12 from 18 Mar to 2 May 2027, 44 matches (40 league + 4 playoffs). Facts match. Dates (18 Mar-2 May) were first announced 8 Oct; today's new development = signing window + auction date. Not posted before (posted_log / Metricool 48h).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, ok (empty cricket stadium, anonymous groundsmen, no readable text/logos/public figures).",
+  "publish": "Card and zoom MP4 (8 s, 1080x1920, h264+aac) checked. Feed, Reel and Story created at 14:01/14:01/14:06 per payloads; all PENDING. Reel audioType music, displayArtist Jackson Whalan on first try (verified list id 1543577430102877; trending lists from socialpilot/socialbee not confirmable as music ids)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "World Bank: Pakistan growth to remain moderate at 4.2% (Tribune 09:48 PKT)",
+   "reason": "PSL story fresher (2h window); report released 22 Oct."
+  },
+  {
+   "headline": "DPM Dar arrives in Istanbul for R-4/E-3 meetings (Dawn)",
+   "reason": "duplicate of 11:00 post, no genuinely new development."
+  }
+ ],
  "errors": [
   "WebFetch PROVENANCE_REQUIRED: The permission request for this URL was not answered in time - https://www.dawn.com/latest-news",
   "WebFetch PROVENANCE_REQUIRED: The permission request for this URL was not answered in time - https://tribune.com.pk/latest",
