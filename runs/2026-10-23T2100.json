@@ -1,1 +1,33 @@
-{"slot": "2026-10-23T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T20:47:32+05:00"}
+{
+ "slot": "2026-10-23T21:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T20:47:32+05:00",
+ "run_finished_pkt": "2026-10-23T20:56:07+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. T-1h..T+1h window plus 10 six-hour windows 2026-10-21T20:47..2026-10-24T08:47 all succeeded. Slot 21:00 free. RiseUp day so far: 6 news feed posts, 6 with TikTok.",
+  "previous_slot_check": "20:00 feed 404251165 (FB https://facebook.com/122185478282855502/posts/122187390092855502 PUBLISHED; TikTok https://www.tiktok.com/@riseuppakistan2025/video/7699879709873655041 PUBLISHED), reel 404251258 (IG https://www.instagram.com/reel/De12CCxkama/ PUBLISHED, audio music Drift Away), story 404251296 (FB + IG https://www.instagram.com/stories/riseuppakistann/4014352817531131257 PUBLISHED). No retries needed.",
+  "news_search": "web search + fetch. dawn.com and tribune.com.pk article fetches worked; dawn.com/latest-news, tribune.com.pk/latest, geo.tv/latest-news and mofa.gov.pk fetches blocked (PROVENANCE_REQUIRED).",
+  "verification": "no candidate had a second approved outlet or official source in time",
+  "image": "not generated (no verified story; no credits spent)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {"headline": "Pakistan and Saudi Arabia complete ratification of Makkah Joint Defence Agreement, Turkiye pursuing procedures: FO weekly briefing (Express Tribune, published 2026-10-23T20:47:28+05:00)", "reason": "only one approved outlet confirmed (Aaj/Samaa not approved); mofa.gov.pk and geo.tv fetch blocked; slot deadline 21:15 reached"},
+  {"headline": "Insulin product (glulisine) in short supply after German manufacturer halts supplies, NA told (Dawn, 2026-10-23T14:52:08+05:00)", "reason": "no second approved outlet found for the 23 Oct NA statement"},
+  {"headline": "10 terrorists killed in Gwadar engagements: ISPR (Dawn 2039254)", "reason": "security/violence story, skipped by content rules"}
+ ],
+ "errors": [
+  "add_repo tool not available in this session (repo already present; push works)",
+  "curl https://www.dawn.com/latest-news: CONNECT tunnel failed, response 403 (egress proxy connect_rejected)",
+  "WebFetch dawn.com/latest-news, tribune.com.pk/latest, geo.tv/latest-news, mofa.gov.pk/press-releases: PROVENANCE_REQUIRED (The permission request for this URL was not answered in time)",
+  "WebSearch with allowed_domains incl. reuters.com: PROXY_REJECTED HTTP 400 The request was invalid"
+ ]
+}
