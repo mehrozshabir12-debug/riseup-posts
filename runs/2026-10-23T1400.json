@@ -1,1 +1,28 @@
-{"slot": "2026-10-23T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-23T13:46:20+05:00"}
+{
+ "slot": "2026-10-23T14:00:00+05:00",
+ "riseup_day": "2026-10-23",
+ "run_started_pkt": "2026-10-23T13:46:20+05:00",
+ "run_finished_pkt": "2026-10-23T13:52:19+05:00",
+ "test_mode": false,
+ "outcome": "error_tool_unavailable: WebFetch (article pages could not be opened to read timestamps)",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: getBrandSettings 7305396 Asia/Karachi, FB/IG/TikTok connected. getScheduledPosts T-1h..T+1h and 10 six-hour windows 2026-10-21T13:46..2026-10-24T01:46 all succeeded; slot 14:00 free; stories in last 48h: Dar/Istanbul R4-E3 (11:00), UNIDO Sindh $40m (13:00); this RiseUp day: 2 news posts, 2 TikTok.",
+  "previous_slot_check": "Slot 13:00: feed 403901886 facebook PUBLISHED (https://facebook.com/122185478282855502/posts/122187350468855502), tiktok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7699771324339604757); reel 403901961 instagram PUBLISHED (https://www.instagram.com/reel/De1FqRlCmB4/, music Simple Pleasures - Alex Blue); story 403901982 facebook+instagram PUBLISHED. No retries needed.",
+  "news_search": "3 web searches returned no approved-outlet articles from the last 8 h with usable timestamps; fetching dawn.com/latest-news and tribune.com.pk/latest failed (PROVENANCE_REQUIRED).",
+  "verification": "not possible: no article could be opened to read its own published time, so freshness and 2-source verification could not be proven.",
+  "image": "not generated (no verified story; no Runway credits spent).",
+  "publish": "nothing created in Metricool."
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "WebFetch PROVENANCE_REQUIRED: The permission request for this URL was not answered in time - https://www.dawn.com/latest-news",
+  "WebFetch PROVENANCE_REQUIRED: The permission request for this URL was not answered in time - https://tribune.com.pk/latest",
+  "add_repo tool not available in this session (repo already cloned; push works)"
+ ]
+}
