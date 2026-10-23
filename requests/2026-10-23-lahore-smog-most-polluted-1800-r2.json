@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-23-lahore-smog-most-polluted-1800-r2",
+ "type": "news",
+ "headline": "Lahore ranked as the world's most polluted city on Friday, 23 October, on IQAir's live ranking, with its air quality in the hazardous range and New Delhi second.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039233/lahore-tops-global-pollution-ranking-as-air-quality-turns-hazardous",
+   "published_at": "2026-10-23T12:14:31+05:00"
+  },
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/687888-lahore-ranks-worlds-most-polluted-city-as-residents-advised-to-wear-masks",
+   "published_at": "2026-10-23T10:06:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/e3562040-0f74-45ea-854b-4ebdf3422a6b/8885cf72-3c2a-47c0-a467-35d4a1550532/Realistic_photo_of_a_busy_Lahore_city_road_on_a_smoggy_autum.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNTU1MGMzYTI1MjYwZGRlOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjg1MzkyMn0.l3FUbLie2f4EfQFug_sNAcr49iKI89BbENQeEmaRYPY",
+  "head1": "Lahore Tops",
+  "head2_hl": "Pollution",
+  "head2": "List",
+  "kicker": "World's most polluted city",
+  "desc": "IQAir ranks Lahore first, New Delhi second; masks advised.",
+  "source": "Dawn",
+  "date": "23 OCT 2026"
+ },
+ "caption": "Lahore ranked as the world's most polluted city on Friday morning on IQAir's live ranking, with air quality turning hazardous, Dawn reports. New Delhi was second, and residents were advised to wear masks outdoors, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Lahore #Smog #AirQuality #PakistanNews",
+ "tiktok_title": "Lahore ranked world's most polluted city as smog turns hazardous",
+ "publish": {
+  "slot": "2026-10-23T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1329928372147056",
+  "label": "Slow Living - stereogully"
+ },
+ "ai_generated": true
+}
