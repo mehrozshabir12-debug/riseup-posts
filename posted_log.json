@@ -2992,10 +2992,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-23 13:00 PKT",
+  "scheduled": "2026-10-23T13:00:00+05:00",
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-23-unido-sindh-40m.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 403901886,
+   "reel": 403901961,
+   "story": 403901982
+  },
+  "video": "posts/2026-10-23-unido-sindh-40m.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
