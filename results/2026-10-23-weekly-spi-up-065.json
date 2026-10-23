@@ -1,0 +1,12 @@
+{
+ "id": "2026-10-23-weekly-spi-up-065",
+ "revision": 1,
+ "request": "requests/2026-10-23-weekly-spi-up-065.json",
+ "status": "rejected",
+ "errors": [
+  "caption must name the source outlet 'PBS, Dawn'"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-10-23T21:55:32+05:00"
+}
