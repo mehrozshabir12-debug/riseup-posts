@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-24-pakistan-test-squad-sri-lanka",
+ "type": "news",
+ "headline": "Pakistan have named a 14-member squad led by Babar Azam for the two-match World Test Championship series against Sri Lanka, with maiden call-ups for Sameer Minhas, Mohammad Taha and Mohammad Suleman, while former captain Shan Masood has been dropped.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/688110-pakistan-announce-initial-test-squad-for-sri-lanka-series",
+   "published_at": "2026-10-24T17:45:00+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039501/former-skipper-shan-masood-axed-as-pakistan-turn-to-youth-for-sri-lanka-tests",
+   "published_at": "2026-10-24T19:17:04+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/61b4a48d-620c-432e-9ecb-26f5d47644e3/29646049-aecd-4e1d-a426-371260f27772/Realistic_photograph_of_an_empty_cricket_Test_match_stadium_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjVlODJlNTlkZGQ3YjI4MiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjk1NzkxM30.CsUHVadAcZ_pAWi6LUL7gFNk88t6vr2KJw60ly9JpBE",
+  "head1": "Pakistan Name",
+  "head2_hl": "Test Squad",
+  "head2": "",
+  "kicker": "Two Tests vs Sri Lanka",
+  "desc": "Babar Azam leads 14-man squad; three uncapped, Shan Masood dropped.",
+  "source": "Geo News, Dawn",
+  "date": "24 OCT 2026"
+ },
+ "caption": "Pakistan have named a 14-member squad led by Babar Azam for the two-Test World Test Championship series against Sri Lanka, with maiden call-ups for Sameer Minhas, Mohammad Taha and Mohammad Suleman, Geo News reports. Former captain Shan Masood has been dropped, and the Tests will be played in Rawalpindi from 9 November and Lahore from 17 November, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+ "tiktok_title": "Pakistan name 14-man Test squad for Sri Lanka series, Shan Masood dropped",
+ "publish": {
+  "slot": "2026-10-24T21:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1543577430102877",
+  "label": "The Process - Jackson Whalan"
+ },
+ "ai_generated": true
+}
