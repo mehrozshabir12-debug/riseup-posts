@@ -1,1 +1,78 @@
-{"slot": "2026-10-24T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T16:46:23+05:00"}
+{
+ "slot": "2026-10-24T17:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T16:46:23+05:00",
+ "run_finished_pkt": "2026-10-24T16:51:07+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Foreign ministers of Pakistan, Turkiye, Egypt and Saudi Arabia (R4) met in Istanbul and called for the Iran conflict to be resolved only through dialogue and diplomacy, and for safe, unimpeded passage through the Strait of Hormuz.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/r4-european-nations-call-for-dialogue-to-resolve-conflicts-in-middle-east-3005128",
+    "published_at": "2026-10-24T13:10:54+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688022-r4-calls-for-diplomacy-to-end-iran-conflict-demands-safe-passage-through-hormuz",
+    "published_at": "2026-10-24T01:59:04+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-24-r4-istanbul-diplomacy-hormuz",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-r4-istanbul-diplomacy-hormuz.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404941983,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1970675371055269432",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404942035,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5447200764655389269",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404942054,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6831983042163723647",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Float (Instrumental) - Sleeping Lion",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 16:00-18:00 and all ten 6h windows 22 Oct 16:45..25 Oct 04:45 succeeded; slot 17:00 free; RiseUp day 24 Oct before this run: 5 feed posts, 4 TikTok",
+  "previous_slot_check": "16:00 slot (polio drive): feed facebook+tiktok PUBLISHED, reel instagram PUBLISHED (https://www.instagram.com/reel/De3_IhIDioT/), story facebook+instagram PUBLISHED. Nothing to retry.",
+  "news_search": "R4 Istanbul statement: Arab News 13:10 PKT (4h window, no suitable 2h/3h story found), Geo News 01:59 PKT same day",
+  "verification": "ok: Arab News and Geo News agree R4 (Pakistan, Turkiye, Egypt, Saudi Arabia) met in Istanbul on 23 Oct and urged the Iran conflict be resolved only through dialogue/diplomacy; Hormuz passage demand from Geo (Arab News lists Hormuz tensions among topics); R4+E3 de-escalation line attributed to Arab News. Not a duplicate: 23 Oct 11:05 post covered Dar departing for the meeting; this is the outcome.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image (tanker in strait), checked: no text/logos/public figures",
+  "publish": "card and zoom MP4 (8 s, 1080x1920, card visible) checked; feed (facebook only: renderer skipped TikTok by daily pacing, 4 by 17:00) + reel at 17:00, story 17:05; reel audio audioType music, displayArtist Sleeping Lion (verified list id; trending search skipped for time)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan refutes Khalilzad allegations (Express Tribune 14:14 PKT)",
+   "reason": "one-sided political rebuttal, single source"
+  },
+  {
+   "headline": "Karachi Industrial Park federal SEZ / ECP constituencies (Dawn)",
+   "reason": "older than 8h"
+  }
+ ],
+ "errors": [
+  "results warning: TikTok skipped: 4 TikTok posts on RiseUp day 2026-10-24; allowed by 17:00 = 4 (max 8/day)"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-24-r4-istanbul-diplomacy-hormuz",
+ "scheduled": "2026-10-24T17:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 404941983,
+   "status": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 404942035,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": "Float (Instrumental) - Sleeping Lion (589750179694057, audioType music)"
+  },
+  "story": {
+   "metricool_id": 404942054,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
