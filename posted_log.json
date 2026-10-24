@@ -3516,10 +3516,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-24 16:06 PKT",
+  "scheduled": "2026-10-24T16:06:00+05:00",
   "music": "Slow Living - stereogully",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-24-polio-drive-nov2-8.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 404918246,
+   "reel": 404918275,
+   "story": 404918279
+  },
+  "video": "posts/2026-10-24-polio-drive-nov2-8.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
