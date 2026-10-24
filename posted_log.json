@@ -3412,10 +3412,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-24 12:01 PKT",
+  "scheduled": true,
   "music": "City Around The Corner - The Poison Oaks",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-24-world-bank-aurangzeb-growth.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 404809762,
+   "reel": 404809794,
+   "story": 404809798
+  },
+  "video": "posts/2026-10-24-world-bank-aurangzeb-growth.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
