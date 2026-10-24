@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-24-polio-drive-nov2-8",
+ "type": "news",
+ "headline": "On World Polio Day, Pakistan said it will vaccinate more than 23.9 million children under five in a campaign from 2 to 8 November, after seven polio cases so far in 2026.",
+ "language": "English",
+ "sources": [
+  {"outlet": "APP", "url": "https://www.app.com.pk/national/world-polio-day-being-observed-today/", "published_at": "2026-10-24T13:55:00+05:00"},
+  {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/on-world-polio-day-pakistan-urges-parents-to-ensure-childrens-vaccination-3005121", "published_at": "2026-10-24T12:14:35+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/12be4aca-c339-4476-a346-8d5f15bb1648/1d2e73c7-d244-48a8-ae18-cf3ff550f39a/Realistic_photo_of_a_Pakistani_female_health_worker_in_a_pla.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMWU1M2U5MmY5OTg4ZDljOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjk3ODg2M30.1mkvJzUqA8K4Uour3ZXsFgj-C1_9fHImitTtSIS26b0",
+  "head1": "Polio Drive Targets",
+  "head2_hl": "23.9 Million",
+  "head2": "Children",
+  "kicker": "Campaign runs 2 to 8 November",
+  "desc": "Pakistan has reported seven polio cases so far in 2026.",
+  "source": "APP, Arab News",
+  "date": "24 OCT 2026"
+ },
+ "caption": "Pakistan will vaccinate more than 23.9 million children under five in a polio campaign from 2 to 8 November, APP reports. Marking World Polio Day, President Asif Ali Zardari urged parents to give every child two drops in each campaign, as the country has reported seven cases so far this year, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #WorldPolioDay #EndPolio #Pakistan #PakistanNews",
+ "tiktok_title": "Polio drive to vaccinate 23.9 million children from 2 to 8 November",
+ "publish": {"slot": "2026-10-24T16:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "1329928372147056", "label": "Slow Living - stereogully"},
+ "ai_generated": true
+}
