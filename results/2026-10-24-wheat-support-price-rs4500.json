@@ -1,0 +1,141 @@
+{
+ "id": "2026-10-24-wheat-support-price-rs4500",
+ "revision": 1,
+ "request": "requests/2026-10-24-wheat-support-price-rs4500.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif has set an indicative wheat support price of Rs4,500 per maund (40kg) for the 2027 crop, up Rs1,000 from last year's Rs3,500.",
+ "warnings": [
+  "TikTok skipped: 1 TikTok posts on RiseUp day 2026-10-24; allowed by 11:00 = 1 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-10-24T11:00:00+05:00",
+ "target_slot": "2026-10-24T11:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-wheat-support-price-rs4500.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-wheat-support-price-rs4500-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-wheat-support-price-rs4500.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-24-wheat-support-price-rs4500.jpg",
+  "story": "posts/2026-10-24-wheat-support-price-rs4500-story.jpg",
+  "reel": "posts/2026-10-24-wheat-support-price-rs4500.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 593337999,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T11:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif has set an indicative wheat support price of Rs4,500 per maund (40kg) for the 2027 crop, up Rs1,000 from last year's Rs3,500, Dawn reports. Farmers had asked for Rs5,000, while Business Recorder notes the statement calls the figure indicative.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Wheat #Farmers #Agriculture #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-wheat-support-price-rs4500.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T11:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif has set an indicative wheat support price of Rs4,500 per maund (40kg) for the 2027 crop, up Rs1,000 from last year's Rs3,500, Dawn reports. Farmers had asked for Rs5,000, while Business Recorder notes the statement calls the figure indicative.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Wheat #Farmers #Agriculture #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-wheat-support-price-rs4500.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-wheat-support-price-rs4500-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "757785052896581",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T11:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-wheat-support-price-rs4500-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-24T10:55:07+05:00"
+}

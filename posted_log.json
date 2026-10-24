@@ -3326,5 +3326,45 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "2026-10-24T11:00:00+05:00",
+  "request_id": "2026-10-24-wheat-support-price-rs4500",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif has set an indicative wheat support price of Rs4,500 per maund (40kg) for the 2027 crop, up Rs1,000 from last year's Rs3,500.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2039349/wheat-support-price-set-at-rs4500maund",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039349/wheat-support-price-set-at-rs4500maund",
+    "published_at": "2026-10-24T06:19:00+05:00"
+   },
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40445727/pm-proposes-rs4500-wheat-support-price",
+    "published_at": "2026-10-24T05:32:33+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636648/pm-sets-wheat-support-price-at-rs4500",
+    "published_at": "2026-10-24T02:38:24+05:00"
+   }
+  ],
+  "published": "2026-10-24T06:19:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 593337999,
+  "image": "posts/2026-10-24-wheat-support-price-rs4500.jpg",
+  "story": "posts/2026-10-24-wheat-support-price-rs4500-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-24 11:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-24-wheat-support-price-rs4500.mp4"
  }
 ]
