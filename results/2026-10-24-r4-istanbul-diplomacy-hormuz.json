@@ -1,0 +1,141 @@
+{
+ "id": "2026-10-24-r4-istanbul-diplomacy-hormuz",
+ "revision": 1,
+ "request": "requests/2026-10-24-r4-istanbul-diplomacy-hormuz.json",
+ "type": "news",
+ "headline": "Foreign ministers of Pakistan, Turkiye, Egypt and Saudi Arabia (R4) met in Istanbul and called for the Iran conflict to be resolved only through dialogue and diplomacy, and for safe, unimpeded passage through the Strait of Hormuz.",
+ "warnings": [
+  "TikTok skipped: 4 TikTok posts on RiseUp day 2026-10-24; allowed by 17:00 = 4 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-10-24T17:00:00+05:00",
+ "target_slot": "2026-10-24T17:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-r4-istanbul-diplomacy-hormuz.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-r4-istanbul-diplomacy-hormuz-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-r4-istanbul-diplomacy-hormuz.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-24-r4-istanbul-diplomacy-hormuz.jpg",
+  "story": "posts/2026-10-24-r4-istanbul-diplomacy-hormuz-story.jpg",
+  "reel": "posts/2026-10-24-r4-istanbul-diplomacy-hormuz.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 900626870,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T17:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Foreign ministers of Pakistan, Turkiye, Egypt and Saudi Arabia, the R4 group, called for the Iran conflict to be resolved only through dialogue and diplomacy after meeting in Istanbul, and demanded safe, unimpeded passage through the Strait of Hormuz, Geo News reports. The R4 also met ministers from the UK, France, Germany and Italy, who agreed on the urgent need for de-escalation, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #R4 #Hormuz #Diplomacy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-r4-istanbul-diplomacy-hormuz.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T17:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Foreign ministers of Pakistan, Turkiye, Egypt and Saudi Arabia, the R4 group, called for the Iran conflict to be resolved only through dialogue and diplomacy after meeting in Istanbul, and demanded safe, unimpeded passage through the Strait of Hormuz, Geo News reports. The R4 also met ministers from the UK, France, Germany and Italy, who agreed on the urgent need for de-escalation, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #R4 #Hormuz #Diplomacy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-r4-istanbul-diplomacy-hormuz.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-r4-istanbul-diplomacy-hormuz-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "589750179694057",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T17:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-r4-istanbul-diplomacy-hormuz-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-24T16:49:59+05:00"
+}
