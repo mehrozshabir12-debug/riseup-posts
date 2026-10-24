@@ -1,1 +1,85 @@
-{"slot": "2026-10-24T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T17:47:01+05:00"}
+{
+ "slot": "2026-10-24T18:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T17:47:01+05:00",
+ "run_finished_pkt": "2026-10-24T17:59:00+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Sindh government has formed a joint investigation team led by DIG Irfan Baloch, with ISI, IB, Rangers and NCCIA representatives, to probe the murder of a 25-year-old Karachi businessman after a judicial commission ruled his death a murder, not suicide.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-sindh-forms-multiagency-team-to-probe-karachi-businessmans-murder-3005145",
+    "published_at": "2026-10-24T17:43:13+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636664/sindh-govt-forms-jit-committees-to-implement-judicial-commissions-recommendations-in-mir-raza-case",
+    "published_at": "2026-10-24T16:12:22+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-24-sindh-jit-karachi-businessman-murder",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-sindh-jit-karachi-businessman-murder.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404982562,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7338829099185781431",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404982604,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6421536653805271226",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404982615,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1080645567552075411",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Drift Away (Instrumental) - Giulio Cercato",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 17:00-19:00 and all ten 6h windows 22 Oct 17:45..25 Oct 05:45 succeeded; slot 18:00 free; RiseUp day 24 Oct before this run: 6 feed posts, 4 TikTok",
+  "previous_slot_check": "17:00 slot (R4 Istanbul): feed facebook PUBLISHED, reel instagram PUBLISHED (https://www.instagram.com/reel/De4FwDDAI8Z/), story facebook+instagram PUBLISHED. Nothing to retry.",
+  "news_search": "Sindh JIT in Karachi businessman murder case: Arab News 17:43 PKT (2h window), Express Tribune 16:12 PKT",
+  "verification": "ok: Arab News and Express Tribune agree: Sindh formed JIT under DIG Irfan Baloch with ISI, IB, Sindh Rangers and NCCIA; judicial commission (Justice Omar Sial) ruled death of 25-year-old businessman a murder, not suicide; one-member committee under Addl IG CTD Zulfiqar Ali Larik reviews police conduct (13 officials per Tribune). Victim not named on card/caption. Not a duplicate of last 48h.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image (records office, anonymous staff from behind); checked: no readable text, no public figures (tiny indistinct mark on laptop lid)",
+  "publish": "card and zoom MP4 (8 s, 1080x1920, card visible) checked; renderer set slot 18:03 (NOW+5); feed facebook+tiktok + reel at 18:03, story 18:08; reel audio audioType music, displayArtist Giulio Cercato (verified list id; trending search skipped for time)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold falls Rs2,500 to Rs422,036 per tola, fifth straight day (Business Recorder 14:59 PKT)",
+   "reason": "no second approved outlet found"
+  },
+  {
+   "headline": "Aurangzeb rules out consumption-led growth at LUMS (Dawn 16:35 PKT)",
+   "reason": "no second approved outlet found; close to 12:00 World Bank growth post"
+  },
+  {
+   "headline": "Pakistan calls for non-discriminatory civil nuclear cooperation at UN (Express Tribune 12:28 PKT)",
+   "reason": "single approved source, low relevance for ordinary people"
+  },
+  {
+   "headline": "4 children killed as van plunges into ravine in Neelum Valley (Dawn)",
+   "reason": "story about minors"
+  }
+ ],
+ "errors": []
+}
