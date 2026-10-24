@@ -1,1 +1,29 @@
-{"slot": "2026-10-24T13:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T12:46:15+05:00"}
+{
+ "slot": "2026-10-24T13:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T12:46:15+05:00",
+ "run_finished_pkt": "2026-10-24T12:53:30+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 12:00-14:00 and all ten 6h windows 22 Oct 12:46..25 Oct 00:46 succeeded; slot 13:00 free; RiseUp day 24 Oct so far: 3 feed posts, 2 TikTok",
+  "previous_slot_check": "12:00 slot: feed 404809762 facebook PUBLISHED https://facebook.com/122185478282855502/posts/122187465326855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7700126362027199796; reel 404809794 PUBLISHED https://www.instagram.com/reel/De3jKWJkiTB/ (music City Around The Corner); story 404809798 facebook+instagram PUBLISHED",
+  "news_search": "checked Geo homepage, Express Tribune homepage, Dawn; best fresh candidate Express Tribune 12:10 PKT railways emergency, no second approved outlet found",
+  "verification": "failed: no candidate within 8h had two approved outlets / official source without being a duplicate or stale",
+  "image": "not generated (no verified story; no credits spent)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {"headline": "Pakistan Railways declares emergency until 31 Dec, cancels officers' leave after 55+ accidents (Express Tribune, published 2026-10-24T12:10:13+05:00)", "reason": "only one approved outlet (Tribune); other coverage only Minute Mirror (not approved); no Dawn/Geo/APP/The News confirmation found by 12:56 PKT"},
+  {"headline": "Gold falls Rs7,000 to Rs424,536 per tola (Business Recorder 23 Oct 16:10 PKT; Express Tribune print 24 Oct 10:27 PKT)", "reason": "event is Friday's rate (~21h old); Tribune item is a print re-run, not a substantive update; Saturday rate could not be checked (BR live page failed)"},
+  {"headline": "No shortage of flu vaccines, says health minister (Geo)", "reason": "published 23 Oct, outside 8h window; single outlet"},
+  {"headline": "10 militants killed in Gwadar operation (ISPR via Geo)", "reason": "violence/security content; dated 23 Oct"}
+ ],
+ "errors": ["WebFetch https://www.brecorder.com/live/gold-rates: client_error at site"]
+}
