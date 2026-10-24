@@ -1,0 +1,12 @@
+{
+ "id": "2026-10-24-wheat-support-price-rs4500-r2",
+ "revision": 1,
+ "request": "requests/2026-10-24-wheat-support-price-rs4500-r2.json",
+ "status": "rejected",
+ "errors": [
+  "slot 11:00 PKT already has a story: Prime Minister Shehbaz Sharif has set an indicative wheat support price of Rs4,5"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-10-24T11:07:45+05:00"
+}

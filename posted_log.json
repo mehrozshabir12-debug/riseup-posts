@@ -3361,10 +3361,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-24 11:00 PKT",
+  "scheduled": true,
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-24-wheat-support-price-rs4500.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 404793588,
+   "reel": 404793731,
+   "story": 404793742
+  },
+  "video": "posts/2026-10-24-wheat-support-price-rs4500.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
