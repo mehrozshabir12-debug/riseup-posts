@@ -3589,5 +3589,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "2026-10-24T18:00:00+05:00",
+  "request_id": "2026-10-24-sindh-jit-karachi-businessman-murder",
+  "layout": "bold",
+  "headline": "The Sindh government has formed a joint investigation team led by DIG Irfan Baloch, with ISI, IB, Rangers and NCCIA representatives, to probe the murder of a 25-year-old Karachi businessman after a judicial commission ruled his death a murder, not suicide.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistans-sindh-forms-multiagency-team-to-probe-karachi-businessmans-murder-3005145",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-sindh-forms-multiagency-team-to-probe-karachi-businessmans-murder-3005145",
+    "published_at": "2026-10-24T17:43:13+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636664/sindh-govt-forms-jit-committees-to-implement-judicial-commissions-recommendations-in-mir-raza-case",
+    "published_at": "2026-10-24T16:12:22+05:00"
+   }
+  ],
+  "published": "2026-10-24T17:43:13+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 858719504,
+  "image": "posts/2026-10-24-sindh-jit-karachi-businessman-murder.jpg",
+  "story": "posts/2026-10-24-sindh-jit-karachi-businessman-murder-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-24 18:03 PKT",
+  "music": "Drift Away (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-24-sindh-jit-karachi-businessman-murder.mp4"
  }
 ]
