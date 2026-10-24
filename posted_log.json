@@ -3693,5 +3693,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "2026-10-24T22:00:00+05:00",
+  "request_id": "2026-10-24-remittances-44bn-aurangzeb",
+  "layout": "bold",
+  "headline": "Finance Minister Muhammad Aurangzeb said workers' remittances are expected to reach $44 billion this fiscal year, while urging businesses to raise productivity and saying 7-8% growth is not enough without jobs.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40445763/govt-focused-on-export-led-sustainable-growth-private-sector-facilitation-finance-minister",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40445763/govt-focused-on-export-led-sustainable-growth-private-sector-facilitation-finance-minister",
+    "published_at": "2026-10-24T20:31:00+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688120-finmin-aurangzeb-urges-business-reforms-higher-productivity-to-compete-globally",
+    "published_at": "2026-10-24T19:11:00+05:00"
+   }
+  ],
+  "published": "2026-10-24T20:31:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 315815069,
+  "image": "posts/2026-10-24-remittances-44bn-aurangzeb.jpg",
+  "story": "posts/2026-10-24-remittances-44bn-aurangzeb-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-24 22:01 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-24-remittances-44bn-aurangzeb.mp4"
  }
 ]
