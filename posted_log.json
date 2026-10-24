@@ -3619,10 +3619,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-24 18:03 PKT",
+  "scheduled": "2026-10-24T18:03:00+05:00",
   "music": "Drift Away (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-24-sindh-jit-karachi-businessman-murder.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 404982562,
+   "reel": 404982604,
+   "story": 404982615
+  },
+  "video": "posts/2026-10-24-sindh-jit-karachi-businessman-murder.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
