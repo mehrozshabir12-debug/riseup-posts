@@ -3486,5 +3486,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "2026-10-24T16:00:00+05:00",
+  "request_id": "2026-10-24-polio-drive-nov2-8",
+  "layout": "bold",
+  "headline": "On World Polio Day, Pakistan said it will vaccinate more than 23.9 million children under five in a campaign from 2 to 8 November, after seven polio cases so far in 2026.",
+  "source_outlet": "APP",
+  "source": "https://www.app.com.pk/national/world-polio-day-being-observed-today/",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/world-polio-day-being-observed-today/",
+    "published_at": "2026-10-24T13:55:00+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/on-world-polio-day-pakistan-urges-parents-to-ensure-childrens-vaccination-3005121",
+    "published_at": "2026-10-24T12:14:35+05:00"
+   }
+  ],
+  "published": "2026-10-24T13:55:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 343907771,
+  "image": "posts/2026-10-24-polio-drive-nov2-8.jpg",
+  "story": "posts/2026-10-24-polio-drive-nov2-8-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-24 16:06 PKT",
+  "music": "Slow Living - stereogully",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-24-polio-drive-nov2-8.mp4"
  }
 ]
