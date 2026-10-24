@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-24-world-bank-aurangzeb-growth",
+ "type": "news",
+ "headline": "The World Bank urged Pakistan to move from stabilisation to investment-led growth in a meeting with Finance Minister Muhammad Aurangzeb, who said Pakistan regained market access through a $3 billion Eurobond.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039362/wb-urges-pakistan-to-shift-from-stability-to-growth",
+   "published_at": "2026-10-24T06:19:04+05:00"
+  },
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40445733/reforms-investment-led-growth-discussed-with-world-bank",
+   "published_at": "2026-10-24T05:32:33+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/eb0f2db2-dd07-479d-afe4-167cd506f99a/60d9d3bc-ceb3-4d05-9bf3-366a76f67591/Realistic_photo_of_a_modern_government_conference_room_in_Is.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMmY2ZjlhMmZlMzdlMmU5YSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjk4NTUxOX0.aM6vTzWLmz3r1NnXIZu6jbRrzYa8uvRhK3yrUHlLQ1k",
+  "head1": "World Bank Urges",
+  "head2_hl": "Growth",
+  "head2": "Shift",
+  "kicker": "Met Finance Minister Aurangzeb",
+  "desc": "Move from stabilisation to investment-led, private sector growth.",
+  "source": "Dawn, Business Recorder",
+  "date": "24 OCT 2026"
+ },
+ "caption": "The World Bank has urged Pakistan to move from stabilisation to sustainable, investment-led growth driven by the private sector, Dawn reports. Finance Minister Muhammad Aurangzeb told World Bank officials Pakistan has regained access to international markets through a $3 billion Eurobond, Business Recorder adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #WorldBank #Economy #Pakistan #PakistanNews",
+ "tiktok_title": "World Bank urges Pakistan to shift from stability to growth",
+ "publish": {
+  "slot": "2026-10-24T12:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2384396914990297",
+  "label": "City Around The Corner - The Poison Oaks"
+ },
+ "ai_generated": true
+}
