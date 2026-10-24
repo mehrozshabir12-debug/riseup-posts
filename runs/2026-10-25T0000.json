@@ -1,1 +1,30 @@
-{"slot": "2026-10-25T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T23:46:01+05:00"}
+{
+ "slot": "2026-10-25T00:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T23:46:01+05:00",
+ "run_finished_pkt": "2026-10-24T23:52:05+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; 6-hour windows 22 Oct 23:00 - 25 Oct 12:00 read OK; slot 00:00 free; RiseUp day 24 Oct: 9 feed posts, 7 with TikTok",
+  "previous_slot_check": "23:00 slot was skipped (no posts); last posts 22:03 feed 405127459 facebook+tiktok PUBLISHED, reel 405127804 instagram PUBLISHED, story 405127647 facebook+instagram PUBLISHED",
+  "news_search": "searched approved outlets for stories published 16:00-24:00 PKT; WebFetch of dawn.com/geo.tv latest pages refused (permission not granted in unattended run); no new candidate passed all rules",
+  "verification": "no candidate reached verification",
+  "image": "not generated (no story)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {"headline": "Section 144 imposed in Upper and Lower South Waziristan over security concerns (Dawn 13:48 PKT)", "reason": "published 13:48 PKT, older than 8h before slot; security-related"},
+  {"headline": "Man accused of assaulting petrol station worker in Lahore released after compromise (Dawn)", "reason": "crime involving private individuals"},
+  {"headline": "CM Maryam sad over bail for man accused of assaulting scooty rider (Geo)", "reason": "crime involving private individuals (also rejected by 23:00 run)"},
+  {"headline": "Former PM Raja Pervaiz Ashraf's Jhelum residence robbed, 2 suspects arrested (Express Tribune)", "reason": "crime story, low public impact, no second approved source"},
+  {"headline": "Pakistan rejects Khalilzad's allegations of arming Afghans (Dawn)", "reason": "accusatory political dispute; rejected by earlier runs"}
+ ],
+ "errors": ["WebFetch https://www.dawn.com/latest-news and https://www.geo.tv/latest-news: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time and was withdrawn.", "WebSearch extended mode: PROXY_REJECTED HTTP 400 The request was invalid (standard mode worked)"]
+}
