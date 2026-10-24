@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-24-manual-detection-bills-banned",
+ "type": "news",
+ "headline": "Energy Minister Awais Leghari has banned manual electricity detection bills, ordering all Discos to issue them only through PITC's centralised online portal.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039350/leghari-warns-discos-against-arbitrary-billing",
+   "published_at": "2026-10-24T06:19:32+05:00"
+  },
+  {
+   "outlet": "APP",
+   "url": "https://www.app.com.pk/national/detection-bills-to-be-issued-only-through-centralized-portal-leghari/",
+   "published_at": "2026-10-23T18:23:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/1daab228-f86e-43bd-a517-967798a7ab3e/0c7b953b-370c-4630-87ab-88f9d24f8241/Realistic_photograph_of_a_row_of_old_electricity_meters_moun.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiM2E2YzdjYmI3ZTY4ODExMyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjk1MzE0N30.DZ--dtZRymjwUxMqZuEW4pmWnZMR8DXJPvBDqUafFGY",
+  "head1": "Manual Detection Bills",
+  "head2_hl": "Banned",
+  "head2": "",
+  "kicker": "Only via PITC portal",
+  "desc": "Power Division bars field staff from issuing manual detection bills.",
+  "source": "Dawn, APP",
+  "date": "23 OCT 2026"
+ },
+ "caption": "Energy Minister Awais Leghari has banned manual electricity detection bills, ordering all Discos to issue them only through PITC's centralised online portal, Dawn reports. Defective meters must be replaced within two billing cycles at most, with average billing capped at two months, APP adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Electricity #PowerDivision #Pakistan #PakistanNews",
+ "tiktok_title": "Manual electricity detection bills banned, Discos must use PITC portal",
+ "publish": {
+  "slot": "2026-10-24T10:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "934661001819759",
+  "label": "Cafe Lovers - Global Genius"
+ },
+ "ai_generated": true
+}
