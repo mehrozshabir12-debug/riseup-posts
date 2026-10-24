@@ -1,5 +1,77 @@
 {
  "slot": "2026-10-24T10:00:00+05:00",
- "outcome": "started",
- "run_started_pkt": "2026-10-24T09:46:38+05:00"
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T09:46:38+05:00",
+ "run_finished_pkt": "2026-10-24T09:50:31+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Energy Minister Awais Leghari has banned manual electricity detection bills, ordering all Discos to issue them only through PITC's centralised online portal.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039350/leghari-warns-discos-against-arbitrary-billing",
+    "published_at": "2026-10-24T06:19:32+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/detection-bills-to-be-issued-only-through-centralized-portal-leghari/",
+    "published_at": "2026-10-23T18:23:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-24-manual-detection-bills-banned",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-manual-detection-bills-banned.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404767870,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1193123949911847954",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404767892,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3641417892580278016",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404767898,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4116498195082424439",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 09:00-11:00 + all 6h windows 22 Oct 09:45..24 Oct 21:50 succeeded; slot 10:00 free; RiseUp day 24 Oct: 0 feed posts, 0 TikTok before this one",
+  "previous_slot_check": "00:00 slot (24 Oct) was skipped, nothing scheduled. Last posts 23:00 slot: feed 404420710 facebook+tiktok PUBLISHED, reel 404420749 instagram PUBLISHED https://www.instagram.com/reel/De2KRrYkqwx/, story 404420759 facebook+instagram PUBLISHED",
+  "news_search": "Dawn latest list; chose Dawn 'Leghari warns Discos against arbitrary billing' published 06:19:32 PKT 24 Oct (3h41m before slot, 4h window). Note: APP wire on the same announcement was published 23 Oct 18:23 PKT, so card date is 23 OCT 2026.",
+  "verification": "ok: Dawn + APP (two approved outlets) agree on minister, PITC centralised portal, ban on manual detection bills by field staff/SDOs, meter replacement within two billing cycles, average billing capped at two months",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 1daab228-f86e-43bd-a517-967798a7ab3e, no readable text or public figures; credits remaining 2210 before generation",
+  "publish": "feed, reel, story created from results.metricool.payloads; reel audioType music (Cafe Lovers - Global Genius, verified list id 934661001819759; trending search gave no confirmed 'music' instrumental); getScheduledPosts 09:55-10:10 shows all three PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Govt raises high-speed diesel rate by Rs1.91 per litre; petrol unchanged (Dawn 23 Oct 23:32 PKT)",
+   "reason": "older than 8 hours before slot"
+  },
+  {
+   "headline": "Karachi Industrial Park approved as federal SEZ (Dawn, Business Recorder)",
+   "reason": "verified but less directly relevant to ordinary people than electricity billing"
+  }
+ ],
+ "errors": []
 }

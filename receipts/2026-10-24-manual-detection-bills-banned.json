@@ -1,0 +1,35 @@
+{
+ "id": "2026-10-24-manual-detection-bills-banned",
+ "scheduled": "2026-10-24T10:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 404767870,
+   "uuid": "-1193123949911847954",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 404767892,
+   "uuid": "-3641417892580278016",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "934661001819759",
+    "audioType": "music",
+    "title": "Cafe Lovers",
+    "displayArtist": "Global Genius"
+   }
+  },
+  "story": {
+   "metricool_id": 404767898,
+   "uuid": "-4116498195082424439",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
