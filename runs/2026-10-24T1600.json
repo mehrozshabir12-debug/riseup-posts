@@ -1,1 +1,33 @@
-{"slot": "2026-10-24T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T15:46:40+05:00"}
+{
+ "slot": "2026-10-24T16:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T15:46:40+05:00",
+ "run_finished_pkt": "2026-10-24T16:01:38+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {"headline": "On World Polio Day, Pakistan said it will vaccinate more than 23.9 million children under five in a campaign from 2 to 8 November, after seven polio cases so far in 2026.",
+  "sources": [
+   {"outlet": "APP", "url": "https://www.app.com.pk/national/world-polio-day-being-observed-today/", "published_at": "2026-10-24T13:55:00+05:00"},
+   {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/on-world-polio-day-pakistan-urges-parents-to-ensure-childrens-vaccination-3005121", "published_at": "2026-10-24T12:14:35+05:00"}]},
+ "freshness_window": "3h",
+ "request_id": "2026-10-24-polio-drive-nov2-8",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-polio-drive-nov2-8.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok"}],
+ "metricool": {
+  "feed": {"id": 404918246, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7204157181153948048", "networks": {"facebook": "PENDING", "tiktok": "PENDING"}},
+  "reel": {"id": 404918275, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5028186672965991281", "networks": {"instagram": "PENDING"}},
+  "story": {"id": 404918279, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5000947370588090758", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}},
+ "music": "Slow Living - stereogully",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 15:00-17:00 and all ten 6h windows 22 Oct 15:48..25 Oct 03:48 succeeded; slot 16:00 free; RiseUp day 24 Oct before this run: 4 feed posts, 3 TikTok",
+  "previous_slot_check": "15:00 slot (railways emergency): feed facebook+tiktok PUBLISHED, reel instagram PUBLISHED (https://www.instagram.com/reel/De33_n1Dege/), story facebook+instagram PUBLISHED. Nothing to retry.",
+  "news_search": "World Polio Day campaign story: APP 13:55 PKT (3h window), Arab News 12:14 PKT",
+  "verification": "ok: APP and Arab News agree on 23.9 million children under five, 2-8 November campaign, seven cases in 2026; district count differs (APP 97 vs Arab News 997) so left off card/caption; no polio post in last 48h",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, checked: no text/logos/public figures",
+  "publish": "card and zoom MP4 (8 s, 1080x1920, card visible) checked; feed+reel at 16:06, story 16:11 (NOW+5 rule, render finished 16:00); reel audio audioType music, Slow Living - stereogully (verified list id; trending search skipped for time)"},
+ "skipped_candidates": [
+  {"headline": "Karachi Industrial Park approved as federal SEZ (Express Tribune/Dawn)", "reason": "published 24 Oct 01:50 PKT, older than 8h"},
+  {"headline": "ECP: no change to 2024 constituencies (Dawn 08:10)", "reason": "article could not be opened to confirm timestamp/facts; no second source found"},
+  {"headline": "HSD up Rs1.91, petrol unchanged (Dawn 23 Oct 23:32)", "reason": "older than 8h"}],
+ "errors": ["WebFetch https://tribune.com.pk/latest, https://www.geo.tv/latest-news, https://www.dawn.com/news/2039352: PROVENANCE_REQUIRED (permission request not answered)", "curl to Runway cloudfront photo URL from sandbox: CONNECT tunnel failed, response 403 (sandbox proxy only; GitHub render downloaded it fine)"]
+}
