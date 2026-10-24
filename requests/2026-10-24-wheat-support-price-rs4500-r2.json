@@ -1,0 +1,53 @@
+{
+ "id": "2026-10-24-wheat-support-price-rs4500-r2",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif has set an indicative wheat support price of Rs4,500 per maund (40kg) for the 2027 crop, up Rs1,000 from last year's Rs3,500.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039349/wheat-support-price-set-at-rs4500maund",
+   "published_at": "2026-10-24T06:19:00+05:00"
+  },
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40445727/pm-proposes-rs4500-wheat-support-price",
+   "published_at": "2026-10-24T05:32:33+05:00"
+  },
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636648/pm-sets-wheat-support-price-at-rs4500",
+   "published_at": "2026-10-24T02:38:24+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/0c9bf696-e75b-4e67-a88b-24bcfcbaaf46/f3e42039-dfd5-47de-844b-05fc3eee701d/Realistic_photograph_of_a_Punjab__Pakistan_farm_field_at_ear.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjljZjViYjUyNTM0YmJlMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MjkwOTEwOX0.w8EcKAQnv7LoTzquTFw7dc-RoUw8N46WH_S6-34O6ts",
+  "head1": "Wheat Support Price",
+  "head2_hl": "Rs4,500",
+  "head2": "Per Maund",
+  "kicker": "Indicative price for 2027 crop",
+  "desc": "Up Rs1,000 from Rs3,500; farmers had demanded Rs5,000.",
+  "source": "Dawn, Express Tribune",
+  "date": "24 OCT 2026"
+ },
+ "caption": "Prime Minister Shehbaz Sharif has set an indicative wheat support price of Rs4,500 per maund (40kg) for the 2027 crop, up Rs1,000 from last year's Rs3,500, Dawn reports. Farmers had asked for Rs5,000, and the government will coordinate with the provinces on a uniform rate, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Wheat #Farmers #Agriculture #PakistanNews",
+ "tiktok_title": "Wheat support price set at Rs4,500 per maund for 2027 crop",
+ "publish": {
+  "slot": "2026-10-24T11:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
