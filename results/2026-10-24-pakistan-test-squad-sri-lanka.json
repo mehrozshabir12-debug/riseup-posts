@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-24-pakistan-test-squad-sri-lanka",
+ "revision": 1,
+ "request": "requests/2026-10-24-pakistan-test-squad-sri-lanka.json",
+ "type": "news",
+ "headline": "Pakistan have named a 14-member squad led by Babar Azam for the two-match World Test Championship series against Sri Lanka, with maiden call-ups for Sameer Minhas, Mohammad Taha and Mohammad Suleman, while former captain Shan Masood has been dropped.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-24T21:00:00+05:00",
+ "target_slot": "2026-10-24T21:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-pakistan-test-squad-sri-lanka.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-pakistan-test-squad-sri-lanka-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-pakistan-test-squad-sri-lanka.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-24-pakistan-test-squad-sri-lanka.jpg",
+  "story": "posts/2026-10-24-pakistan-test-squad-sri-lanka-story.jpg",
+  "reel": "posts/2026-10-24-pakistan-test-squad-sri-lanka.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 613125768,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T21:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan have named a 14-member squad led by Babar Azam for the two-Test World Test Championship series against Sri Lanka, with maiden call-ups for Sameer Minhas, Mohammad Taha and Mohammad Suleman, Geo News reports. Former captain Shan Masood has been dropped, and the Tests will be played in Rawalpindi from 9 November and Lahore from 17 November, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-pakistan-test-squad-sri-lanka.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan name 14-man Test squad for Sri Lanka series, Shan Masood dropped",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T21:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan have named a 14-member squad led by Babar Azam for the two-Test World Test Championship series against Sri Lanka, with maiden call-ups for Sameer Minhas, Mohammad Taha and Mohammad Suleman, Geo News reports. Former captain Shan Masood has been dropped, and the Tests will be played in Rawalpindi from 9 November and Lahore from 17 November, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-pakistan-test-squad-sri-lanka.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-pakistan-test-squad-sri-lanka-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1543577430102877",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-24T21:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-pakistan-test-squad-sri-lanka-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-24T20:49:24+05:00"
+}

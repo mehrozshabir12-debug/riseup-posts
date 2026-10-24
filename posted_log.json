@@ -3641,5 +3641,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "2026-10-24T21:00:00+05:00",
+  "request_id": "2026-10-24-pakistan-test-squad-sri-lanka",
+  "layout": "bold",
+  "headline": "Pakistan have named a 14-member squad led by Babar Azam for the two-match World Test Championship series against Sri Lanka, with maiden call-ups for Sameer Minhas, Mohammad Taha and Mohammad Suleman, while former captain Shan Masood has been dropped.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/688110-pakistan-announce-initial-test-squad-for-sri-lanka-series",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688110-pakistan-announce-initial-test-squad-for-sri-lanka-series",
+    "published_at": "2026-10-24T17:45:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039501/former-skipper-shan-masood-axed-as-pakistan-turn-to-youth-for-sri-lanka-tests",
+    "published_at": "2026-10-24T19:17:04+05:00"
+   }
+  ],
+  "published": "2026-10-24T17:45:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 613125768,
+  "image": "posts/2026-10-24-pakistan-test-squad-sri-lanka.jpg",
+  "story": "posts/2026-10-24-pakistan-test-squad-sri-lanka-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-24 21:00 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-24-pakistan-test-squad-sri-lanka.mp4"
  }
 ]
