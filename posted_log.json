@@ -3382,5 +3382,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "2026-10-24T12:00:00+05:00",
+  "request_id": "2026-10-24-world-bank-aurangzeb-growth",
+  "layout": "bold",
+  "headline": "The World Bank urged Pakistan to move from stabilisation to investment-led growth in a meeting with Finance Minister Muhammad Aurangzeb, who said Pakistan regained market access through a $3 billion Eurobond.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2039362/wb-urges-pakistan-to-shift-from-stability-to-growth",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039362/wb-urges-pakistan-to-shift-from-stability-to-growth",
+    "published_at": "2026-10-24T06:19:04+05:00"
+   },
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40445733/reforms-investment-led-growth-discussed-with-world-bank",
+    "published_at": "2026-10-24T05:32:33+05:00"
+   }
+  ],
+  "published": "2026-10-24T06:19:04+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 175585589,
+  "image": "posts/2026-10-24-world-bank-aurangzeb-growth.jpg",
+  "story": "posts/2026-10-24-world-bank-aurangzeb-growth-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-24 12:01 PKT",
+  "music": "City Around The Corner - The Poison Oaks",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-24-world-bank-aurangzeb-growth.mp4"
  }
 ]
