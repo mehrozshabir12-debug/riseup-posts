@@ -1,1 +1,87 @@
-{"slot": "2026-10-24T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T21:46:13+05:00"}
+{
+ "slot": "2026-10-24T22:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T21:46:13+05:00",
+ "run_finished_pkt": "2026-10-24T21:58:04+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Finance Minister Muhammad Aurangzeb said workers' remittances are expected to reach $44 billion this fiscal year, while urging businesses to raise productivity and saying 7-8% growth is not enough without jobs.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40445763/govt-focused-on-export-led-sustainable-growth-private-sector-facilitation-finance-minister",
+    "published_at": "2026-10-24T20:31:00+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688120-finmin-aurangzeb-urges-business-reforms-higher-productivity-to-compete-globally",
+    "published_at": "2026-10-24T19:11:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-24-remittances-44bn-aurangzeb",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-remittances-44bn-aurangzeb.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 405127459,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6525913865761017728",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 405127804,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1253926634733194782",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 405127647,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4095184557578368008",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all 6-hour windows 22 Oct 21:45 - 25 Oct 09:50 read OK; slot 22:00 free; today 8 feed posts, 6 with TikTok before this slot",
+  "previous_slot_check": "21:00 feed 405085045 facebook PUBLISHED https://facebook.com/122185478282855502/posts/122187520154855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7700266547469634836; reel 405085096 instagram PUBLISHED https://www.instagram.com/reel/De4hgcoCtGb/; story 405085106 facebook+instagram PUBLISHED",
+  "news_search": "Business Recorder 20:31 PKT (main, within 2h of T), Geo News 19:11 PKT",
+  "verification": "2 approved outlets (Business Recorder, Geo News) agree: remittances $44bn expected this FY, 7-8% growth not enough without jobs, Lahore university event 24 Oct; LUMS named by Geo",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, no text/logos/public figures",
+  "publish": "NOW 21:56 was later than T-5, so posts set to 22:03 (feed, reel) and 22:08 (story) instead of payload 22:01/22:06; reel audio confirmed audioType music, displayArtist Global Genius; trending-audio search gave no confirmed music id, used verified list id 810120545333296"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan rejects Khalilzad's allegations of arming Afghans",
+   "reason": "older (Dawn 16:32 PKT) and accusatory political dispute"
+  },
+  {
+   "headline": "Four children killed as van plunges into ravine in Neelum Valley",
+   "reason": "story about minors (runbook skip rule)"
+  },
+  {
+   "headline": "Mpox claims another child's life in Sindh",
+   "reason": "story about a minor"
+  },
+  {
+   "headline": "Pakistan seek tri-series final berth vs England",
+   "reason": "preview only; match is Sunday"
+  }
+ ],
+ "errors": [
+  "createScheduledPost reel attempt 1: Error processing post information: I/O error on GET request for \"https://app.metricool.com/api/v2/scheduler/catalogs/instagram/audio/810120545333296\": Request cancelled (no post created; retry succeeded as 405127804)"
+ ]
+}
