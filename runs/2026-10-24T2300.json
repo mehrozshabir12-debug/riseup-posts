@@ -1,1 +1,31 @@
-{"slot": "2026-10-24T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T22:46:18+05:00"}
+{
+ "slot": "2026-10-24T23:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T22:46:18+05:00",
+ "run_finished_pkt": "2026-10-24T22:53:18+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all 6-hour windows 22 Oct 22:00 - 25 Oct 11:00 read OK; slot 23:00 free; today 9 feed posts, 7 with TikTok",
+  "previous_slot_check": "22:00 feed 405127459 (22:03) facebook PUBLISHED https://facebook.com/122185478282855502/posts/122187523784855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7700281560024599829; reel 405127804 instagram PUBLISHED https://www.instagram.com/reel/De4oRVRjv4-/ (audio music, Iced Latte - Global Genius); story 405127647 facebook+instagram PUBLISHED",
+  "news_search": "searched approved outlets for stories published 15:00-23:00 PKT; no candidate passed all rules",
+  "verification": "failed: best fresh candidate had only one approved source",
+  "image": "not generated (no story)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {"headline": "PCB chief Mohsin Naqvi says some talented cricketers stop working hard after fame (Geo News 21:55 PKT)", "reason": "only one approved source (Geo); no second approved outlet found; opinion remarks, low public impact"},
+  {"headline": "SHC orders transfer of thousands of narcotics cases to five special courts in Karachi (Express Tribune 16:30 PKT)", "reason": "no second approved source found; crime-related"},
+  {"headline": "Pakistan rejects Khalilzad's allegations of arming Afghans", "reason": "accusatory political dispute (rejected by 22:00 run too); already ~6.5h old"},
+  {"headline": "Pakistan calls for fairer global order at UN (Dawn)", "reason": "published 06:19 PKT, older than 8h"},
+  {"headline": "Bail for suspect in Lahore scooty-rider assault / CM Maryam reaction", "reason": "crime involving private individuals"},
+  {"headline": "Four children killed as van plunges into ravine in Neelum Valley; Mpox child death in Sindh", "reason": "stories about minors (runbook skip rule)"}
+ ],
+ "errors": []
+}
