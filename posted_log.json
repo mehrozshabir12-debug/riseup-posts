@@ -3464,10 +3464,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-24 15:01 PKT",
+  "scheduled": true,
   "music": "Reflection - Sam Marshall",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-24-railways-emergency-dec31.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 404888389,
+   "reel": 404888415,
+   "story": 404888424
+  },
+  "video": "posts/2026-10-24-railways-emergency-dec31.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
