@@ -3434,5 +3434,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "2026-10-24T15:00:00+05:00",
+  "request_id": "2026-10-24-railways-emergency-dec31",
+  "layout": "bold",
+  "headline": "Pakistan Railways has declared an emergency until 31 December on Railways Minister Hanif Abbasi's instructions, cancelling field officers' leave for three months amid rising train accidents.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-railways-declares-emergency-until-dec-31-amid-safety-concerns-3005133",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-railways-declares-emergency-until-dec-31-amid-safety-concerns-3005133",
+    "published_at": "2026-10-24T14:43:00+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636657/pakistan-railways-declares-three-month-emergency-amid-rising-train-accidents",
+    "published_at": "2026-10-24T12:10:13+05:00"
+   }
+  ],
+  "published": "2026-10-24T14:43:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 838927106,
+  "image": "posts/2026-10-24-railways-emergency-dec31.jpg",
+  "story": "posts/2026-10-24-railways-emergency-dec31-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-24 15:01 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-24-railways-emergency-dec31.mp4"
  }
 ]
