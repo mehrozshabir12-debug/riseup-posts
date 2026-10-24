@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-24-r4-istanbul-diplomacy-hormuz",
+ "type": "news",
+ "headline": "Foreign ministers of Pakistan, Turkiye, Egypt and Saudi Arabia (R4) met in Istanbul and called for the Iran conflict to be resolved only through dialogue and diplomacy, and for safe, unimpeded passage through the Strait of Hormuz.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/r4-european-nations-call-for-dialogue-to-resolve-conflicts-in-middle-east-3005128", "published_at": "2026-10-24T13:10:54+05:00"},
+  {"outlet": "Geo News", "url": "https://www.geo.tv/latest/688022-r4-calls-for-diplomacy-to-end-iran-conflict-demands-safe-passage-through-hormuz", "published_at": "2026-10-24T01:59:04+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/20119e6a-cc36-4d43-9073-6cc6cadba09d/a432f565-9400-437e-b876-85ec36c6426c/Realistic_photo_of_a_large_oil_tanker_ship_sailing_through_a.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNWJmMmRiN2VmMjI4ZTk1NyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjk0MzM1OH0.fRC0zOpNBoYE33d97zMOcrq0ku3GNivX5kKf7tT7Sb4",
+  "head1": "R4 Urges",
+  "head2_hl": "Diplomacy",
+  "head2": "On Iran",
+  "kicker": "Call for safe Hormuz passage",
+  "desc": "Pakistan, Turkiye, Egypt and Saudi Arabia met in Istanbul.",
+  "source": "Arab News, Geo News",
+  "date": "24 OCT 2026"
+ },
+ "caption": "Foreign ministers of Pakistan, Turkiye, Egypt and Saudi Arabia, the R4 group, called for the Iran conflict to be resolved only through dialogue and diplomacy after meeting in Istanbul, and demanded safe, unimpeded passage through the Strait of Hormuz, Geo News reports. The R4 also met ministers from the UK, France, Germany and Italy, who agreed on the urgent need for de-escalation, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #R4 #Hormuz #Diplomacy #PakistanNews",
+ "tiktok_title": "R4 urges diplomacy on Iran conflict, safe passage through Hormuz",
+ "publish": {"slot": "2026-10-24T17:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "589750179694057", "label": "Float (Instrumental) - Sleeping Lion"},
+ "ai_generated": true
+}
