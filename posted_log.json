@@ -3671,10 +3671,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-24 21:00 PKT",
+  "scheduled": "2026-10-24T21:00:00+05:00",
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-24-pakistan-test-squad-sri-lanka.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 405085045,
+   "reel": 405085096,
+   "story": 405085106
+  },
+  "video": "posts/2026-10-24-pakistan-test-squad-sri-lanka.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
