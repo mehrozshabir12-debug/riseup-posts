@@ -1,1 +1,46 @@
-{"slot": "2026-10-24T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T18:46:38+05:00"}
+{
+ "slot": "2026-10-24T19:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T18:46:38+05:00",
+ "run_finished_pkt": "2026-10-24T18:54:27+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (Runway task 32987235-d05a-41f6-b24a-5be0740721c2, cricket stadium; generated in parallel with verification to save time, then unused because the story could not be verified)"
+  }
+ ],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 18:00-20:00 and all ten 6h windows 22 Oct 18:45..25 Oct 06:45 succeeded; slot 19:00 free; RiseUp day 24 Oct so far: 7 feed posts, 5 TikTok",
+  "previous_slot_check": "18:00 slot (Sindh JIT): feed 404982562 facebook PUBLISHED + tiktok PUBLISHED; reel 404982604 instagram PUBLISHED (https://www.instagram.com/reel/De4MnrngS-p/, music Drift Away); story 404982615 facebook+instagram PUBLISHED. Nothing to retry.",
+  "news_search": "best fresh candidate: Pakistan announce 14-member Test squad for Sri Lanka series (Geo News, published 2026-10-24T17:45:00+05:00)",
+  "verification": "failed: no second approved outlet or PCB release found; only Geo (approved) plus thenews.pk, ARY, Samaa, Daily Pakistan, 24NewsHD, ICC, Hum English (not on approved list)",
+  "image": "generated 1 image (4 credits), not used",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan name 14-member Test squad for 2-Test WTC series vs Sri Lanka (Babar captain; uncapped Sameer Minhas, Mohammad Taha, Mohammad Suleman; Shan Masood out; Tests 9-13 Nov Rawalpindi, 17-21 Nov Lahore) - Geo 17:45 PKT",
+   "reason": "single approved source; confirming reports only on thenews.pk (domain not on approved list, approved domain is thenews.com.pk) and non-approved sites; PCB release not reachable"
+  },
+  {
+   "headline": "Man accused of assaulting petrol station worker in Lahore released after compromise (Dawn)",
+   "reason": "crime/private individuals"
+  },
+  {
+   "headline": "Pakistan denounces church attack in Jordan (Dawn)",
+   "reason": "statement story, low relevance; violence"
+  }
+ ],
+ "errors": [
+  "WebFetch tribune.com.pk/latest: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "WebFetch pcb.com.pk match page: client_error",
+  "WebSearch: PROXY_REJECTED HTTP 400 once (retried)"
+ ]
+}
