@@ -1,1 +1,32 @@
-{"slot": "2026-10-24T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T14:46:30+05:00"}
+{
+ "slot": "2026-10-24T15:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T14:46:30+05:00",
+ "run_finished_pkt": "2026-10-24T14:56:18+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {"headline": "Pakistan Railways has declared an emergency until 31 December on Railways Minister Hanif Abbasi's instructions, cancelling field officers' leave for three months amid rising train accidents.",
+  "sources": [
+   {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/pakistan-railways-declares-emergency-until-dec-31-amid-safety-concerns-3005133", "published_at": "2026-10-24T14:43:00+05:00"},
+   {"outlet": "Express Tribune", "url": "https://tribune.com.pk/story/2636657/pakistan-railways-declares-three-month-emergency-amid-rising-train-accidents", "published_at": "2026-10-24T12:10:13+05:00"}]},
+ "freshness_window": "2h",
+ "request_id": "2026-10-24-railways-emergency-dec31",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-railways-emergency-dec31.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok"}],
+ "metricool": {
+  "feed": {"id": 404888389, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-444996424947578160", "networks": {"facebook": "PENDING", "tiktok": "PENDING"}},
+  "reel": {"id": 404888415, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4957223213024655997", "networks": {"instagram": "PENDING"}},
+  "story": {"id": 404888424, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3231448917748134473", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}},
+ "music": "Reflection - Sam Marshall",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 14:00-16:00 and all ten 6h windows 22 Oct 14:46..25 Oct 02:46 succeeded; slot 15:00 free; RiseUp day 24 Oct before this run: 3 feed posts, 2 TikTok",
+  "previous_slot_check": "14:00 slot: no posts in Metricool; runs/2026-10-24T1400.json still says 'started' (that run did not finish). Nothing to retry. 12:00 slot all PUBLISHED.",
+  "news_search": "Railways emergency story now carried by Arab News 14:43 PKT (2h window) plus Express Tribune 12:10 PKT",
+  "verification": "ok: two approved outlets (Express Tribune, Arab News) agree: emergency until 31 Dec on Hanif Abbasi's instructions, field officers' leave cancelled three months, Sunday field supervision, more than 55 accidents since 1 Jan; no railways post in last 48h",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, checked: no text/logos/public figures",
+  "publish": "card and zoom MP4 checked; feed+reel+story created at 15:01/15:01/15:06 (NOW+5 rule, render finished 14:55); reel audio audioType music, Reflection - Sam Marshall (verified list id; trending search skipped for time)"},
+ "skipped_candidates": [
+  {"headline": "4 children killed as van plunges into ravine in Neelum Valley (Dawn)", "reason": "story about minors / casualties"},
+  {"headline": "Pakistan condemns attack on church in Jordan", "reason": "statement story, lower relevance for ordinary people"}],
+ "errors": ["WebFetch https://www.dawn.com/latest-news: PROVENANCE_REQUIRED (permission request not answered)"]
+}
