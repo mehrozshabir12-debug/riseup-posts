@@ -1,1 +1,70 @@
-{"slot": "2026-10-24T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T20:46:32+05:00"}
+{
+ "slot": "2026-10-24T21:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T20:46:32+05:00",
+ "run_finished_pkt": "2026-10-24T20:51:03+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan have named a 14-member squad led by Babar Azam for the two-match World Test Championship series against Sri Lanka, with maiden call-ups for Sameer Minhas, Mohammad Taha and Mohammad Suleman, while former captain Shan Masood has been dropped.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688110-pakistan-announce-initial-test-squad-for-sri-lanka-series",
+    "published_at": "2026-10-24T17:45:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039501/former-skipper-shan-masood-axed-as-pakistan-turn-to-youth-for-sri-lanka-tests",
+    "published_at": "2026-10-24T19:17:04+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-24-pakistan-test-squad-sri-lanka",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-pakistan-test-squad-sri-lanka.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 405085045,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3907479771841933773",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 405085096,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2158871247469720281",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 405085106,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6267541638786233311",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 20:00-22:00 plus eleven 6h windows 22 Oct 20:00..25 Oct 14:00 all succeeded; slot 21:00 free; RiseUp day 24 Oct before this post: 7 feed posts, 5 TikTok",
+  "previous_slot_check": "20:00 slot was skipped (no posts); 18:00 slot feed 404982562, reel 404982604, story 404982615 all PUBLISHED. Nothing to retry.",
+  "news_search": "Pakistan Test squad for Sri Lanka series; newest source Dawn 19:17 PKT (within 2h of T)",
+  "verification": "ok: Geo News (17:45 PKT) and Dawn (19:17 PKT) agree on captain Babar Azam, 14-member squad, uncapped Sameer Minhas/Mohammad Taha/Mohammad Suleman, Shan Masood dropped, Tests 9-13 Nov Rawalpindi and 17-21 Nov Lahore. PCB press release page could not be fetched (client_error).",
+  "image": "ok: Runway nano-banana-2-lite, 1 image, task 61b4a48d-620c-432e-9ecb-26f5d47644e3; no text/logos/real people",
+  "publish": "feed, reel and story scheduled; card and zoom MP4 checked; Reel audioType music (The Process - Jackson Whalan, verified-list id 1543577430102877; trending search gave no confirmed music id)"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "WebFetch pcb.com.pk press release: failed at its site (client_error)"
+ ]
+}
