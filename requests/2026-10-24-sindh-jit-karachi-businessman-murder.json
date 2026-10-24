@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-24-sindh-jit-karachi-businessman-murder",
+ "type": "news",
+ "headline": "The Sindh government has formed a joint investigation team led by DIG Irfan Baloch, with ISI, IB, Rangers and NCCIA representatives, to probe the murder of a 25-year-old Karachi businessman after a judicial commission ruled his death a murder, not suicide.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistans-sindh-forms-multiagency-team-to-probe-karachi-businessmans-murder-3005145",
+   "published_at": "2026-10-24T17:43:13+05:00"
+  },
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636664/sindh-govt-forms-jit-committees-to-implement-judicial-commissions-recommendations-in-mir-raza-case",
+   "published_at": "2026-10-24T16:12:22+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/0a58188d-67ee-4d35-970b-785a0af4d4bd/f2971a89-210b-479c-915f-7c78546764cc/Realistic_photo_of_a_government_investigation_office_in_Kara.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiODczYWEyNDYwNDViYjJhYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjk2MTk5MH0.jW72rWRtGan8Ui2Oj834r85a9rJXnf_fLCk_90rQjf4",
+  "head1": "Sindh Forms JIT",
+  "head2_hl": "Murder Probe",
+  "head2": "",
+  "kicker": "Karachi businessman's case",
+  "desc": "Commission ruled it murder; police conduct under review.",
+  "source": "Arab News, Express Tribune",
+  "date": "24 OCT 2026"
+ },
+ "caption": "The Sindh government has formed a joint investigation team under DIG Irfan Baloch, with ISI, IB, Rangers and NCCIA representatives, to probe the murder of a 25-year-old Karachi businessman, Arab News reports. A judicial commission ruled his death a murder, not suicide, and a one-member committee will review the conduct of 13 police officials named in its report, Express Tribune adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Sindh #Karachi #Justice #PakistanNews",
+ "tiktok_title": "Sindh forms JIT to probe Karachi businessman's murder",
+ "publish": {
+  "slot": "2026-10-24T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1211414204067053",
+  "label": "Drift Away (Instrumental) - Giulio Cercato"
+ },
+ "ai_generated": true
+}
