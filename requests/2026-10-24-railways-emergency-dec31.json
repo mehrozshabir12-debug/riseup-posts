@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-24-railways-emergency-dec31",
+ "type": "news",
+ "headline": "Pakistan Railways has declared an emergency until 31 December on Railways Minister Hanif Abbasi's instructions, cancelling field officers' leave for three months amid rising train accidents.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/pakistan-railways-declares-emergency-until-dec-31-amid-safety-concerns-3005133", "published_at": "2026-10-24T14:43:00+05:00"},
+  {"outlet": "Express Tribune", "url": "https://tribune.com.pk/story/2636657/pakistan-railways-declares-three-month-emergency-amid-rising-train-accidents", "published_at": "2026-10-24T12:10:13+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/91d69e5c-543f-46ed-95cb-5915960bd597/4b0a4f75-3b5e-4a0b-8d87-36e3b77bc262/Realistic_photograph_of_a_green_Pakistani_passenger_train_st.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZTQ5ZTQzMmQyNzBiMGI5YiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjk5NDczM30.OCRZ-2-uHcjVDmZwwXBEZL91Qp5JqbF395S8d_R9w0A",
+  "head1": "Pakistan Railways",
+  "head2_hl": "Emergency",
+  "head2": "Declared",
+  "kicker": "In force until 31 December",
+  "desc": "Field officers' leave cancelled after 55+ accidents this year.",
+  "source": "Express Tribune, Arab News",
+  "date": "24 OCT 2026"
+ },
+ "caption": "Pakistan Railways has declared an emergency until 31 December on Railways Minister Hanif Abbasi's instructions, cancelling field officers' leave for three months, Express Tribune reports. Officers must supervise train operations on Sundays after more than 55 accidents since 1 January, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanRailways #TrainSafety #Pakistan #PakistanNews",
+ "tiktok_title": "Pakistan Railways declares emergency until 31 December after 55+ accidents",
+ "publish": {"slot": "2026-10-24T15:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "478728841591377", "label": "Reflection - Sam Marshall"},
+ "ai_generated": true
+}
