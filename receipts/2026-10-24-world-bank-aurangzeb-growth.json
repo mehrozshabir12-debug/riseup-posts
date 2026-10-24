@@ -1,0 +1,29 @@
+{
+ "id": "2026-10-24-world-bank-aurangzeb-growth",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 404809762,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8946158472926048479"
+  },
+  "reel": {
+   "metricool_id": 404809794,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4227976697325730888"
+  },
+  "story": {
+   "metricool_id": 404809798,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-608194969212008045"
+  }
+ }
+}

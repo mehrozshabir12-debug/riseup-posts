@@ -1,1 +1,77 @@
-{"slot": "2026-10-24T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T11:46:56+05:00"}
+{
+ "slot": "2026-10-24T12:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T11:46:56+05:00",
+ "run_finished_pkt": "2026-10-24T11:56:28+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The World Bank urged Pakistan to move from stabilisation to investment-led growth in a meeting with Finance Minister Muhammad Aurangzeb, who said Pakistan regained market access through a $3 billion Eurobond.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039362/wb-urges-pakistan-to-shift-from-stability-to-growth",
+    "published_at": "2026-10-24T06:19:04+05:00"
+   },
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40445733/reforms-investment-led-growth-discussed-with-world-bank",
+    "published_at": "2026-10-24T05:32:33+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h",
+ "request_id": "2026-10-24-world-bank-aurangzeb-growth",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-world-bank-aurangzeb-growth.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404809762,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8946158472926048479",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404809794,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4227976697325730888",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404809798,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-608194969212008045",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "City Around The Corner - The Poison Oaks",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 11:00-13:00 and all ten 6h windows 22 Oct 11:46..24 Oct 23:46 succeeded; slot 12:00 free; RiseUp day 24 Oct before this: 2 feed posts, 1 TikTok",
+  "previous_slot_check": "11:00 slot: feed 404793588 facebook PUBLISHED https://facebook.com/122185478282855502/posts/122187461798855502; reel 404793731 PUBLISHED https://www.instagram.com/reel/De3dmR6juuh/; story 404793742 facebook+instagram PUBLISHED",
+  "news_search": "2h window: Geo 'Drap directed to reassess drug pricing proposals, incl. flu vaccines' (10:00 PKT) found but no second approved outlet; used 6h window: Dawn 06:19 PKT WB-Aurangzeb meeting",
+  "verification": "ok: Dawn (06:19, modified 07:08 PKT) + Business Recorder (05:32 PKT) agree: Sandeep Mahajan (WB) met FinMin Aurangzeb; WB urged shift from stabilisation to investment-led/private-sector growth; Aurangzeb cited $3bn Eurobond (5- and 10-year)",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task eb0f2db2-dd07-479d-afe4-167cd506f99a; anonymous conference room, no text; credits remaining 2202 at generation",
+  "publish": "renderer awaiting_publish in ~1 min; card and zoom MP4 (8s, 1080x1920, h264+aac) checked; feed/reel 12:01, story 12:06 created from payloads exactly; Reel audioType music, displayArtist The Poison Oaks. Music chosen from VERIFIED MUSIC LIST (numeric id) without a trending search to save slot time."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Drap told to reassess drug pricing proposals incl. flu vaccines (Geo, 10:00 PKT)",
+   "reason": "only one approved outlet found; not cross-verified"
+  },
+  {
+   "headline": "Govt insists fuel supply 'stable' as fuel fears echo in Senate (Dawn 06:19)",
+   "reason": "single outlet; overlaps LPG shortage story posted 23 Oct 19:00"
+  }
+ ],
+ "errors": []
+}
