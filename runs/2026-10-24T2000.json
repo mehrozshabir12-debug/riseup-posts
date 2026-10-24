@@ -1,1 +1,40 @@
-{"slot": "2026-10-24T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T19:46:20+05:00"}
+{
+ "slot": "2026-10-24T20:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T19:46:20+05:00",
+ "run_finished_pkt": "2026-10-24T19:53:13+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 19:00-21:00 and all ten 6h windows 22 Oct 19:45..25 Oct 07:45 succeeded; slot 20:00 free; RiseUp day 24 Oct so far: 7 feed posts, 5 TikTok",
+  "previous_slot_check": "19:00 slot was skipped (no posts); 18:00 slot (Sindh JIT) feed 404982562, reel 404982604, story 404982615 all PUBLISHED. Nothing to retry.",
+  "news_search": "Dawn latest-news listing only showed items up to 09:30 PKT; geo.tv category page showed items up to 23 Oct; Tribune search gave Khalilzad rebuttal (published 14:14 PKT)",
+  "verification": "failed: no candidate within 8h had a second approved outlet or official primary source in time for the 20:00 slot",
+  "image": "not generated (no verified story; credits saved)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan's Information Ministry rejects Zalmay Khalilzad's claim that Pakistan arms Afghans to fight the Taliban (Express Tribune, 2026-10-24T14:14:52+05:00)",
+   "reason": "single approved source found; political rebuttal statement; no confirming approved outlet found"
+  },
+  {
+   "headline": "Pakistan name 14-member Test squad for Sri Lanka series (Geo News, 17:45 PKT)",
+   "reason": "still only one approved outlet; search returned no Dawn/Tribune/PCB confirmation"
+  },
+  {
+   "headline": "Pakistan Railways three-month emergency (Express Tribune)",
+   "reason": "duplicate: already posted at 15:01 today"
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest-news: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "WebSearch (allowed_domains filter): PROXY_REJECTED HTTP 400"
+ ]
+}
