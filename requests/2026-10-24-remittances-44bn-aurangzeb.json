@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-24-remittances-44bn-aurangzeb",
+ "type": "news",
+ "headline": "Finance Minister Muhammad Aurangzeb said workers' remittances are expected to reach $44 billion this fiscal year, while urging businesses to raise productivity and saying 7-8% growth is not enough without jobs.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Business Recorder", "url": "https://www.brecorder.com/news/40445763/govt-focused-on-export-led-sustainable-growth-private-sector-facilitation-finance-minister", "published_at": "2026-10-24T20:31:00+05:00"},
+  {"outlet": "Geo News", "url": "https://www.geo.tv/latest/688120-finmin-aurangzeb-urges-business-reforms-higher-productivity-to-compete-globally", "published_at": "2026-10-24T19:11:00+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/40d2767e-eb71-48d3-8bc5-1cdfb87c0b32/3d12c2b0-3ef9-4b0a-bc4e-096ad0beed3d/Realistic_photo_inside_a_busy_money_exchange_and_bank_branch.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMmJhNTQyYjJmNjBkOWE2ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mjk4MzYwMn0.2fEJKh8XCHTPcIaq1O9Shsdf0n59ARemwMtEdHgNU78",
+  "head1": "Remittances to Hit",
+  "head2_hl": "$44 Billion",
+  "head2": "",
+  "kicker": "Finance Minister Aurangzeb",
+  "desc": "Aurangzeb says 7-8% growth is not enough without jobs.",
+  "source": "Geo News, Business Recorder",
+  "date": "24 OCT 2026"
+ },
+ "caption": "Finance Minister Muhammad Aurangzeb said workers' remittances are expected to reach $44 billion this fiscal year, Business Recorder reports. Speaking at LUMS in Lahore, he urged businesses to raise productivity and said 7-8% growth is not enough without jobs, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Remittances #Economy #Pakistan #PakistanNews",
+ "tiktok_title": "Remittances expected to hit $44 billion this fiscal year: Aurangzeb",
+ "publish": {"slot": "2026-10-24T22:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "810120545333296", "label": "Iced Latte - Global Genius"},
+ "ai_generated": true
+}
