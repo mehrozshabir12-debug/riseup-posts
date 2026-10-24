@@ -1,1 +1,83 @@
-{"slot": "2026-10-24T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-24T10:46:46+05:00"}
+{
+ "slot": "2026-10-24T11:00:00+05:00",
+ "riseup_day": "2026-10-24",
+ "run_started_pkt": "2026-10-24T10:46:46+05:00",
+ "run_finished_pkt": "2026-10-24T11:07:01+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif has set an indicative wheat support price of Rs4,500 per maund (40kg) for the 2027 crop, up Rs1,000 from last year's Rs3,500.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039349/wheat-support-price-set-at-rs4500maund",
+    "published_at": "2026-10-24T06:19:00+05:00"
+   },
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40445727/pm-proposes-rs4500-wheat-support-price",
+    "published_at": "2026-10-24T05:32:33+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636648/pm-sets-wheat-support-price-at-rs4500",
+    "published_at": "2026-10-24T02:38:24+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h",
+ "request_id": "2026-10-24-wheat-support-price-rs4500",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-24-wheat-support-price-rs4500.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 404793588,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5306426143818102151",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 404793731,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6688384546782659128",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 404793742,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7482468671034340113",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 10:00-12:00 and all ten 6h windows 22 Oct 10:46..24 Oct 22:46 succeeded; slot 11:00 free; RiseUp day 24 Oct: 1 feed post, 1 TikTok before this one",
+  "previous_slot_check": "10:00 slot: feed 404767870 facebook PUBLISHED https://facebook.com/122185478282855502/posts/122187455714855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7700095108993109269; reel 404767892 PUBLISHED https://www.instagram.com/reel/De3VZdgCbdk/; story 404767898 facebook+instagram PUBLISHED",
+  "news_search": "Dawn 'Wheat support price set at Rs4,500/maund' published 06:19 PKT 24 Oct (4h41m before slot, 6h window); nothing more important found in 2-4h windows",
+  "verification": "ok: Dawn + Business Recorder (05:32 PKT) + Express Tribune (02:38 PKT) agree: Rs4,500 per maund (40kg), 2027 crop, up Rs1,000 from Rs3,500; Dawn and Tribune: farmers demanded Rs5,000; Tribune: coordination with provinces on uniform rate",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 0c9bf696-e75b-4e67-a88b-24bcfcbaaf46; no readable text or public figures; credits remaining 2206 at generation",
+  "publish": "Request r1 caption wrongly attributed the word 'indicative' to Business Recorder (BR says 'illustrative'). Committed r2 (2026-10-24-wheat-support-price-rs4500-r2) with corrected caption, but the renderer had not processed it by 11:06, so r1's rendered card/MP4/payloads were used with ONLY the text replaced by the verified r2 caption and times moved to 11:13 (feed, reel) / 11:18 (story) because 11:00 had passed (within T+15). Card checked (card source line 'Dawn, Business Recorder' is accurate). TikTok skipped by renderer pacing rule (1 allowed by 11:00). Reel audioType music, displayArtist Trout Recording. r2 request must NOT be published if it renders later."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Chicken prices surge to Rs700/kg (Express Tribune)",
+   "reason": "print story ~02:30 PKT, near/over 8h limit; wheat price more important"
+  },
+  {
+   "headline": "Over 10kg flour bags to be banned (Express Tribune)",
+   "reason": "single outlet found, not cross-verified in time"
+  }
+ ],
+ "errors": [
+  "renderer did not process requests/2026-10-24-wheat-support-price-rs4500-r2.json within 12 min; r1 payload text replaced (deviation from 'payloads exactly' to avoid misattribution)"
+ ]
+}
