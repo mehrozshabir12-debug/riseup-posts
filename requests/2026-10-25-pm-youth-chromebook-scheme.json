@@ -1,0 +1,53 @@
+{
+ "id": "2026-10-25-pm-youth-chromebook-scheme",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif has launched the PM Youth Chromebook Scheme in Islamabad, under which 500,000 Chromebooks will be distributed to students across Pakistan over two years.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/688214-pm-shehbaz-launches-scheme-to-distribute-500000-chromebooks-to-students",
+   "published_at": "2026-10-25T14:56:00+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039718/500000-chromebooks-to-be-distributed-among-students-across-country-over-2-years-announces-pm-shehbaz",
+   "published_at": "2026-10-25T15:04:16+05:00"
+  },
+  {
+   "outlet": "APP",
+   "url": "https://www.app.com.pk/national/pm-launches-chromebook-scheme-for-500000-students-stresses-youth-empowerment/",
+   "published_at": "2026-10-25T15:35:24+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/220cdb4c-76b1-43de-8093-7a5840c89c56/0e289a43-7e8c-4fa1-a424-91a8c0923ee1/Realistic_photograph_of_a_Pakistani_classroom__a_few_anonymo.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZTNhOWUzMzliNDhmZDU5MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzA0OTc4NX0.0rvdjG1Dev_OzogmGGEtE40qSAXINqpuKxW6DoGbHSA",
+  "head1": "500,000 Chromebooks",
+  "head2_hl": "For Students",
+  "head2": "",
+  "kicker": "PM Youth Chromebook Scheme",
+  "desc": "Chromebooks with internet devices to be distributed over two years.",
+  "source": "Geo News, Dawn",
+  "date": "25 OCT 2026"
+ },
+ "caption": "Prime Minister Shehbaz Sharif has launched the PM Youth Chromebook Scheme in Islamabad, under which 500,000 Chromebooks will be distributed to students across the country over two years, Geo News reports. Students will be selected on merit from schools and madaris, and the devices come with internet connectivity, APP adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Chromebook #Education #Youth #PakistanNews",
+ "tiktok_title": "PM launches scheme to give 500,000 Chromebooks to students",
+ "publish": {
+  "slot": "2026-10-25T16:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1274149560124013",
+  "label": "Heros Journey (Instrumental) - Abby Posner"
+ },
+ "ai_generated": true
+}
