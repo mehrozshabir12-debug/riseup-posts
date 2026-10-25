@@ -1,0 +1,53 @@
+{
+ "id": "2026-10-25-pakistan-qatar-gcc-fta",
+ "type": "news",
+ "headline": "Pakistan has asked Qatar to help speed up the signing of the Pakistan-GCC free trade agreement at a Joint Task Force meeting in Doha.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40445855/pakistan-seeks-early-signing-of-gcc-free-trade-agreement-in-talks-with-qatar",
+   "published_at": "2026-10-25T11:52:00+05:00"
+  },
+  {
+   "outlet": "APP",
+   "url": "https://www.app.com.pk/business/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation/",
+   "published_at": "2026-10-25T12:46:24+05:00"
+  },
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-invites-qatari-investments-in-agriculture-ev-it-and-maritime-sectors-3005217",
+   "published_at": "2026-10-25T14:34:31+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/df788a0b-2091-4869-bb02-a8fec1996db4/110d3ee3-1b3c-43d1-babd-15a47fc52497/Realistic_photograph_of_a_busy_cargo_port_at_a_Gulf_city_wat.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjE0NTFkNmFmMzhmN2RkMiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzAwODc0Nn0.4-GSr7hc9k9U8rhdxH2uy-sgklDHvr5CP0WEUJGUrLk",
+  "head1": "Pakistan Seeks Early",
+  "head2_hl": "GCC Trade Deal",
+  "head2": "",
+  "kicker": "Talks with Qatar in Doha",
+  "desc": "Pakistan also invited Qatari investment in agriculture, EVs and shipping.",
+  "source": "Business Recorder, APP",
+  "date": "25 OCT 2026"
+ },
+ "caption": "Pakistan has asked Qatar to help speed up the signing of the Pakistan-GCC free trade agreement at a Joint Task Force meeting in Doha, Business Recorder reports. Commerce Minister Jam Kamal Khan also invited Qatari investment in agriculture, electric vehicles, IT and shipping, APP adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Qatar #Trade #Economy #PakistanNews",
+ "tiktok_title": "Pakistan asks Qatar to help speed up GCC free trade deal",
+ "publish": {
+  "slot": "2026-10-25T15:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1131479132514825",
+  "label": "Simple Pleasures - Alex Blue"
+ },
+ "ai_generated": true
+}
