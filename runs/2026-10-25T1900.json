@@ -1,1 +1,68 @@
-{"slot": "2026-10-25T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T18:47:11+05:00"}
+{
+ "slot": "2026-10-25T19:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T18:47:11+05:00",
+ "run_finished_pkt": "2026-10-25T18:51:29+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Shaheen Shah Afridi took 4-46 as Pakistan bowled England out for 241 in 46.4 overs in the tri-series ODI in Lahore, despite Ben Duckett's 105 off 111 balls.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-keep-england-to-241-despite-duckett-ton-3005227",
+    "published_at": "2026-10-25T17:39:53+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039708/shaheen-takes-four-as-pakistan-restrict-england-to-241-despite-duckett-century-in-tri-series",
+    "published_at": "2026-10-25T17:04:40+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-25-england-all-out-241-lahore",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-england-all-out-241-lahore.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 405684778,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3816245059199482897",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 405684820,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3023823917238078203",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 405684831,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8666967074302609497",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Glow (Instrumental) - KNOTTS",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; windows 23 Oct 18:45 - 26 Oct 06:50 all succeeded; slot 19:00 free; RiseUp day so far 4 news posts, 4 with TikTok",
+  "previous_slot_check": "18:00 slot: feed 405653908 FB+TikTok PUBLISHED, reel 405653976 IG PUBLISHED (https://www.instagram.com/reel/De6xbV4AAGN/), story 405654012 FB+IG PUBLISHED",
+  "news_search": "ok: Pakistan v England tri-series ODI innings (Lahore); new development vs 13:00 preview post",
+  "verification": "Arab News (AFP) 17:39 PKT + Dawn Sport updated 17:04 PKT agree: England 241 all out in 46.4 ov, Shaheen 4-46, Duckett 105 off 111",
+  "image": "ok, 1 Runway nano-banana-2-lite image, no text/logos/real people",
+  "publish": "feed, reel (audioType music, displayArtist KNOTTS) and story created, all PENDING"
+ },
+ "skipped_candidates": [],
+ "errors": []
+}
