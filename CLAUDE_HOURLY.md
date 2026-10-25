@@ -97,6 +97,9 @@ Card text (only sourced facts; never round numbers): head1 (2-4 words, max 30), 
 max 24), head2 (0-2 words, may be ""), kicker (3-5 words, max 40), desc (one sentence, max 12 words),
 source (outlet), date ("DD MON YYYY" = earliest source's PKT publication date).
 PHOTO — Runway connector, CHEAPEST model, ONE image per run (owner: spend as few credits as possible):
+  ORDER RULE (owner, 25 Oct 2026): generate the photo ONLY AFTER the story has fully passed section 2
+  (freshness incl. the first-report time of the event, two approved sources, all content rules) and the card
+  text is written. Never call mcp__Runway__generate_image while any check is still open or a skip is possible.
   mcp__Runway__generate_image(model "nano-banana-2-lite", ratio "4:3", promptText = one realistic scene of the
   story: place, objects, anonymous ordinary people, natural light, ending with "Absolutely no text, letters,
   numbers, signs, logos or watermarks anywhere in the image."). Then mcp__Runway__get_task until it has "url".
