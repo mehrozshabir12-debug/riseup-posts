@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-25-england-all-out-241-lahore",
+ "type": "news",
+ "headline": "Shaheen Shah Afridi took 4-46 as Pakistan bowled England out for 241 in 46.4 overs in the tri-series ODI in Lahore, despite Ben Duckett's 105 off 111 balls.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-keep-england-to-241-despite-duckett-ton-3005227",
+   "published_at": "2026-10-25T17:39:53+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039708/shaheen-takes-four-as-pakistan-restrict-england-to-241-despite-duckett-century-in-tri-series",
+   "published_at": "2026-10-25T17:04:40+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/cd55571b-cadc-4ee9-85b0-03d90e872b43/64c8b0e0-01be-4328-bae4-d455900d9204/Realistic_photo_of_a_packed_cricket_stadium_in_Lahore_on_a_s.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzBhYmQ0ZmQ0MTQ2YzA3YSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzA2MjY1M30.XjfI-QVN79PnN8v_8iMUwMS3EBiehAb045q8KU1QaBo",
+  "head1": "England Bowled Out",
+  "head2_hl": "For 241",
+  "head2": "",
+  "kicker": "Shaheen Afridi takes 4-46",
+  "desc": "Duckett hits 105; Pakistan need 242 to win in Lahore.",
+  "source": "Arab News, Dawn",
+  "date": "25 OCT 2026"
+ },
+ "caption": "Captain Shaheen Shah Afridi took 4-46 as Pakistan bowled England out for 241 in 46.4 overs in the tri-series ODI in Lahore, Arab News reports. Ben Duckett made 105 off 111 balls and added 93 with Sam Curran, while debutant Razaullah took 2-38, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvENG #PakistanCricket #ShaheenAfridi #PakistanNews",
+ "tiktok_title": "Shaheen takes 4-46 as Pakistan bowl England out for 241 in Lahore",
+ "publish": {
+  "slot": "2026-10-25T19:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "336015428971390",
+  "label": "Glow (Instrumental) - KNOTTS"
+ },
+ "ai_generated": true
+}
