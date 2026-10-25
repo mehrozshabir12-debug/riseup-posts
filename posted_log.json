@@ -3745,5 +3745,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "2026-10-25T13:00:00+05:00",
+  "request_id": "2026-10-25-pak-eng-lahore-odi",
+  "layout": "bold",
+  "headline": "Pakistan take on England in the fourth match of the ODI tri-series in Lahore today, needing one more win to secure a place in the final.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/688196-pakistan-win-toss-opt-to-bowl-first-against-england-in-fourth-odi-tri-series-match",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688196-pakistan-win-toss-opt-to-bowl-first-against-england-in-fourth-odi-tri-series-match",
+    "published_at": "2026-10-25T12:35:00+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-to-face-off-england-today-in-tri-series-odi-in-lahore-3005199",
+    "published_at": "2026-10-25T10:14:58+05:00"
+   }
+  ],
+  "published": "2026-10-25T12:35:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 806139385,
+  "image": "posts/2026-10-25-pak-eng-lahore-odi.jpg",
+  "story": "posts/2026-10-25-pak-eng-lahore-odi-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-25 13:00 PKT",
+  "music": "Upside Down - Mike Block",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-25-pak-eng-lahore-odi.mp4"
  }
 ]

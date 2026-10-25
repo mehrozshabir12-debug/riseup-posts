@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-25-pak-eng-lahore-odi",
+ "revision": 1,
+ "request": "requests/2026-10-25-pak-eng-lahore-odi.json",
+ "type": "news",
+ "headline": "Pakistan take on England in the fourth match of the ODI tri-series in Lahore today, needing one more win to secure a place in the final.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-25T13:00:00+05:00",
+ "target_slot": "2026-10-25T13:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pak-eng-lahore-odi.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pak-eng-lahore-odi-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pak-eng-lahore-odi.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-25-pak-eng-lahore-odi.jpg",
+  "story": "posts/2026-10-25-pak-eng-lahore-odi-story.jpg",
+  "reel": "posts/2026-10-25-pak-eng-lahore-odi.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 806139385,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T13:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan take on England in Lahore today in the fourth match of the ODI tri-series, needing one more win to secure a place in the final, Geo News reports. Pakistan have already beaten Sri Lanka and England in the series, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvENG #PakistanCricket #TriSeries #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pak-eng-lahore-odi.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan face England in Lahore, one win away from tri-series final",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T13:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan take on England in Lahore today in the fourth match of the ODI tri-series, needing one more win to secure a place in the final, Geo News reports. Pakistan have already beaten Sri Lanka and England in the series, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvENG #PakistanCricket #TriSeries #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pak-eng-lahore-odi.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pak-eng-lahore-odi-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "581639516835198",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T13:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pak-eng-lahore-odi-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-25T12:53:55+05:00"
+}
