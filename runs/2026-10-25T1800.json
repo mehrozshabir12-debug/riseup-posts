@@ -1,1 +1,77 @@
-{"slot": "2026-10-25T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T17:46:32+05:00"}
+{
+ "slot": "2026-10-25T18:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T17:46:32+05:00",
+ "run_finished_pkt": "2026-10-25T17:58:27+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Iran's Ambassador to Pakistan Reza Amiri Moghadam says Iran's border with Pakistan is open and there are no restrictions on its exports, including LPG, blaming changes to Pakistan's E-Form procedure for the trade disruption.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688233-iran-says-border-with-pakistan-open-lpg-exports-face-no-restrictions",
+    "published_at": "2026-10-25T17:26:00+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-reopens-iran-border-crossing-after-week-long-suspension-businessmen-customs-agent-3005226",
+    "published_at": "2026-10-25T17:34:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-25-iran-border-open-lpg-exports",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-iran-border-open-lpg-exports.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 405653908,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6980791088059730786",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 405653976,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1514791896206193542",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 405654012,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-835003697332402901",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 23 Oct 17:00 - 26 Oct 06:00 all read OK; slot 18:00 free; 3 news / 3 TikTok posts earlier this RiseUp day (13:00, 15:00, 16:00), now 4/4",
+  "previous_slot_check": "17:00 slot was skipped (no posts); 16:00 posts all PUBLISHED",
+  "news_search": "web search Dawn, Geo, Tribune, Arab News; picked Geo 17:26 PKT story on Iranian envoy's statement",
+  "verification": "Geo News 17:26 PKT + Arab News 17:34 PKT both report envoy Reza Amiri Moghadam: borders open, no restrictions on exports incl. LPG, E-Form changes blamed, consultations underway. New development vs 23 Oct LPG shortage post.",
+  "image": "Runway nano-banana-2-lite, 1 image (task a0027545-babb-4a0a-b688-bfbc5c4feed1), no text/logos/public figures",
+  "publish": "feed+reel at 18:03 and story at 18:08 (payload said 18:02/18:07, moved 1 min to keep the 5-min minimum lead time); reel audioType music, displayArtist Trout Recording"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan reopens Gabd-Rimdan crossing (Dawn 06:19 PKT)",
+   "reason": "older than 8h on its own; folded in as context only"
+  },
+  {
+   "headline": "Pakistan vs England tri-series ODI in Lahore",
+   "reason": "no result yet; preview already posted at 13:00"
+  }
+ ],
+ "errors": []
+}
