@@ -1,1 +1,84 @@
-{"slot": "2026-10-25T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T15:46:33+05:00"}
+{
+ "slot": "2026-10-25T16:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T15:46:33+05:00",
+ "run_finished_pkt": "2026-10-25T15:58:26+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif has launched the PM Youth Chromebook Scheme in Islamabad, under which 500,000 Chromebooks will be distributed to students across Pakistan over two years.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688214-pm-shehbaz-launches-scheme-to-distribute-500000-chromebooks-to-students",
+    "published_at": "2026-10-25T14:56:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039718/500000-chromebooks-to-be-distributed-among-students-across-country-over-2-years-announces-pm-shehbaz",
+    "published_at": "2026-10-25T15:04:16+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/pm-launches-chromebook-scheme-for-500000-students-stresses-youth-empowerment/",
+    "published_at": "2026-10-25T15:35:24+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-25-pm-chromebook-scheme-launch",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pm-chromebook-scheme-launch.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 405591152,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4825594074299649996",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 405591209,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=478346446918075827",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 405591221,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1431281928688547020",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Heros Journey (Instrumental) - Abby Posner",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 23 Oct 15:00 - 26 Oct 04:00 all read OK; slot 16:00 free; 2 news / 2 TikTok posts so far this RiseUp day before this one",
+  "previous_slot_check": "15:00 slot feed 405556540 facebook+tiktok PUBLISHED (https://facebook.com/122185478282855502/posts/122187603338855502, https://www.tiktok.com/@riseuppakistan2025/video/7700543919683030292), reel 405556588 PUBLISHED (https://www.instagram.com/reel/De6c0cbk9iq/), story 405556592 facebook+instagram PUBLISHED",
+  "news_search": "web search Dawn, Geo, APP, Tribune, Arab News",
+  "verification": "Geo News 14:56 PKT (main, earliest) + Dawn 15:04 PKT + APP 15:35 PKT agree: PM Shehbaz Sharif launched PM Youth Chromebook Scheme in Islamabad on 25 Oct; 500,000 Chromebooks to students over two years; APP: merit-based selection from schools and madaris, MiFi internet connectivity.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, checked: no text/logos/public figures, students seen from behind",
+  "publish": "first request 2026-10-25-pm-youth-chromebook-scheme rejected by validator (caption must name the source outlet 'Geo News, Dawn'); resubmitted as new id with card source 'Geo News, APP' -> awaiting_publish; card and zoom MP4 checked (8 s, 1080x1920); feed, reel (music verified audioType music, displayArtist Abby Posner) and story created at 16:03/16:08 (T was <5 min away); all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan vs England tri-series ODI in Lahore (in progress)",
+   "reason": "no result yet; toss/preview already posted at 13:00 (duplicate event)"
+  },
+  {
+   "headline": "Terrorist commander killed in Qila Saifullah IBO",
+   "reason": "violence/security operation; skipped per content rules"
+  }
+ ],
+ "errors": [
+  "request 2026-10-25-pm-youth-chromebook-scheme rejected: caption must name the source outlet 'Geo News, Dawn' (fixed by resubmission)"
+ ]
+}

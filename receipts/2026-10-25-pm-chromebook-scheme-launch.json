@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-25-pm-chromebook-scheme-launch",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 405591152,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 405591209,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 405591221,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
