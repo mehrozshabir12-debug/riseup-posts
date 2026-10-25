@@ -1,1 +1,44 @@
-{"slot": "2026-10-25T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T09:46:50+05:00"}
+{
+ "slot": "2026-10-25T10:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T09:46:50+05:00",
+ "run_finished_pkt": "2026-10-25T09:49:28+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; 6-hour windows 23 Oct 09:00 - 25 Oct 22:00 plus slot window 09:00-11:00 read OK; slot 10:00 free; RiseUp day 25 Oct: 0 feed posts, 0 with TikTok",
+  "previous_slot_check": "00:00 and 23:00 slots were skipped (no posts); last posts 22:03 feed 405127459 facebook+tiktok PUBLISHED, reel 405127804 instagram PUBLISHED, story 405127647 facebook+instagram PUBLISHED",
+  "news_search": "searched approved outlets for stories published 02:00-10:00 PKT; candidates found but none passed all rules in time for the slot",
+  "verification": "no candidate had a second approved source for the same fresh event",
+  "image": "not generated (no story)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Dar orders urgent action to rein in rising wheat prices (Dawn, 25 Oct 06:19 PKT)",
+   "reason": "newspaper write-up of the 24 Oct cabinet committee meeting first reported by APP at 2026-10-24T20:10+05:00 (~14h before slot): old news under the 8h rule"
+  },
+  {
+   "headline": "Pakistan's trade gap with Gulf partners narrows 26.35% to $2.85bn in 1QFY27 (Dawn, 25 Oct 06:19 PKT, SBP data)",
+   "reason": "no second approved outlet found; SBP data page not dated today"
+  },
+  {
+   "headline": "Nasirabad pylon blast cuts power to many areas of Sindh, Punjab (Dawn, 25 Oct 06:19 PKT, upd 09:30)",
+   "reason": "IED attack / security story; blast happened early Saturday (24 Oct), older than 8h"
+  },
+  {
+   "headline": "Rain and hail offer Lahore residents reprieve, AQI ranking slips to 13 (Express Tribune)",
+   "reason": "article could not be fetched (server error) so timestamp unverifiable; no second approved source found"
+  }
+ ],
+ "errors": [
+  "WebFetch https://tribune.com.pk/story/2636697/...: SERVER_ERROR There was an error while fetching.",
+  "WebSearch standard: PROXY_REJECTED HTTP 400 The request was invalid (on first query; later queries worked)"
+ ]
+}
