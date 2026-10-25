@@ -1,1 +1,86 @@
-{"slot": "2026-10-25T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T14:46:43+05:00"}
+{
+ "slot": "2026-10-25T15:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T14:46:43+05:00",
+ "run_finished_pkt": "2026-10-25T14:53:49+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Pakistan has asked Qatar to help speed up the signing of the Pakistan-GCC free trade agreement at a Joint Task Force meeting in Doha.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40445855/pakistan-seeks-early-signing-of-gcc-free-trade-agreement-in-talks-with-qatar",
+    "published_at": "2026-10-25T11:52:00+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/business/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation/",
+    "published_at": "2026-10-25T12:46:24+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-invites-qatari-investments-in-agriculture-ev-it-and-maritime-sectors-3005217",
+    "published_at": "2026-10-25T14:34:31+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-25-pakistan-qatar-gcc-fta",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pakistan-qatar-gcc-fta.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 405556540,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3693850356059948984",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 405556588,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5974425181998135378",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 405556592,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7096070050304705242",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures - Alex Blue",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 23 Oct 14:00 - 26 Oct 03:00 all read OK; slot 15:00 free; 1 news / 1 TikTok post so far this RiseUp day",
+  "previous_slot_check": "14:00 slot skipped (no posts); 13:00 slot feed 405503940 facebook+tiktok PUBLISHED, reel 405503988 instagram PUBLISHED, story 405503996 PUBLISHED",
+  "news_search": "web search Dawn, Geo, Business Recorder, APP, Arab News, Tribune",
+  "verification": "Business Recorder 11:52 PKT (main) + APP 12:46 PKT + Arab News 14:34 PKT agree: 2nd Pakistan-Qatar JTF in Doha (24 Oct), Jam Kamal Khan asked Qatar to back early Pakistan-GCC FTA signing, invited investment in agriculture, EVs, IT, shipping. Earliest report found 25 Oct 11:52 PKT.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, checked: no text/logos/public figures",
+  "publish": "feed, reel (music verified audioType music, displayArtist Alex Blue) and story created; all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Shaheen Afridi becomes fastest Pakistani pacer to 150 ODI wickets (Geo 13:58 PKT)",
+   "reason": "only one approved outlet confirmed the milestone; Geo article inconsistent on which wicket"
+  },
+  {
+   "headline": "Pakistan win toss, elect to field vs England; Razaullah debut (Dawn 12:59)",
+   "reason": "same match as 13:00 post (duplicate event), no substantive new development"
+  },
+  {
+   "headline": "Indian Punjab CM wants to visit Lahore Punjabi conference (Geo 12:40)",
+   "reason": "single approved source found"
+  }
+ ],
+ "errors": []
+}
