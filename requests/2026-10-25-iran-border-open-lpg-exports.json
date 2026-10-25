@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-25-iran-border-open-lpg-exports",
+ "type": "news",
+ "headline": "Iran's Ambassador to Pakistan Reza Amiri Moghadam says Iran's border with Pakistan is open and there are no restrictions on its exports, including LPG, blaming changes to Pakistan's E-Form procedure for the trade disruption.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/688233-iran-says-border-with-pakistan-open-lpg-exports-face-no-restrictions",
+   "published_at": "2026-10-25T17:26:00+05:00"
+  },
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-reopens-iran-border-crossing-after-week-long-suspension-businessmen-customs-agent-3005226",
+   "published_at": "2026-10-25T17:34:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/a0027545-babb-4a0a-b688-bfbc5c4feed1/481884d8-ebf7-4896-9c53-1f0772594491/Realistic_news_photograph_of_a_long_line_of_LPG_tanker_truck.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTA5NTkxZDRjYWMzOTU5OCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzEwMDUwMH0.NKujxTzDa_bW8Jl9cgTM2oqQZFl1fUy8qSva4J0o3F0",
+  "head1": "Iran Says Border",
+  "head2_hl": "Still Open",
+  "head2": "",
+  "kicker": "No Curbs On LPG Exports",
+  "desc": "Envoy blames Pakistan's E-Form changes for the trade disruption.",
+  "source": "Geo News, Arab News",
+  "date": "25 OCT 2026"
+ },
+ "caption": "Iran's Ambassador to Pakistan Reza Amiri Moghadam says Iran's borders with all its neighbours remain open and there are no restrictions on its exports to Pakistan, including LPG, Geo News reports. He blamed changes to Pakistan's E-Form import procedure for halting cargo and said consultations are underway, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LPG #Iran #Trade #PakistanNews",
+ "tiktok_title": "Iran says border with Pakistan open, no curbs on LPG exports",
+ "publish": {
+  "slot": "2026-10-25T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
