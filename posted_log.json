@@ -4097,10 +4097,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-25 22:00 PKT",
+  "scheduled": "2026-10-25T22:00:00+05:00",
   "music": "Chase It (Instrumental) - JQ, The Red Collective",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-25-shadab-century-pak-beat-eng.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 405803800,
+   "reel": 405803859,
+   "story": 405803872
+  },
+  "video": "posts/2026-10-25-shadab-century-pak-beat-eng.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
