@@ -4067,5 +4067,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "2026-10-25T22:00:00+05:00",
+  "request_id": "2026-10-25-shadab-century-pak-beat-eng",
+  "layout": "bold",
+  "headline": "Shadab Khan's unbeaten 113 off 96 balls led Pakistan to a one-wicket win over England in the ODI tri-series match in Lahore, booking Pakistan's place in the final.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/688241-unbelievable-shadab-khan-leaves-fans-in-awe-after-england-heroics",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688241-unbelievable-shadab-khan-leaves-fans-in-awe-after-england-heroics",
+    "published_at": "2026-10-25T21:27:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039708/shadab-khans-maiden-odi-century-steers-pakistan-into-tri-series-final-after-thrilling-chase-against-england",
+    "published_at": "2026-10-25T21:31:13+05:00"
+   }
+  ],
+  "published": "2026-10-25T21:27:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 170933637,
+  "image": "posts/2026-10-25-shadab-century-pak-beat-eng.jpg",
+  "story": "posts/2026-10-25-shadab-century-pak-beat-eng-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-25 22:00 PKT",
+  "music": "Chase It (Instrumental) - JQ, The Red Collective",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-25-shadab-century-pak-beat-eng.mp4"
  }
 ]
