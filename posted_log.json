@@ -4015,5 +4015,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "2026-10-25T20:00:00+05:00",
+  "request_id": "2026-10-25-naqvi-f9-park-no-trees-cut",
+  "layout": "bold",
+  "headline": "Interior Minister Mohsin Naqvi has guaranteed that no trees will be cut and no new concrete structures built during the upgrade of Islamabad's F-9 Park.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2039727/not-a-single-tree-will-be-cut-down-to-upgrade-islamabads-f-9-park-interior-minister-assures-residents",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039727/not-a-single-tree-will-be-cut-down-to-upgrade-islamabads-f-9-park-interior-minister-assures-residents",
+    "published_at": "2026-10-25T17:49:06+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636841/naqvi-assures-no-trees-will-be-cut-at-islamabads-f-9-park",
+    "published_at": "2026-10-25T16:15:27+05:00"
+   }
+  ],
+  "published": "2026-10-25T17:49:06+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 916440889,
+  "image": "posts/2026-10-25-naqvi-f9-park-no-trees-cut.jpg",
+  "story": "posts/2026-10-25-naqvi-f9-park-no-trees-cut-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-25 20:02 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-25-naqvi-f9-park-no-trees-cut.mp4"
  }
 ]
