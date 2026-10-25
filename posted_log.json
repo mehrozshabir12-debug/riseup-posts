@@ -3911,5 +3911,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "2026-10-25T18:00:00+05:00",
+  "request_id": "2026-10-25-iran-border-open-lpg-exports",
+  "layout": "bold",
+  "headline": "Iran's Ambassador to Pakistan Reza Amiri Moghadam says Iran's border with Pakistan is open and there are no restrictions on its exports, including LPG, blaming changes to Pakistan's E-Form procedure for the trade disruption.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/688233-iran-says-border-with-pakistan-open-lpg-exports-face-no-restrictions",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688233-iran-says-border-with-pakistan-open-lpg-exports-face-no-restrictions",
+    "published_at": "2026-10-25T17:26:00+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-reopens-iran-border-crossing-after-week-long-suspension-businessmen-customs-agent-3005226",
+    "published_at": "2026-10-25T17:34:00+05:00"
+   }
+  ],
+  "published": "2026-10-25T17:26:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 636482086,
+  "image": "posts/2026-10-25-iran-border-open-lpg-exports.jpg",
+  "story": "posts/2026-10-25-iran-border-open-lpg-exports-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-25 18:02 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-25-iran-border-open-lpg-exports.mp4"
  }
 ]
