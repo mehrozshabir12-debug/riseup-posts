@@ -1,1 +1,45 @@
-{"slot": "2026-10-25T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T20:46:33+05:00"}
+{
+ "slot": "2026-10-25T21:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T20:46:33+05:00",
+ "run_finished_pkt": "2026-10-25T20:53:06+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all 6h windows 23 Oct 18:00 - 26 Oct 09:00 succeeded; slot 21:00 free; RiseUp day counts: 6 feed, 6 TikTok",
+  "previous_slot_check": "20:00 feed 405726019 FB+TikTok PUBLISHED (https://facebook.com/122185478282855502/posts/122187634520855502), reel 405726081 IG PUBLISHED (https://www.instagram.com/reel/De6_e_5DzeC/, music Iced Latte audioType music), story 405726091 FB+IG PUBLISHED",
+  "news_search": "searched Dawn latest, Arab News, Geo, Tribune for 13:00-21:00 PKT; Pakistan v England result not yet published (chase still in progress)",
+  "verification": "no candidate passed",
+  "image": "not generated (order rule: no photo before a story passes)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Dar orders urgent action to rein in rising wheat prices (Dawn 2039608)",
+   "reason": "published 06:19 PKT, older than 8h before slot"
+  },
+  {
+   "headline": "TTP finance commander Adil Shah killed in Killa Saifullah (Arab News 20:27 PKT citing APP/security sources)",
+   "reason": "attributed to security sources only, single approved outlet found, security killing story; no second approved source before deadline"
+  },
+  {
+   "headline": "Pakistan v England tri-series ODI result",
+   "reason": "match not finished / no result report before the slot"
+  },
+  {
+   "headline": "NCCIA child abuse case (Geo)",
+   "reason": "story involves minors"
+  }
+ ],
+ "errors": [
+  "WebFetch dawn.com/latest-news and tribune.com.pk/latest: PROVENANCE_REQUIRED on first try",
+  "WebSearch: PROXY_REJECTED HTTP 400 on one query"
+ ]
+}
