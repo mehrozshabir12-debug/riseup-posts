@@ -1,1 +1,84 @@
-{"slot": "2026-10-25T13:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T12:47:11+05:00"}
+{
+ "slot": "2026-10-25T13:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T12:46:52+05:00",
+ "run_finished_pkt": "2026-10-25T12:55:18+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan take on England in the fourth match of the ODI tri-series in Lahore today, needing one more win to secure a place in the final.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688196-pakistan-win-toss-opt-to-bowl-first-against-england-in-fourth-odi-tri-series-match",
+    "published_at": "2026-10-25T12:35:00+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-to-face-off-england-today-in-tri-series-odi-in-lahore-3005199",
+    "published_at": "2026-10-25T10:14:58+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-25-pak-eng-lahore-odi",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pak-eng-lahore-odi.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 405503940,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1778284267933812735",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 405503988,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6301100857597671044",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 405503996,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2351663025074554361",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Upside Down - Mike Block",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 23 Oct 12:00 - 26 Oct 01:00 all read OK; no post at 13:00; 0 news / 0 TikTok posts so far this RiseUp day",
+  "previous_slot_check": "12:00 slot was skipped (no posts); nothing to verify",
+  "news_search": "Dawn latest, Geo latest, Tribune latest, Arab News, The News, APP, PCB; web search",
+  "verification": "main source Geo News 12:35 PKT (match today, Lahore, need one more win for final); confirmed by Arab News 10:14 PKT (4th tri-series match vs England in Lahore today, Pakistan beat Sri Lanka and England). Toss result (Geo only) left out of card and caption",
+  "image": "Runway nano-banana-2-lite, 1 image, checked: no text/logos/real people",
+  "publish": "feed, reel, story created; reel audio verified audioType music, displayArtist Mike Block (verified-list id used directly to save time; no trending search done)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan refutes Khalilzad allegations (Tribune)",
+   "reason": "published 24 Oct 14:14 PKT, older than 8h"
+  },
+  {
+   "headline": "Pakistan calls for equitable civil nuclear cooperation at UN (Tribune)",
+   "reason": "published 24 Oct 12:28 PKT, older than 8h"
+  },
+  {
+   "headline": "Islamabad rebuts Kabul's claims (Dawn/Geo)",
+   "reason": "event 24 Oct night, older than 8h"
+  }
+ ],
+ "errors": [
+  "WebFetch https://apnews.com/hub/cricket: SITE_BLOCKED",
+  "WebSearch with allowed_domains: PROXY_REJECTED HTTP 400"
+ ]
+}
