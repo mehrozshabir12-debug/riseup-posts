@@ -3797,5 +3797,45 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "2026-10-25T15:00:00+05:00",
+  "request_id": "2026-10-25-pakistan-qatar-gcc-fta",
+  "layout": "bold",
+  "headline": "Pakistan has asked Qatar to help speed up the signing of the Pakistan-GCC free trade agreement at a Joint Task Force meeting in Doha.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40445855/pakistan-seeks-early-signing-of-gcc-free-trade-agreement-in-talks-with-qatar",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40445855/pakistan-seeks-early-signing-of-gcc-free-trade-agreement-in-talks-with-qatar",
+    "published_at": "2026-10-25T11:52:00+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/business/pakistan-qatar-explore-new-avenues-for-trade-investment-cooperation/",
+    "published_at": "2026-10-25T12:46:24+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-invites-qatari-investments-in-agriculture-ev-it-and-maritime-sectors-3005217",
+    "published_at": "2026-10-25T14:34:31+05:00"
+   }
+  ],
+  "published": "2026-10-25T11:52:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 856154555,
+  "image": "posts/2026-10-25-pakistan-qatar-gcc-fta.jpg",
+  "story": "posts/2026-10-25-pakistan-qatar-gcc-fta-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-25 15:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-25-pakistan-qatar-gcc-fta.mp4"
  }
 ]
