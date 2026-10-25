@@ -1,1 +1,31 @@
-{"slot": "2026-10-26T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T23:46:13+05:00"}
+{
+ "slot": "2026-10-26T00:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T23:46:13+05:00",
+ "run_finished_pkt": "2026-10-25T23:47:52+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; windows 23 Oct 23:00 - 26 Oct 12:00 all succeeded; slot 00:00 free; RiseUp day 25 Oct counts: 7 feed, 7 TikTok",
+  "previous_slot_check": "23:00 slot was skipped (no posts). Last posted slot 22:00: feed 405803800 FB+TikTok PUBLISHED, reel 405803859 IG PUBLISHED (Chase It, music), story 405803872 FB+IG PUBLISHED",
+  "news_search": "web search + dawn.com/latest-news and /pakistan fetch (fetch returned a stale cached page ending 25 Oct 04:39 PKT); no new candidate since 23:00 run",
+  "verification": "no candidate published after 16:00 PKT 25 Oct had two approved outlets and passed content rules",
+  "image": "not generated (order rule: only after story passes)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {"headline": "Punjab CM removes Jhang DC over Pera vehicle in jeep rally (Dawn 25 Oct evening)", "reason": "still only one approved outlet (others: Minute Mirror, 24NewsHD, ThePenPK, Daily Qudrat - not approved)"},
+  {"headline": "PCB releases Sufiyan Moqim, adds Maaz Sadaqat to tri-series squad (Dawn 17:58 PKT)", "reason": "minor squad change; no second approved source found"},
+  {"headline": "Shadab-Rauf record stand / Pakistan into tri-series final", "reason": "duplicate of 22:00 post"},
+  {"headline": "Naqvi guarantees no trees cut at F-9 Park (Express Tribune)", "reason": "duplicate of 20:02 post"}
+ ],
+ "errors": [
+  "WebFetch https://www.dawn.com/latest-news returned stale content (newest item 25 Oct 04:39 PKT); not usable for freshness"
+ ]
+}
