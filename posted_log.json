@@ -3941,10 +3941,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-25 18:02 PKT",
+  "scheduled": "2026-10-25T18:03:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-25-iran-border-open-lpg-exports.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 405653908,
+   "reel": 405653976,
+   "story": 405654012
+  },
+  "video": "posts/2026-10-25-iran-border-open-lpg-exports.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
