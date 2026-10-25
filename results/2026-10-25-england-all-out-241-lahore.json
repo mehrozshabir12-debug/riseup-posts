@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-25-england-all-out-241-lahore",
+ "revision": 1,
+ "request": "requests/2026-10-25-england-all-out-241-lahore.json",
+ "type": "news",
+ "headline": "Shaheen Shah Afridi took 4-46 as Pakistan bowled England out for 241 in 46.4 overs in the tri-series ODI in Lahore, despite Ben Duckett's 105 off 111 balls.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-25T19:00:00+05:00",
+ "target_slot": "2026-10-25T19:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-england-all-out-241-lahore.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-england-all-out-241-lahore-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-england-all-out-241-lahore.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-25-england-all-out-241-lahore.jpg",
+  "story": "posts/2026-10-25-england-all-out-241-lahore-story.jpg",
+  "reel": "posts/2026-10-25-england-all-out-241-lahore.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 854321885,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Captain Shaheen Shah Afridi took 4-46 as Pakistan bowled England out for 241 in 46.4 overs in the tri-series ODI in Lahore, Arab News reports. Ben Duckett made 105 off 111 balls and added 93 with Sam Curran, while debutant Razaullah took 2-38, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvENG #PakistanCricket #ShaheenAfridi #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-england-all-out-241-lahore.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Shaheen takes 4-46 as Pakistan bowl England out for 241 in Lahore",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Captain Shaheen Shah Afridi took 4-46 as Pakistan bowled England out for 241 in 46.4 overs in the tri-series ODI in Lahore, Arab News reports. Ben Duckett made 105 off 111 balls and added 93 with Sam Curran, while debutant Razaullah took 2-38, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvENG #PakistanCricket #ShaheenAfridi #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-england-all-out-241-lahore.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-england-all-out-241-lahore-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "336015428971390",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-england-all-out-241-lahore-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-25T18:50:31+05:00"
+}

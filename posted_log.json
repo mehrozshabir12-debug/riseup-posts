@@ -3963,5 +3963,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "2026-10-25T19:00:00+05:00",
+  "request_id": "2026-10-25-england-all-out-241-lahore",
+  "layout": "bold",
+  "headline": "Shaheen Shah Afridi took 4-46 as Pakistan bowled England out for 241 in 46.4 overs in the tri-series ODI in Lahore, despite Ben Duckett's 105 off 111 balls.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-keep-england-to-241-despite-duckett-ton-3005227",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-keep-england-to-241-despite-duckett-ton-3005227",
+    "published_at": "2026-10-25T17:39:53+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039708/shaheen-takes-four-as-pakistan-restrict-england-to-241-despite-duckett-century-in-tri-series",
+    "published_at": "2026-10-25T17:04:40+05:00"
+   }
+  ],
+  "published": "2026-10-25T17:39:53+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 854321885,
+  "image": "posts/2026-10-25-england-all-out-241-lahore.jpg",
+  "story": "posts/2026-10-25-england-all-out-241-lahore-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-25 19:00 PKT",
+  "music": "Glow (Instrumental) - KNOTTS",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-25-england-all-out-241-lahore.mp4"
  }
 ]
