@@ -3889,10 +3889,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-25 16:03 PKT",
+  "scheduled": true,
   "music": "Heros Journey (Instrumental) - Abby Posner",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-25-pm-chromebook-scheme-launch.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 405591152,
+   "reel": 405591209,
+   "story": 405591221
+  },
+  "video": "posts/2026-10-25-pm-chromebook-scheme-launch.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
