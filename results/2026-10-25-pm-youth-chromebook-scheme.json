@@ -1,0 +1,12 @@
+{
+ "id": "2026-10-25-pm-youth-chromebook-scheme",
+ "revision": 1,
+ "request": "requests/2026-10-25-pm-youth-chromebook-scheme.json",
+ "status": "rejected",
+ "errors": [
+  "caption must name the source outlet 'Geo News, Dawn'"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-10-25T15:55:50+05:00"
+}
