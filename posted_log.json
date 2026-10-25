@@ -4045,10 +4045,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-25 20:02 PKT",
+  "scheduled": "2026-10-25T20:02:00+05:00",
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-25-naqvi-f9-park-no-trees-cut.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 405726019,
+   "reel": 405726081,
+   "story": 405726091
+  },
+  "video": "posts/2026-10-25-naqvi-f9-park-no-trees-cut.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
