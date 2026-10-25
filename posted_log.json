@@ -3775,10 +3775,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-25 13:00 PKT",
+  "scheduled": "2026-10-25T13:00:00+05:00",
   "music": "Upside Down - Mike Block",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-25-pak-eng-lahore-odi.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 405503940,
+   "reel": 405503988,
+   "story": 405503996
+  },
+  "video": "posts/2026-10-25-pak-eng-lahore-odi.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
