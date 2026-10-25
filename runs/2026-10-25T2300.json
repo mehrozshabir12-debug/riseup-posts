@@ -1,1 +1,52 @@
-{"slot": "2026-10-25T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T22:46:54+05:00"}
+{
+ "slot": "2026-10-25T23:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T22:46:54+05:00",
+ "run_finished_pkt": "2026-10-25T22:53:27+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; 6h windows 23 Oct 22:00 - 26 Oct 11:00 all succeeded; slot 23:00 free; RiseUp day counts: 7 feed, 7 TikTok",
+  "previous_slot_check": "22:00 feed 405803800 FB+TikTok PUBLISHED (https://facebook.com/122185478282855502/posts/122187644894855502, https://www.tiktok.com/@riseuppakistan2025/video/7700652730020416776), reel 405803859 IG PUBLISHED https://www.instagram.com/reel/De7NCp9kqTV/ (Chase It, music), story 405803872 FB+IG PUBLISHED",
+  "news_search": "web search; Dawn/Geo latest pages not fetchable (permission request withdrawn); candidates reviewed below",
+  "verification": "no candidate within 8h had two approved outlets / passed content rules",
+  "image": "not generated (order rule: only after story passes)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Punjab CM Maryam Nawaz removes Jhang DC over Pera vehicle in jeep rally (Dawn 19:42 PKT)",
+   "reason": "only one approved outlet found (others: Minute Mirror, 24NewsHD, not approved)"
+  },
+  {
+   "headline": "PCB releases Sufiyan Moqim, adds Maaz Sadaqat to tri-series squad (Dawn 17:58 PKT)",
+   "reason": "minor squad change; no second approved source found in time"
+  },
+  {
+   "headline": "Shadab-Rauf world record 10th-wicket stand (Geo)",
+   "reason": "same event as 22:00 post (duplicate)"
+  },
+  {
+   "headline": "6 terrorists killed, 2 soldiers martyred in DI Khan IBO (ISPR via Dawn)",
+   "reason": "violence/casualty story, skipped per content rules"
+  },
+  {
+   "headline": "7 killed as jeep plunges down slope near Muzaffarabad (Dawn)",
+   "reason": "casualty/accident story; no second approved source confirmed in time"
+  },
+  {
+   "headline": "Dar orders action on wheat prices (Dawn)",
+   "reason": "published 06:19 PKT, older than 8 hours"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.dawn.com/latest-news and https://www.geo.tv/latest-news: PROVENANCE_REQUIRED - permission request not answered in time",
+  "WebSearch with allowed_domains: PROXY_REJECTED HTTP 400"
+ ]
+}
