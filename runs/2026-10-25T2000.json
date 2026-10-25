@@ -1,1 +1,81 @@
-{"slot": "2026-10-25T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T19:47:01+05:00"}
+{
+ "slot": "2026-10-25T20:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T19:47:01+05:00",
+ "run_finished_pkt": "2026-10-25T19:57:39+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "3h",
+ "story": {
+  "headline": "Interior Minister Mohsin Naqvi has guaranteed that no trees will be cut and no new concrete structures built during the upgrade of Islamabad's F-9 Park.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039727/not-a-single-tree-will-be-cut-down-to-upgrade-islamabads-f-9-park-interior-minister-assures-residents",
+    "published_at": "2026-10-25T17:49:06+05:00"
+   },
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2636841/naqvi-assures-no-trees-will-be-cut-at-islamabads-f-9-park",
+    "published_at": "2026-10-25T16:15:27+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-25-naqvi-f9-park-no-trees-cut",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-naqvi-f9-park-no-trees-cut.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 405726019,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-357879315099070945",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 405726081,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6624048537204536736",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 405726091,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6697439068490973995",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all 6h windows 23 Oct 19:00 - 26 Oct 08:00 succeeded; slot 20:00 free; RiseUp day counts before this post: 5 feed, 5 TikTok",
+  "previous_slot_check": "19:00 feed 405684778 FB+TikTok PUBLISHED, reel 405684820 IG PUBLISHED (https://www.instagram.com/reel/De64XDBj5uh/), story 405684831 FB+IG PUBLISHED",
+  "news_search": "Dawn 17:49 PKT main source (3h window); Express Tribune first report 16:15 PKT",
+  "verification": "Dawn + Express Tribune agree: Naqvi X post, no trees cut, no new concrete, F-9 (Fatima Jinnah) Park, upgrades lighting/lake/coffee shops/walkways/thousands of trees",
+  "image": "Runway nano-banana-2-lite 1 image, checked: no text, no public figures",
+  "publish": "published at 20:02 (render finished 19:56, NOW+5 rule); card and 8s MP4 checked; reel audio audioType music, displayArtist Global Genius"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan reopens Iran border crossings (Arab News 17:34)",
+   "reason": "reopening happened Saturday and overlaps 18:00 Iran-border post; businessmen-sourced, no second approved outlet"
+  },
+  {
+   "headline": "Measles outbreak kills five children in Dir (Express Tribune)",
+   "reason": "story about minors' deaths; single outlet; published earlier"
+  },
+  {
+   "headline": "Pakistan vs England tri-series result",
+   "reason": "match still in progress at run time"
+  }
+ ],
+ "errors": []
+}
