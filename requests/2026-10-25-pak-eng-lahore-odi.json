@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-25-pak-eng-lahore-odi",
+ "type": "news",
+ "headline": "Pakistan take on England in the fourth match of the ODI tri-series in Lahore today, needing one more win to secure a place in the final.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/688196-pakistan-win-toss-opt-to-bowl-first-against-england-in-fourth-odi-tri-series-match",
+   "published_at": "2026-10-25T12:35:00+05:00"
+  },
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-to-face-off-england-today-in-tri-series-odi-in-lahore-3005199",
+   "published_at": "2026-10-25T10:14:58+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/966ad550-9192-4507-97cf-00d4489f01bf/ccd53c9e-c934-41eb-a427-fdbf28bd37d6/Realistic_photograph_of_a_packed_cricket_stadium_in_Lahore_d.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDIxMmRiNGEzNTBmN2Q4YyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzA4MTU0Nn0.spULF6ltCXhCTKvfzEWbKKoUJ1xy6mXGPY4D-Sz3Fvs",
+  "head1": "Pakistan vs England",
+  "head2_hl": "Lahore ODI",
+  "head2": "",
+  "kicker": "One win from the final",
+  "desc": "Unbeaten Pakistan face England in fourth tri-series match today.",
+  "source": "Geo News, Arab News",
+  "date": "25 OCT 2026"
+ },
+ "caption": "Pakistan take on England in Lahore today in the fourth match of the ODI tri-series, needing one more win to secure a place in the final, Geo News reports. Pakistan have already beaten Sri Lanka and England in the series, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvENG #PakistanCricket #TriSeries #PakistanNews",
+ "tiktok_title": "Pakistan face England in Lahore, one win away from tri-series final",
+ "publish": {
+  "slot": "2026-10-25T13:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "581639516835198",
+  "label": "Upside Down - Mike Block"
+ },
+ "ai_generated": true
+}
