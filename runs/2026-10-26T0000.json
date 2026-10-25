@@ -2,7 +2,7 @@
  "slot": "2026-10-26T00:00:00+05:00",
  "riseup_day": "2026-10-25",
  "run_started_pkt": "2026-10-25T23:46:13+05:00",
- "run_finished_pkt": "2026-10-25T23:48:41+05:00",
+ "run_finished_pkt": "2026-10-25T23:54:09+05:00",
  "test_mode": false,
  "outcome": "skipped_no_fresh_verified_news",
  "story": null,
@@ -39,9 +39,14 @@
   {
    "headline": "ECP proposes 12 code-of-conduct amendments to curb AI misuse in elections (Express Tribune/APP 19:46 PKT 25 Oct)",
    "reason": "first reported 24 Oct (Dawn 2039360, Dawn ePaper 24 Oct) - older than 8 hours; Tribune item is an APP reprint"
+  },
+  {
+   "headline": "Pakistan second at BIMDTC-2026 military drone competition in Ankara (Arab News 23:35 PKT 25 Oct)",
+   "reason": "only one approved outlet (others Daily Times, Frontier Post, Minute Mirror - not approved); Minute Mirror reported it earlier, so first-report time likely outside window"
   }
  ],
  "errors": [
-  "WebFetch https://www.dawn.com/latest-news returned stale content (newest item 25 Oct 04:39 PKT); not usable for freshness"
+  "WebFetch https://www.dawn.com/latest-news returned stale content (newest item 25 Oct 04:39 PKT); not usable for freshness",
+  "WebFetch https://www.arabnews.pk/: PROVENANCE_REQUIRED - permission request not answered in time and was withdrawn"
  ]
 }
