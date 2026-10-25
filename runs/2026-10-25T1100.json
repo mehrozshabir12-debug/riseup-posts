@@ -1,1 +1,19 @@
-{"slot": "2026-10-25T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T10:46:27+05:00"}
+{"slot": "2026-10-25T11:00:00+05:00", "riseup_day": "2026-10-25", "run_started_pkt": "2026-10-25T10:46:27+05:00", "run_finished_pkt": "2026-10-25T10:54:01+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null, "request_id": null, "card_url": null,
+ "image_attempts": [{"attempt": 1, "result": "ok (Runway task 73aa941b-28cc-4022-bb11-a8dd607429f5, Diamer-Bhasha dam scene; generated before final freshness check, not used)"}],
+ "metricool": null,
+ "music": "none",
+ "stages": {"metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all windows 23 Oct 10:00 - 25 Oct 23:00 read OK; no post at 11:00; 0 news posts and 0 TikTok posts so far this RiseUp day",
+            "previous_slot_check": "10:00 slot was skipped (no posts); nothing to verify",
+            "news_search": "geo.tv Pakistan/home pages showed nothing dated 25 Oct; Dawn newspaper items 25 Oct checked",
+            "verification": "best candidate failed freshness: event first reported by APP 24 Oct 15:19 PKT (~20h before T); no same-day confirming outlet",
+            "image": "generated 1 image (4 credits), not used",
+            "publish": "not attempted"},
+ "skipped_candidates": [
+   {"headline": "Wapda signs Rs133.18bn HM-1 contract with Power China-IKAN JV for Diamer-Bhasha Dam", "reason": "Dawn print story 25 Oct 06:19 PKT, but signing was Saturday and APP first reported it 24 Oct 15:19 PKT (>8h before T); only confirming source is older than main source; card date would be 24 OCT = old news"},
+   {"headline": "Dar orders urgent action to rein in rising wheat prices (Dawn 25 Oct 06:19 PKT)", "reason": "meeting held Saturday 24 Oct; no second approved outlet found in time; overlaps wheat story posted 24 Oct 11:13"},
+   {"headline": "Nasirabad pylon blast cuts power to areas of Sindh, Punjab (Dawn 25 Oct)", "reason": "violence-related (blast) and not cross-verified in time"}
+ ],
+ "errors": ["WebFetch dawn.com/latest-news and tribune.com.pk/latest: PROVENANCE_REQUIRED (permission request not answered in time)", "WebSearch with allowed_domains (extended mode): PROXY_REJECTED HTTP 400"]}
