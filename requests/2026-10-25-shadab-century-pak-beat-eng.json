@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-25-shadab-century-pak-beat-eng",
+ "type": "news",
+ "headline": "Shadab Khan's unbeaten 113 off 96 balls led Pakistan to a one-wicket win over England in the ODI tri-series match in Lahore, booking Pakistan's place in the final.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/688241-unbelievable-shadab-khan-leaves-fans-in-awe-after-england-heroics",
+   "published_at": "2026-10-25T21:27:00+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2039708/shadab-khans-maiden-odi-century-steers-pakistan-into-tri-series-final-after-thrilling-chase-against-england",
+   "published_at": "2026-10-25T21:31:13+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/5dfede9d-0b9d-4b99-8d27-efd6a03c23f5/6ee61598-8707-4c8a-9efe-34b8b30133b4/Realistic_night_photo_of_a_packed_cricket_stadium_in_Lahore_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMmE1MTkwOThkNzQ3ZjJiYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzA5ODkwNH0.e6BrAbXHvwdJUOFeCKrGkw6qNjoTNzZbyL19wkncyE4",
+  "head1": "Pakistan Stun",
+  "head2_hl": "England",
+  "head2": "",
+  "kicker": "Shadab's maiden ODI century",
+  "desc": "Shadab's unbeaten 113 off 96 balls seals tri-series final spot.",
+  "source": "Geo News, Dawn",
+  "date": "25 OCT 2026"
+ },
+ "caption": "Shadab Khan hit an unbeaten 113 off 96 balls, his maiden ODI century, as Pakistan beat England by one wicket in Lahore to reach the tri-series final, Geo News reports. Pakistan were 154-9 chasing 242 before Shadab and Haris Rauf added an unbeaten 89 for the last wicket, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvENG #ShadabKhan #PakistanCricket #PakistanNews",
+ "tiktok_title": "Shadab's maiden ODI ton takes Pakistan past England into tri-series final",
+ "publish": {
+  "slot": "2026-10-25T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2991194837697937",
+  "label": "Chase It (Instrumental) - JQ, The Red Collective"
+ },
+ "ai_generated": true
+}
