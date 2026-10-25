@@ -3993,10 +3993,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-25 19:00 PKT",
+  "scheduled": "2026-10-25T19:00:00+05:00",
   "music": "Glow (Instrumental) - KNOTTS",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-25-england-all-out-241-lahore.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 405684778,
+   "reel": 405684820,
+   "story": 405684831
+  },
+  "video": "posts/2026-10-25-england-all-out-241-lahore.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
