@@ -3832,10 +3832,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-25 15:00 PKT",
+  "scheduled": "2026-10-25T15:00:00+05:00",
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-25-pakistan-qatar-gcc-fta.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 405556540,
+   "reel": 405556588,
+   "story": 405556592
+  },
+  "video": "posts/2026-10-25-pakistan-qatar-gcc-fta.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
