@@ -1,1 +1,52 @@
-{"slot": "2026-10-25T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T13:46:31+05:00"}
+{
+ "slot": "2026-10-25T14:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T13:46:31+05:00",
+ "run_finished_pkt": "2026-10-25T13:55:43+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 23 Oct 13:00 - 26 Oct 02:00 all read OK (first two calls returned 'Request cancelled', retry succeeded); no post at 14:00; 1 news / 1 TikTok post so far this RiseUp day",
+  "previous_slot_check": "13:00 slot: feed 405503940 facebook PUBLISHED https://facebook.com/122185478282855502/posts/122187594020855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7700512808512834836; reel 405503988 instagram PUBLISHED https://www.instagram.com/reel/De6O-wYD0Ne/ (music Upside Down - Mike Block); story 405503996 facebook+instagram PUBLISHED",
+  "news_search": "web search Dawn, Geo, Tribune, Arab News, Business Recorder, APP/Nation, The News; Dawn latest and Geo/Arab News home pages returned stale cached copies",
+  "verification": "no candidate within 8h had two approved sources or an official primary source and passed content rules",
+  "image": "not generated (story did not pass section 2)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Saudi investors to finance first-of-its-kind theme park in Islamabad (Arab News 13:07 PKT)",
+   "reason": "only one approved outlet (Arab News); second report from 24NewsHD, not approved; no Dawn/Geo/APP/gov.pk confirmation found before deadline"
+  },
+  {
+   "headline": "Militant commander Adil Shah killed in Qila Saifullah IBO (Geo 12:04, Dawn 13:36 PKT)",
+   "reason": "all facts attributed to unnamed security sources ('sources say'); security/violence story"
+  },
+  {
+   "headline": "SUPARCO to host UN-Pakistan space technology conference from 27 Oct (Arab News 12:19 PKT)",
+   "reason": "first reported 22 Oct (Express Tribune, Pakistan Today) - old news"
+  },
+  {
+   "headline": "Dar orders crackdown on hoarders to curb food prices (Arab News 10:02 PKT)",
+   "reason": "meeting and first reports on 24 Oct (Tribune, 24NewsHD) - older than 8h"
+  },
+  {
+   "headline": "WAPDA signs Rs133.18bn Diamer-Basha HM-1 contract (Business Recorder 02:25 PKT)",
+   "reason": "published 02:25 PKT, older than 8h; single source"
+  },
+  {
+   "headline": "Measles outbreak kills five children in Dir; first infant mpox death in Karachi",
+   "reason": "stories about minors; print editions older than 8h"
+  }
+ ],
+ "errors": [
+  "Metricool getBrandSettings/getScheduledPosts first attempt: I/O error ... Request cancelled (retry OK)",
+  "WebFetch https://www.dawn.com/latest-news and https://www.geo.tv/latest-news: PROVENANCE_REQUIRED (permission request not answered); later Dawn/Geo/Arab News fetches returned stale cached pages"
+ ]
+}
