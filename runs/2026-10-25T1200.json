@@ -1,1 +1,43 @@
-{"slot": "2026-10-25T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T11:47:02+05:00"}
+{
+ "slot": "2026-10-25T12:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T11:47:02+05:00",
+ "run_finished_pkt": "2026-10-25T11:50:48+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 23 Oct 11:00 - 26 Oct 00:00 all read OK; no post at 12:00; 0 news posts and 0 TikTok posts so far this RiseUp day",
+  "previous_slot_check": "11:00 slot was skipped (no posts); nothing to verify",
+  "news_search": "Dawn latest-news (only sports/foreign items dated 25 Oct), Tribune home page (print-edition stories 25 Oct), Geo Pakistan category (newest items dated 24 Oct)",
+  "verification": "no candidate within 8h had a second approved outlet or an official source; event-time candidates were older or duplicates",
+  "image": "not generated (order rule: photo only after verification)",
+  "publish": "not attempted"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Govt rejects $490m ITFC loan over 8% cost (Express Tribune, published 25 Oct 09:26 PKT)",
+   "reason": "single-outlet exclusive; no second approved outlet or official source found"
+  },
+  {
+   "headline": "FinMin seeks to allay fuel shortage fears (Express Tribune, published 25 Oct 04:45 PKT)",
+   "reason": "Aurangzeb spoke Saturday 24 Oct at Lahore university, same event as remittances post at 24 Oct 22:03 (duplicate); Senate fuel debate already covered by Dawn 24 Oct"
+  },
+  {
+   "headline": "Umrah vaccination suspended amid procurement irregularities (Express Tribune 25 Oct)",
+   "reason": "no confirming approved outlet found for today's development"
+  },
+  {
+   "headline": "Measles outbreak kills five children in Dir valleys (Express Tribune 25 Oct)",
+   "reason": "deaths of minors; not cross-verified"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.dawn.com/newspaper/islamabad/2026-10-24: robots_disallowed"
+ ]
+}
