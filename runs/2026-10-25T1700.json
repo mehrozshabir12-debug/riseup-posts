@@ -1,1 +1,46 @@
-{"slot": "2026-10-25T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-25T16:47:17+05:00"}
+{
+ "slot": "2026-10-25T17:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "run_started_pkt": "2026-10-25T16:47:17+05:00",
+ "run_finished_pkt": "2026-10-25T16:55:51+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 23 Oct 16:00 - 26 Oct 05:00 all read OK; slot 17:00 free; 3 news / 3 TikTok posts so far this RiseUp day (13:00, 15:00, 16:00)",
+  "previous_slot_check": "16:00 slot feed 405591152 facebook+tiktok PUBLISHED (https://facebook.com/122185478282855502/posts/122187608900855502, https://www.tiktok.com/@riseuppakistan2025/video/7700559567062617365), reel 405591209 PUBLISHED (https://www.instagram.com/reel/De6jsXAGg75/), story 405591221 facebook+instagram PUBLISHED",
+  "news_search": "web search Dawn, Geo, Business Recorder, Arab News, Tribune, The News; nothing found published within 2h/3h of T; 4h-window candidates had only one approved source",
+  "verification": "failed for all candidates (see skipped_candidates)",
+  "image": "not generated (no verified story; order rule)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Shaheen Afridi becomes fastest Pakistani pacer to 150 ODI wickets (Geo News 13:58 PKT)",
+   "reason": "only one approved outlet; confirming copy is on thenews.pk (not the approved thenews.com.pk domain) and is the same Jang-group text; also same match as 13:00 preview"
+  },
+  {
+   "headline": "Saudi investors to finance theme park in Islamabad (Arab News 13:07 PKT)",
+   "reason": "only one approved outlet (other reports: 24newshd, Pakistan Times - not approved)"
+  },
+  {
+   "headline": "Dar orders crackdown on food hoarders (Arab News 10:02 PKT)",
+   "reason": "order given Saturday 24 Oct - event older than 8h; single approved source"
+  },
+  {
+   "headline": "WAPDA signs Rs133.18bn Diamer-Basha HM-1 contract (Business Recorder 02:25 PKT)",
+   "reason": "older than 8 hours"
+  },
+  {
+   "headline": "Pakistan vs England tri-series ODI in Lahore",
+   "reason": "match still in progress, no result; preview already posted at 13:00"
+  }
+ ],
+ "errors": []
+}
