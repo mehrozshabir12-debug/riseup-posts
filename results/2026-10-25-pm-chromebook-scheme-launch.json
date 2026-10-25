@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-25-pm-chromebook-scheme-launch",
+ "revision": 1,
+ "request": "requests/2026-10-25-pm-chromebook-scheme-launch.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif has launched the PM Youth Chromebook Scheme in Islamabad, under which 500,000 Chromebooks will be distributed to students across Pakistan over two years.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-25T16:03:00+05:00",
+ "target_slot": "2026-10-25T16:00:00+05:00",
+ "riseup_day": "2026-10-25",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pm-chromebook-scheme-launch.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pm-chromebook-scheme-launch-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pm-chromebook-scheme-launch.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-25-pm-chromebook-scheme-launch.jpg",
+  "story": "posts/2026-10-25-pm-chromebook-scheme-launch-story.jpg",
+  "reel": "posts/2026-10-25-pm-chromebook-scheme-launch.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 264687699,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T16:03:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif has launched the PM Youth Chromebook Scheme in Islamabad, under which 500,000 Chromebooks will be distributed to students across the country over two years, Geo News reports. Students will be selected on merit from schools and madaris, and the devices come with internet connectivity, APP adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Chromebook #Education #Youth #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pm-chromebook-scheme-launch.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PM launches scheme to give 500,000 Chromebooks to students",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T16:03:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif has launched the PM Youth Chromebook Scheme in Islamabad, under which 500,000 Chromebooks will be distributed to students across the country over two years, Geo News reports. Students will be selected on merit from schools and madaris, and the devices come with internet connectivity, APP adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Chromebook #Education #Youth #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pm-chromebook-scheme-launch.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pm-chromebook-scheme-launch-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1274149560124013",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-25T16:08:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-25-pm-chromebook-scheme-launch-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-25T15:57:14+05:00"
+}

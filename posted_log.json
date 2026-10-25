@@ -3854,5 +3854,45 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "2026-10-25T16:00:00+05:00",
+  "request_id": "2026-10-25-pm-chromebook-scheme-launch",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif has launched the PM Youth Chromebook Scheme in Islamabad, under which 500,000 Chromebooks will be distributed to students across Pakistan over two years.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/688214-pm-shehbaz-launches-scheme-to-distribute-500000-chromebooks-to-students",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688214-pm-shehbaz-launches-scheme-to-distribute-500000-chromebooks-to-students",
+    "published_at": "2026-10-25T14:56:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2039718/500000-chromebooks-to-be-distributed-among-students-across-country-over-2-years-announces-pm-shehbaz",
+    "published_at": "2026-10-25T15:04:16+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/pm-launches-chromebook-scheme-for-500000-students-stresses-youth-empowerment/",
+    "published_at": "2026-10-25T15:35:24+05:00"
+   }
+  ],
+  "published": "2026-10-25T14:56:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 264687699,
+  "image": "posts/2026-10-25-pm-chromebook-scheme-launch.jpg",
+  "story": "posts/2026-10-25-pm-chromebook-scheme-launch-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-25 16:03 PKT",
+  "music": "Heros Journey (Instrumental) - Abby Posner",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-25-pm-chromebook-scheme-launch.mp4"
  }
 ]
