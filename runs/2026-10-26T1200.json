@@ -1,5 +1,48 @@
 {
  "slot": "2026-10-26T12:00:00+05:00",
- "outcome": "started",
- "run_started_pkt": "2026-10-26T11:49:12+05:00"
+ "riseup_day": "2026-10-26",
+ "run_started_pkt": "2026-10-26T11:49:12+05:00",
+ "run_finished_pkt": "2026-10-26T12:07:52+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; slot window 26 Oct 11:00-13:00 empty (slot free); 6h windows 24 Oct 11:00 - 27 Oct 00:00 all succeeded; RiseUp day 2026-10-26 counts: 0 feed, 0 TikTok",
+  "previous_slot_check": "11:00 and 10:00 slots were skipped (no posts); 25 Oct 22:00 feed 405803800, reel 405803859, story 405803872 all PUBLISHED",
+  "news_search": "web search + Dawn latest-news, Geo Pakistan/home, Tribune Pakistan, Arab News, Business Recorder search; most listing fetches stale or blocked (PROVENANCE_REQUIRED)",
+  "verification": "freshest story (Dawn 11:38 PKT, Saim Ayub released) had no second approved outlet or reachable PCB release before slot deadline",
+  "image": "not generated (order rule: only after story passes)",
+  "publish": "none; by 12:07 PKT the slot (latest T+15) could no longer be rendered and scheduled in time"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PCB releases Saim Ayub from ODI tri-series squad to work on form; Sahibzada Farhan named replacement (Dawn 11:38 PKT)",
+   "reason": "only one approved outlet (Dawn); PCB press release not indexed and pcb.com.pk fetch blocked (PROVENANCE_REQUIRED); Geo/Tribune/APP not yet found; candidate for 13:00 slot once confirmed"
+  },
+  {
+   "headline": "Commerce Minister Jam Kamal Khan attends World Investment Forum in Doha (Arab News 11:37 PKT)",
+   "reason": "single approved outlet; same Doha trade trip as 25 Oct 15:00 post (near-duplicate), minor"
+  },
+  {
+   "headline": "Lahore Ring Road Authority raises traffic fines (Express Tribune 07:38 PKT)",
+   "reason": "single approved outlet; feature/print story, no confirming outlet found"
+  },
+  {
+   "headline": "Pakistan reopens Gabd-Rimdan Iran border crossing (Arab News 25 Oct 17:34 PKT)",
+   "reason": "older than 8 h; related to 25 Oct 18:00 Iran LPG post"
+  },
+  {
+   "headline": "SBP monetary policy decision",
+   "reason": "not yet announced at run time"
+  }
+ ],
+ "errors": [
+  "WebFetch brecorder.com/latest-news, app.com.pk, arabnews.pk, thenews.com.pk/latest-stories, pcb.com.pk/press-releases.html: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "WebFetch tribune.com.pk/story/2636955: SERVER_ERROR"
+ ]
 }
