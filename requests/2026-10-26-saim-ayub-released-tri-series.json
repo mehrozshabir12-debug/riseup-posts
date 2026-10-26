@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-26-saim-ayub-released-tri-series",
+ "type": "news",
+ "headline": "The PCB has released opener Saim Ayub from Pakistan's squad for the rest of the ODI tri-series so he can return to domestic cricket to work on his batting form, with Sahibzada Farhan named as his replacement.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2039933/saim-ayub-released-from-pakistan-tri-series-squad-to-work-on-batting-form-sahibzada-farhan-named-replacement", "published_at": "2026-10-26T11:38:00+05:00"},
+  {"outlet": "Geo News", "url": "https://www.geo.tv/latest/688302-saim-ayub-released-from-pakistan-tri-series-odi-squad", "published_at": "2026-10-26T12:17:00+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9a3149c2-ffda-425a-ab09-cf5096229fbd/b6d004d2-a09f-4997-bbc8-5f2f8b5d43b5/Realistic_photo_of_an_empty_cricket_practice_net_area_beside.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNGI3MmNmYThmMDI5NzhkMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzExNDY2NH0.ksFrG67Qn7B9Dtd2eThoZ7n-jz_IDPdZh6145AYQe70",
+  "head1": "Saim Ayub Released",
+  "head2_hl": "From Squad",
+  "head2": "",
+  "kicker": "Sahibzada Farhan replaces him",
+  "desc": "Opener returns to domestic cricket to work on batting form.",
+  "source": "Dawn, Geo News",
+  "date": "26 OCT 2026"
+ },
+ "caption": "The PCB has released opener Saim Ayub from Pakistan's ODI tri-series squad so he can return to domestic cricket to work on his batting form, Dawn reports. Sahibzada Farhan has been named his replacement for the rest of the tournament, and Pakistan, already in the final, face Sri Lanka in Lahore on Tuesday, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SaimAyub #PakistanCricket #TriSeries #PakistanNews",
+ "tiktok_title": "Saim Ayub released from ODI squad, Sahibzada Farhan named replacement",
+ "publish": {"slot": "2026-10-26T13:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "934661001819759", "label": "Cafe Lovers - Global Genius"},
+ "ai_generated": true
+}
