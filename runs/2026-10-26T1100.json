@@ -1,1 +1,47 @@
-{"slot": "2026-10-26T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-26T10:47:16+05:00"}
+{
+ "slot": "2026-10-26T11:00:00+05:00",
+ "riseup_day": "2026-10-26",
+ "run_started_pkt": "2026-10-26T10:47:16+05:00",
+ "run_finished_pkt": "2026-10-26T10:55:44+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; slot window 26 Oct 10:00-12:00 empty (slot free); 6h windows 24 Oct 10:00 - 26 Oct 23:00 all succeeded; RiseUp day 2026-10-26 counts: 0 feed, 0 TikTok",
+  "previous_slot_check": "10:00 slot was skipped (no posts); 25 Oct 22:00 feed 405803800, reel 405803859 (Chase It, music), story 405803872 all PUBLISHED",
+  "news_search": "web search + Dawn latest-news (newest Pakistan item 00:51 PKT), Tribune, Geo Pakistan category, The News latest, Arab News, Business Recorder; quiet Monday morning",
+  "verification": "only fresh Pakistan story (BR PSX intraday 10:07 PKT) had no second approved outlet",
+  "image": "not generated (order rule: only after story passes)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "KSE-100 down 832.57 points (0.51%) at 161,542.30 by 9:50am ahead of SBP MPC decision (Business Recorder 10:07 PKT)",
+   "reason": "only one approved outlet (Business Recorder); no Dawn/Tribune/Geo/APP intraday report found; intraday figures moving"
+  },
+  {
+   "headline": "Arab News: Islamabad warns of further action if Afghan soil used for militancy (09:32 PKT)",
+   "reason": "single approved outlet; security/militancy context (also rejected at 10:00)"
+  },
+  {
+   "headline": "Makkah pact officials to meet Iranian officials in Tehran today (Arab News via Reuters)",
+   "reason": "anonymous sources; wire republish = one source"
+  },
+  {
+   "headline": "Shadab-Haris record ODI last-wicket stand (The News 26 Oct)",
+   "reason": "same event as 25 Oct 22:00 post (duplicate); thenews.pk not the approved thenews.com.pk domain"
+  },
+  {
+   "headline": "SBP monetary policy decision",
+   "reason": "not yet announced at run time"
+  }
+ ],
+ "errors": [
+  "WebFetch dawn.com/latest-news and geo.tv/latest-news first attempt: PROVENANCE_REQUIRED (permission request not answered); later fetched via search-result URLs"
+ ]
+}
