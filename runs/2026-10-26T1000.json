@@ -1,1 +1,51 @@
-{"slot": "2026-10-26T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-26T09:46:39+05:00"}
+{
+ "slot": "2026-10-26T10:00:00+05:00",
+ "riseup_day": "2026-10-26",
+ "run_started_pkt": "2026-10-26T09:46:39+05:00",
+ "run_finished_pkt": "2026-10-26T09:50:44+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; slot window 26 Oct 09:00-11:00 empty (slot free); 6h windows 24 Oct 09:00 - 26 Oct 22:00 all succeeded; RiseUp day 2026-10-26 counts: 0 feed, 0 TikTok",
+  "previous_slot_check": "no previous slot in this RiseUp day (00:00 slot closing 25 Oct was skipped); 25 Oct 22:00 feed 405803800, reel 405803859 (Chase It, music), story 405803872 all PUBLISHED",
+  "news_search": "web search + Dawn latest-news, Tribune, Geo, Arab News, Business Recorder pages; quiet Monday morning, no Pakistan story newer than ~04:07 PKT with two approved outlets",
+  "verification": "no candidate within 8h passed (second approved source / sources-say / first-report rules)",
+  "image": "not generated (order rule: only after story passes)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "SBP Monetary Policy Committee meets today; market expects 50bps hike from 11.5% (Business Recorder 04:07 PKT)",
+   "reason": "preview of an event first reported days earlier (Tribune 22 Oct, Dawn 25 Oct); no second approved outlet published on 26 Oct; decision itself not yet announced"
+  },
+  {
+   "headline": "Parliamentary Affairs Minister Tariq Fazal Chaudhry warns of further action if Afghan soil used for militancy (Arab News 09:32 PKT)",
+   "reason": "only one approved outlet found (state media remarks; no APP/Dawn/Geo/Tribune version found); security/militancy context"
+  },
+  {
+   "headline": "Makkah pact officials (incl. Field Marshal Asim Munir) to meet Iranian officials in Tehran today (Arab News 08:59 PKT, via Reuters)",
+   "reason": "based on anonymous sources ('sources say'); Arab News republishing Reuters = one source"
+  },
+  {
+   "headline": "ECP proposes 12 amendments to curb AI misuse in elections (Express Tribune)",
+   "reason": "first reported 25 Oct 14:14 PKT, older than 8 hours before T"
+  },
+  {
+   "headline": "Muzaffarabad, Murree road accidents kill 14 (Express Tribune)",
+   "reason": "casualty/accident story; first reported 25 Oct evening (older than 8h)"
+  },
+  {
+   "headline": "Petrol/diesel prices (diesel +Rs1.91, petrol Rs377.71 until 26 Oct)",
+   "reason": "announced 22-23 Oct; next daily price not yet notified"
+  }
+ ],
+ "errors": [
+  "WebSearch with allowed_domains: PROXY_REJECTED HTTP 400 The request was invalid"
+ ]
+}
