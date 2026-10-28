@@ -4119,5 +4119,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "2026-10-28T15:00:00+05:00",
+  "request_id": "2026-10-28-lhc-justice-kayani-resigns",
+  "layout": "bold",
+  "headline": "Lahore High Court Justice Mohsin Akhtar Kayani resigned on Wednesday, citing health concerns after a recent surgery and reasons of conscience, saying the 26th and 27th Constitutional Amendments compromised the independence of the high courts.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2040428/lhcs-justice-mohsin-akhtar-kayani-hangs-up-robes",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040428/lhcs-justice-mohsin-akhtar-kayani-hangs-up-robes",
+    "published_at": "2026-10-28T12:45:50+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-high-court-judge-resigns-citing-executives-growing-control-over-judicial-institutions-3005470",
+    "published_at": "2026-10-28T14:23:02+05:00"
+   }
+  ],
+  "published": "2026-10-28T12:45:50+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 369454027,
+  "image": "posts/2026-10-28-lhc-justice-kayani-resigns.jpg",
+  "story": "posts/2026-10-28-lhc-justice-kayani-resigns-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-28 15:00 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-28-lhc-justice-kayani-resigns.mp4"
  }
 ]
