@@ -1,1 +1,52 @@
-{"slot": "2026-10-28T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T21:47:10+05:00"}
+{
+ "slot": "2026-10-28T22:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T21:47:10+05:00",
+ "run_finished_pkt": "2026-10-28T21:55:59+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; windows 26 Oct 21:47 - 29 Oct 09:47 all succeeded; slot 22:00 free; today 7 feed posts, 6 TikTok",
+  "previous_slot_check": "21:00 slot: feed 409121406 FB PUBLISHED https://facebook.com/122185478282855502/posts/122188013828855502; reel 409121458 IG PUBLISHED https://www.instagram.com/reel/DfC027wDwBq/ (music Slow Living - stereogully); story 409121484 FB+IG PUBLISHED",
+  "news_search": "searched Dawn, Geo, Tribune, Arab News, Business Recorder; no story within 8h passed all rules",
+  "verification": "no candidate had two approved sources with consistent facts",
+  "image": "not generated (skip, no credits spent)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan bans Taiwanese airlines from its airspace (Express Tribune/Anadolu via Bloomberg, 17:56 PKT)",
+   "reason": "single wire report; Dawn (updated 19:51 PKT) reports the opposite - permission granted 28 Oct 2026 to 27 Mar 2027; facts conflict"
+  },
+  {
+   "headline": "KP school collapse inquiry blames owner, cites official negligence (Arab News 21:12 PKT)",
+   "reason": "story about child deaths (minors); no second approved outlet found in time"
+  },
+  {
+   "headline": "Religious scholars reaffirm fatwa against suicide attacks in Quetta (Express Tribune 21:00 PKT)",
+   "reason": "no second approved outlet found; includes political tribute content"
+  },
+  {
+   "headline": "Karachi hospitals report flu surge as H1N1 circulates (Express Tribune 18:52 PKT)",
+   "reason": "same event first reported by Dawn on 27 Oct (flu cases double) and Geo earlier; not a genuinely new development"
+  },
+  {
+   "headline": "PTI to contest Islamabad LG polls on Dec 20 (Dawn 13:37 PKT)",
+   "reason": "older than 8h before slot; overlaps 21:00 LG polls post"
+  },
+  {
+   "headline": "Centre plans $18bn water infrastructure investment (Geo 10:06 PKT)",
+   "reason": "older than 8h"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.dawn.com/latest-news first attempt: PROVENANCE_REQUIRED (permission request not answered in time); retried after search surfaced URL",
+  "WebSearch: PROXY_REJECTED HTTP 400 on two queries"
+ ]
+}
