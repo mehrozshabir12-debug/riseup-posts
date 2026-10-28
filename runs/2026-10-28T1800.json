@@ -1,1 +1,84 @@
-{"slot": "2026-10-28T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T17:56:14+05:00"}
+{
+ "slot": "2026-10-28T18:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T17:56:14+05:00",
+ "run_finished_pkt": "2026-10-28T18:01:27+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The PSX benchmark KSE-100 index gained 1,269.55 points, or 0.77%, on Wednesday as afternoon buying lifted the market after early selling.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446281/psx-buying-continues-kse-100-gains-nearly-1300-points",
+    "published_at": "2026-10-28T16:03:18+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/business/psx-stays-bullish-gains-over-1269-points/",
+    "published_at": "2026-10-28T16:50:48+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-28-psx-kse100-gains-1269",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-psx-kse100-gains-1269.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 408925505,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8186742066470435446",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 408925712,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6701823876120555622",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 408925794,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8435020754843945597",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan",
+ "stages": {
+  "metricool_read": "ok: all 6-hour windows 26 Oct 17:00 - 29 Oct 06:00 PKT succeeded; slot 18:00 free; today 3 news posts, 3 TikTok (before this one)",
+  "previous_slot_check": "17:00 slot (feed 408861273, reel 408861343, story 408861363): all networks PUBLISHED",
+  "news_search": "PSX close found on Business Recorder (updated 16:03 PKT), within 2h of slot",
+  "verification": "Business Recorder + APP agree: +1,269.55 points, 0.77% (close 165,736.75 vs 165,736.76 - level left off card)",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, no text/logos/public figures",
+  "publish": "NOW was past T-5, so posts at 18:05 (feed+reel) and 18:10 (story); Reel audio confirmed audioType music, displayArtist Jackson Whalan; verified numeric id used (trending-search term not used)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "K-P governor's rule to end in six months (Tariq Fazal)",
+   "reason": "political; not verified by a second approved source in time"
+  },
+  {
+   "headline": "Pakistan football 6-1 rout of Tonga",
+   "reason": "published ~3h before; PSX close fresher and more relevant"
+  },
+  {
+   "headline": "Nine terrorists killed in Balochistan IBOs (ISPR)",
+   "reason": "violence"
+  }
+ ],
+ "notes": [
+  "Card shows 'UP 1,269 POINTS' (exact 1,269.55 in caption); matches APP's 'over 1269 points' framing"
+ ],
+ "errors": []
+}

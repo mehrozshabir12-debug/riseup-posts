@@ -1,0 +1,38 @@
+{
+ "id": "2026-10-28-psx-kse100-gains-1269",
+ "scheduled": "2026-10-28T18:05:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 408925505,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "publicationDate": "2026-10-28T18:05:00+05:00",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8186742066470435446"
+  },
+  "reel": {
+   "metricool_id": 408925712,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-10-28T18:05:00+05:00",
+   "audio": {
+    "audioId": "1543577430102877",
+    "audioType": "music",
+    "title": "The Process",
+    "displayArtist": "Jackson Whalan"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6701823876120555622"
+  },
+  "story": {
+   "metricool_id": 408925794,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-10-28T18:10:00+05:00",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8435020754843945597"
+  }
+ }
+}
