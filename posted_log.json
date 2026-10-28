@@ -4431,5 +4431,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "2026-10-28T21:00:00+05:00",
+  "request_id": "2026-10-28-ecp-orders-kp-local-polls",
+  "layout": "bold",
+  "headline": "The Election Commission of Pakistan on Wednesday ordered local government elections in Khyber Pakhtunkhwa districts where delimitation is complete, excluding 12 districts under special emergency arrangements.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2040445/ecp-orders-immediate-local-body-polls-in-kp-districts-demarcated-sans-those-under-ardc",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040445/ecp-orders-immediate-local-body-polls-in-kp-districts-demarcated-sans-those-under-ardc",
+    "published_at": "2026-10-28T17:42:00+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688703-ecp-orders-kp-lg-polls-in-delimited-districts-excludes-12-under-ardc",
+    "published_at": "2026-10-28T19:04:00+05:00"
+   }
+  ],
+  "published": "2026-10-28T17:42:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 32790322,
+  "image": "posts/2026-10-28-ecp-orders-kp-local-polls.jpg",
+  "story": "posts/2026-10-28-ecp-orders-kp-local-polls-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-28 21:01 PKT",
+  "music": "Slow Living - stereogully",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-28-ecp-orders-kp-local-polls.mp4"
  }
 ]
