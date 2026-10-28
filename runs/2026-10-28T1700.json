@@ -1,1 +1,80 @@
-{"slot": "2026-10-28T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T16:48:48+05:00"}
+{
+ "slot": "2026-10-28T17:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T16:48:48+05:00",
+ "run_finished_pkt": "2026-10-28T16:59:09+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Climate Change Minister Musadik Malik said on Wednesday the government has allocated $10 million from its own resources for a dedicated Clean Air Fund, as air pollution costs Pakistan 6.5% of GDP.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446321/pakistan-announces-10-million-clean-air-startup-fund",
+    "published_at": "2026-10-28T16:27:00+05:00"
+   },
+   {
+    "outlet": "Radio Pakistan (radio.gov.pk)",
+    "url": "https://www.radio.gov.pk/28-10-2026/musadik-stresses-effective-policies-to-ensure-clean-air",
+    "published_at": "2026-10-28T00:00:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-28-clean-air-fund-10m",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-clean-air-fund-10m.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 408861273,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2304493144268454487",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 408861343,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4303635588882608899",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 408861363,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-403961612995834827",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures - Alex Blue",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all 6h windows 2026-10-26T16:00..2026-10-29T05:00 returned; slot 17:00 free; 48h stories = Kayani resignation (15:00), Haris Rauf fine (16:00); today's count before this run 2 news / 2 TikTok",
+  "previous_slot_check": "16:00 feed 408794729 FB PUBLISHED https://facebook.com/122185478282855502/posts/122187982940855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7701673071433796870; reel 408794778 IG PUBLISHED https://www.instagram.com/reel/DfCSIubCq60/ (music Sunday In October); story 408794806 FB+IG PUBLISHED; no retry needed",
+  "news_search": "Business Recorder 16:27 PKT clean-air fund story chosen (2h window)",
+  "verification": "Business Recorder (exact time 16:27 PKT) + official Radio Pakistan radio.gov.pk article dated 28 Oct 2026; both: $10m from govt's own resources for Clean Air Fund, 6.5% GDP cost, Musadik Malik at National Clean Air Conference. BR calls it a startup fund; card/caption use the common wording 'Clean Air Fund'.",
+  "image": "nano-banana-2-lite 4:3, 1 attempt, ok (tiny car badge/plates, no readable text)",
+  "publish": "feed+reel at 17:03, story 17:08 (renderer moved slot to NOW+5); Reel audioType music, displayArtist Alex Blue"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold gains Rs3,500 per tola (Business Recorder 12:16)",
+   "reason": "older and no second approved source fetched"
+  },
+  {
+   "headline": "Army destroys Afghan border posts after Angoor Adda attack",
+   "reason": "violence/casualty story; avoided"
+  }
+ ],
+ "errors": [
+  "WebSearch extended mode: PROXY_REJECTED HTTP 400 (first query only)",
+  "WebFetch dawn.com/latest-news, geo.tv/latest-news: PROVENANCE_REQUIRED (first attempt)"
+ ]
+}

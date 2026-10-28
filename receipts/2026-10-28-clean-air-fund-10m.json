@@ -1,0 +1,33 @@
+{
+ "id": "2026-10-28-clean-air-fund-10m",
+ "scheduled": "2026-10-28T17:03:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 408861273,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 408861343,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "1131479132514825",
+    "audioType": "music",
+    "title": "Simple Pleasures (Reels Sound - Photo Dump)",
+    "displayArtist": "Alex Blue"
+   }
+  },
+  "story": {
+   "metricool_id": 408861363,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "scheduled": "2026-10-28T17:08:00+05:00"
+  }
+ }
+}
