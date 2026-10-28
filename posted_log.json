@@ -4357,10 +4357,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-28 19:13 PKT",
+  "scheduled": true,
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-28-pm-alibaba-ai-november-deadline.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 408996682,
+   "reel": 408996762,
+   "story": 408996803
+  },
+  "video": "posts/2026-10-28-pm-alibaba-ai-november-deadline.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
