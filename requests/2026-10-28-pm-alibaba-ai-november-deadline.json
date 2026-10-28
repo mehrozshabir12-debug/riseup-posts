@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-28-pm-alibaba-ai-november-deadline",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif on Wednesday directed ministries to complete all measures for AI and digitalisation projects under the Alibaba partnership by November and submit progress reports.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/688693-pm-shehbaz-sets-november-deadline-for-ai-projects-under-alibaba-partnership",
+   "published_at": "2026-10-28T17:49:00+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
+   "published_at": "2026-10-28T18:30:48+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/8e4814f8-3b57-47cc-823d-9c97147c7999/6f6d28f2-97ae-4ea0-83a9-7bd49b122ac5/Realistic_photograph_of_a_modern_technology_training_room_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzg1NjMwMzI3NWExMDU2OCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzMyMzk1NH0.vDIGEGy0TWjjv_kA9k3k7QUMUD5murcpuLuvTXfCrj8",
+  "head1": "PM Sets November",
+  "head2_hl": "Deadline",
+  "head2": "For AI",
+  "kicker": "Alibaba Partnership Projects",
+  "desc": "Ministries told to finish AI, digitalisation measures and report progress.",
+  "source": "Geo News, Dawn",
+  "date": "28 OCT 2026"
+ },
+ "caption": "Prime Minister Shehbaz Sharif has directed ministries to complete all measures for AI and digitalisation projects under the Alibaba partnership by November and submit progress reports, Geo News reports. He also ordered an AI-assisted cancer early-detection system to be implemented at the earliest, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #AI #Alibaba #DigitalPakistan #PakistanNews",
+ "tiktok_title": "PM Shehbaz sets November deadline for AI projects with Alibaba",
+ "publish": {
+  "slot": "2026-10-28T19:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "810120545333296",
+  "label": "Iced Latte - Global Genius"
+ },
+ "ai_generated": true
+}
