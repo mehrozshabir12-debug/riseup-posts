@@ -4253,10 +4253,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-28 17:03 PKT",
+  "scheduled": "2026-10-28T17:03:00+05:00",
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-28-clean-air-fund-10m.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 408861273,
+   "reel": 408861343,
+   "story": 408861363
+  },
+  "video": "posts/2026-10-28-clean-air-fund-10m.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
