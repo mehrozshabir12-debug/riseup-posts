@@ -1,1 +1,28 @@
-{"slot": "2026-10-29T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T23:46:41+05:00"}
+{
+ "slot": "2026-10-29T00:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T23:46:41+05:00",
+ "run_finished_pkt": "2026-10-28T23:48:23+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "slot window 28 Oct 23:00 - 29 Oct 01:00 checked: empty, slot 00:00 free. Wider 48h duplicate windows not read because no candidate passed verification (no post attempted).",
+  "previous_slot_check": "23:00 slot was skipped (no posts in Metricool for 23:00-23:05)",
+  "news_search": "web search (2 queries), Dawn latest-news (listing appeared stale, newest 28 Oct 01:47), Arab News, Geo Pakistan category",
+  "verification": "only fresh candidate had a single approved source; rejected",
+  "image": "not generated (skip, no credits spent)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {"headline": "Saudi Ambassador Rajeh Albugamy calls on Defence Minister Khawaja Asif in Islamabad to discuss stronger defence cooperation (Arab News 3005515, 23:35 PKT)", "reason": "only one approved source; Geo listing shows no same-day report; routine courtesy call, low importance; not verifiable and renderable before T+15"},
+  {"headline": "Pakistan rejects Afghan Taliban claims over Angoor Adda border incident (Geo/Dawn/Arab News)", "reason": "already rejected at 23:00: contested cross-border clash claims, unverifiable figures"},
+  {"headline": "Dawn latest items (CTR threshold Rs3m, 200-unit slab, Israel election)", "reason": "published 28 Oct 00:27-01:47, older than 8h before slot; Israel story not Pakistan-related"}
+ ],
+ "errors": []
+}
