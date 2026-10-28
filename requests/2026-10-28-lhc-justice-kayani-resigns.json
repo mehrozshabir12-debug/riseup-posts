@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-28-lhc-justice-kayani-resigns",
+ "type": "news",
+ "headline": "Lahore High Court Justice Mohsin Akhtar Kayani resigned on Wednesday, citing health concerns after a recent surgery and reasons of conscience, saying the 26th and 27th Constitutional Amendments compromised the independence of the high courts.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2040428/lhcs-justice-mohsin-akhtar-kayani-hangs-up-robes",
+   "published_at": "2026-10-28T12:45:50+05:00"
+  },
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-high-court-judge-resigns-citing-executives-growing-control-over-judicial-institutions-3005470",
+   "published_at": "2026-10-28T14:23:02+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/d6220e44-0a8d-49fa-9702-81522b0eb5cf/ac562c2e-61fc-448f-9423-93af75ebd059/Realistic_photo_of_an_empty__quiet_wood_panelled_high_court_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNmEwOGQwZDRmMmJhOTE0OCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzMwNTA0NH0.Zbsk0WmGCC7xRvvFpmZyadKZNsSkJw4V78yarWK-Cc8",
+  "head1": "Justice Kayani",
+  "head2_hl": "Resigns",
+  "head2": "",
+  "kicker": "Lahore High Court judge quits",
+  "desc": "Cites health and concerns over judicial independence.",
+  "source": "Dawn, Arab News",
+  "date": "28 OCT 2026"
+ },
+ "caption": "Lahore High Court Justice Mohsin Akhtar Kayani resigned on Wednesday, citing health concerns after a recent surgery and reasons of conscience, Dawn reports. In his letter he said the 26th and 27th Constitutional Amendments compromised the independence of the high courts, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LahoreHighCourt #JusticeKayani #Judiciary #PakistanNews",
+ "tiktok_title": "LHC Justice Mohsin Akhtar Kayani resigns, cites judicial independence concerns",
+ "publish": {
+  "slot": "2026-10-28T15:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "478728841591377",
+  "label": "Reflection - Sam Marshall"
+ },
+ "ai_generated": true
+}
