@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-28-imported-wheat-arrives-karachi-port",
+ "type": "news",
+ "headline": "A ship carrying 51,000 metric tonnes of imported wheat, MV Gokova M, docked at Karachi port on Wednesday, with a second wheat vessel expected on November 3, according to the Karachi Port Trust.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-imports-wheat-as-food-costs-us-iran-war-fuel-inflation-3005498",
+   "published_at": "2026-10-28T18:43:49+05:00"
+  },
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2040463/consignment-of-imported-wheat-arrives-at-karachi-port",
+   "published_at": "2026-10-28T18:52:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/16b5087a-399c-4e84-86c0-491188a8f980/d1274969-02a3-488c-8868-f3511ebf9ef0/Realistic_documentary_photograph_of_a_large_bulk_cargo_ship_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjI2ZTc2ZjQwNjhlNjU0OSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzMxNTA2MH0.fP6TYDCVWBs5VyIxwoDg9gxRVylaQ3uQmg10qYTa81Q",
+  "head1": "Imported Wheat",
+  "head2_hl": "Arrives",
+  "head2": "In Karachi",
+  "kicker": "51,000 Tonnes Docked",
+  "desc": "Second wheat ship expected at Karachi port on November 3.",
+  "source": "Arab News, Dawn",
+  "date": "28 OCT 2026"
+ },
+ "caption": "A ship carrying 51,000 metric tonnes of imported wheat docked at Karachi port on Wednesday, Arab News reports, citing the Karachi Port Trust. A second wheat vessel, MV Great Rainbow, is expected on November 3, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Wheat #Karachi #FlourPrices #PakistanNews",
+ "tiktok_title": "51,000 tonnes of imported wheat arrive at Karachi port",
+ "publish": {
+  "slot": "2026-10-28T20:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "934661001819759",
+  "label": "Cafe Lovers - Global Genius"
+ },
+ "ai_generated": true
+}
