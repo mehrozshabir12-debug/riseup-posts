@@ -1,1 +1,77 @@
-{"slot": "2026-10-28T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T15:46:43+05:00"}
+{
+ "slot": "2026-10-28T16:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T15:46:43+05:00",
+ "run_finished_pkt": "2026-10-28T15:52:31+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan fast bowler Haris Rauf was fined 20% of his match fee and given one demerit point, taking his total to five, for a Level 1 ICC Code of Conduct breach during Pakistan's one-wicket tri-series win over England in Lahore on Sunday.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+    "published_at": "2026-10-28T13:17:03+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688659-haris-rauf-fined-for-icc-code-of-conduct-breach-during-england-tri-series-clash",
+    "published_at": "2026-10-28T14:03:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-28-haris-rauf-fined-icc",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-haris-rauf-fined-icc.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 408794729,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1555037642325380453",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 408794778,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4462626712472143834",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 408794806,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6361643204578985301",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all 6h windows 2026-10-26T15:00..2026-10-29T04:00 returned; slot 16:00 free; only post in 48h = 15:00 Kayani story; today's count 1 news / 1 TikTok",
+  "previous_slot_check": "15:00 feed 408742752 FB PUBLISHED https://facebook.com/122185478282855502/posts/122187977366855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7701657394518052116; reel 408742802 IG PUBLISHED https://www.instagram.com/reel/DfCLJEVgT06/; story 408742829 FB+IG PUBLISHED; no retry needed",
+  "news_search": "ICC announced sanction ~12:00 PKT (07:00 UTC); Dawn 13:17 PKT, Geo 14:03 PKT; window 4h counted from first report",
+  "verification": "Dawn + Geo News agree: 20% match fee, 1 demerit point (total 5), Level 1 breach, 46th over, Will Jacks, England fined 15% slow over-rate; matches ICC media release",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, empty stadium pitch, no text, no identifiable people",
+  "publish": "feed, reel, story created; all PENDING; reel audioType music, displayArtist Trout Recording"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "ECP orders KP local government polls in 23 districts, exempts 12 emergency-hit districts (15:28 PKT)",
+   "reason": "only Aaj/Samaa/Daily Pakistan at run time; no second approved outlet or ECP release found"
+  },
+  {
+   "headline": "Karachi residents advised to mask up amid flu surge",
+   "reason": "Geo only (11:46 PKT); older and single source"
+  }
+ ],
+ "errors": []
+}
