@@ -1,1 +1,87 @@
-{"slot": "2026-10-28T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T19:46:27+05:00"}
+{
+ "slot": "2026-10-28T20:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T19:46:27+05:00",
+ "run_finished_pkt": "2026-10-28T19:57:23+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "A ship carrying 51,000 metric tonnes of imported wheat, MV Gokova M, docked at Karachi port on Wednesday, with a second wheat vessel expected on November 3, according to the Karachi Port Trust.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-imports-wheat-as-food-costs-us-iran-war-fuel-inflation-3005498",
+    "published_at": "2026-10-28T18:43:49+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040463/consignment-of-imported-wheat-arrives-at-karachi-port",
+    "published_at": "2026-10-28T18:52:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-28-imported-wheat-arrives-karachi-port",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-imported-wheat-arrives-karachi-port.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "16b5087a-399c-4e84-86c0-491188a8f980",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 409050857,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1924349802194580813",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 409050898,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9116686068958250826",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 409050910,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5038249875448612381",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 2026-10-26T19:00..2026-10-29T08:00 all read OK; no post at 20:00; 5 news feed posts and 5 TikTok posts this RiseUp day before this one",
+  "previous_slot_check": "19:00 slot: feed 408996682 facebook PUBLISHED https://facebook.com/122185478282855502/posts/122188001552855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7701721922677034260; reel 408996762 instagram PUBLISHED https://www.instagram.com/reel/DfCn2QMCiVy/; story 408996803 facebook+instagram PUBLISHED",
+  "news_search": "tribune.com.pk homepage, arabnews.pk, geo.tv, dawn.com via web search/fetch; picked Arab News 18:43 PKT story (2h window); ship itself arrived 12:25 PKT per KPT (within 8h)",
+  "verification": "Arab News (18:43 PKT) + Dawn (18:52 PKT) both cite KPT: MV Gokova M, 51,000 metric tonnes wheat, Berths 16-17, arrived 28 Oct; MV Great Rainbow expected 3 Nov. Second-vessel tonnage omitted (Dawn 599,000 vs Arab News 59,132 conflict)",
+  "image": "1 Runway image, nano-banana-2-lite 4:3, no readable text/public figures/logos",
+  "publish": "render awaiting_publish; card and zoom MP4 (8 s, 1080x1920, h264+aac) checked; NOW 19:56 was past T-5 so feed/reel scheduled 20:02 and story 20:07 (within T+15); Reel audio confirmed audioType music, displayArtist Global Genius (verified list id 934661001819759; trending search terms not confirmable as music)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "ECP orders KP local government polls in delimited districts, excludes 12 (Geo 19:04 PKT)",
+   "reason": "only one approved outlet (Geo) found in time; no ECP press release located"
+  },
+  {
+   "headline": "K-P governor's rule to end after six months (Tariq Fazal, NA)",
+   "reason": "only Express Tribune among approved outlets; politically contested"
+  },
+  {
+   "headline": "Pakistani worker registrations for Qatar, Oman slow sharply (Arab News 18:23)",
+   "reason": "no second approved source found"
+  },
+  {
+   "headline": "Nine terrorists killed in Balochistan IBOs (ISPR)",
+   "reason": "violence; skipped by content rules"
+  }
+ ],
+ "errors": []
+}
