@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-28-psx-kse100-gains-1269",
+ "type": "news",
+ "headline": "The PSX benchmark KSE-100 index gained 1,269.55 points, or 0.77%, on Wednesday as afternoon buying lifted the market after early selling.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446281/psx-buying-continues-kse-100-gains-nearly-1300-points",
+   "published_at": "2026-10-28T16:03:18+05:00"
+  },
+  {
+   "outlet": "APP",
+   "url": "https://www.app.com.pk/business/psx-stays-bullish-gains-over-1269-points/",
+   "published_at": "2026-10-28T16:50:48+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f0b85fbf-eda1-447a-b0e7-dfbaa119519d/8de8c188-52a6-495a-ad3f-ef96ebbbe462/Realistic_photo_inside_a_busy_stock_exchange_trading_hall_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiY2Y2ZGU0NzEwOGViYmQxNSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzI5ODQxN30.kQFuxiscXYG6y3iybF--Dmn657FgeBEYE-mNhr2ZU5k",
+  "head1": "PSX KSE-100",
+  "head2_hl": "Up 1,269",
+  "head2": "Points",
+  "kicker": "Index closes 0.77% higher",
+  "desc": "Market recovered from early selling to close higher.",
+  "source": "Business Recorder, APP",
+  "date": "28 OCT 2026"
+ },
+ "caption": "The PSX benchmark KSE-100 index gained 1,269.55 points, or 0.77%, on Wednesday as afternoon buying lifted the market after early selling, Business Recorder reports. Ready market volume stood at 578.124 million shares worth Rs26.203 billion, APP adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #StockMarket #PakistanEconomy",
+ "tiktok_title": "PSX KSE-100 gains 1,269.55 points, closes 0.77% higher",
+ "publish": {
+  "slot": "2026-10-28T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1543577430102877",
+  "label": "The Process - Jackson Whalan"
+ },
+ "ai_generated": true
+}
