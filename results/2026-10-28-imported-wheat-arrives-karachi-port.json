@@ -142,9 +142,37 @@
     }
    }
   },
-  "posts": {}
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 409050857,
+    "status": {
+     "facebook": "PENDING",
+     "tiktok": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "reel": {
+    "attempts": 1,
+    "metricool_id": 409050898,
+    "status": {
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 409050910,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
  },
- "status": "awaiting_publish",
+ "status": "scheduled",
  "log": "posted_log.json",
- "updated_at": "2026-10-28T19:56:04+05:00"
+ "updated_at": "2026-10-28T19:58:01+05:00",
+ "receipt_sha": "8182c33968ba31a0193566f4c4a656fb86a0f2a5ecd6e8e58afe8b089a846213"
 }

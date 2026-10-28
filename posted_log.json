@@ -4409,10 +4409,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-28 20:01 PKT",
+  "scheduled": "2026-10-28T20:02:00+05:00",
   "music": "Cafe Lovers - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-28-imported-wheat-arrives-karachi-port.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 409050857,
+   "reel": 409050898,
+   "story": 409050910
+  },
+  "video": "posts/2026-10-28-imported-wheat-arrives-karachi-port.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
