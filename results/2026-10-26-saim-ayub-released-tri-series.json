@@ -1,0 +1,12 @@
+{
+ "id": "2026-10-26-saim-ayub-released-tri-series",
+ "revision": 1,
+ "request": "requests/2026-10-26-saim-ayub-released-tri-series.json",
+ "status": "rejected",
+ "errors": [
+  "slot 2026-10-26 13:00 PKT was missed (now 14:52); never schedule in the past"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-10-28T14:52:31+05:00"
+}
