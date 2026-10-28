@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-28-haris-rauf-fined-icc",
+ "revision": 1,
+ "request": "requests/2026-10-28-haris-rauf-fined-icc.json",
+ "type": "news",
+ "headline": "Pakistan fast bowler Haris Rauf was fined 20% of his match fee and given one demerit point, taking his total to five, for a Level 1 ICC Code of Conduct breach during Pakistan's one-wicket tri-series win over England in Lahore on Sunday.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-28T16:00:00+05:00",
+ "target_slot": "2026-10-28T16:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-haris-rauf-fined-icc.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-haris-rauf-fined-icc-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-haris-rauf-fined-icc.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-28-haris-rauf-fined-icc.jpg",
+  "story": "posts/2026-10-28-haris-rauf-fined-icc-story.jpg",
+  "reel": "posts/2026-10-28-haris-rauf-fined-icc.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 489953008,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan fast bowler Haris Rauf has been fined 20% of his match fee and handed one demerit point, taking his total to five, for arguing with England's Will Jacks during Sunday's tri-series ODI in Lahore, Dawn reports. England were fined 15% of their match fee for a slow over-rate, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #HarisRauf #PAKvENG #TriSeries #PakistanCricket",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-haris-rauf-fined-icc.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Haris Rauf fined 20% of match fee by ICC after spat with Will Jacks",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan fast bowler Haris Rauf has been fined 20% of his match fee and handed one demerit point, taking his total to five, for arguing with England's Will Jacks during Sunday's tri-series ODI in Lahore, Dawn reports. England were fined 15% of their match fee for a slow over-rate, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #HarisRauf #PAKvENG #TriSeries #PakistanCricket",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-haris-rauf-fined-icc.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-haris-rauf-fined-icc-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "757785052896581",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-haris-rauf-fined-icc-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-28T15:50:53+05:00"
+}

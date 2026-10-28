@@ -4171,5 +4171,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "2026-10-28T16:00:00+05:00",
+  "request_id": "2026-10-28-haris-rauf-fined-icc",
+  "layout": "bold",
+  "headline": "Pakistan fast bowler Haris Rauf was fined 20% of his match fee and given one demerit point, taking his total to five, for a Level 1 ICC Code of Conduct breach during Pakistan's one-wicket tri-series win over England in Lahore on Sunday.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040431/haris-rauf-penalised-for-breach-of-icc-code-of-conduct-in-tri-series-match-against-england",
+    "published_at": "2026-10-28T13:17:03+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688659-haris-rauf-fined-for-icc-code-of-conduct-breach-during-england-tri-series-clash",
+    "published_at": "2026-10-28T14:03:00+05:00"
+   }
+  ],
+  "published": "2026-10-28T13:17:03+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 489953008,
+  "image": "posts/2026-10-28-haris-rauf-fined-icc.jpg",
+  "story": "posts/2026-10-28-haris-rauf-fined-icc-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-28 16:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-28-haris-rauf-fined-icc.mp4"
  }
 ]
