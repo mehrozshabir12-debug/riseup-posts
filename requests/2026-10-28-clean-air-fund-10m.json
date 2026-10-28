@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-28-clean-air-fund-10m",
+ "type": "news",
+ "headline": "Climate Change Minister Musadik Malik said on Wednesday the government has allocated $10 million from its own resources for a dedicated Clean Air Fund, as air pollution costs Pakistan 6.5% of GDP.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446321/pakistan-announces-10-million-clean-air-startup-fund",
+   "published_at": "2026-10-28T16:27:00+05:00"
+  },
+  {
+   "outlet": "Radio Pakistan (radio.gov.pk)",
+   "url": "https://www.radio.gov.pk/28-10-2026/musadik-stresses-effective-policies-to-ensure-clean-air",
+   "published_at": "2026-10-28T00:00:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/1642d035-376e-423f-bad0-ce921c363e7f/95573dbc-d655-4843-a5b3-76e200ac1ffe/Realistic_photograph_of_a_busy_city_street_in_Islamabad__Pak.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZWRhZDVkMTg2ZWQ0ODBjOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzM0NzM1Mn0.47hRC8vAaLMMTvyevbgezq14GKzn-FPCEnmO_kyCOqI",
+  "head1": "Pakistan Sets Up",
+  "head2_hl": "$10 Million",
+  "head2": "Air Fund",
+  "kicker": "Clean Air Conference, Islamabad",
+  "desc": "Funded from government's own resources, climate minister says.",
+  "source": "Business Recorder, Radio Pakistan",
+  "date": "28 OCT 2026"
+ },
+ "caption": "Pakistan has allocated $10 million from its own resources for a dedicated Clean Air Fund, Climate Change Minister Musadik Malik said at the National Clean Air Conference, Business Recorder reports. He said air pollution costs the country 6.5% of its GDP, Radio Pakistan adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #CleanAir #Smog #ClimateChange #PakistanNews",
+ "tiktok_title": "Pakistan sets up $10 million Clean Air Fund from its own resources",
+ "publish": {
+  "slot": "2026-10-28T17:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1131479132514825",
+  "label": "Simple Pleasures - Alex Blue"
+ },
+ "ai_generated": true
+}
