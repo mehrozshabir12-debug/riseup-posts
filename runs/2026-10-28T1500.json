@@ -1,1 +1,85 @@
-{"slot": "2026-10-28T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T14:46:44+05:00"}
+{
+ "slot": "2026-10-28T15:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T14:46:44+05:00",
+ "run_finished_pkt": "2026-10-28T14:54:16+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Lahore High Court Justice Mohsin Akhtar Kayani resigned on Wednesday, citing health concerns after a recent surgery and reasons of conscience, saying the 26th and 27th Constitutional Amendments compromised the independence of the high courts.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040428/lhcs-justice-mohsin-akhtar-kayani-hangs-up-robes",
+    "published_at": "2026-10-28T12:45:50+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-high-court-judge-resigns-citing-executives-growing-control-over-judicial-institutions-3005470",
+    "published_at": "2026-10-28T14:23:02+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-10-28-lhc-justice-kayani-resigns",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-lhc-justice-kayani-resigns.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 408742752,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5671503072825881292",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 408742802,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5244159047893337792",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 408742829,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8045960606340564257",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all 6h windows 2026-10-26T14:00..2026-10-29T03:00 returned (no scheduled posts); slot 15:00 free",
+  "previous_slot_check": "no post at 14:00 (no runs since 2026-10-26T1300); nothing to verify/retry",
+  "news_search": "web search + Dawn/Geo/Tribune listings; picked LHC Justice Kayani resignation (Dawn 12:45 PKT)",
+  "verification": "Dawn + Arab News match: resigned 28 Oct, health after surgery, conscience, 26th/27th amendments, return to practice; not in posted_log",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, empty courtroom, no text/people",
+  "publish": "card + zoom MP4 checked; feed/reel/story created; Reel audioType music (Reflection - Sam Marshall); all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PSX KSE-100 up nearly 400 points intraday",
+   "reason": "intraday snapshot; figures inconsistent between Business Recorder and Tribune"
+  },
+  {
+   "headline": "JI Islamabad march mid-November after talks with PM",
+   "reason": "published 27 Oct 18:14, older than 8h"
+  },
+  {
+   "headline": "Govt to end 200-unit slab penalty",
+   "reason": "Dawn 27 Oct 22:37, older than 8h"
+  },
+  {
+   "headline": "Pakistan strikes Afghan Taliban posts after cross-border attack",
+   "reason": "violence/casualties"
+  }
+ ],
+ "errors": []
+}
