@@ -1,1 +1,43 @@
-{"slot": "2026-10-28T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T22:48:04+05:00"}
+{
+ "slot": "2026-10-28T23:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T22:48:04+05:00",
+ "run_finished_pkt": "2026-10-28T22:54:27+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: windows 26 Oct 22:45 - 29 Oct 10:50 all succeeded (6h windows); slot 23:00 free; today 7 feed posts (15:00-21:00), TikTok under cap",
+  "previous_slot_check": "22:00 slot was skipped (no posts). 21:00: feed 409121406 FB PUBLISHED, reel 409121458 IG PUBLISHED (Slow Living - stereogully), story 409121484 FB+IG PUBLISHED",
+  "news_search": "Geo, Dawn latest, Arab News; Tribune latest unreachable",
+  "verification": "only candidate within 8h was a contested cross-border clash statement; rejected",
+  "image": "not generated (skip, no credits spent)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan rejects Afghan Taliban claims over Angoor Adda border incident, says 7 Afghan posts destroyed (Geo 22:41 PKT; Dawn 2040481; Arab News 3005510)",
+   "reason": "cross-border armed clash: core claims are one government's rebuttal of another's; casualty/destruction figures ('heavy casualties', 7 posts) come from the ministry and 'security sources' and cannot be independently confirmed; includes accusations against India; first report of the firing (Dawn 2040416, earlier today) not timestamped in time; not safely postable before T+15"
+  },
+  {
+   "headline": "PTI parliamentary party to push rollback of emergency, governor's rule (Geo)",
+   "reason": "one-sided political statement"
+  },
+  {
+   "headline": "Imran Khan's sister Noreen hospitalised in jail (Geo)",
+   "reason": "personal health of an individual, political; no second source checked"
+  },
+  {
+   "headline": "Dawn latest items (petrol price cut, 200-unit slab, CTR threshold)",
+   "reason": "published 27 Oct / early 28 Oct, older than 8h before slot"
+  }
+ ],
+ "errors": [
+  "WebFetch https://tribune.com.pk/latest: PROVENANCE_REQUIRED (permission request not answered in time)"
+ ]
+}
