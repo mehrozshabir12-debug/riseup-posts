@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-28-ecp-orders-kp-local-polls",
+ "type": "news",
+ "headline": "The Election Commission of Pakistan on Wednesday ordered local government elections in Khyber Pakhtunkhwa districts where delimitation is complete, excluding 12 districts under special emergency arrangements.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2040445/ecp-orders-immediate-local-body-polls-in-kp-districts-demarcated-sans-those-under-ardc",
+   "published_at": "2026-10-28T17:42:00+05:00"
+  },
+  {
+   "outlet": "Geo News",
+   "url": "https://www.geo.tv/latest/688703-ecp-orders-kp-lg-polls-in-delimited-districts-excludes-12-under-ardc",
+   "published_at": "2026-10-28T19:04:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/e9399889-8c82-4cda-93e6-1f124e06b37d/55a61ef5-f8f9-4b7e-b3d3-40a4d7a859fc/Realistic_documentary_photo_inside_a_government_school_hall_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDU4NjhiZDA0ODFlZDVlOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzM2MzkyMH0.bWlF2-2R-KpSj5lfKGtEjDN_o3a2vk3j2guQecXZc9U",
+  "head1": "ECP Orders KP",
+  "head2_hl": "Local Polls",
+  "head2": "",
+  "kicker": "12 Districts Excluded For Now",
+  "desc": "Polls to be held where delimitation is complete.",
+  "source": "Dawn, Geo News",
+  "date": "28 OCT 2026"
+ },
+ "caption": "The Election Commission of Pakistan has ordered local government elections in Khyber Pakhtunkhwa districts where delimitation is complete, Dawn reports. Twelve districts under special emergency arrangements are excluded for now, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ECP #KhyberPakhtunkhwa #LocalElections #PakistanNews",
+ "tiktok_title": "ECP orders local government polls in KP, 12 districts excluded",
+ "publish": {
+  "slot": "2026-10-28T21:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1329928372147056",
+  "label": "Slow Living - stereogully"
+ },
+ "ai_generated": true
+}
