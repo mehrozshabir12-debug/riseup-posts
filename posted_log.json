@@ -4305,10 +4305,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-28 18:05 PKT",
+  "scheduled": "2026-10-28T18:05:00+05:00",
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-28-psx-kse100-gains-1269.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 408925505,
+   "reel": 408925712,
+   "story": 408925794
+  },
+  "video": "posts/2026-10-28-psx-kse100-gains-1269.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
