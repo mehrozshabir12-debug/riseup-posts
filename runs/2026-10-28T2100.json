@@ -1,1 +1,86 @@
-{"slot": "2026-10-28T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-28T20:47:38+05:00"}
+{
+ "slot": "2026-10-28T21:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "run_started_pkt": "2026-10-28T20:47:38+05:00",
+ "run_finished_pkt": "2026-10-28T20:57:53+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Election Commission of Pakistan on Wednesday ordered local government elections in Khyber Pakhtunkhwa districts where delimitation is complete, excluding 12 districts under special emergency arrangements.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040445/ecp-orders-immediate-local-body-polls-in-kp-districts-demarcated-sans-those-under-ardc",
+    "published_at": "2026-10-28T17:42:00+05:00"
+   },
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688703-ecp-orders-kp-lg-polls-in-delimited-districts-excludes-12-under-ardc",
+    "published_at": "2026-10-28T19:04:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-28-ecp-orders-kp-local-polls",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-ecp-orders-kp-local-polls.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "e9399889-8c82-4cda-93e6-1f124e06b37d",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 409121406,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-830102196195999435",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 409121458,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4791118270401394254",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 409121484,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6671224819621674536",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Slow Living - stereogully",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; 11 windows 26 Oct 20:47-29 Oct 08:47 all succeeded; slot 21:00 free; today 6 feed posts, 6 TikTok",
+  "previous_slot_check": "20:00 slot: feed 409050857 FB PUBLISHED https://facebook.com/122185478282855502/posts/122188008596855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7701734662389075220; reel 409050898 IG PUBLISHED https://www.instagram.com/reel/DfCtbjqiWt4/; story 409050910 FB+IG PUBLISHED",
+  "news_search": "ECP orders KP local govt polls (Dawn 17:42 PKT, first report) chosen; 4h window",
+  "verification": "Dawn + Geo News agree: ECP 5-member bench under CEC Sikandar Sultan Raja ordered LG polls in delimited KP districts; 5 districts excluded from polls + 7 from delimitation schedules = 12 under ARDC",
+  "image": "ok, 1 attempt, no text/public figures",
+  "publish": "scheduled 21:03 (feed FB, Reel IG with music) and 21:08 Story; payload time 21:01 moved to NOW+5 min rule; TikTok skipped by renderer pacing (6 by 21:00); Reel audio verified audioType music, displayArtist stereogully"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "K-P governor's rule to end in six months: Tariq Fazal (Express Tribune 17:04 PKT)",
+   "reason": "no second approved outlet confirmed in time; politically contested"
+  },
+  {
+   "headline": "PM sets fuel relief process in motion (Express Tribune)",
+   "reason": "published 03:57 PKT, older than 8h"
+  },
+  {
+   "headline": "Nine terrorists killed in Balochistan IBOs (ISPR)",
+   "reason": "violence"
+  }
+ ],
+ "errors": [],
+ "notes": [
+  "Music picked from VERIFIED MUSIC LIST (numeric id) without a trending search to keep the slot on time",
+  "results warning: TikTok skipped: 6 TikTok posts on RiseUp day 2026-10-28; allowed by 21:00 = 6 (max 8/day)"
+ ]
+}
