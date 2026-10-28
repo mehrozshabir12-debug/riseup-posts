@@ -4327,5 +4327,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "2026-10-28T19:00:00+05:00",
+  "request_id": "2026-10-28-pm-alibaba-ai-november-deadline",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif on Wednesday directed ministries to complete all measures for AI and digitalisation projects under the Alibaba partnership by November and submit progress reports.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/688693-pm-shehbaz-sets-november-deadline-for-ai-projects-under-alibaba-partnership",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/688693-pm-shehbaz-sets-november-deadline-for-ai-projects-under-alibaba-partnership",
+    "published_at": "2026-10-28T17:49:00+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040459/secret-to-countrys-development-lies-in-ai-and-digitisation-pm-shehbaz-stresses",
+    "published_at": "2026-10-28T18:30:48+05:00"
+   }
+  ],
+  "published": "2026-10-28T17:49:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 990808563,
+  "image": "posts/2026-10-28-pm-alibaba-ai-november-deadline.jpg",
+  "story": "posts/2026-10-28-pm-alibaba-ai-november-deadline-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-28 19:13 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-28-pm-alibaba-ai-november-deadline.mp4"
  }
 ]

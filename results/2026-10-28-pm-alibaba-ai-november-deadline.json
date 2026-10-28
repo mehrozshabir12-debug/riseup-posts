@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-28-pm-alibaba-ai-november-deadline",
+ "revision": 1,
+ "request": "requests/2026-10-28-pm-alibaba-ai-november-deadline.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif on Wednesday directed ministries to complete all measures for AI and digitalisation projects under the Alibaba partnership by November and submit progress reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-28T19:13:00+05:00",
+ "target_slot": "2026-10-28T19:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-pm-alibaba-ai-november-deadline.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-pm-alibaba-ai-november-deadline-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-pm-alibaba-ai-november-deadline.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-28-pm-alibaba-ai-november-deadline.jpg",
+  "story": "posts/2026-10-28-pm-alibaba-ai-november-deadline-story.jpg",
+  "reel": "posts/2026-10-28-pm-alibaba-ai-november-deadline.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 990808563,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T19:13:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif has directed ministries to complete all measures for AI and digitalisation projects under the Alibaba partnership by November and submit progress reports, Geo News reports. He also ordered an AI-assisted cancer early-detection system to be implemented at the earliest, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #AI #Alibaba #DigitalPakistan #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-pm-alibaba-ai-november-deadline.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PM Shehbaz sets November deadline for AI projects with Alibaba",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T19:13:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif has directed ministries to complete all measures for AI and digitalisation projects under the Alibaba partnership by November and submit progress reports, Geo News reports. He also ordered an AI-assisted cancer early-detection system to be implemented at the earliest, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #AI #Alibaba #DigitalPakistan #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-pm-alibaba-ai-november-deadline.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-pm-alibaba-ai-november-deadline-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "810120545333296",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T19:18:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-pm-alibaba-ai-november-deadline-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-28T19:07:55+05:00"
+}
