@@ -4223,5 +4223,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "2026-10-28T17:00:00+05:00",
+  "request_id": "2026-10-28-clean-air-fund-10m",
+  "layout": "bold",
+  "headline": "Climate Change Minister Musadik Malik said on Wednesday the government has allocated $10 million from its own resources for a dedicated Clean Air Fund, as air pollution costs Pakistan 6.5% of GDP.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446321/pakistan-announces-10-million-clean-air-startup-fund",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446321/pakistan-announces-10-million-clean-air-startup-fund",
+    "published_at": "2026-10-28T16:27:00+05:00"
+   },
+   {
+    "outlet": "Radio Pakistan (radio.gov.pk)",
+    "url": "https://www.radio.gov.pk/28-10-2026/musadik-stresses-effective-policies-to-ensure-clean-air",
+    "published_at": "2026-10-28T00:00:00+05:00"
+   }
+  ],
+  "published": "2026-10-28T16:27:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 59956372,
+  "image": "posts/2026-10-28-clean-air-fund-10m.jpg",
+  "story": "posts/2026-10-28-clean-air-fund-10m-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-28 17:03 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-28-clean-air-fund-10m.mp4"
  }
 ]
