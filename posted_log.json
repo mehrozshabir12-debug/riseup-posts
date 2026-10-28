@@ -4201,10 +4201,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-28 16:00 PKT",
+  "scheduled": "2026-10-28T16:00:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-28-haris-rauf-fined-icc.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 408794729,
+   "reel": 408794778,
+   "story": 408794806
+  },
+  "video": "posts/2026-10-28-haris-rauf-fined-icc.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
