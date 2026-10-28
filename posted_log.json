@@ -4379,5 +4379,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "2026-10-28T20:00:00+05:00",
+  "request_id": "2026-10-28-imported-wheat-arrives-karachi-port",
+  "layout": "bold",
+  "headline": "A ship carrying 51,000 metric tonnes of imported wheat, MV Gokova M, docked at Karachi port on Wednesday, with a second wheat vessel expected on November 3, according to the Karachi Port Trust.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-imports-wheat-as-food-costs-us-iran-war-fuel-inflation-3005498",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-imports-wheat-as-food-costs-us-iran-war-fuel-inflation-3005498",
+    "published_at": "2026-10-28T18:43:49+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040463/consignment-of-imported-wheat-arrives-at-karachi-port",
+    "published_at": "2026-10-28T18:52:00+05:00"
+   }
+  ],
+  "published": "2026-10-28T18:43:49+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 530325097,
+  "image": "posts/2026-10-28-imported-wheat-arrives-karachi-port.jpg",
+  "story": "posts/2026-10-28-imported-wheat-arrives-karachi-port-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-28 20:01 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-28-imported-wheat-arrives-karachi-port.mp4"
  }
 ]

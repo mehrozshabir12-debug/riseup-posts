@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-28-imported-wheat-arrives-karachi-port",
+ "revision": 1,
+ "request": "requests/2026-10-28-imported-wheat-arrives-karachi-port.json",
+ "type": "news",
+ "headline": "A ship carrying 51,000 metric tonnes of imported wheat, MV Gokova M, docked at Karachi port on Wednesday, with a second wheat vessel expected on November 3, according to the Karachi Port Trust.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-28T20:01:00+05:00",
+ "target_slot": "2026-10-28T20:00:00+05:00",
+ "riseup_day": "2026-10-28",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-imported-wheat-arrives-karachi-port.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-imported-wheat-arrives-karachi-port-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-imported-wheat-arrives-karachi-port.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-28-imported-wheat-arrives-karachi-port.jpg",
+  "story": "posts/2026-10-28-imported-wheat-arrives-karachi-port-story.jpg",
+  "reel": "posts/2026-10-28-imported-wheat-arrives-karachi-port.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 530325097,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T20:01:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "A ship carrying 51,000 metric tonnes of imported wheat docked at Karachi port on Wednesday, Arab News reports, citing the Karachi Port Trust. A second wheat vessel, MV Great Rainbow, is expected on November 3, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Wheat #Karachi #FlourPrices #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-imported-wheat-arrives-karachi-port.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "51,000 tonnes of imported wheat arrive at Karachi port",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T20:01:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "A ship carrying 51,000 metric tonnes of imported wheat docked at Karachi port on Wednesday, Arab News reports, citing the Karachi Port Trust. A second wheat vessel, MV Great Rainbow, is expected on November 3, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Wheat #Karachi #FlourPrices #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-imported-wheat-arrives-karachi-port.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-imported-wheat-arrives-karachi-port-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "934661001819759",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-28T20:06:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-28-imported-wheat-arrives-karachi-port-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-28T19:56:04+05:00"
+}
