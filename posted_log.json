@@ -4275,5 +4275,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-28",
+  "slot": "2026-10-28T18:00:00+05:00",
+  "request_id": "2026-10-28-psx-kse100-gains-1269",
+  "layout": "bold",
+  "headline": "The PSX benchmark KSE-100 index gained 1,269.55 points, or 0.77%, on Wednesday as afternoon buying lifted the market after early selling.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446281/psx-buying-continues-kse-100-gains-nearly-1300-points",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446281/psx-buying-continues-kse-100-gains-nearly-1300-points",
+    "published_at": "2026-10-28T16:03:18+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/business/psx-stays-bullish-gains-over-1269-points/",
+    "published_at": "2026-10-28T16:50:48+05:00"
+   }
+  ],
+  "published": "2026-10-28T16:03:18+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 273070704,
+  "image": "posts/2026-10-28-psx-kse100-gains-1269.jpg",
+  "story": "posts/2026-10-28-psx-kse100-gains-1269-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-28 18:05 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-28-psx-kse100-gains-1269.mp4"
  }
 ]
