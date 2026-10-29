@@ -1,1 +1,19 @@
-{"slot": "2026-10-29T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T09:46:23+05:00"}
+{"slot": "2026-10-29T10:00:00+05:00", "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T09:46:23+05:00", "run_finished_pkt": "2026-10-29T09:56:00+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null, "request_id": null, "card_url": null, "image_attempts": [],
+ "metricool": null, "music": "none",
+ "stages": {"metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot 10:00 free; 11 six-hour windows 2026-10-27T04:00..2026-10-29T22:00 all succeeded",
+            "previous_slot_check": "previous slot 00:00 (and 23:00, 22:00) skipped, no posts; last posts 28 Oct 15:00-21:08 all PUBLISHED",
+            "news_search": "web search + Dawn latest-news page; only items after 02:00 PKT were foreign football (Bayern, Liverpool, Inter); Geo/Tribune/Brecorder latest pages could not be fetched (WebFetch permission PROVENANCE_REQUIRED)",
+            "verification": "no candidate first reported within 8 h of slot with two approved sources",
+            "image": "not generated (no story)", "publish": "none"},
+ "skipped_candidates": [
+  {"headline": "Seven killed as ambulance catches fire at Thar hospital (Dawn 2040540)", "reason": "first reported 28 Oct, older than 8 h window; casualty story"},
+  {"headline": "World Bank warns commodity prices to surge 23pc (Dawn 2040573)", "reason": "report released 28 Oct; newspaper reprint, first report outside 8 h window; second source not confirmed"},
+  {"headline": "Court rejects plea to add murder/terrorism charges in Gul Plaza fire case (Dawn 2040546)", "reason": "28 Oct story, outside 8 h window"},
+  {"headline": "Lahore again ranks world's most polluted city (Dawn 2040419, Brecorder 40445618)", "reason": "28 Oct, outside window; no fresh 29 Oct update found"},
+  {"headline": "45 NUST researchers among top 2pc of scientists (Dawn 2040535)", "reason": "28 Oct, outside window"},
+  {"headline": "Karachi man kills two sisters (Dawn 2040548)", "reason": "violence/crime, 28 Oct"}],
+ "errors": ["WebFetch geo.tv/tribune.com.pk/brecorder.com: PROVENANCE_REQUIRED: The permission request for this URL was not answered in time"]}
