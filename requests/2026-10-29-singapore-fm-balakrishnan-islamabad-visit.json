@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-29-singapore-fm-balakrishnan-islamabad-visit",
+ "type": "news",
+ "headline": "Singapore's Foreign Minister Dr Vivian Balakrishnan will make an official visit to Islamabad on Friday, October 30, at the invitation of Deputy Prime Minister and Foreign Minister Ishaq Dar, the Foreign Office said.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30",
+   "published_at": "2026-10-29T12:10:35+05:00"
+  },
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/singapore-foreign-minister-to-visit-pakistan-tomorrow-for-talks-disaster-cooperation-accord-3005552",
+   "published_at": "2026-10-29T13:07:05+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/3a5c05b5-e513-4bc5-8828-b8474b1d4a00/199fcfe1-5684-4af2-ac16-679f6e4556fd/Realistic_news_photograph_of_a_modern_government_building_co.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzA4MTQ3MGJjYmUyMmQ3ZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzQzMDkyM30.ArE9cL1ITJ4r9bZQL2GsH3J0ybCqtB-7Otq5Z-ho5hw",
+  "head1": "Singapore FM To Visit",
+  "head2_hl": "Pakistan",
+  "head2": "On Friday",
+  "kicker": "60 Years Of Diplomatic Ties",
+  "desc": "Balakrishnan to hold talks with Ishaq Dar on October 30.",
+  "source": "Dawn, Arab News",
+  "date": "29 OCT 2026"
+ },
+ "caption": "Singapore's Foreign Minister Dr Vivian Balakrishnan will make an official visit to Islamabad on Friday, October 30, at the invitation of Deputy Prime Minister and Foreign Minister Ishaq Dar, Dawn reports. A disaster management MoU between Pakistan's NDMA and Singapore's Civil Defence Force will be exchanged during the visit, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Singapore #PakistanSingapore #ForeignOffice #PakistanNews",
+ "tiktok_title": "Singapore FM Vivian Balakrishnan to visit Islamabad on Friday, Oct 30",
+ "publish": {
+  "slot": "2026-10-29T14:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2384396914990297",
+  "label": "City Around The Corner - The Poison Oaks"
+ },
+ "ai_generated": true
+}
