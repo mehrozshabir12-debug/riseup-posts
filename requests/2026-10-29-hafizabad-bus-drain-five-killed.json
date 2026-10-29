@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-29-hafizabad-bus-drain-five-killed",
+ "type": "news",
+ "headline": "Five people were killed when a passenger bus travelling from Raiwind to Chiniot plunged into a drain near Fatehke in Pindi Bhattian, Hafizabad district, on Thursday, rescue officials said.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/five-killed-13-injured-as-bus-overturns-in-pakistans-punjab-province-3005547", "published_at": "2026-10-29T12:30:54+05:00"},
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2040660/at-least-5-killed-over-two-dozen-injured-as-bus-plunges-into-drain-in-punjabs-hafizabad", "published_at": "2026-10-29T09:52:21+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/2ed81e25-6ee6-4b1d-8f1e-807426b9869e/c83113cb-afaa-4fd4-bd23-8897c7fe7d49/Realistic_documentary_news_photograph__early_morning_in_rura.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMjkwYTQ3NjhlZDE3NWE1MiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzQyMjY5Nn0.HwY3LUwwogxLqmb3UY9nIiabQoM_81CnRORao5tpO-0",
+  "head1": "Bus Plunges Into Drain",
+  "head2_hl": "5 Killed",
+  "head2": "In Hafizabad",
+  "kicker": "Fatehke, Pindi Bhattian Tehsil",
+  "desc": "Raiwind-Chiniot bus plunged into a drain on Thursday, rescue officials said.",
+  "source": "Arab News, Dawn",
+  "date": "29 OCT 2026"
+ },
+ "caption": "Five people were killed when a passenger bus travelling from Raiwind to Chiniot plunged into a drain near Fatehke in Pindi Bhattian, Hafizabad district, early on Thursday, Arab News reports, citing rescue officials. Rescue 1122 teams used a crane to lift the bus, Dawn adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Hafizabad #RoadSafety #Punjab #PakistanNews",
+ "tiktok_title": "5 killed as bus plunges into drain near Pindi Bhattian, Hafizabad",
+ "publish": {"slot": "2026-10-29T13:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "1211414204067053", "label": "Drift Away (Instrumental) - Giulio Cercato"},
+ "ai_generated": true
+}
