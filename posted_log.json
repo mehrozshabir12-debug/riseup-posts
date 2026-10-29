@@ -4616,10 +4616,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-29 18:05 PKT",
+  "scheduled": true,
   "music": "Heros Journey (Instrumental) - Abby Posner",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-29-lahore-karachi-airports-expansion.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 410044501,
+   "reel": 410044539,
+   "story": 410044567
+  },
+  "video": "posts/2026-10-29-lahore-karachi-airports-expansion.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
