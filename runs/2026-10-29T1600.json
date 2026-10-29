@@ -1,1 +1,35 @@
-{"slot": "2026-10-29T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T15:47:24+05:00"}
+{
+ "slot": "2026-10-29T16:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T15:47:24+05:00",
+ "run_finished_pkt": "2026-10-29T15:53:49+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all 6h windows 27 Oct 15:00 .. 30 Oct 04:00 read successfully; no post at 16:00 (slot free); RiseUp day 29 Oct counts: 2 news feed posts (13:00 bus Hafizabad, 14:00 Singapore FM), 2 TikTok",
+  "previous_slot_check": "15:00 slot was skipped (no posts). Latest posts 14:00 (feed 409817606, Reel 409817634, Story 409817646) all PUBLISHED; 13:00 posts all PUBLISHED",
+  "news_search": "web search for 29 Oct Pakistan news; candidates: PSX KSE-100 intraday rally (Brecorder 40446464 'gains nearly 1,600 points', Tribune 2637563 'gains 1,136 points intraday'); Dawn latest-news page fetched but showed only early-morning 29 Oct items (sports/Israel)",
+  "verification": "failed: could not open Brecorder 40446464 to read its timestamp (WebFetch PROVENANCE_REQUIRED); PSX intraday figures differ between sources (1,600 vs 1,136) and the market close report was not yet available; no other story with two approved sources and exact timestamps found before 15:53 PKT, too late to verify + render before T+15",
+  "image": "not generated (story not verified)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "KSE-100 extends rally on Thursday (Brecorder 40446464 / Tribune 2637563)",
+   "reason": "intraday figures differ between sources and still changing; article timestamp could not be read (PROVENANCE_REQUIRED); closing report not out before slot"
+  },
+  {
+   "headline": "Seven killed as ambulance catches fire at Thar hospital (Dawn 2040540)",
+   "reason": "newspaper item likely from 28 Oct; timestamp not established; second approved source not found"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.brecorder.com/news/40446464: PROVENANCE_REQUIRED: The permission request for this URL was not answered in time."
+ ]
+}
