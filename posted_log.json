@@ -4534,5 +4534,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-29",
+  "slot": "2026-10-29T14:00:00+05:00",
+  "request_id": "2026-10-29-singapore-fm-balakrishnan-islamabad-visit",
+  "layout": "bold",
+  "headline": "Singapore's Foreign Minister Dr Vivian Balakrishnan will make an official visit to Islamabad on Friday, October 30, at the invitation of Deputy Prime Minister and Foreign Minister Ishaq Dar, the Foreign Office said.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30",
+    "published_at": "2026-10-29T12:10:35+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/singapore-foreign-minister-to-visit-pakistan-tomorrow-for-talks-disaster-cooperation-accord-3005552",
+    "published_at": "2026-10-29T13:07:05+05:00"
+   }
+  ],
+  "published": "2026-10-29T12:10:35+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 382752591,
+  "image": "posts/2026-10-29-singapore-fm-balakrishnan-islamabad-visit.jpg",
+  "story": "posts/2026-10-29-singapore-fm-balakrishnan-islamabad-visit-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-29 14:01 PKT",
+  "music": "City Around The Corner - The Poison Oaks",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-29-singapore-fm-balakrishnan-islamabad-visit.mp4"
  }
 ]
