@@ -4482,5 +4482,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-29",
+  "slot": "2026-10-29T13:00:00+05:00",
+  "request_id": "2026-10-29-hafizabad-bus-drain-five-killed",
+  "layout": "bold",
+  "headline": "Five people were killed when a passenger bus travelling from Raiwind to Chiniot plunged into a drain near Fatehke in Pindi Bhattian, Hafizabad district, on Thursday, rescue officials said.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/five-killed-13-injured-as-bus-overturns-in-pakistans-punjab-province-3005547",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/five-killed-13-injured-as-bus-overturns-in-pakistans-punjab-province-3005547",
+    "published_at": "2026-10-29T12:30:54+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040660/at-least-5-killed-over-two-dozen-injured-as-bus-plunges-into-drain-in-punjabs-hafizabad",
+    "published_at": "2026-10-29T09:52:21+05:00"
+   }
+  ],
+  "published": "2026-10-29T12:30:54+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 895108699,
+  "image": "posts/2026-10-29-hafizabad-bus-drain-five-killed.jpg",
+  "story": "posts/2026-10-29-hafizabad-bus-drain-five-killed-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-29 13:02 PKT",
+  "music": "Drift Away (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-29-hafizabad-bus-drain-five-killed.mp4"
  }
 ]
