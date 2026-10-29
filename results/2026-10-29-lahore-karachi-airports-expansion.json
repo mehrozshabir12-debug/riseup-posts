@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-29-lahore-karachi-airports-expansion",
+ "revision": 1,
+ "request": "requests/2026-10-29-lahore-karachi-airports-expansion.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif on Thursday approved the expansion of Lahore and Karachi airports under their master plans, as officials said the runway expansion at Karachi's Jinnah International Airport has been completed.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-29T18:05:00+05:00",
+ "target_slot": "2026-10-29T18:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-lahore-karachi-airports-expansion.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-lahore-karachi-airports-expansion-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-lahore-karachi-airports-expansion.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-29-lahore-karachi-airports-expansion.jpg",
+  "story": "posts/2026-10-29-lahore-karachi-airports-expansion-story.jpg",
+  "reel": "posts/2026-10-29-lahore-karachi-airports-expansion.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 385260292,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-29T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif has approved the expansion of Lahore and Karachi airports under their master plans, with work to be completed within set timelines, Business Recorder reports. Officials told him the runway expansion at Karachi's Jinnah International Airport is complete, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Airports #Karachi #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-lahore-karachi-airports-expansion.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PM approves expansion of Lahore and Karachi airports under master plans",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-29T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Prime Minister Shehbaz Sharif has approved the expansion of Lahore and Karachi airports under their master plans, with work to be completed within set timelines, Business Recorder reports. Officials told him the runway expansion at Karachi's Jinnah International Airport is complete, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Airports #Karachi #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-lahore-karachi-airports-expansion.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-lahore-karachi-airports-expansion-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1274149560124013",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-29T18:10:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-lahore-karachi-airports-expansion-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-29T17:59:51+05:00"
+}

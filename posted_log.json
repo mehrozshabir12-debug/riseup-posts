@@ -4586,5 +4586,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-29",
+  "slot": "2026-10-29T18:00:00+05:00",
+  "request_id": "2026-10-29-lahore-karachi-airports-expansion",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif on Thursday approved the expansion of Lahore and Karachi airports under their master plans, as officials said the runway expansion at Karachi's Jinnah International Airport has been completed.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446499/pm-approves-lahore-karachi-airport-expansion",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446499/pm-approves-lahore-karachi-airport-expansion",
+    "published_at": "2026-10-29T15:15:07+05:00"
+   },
+   {
+    "outlet": "Geo News (APP)",
+    "url": "https://www.geo.tv/latest/688828-pm-approves-expansion-of-lahore-karachi-airports-orders-international-standards",
+    "published_at": "2026-10-29T17:49:00+05:00"
+   }
+  ],
+  "published": "2026-10-29T15:15:07+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 385260292,
+  "image": "posts/2026-10-29-lahore-karachi-airports-expansion.jpg",
+  "story": "posts/2026-10-29-lahore-karachi-airports-expansion-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-29 18:05 PKT",
+  "music": "Heros Journey (Instrumental) - Abby Posner",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-29-lahore-karachi-airports-expansion.mp4"
  }
 ]
