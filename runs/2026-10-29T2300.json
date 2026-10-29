@@ -1,1 +1,77 @@
-{"slot": "2026-10-29T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T22:46:17+05:00"}
+{
+ "slot": "2026-10-29T23:00:00+05:00",
+ "outcome": "scheduled",
+ "run_started_pkt": "2026-10-29T22:46:17+05:00",
+ "riseup_day": "2026-10-29",
+ "run_finished_pkt": "2026-10-29T22:55:47+05:00",
+ "test_mode": false,
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The Pakistan Stock Exchange launched a Shariah-compliant trading counter on Thursday, with 39 brokers onboarded through Islamic windows and trading limited to Shariah-compliant equities and Islamic instruments.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446529/psx-launches-shariah-compliant-trading-counter",
+    "published_at": "2026-10-29T21:35:29+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-stock-market-launches-shariah-compliant-trading-counter-3005593",
+    "published_at": "2026-10-29T21:56:37+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-29-psx-launches-shariah-trading-counter",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-psx-launches-shariah-trading-counter.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 410372193,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7828932618471557133",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 410372232,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3587964867787178723",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 410372257,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5031135675480128226",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 22:00-00:00 empty; 6h windows 27 Oct 22:00 .. 30 Oct 12:00 all read; RiseUp day counts before this post: 3 news feed posts (13:00,14:00,18:00), 3 TikTok",
+  "previous_slot_check": "22:00 slot skipped (no posts); 21:00-19:00 skipped; 18:00 feed 410044501, reel 410044539, story 410044567 all PUBLISHED",
+  "news_search": "web search (allowed approved domains) + article pages opened via web-fetch; dawn.com/latest-news fetch failed (PROVENANCE_REQUIRED)",
+  "verification": "Business Recorder 21:35 PKT (main) + Arab News 21:56 PKT confirm PSX Shariah counter launch, 39 brokers via Islamic windows, no short selling/derivatives; not a duplicate in last 48 h",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, no text/logos/public figures",
+  "publish": "feed, reel (music Sunday In October, audioType music, displayArtist Trout Recording) and story created; all PENDING; card and zoom MP4 checked"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM approves expansion of Lahore and Karachi airports",
+   "reason": "duplicate: posted at 18:00 slot"
+  }
+ ],
+ "errors": [
+  "web-fetch https://www.dawn.com/latest-news: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "add_repo tool not available in this session; repo already in scope and cloned",
+  "trending Reels music search skipped for time; used verified numeric id 757785052896581 from VERIFIED MUSIC LIST"
+ ]
+}
