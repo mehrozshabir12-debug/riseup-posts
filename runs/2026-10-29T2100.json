@@ -1,1 +1,45 @@
-{"slot": "2026-10-29T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T20:57:10+05:00"}
+{
+ "slot": "2026-10-29T21:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T20:57:10+05:00",
+ "run_finished_pkt": "2026-10-29T21:03:31+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 20:00-22:00 empty (slot 21:00 free); 6h windows 27 Oct 21:00 .. 30 Oct 09:00 all read; RiseUp day counts: 3 news feed posts (13:00,14:00,18:00), 3 TikTok",
+  "previous_slot_check": "20:00 and 19:00 slots skipped (no posts); 18:00 feed 410044501 (facebook, tiktok), reel 410044539 (instagram), story 410044567 (facebook, instagram) all PUBLISHED",
+  "news_search": "run fired 20:56 PKT (late, T-4 min); web searches for 29 Oct Pakistan news on approved outlets; latest candidates checked",
+  "verification": "no candidate had two approved sources with exact timestamps before the T+15 min publishing deadline",
+  "image": "not generated (no story passed verification; no credits spent)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Bilawal urges PTI to join electoral reforms committee in National Assembly (Geo News, published 2026-10-29T18:23:00+05:00)",
+   "reason": "only one approved source confirmed in time; political speech story; second approved outlet not verified before deadline"
+  },
+  {
+   "headline": "England v Sri Lanka 6th ODI (dead rubber), tri-series in Pakistan, Duckett 167",
+   "reason": "result only seen on non-approved sites (ESPNcricinfo/Outlook, fetch failed); no approved outlet report found in time; dead rubber of low relevance"
+  },
+  {
+   "headline": "PM approves expansion of Lahore and Karachi airports (Dawn, Geo)",
+   "reason": "duplicate: already posted at 18:00 slot (Metricool 410044501)"
+  },
+  {
+   "headline": "Afghan police say two children killed by Pakistani gunfire near border (Arab News)",
+   "reason": "unconfirmed casualty claim from one side, involves minors and violence"
+  }
+ ],
+ "errors": [
+  "web-fetch arabnews.pk/pakistan: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "web-fetch cricinfo match report: client_error",
+  "add_repo tool not available in this session; repo already in scope and cloned"
+ ]
+}
