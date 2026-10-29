@@ -1,1 +1,77 @@
-{"slot": "2026-10-29T13:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T12:47:39+05:00"}
+{
+ "slot": "2026-10-29T13:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T12:47:39+05:00",
+ "run_finished_pkt": "2026-10-29T12:58:09+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Five people were killed when a passenger bus travelling from Raiwind to Chiniot plunged into a drain near Fatehke in Pindi Bhattian, Hafizabad district, on Thursday, rescue officials said.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/five-killed-13-injured-as-bus-overturns-in-pakistans-punjab-province-3005547",
+    "published_at": "2026-10-29T12:30:54+05:00"
+   },
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040660/at-least-5-killed-over-two-dozen-injured-as-bus-plunges-into-drain-in-punjabs-hafizabad",
+    "published_at": "2026-10-29T09:52:21+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-10-29-hafizabad-bus-drain-five-killed",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-hafizabad-bus-drain-five-killed.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 409773800,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6189057824106301256",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 409773824,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-861076655686793085",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 409773832,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1462451270940313486",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Drift Away (Instrumental) - Giulio Cercato",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 12:00-14:00 empty; 11 six-hour windows 27 Oct 12:00 .. 30 Oct 01:00 all succeeded; 0 news / 0 TikTok posts this RiseUp day before this one",
+  "previous_slot_check": "previous slot 12:00 skipped (no posts); last posts 28 Oct 15:00-21:08 all PUBLISHED",
+  "news_search": "web search + Dawn/Arab News article pages; geo.tv, tribune, thenews, brecorder, app.com.pk listing pages blocked (PROVENANCE_REQUIRED)",
+  "verification": "Arab News 12:30 PKT (main) + Dawn 09:52 PKT (first report, updated 10:32) agree: 5 killed, bus Raiwind->Chiniot, drain near Fatehke, Pindi Bhattian, Hafizabad, Thursday. Injury count (13 vs 27) and cause (drowsiness vs speeding) differ between sources, so left off card and caption. Window 4h counted from Dawn first report.",
+  "image": "nano-banana-2-lite 4:3, 1 attempt, ok (no readable text, no public figures)",
+  "publish": "feed (FB+TikTok) 13:02, IG Reel 13:02 with music audioType=music Giulio Cercato, Story 13:07; all PENDING; card and reel checked"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pillion riding banned in Bajaur for 10 days (Dawn 12:32 PKT)",
+   "reason": "no second approved outlet found/openable; less broad impact"
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest-news, tribune.com.pk/latest, thenews.com.pk/latest-stories, brecorder.com/latest-news, app.com.pk/national: PROVENANCE_REQUIRED: The permission request for this URL was not answered in time",
+  "WebSearch with allowed_domains (11 domains) query 'Pakistan news today': PROXY_REJECTED HTTP 400",
+  "add_repo tool not available in this session; used the pre-cloned repo"
+ ]
+}
