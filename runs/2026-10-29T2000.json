@@ -1,1 +1,40 @@
-{"slot": "2026-10-29T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T19:54:05+05:00"}
+{
+ "slot": "2026-10-29T20:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T19:54:05+05:00",
+ "run_finished_pkt": "2026-10-29T20:00:34+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 19:00-21:00 empty (slot 20:00 free); 6h windows 27 Oct 20:00 .. 30 Oct 08:00 all read; RiseUp day counts: 3 news feed posts (13:00,14:00,18:00), 3 TikTok",
+  "previous_slot_check": "19:00 slot skipped (no posts); 18:00 feed 410044501 (facebook, tiktok), reel 410044539 (instagram), story 410044567 (facebook, instagram) all PUBLISHED",
+  "news_search": "run fired 19:53 PKT (late, T-7 min); Dawn latest-news page (cached, newest Pakistan item 28 Oct 23:54); web searches for 29 Oct Pakistan news",
+  "verification": "best candidate had only one approved source (Dawn); no second approved outlet found before the T+15 min deadline",
+  "image": "not generated (story did not pass verification; no credits spent)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Lahore ranks world's most polluted major city with AQI 419 on IQAir (Dawn, updated 2026-10-29T13:41:23+05:00)",
+   "reason": "only one approved source; confirmations found only on non-approved sites (IANS, PakWheels, Dialogue Pakistan, Deccan Herald); possible APP item not verifiable in time"
+  },
+  {
+   "headline": "ATC sentences Imaan Mazari and Hadi Ali Chattha to 10 years in security breach case (Dawn)",
+   "reason": "sensitive court/political story; timestamp and second approved source not verified in time"
+  },
+  {
+   "headline": "Sri Lanka beat Pakistan by 8 wickets in tri-series (AFP via Khaleej Times)",
+   "reason": "match was Tuesday 27 Oct \u2014 older than 8 hours; Khaleej Times not an approved outlet"
+  }
+ ],
+ "errors": [
+  "web-fetch geo.tv/latest-news: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "dawn.com/latest-news returned a cached page with no 29 Oct Pakistan items"
+ ]
+}
