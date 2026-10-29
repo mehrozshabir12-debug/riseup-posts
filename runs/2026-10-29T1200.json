@@ -1,1 +1,33 @@
-{"slot": "2026-10-29T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T11:47:48+05:00"}
+{
+ "slot": "2026-10-29T12:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T11:47:48+05:00",
+ "run_finished_pkt": "2026-10-29T11:54:10+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot 12:00 free (window 11:00-13:00 empty); 10 six-hour windows 27 Oct 11:00 .. 30 Oct 00:00 all succeeded; 0 news posts and 0 TikTok posts this RiseUp day",
+  "previous_slot_check": "previous slot 11:00 skipped (no posts); last posts 28 Oct 15:00-21:08 all PUBLISHED (28 Oct 21:03 feed was Facebook only, no TikTok provider)",
+  "news_search": "web search ran; dawn.com/latest-news fetched OK at ~11:50 PKT: only stories after 04:00 PKT were foreign football (04:01, 04:18); all Pakistan stories dated 29 Oct 00:06 or earlier / 28 Oct (outside 8h window or already posted). brecorder.com/latest-news returned a stale Dec 2025 copy. geo.tv, tribune.com.pk, thenews.com.pk, app.com.pk could not be opened (fetch permission not answered).",
+  "verification": "no candidate inside the 8h window could be confirmed by two approved outlets or an official source",
+  "image": "not generated (no verified story)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {"headline": "Seven killed in ambulance fire after suspected gas cylinder blast in Tharparkar (Pakistan Observer)", "reason": "only non-approved outlet found; approved outlets could not be opened to confirm or timestamp"},
+  {"headline": "Lahore again world's most polluted city with 298 AQI (Pakistan Observer)", "reason": "non-approved outlet, no approved confirmation or timestamp readable"},
+  {"headline": "Government raises petrol, diesel prices (Aaj English)", "reason": "non-approved outlet, date unverified, likely older than 8h"},
+  {"headline": "Pakistan raises cash transaction reporting threshold for banks (Pakistan Observer)", "reason": "non-approved outlet; SBP/approved source not opened"}
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest-news, tribune.com.pk/latest, thenews.com.pk/latest-stories, app.com.pk: PROVENANCE_REQUIRED: The permission request for this URL was not answered in time / The user did not answer an earlier permission request in time",
+  "brecorder.com/latest-news served stale content (newest item 05 Dec 2025)",
+  "add_repo tool not available in this session; used the pre-cloned repo in the working directory"
+ ]
+}
