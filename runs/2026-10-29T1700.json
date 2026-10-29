@@ -1,1 +1,36 @@
-{"slot": "2026-10-29T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T16:51:40+05:00"}
+{
+ "slot": "2026-10-29T17:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T16:51:31+05:00",
+ "run_finished_pkt": "2026-10-29T16:57:59+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 27 Oct 16:00 .. 30 Oct 05:00 all read successfully; no post at 17:00 (slot free); RiseUp day 29 Oct counts: 2 news feed posts (13:00 Hafizabad bus, 14:00 Singapore FM), 2 TikTok",
+  "previous_slot_check": "16:00 and 15:00 slots were skipped (no posts). 14:00 (feed 409817606, Reel 409817634, Story 409817646) and 13:00 posts all PUBLISHED",
+  "news_search": "web search for 29 Oct Pakistan news; Dawn latest-news page (fetched) showed no 29 Oct item after 04:18am in its readable part; geo.tv/latest-news fetch failed (PROVENANCE_REQUIRED); found Dawn 2040678 Bajaur pillion-riding ban (published 29 Oct 12:32 PKT, updated 12:46 PKT)",
+  "verification": "failed: Bajaur story has only one approved source (Dawn); confirming reports found only on Daily Times and ua.news (not approved outlets); no Tribune/Geo/APP/The News/Arab News report found before ~17:02 PKT, too late to verify further and render before T+15",
+  "image": "not generated (story not verified)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pillion riding banned in Bajaur till Nov 7 under Section 144 (Dawn 2040678, 29 Oct 12:32 PKT)",
+   "reason": "no second approved source (only Daily Times / ua.news); no official primary source found"
+  },
+  {
+   "headline": "Singapore FM visit to Islamabad (Dawn 2040677)",
+   "reason": "duplicate: already posted at 14:00"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.geo.tv/latest-news: PROVENANCE_REQUIRED: The permission request for this URL was not answered in time.",
+  "WebSearch with allowed_domains: PROXY_REJECTED (HTTP 400): The request was invalid"
+ ]
+}
