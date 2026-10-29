@@ -1,0 +1,48 @@
+{
+ "id": "2026-10-29-lahore-karachi-airports-expansion",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif on Thursday approved the expansion of Lahore and Karachi airports under their master plans, as officials said the runway expansion at Karachi's Jinnah International Airport has been completed.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446499/pm-approves-lahore-karachi-airport-expansion",
+   "published_at": "2026-10-29T15:15:07+05:00"
+  },
+  {
+   "outlet": "Geo News (APP)",
+   "url": "https://www.geo.tv/latest/688828-pm-approves-expansion-of-lahore-karachi-airports-orders-international-standards",
+   "published_at": "2026-10-29T17:49:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/4c59e062-2814-4fb3-8963-dd55514bd1d7/90074cbc-f706-4045-baac-a40342c62981/Realistic_photo_of_a_large_modern_international_airport_term.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmE1NjhlZDk3M2ZhMGI3MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzQyODQ0MX0.mfV-TRsSo-sUqLJmMjsim_34qug8dkVmjUvf4YYocW8",
+  "head1": "Lahore, Karachi Airports",
+  "head2_hl": "To Expand",
+  "head2": "",
+  "kicker": "PM approves master plans",
+  "desc": "Karachi runway expansion completed; CAA activated 14 airports.",
+  "source": "Business Recorder, Geo News",
+  "date": "29 OCT 2026"
+ },
+ "caption": "Prime Minister Shehbaz Sharif has approved the expansion of Lahore and Karachi airports under their master plans, with work to be completed within set timelines, Business Recorder reports. Officials told him the runway expansion at Karachi's Jinnah International Airport is complete, Geo News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Airports #Karachi #Lahore #PakistanNews",
+ "tiktok_title": "PM approves expansion of Lahore and Karachi airports under master plans",
+ "publish": {
+  "slot": "2026-10-29T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1274149560124013",
+  "label": "Heros Journey (Instrumental) - Abby Posner"
+ },
+ "ai_generated": true
+}
