@@ -1,1 +1,28 @@
-{"slot": "2026-10-29T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T14:47:41+05:00"}
+{
+ "slot": "2026-10-29T15:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T14:47:41+05:00",
+ "run_finished_pkt": "2026-10-29T14:54:36+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; window 14:00-16:00 has only the 14:00 slot posts (none at 15:00); windows 28 Oct 20:00 .. 29 Oct 16:00 read; remaining history windows not needed after skip",
+  "previous_slot_check": "14:00 slot: feed 409817606 FB+TikTok PUBLISHED (https://facebook.com/122185478282855502/posts/122188113056855502, https://www.tiktok.com/@riseuppakistan2025/video/7702013402201197844), Reel 409817634 PUBLISHED (https://www.instagram.com/reel/DfEpSZWATE-/, music City Around The Corner, audioType music), Story 409817646 FB+IG PUBLISHED",
+  "news_search": "candidates: Dawn 2040684 Lahore most polluted major city (13:27 PKT, AQI 419 IQAir 10-11am); Dawn 2040694 ATC sentences Imaan Mazari/Hadi Chattha 10 years; Dawn 2040695 Asif responds to Fazl",
+  "verification": "failed: no second approved outlet with a 29 Oct 2026 report found for the Lahore AQI story (Geo 574299 is from Nov 2024, Brecorder 40445618 is 28 Oct; only non-approved outlets carried AQI 419); Geo/Tribune listing pages could not be fetched (PROVENANCE_REQUIRED)",
+  "image": "not generated (story not verified)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {"headline": "Lahore ranks world's most polluted major city with AQI 419 (Dawn 2040684, 13:27 PKT)", "reason": "only one approved source for 29 Oct figures; confirming outlets were non-approved (Dialogue Pakistan) or old; could not verify and render before T+15"},
+  {"headline": "ATC sentences Imaan Mazari and Hadi Chattha to 10 years in security breach case (Dawn 2040694)", "reason": "politically sensitive court case; second approved source with today's date not confirmed in time"},
+  {"headline": "Khawaja Asif responds to Fazl over Tehran huddle absence (Dawn 2040695)", "reason": "political back-and-forth, one-sided statements"}
+ ],
+ "errors": ["WebSearch: PROXY_REJECTED (HTTP 400): The request was invalid (one query, retried with a different query)", "WebFetch geo.tv/category/pakistan and tribune.com.pk/pakistan: PROVENANCE_REQUIRED (permission request not answered in time)"]
+}
