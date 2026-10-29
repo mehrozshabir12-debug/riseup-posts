@@ -1,1 +1,50 @@
-{"slot": "2026-10-30T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T23:46:45+05:00"}
+{
+ "slot": "2026-10-30T00:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T23:46:45+05:00",
+ "run_finished_pkt": "2026-10-29T23:53:00+05:00",
+ "test_mode": false,
+ "outcome": "error_tool_unavailable: web-fetch",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 23:00-01:00 has no post at 00:00; 6h windows 27 Oct 23:00 .. 30 Oct 12:00 all read; RiseUp day 2026-10-29 counts: 4 news feed posts (13:00,14:00,18:00,23:00), 4 TikTok",
+  "previous_slot_check": "23:00 feed 410372193 (facebook PUBLISHED https://facebook.com/122185478282855502/posts/122188175954855502, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7702152325435100417), reel 410372232 PUBLISHED https://www.instagram.com/reel/DfFnEiQCGY3/ (music Sunday In October), story 410372257 facebook+instagram PUBLISHED",
+  "news_search": "web search ok; candidate articles found but none could be opened to read the article's own published timestamp (web-fetch blocked)",
+  "verification": "not possible: section 2 requires the exact published time from the article itself",
+  "image": "not generated (order rule: no Runway call before the story passes section 2)",
+  "publish": "nothing created"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PTI throws weight behind suspended K-P chief minister (Express Tribune)",
+   "reason": "article timestamp could not be read (web-fetch blocked); also political, needs careful neutral second source"
+  },
+  {
+   "headline": "Pakistan restores airspace access for Taiwanese airlines after brief suspension (Business Recorder)",
+   "reason": "article timestamp could not be read; 'report' wording, second approved source not established"
+  },
+  {
+   "headline": "Pakistan says seven Afghan posts destroyed, rejects Taliban account of border clash (Arab News)",
+   "reason": "timestamp not readable; armed clash content"
+  },
+  {
+   "headline": "Govt raises petrol by Rs1.85, diesel by Rs1.75 for Oct 29 (Express Tribune / Radio Pakistan)",
+   "reason": "announced for 29 Oct, older than 8 h before slot"
+  },
+  {
+   "headline": "ATC sentences Imaan, Hadi to 10 years in security breach case (Dawn)",
+   "reason": "timestamp not readable; politically sensitive court case"
+  }
+ ],
+ "errors": [
+  "web-fetch https://www.dawn.com/latest-news, https://www.geo.tv/latest-news, https://www.dawn.com/news/2040754: PROVENANCE_REQUIRED (\"The permission request for this URL was not answered in time\")",
+  "WebSearch with 11 allowed_domains: PROXY_REJECTED (HTTP 400: The request was invalid)",
+  "add_repo tool not available in this session; repo already in scope and cloned",
+  "fetch timeout consumed ~5 min; not enough time left before T+15 (00:15) to verify, render and publish"
+ ]
+}
