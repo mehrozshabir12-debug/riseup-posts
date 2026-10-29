@@ -87,8 +87,35 @@ never touch drafts you did not create. Never read or send the owner's e-mails.
 - Prefer stories that matter to ordinary people: prices, fuel, electricity, jobs, education, weather, health,
   cricket, economy, technology, major national decisions.
 - A slot is skipped only when NOTHING from the last 8 hours passes all rules (verified, not a duplicate, safe).
-  Then outcome "skipped_no_fresh_verified_news", list the best rejected candidates
-  and why in the run log, stop. Never post old news to fill a slot. A skip is a correct result.
+  Then do NOT stop yet: go to section 2B (showbiz fallback). Only if 2B also finds nothing, outcome
+  "skipped_no_fresh_verified_news", list the best rejected candidates (news AND showbiz) and why in the run
+  log, stop. Never post old news to fill a slot. A skip is a correct result.
+
+
+2B. SHOWBIZ FALLBACK — ONLY WHEN SECTION 2 FOUND NO NEWS (owner's rule, 30 Oct 2026)
+-------------------------------------------------------------------------------------
+- Use this ONLY after section 2 found no qualifying news for slot T. Never replace a qualifying news story.
+- Subject: ONE update about the Pakistani showbiz industry (actors, singers, dramas, films, music) or a
+  Pakistani YouTuber / TikToker / social media star: a new song, drama, film or trailer, an award, a milestone,
+  a public statement, a wedding/birth the person announced themselves, a viral moment.
+- SAME verification and freshness as section 2, no exceptions: 2 articles from 2 DIFFERENT approved outlets
+  (Dawn incl. images.dawn.com, Express Tribune incl. Life & Style, Geo, The News, BBC, Arab News, APP ...),
+  main source's exact timestamp read from the article itself, within 8 hours before T, not a duplicate of the
+  last 48 h on Metricool or of celebrity_log.json. Entertainment-only sites (Something Haute, Galaxy Lollywood,
+  Instagram / Facebook / YouTube posts, fan pages) can help you FIND a story but never count as a source.
+- Never: rumours, "sources say", leaked or private content, fights/controversy/insults or mockery, divorce or
+  relationship gossip, anything about minors, political attacks, claims not in the sources. Neutral and kind.
+- Daily cap: max 3 showbiz posts per RiseUp day (the pipeline rejects a 4th). They do NOT count toward the
+  15 news posts. If the cap is reached, skip as in section 2.
+- Card, photo and caption as section 3, with these changes: the Runway photo must NOT show the person or any
+  real identifiable face — use a fitting generic scene (concert stage, film set, drama shoot, recording studio,
+  awards stage, a phone showing an unnamed video with anonymous people). Caption: same format as section 3; tag
+  the star's official @handle ONLY if the handle is confirmed by a source article or their verified account.
+- Request (section 4) with "type": "star", "person": {"name": "<full name>", "handle": "<@handle or empty>"},
+  "reel": {"type": "none"} and NO "music" field (star posts get no Reel; the pipeline posts FB+IG photo,
+  TikTok if under the daily limit, and the FB+IG Story). Then sections 5–7 as usual (skip the Reel/music checks).
+- Run log: outcome "scheduled_showbiz_fallback", stages.news_search must still list why the news candidates
+  failed, and add "fallback": "showbiz".
 
 
 3. CARD TEXT, PHOTO AND CAPTION
@@ -190,7 +217,7 @@ Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id
 Commit runs/<...>.json (same path as section 0):
 {"slot": "...", "riseup_day": "YYYY-MM-DD", "run_started_pkt": "...", "run_finished_pkt": "...",
  "test_mode": true|false,
- "outcome": "scheduled | scheduled_as_draft | skipped_no_fresh_verified_news | skipped_slot_taken |
+ "outcome": "scheduled | scheduled_showbiz_fallback | scheduled_as_draft | skipped_no_fresh_verified_news | skipped_slot_taken |
              skipped_slot_missed | skipped_daily_cap | error_<short reason>",
  "story": {"headline": "...", "sources": [{"outlet": "...", "url": "...", "published_at": "<ISO +05:00>"}]},
  "request_id": "...", "card_url": "<results.media.feed>",
