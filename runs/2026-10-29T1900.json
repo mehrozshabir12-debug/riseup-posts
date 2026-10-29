@@ -1,1 +1,40 @@
-{"slot": "2026-10-29T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T18:57:47+05:00"}
+{
+ "slot": "2026-10-29T19:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T18:57:47+05:00",
+ "run_finished_pkt": "2026-10-29T19:04:14+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 27 Oct 19:00 .. 30 Oct 07:00 (6h each) plus 18:00-20:00 all read; slot 19:00 free; RiseUp day counts: 3 news feed posts (13:00,14:00,18:00), 3 TikTok",
+  "previous_slot_check": "18:00 slot: feed 410044501 (facebook, tiktok), reel 410044539 (instagram, music Heros Journey - Abby Posner), story 410044567 (facebook, instagram) all PUBLISHED",
+  "news_search": "run fired 18:57 PKT (late); searched latest Pakistan news for 2h-8h windows",
+  "verification": "best candidate (PSX close) had only one approved source with closing figures; no second approved outlet or official PSX page could be reached before the slot deadline (T+15 min)",
+  "image": "not generated (story did not pass verification; no credits spent)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "KSE-100 gains 1,456.68 points (0.88%) to close at 167,193.43 on Thursday (Business Recorder, updated 2026-10-29T16:11:46+05:00)",
+   "reason": "no second approved source confirming the closing figures found in time (Express Tribune piece is intraday +1,136; APP/Tribune pages not fetchable; dps.psx.com.pk unreachable from sandbox)"
+  },
+  {
+   "headline": "Bilawal urges opposition to return to parliamentary committees (Geo News)",
+   "reason": "political statement; second source and timestamp not verified in time"
+  },
+  {
+   "headline": "Mohsin Naqvi says JUI-F sought governor's rule in KP during heated Senate session (Geo News)",
+   "reason": "political claims in a heated session; one-sided, not verified by second outlet"
+  }
+ ],
+ "errors": [
+  "web-fetch: app.com.pk/business and tribune.com.pk/business failed with PROVENANCE_REQUIRED",
+  "curl dawn.com / dps.psx.com.pk: egress proxy connect_rejected"
+ ]
+}
