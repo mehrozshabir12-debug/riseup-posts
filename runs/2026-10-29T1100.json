@@ -1,1 +1,35 @@
-{"slot": "2026-10-29T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T10:47:19+05:00"}
+{
+ "slot": "2026-10-29T11:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T10:47:19+05:00",
+ "run_finished_pkt": "2026-10-29T10:53:25+05:00",
+ "test_mode": false,
+ "outcome": "error_tool_unavailable: WebFetch",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot 11:00 free; windows 10:00-12:00 29 Oct plus 27 Oct 10:00 .. 29 Oct 23:00 (9 six-hour windows) all succeeded; 0 news posts and 0 TikTok posts this RiseUp day",
+  "previous_slot_check": "previous slot 10:00 skipped (no posts); last posts 28 Oct 15:00-21:08 all PUBLISHED on every network",
+  "news_search": "web search ran, but no article could be opened: WebFetch failed for dawn.com, brecorder.com, app.com.pk, arabnews.pk, so no article's own published timestamp could be read",
+  "verification": "impossible without opening articles (runbook forbids snippet dates)",
+  "image": "not generated (no verified story)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Kundi warns Afghan Taliban after Angoor Adda firing (Dawn 2040416)",
+   "reason": "article could not be opened to read timestamp; likely 28 Oct"
+  },
+  {
+   "headline": "Fake MoFA official arrested in Gujrat (Dawn 2040599)",
+   "reason": "article could not be opened; crime story of low public value"
+  }
+ ],
+ "errors": [
+  "WebFetch dawn.com/latest-news, brecorder.com/latest-news, app.com.pk, arabnews.pk: PROVENANCE_REQUIRED: The permission request for this URL was not answered in time"
+ ]
+}
