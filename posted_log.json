@@ -4638,5 +4638,40 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-29",
+  "slot": "2026-10-29T23:00:00+05:00",
+  "request_id": "2026-10-29-psx-launches-shariah-trading-counter",
+  "layout": "bold",
+  "headline": "The Pakistan Stock Exchange launched a Shariah-compliant trading counter on Thursday, with 39 brokers onboarded through Islamic windows and trading limited to Shariah-compliant equities and Islamic instruments.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446529/psx-launches-shariah-compliant-trading-counter",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446529/psx-launches-shariah-compliant-trading-counter",
+    "published_at": "2026-10-29T21:35:29+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-stock-market-launches-shariah-compliant-trading-counter-3005593",
+    "published_at": "2026-10-29T21:56:37+05:00"
+   }
+  ],
+  "published": "2026-10-29T21:35:29+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 408027710,
+  "image": "posts/2026-10-29-psx-launches-shariah-trading-counter.jpg",
+  "story": "posts/2026-10-29-psx-launches-shariah-trading-counter-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-29 23:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-29-psx-launches-shariah-trading-counter.mp4"
  }
 ]
