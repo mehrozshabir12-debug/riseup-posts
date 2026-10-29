@@ -1,1 +1,84 @@
-{"slot": "2026-10-29T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T13:46:56+05:00"}
+{
+ "slot": "2026-10-29T14:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T13:46:56+05:00",
+ "run_finished_pkt": "2026-10-29T13:57:21+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Singapore's Foreign Minister Dr Vivian Balakrishnan will make an official visit to Islamabad on Friday, October 30, at the invitation of Deputy Prime Minister and Foreign Minister Ishaq Dar, the Foreign Office said.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040677/singapore-foreign-minister-to-undertake-official-visit-to-pakistan-on-oct-30",
+    "published_at": "2026-10-29T12:10:35+05:00"
+   },
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/singapore-foreign-minister-to-visit-pakistan-tomorrow-for-talks-disaster-cooperation-accord-3005552",
+    "published_at": "2026-10-29T13:07:05+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-10-29-singapore-fm-balakrishnan-islamabad-visit",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-singapore-fm-balakrishnan-islamabad-visit.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 409817606,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5032081881143723964",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 409817634,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5801159807781745733",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 409817646,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7835376047558050624",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "City Around The Corner - The Poison Oaks",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 13:00-15:00 had only the 13:00 slot posts (none at 14:00); 11 windows 27 Oct 13:00 .. 30 Oct 02:00 all succeeded; 1 news / 1 TikTok post this RiseUp day before this one",
+  "previous_slot_check": "13:00 slot: feed 409773800 FB+TikTok PUBLISHED (https://facebook.com/122185478282855502/posts/122188108154855502, https://www.tiktok.com/@riseuppakistan2025/video/7701997303804038408), Reel 409773824 PUBLISHED (https://www.instagram.com/reel/DfEiLmkkvt0/), Story 409773832 FB+IG PUBLISHED",
+  "news_search": "web search + Dawn/Arab News/Business Recorder/Tribune article pages; dawn.com/latest-news blocked (PROVENANCE_REQUIRED)",
+  "verification": "Dawn 12:10 PKT (first report, FO statement) + Arab News 13:07 PKT agree: Dr Vivian Balakrishnan, official visit to Islamabad Friday Oct 30, invitation of DPM/FM Ishaq Dar, NDMA-SCDF disaster management MoU to be exchanged, 60th anniversary of ties. Not a duplicate of last 48h.",
+  "image": "nano-banana-2-lite 4:3, 1 attempt, ok (no readable text, no public figures)",
+  "publish": "feed (FB+TikTok) 14:01, IG Reel 14:01 with music audioType=music The Poison Oaks, Story 14:06; all PENDING; card and reel checked"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PSX KSE-100 gains nearly 1,600 points intraday (Business Recorder 11:14)",
+   "reason": "intraday figure, changes before posting; PSX closing story posted yesterday"
+  },
+  {
+   "headline": "Pakistan, Qatar close to revised LNG deal (Express Tribune 06:03 PKT)",
+   "reason": "based on sources, conflicting price figures in article; older"
+  },
+  {
+   "headline": "Pakistan grants Taiwanese airlines airspace access (Arab News/AP 09:33)",
+   "reason": "older, sensitive diplomatic ambiguity; single wire source"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.dawn.com/latest-news: PROVENANCE_REQUIRED: The permission request for this URL was not answered in time",
+  "add_repo tool not available in this session; used the pre-cloned repo"
+ ]
+}

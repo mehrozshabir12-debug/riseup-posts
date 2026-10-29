@@ -1,0 +1,30 @@
+{
+ "id": "2026-10-29-singapore-fm-balakrishnan-islamabad-visit",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 409817606,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "publicationDate": "2026-10-29T14:01:00+05:00"
+  },
+  "reel": {
+   "metricool_id": 409817634,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-10-29T14:01:00+05:00",
+   "music": "City Around The Corner - The Poison Oaks (audioType music)"
+  },
+  "story": {
+   "metricool_id": 409817646,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-10-29T14:06:00+05:00"
+  }
+ }
+}
