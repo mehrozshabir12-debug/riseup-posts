@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-29-psx-launches-shariah-trading-counter",
+ "type": "news",
+ "headline": "The Pakistan Stock Exchange launched a Shariah-compliant trading counter on Thursday, with 39 brokers onboarded through Islamic windows and trading limited to Shariah-compliant equities and Islamic instruments.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Business Recorder", "url": "https://www.brecorder.com/news/40446529/psx-launches-shariah-compliant-trading-counter", "published_at": "2026-10-29T21:35:29+05:00"},
+  {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/pakistan-stock-market-launches-shariah-compliant-trading-counter-3005593", "published_at": "2026-10-29T21:56:37+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/30b87cff-4053-4892-8406-e8b03539f99b/3aac53e7-cf7c-4830-8069-746225ce6046/Realistic_documentary_photograph_of_a_modern_stock_exchange_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMTE5YTU4Y2RkZjllMTM1MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzQxNzU0OX0.aGWob2cyK-7IG1ACDKU5wh-pPNBMcvW8Fyzj6KJjKpc",
+  "head1": "PSX Launches",
+  "head2_hl": "Shariah",
+  "head2": "Counter",
+  "kicker": "39 Brokers Via Islamic Windows",
+  "desc": "Only Shariah-compliant stocks; no short selling or derivatives.",
+  "source": "Business Recorder, Arab News",
+  "date": "29 OCT 2026"
+ },
+ "caption": "The Pakistan Stock Exchange launched a Shariah-compliant trading counter on Thursday, with 39 brokers onboarded through Islamic windows, Business Recorder reports. Trading is limited to Shariah-compliant equities and Islamic instruments, and short selling and derivatives are not permitted, Arab News adds.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #IslamicFinance #StockMarket #PakistanEconomy",
+ "tiktok_title": "PSX launches Shariah-compliant trading counter with 39 brokers onboard",
+ "publish": {"slot": "2026-10-29T23:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "757785052896581", "label": "Sunday In October - Trout Recording"},
+ "ai_generated": true
+}
