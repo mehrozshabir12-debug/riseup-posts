@@ -1,1 +1,41 @@
-{"slot": "2026-10-29T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T21:47:24+05:00"}
+{
+ "slot": "2026-10-29T22:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T21:47:24+05:00",
+ "run_finished_pkt": "2026-10-29T21:53:47+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 21:00-23:00 empty (22:00 free); 6h windows 27 Oct 21:00 .. 30 Oct 09:50 all read; RiseUp day counts: 3 news feed posts (13:00,14:00,18:00), 3 TikTok",
+  "previous_slot_check": "21:00, 20:00, 19:00 slots skipped (no posts); 18:00 feed 410044501 (facebook, tiktok), reel 410044539 (instagram), story 410044567 (facebook, instagram) all PUBLISHED",
+  "news_search": "web searches for 29 Oct Pakistan evening news; approved-domain filtered search rejected by proxy; Dawn articles opened for timestamps",
+  "verification": "no candidate first reported within 8 h before T (after 14:00 PKT) with two approved sources",
+  "image": "not generated (no story passed; no credits spent)",
+  "publish": "none"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Death toll from Thar ambulance fire rises to nine (Dawn, published 2026-10-29T12:55:03+05:00, updated 13:04)",
+   "reason": "older than 8 h before T"
+  },
+  {
+   "headline": "ATC sentences Imaan Mazari and Hadi Ali Chattha to 10 years in security breach case (Dawn, published 2026-10-29T13:17:54+05:00, updated 15:05)",
+   "reason": "first reported 8h43m before T (outside 8 h rule); sensitive political/legal case; second approved source not verified"
+  },
+  {
+   "headline": "PM approves expansion of Lahore and Karachi airports",
+   "reason": "duplicate: posted at 18:00 slot (Metricool 410044501)"
+  }
+ ],
+ "errors": [
+  "WebSearch with allowed_domains: PROXY_REJECTED (HTTP 400): The request was invalid",
+  "web-fetch https://www.dawn.com/latest-news: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "add_repo tool not available in this session; repo already in scope and cloned"
+ ]
+}
