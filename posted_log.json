@@ -4512,10 +4512,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-29 13:02 PKT",
+  "scheduled": true,
   "music": "Drift Away (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-29-hafizabad-bus-drain-five-killed.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 409773800,
+   "reel": 409773824,
+   "story": 409773832
+  },
+  "video": "posts/2026-10-29-hafizabad-bus-drain-five-killed.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
