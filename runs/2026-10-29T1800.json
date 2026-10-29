@@ -1,1 +1,73 @@
-{"slot": "2026-10-29T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-29T17:56:16+05:00"}
+{
+ "slot": "2026-10-29T18:00:00+05:00",
+ "riseup_day": "2026-10-29",
+ "run_started_pkt": "2026-10-29T17:56:16+05:00",
+ "run_finished_pkt": "2026-10-29T18:01:27+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "3h",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif on Thursday approved the expansion of Lahore and Karachi airports under their master plans, as officials said the runway expansion at Karachi's Jinnah International Airport has been completed.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446499/pm-approves-lahore-karachi-airport-expansion",
+    "published_at": "2026-10-29T15:15:07+05:00"
+   },
+   {
+    "outlet": "Geo News (APP)",
+    "url": "https://www.geo.tv/latest/688828-pm-approves-expansion-of-lahore-karachi-airports-orders-international-standards",
+    "published_at": "2026-10-29T17:49:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-29-lahore-karachi-airports-expansion",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-29-lahore-karachi-airports-expansion.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 410044501,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7957552184052958919",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 410044539,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5299854042924599622",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 410044567,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5221775055687073842",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Heros Journey (Instrumental) - Abby Posner",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 27 Oct 18:00 .. 30 Oct 06:00 plus 17:00-19:00 all read; slot 18:00 free; RiseUp day counts before this post: 2 news feed posts, 2 TikTok; no prior airport story in 48h",
+  "previous_slot_check": "17:00, 16:00, 15:00 slots skipped (no posts); 14:00 posts (409817606/634/646) and 13:00 posts all PUBLISHED",
+  "news_search": "web search; Business Recorder 40446499 published 29 Oct 15:15:07 PKT (main source); Geo News 688828 (APP byline) 17:49 PKT",
+  "verification": "ok: Business Recorder (BR Web Desk) + Geo News (APP) - two different approved outlets agree: PM approved Lahore/Karachi airport expansion under master plans; Karachi Jinnah Intl runway expansion completed; CAA activated/made operational 14 airports",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, no text/logos/real people",
+  "publish": "run fired 17:55 PKT (after T-5), so per section 0 feed+Reel scheduled at 18:07 and Story 18:12 (renderer suggested 18:05/18:10, under 5 min from NOW); card and Reel frame checked; Reel audioType music, displayArtist Abby Posner"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Asif statement on regional peace / Fazl defence pact remarks",
+   "reason": "political back-and-forth, not chosen"
+  }
+ ],
+ "errors": []
+}
