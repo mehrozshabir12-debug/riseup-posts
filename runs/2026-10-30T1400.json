@@ -1,1 +1,22 @@
-{"slot": "2026-10-30T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T13:47:21+05:00"}
+{"slot": "2026-10-30T14:00:00+05:00", "riseup_day": "2026-10-30", "run_started_pkt": "2026-10-30T13:47:21+05:00", "run_finished_pkt": "2026-10-30T13:51:34+05:00",
+ "test_mode": false, "outcome": "scheduled",
+ "story": {"headline": "Haleon Pakistan has started manufacturing Panadol 500mg tablets at its Jamshoro facility in Sindh, the company told the Pakistan Stock Exchange on Friday.",
+   "sources": [{"outlet": "Business Recorder", "url": "https://www.brecorder.com/news/40446659/haleon-pakistan-starts-local-manufacturing-of-panadol-500mg-tablets-in-sindh", "published_at": "2026-10-30T10:25:16+05:00"}]},
+ "freshness_window": "4h",
+ "request_id": "2026-10-30-haleon-panadol-local-manufacturing-jamshoro",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-haleon-panadol-local-manufacturing-jamshoro.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok"}],
+ "metricool": {"feed": {"id": 410949759, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=966191126544597269", "networks": {"facebook": "PENDING", "tiktok": "PENDING"}},
+               "reel": {"id": 410949795, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8456029394809699083", "networks": {"instagram": "PENDING"}},
+               "story": {"id": 410949812, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4109061569912158199", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}},
+ "music": "Simple Pleasures (Reels Sound - Photo Dump) - Alex Blue",
+ "stages": {"metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot 13:00-15:00 empty; all 6h windows 28 Oct 13:00 .. 31 Oct 02:00 read OK; RiseUp day 30 Oct counts before this post: 0 news, 0 TikTok",
+            "previous_slot_check": "13:00 slot had no post (previous run error_tool_unavailable: web-fetch); nothing to verify/retry. Last posts 29 Oct 23:00/23:05 all PUBLISHED.",
+            "news_search": "web search (approved outlets) then fetched 3 articles via web-fetch: all opened OK. Chosen Business Recorder 10:25 PKT story (4h window).",
+            "verification": "1 approved outlet (Business Recorder), article timestamp 2026-10-30T10:25:16+05:00 read from article meta; Jamshoro, Panadol 500mg, PSX notice, beacon engraving, quality/efficacy unchanged checked against article",
+            "image": "Runway nano-banana-2-lite 4:3, 1 image, no text/logos/public figures; task 738ca647-598c-417d-a6c2-a551010dd56f",
+            "publish": "results awaiting_publish; feed card and zoom MP4 (8 s, h264+aac) checked; feed FB+TikTok, IG Reel, FB+IG Story created from payloads; Reel audioType music, displayArtist Alex Blue; all providers PENDING"},
+ "skipped_candidates": [
+   {"headline": "Singapore FM arrives in Islamabad for talks with Dar (Express Tribune 30 Oct 11:50 PKT)", "reason": "duplicate: visit already posted 29 Oct 14:01"},
+   {"headline": "SBP launches SMEConnect portal (Business Recorder 30 Oct 05:43 PKT)", "reason": "older than 8 h before T"}],
+ "errors": ["add_repo tool not available in this session; repo already in scope and cloned", "no trending Reels track confirmed as audioType music; used VERIFIED MUSIC LIST id 1131479132514825"]}
