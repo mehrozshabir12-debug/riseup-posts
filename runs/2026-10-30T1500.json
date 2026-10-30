@@ -1,1 +1,83 @@
-{"slot": "2026-10-30T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T14:46:59+05:00"}
+{
+ "slot": "2026-10-30T15:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T14:46:59+05:00",
+ "run_finished_pkt": "2026-10-30T14:52:41+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan has approved a tax-neutral bonded policy allowing Saudi companies to set up commercial oil reserves in the country; the new Saudi Ambassador announced same-day visa processing for Pakistanis.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446679/pakistan-offers-tax-free-oil-storage-facilities-to-ksa",
+    "published_at": "2026-10-30T14:23:39+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 410999661,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3917824095942456788",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 410999933,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6436938605233618609",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411000022,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4641792324517643455",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot 14:00-16:00 had no post at 15:00; all 6h windows 28 Oct 14:47 .. 31 Oct 02:47 read OK; RiseUp day 30 Oct counts before this post: 1 news, 1 TikTok",
+  "previous_slot_check": "14:00 feed 410949759 FB PUBLISHED https://facebook.com/122185478282855502/posts/122188255646855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7702384114153868596; Reel 410949795 PUBLISHED https://www.instagram.com/reel/DfHOJCAiD3r/; Story 410949812 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "web search on approved outlets, then web-fetch of 4 articles (all opened). Chosen Business Recorder 14:23 PKT story (2h window).",
+  "verification": "1 approved outlet (Business Recorder), meta published 2026-10-30T14:23:39+05:00, modified 14:36:03+05:00; tax-neutral bonded policy, Saudi commercial oil reserves, Minister Ali Pervaiz Malik, new Saudi Ambassador, same-day visa processing for Pakistani citizens at Embassy in Islamabad checked against article text",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, no readable text/logos/public figures; task f63419ef-137b-412b-b728-f29c8245e9f5",
+  "publish": "results awaiting_publish; feed card and zoom MP4 (8 s, 1080x1920, h264+aac) checked; feed FB+TikTok, IG Reel, FB+IG Story created from payloads; Reel audioType music, displayArtist Trout Recording; all providers PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan scraps Umrah vaccine contract, three officials arrested (Arab News 13:28 PKT)",
+   "reason": "key facts rest on an unnamed senior health official; arrests/procurement probe"
+  },
+  {
+   "headline": "Pakistan exports rise 7.7% in Q1 FY27 (Arab News 12:12 PKT)",
+   "reason": "less fresh (3h) and quarterly figures already reported earlier in the month"
+  },
+  {
+   "headline": "AdalFi plans PSX IPO next month (Business Recorder 13:16 PKT)",
+   "reason": "based on a Bloomberg report; lower relevance to ordinary people"
+  },
+  {
+   "headline": "Singapore, Pakistan FMs hold talks in Islamabad (Arab News)",
+   "reason": "duplicate: visit already posted 29 Oct 14:01"
+  }
+ ],
+ "errors": [
+  "add_repo tool not available in this session; repo already in scope and cloned",
+  "no trending Reels track confirmed as audioType music; used VERIFIED MUSIC LIST id 757785052896581"
+ ]
+}
