@@ -1,1 +1,34 @@
-{"slot": "2026-10-30T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T11:49:18+05:00"}
+{
+ "slot": "2026-10-30T12:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T11:49:30+05:00",
+ "run_finished_pkt": "2026-10-30T11:55:39+05:00",
+ "test_mode": false,
+ "outcome": "error_tool_unavailable: web-fetch",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 11:00-13:00 empty; 6h windows 28 Oct 11:00 .. 31 Oct 00:30 all read; RiseUp day 2026-10-30 counts: 0 news feed posts, 0 TikTok",
+  "previous_slot_check": "11:00 slot had no post (previous run skipped_no_fresh_verified_news); last posts 29 Oct 23:00 feed 410372193, reel 410372232, story 410372257 all PUBLISHED",
+  "news_search": "web search ok (only Singapore FM visit day-of items and newspaper index pages surfaced); article pages could not be opened, so no main-source timestamp could be read from any article",
+  "verification": "impossible without reading article pages (runbook section 2 requires the article's own timestamp)",
+  "image": "not generated (order rule)",
+  "publish": "nothing created",
+  "fallback": "showbiz not attempted: same web-fetch failure blocks timestamp verification"
+ },
+ "skipped_candidates": [
+  {"headline": "Singapore FM Vivian Balakrishnan's official visit to Islamabad (30 Oct)", "reason": "visit announcement already posted 29 Oct 14:01; outcome of talks not verifiable (article pages unreadable)"}
+ ],
+ "errors": [
+  "web-fetch https://www.dawn.com/latest-news: PROVENANCE_REQUIRED, The permission request for this URL was not answered in time.",
+  "web-fetch https://www.brecorder.com/latest-news: PROVENANCE_REQUIRED, The permission request for this URL was not answered in time.",
+  "web-fetch https://tribune.com.pk/latest: PROVENANCE_REQUIRED, The permission request for this URL was not answered in time.",
+  "web-fetch https://www.arabnews.pk/taxonomy/term/1/all: PROVENANCE_REQUIRED, The permission request for this URL was not answered in time.",
+  "web-fetch https://www.app.com.pk/national/: PROVENANCE_REQUIRED, The permission request for this URL was not answered in time.",
+  "add_repo tool not available in this session; repo already in scope and cloned"
+ ]
+}
