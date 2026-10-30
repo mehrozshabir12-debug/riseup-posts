@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-30-senate-bill-quarterly-gas-pricing",
+ "type": "news",
+ "headline": "The Ogra (Amendment) Bill, 2026, introduced in the Senate on Friday, proposes quarterly revision of gas sale prices, with no public hearing for these revisions, Dawn reports.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2040979/bill-proposing-quarterly-gas-pricing-lands-in-senate",
+   "published_at": "2026-10-30T18:50:25+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/7dab52d4-1b22-4024-9311-4f92e32acd0b/98bc92f3-483d-419c-9bb3-af4c10ab2394/Realistic_photo_of_a_modest_Pakistani_home_kitchen_in_the_ev.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmVmNjk5MGY1ZmFlZWYzNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzUyNDg3OX0._H_EEeaK4g1uxhyE4GXF6aaym91wptZgEbpvdVlYF70",
+  "head1": "Gas price bill",
+  "head2_hl": "in Senate",
+  "head2": "",
+  "kicker": "Quarterly price revisions proposed",
+  "desc": "Ogra amendment bill seeks quarterly gas prices without public hearings.",
+  "source": "Dawn",
+  "date": "30 OCT 2026"
+ },
+ "caption": "A bill introduced in the Senate on Friday proposes revising gas prices every quarter, Dawn reports. Under the Ogra (Amendment) Bill, 2026, the federal government would advise sale prices for each consumer category within 30 days of Ogra's advice, and no public hearing would be held for these revisions.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GasPrices #Ogra #Senate #PakistanNews",
+ "tiktok_title": "Senate bill proposes quarterly gas price revisions without public hearings",
+ "publish": {
+  "slot": "2026-10-30T20:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "836981678209890",
+  "label": "I'll Always Be Around - Alex Blue"
+ },
+ "ai_generated": true
+}
