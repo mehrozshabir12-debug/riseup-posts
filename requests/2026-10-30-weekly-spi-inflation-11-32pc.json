@@ -1,0 +1,25 @@
+{
+ "id": "2026-10-30-weekly-spi-inflation-11-32pc",
+ "type": "news",
+ "headline": "Pakistan's short-term inflation (SPI) stood at 11.32 per cent year-on-year in the week ending October 29, while the index fell 0.35 per cent week-on-week, according to PBS data reported by Dawn.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2040950/short-term-inflation-rises-to-1132pc-in-last-week-of-october-driven-by-perishable-food-prices", "published_at": "2026-10-30T15:35:33+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/3edc73cb-9b9e-4f34-820b-550bbdec863f/2d832da8-556b-485f-8bf5-1d44bce73d73/Realistic_photo_of_a_busy_vegetable_market_stall_in_a_Pakist.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNWYyOWZiZDA1ZTMzODAxNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzQ5MjU2MH0.EAD5V5roqNfLiI1-46cEgM5wd4j-3Xy1GR-_qRxPHZ4",
+  "head1": "Weekly Inflation",
+  "head2_hl": "11.32%",
+  "head2": "",
+  "kicker": "Tomatoes up 34.91% in a week",
+  "desc": "SPI fell 0.35% week-on-week; LPG up 106.86% year-on-year.",
+  "source": "Dawn",
+  "date": "30 OCT 2026"
+ },
+ "caption": "Short-term inflation (SPI) stood at 11.32% year-on-year in the week ending October 29, down from 11.85% the previous week, Dawn reports citing PBS data. The index fell 0.35% week-on-week, but tomatoes rose 34.91%, while chicken and eggs got cheaper.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Inflation #SPI #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Weekly inflation at 11.32% year-on-year; tomatoes up 34.91% in a week",
+ "publish": {"slot": "2026-10-30T16:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "810120545333296", "label": "Iced Latte - Global Genius"},
+ "ai_generated": true
+}
