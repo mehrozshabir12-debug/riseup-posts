@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-30-gold-price-falls-rs5100-per-tola",
+ "type": "news",
+ "headline": "Gold price in Pakistan fell by Rs5,100 to Rs420,536 per tola on Friday, according to APGJSA rates reported by Business Recorder.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446688/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+   "published_at": "2026-10-30T16:19:31+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/ea5a912d-f080-45c2-868c-143253c9a56e/6f901638-4a1b-4bcc-9d65-3da032d8093f/Realistic_photo_inside_a_traditional_jewellery_shop_in_a_bus.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMDJhYWVjN2Q4YzQ3MDI0MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzQ5MjA5M30.WoBmuE3Dv_cYN-p1ObES06pgINc4mIVeR25z8ySef1M",
+  "head1": "Gold price falls",
+  "head2_hl": "Rs5,100",
+  "head2": "per tola",
+  "kicker": "Tola now at Rs420,536",
+  "desc": "10-gram gold fell Rs4,373; international rate down $51 to $3,980.",
+  "source": "Business Recorder",
+  "date": "30 OCT 2026"
+ },
+ "caption": "Gold prices in Pakistan fell by Rs5,100 on Friday to Rs420,536 per tola, Business Recorder reports, citing rates from the All-Pakistan Gems and Jewellers Sarafa Association. 10-gram gold dropped Rs4,373 to Rs360,541, while the international rate fell $51 to $3,980 per ounce and silver slipped Rs238 to Rs5,530 per tola.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #GoldRate #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Gold falls Rs5,100 per tola in Pakistan, now Rs420,536",
+ "publish": {
+  "slot": "2026-10-30T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "614418411270205",
+  "label": "A Little Love Song - Alex Blue"
+ },
+ "ai_generated": true
+}
