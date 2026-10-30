@@ -1,1 +1,68 @@
-{"slot": "2026-10-31T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T23:46:50+05:00"}
+{
+ "slot": "2026-10-31T00:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T23:46:50+05:00",
+ "run_finished_pkt": "2026-10-30T23:51:19+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan's military spokesman, ISPR Director General Lt Gen Ahmed Sharif Chaudhry, said on Friday that Pakistan is cautiously optimistic about its mediation between Iran and the United States, Dawn reports citing Reuters.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041000/dg-ispr-says-pakistan-cautiously-optimistic-on-us-iran-mediation",
+    "published_at": "2026-10-30T23:19:54+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-30-ispr-cautiously-optimistic-us-iran-mediation",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-ispr-cautiously-optimistic-us-iran-mediation.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411566299,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1783092016109959216",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411566328,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8435161927160384261",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411566358,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=243314259926925852",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Slow Living - stereogully",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. All windows 28 Oct 23:00 - 31 Oct 12:00 read OK; slot 00:00 free; RiseUp day 30 Oct: 9 news feed posts before this, 7 with TikTok (this is 8th).",
+  "previous_slot_check": "23:00 slot (Dar/Israeli settlements): feed 411514991 FB PUBLISHED, reel 411515048 IG PUBLISHED https://www.instagram.com/reel/DfIL6ZYE2qW/, story 411515067 FB+IG PUBLISHED. No errors.",
+  "news_search": "Dawn search; DG ISPR US-Iran mediation (Dawn 23:19 PKT, 2h window) chosen. Not covered in last 48h.",
+  "verification": "Dawn article (Reuters) read via fetch: published 2026-10-30 23:19:54+05:00, modified 23:21:49+05:00; names and facts checked.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, ok (no text/people/logos).",
+  "publish": "Card and zoom MP4 (8s) checked visually. Feed, Reel, Story created; Reel audioType music, displayArtist stereogully."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Over 30 shops gutted in fire at Karachi Gulistan-i-Jauhar furniture market (Dawn 20:45)",
+   "reason": "older (4h window); newer 2h story available"
+  }
+ ],
+ "errors": []
+}
