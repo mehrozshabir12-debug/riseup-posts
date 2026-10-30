@@ -4925,5 +4925,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T20:00:00+05:00",
+  "request_id": "2026-10-30-senate-bill-quarterly-gas-pricing",
+  "layout": "bold",
+  "headline": "The Ogra (Amendment) Bill, 2026, introduced in the Senate on Friday, proposes quarterly revision of gas sale prices, with no public hearing for these revisions, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2040979/bill-proposing-quarterly-gas-pricing-lands-in-senate",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040979/bill-proposing-quarterly-gas-pricing-lands-in-senate",
+    "published_at": "2026-10-30T18:50:25+05:00"
+   }
+  ],
+  "published": "2026-10-30T18:50:25+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 534767704,
+  "image": "posts/2026-10-30-senate-bill-quarterly-gas-pricing.jpg",
+  "story": "posts/2026-10-30-senate-bill-quarterly-gas-pricing-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 20:00 PKT",
+  "music": "I'll Always Be Around - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-senate-bill-quarterly-gas-pricing.mp4"
  }
 ]
