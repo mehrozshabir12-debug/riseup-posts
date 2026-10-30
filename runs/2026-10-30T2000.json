@@ -1,1 +1,76 @@
-{"slot": "2026-10-30T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T19:33:51+05:00"}
+{
+ "slot": "2026-10-30T20:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T19:33:51+05:00",
+ "run_finished_pkt": "2026-10-30T19:39:00+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The Ogra (Amendment) Bill, 2026, introduced in the Senate on Friday, proposes quarterly revision of gas sale prices, with no public hearing for these revisions, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040979/bill-proposing-quarterly-gas-pricing-lands-in-senate",
+    "published_at": "2026-10-30T18:50:25+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-30-senate-bill-quarterly-gas-pricing",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-senate-bill-quarterly-gas-pricing.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411299015,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4607769467537571398",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411299069,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8800920333460916964",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411299094,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7440518905361614263",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "I'll Always Be Around - Alex Blue",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. All 11 windows (T-1h..T+1h and 28 Oct 19:33..31 Oct 07:33) read OK. No post at 20:00. RiseUp day 30 Oct: 5 news feed posts, 5 with TikTok.",
+  "previous_slot_check": "No posts exist at 19:00 (no 19:00 run log either; slot was not posted). 18:00 slot (411187908/411187952/411187981): all networks PUBLISHED.",
+  "news_search": "Newest qualifying in 2h window: Dawn gas pricing bill 18:50 PKT. Singapore FM visit skipped as same event as 29 Oct 14:00 post.",
+  "verification": "Single approved outlet (Dawn), article meta published 2026-10-30 18:50:25+05:00; all facts checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, ok (no text/faces/logos).",
+  "publish": "Feed+Reel+Story created; Reel audioType music, displayArtist Alex Blue; card and MP4 checked."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "ABHI Microfinance Bank IPO next month (Arab News 18:49 PKT)",
+   "reason": "fresh, but second fintech IPO story of the day after AdalFi; gas pricing more relevant to ordinary people"
+  },
+  {
+   "headline": "Pakistan, Singapore discuss resuming direct flights (Brecorder 12:36 PKT)",
+   "reason": "same Singapore FM visit already covered 29 Oct; older than 2h"
+  },
+  {
+   "headline": "Umrah vaccine contract scrapped (Arab News 13:28 PKT)",
+   "reason": "outside 2h window; fresher story available"
+  }
+ ],
+ "errors": []
+}
