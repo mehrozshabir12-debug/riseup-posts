@@ -1,0 +1,34 @@
+{
+ "id": "2026-10-30-haleon-panadol-local-manufacturing-jamshoro",
+ "type": "news",
+ "headline": "Haleon Pakistan has started manufacturing Panadol 500mg tablets at its Jamshoro facility in Sindh, the company told the Pakistan Stock Exchange on Friday.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446659/haleon-pakistan-starts-local-manufacturing-of-panadol-500mg-tablets-in-sindh",
+   "published_at": "2026-10-30T10:25:16+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/738ca647-598c-417d-a6c2-a551010dd56f/160140d8-88a7-4f9b-8e5d-938d2dc1c42d/Realistic_photo_inside_a_clean_modern_pharmaceutical_factory.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMGM0MGJjNjYwNzgxZjBiYSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzUxNDcyNn0.bV_vmaVlZT7dFodHzSv5E0m6WkcGHtXLRtlK4mrd9Bo",
+  "head1": "Panadol Now Made",
+  "head2_hl": "In Sindh",
+  "head2": "",
+  "kicker": "Jamshoro Plant Starts Production",
+  "desc": "Tablets get a beacon engraving; quality and efficacy unchanged.",
+  "source": "Business Recorder",
+  "date": "30 OCT 2026"
+ },
+ "caption": "Haleon Pakistan has started manufacturing Panadol 500mg tablets at its Jamshoro facility in Sindh, the company told the Pakistan Stock Exchange on Friday, Business Recorder reports. The locally made tablets carry a beacon engraving instead of the 'Panadol' text, and the company says quality and efficacy are unchanged.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Panadol #MadeInPakistan #Sindh #PakistanNews",
+ "tiktok_title": "Panadol 500mg tablets now made locally at Haleon's Jamshoro plant in Sindh",
+ "publish": {
+  "slot": "2026-10-30T14:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "1131479132514825", "label": "Simple Pleasures - Alex Blue"},
+ "ai_generated": true
+}
