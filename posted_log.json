@@ -4997,10 +4997,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-30 21:00 PKT",
+  "scheduled": "2026-10-30T21:00:00+05:00",
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-30-agha-perfect-game-tri-series-final.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 411360539,
+   "reel": 411360616,
+   "story": 411360645
+  },
+  "video": "posts/2026-10-30-agha-perfect-game-tri-series-final.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
