@@ -4972,5 +4972,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T21:00:00+05:00",
+  "request_id": "2026-10-30-agha-perfect-game-tri-series-final",
+  "layout": "bold",
+  "headline": "Pakistan captain Salman Ali Agha says the team has not yet played its 'perfect game' and hopes the top order delivers in Saturday's ODI tri-series final against Sri Lanka at Gaddafi Stadium, Lahore, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2040986/salman-ali-agha-hopes-pakistan-top-order-turns-up-in-tri-series-final-seeks-perfect-game",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040986/salman-ali-agha-hopes-pakistan-top-order-turns-up-in-tri-series-final-seeks-perfect-game",
+    "published_at": "2026-10-30T19:27:46+05:00"
+   }
+  ],
+  "published": "2026-10-30T19:27:46+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 474480409,
+  "image": "posts/2026-10-30-agha-perfect-game-tri-series-final.jpg",
+  "story": "posts/2026-10-30-agha-perfect-game-tri-series-final-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 21:00 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-agha-perfect-game-tri-series-final.mp4"
  }
 ]
