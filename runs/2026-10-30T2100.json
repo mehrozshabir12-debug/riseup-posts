@@ -1,1 +1,83 @@
-{"slot": "2026-10-30T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T20:29:37+05:00"}
+{
+ "slot": "2026-10-30T21:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T20:29:37+05:00",
+ "run_finished_pkt": "2026-10-30T20:35:44+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan captain Salman Ali Agha says the team has not yet played its 'perfect game' and hopes the top order delivers in Saturday's ODI tri-series final against Sri Lanka at Gaddafi Stadium, Lahore, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040986/salman-ali-agha-hopes-pakistan-top-order-turns-up-in-tri-series-final-seeks-perfect-game",
+    "published_at": "2026-10-30T19:27:46+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-30-agha-perfect-game-tri-series-final",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-agha-perfect-game-tri-series-final.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411360539,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4684773597281927773",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411360616,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7104204778661691932",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411360645,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3924118999813147055",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. T-1h..T+1h and 10 six-hour windows (28 Oct 20:30 .. 31 Oct 08:30) all read OK. No post at 21:00. RiseUp day 30 Oct before this slot: 6 news feed posts, 6 with TikTok.",
+  "previous_slot_check": "20:00 slot: feed 411299015 FB PUBLISHED https://facebook.com/122185478282855502/posts/122188305524855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7702477885466021126; Reel 411299069 IG PUBLISHED https://www.instagram.com/reel/DfH3i_GEWfb/; Story 411299094 FB+IG PUBLISHED. No errors.",
+  "news_search": "2h window (after 19:00 PKT): Dawn Salman Agha tri-series final presser 19:27 chosen (cricket, ordinary-people interest); BR corporate debt Rs291bn 19:18 also eligible but less relevant to ordinary readers. Not a duplicate of last 48h.",
+  "verification": "Single approved outlet (Dawn), article meta published 2026-10-30T19:27:46+05:00; names, venue (Gaddafi Stadium, Lahore), opponent (Sri Lanka) and day (Saturday) checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, ok (stadium at dusk, anonymous groundsman, no text/logos/faces).",
+  "publish": "Pipeline skipped TikTok (pacing: 6 by 21:00 allowed). Feed (FB) + Reel (IG, audioType music, displayArtist Jackson Whalan) + Story (FB+IG 21:05) created, all PENDING; card and 8s zoom MP4 checked."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Corporate debt issuance reaches Rs291bn in Jan-Sept 2026 (BR 19:18)",
+   "reason": "eligible but less relevant to ordinary readers than cricket final"
+  },
+  {
+   "headline": "11 fishermen released from Indian captivity reunite with families (Dawn 18:29)",
+   "reason": "3h window; a fresher 2h-window story exists"
+  },
+  {
+   "headline": "SBP reserves rise $33mn to $21.52bn (BR 29 Oct 19:21)",
+   "reason": "older than 8h"
+  },
+  {
+   "headline": "Pakistan beat India in Hong Kong Sixes (Tribune 12:52 PKT)",
+   "reason": "older than 2h window; fresher story available"
+  },
+  {
+   "headline": "Karachi furniture market fire (Tribune 16:43 PKT)",
+   "reason": "older window; fresher story available"
+  }
+ ],
+ "errors": []
+}
