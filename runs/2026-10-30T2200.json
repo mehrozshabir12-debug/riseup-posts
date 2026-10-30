@@ -72,5 +72,16 @@
    "reason": "older than 8h before T"
   }
  ],
- "errors": []
+ "errors": [],
+ "later_runs": [
+  {
+   "run_started_pkt": "2026-10-30T21:54:59+05:00",
+   "run_finished_pkt": "2026-10-30T21:57:30+05:00",
+   "trigger": "trig_01GNY4xYYQm2HocRaux5f71Q (fired 16:54:44 UTC, scheduled 16:45 UTC)",
+   "outcome": "skipped_slot_taken",
+   "note": "getScheduledPosts 21:55-22:10 PKT shows feed 411422747 (FB+TikTok PENDING), Reel 411422789 (IG PENDING, audioType music, City Around The Corner - The Poison Oaks) and Story 411422805 (FB+IG PENDING 22:05) for slot 22:00. No image generated, no request, no new posts. Run log appended instead of overwritten to keep the scheduled outcome.",
+   "music": "none",
+   "errors": []
+  }
+ ]
 }
