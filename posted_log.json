@@ -4784,5 +4784,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T16:00:00+05:00",
+  "request_id": "2026-10-30-weekly-spi-inflation-11-32pc",
+  "layout": "bold",
+  "headline": "Pakistan's short-term inflation (SPI) stood at 11.32 per cent year-on-year in the week ending October 29, while the index fell 0.35 per cent week-on-week, according to PBS data reported by Dawn.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2040950/short-term-inflation-rises-to-1132pc-in-last-week-of-october-driven-by-perishable-food-prices",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040950/short-term-inflation-rises-to-1132pc-in-last-week-of-october-driven-by-perishable-food-prices",
+    "published_at": "2026-10-30T15:35:33+05:00"
+   }
+  ],
+  "published": "2026-10-30T15:35:33+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 105454268,
+  "image": "posts/2026-10-30-weekly-spi-inflation-11-32pc.jpg",
+  "story": "posts/2026-10-30-weekly-spi-inflation-11-32pc-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 16:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-weekly-spi-inflation-11-32pc.mp4"
  }
 ]

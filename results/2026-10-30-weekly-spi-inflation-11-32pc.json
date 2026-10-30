@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-30-weekly-spi-inflation-11-32pc",
+ "revision": 1,
+ "request": "requests/2026-10-30-weekly-spi-inflation-11-32pc.json",
+ "type": "news",
+ "headline": "Pakistan's short-term inflation (SPI) stood at 11.32 per cent year-on-year in the week ending October 29, while the index fell 0.35 per cent week-on-week, according to PBS data reported by Dawn.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-30T16:00:00+05:00",
+ "target_slot": "2026-10-30T16:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-weekly-spi-inflation-11-32pc.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-weekly-spi-inflation-11-32pc-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-weekly-spi-inflation-11-32pc.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-30-weekly-spi-inflation-11-32pc.jpg",
+  "story": "posts/2026-10-30-weekly-spi-inflation-11-32pc-story.jpg",
+  "reel": "posts/2026-10-30-weekly-spi-inflation-11-32pc.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 105454268,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Short-term inflation (SPI) stood at 11.32% year-on-year in the week ending October 29, down from 11.85% the previous week, Dawn reports citing PBS data. The index fell 0.35% week-on-week, but tomatoes rose 34.91%, while chicken and eggs got cheaper.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Inflation #SPI #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-weekly-spi-inflation-11-32pc.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Weekly inflation at 11.32% year-on-year; tomatoes up 34.91% in a week",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Short-term inflation (SPI) stood at 11.32% year-on-year in the week ending October 29, down from 11.85% the previous week, Dawn reports citing PBS data. The index fell 0.35% week-on-week, but tomatoes rose 34.91%, while chicken and eggs got cheaper.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Inflation #SPI #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-weekly-spi-inflation-11-32pc.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-weekly-spi-inflation-11-32pc-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "810120545333296",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-weekly-spi-inflation-11-32pc-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-30T15:51:11+05:00"
+}
