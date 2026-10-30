@@ -4715,10 +4715,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-30 14:00 PKT",
+  "scheduled": "2026-10-30T14:00:00+05:00",
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-30-haleon-panadol-local-manufacturing-jamshoro.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 410949759,
+   "reel": 410949795,
+   "story": 410949812
+  },
+  "video": "posts/2026-10-30-haleon-panadol-local-manufacturing-jamshoro.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
