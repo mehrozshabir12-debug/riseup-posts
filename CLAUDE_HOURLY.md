@@ -63,25 +63,22 @@ never touch drafts you did not create. Never read or send the owner's e-mails.
 - Open the article itself and read its own published/updated timestamp (meta or byline). Convert it to PKT.
   Do NOT use search-snippet dates, "2 hours ago" labels or crawl dates. If you cannot establish the exact
   timestamp, the source does not count.
-- VERIFICATION: either
-  (a) 2 articles from 2 DIFFERENT approved outlets, both reporting the same facts, or
+- VERIFICATION (owner's rule, 30 Oct 2026 — replaces the 2-outlet rule): ONE source is enough. Either
+  (a) 1 article from 1 approved outlet, or
   (b) 1 official primary source (a *.gov.pk site, SBP, ISPR, PBS, OGRA, NEPRA, PTA, NADRA, FBR, ECP, PSX, PMD,
       NDMA, PCB).
+  A second, confirming source is NOT required. Take the story from that one source and verify it there: read the
+  article itself, its exact published/updated timestamp, and every name, number, place and date from it.
   Approved outlets: Dawn (dawn.com), Express Tribune (tribune.com.pk), Geo News (geo.tv), The News
   (thenews.com.pk), Business Recorder (brecorder.com), APP (app.com.pk), PTV News (ptv.com.pk),
   BBC (bbc.com / bbc.co.uk), Reuters (reuters.com), AP (apnews.com), Al Jazeera (aljazeera.com),
   Arab News (arabnews.pk / arabnews.com). Any other website does not count.
-  A wire story re-published by an outlet (e.g. "Express Tribune (Reuters)") is ONE source, not two.
-  TIMESTAMPS — what is required where (clarified 15 Oct 2026):
-  - The MAIN source (the one that makes the story fresh) needs its exact published/updated time from the
-    article itself. Its date goes on the card.
-  - The CONFIRMING source only has to report the same event with the same key facts (names, figures, place),
-    published on the same day or later. Its exact minute is NOT required; its date is enough.
-  - An official notification / press release that shows a date but no time counts as the official primary
-    source when its date is today (PKT); a news article with an exact time then serves as the main source
-    for freshness. If no article has an exact time, use the official item's date and the 8-hour rule cannot
-    be proven -> do not use it.
-- Cross-check every name, number, place, price and date between the sources before designing anything.
+  TIMESTAMPS: the source needs its exact published/updated time from the article itself. Its date goes on the
+  card. An official notification / press release with a date but no time counts only if its date is today (PKT)
+  and the 8-hour rule can still be shown; otherwise do not use it.
+  Freshness still uses the first-report time of the event (a print re-run of an older story is not fresh).
+  Exception kept for safety: tribute / death news still needs 2 sources on different websites (pipeline rule).
+- Check every name, number, place, price and date against the source before designing anything.
 - Skip: rumours, "sources say", unconfirmed casualty figures, graphic violence, private individuals, stories about
   minors, one-sided political attacks. Politics: neutral and factual.
 - Prefer stories that matter to ordinary people: prices, fuel, electricity, jobs, education, weather, health,
@@ -98,7 +95,7 @@ never touch drafts you did not create. Never read or send the owner's e-mails.
 - Subject: ONE update about the Pakistani showbiz industry (actors, singers, dramas, films, music) or a
   Pakistani YouTuber / TikToker / social media star: a new song, drama, film or trailer, an award, a milestone,
   a public statement, a wedding/birth the person announced themselves, a viral moment.
-- SAME verification and freshness as section 2, no exceptions: 2 articles from 2 DIFFERENT approved outlets
+- SAME verification and freshness as section 2, no exceptions: 1 article from 1 approved outlet is enough
   (Dawn incl. images.dawn.com, Express Tribune incl. Life & Style, Geo, The News, BBC, Arab News, APP ...),
   main source's exact timestamp read from the article itself, within 8 hours before T, not a duplicate of the
   last 48 h on Metricool or of celebrity_log.json. Entertainment-only sites (Something Haute, Galaxy Lollywood,
@@ -158,7 +155,7 @@ MUSIC (owner's order 17 Oct 2026: Instagram Reels with music are back — almost
   A Reel must NOT go out silent: try up to 3 list ids before ever removing the audio.
   Only the Instagram Reel gets this music. TikTok photo posts keep autoAddMusic (TikTok picks); Facebook gets none.
   Anime and narrated Reels stay OFF (reel.type is always "zoom" — the 8 s zoom video is rendered free by GitHub).
-Caption: 2-3 short English sentences naming the outlet; blank line; "Image: AI-generated illustration.";
+Caption: 2-3 short English sentences naming the outlet (one outlet is fine); blank line; "Image: AI-generated illustration.";
 blank line; exactly 5 hashtags including #RiseUpPakistan. No links. tiktok_title max 90 characters.
 
 

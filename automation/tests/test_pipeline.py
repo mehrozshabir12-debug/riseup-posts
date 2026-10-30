@@ -69,8 +69,9 @@ class Sources(unittest.TestCase):
     def test_verification(self):
         ok = lambda *u: slots.verification([{"url": x} for x in u])[0]
         self.assertTrue(ok("https://www.dawn.com/a", "https://www.geo.tv/b"))
-        self.assertFalse(ok("https://www.dawn.com/a", "https://www.dawn.com/b"))         # same outlet twice
-        self.assertFalse(ok("https://www.dawn.com/a"))
+        self.assertTrue(ok("https://www.dawn.com/a", "https://www.dawn.com/b"))          # one outlet is enough (30 Oct)
+        self.assertTrue(ok("https://www.dawn.com/a"))
+        self.assertFalse(ok("https://randomblog.pk/b"))
         self.assertTrue(ok("https://www.finance.gov.pk/x"))                                # official
         self.assertTrue(ok("https://www.sbp.org.pk/press/1"))
         self.assertFalse(ok("https://www.dawn.com/a", "https://randomblog.pk/b"))          # unapproved site

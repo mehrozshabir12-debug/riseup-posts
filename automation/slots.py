@@ -7,7 +7,7 @@ Slots (Asia/Karachi, UTC+05:00, no daylight saving):
 Preparation runs at HH:45 for the slot at HH+1:00 (the 23:45 run prepares 00:00 of the NEXT calendar date).
 Freshness: the story's newest qualifying timestamp must be within 2 hours BEFORE the target slot
            (and not in the future relative to the preparation time).
-Verification: 2 sources on 2 different approved news outlets, OR 1 approved official primary source.
+Verification (owner 30 Oct 2026): 1 source on 1 approved news outlet, OR 1 approved official primary source.
 """
 import datetime as dt
 from urllib.parse import urlparse
@@ -134,9 +134,9 @@ def verification(sources):
         return False, "source not on the approved list: " + ", ".join(unknown)
     if official:
         return True, "official primary source: " + domain(official[0])
-    if len(outlets) >= 2:
-        return True, "2 independent outlets: " + ", ".join(sorted(outlets))
-    return False, "needs 2 sources from 2 DIFFERENT approved outlets, or 1 official primary source"
+    if len(outlets) >= 1:
+        return True, "approved outlet: " + ", ".join(sorted(outlets))
+    return False, "needs 1 source from an approved outlet, or 1 official primary source"
 
 
 def effective_time(src, parse):

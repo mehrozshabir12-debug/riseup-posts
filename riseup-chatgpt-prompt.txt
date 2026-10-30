@@ -74,7 +74,7 @@ never touch posts marked draft=true that you did not create.
   Do NOT use search-snippet dates, "2 hours ago" labels or crawl dates. If you cannot establish the exact
   timestamp, the source does not count.
 - VERIFICATION: either
-  (a) 2 articles from 2 DIFFERENT approved outlets, both reporting the same facts, or
+  (a) 1 article from 1 approved outlet (owner 30 Oct 2026: one source is enough, no confirming source needed), or
   (b) 1 official primary source (a *.gov.pk site, SBP, ISPR, PBS, OGRA, NEPRA, PTA, NADRA, FBR, ECP, PSX, PMD,
       NDMA, PCB).
   Approved outlets: Dawn (dawn.com), Express Tribune (tribune.com.pk), Geo News (geo.tv), The News
