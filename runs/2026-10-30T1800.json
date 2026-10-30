@@ -1,1 +1,65 @@
-{"slot": "2026-10-30T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T17:54:05+05:00"}
+{
+ "slot": "2026-10-30T18:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T17:54:05+05:00",
+ "run_finished_pkt": "2026-10-30T17:58:09+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Gold price in Pakistan fell by Rs5,100 to Rs420,536 per tola on Friday, according to APGJSA rates reported by Business Recorder.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446688/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+    "published_at": "2026-10-30T16:19:31+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-30-gold-price-falls-rs5100-per-tola",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-gold-price-falls-rs5100-per-tola.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "ea5a912d-f080-45c2-868c-143253c9a56e",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411187908,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4935388485878042500",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411187952,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5089026079876138866",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411187981,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1246143008916457265",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "A Little Love Song (Reels Sound - Photo Dump) - Alex Blue",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; history windows 28 Oct 17:00 - 31 Oct 06:00 all succeeded; slot 18:00 free; today 4 news posts, 4 TikTok before this one",
+  "previous_slot_check": "17:00 AdalFi feed 411127299 FB+TikTok PUBLISHED, Reel 411127369 IG PUBLISHED (https://www.instagram.com/reel/DfHiyHxFf79/), Story 411127415 FB+IG PUBLISHED",
+  "news_search": "Business Recorder gold rate article published 16:19:31 PKT (1h41m before T); no gold story in last 48h on Metricool",
+  "verification": "single approved outlet (Business Recorder), article timestamp from meta article:published_time; all figures checked against article text (425,636-5,100=420,536)",
+  "image": "1 Runway image, no text/logos/faces of public figures",
+  "publish": "pipeline slot moved to 18:02 (NOW+5); feed, Reel, Story created; Reel audioType music, displayArtist Alex Blue. Music picked from VERIFIED MUSIC LIST (numeric id) without a separate trending search to stay within the slot window."
+ },
+ "skipped_candidates": [],
+ "errors": []
+}
