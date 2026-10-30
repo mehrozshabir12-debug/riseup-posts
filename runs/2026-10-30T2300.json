@@ -1,1 +1,75 @@
-{"slot": "2026-10-30T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T22:46:30+05:00"}
+{
+ "slot": "2026-10-30T23:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T22:46:30+05:00",
+ "run_finished_pkt": "2026-10-30T22:59:01+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar expressed concern on Friday over the continued expansion of illegal Israeli settlements in Palestine and reiterated support for a Palestinian state on pre-June 1967 borders, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-expresses-concern-over-continued-expansion-of-israeli-settlements-in-palestine-3005674",
+    "published_at": "2026-10-30T21:27:09+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-30-dar-concern-israeli-settlements-palestine",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-dar-concern-israeli-settlements-palestine.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411514991,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1137216343045065588",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411515048,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1105140993633305261",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411515067,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8269619337385493181",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. T-1h..T+1h plus windows 28 Oct 22:00 .. 31 Oct 11:00 all read OK. No post at 23:00. RiseUp day 30 Oct before this slot: 8 news feed posts (14,15,16,17,18,20,21,22), 7 with TikTok.",
+  "previous_slot_check": "22:00 slot: feed 411422747 FB PUBLISHED https://facebook.com/122185478282855502/posts/122188314596855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7702508995927444737; Reel 411422789 IG PUBLISHED https://www.instagram.com/reel/DfIFLDJgakj/ (music City Around The Corner); Story 411422805 FB+IG PUBLISHED. No errors.",
+  "news_search": "2h window (after 21:00 PKT): Arab News Dar statement on Israeli settlements, 21:27 PKT, chosen. Not a duplicate (29 Oct Singapore FM visit announcement was a different event). Dawn/Tribune listing pages looked like stale cached copies (newest Dawn item 03:58).",
+  "verification": "Single approved outlet Arab News (Uroosa Jadoon), meta published 2026-10-30T16:27:09Z = 21:27 PKT, modified 21:29 PKT. Event: joint press conference in Islamabad with Singapore FM Vivian Balakrishnan on Friday 30 Oct. Checked quotes: concern over expansion of illegal settlements and efforts to alter status of West Bank and Al-Quds Al-Sharif; support for Palestinian state on pre-June 1967 borders.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, ok (empty press hall podiums, anonymous journalists from behind, no text/logos/public figures).",
+  "publish": "Pipeline awaiting_publish; warning: TikTok skipped by pipeline (7 TikTok posts, allowed by 23:00 = 7). Slot published at 23:03 (pipeline NOW+5). Feed FB + Reel IG (audioType music, displayArtist Sam Marshall, verified list id 478728841591377; no trending search done due to slot time pressure) + Story FB+IG 23:08 created, all PENDING. Card and 8s zoom MP4 checked."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan restores airspace access for Taiwanese airlines (Brecorder)",
+   "reason": "published 29 Oct 14:44, older than 8h"
+  },
+  {
+   "headline": "Pakistan Army destroys Afghan Taliban posts (Dawn/Tribune)",
+   "reason": "military/violence, skipped by content rules"
+  },
+  {
+   "headline": "Govt stands firm on petroleum levy / $600m World Bank loan / SBP reserves (Tribune)",
+   "reason": "published 30 Oct 02:36-06:19 PKT, older than 8h"
+  }
+ ],
+ "errors": []
+}
