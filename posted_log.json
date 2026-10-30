@@ -4809,10 +4809,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-30 16:00 PKT",
+  "scheduled": true,
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-30-weekly-spi-inflation-11-32pc.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 411059191,
+   "reel": 411059238,
+   "story": 411059254
+  },
+  "video": "posts/2026-10-30-weekly-spi-inflation-11-32pc.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
