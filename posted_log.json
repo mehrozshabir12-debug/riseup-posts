@@ -5111,5 +5111,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-31T00:00:00+05:00",
+  "request_id": "2026-10-30-ispr-cautiously-optimistic-us-iran-mediation",
+  "layout": "bold",
+  "headline": "Pakistan's military spokesman, ISPR Director General Lt Gen Ahmed Sharif Chaudhry, said on Friday that Pakistan is cautiously optimistic about its mediation between Iran and the United States, Dawn reports citing Reuters.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2041000/dg-ispr-says-pakistan-cautiously-optimistic-on-us-iran-mediation",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041000/dg-ispr-says-pakistan-cautiously-optimistic-on-us-iran-mediation",
+    "published_at": "2026-10-30T23:19:54+05:00"
+   }
+  ],
+  "published": "2026-10-30T23:19:54+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 585683188,
+  "image": "posts/2026-10-30-ispr-cautiously-optimistic-us-iran-mediation.jpg",
+  "story": "posts/2026-10-30-ispr-cautiously-optimistic-us-iran-mediation-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 00:00 PKT",
+  "music": "Slow Living - stereogully",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-ispr-cautiously-optimistic-us-iran-mediation.mp4"
  }
 ]
