@@ -4878,5 +4878,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T18:00:00+05:00",
+  "request_id": "2026-10-30-gold-price-falls-rs5100-per-tola",
+  "layout": "bold",
+  "headline": "Gold price in Pakistan fell by Rs5,100 to Rs420,536 per tola on Friday, according to APGJSA rates reported by Business Recorder.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446688/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446688/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+    "published_at": "2026-10-30T16:19:31+05:00"
+   }
+  ],
+  "published": "2026-10-30T16:19:31+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 205588595,
+  "image": "posts/2026-10-30-gold-price-falls-rs5100-per-tola.jpg",
+  "story": "posts/2026-10-30-gold-price-falls-rs5100-per-tola-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 18:02 PKT",
+  "music": "A Little Love Song - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-gold-price-falls-rs5100-per-tola.mp4"
  }
 ]
