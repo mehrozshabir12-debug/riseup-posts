@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-30-ispr-cautiously-optimistic-us-iran-mediation",
+ "type": "news",
+ "headline": "Pakistan's military spokesman, ISPR Director General Lt Gen Ahmed Sharif Chaudhry, said on Friday that Pakistan is cautiously optimistic about its mediation between Iran and the United States, Dawn reports citing Reuters.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2041000/dg-ispr-says-pakistan-cautiously-optimistic-on-us-iran-mediation",
+   "published_at": "2026-10-30T23:19:54+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/651a8c9c-e7e2-44bf-a068-4649bf305729/c42c4f9e-66b7-4738-8c3e-1d177b44a86b/Realistic_photo_of_a_formal_diplomatic_meeting_room_at_night.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzY5MzhhODQwNGYxYjM3MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzUxMTk0MH0.QwChaZftpROFrmhxOvFsNnmE0q6BSS2rGoH2IPjSgQY",
+  "head1": "US-Iran mediation",
+  "head2_hl": "Cautiously",
+  "head2": "optimistic",
+  "kicker": "DG ISPR on Pakistan's role",
+  "desc": "Field Marshal Asim Munir visited Tehran twice this month.",
+  "source": "Dawn",
+  "date": "30 OCT 2026"
+ },
+ "caption": "Pakistan is \"cautiously optimistic\" about its mediation between Iran and the United States, ISPR Director General Lt Gen Ahmed Sharif Chaudhry said on Friday, Dawn reports citing Reuters. Field Marshal Asim Munir has visited Tehran twice this month, most recently on Monday alongside Saudi and Turkish officials.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ISPR #Iran #Diplomacy #PakistanNews",
+ "tiktok_title": "DG ISPR: Pakistan 'cautiously optimistic' on US-Iran mediation",
+ "publish": {
+  "slot": "2026-10-31T00:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1329928372147056",
+  "label": "Slow Living - stereogully"
+ },
+ "ai_generated": true
+}
