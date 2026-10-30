@@ -60,6 +60,13 @@ never touch drafts you did not create. Never read or send the owner's e-mails.
   important story for ordinary people. The story must still be new to our page (duplicate check, section 1b).
   Write the window used in the run log ("freshness_window": "2h" / "3h" / "4h" / "6h" / "8h").
   A timestamp later than NOW is impossible: re-check the time zone.
+- HOW TO OPEN PAGES (found 30 Oct 2026): web fetch only opens a website that has already appeared in a web
+  search result in this run. Any other site asks for permission, nobody answers in an unattended run, and the
+  fetch fails with "PROVENANCE_REQUIRED ... permission request ... not answered in time". So FIRST run a web
+  search restricted to each outlet you want (allowed_domains, e.g. ["brecorder.com"], ["tribune.com.pk"],
+  ["geo.tv"], ["arabnews.pk"], ["app.com.pk"], ["thenews.com.pk"]), THEN fetch pages on that site.
+  Fetched pages can be an OLD CACHED copy (Brecorder latest-news once returned Dec 2025 items): if the newest
+  item on a listing page is not from today, do not trust that page; open individual article URLs instead.
 - Open the article itself and read its own published/updated timestamp (meta or byline). Convert it to PKT.
   Do NOT use search-snippet dates, "2 hours ago" labels or crawl dates. If you cannot establish the exact
   timestamp, the source does not count.
