@@ -1,1 +1,35 @@
-{"slot": "2026-10-30T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T09:46:31+05:00"}
+{
+ "slot": "2026-10-30T10:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T09:46:31+05:00",
+ "run_finished_pkt": "2026-10-30T09:54:02+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 09:00-11:00 empty; 6h windows 28 Oct 09:00 .. 30 Oct 22:00 all read; RiseUp day 2026-10-30 counts: 0 news feed posts, 0 TikTok",
+  "previous_slot_check": "00:00 slot had no post (previous run error_tool_unavailable); last posts 29 Oct 23:00 feed 410372193, reel 410372232, story 410372257 all PUBLISHED (checked previous run, still PUBLISHED)",
+  "news_search": "web search ok; Dawn article pages fetchable, but dawn.com/latest-news, images.dawn.com, tribune listings blocked (PROVENANCE_REQUIRED) and arabnews.pk robots_disallowed; geo.tv/category/pakistan showed nothing newer than 29 Oct. No story first reported within 8 h before 10:00 with two approved sources found.",
+  "verification": "no candidate passed",
+  "image": "not generated (order rule)",
+  "publish": "nothing created",
+  "fallback": "showbiz searched: no item from approved outlets within 8 h found; showbiz listing pages blocked"
+ },
+ "skipped_candidates": [
+  {"headline": "Pakistan, China open green channel for trade at Sost-Khunjerab (Dawn print 06:58 PKT)", "reason": "agreement signed and first reported Thursday 29 Oct (Dawn web story 2040705), first report older than 8 h before slot"},
+  {"headline": "Singapore's foreign minister arrives in Islamabad today (Dawn 06:58 PKT)", "reason": "duplicate of our 29 Oct 14:01 post; no new development yet (visit outcomes not reported)"},
+  {"headline": "Lahore ranks world's most polluted city (Dawn 2040684)", "reason": "published 29 Oct, older than 8 h"},
+  {"headline": "Education boards fill key posts after three years (Express Tribune print)", "reason": "single approved source, exact timestamp not readable"},
+  {"headline": "Showbiz: Junaid Khan's 'Yadaan' release date (Aaj)", "reason": "not an approved outlet, date unverified"}
+ ],
+ "errors": [
+  "web-fetch https://www.dawn.com/latest-news, https://images.dawn.com/celebrity/2026-10-30, https://images.dawn.com/celebrity/2026-10-29, https://tribune.com.pk/listing/life_style/2026-10-30: PROVENANCE_REQUIRED (\"The permission request for this URL was not answered in time. Do not retry.\")",
+  "web-fetch https://www.arabnews.pk/pakistan: robots_disallowed",
+  "add_repo tool not available in this session; repo already in scope and cloned"
+ ]
+}
