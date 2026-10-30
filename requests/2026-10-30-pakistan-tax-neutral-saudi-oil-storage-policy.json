@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy",
+ "type": "news",
+ "headline": "Pakistan has approved a tax-neutral bonded policy allowing Saudi companies to set up commercial oil reserves in the country, Petroleum Minister Ali Pervaiz Malik told the new Saudi Ambassador.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446679/pakistan-offers-tax-free-oil-storage-facilities-to-ksa",
+   "published_at": "2026-10-30T14:23:39+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f63419ef-137b-412b-b728-f29c8245e9f5/73967304-5732-47e5-84cf-d1182f36a2b6/Realistic_photograph_of_a_large_coastal_oil_storage_terminal.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiY2Q2MWFmN2MwZThhOGI2NCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzUwMzk5Nn0.azxR56B4IR62TUpPe2E73MrpNZa_9wAaX6mxAX9Cq7s",
+  "head1": "Tax-Free Oil Storage",
+  "head2_hl": "For Saudi",
+  "head2": "Firms",
+  "kicker": "Same-day visas for Pakistanis",
+  "desc": "Pakistan approves tax-neutral policy for Saudi commercial oil reserves.",
+  "source": "Business Recorder",
+  "date": "30 OCT 2026"
+ },
+ "caption": "Pakistan has approved a tax-neutral bonded policy allowing Saudi companies to set up commercial oil reserves in the country without local tax liabilities, Business Recorder reports. In talks with Petroleum Minister Ali Pervaiz Malik, the new Saudi Ambassador announced same-day processing of visa applications for Pakistani citizens at the embassy in Islamabad.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanSaudiArabia #OilStorage #SaudiVisa #PakistanNews",
+ "tiktok_title": "Pakistan approves tax-free oil storage for Saudi firms; same-day Saudi visas announced",
+ "publish": {
+  "slot": "2026-10-30T15:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
