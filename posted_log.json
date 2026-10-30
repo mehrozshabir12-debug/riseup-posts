@@ -4737,5 +4737,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T15:00:00+05:00",
+  "request_id": "2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy",
+  "layout": "bold",
+  "headline": "Pakistan has approved a tax-neutral bonded policy allowing Saudi companies to set up commercial oil reserves in the country, Petroleum Minister Ali Pervaiz Malik told the new Saudi Ambassador.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446679/pakistan-offers-tax-free-oil-storage-facilities-to-ksa",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446679/pakistan-offers-tax-free-oil-storage-facilities-to-ksa",
+    "published_at": "2026-10-30T14:23:39+05:00"
+   }
+  ],
+  "published": "2026-10-30T14:23:39+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 354613292,
+  "image": "posts/2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy.jpg",
+  "story": "posts/2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 15:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy.mp4"
  }
 ]
