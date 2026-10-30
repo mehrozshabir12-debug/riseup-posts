@@ -4690,5 +4690,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T14:00:00+05:00",
+  "request_id": "2026-10-30-haleon-panadol-local-manufacturing-jamshoro",
+  "layout": "bold",
+  "headline": "Haleon Pakistan has started manufacturing Panadol 500mg tablets at its Jamshoro facility in Sindh, the company told the Pakistan Stock Exchange on Friday.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446659/haleon-pakistan-starts-local-manufacturing-of-panadol-500mg-tablets-in-sindh",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446659/haleon-pakistan-starts-local-manufacturing-of-panadol-500mg-tablets-in-sindh",
+    "published_at": "2026-10-30T10:25:16+05:00"
+   }
+  ],
+  "published": "2026-10-30T10:25:16+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 400500008,
+  "image": "posts/2026-10-30-haleon-panadol-local-manufacturing-jamshoro.jpg",
+  "story": "posts/2026-10-30-haleon-panadol-local-manufacturing-jamshoro-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 14:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-haleon-panadol-local-manufacturing-jamshoro.mp4"
  }
 ]
