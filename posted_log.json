@@ -4762,10 +4762,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-30 15:00 PKT",
+  "scheduled": "2026-10-30T15:00:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 410999661,
+   "reel": 410999933,
+   "story": 411000022
+  },
+  "video": "posts/2026-10-30-pakistan-tax-neutral-saudi-oil-storage-policy.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
