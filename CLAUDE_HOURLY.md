@@ -124,8 +124,12 @@ never touch drafts you did not create. Never read or send the owner's e-mails.
 
 3. CARD TEXT, PHOTO AND CAPTION
 ------------------------------
-Card text (only sourced facts; never round numbers): head1 (2-4 words, max 30), head2_hl (yellow box, 1-3 words,
-max 24), head2 (0-2 words, may be ""), kicker (3-5 words, max 40), desc (one sentence, max 12 words),
+LANGUAGE (owner's order 31 Oct 2026): ALL post text is ROMAN URDU (Urdu written in English letters) — card text,
+caption and tiktok_title — for every news and showbiz post. Not English, not Urdu script. Simple everyday Roman Urdu
+that ordinary Pakistanis use (e.g. "Sone ki qeemat mein bari kami", "Bijli ke bill", "Pakistan ne England ko hara diya").
+Keep names, places, numbers, units, outlet names and common terms (PSX, IMF, ODI, Rs, km) exactly as written.
+Card text (only sourced facts; never round numbers), in Roman Urdu: head1 (2-4 words, max 30), head2_hl (yellow box,
+1-3 words, max 24), head2 (0-2 words, may be ""), kicker (3-5 words, max 40), desc (one sentence, max 12 words),
 source (outlet), date ("DD MON YYYY" = earliest source's PKT publication date).
 PHOTO — Runway connector, CHEAPEST model, ONE image per run (owner: spend as few credits as possible):
   ORDER RULE (owner, 25 Oct 2026): generate the photo ONLY AFTER the story has fully passed section 2
@@ -162,14 +166,18 @@ MUSIC (owner's order 17 Oct 2026: Instagram Reels with music are back — almost
   A Reel must NOT go out silent: try up to 3 list ids before ever removing the audio.
   Only the Instagram Reel gets this music. TikTok photo posts keep autoAddMusic (TikTok picks); Facebook gets none.
   Anime and narrated Reels stay OFF (reel.type is always "zoom" — the 8 s zoom video is rendered free by GitHub).
-Caption: 2-3 short English sentences naming the outlet (one outlet is fine); blank line; "Image: AI-generated illustration.";
-blank line; exactly 5 hashtags including #RiseUpPakistan. No links. tiktok_title max 90 characters.
+Caption (Roman Urdu): first line a short hook that makes people stop (facts only, no clickbait or exaggeration, e.g.
+"Sone ki qeemat mein Rs5,100 ki kami!"); then 1-2 short Roman Urdu sentences with the facts, naming the outlet
+(e.g. "Dawn ke mutabiq ..."); end with a short Roman Urdu question (e.g. "Aap ka kya khayal hai? Comment mein
+batayein 👇"); blank line; "Image: AI-generated illustration." (keep this line exactly, in English — the pipeline
+checks it); blank line; exactly 5 hashtags including #RiseUpPakistan. No links. tiktok_title in Roman Urdu, max 90
+characters.
 
 
 4. REQUEST
 ----------
 Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id; never reuse an id):
-{"id": "...", "type": "news", "headline": "<one full factual sentence>", "language": "English",
+{"id": "...", "type": "news", "headline": "<one full factual sentence>", "language": "Roman Urdu",
  "sources": [{"outlet": "...", "url": "https://...", "published_at": "<ISO +05:00>"}, ...],
  "card": {"photo_url": "<the Runway url, copied exactly>", "head1": "...", "head2_hl": "...", "head2": "...", "kicker": "...",
           "desc": "...", "source": "...", "date": "DD MON YYYY"},

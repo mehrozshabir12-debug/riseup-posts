@@ -199,6 +199,8 @@ These do NOT count toward the 15 news posts or the 3 anime Reels. Log them in tr
 - Prefer stories people share: prices/bills, weather, cricket, jobs, viral human stories.
 
 ## Caption language: mix of Roman Urdu and English (for reach)
+
+> **Owner's order 31 Oct 2026:** the hourly run now posts ROMAN URDU only (card text, caption, tiktok_title). See CLAUDE_HOURLY.md section 3; where this section differs, CLAUDE_HOURLY.md wins.
 Decide per story:
 - **Roman Urdu** for stories that touch ordinary people's pockets and daily life, or are emotional / viral:
   petrol, bijli & gas bills, sone & dollar rates, mehngai, salaries, jobs, school/college news, weather alerts,
