@@ -5043,10 +5043,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-30 22:00 PKT",
+  "scheduled": "2026-10-30T22:00:00+05:00",
   "music": "City Around The Corner - The Poison Oaks",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-30-supreme-court-facilitation-centre-80000-services.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 411422747,
+   "reel": 411422789,
+   "story": 411422805
+  },
+  "video": "posts/2026-10-30-supreme-court-facilitation-centre-80000-services.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
