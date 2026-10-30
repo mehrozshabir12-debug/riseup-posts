@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-30-adalfi-psx-ipo-next-month",
+ "revision": 1,
+ "request": "requests/2026-10-30-adalfi-psx-ipo-next-month.json",
+ "type": "news",
+ "headline": "Pakistani digital lending platform AdalFi, a Techlogix subsidiary, plans an IPO on the Pakistan Stock Exchange next month to raise up to Rs652 million, Business Recorder reports citing Bloomberg.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-30T17:05:00+05:00",
+ "target_slot": "2026-10-30T17:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-adalfi-psx-ipo-next-month.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-adalfi-psx-ipo-next-month-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-adalfi-psx-ipo-next-month.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-30-adalfi-psx-ipo-next-month.jpg",
+  "story": "posts/2026-10-30-adalfi-psx-ipo-next-month-story.jpg",
+  "reel": "posts/2026-10-30-adalfi-psx-ipo-next-month.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 59120441,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T17:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistani digital lending platform AdalFi, a Techlogix subsidiary, plans an IPO on the Pakistan Stock Exchange next month, Business Recorder reports citing Bloomberg. It aims to raise up to Rs652 million ($2.35 million) through new shares to expand its Islamic and small-business loan services.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #IPO #Fintech #PakistanEconomy",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-adalfi-psx-ipo-next-month.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Fintech AdalFi plans PSX IPO next month to raise up to Rs652 million",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T17:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistani digital lending platform AdalFi, a Techlogix subsidiary, plans an IPO on the Pakistan Stock Exchange next month, Business Recorder reports citing Bloomberg. It aims to raise up to Rs652 million ($2.35 million) through new shares to expand its Islamic and small-business loan services.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #IPO #Fintech #PakistanEconomy",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-adalfi-psx-ipo-next-month.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-adalfi-psx-ipo-next-month-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "934661001819759",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T17:10:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-adalfi-psx-ipo-next-month-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-30T16:59:59+05:00"
+}

@@ -4831,5 +4831,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T17:00:00+05:00",
+  "request_id": "2026-10-30-adalfi-psx-ipo-next-month",
+  "layout": "bold",
+  "headline": "Pakistani digital lending platform AdalFi, a Techlogix subsidiary, plans an IPO on the Pakistan Stock Exchange next month to raise up to Rs652 million, Business Recorder reports citing Bloomberg.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446678/pakistans-fintech-adalfi-plans-psx-ipo-next-month-report",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446678/pakistans-fintech-adalfi-plans-psx-ipo-next-month-report",
+    "published_at": "2026-10-30T13:15:44+05:00"
+   }
+  ],
+  "published": "2026-10-30T13:15:44+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 59120441,
+  "image": "posts/2026-10-30-adalfi-psx-ipo-next-month.jpg",
+  "story": "posts/2026-10-30-adalfi-psx-ipo-next-month-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 17:05 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-adalfi-psx-ipo-next-month.mp4"
  }
 ]
