@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-30-supreme-court-facilitation-centre-80000-services",
+ "type": "news",
+ "headline": "The Supreme Court's one-window Public Facilitation Center has provided around 80,000 services to litigants in the past year, Supreme Court registrar Suhail Muhammad Laghari said on Friday, Arab News reports.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-top-court-streamlines-public-services-with-facilitation-center-3005671",
+   "published_at": "2026-10-30T20:59:24+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/31dd755f-326a-49e9-8d79-24bd4cc4db96/a2c6a712-1951-4e1e-9729-9f8c884b66a8/Realistic_photo_of_a_modern_public_service_counter_hall_insi.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiN2JjYmQxYWZhYjgwYmE5YyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzQ3NjY1NX0.-J4PGtz0feIrAbPZr8aMpdOEq6g3bsUtngWsPigV3-s",
+  "head1": "Supreme Court",
+  "head2_hl": "80,000 services",
+  "head2": "provided",
+  "kicker": "One-window facilitation center",
+  "desc": "Litigants can file cases and get certified copies in one place.",
+  "source": "Arab News",
+  "date": "30 OCT 2026"
+ },
+ "caption": "The Supreme Court's one-window Public Facilitation Center has provided around 80,000 services to litigants since it was set up in September 2025, the court's registrar said on Friday, Arab News reports. The center handles case filing, documents, queries, complaints and certified copies of judgments, with 22 services available online.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SupremeCourt #Justice #Islamabad #PakistanNews",
+ "tiktok_title": "Supreme Court facilitation center provided around 80,000 services in a year",
+ "publish": {
+  "slot": "2026-10-30T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2384396914990297",
+  "label": "City Around The Corner - The Poison Oaks"
+ },
+ "ai_generated": true
+}
