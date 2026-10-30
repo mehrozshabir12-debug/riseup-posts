@@ -5136,10 +5136,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 00:00 PKT",
+  "scheduled": "2026-10-31T00:00:00+05:00",
   "music": "Slow Living - stereogully",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-30-ispr-cautiously-optimistic-us-iran-mediation.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 411566299,
+   "reel": 411566328,
+   "story": 411566358
+  },
+  "video": "posts/2026-10-30-ispr-cautiously-optimistic-us-iran-mediation.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
