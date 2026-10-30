@@ -1,1 +1,74 @@
-{"slot": "2026-10-30T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T15:47:15+05:00"}
+{
+ "slot": "2026-10-30T16:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T15:47:15+05:00",
+ "run_finished_pkt": "2026-10-30T15:52:31+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan's short-term inflation (SPI) stood at 11.32% year-on-year in the week ending October 29; the index fell 0.35% week-on-week (PBS data via Dawn).",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2040950/short-term-inflation-rises-to-1132pc-in-last-week-of-october-driven-by-perishable-food-prices",
+    "published_at": "2026-10-30T15:35:33+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-30-weekly-spi-inflation-11-32pc",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-weekly-spi-inflation-11-32pc.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411059191,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=442096360462828587",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411059238,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8317308710642758527",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411059254,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1463720733979068291",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; 15:00-17:00 window had no post at 16:00; all ten 6h windows 28 Oct 15:47 .. 31 Oct 03:47 read OK; RiseUp day 30 Oct counts before this post: 2 news, 2 TikTok",
+  "previous_slot_check": "15:00 feed 410999661 FB PUBLISHED https://facebook.com/122185478282855502/posts/122188259858855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7702399684450569493; Reel 410999933 PUBLISHED https://www.instagram.com/reel/DfHU1QZD4Y0/; Story 411000022 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "web search on approved outlets; candidates fetched: Dawn SPI (15:35 PKT, chosen), Tribune HK Sixes Pakistan beat India (12:52 PKT), Arab News Q1 exports (12:12 PKT). Chose freshest (2h window) prices story.",
+  "verification": "1 approved outlet (Dawn, Mubarak Zeb Khan), meta published/modified 2026-10-30T15:35:33+05:00; PBS data; SPI 11.32% YoY week ending Oct 29, previous week 11.85%, -0.35% WoW, tomatoes +34.91% WoW, LPG +106.86% YoY, chicken -2.95% and eggs -2.81% WoW checked against article text",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, vegetable market scene, no readable text/logos/public figures; task 3edc73cb-9b9e-4f34-820b-550bbdec863f",
+  "publish": "results awaiting_publish; feed card and zoom MP4 (8 s, 1080x1920, h264+aac) checked; feed FB+TikTok, IG Reel, FB+IG Story created from payloads; Reel audioType music, displayArtist Global Genius; all providers PENDING (verified via getScheduledPosts 15:55-16:10)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan beat India by four wickets in Hong Kong Sixes (Tribune 12:52 PKT)",
+   "reason": "older (4h window) than the 2h-window SPI story; Geo page fetch failed"
+  },
+  {
+   "headline": "Pakistan exports rise 7.7% in Q1 FY27 (Arab News 12:12 PKT)",
+   "reason": "older; Q1 trade figures likely first reported earlier in October"
+  }
+ ],
+ "errors": [
+  "web fetch of https://www.geo.tv/latest/688972-pakistan-beat-india-by-four-wickets-in-hong-kong-sixes-2026 failed (client_error)"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": "2026-10-30-weekly-spi-inflation-11-32pc",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 411059191,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 411059238,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "music": "Iced Latte - Global Genius (audioType music)"
+  },
+  "story": {
+   "metricool_id": 411059254,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
