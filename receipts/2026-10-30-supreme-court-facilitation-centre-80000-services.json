@@ -1,0 +1,34 @@
+{
+ "id": "2026-10-30-supreme-court-facilitation-centre-80000-services",
+ "scheduled": "2026-10-30T22:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 411422747,
+   "uuid": "396740886382395923",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 411422789,
+   "uuid": "4259947963698595851",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioType": "music",
+    "title": "City Around The Corner",
+    "displayArtist": "The Poison Oaks"
+   }
+  },
+  "story": {
+   "metricool_id": 411422805,
+   "uuid": "-5340107720059434017",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
