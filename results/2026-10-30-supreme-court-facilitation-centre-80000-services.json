@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-30-supreme-court-facilitation-centre-80000-services",
+ "revision": 1,
+ "request": "requests/2026-10-30-supreme-court-facilitation-centre-80000-services.json",
+ "type": "news",
+ "headline": "The Supreme Court's one-window Public Facilitation Center has provided around 80,000 services to litigants in the past year, Supreme Court registrar Suhail Muhammad Laghari said on Friday, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-30T22:00:00+05:00",
+ "target_slot": "2026-10-30T22:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-supreme-court-facilitation-centre-80000-services.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-supreme-court-facilitation-centre-80000-services-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-supreme-court-facilitation-centre-80000-services.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-30-supreme-court-facilitation-centre-80000-services.jpg",
+  "story": "posts/2026-10-30-supreme-court-facilitation-centre-80000-services-story.jpg",
+  "reel": "posts/2026-10-30-supreme-court-facilitation-centre-80000-services.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 325937681,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "The Supreme Court's one-window Public Facilitation Center has provided around 80,000 services to litigants since it was set up in September 2025, the court's registrar said on Friday, Arab News reports. The center handles case filing, documents, queries, complaints and certified copies of judgments, with 22 services available online.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SupremeCourt #Justice #Islamabad #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-supreme-court-facilitation-centre-80000-services.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Supreme Court facilitation center provided around 80,000 services in a year",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "The Supreme Court's one-window Public Facilitation Center has provided around 80,000 services to litigants since it was set up in September 2025, the court's registrar said on Friday, Arab News reports. The center handles case filing, documents, queries, complaints and certified copies of judgments, with 22 services available online.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SupremeCourt #Justice #Islamabad #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-supreme-court-facilitation-centre-80000-services.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-supreme-court-facilitation-centre-80000-services-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "2384396914990297",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-supreme-court-facilitation-centre-80000-services-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-30T21:28:39+05:00"
+}

@@ -5018,5 +5018,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T22:00:00+05:00",
+  "request_id": "2026-10-30-supreme-court-facilitation-centre-80000-services",
+  "layout": "bold",
+  "headline": "The Supreme Court's one-window Public Facilitation Center has provided around 80,000 services to litigants in the past year, Supreme Court registrar Suhail Muhammad Laghari said on Friday, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-top-court-streamlines-public-services-with-facilitation-center-3005671",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-top-court-streamlines-public-services-with-facilitation-center-3005671",
+    "published_at": "2026-10-30T20:59:24+05:00"
+   }
+  ],
+  "published": "2026-10-30T20:59:24+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 325937681,
+  "image": "posts/2026-10-30-supreme-court-facilitation-centre-80000-services.jpg",
+  "story": "posts/2026-10-30-supreme-court-facilitation-centre-80000-services-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 22:00 PKT",
+  "music": "City Around The Corner - The Poison Oaks",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-supreme-court-facilitation-centre-80000-services.mp4"
  }
 ]
