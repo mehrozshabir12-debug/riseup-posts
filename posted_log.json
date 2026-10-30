@@ -5065,5 +5065,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-30",
+  "slot": "2026-10-30T23:00:00+05:00",
+  "request_id": "2026-10-30-dar-concern-israeli-settlements-palestine",
+  "layout": "bold",
+  "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar expressed concern on Friday over the continued expansion of illegal Israeli settlements in Palestine and reiterated support for a Palestinian state on pre-June 1967 borders, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-expresses-concern-over-continued-expansion-of-israeli-settlements-in-palestine-3005674",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-expresses-concern-over-continued-expansion-of-israeli-settlements-in-palestine-3005674",
+    "published_at": "2026-10-30T21:27:09+05:00"
+   }
+  ],
+  "published": "2026-10-30T21:27:09+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 844357,
+  "image": "posts/2026-10-30-dar-concern-israeli-settlements-palestine.jpg",
+  "story": "posts/2026-10-30-dar-concern-israeli-settlements-palestine-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-30 23:03 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-30-dar-concern-israeli-settlements-palestine.mp4"
  }
 ]

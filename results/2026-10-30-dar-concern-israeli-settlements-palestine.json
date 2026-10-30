@@ -1,0 +1,141 @@
+{
+ "id": "2026-10-30-dar-concern-israeli-settlements-palestine",
+ "revision": 1,
+ "request": "requests/2026-10-30-dar-concern-israeli-settlements-palestine.json",
+ "type": "news",
+ "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar expressed concern on Friday over the continued expansion of illegal Israeli settlements in Palestine and reiterated support for a Palestinian state on pre-June 1967 borders, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 7 TikTok posts on RiseUp day 2026-10-30; allowed by 23:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-10-30T23:03:00+05:00",
+ "target_slot": "2026-10-30T23:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-dar-concern-israeli-settlements-palestine.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-dar-concern-israeli-settlements-palestine-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-dar-concern-israeli-settlements-palestine.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-30-dar-concern-israeli-settlements-palestine.jpg",
+  "story": "posts/2026-10-30-dar-concern-israeli-settlements-palestine-story.jpg",
+  "reel": "posts/2026-10-30-dar-concern-israeli-settlements-palestine.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 844357,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T23:03:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Deputy PM and Foreign Minister Ishaq Dar expressed concern on Friday over the continued expansion of illegal Israeli settlements and efforts to alter the status of the West Bank and Al-Quds Al-Sharif, Arab News reports. Speaking alongside Singapore's visiting Foreign Minister in Islamabad, he reiterated support for an independent Palestinian state based on pre-June 1967 borders.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Palestine #IshaqDar #ForeignOffice #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-dar-concern-israeli-settlements-palestine.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T23:03:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Deputy PM and Foreign Minister Ishaq Dar expressed concern on Friday over the continued expansion of illegal Israeli settlements and efforts to alter the status of the West Bank and Al-Quds Al-Sharif, Arab News reports. Speaking alongside Singapore's visiting Foreign Minister in Islamabad, he reiterated support for an independent Palestinian state based on pre-June 1967 borders.\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Palestine #IshaqDar #ForeignOffice #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-dar-concern-israeli-settlements-palestine.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-dar-concern-israeli-settlements-palestine-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "478728841591377",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-30T23:08:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-dar-concern-israeli-settlements-palestine-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-30T22:57:38+05:00"
+}
