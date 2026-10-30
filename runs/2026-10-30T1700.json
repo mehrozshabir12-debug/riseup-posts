@@ -1,1 +1,95 @@
-{"slot": "2026-10-30T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T16:47:58+05:00"}
+{
+ "slot": "2026-10-30T17:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T16:47:49+05:00",
+ "run_finished_pkt": "2026-10-30T17:01:25+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Pakistani digital lending platform AdalFi, a Techlogix subsidiary, plans an IPO on the Pakistan Stock Exchange next month to raise up to Rs652 million, Business Recorder reports citing Bloomberg.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446678/pakistans-fintech-adalfi-plans-psx-ipo-next-month-report",
+    "published_at": "2026-10-30T13:15:44+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-30-adalfi-psx-ipo-next-month",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-30-adalfi-psx-ipo-next-month.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411127299,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1712949638610307479",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411127369,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5737086165715041152",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411127415,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4752554393329121729",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; 16:00-18:00 had no post at 17:00; all 6h windows 28 Oct 16:47 .. 31 Oct 04:47 read OK; RiseUp day 30 Oct counts before this post: 3 news, 3 TikTok",
+  "previous_slot_check": "16:00 feed 411059191 FB PUBLISHED https://facebook.com/122185478282855502/posts/122188277102855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7702415472607694087; Reel 411059238 PUBLISHED https://www.instagram.com/reel/DfHb06hgJyy/; Story 411059254 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "web search on dawn/brecorder/tribune/geo/app/arabnews. 2h and 3h windows: no qualifying story (see skipped_candidates). 4h window: Business Recorder AdalFi IPO (first published 13:15 PKT) chosen.",
+  "verification": "1 approved outlet (Business Recorder, BR Web Desk), meta published 2026-10-30T13:15:44+05:00, modified 16:22:10+05:00; AdalFi = Techlogix subsidiary digital lending platform, IPO next month on PSX, up to Rs652 million ($2.35 million) via new shares, to expand Islamic and small-business loans (Bloomberg) — checked against article text",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, office worker with phone/laptop charts, no readable text/logos/public figures; task f0444bf4-bf89-4503-a2d7-1dab42d64489",
+  "publish": "results awaiting_publish; feed card and zoom MP4 (8 s, 1080x1920, h264+aac) checked; NOW 17:00:32 was later than T-5 so times moved to 17:06 (feed, Reel) and 17:11 (Story) to keep the 5-minute minimum; created from payloads otherwise unchanged; Reel audioType music, displayArtist Global Genius (verified-list id used directly instead of a trending search to make the slot); all providers PENDING (verified via getScheduledPosts 17:01-17:15)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Singapore FM Balakrishnan meets PM Shehbaz; NDMA-SCDF disaster MoU exchanged (BR 12:36, upd 14:50)",
+   "reason": "duplicate: visit and MoU exchange already posted 29 Oct 14:01"
+  },
+  {
+   "headline": "Pakistan, Saudi Arabia agree to boost cooperation in oil, refineries and minerals (Dawn)",
+   "reason": "duplicate of 15:00 Saudi oil storage post"
+  },
+  {
+   "headline": "Karachi traffic officers to issue e-challans via mobile app (Geo 645425)",
+   "reason": "stale cached listing; article id is old, not fresh"
+  },
+  {
+   "headline": "PM inaugurates Pakistan-China Friendship Hospital (BR 07:35)",
+   "reason": "older than 8h before T (event 29 Oct)"
+  },
+  {
+   "headline": "Lucky Cement 3.2mtpa Karachi expansion (BR 07:58)",
+   "reason": "older than 8h before T"
+  },
+  {
+   "headline": "Pakistan climbs to 95th in Global Innovation Index (Dawn 29 Oct 23:04)",
+   "reason": "older than 8h before T"
+  },
+  {
+   "headline": "Tribune: poverty 28.9%, H1N1 cases, bakers price hike",
+   "reason": "articles could not be opened (PROVENANCE_REQUIRED), timestamps unverified"
+  }
+ ],
+ "errors": [
+  "web-fetch tribune.com.pk story pages: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time.",
+  "web-fetch arabnews.pk listing: robots_disallowed"
+ ]
+}
