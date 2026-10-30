@@ -1,1 +1,35 @@
-{"slot": "2026-10-30T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-30T10:47:15+05:00"}
+{
+ "slot": "2026-10-30T11:00:00+05:00",
+ "riseup_day": "2026-10-30",
+ "run_started_pkt": "2026-10-30T10:46:57+05:00",
+ "run_finished_pkt": "2026-10-30T10:54:10+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 10:00-12:00 empty; 6h windows 28 Oct 10:00 .. 30 Oct 23:00 all read; RiseUp day 2026-10-30 counts: 0 news feed posts, 0 TikTok",
+  "previous_slot_check": "10:00 slot had no post (previous run skipped_no_fresh_verified_news); last posts 29 Oct 23:00 feed 410372193, reel 410372232, story 410372257 all PUBLISHED",
+  "news_search": "web search ok; Dawn/BR/The News article pages fetched. No story first reported within 8 h before 11:00 with two independent approved sources and an established first-report time.",
+  "verification": "no candidate passed",
+  "image": "not generated (order rule)",
+  "publish": "nothing created",
+  "fallback": "showbiz searched: no item from approved outlets within 8 h found"
+ },
+ "skipped_candidates": [
+  {"headline": "Fire at furniture market near Kamran Chowrangi, Karachi, spreads to residential building; no casualties (The News 04:00 PKT)", "reason": "Geo copy is the same Jang Group text (effectively one source, Geo time not readable); fire was an overnight event first reported Thursday night by other outlets, first-report time not within 8 h provable"},
+  {"headline": "PSO profit jumps to Rs25.56bn in 1QFY27 (Dawn 06:58 PKT)", "reason": "results first reported 29 Oct (ProPakistani/Business Recorder), older than 8 h"},
+  {"headline": "Pakistan climbs 4 ranks to 95th in Global Innovation Index 2026 (Dawn)", "reason": "published 29 Oct 23:04 PKT, update 02:08 not substantive; first report older than 8 h; single approved source"},
+  {"headline": "PSX KSE-100 down over 200 points in early Friday trade (BR 10:06 PKT)", "reason": "intraday opening move, not a substantive story; no second approved source"},
+  {"headline": "Singapore FM Balakrishnan in Islamabad today", "reason": "duplicate of our 29 Oct 14:01 post; no outcome of talks reported yet"}
+ ],
+ "errors": [
+  "web-fetch https://www.geo.tv/latest/688950-who-protects-pakistans-children: client_error",
+  "web-fetch https://www.geo.tv/amp/688925-...: PROVENANCE_REQUIRED (permission request not answered in time)",
+  "add_repo tool not available in this session; repo already in scope and cloned"
+ ]
+}
