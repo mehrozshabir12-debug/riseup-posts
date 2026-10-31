@@ -1,1 +1,76 @@
-{"slot": "2026-10-31T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T11:47:26+05:00"}
+{
+ "slot": "2026-10-31T12:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T11:47:26+05:00",
+ "run_finished_pkt": "2026-10-31T11:52:49+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Commerce Minister Jam Kamal Khan and new Saudi Ambassador Dr Rajeh Albugamy discussed the early signing and implementation of the Pakistan-GCC Free Trade Agreement in Islamabad, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement",
+    "published_at": "2026-10-31T11:04:17+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-pakistan-ksa-push-early-gcc-fta",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-ksa-push-early-gcc-fta.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "text in photo (readable lettering on ship hull)"
+  },
+  {
+   "attempt": 2,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411958914,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1371142616075551927",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411958927,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7731842661375981406",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411958934,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7854007340740753757",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 11:00-13:00 plus 6h windows 29 Oct 11:00 -> 1 Nov 00:00 all succeeded. No post at 12:00. RiseUp day 31 Oct counts before this post: 1 news, 1 TikTok.",
+  "previous_slot_check": "Slot 11:00: feed 411937888 FB+TikTok PUBLISHED, Reel 411937896 PUBLISHED (Melodic Mountain - Ross Lara, music), Story 411937906 FB+IG PUBLISHED. No errors.",
+  "news_search": "Chose Business Recorder story published 11:04 PKT (within 2h of T); not a duplicate (30 Oct Saudi story was oil storage/visas with Petroleum Minister).",
+  "verification": "Single approved outlet (Business Recorder); article read, meta article:published_time 2026-10-31 11:04:17+05:00; names (Jam Kamal Khan, Dr Rajeh Albugamy) and facts checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3; attempt 1 rejected (readable lettering on ship hull), attempt 2 clean: no text/logos/public figures.",
+  "publish": "Card and 8 s zoom MP4 (1080x1920, h264+aac) looked at; feed FB+TikTok, IG Reel with music (audioType music, displayArtist Global Genius), FB+IG Story 12:05 all PENDING. Trending-audio web search gave only generic listicles, so a verified numeric id was used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan says committed to defending Saudi Arabia, not part of intra-Yemen conflict (Arab News/Reuters 10:30)",
+   "reason": "Same Friday DG ISPR Reuters interview already posted at 00:00 slot; defence/conflict topic"
+  },
+  {
+   "headline": "Pakistan eye first tri-series win at home against Sri Lanka today (Arab News)",
+   "reason": "Preview; final preview already posted 30 Oct 21:00"
+  }
+ ],
+ "errors": []
+}
