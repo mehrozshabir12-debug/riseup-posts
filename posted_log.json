@@ -5370,10 +5370,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 16:00 PKT",
+  "scheduled": "2026-10-31T16:00:00+05:00",
   "music": "Drift Away (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412062644,
+   "reel": 412062668,
+   "story": 412062677
+  },
+  "video": "posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
