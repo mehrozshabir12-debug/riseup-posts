@@ -1,1 +1,62 @@
-{"slot": "2026-10-31T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T22:46:34+05:00"}
+{
+ "slot": "2026-10-31T23:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T22:46:34+05:00",
+ "run_finished_pkt": "2026-10-31T22:50:42+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan beat Sri Lanka by three wickets in the tri-nation ODI series final at Gaddafi Stadium, Lahore, chasing 326 to finish on 327 for seven, with Fakhar Zaman scoring 127 off 99 balls and Arafat Minhas 61 off 31, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041167/fakhar-zaman-and-arafat-minhas-lead-pakistan-to-tri-series-glory",
+    "published_at": "2026-10-31T21:51:02+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-pakistan-win-tri-series-final-sri-lanka",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-tri-series-final-sri-lanka.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (task db3cbce0-a05e-48ec-bedc-d663f5cf34d8; anonymous players in plain green kits celebrating from behind/at distance under floodlights, no readable text/logos/public figures)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412341772,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6025335891749286220",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412341789,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1407820291831741843",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412341800,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5958393850774309037",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB+IG+TikTok connected; all 6h windows 29 Oct 22:46 .. 1 Nov 10:46 plus 22:00-00:00 read OK; no post at 23:00; RiseUp day 2026-10-31: 11 news feed posts before this, 7 with TikTok",
+  "previous_slot_check": "22:00 feed 412300904 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122188534814855502), TikTok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7702879511184002322); reel 412300917 IG PUBLISHED (https://www.instagram.com/reel/DfKqCepjijs/); story 412300928 FB+IG PUBLISHED",
+  "news_search": "2h window: Dawn tri-series final result report (updated 21:51 PKT) chosen; genuinely new development vs earlier toss (14:00) and SL-innings (19:00) posts. Trending-music web search skipped; verified numeric id used (upbeat, unused today).",
+  "verification": "Dawn article read directly; article:modified_time 2026-10-31 21:51:02+05:00 (first published 12:53 as live toss story, result update 21:51); Pakistan 327-7 in 48.3 ov beat SL 325-8 by three wickets; Fakhar Zaman 127 (99), Saad Baig 74 (75), Arafat Minhas 61 (31); Shaheen Shah Afridi hit winning six; Gaddafi Stadium Lahore",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt",
+  "publish": "results awaiting_publish; card and 8s zoom MP4 checked; pipeline payload feed = Facebook only (no TikTok in payload); reel IG with music (audioType music, displayArtist Jackson Whalan); story FB+IG; all PENDING"
+ },
+ "skipped_candidates": [],
+ "errors": []
+}
