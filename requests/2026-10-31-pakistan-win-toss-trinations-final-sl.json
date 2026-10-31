@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-31-pakistan-win-toss-trinations-final-sl",
+ "type": "news",
+ "headline": "Pakistan won the toss and chose to bowl first against Sri Lanka in the tri-nation ODI series final at Gaddafi Stadium, Lahore, with Faheem Ashraf replacing Shadab Khan, who was ruled out on medical grounds, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2041167/pakistan-win-toss-bowl-first-in-tri-series-final-against-sri-lanka",
+   "published_at": "2026-10-31T12:53:21+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/06dd300a-ffcd-447c-8172-6c914ac0aa77/ed9d02ef-8fe4-4126-93a5-a638e959dd53/Realistic_wide_angle_photo_of_a_packed_open_air_cricket_stad.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZWZiOGFkOTcxYjFmNWRiNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzYwMTY4N30.lMLMzzJ7Lx42Ne-R9D1NolMY2Ic_1_5b0440cCTqphI",
+  "head1": "Tri-series final",
+  "head2_hl": "Pakistan ne toss",
+  "head2": "jeeta",
+  "kicker": "Pehle bowling ka faisla",
+  "desc": "Shadab Khan ki jagah Faheem Ashraf team mein shamil",
+  "source": "Dawn",
+  "date": "31 OCT 2026"
+ },
+ "caption": "Tri-series final: Pakistan ne toss jeet kar pehle bowling ka faisla kiya!\nDawn ke mutabiq Gaddafi Stadium Lahore mein Sri Lanka ke khilaf final mein captain Shaheen Shah Afridi ne Sri Lanka ko pehle batting di. Shadab Khan medical wajah se bahar hain aur un ki jagah Faheem Ashraf team mein shamil hain.\nFinal kaun jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TriSeries #PakistanCricket #Cricket",
+ "tiktok_title": "Tri-series final: Pakistan ne toss jeet kar bowling chuni, Faheem Ashraf team mein",
+ "publish": {
+  "slot": "2026-10-31T14:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "581639516835198",
+  "label": "Upside Down - Mike Block"
+ },
+ "ai_generated": true
+}
