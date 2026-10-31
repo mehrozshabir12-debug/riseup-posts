@@ -4,15 +4,22 @@
  "posts": {
   "feed": {
    "metricool_id": 412172508,
-   "status": "PENDING"
+   "status": {
+    "facebook": "PUBLISHED"
+   }
   },
   "reel": {
    "metricool_id": 412172532,
-   "status": "PENDING"
+   "status": {
+    "instagram": "PUBLISHED"
+   }
   },
   "story": {
    "metricool_id": 412172538,
-   "status": "PENDING"
+   "status": {
+    "facebook": "PUBLISHED",
+    "instagram": "PUBLISHED"
+   }
   }
  }
 }
