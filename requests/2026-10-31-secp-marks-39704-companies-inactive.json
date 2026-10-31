@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-31-secp-marks-39704-companies-inactive",
+ "type": "news",
+ "headline": "The SECP said on Saturday it has marked 39,704 companies 'Inactive by Registrar' for failing to file annual returns and/or financial statements for four years, barring them from opening new bank accounts until they file, Business Recorder reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446806/secp-marks-over-39000-non-filing-companies-inactive",
+   "published_at": "2026-10-31T17:36:08+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/d47ff9b8-33da-42ea-8a9d-3f8415394dab/80d6a8bb-3bc8-45e8-ba46-beca15bc1fca/Realistic_photo_of_a_quiet_corporate_office_in_Islamabad__Pa.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjEzNGExNGVjMDdmZjcyNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzU2OTk5OH0.PTDpy4mG2gXteGWdzMDrau7S7ZfPGl0ZO128AtyzIWc",
+  "head1": "SECP ka bara action",
+  "head2_hl": "39,704",
+  "head2": "companies",
+  "kicker": "Inactive qarar de di gayin",
+  "desc": "Filing tak naye bank account nahi khul sakenge.",
+  "source": "Business Recorder",
+  "date": "31 OCT 2026"
+ },
+ "caption": "39,704 companies inactive qarar!\nBusiness Recorder ke mutabiq SECP ne Saturday ko bataya ke 4 saal se annual returns aur/ya financial statements file na karne wali 39,704 companies ko \"Inactive by Registrar\" mark kar diya gaya hai. Ye companies overdue documents file kar ke active status wapas lene tak naye bank account nahi khol sakengi. Sab se zyada Lahore (13,927) aur Islamabad (13,859) mein hain.\nKya ye qadam sahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SECP #Business #PakistanEconomy #PakistanNews",
+ "tiktok_title": "SECP ne 39,704 companies inactive kar di, naye bank account band",
+ "publish": {
+  "slot": "2026-10-31T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "810120545333296",
+  "label": "Iced Latte - Global Genius"
+ },
+ "ai_generated": true
+}
