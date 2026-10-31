@@ -5298,5 +5298,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T14:00:00+05:00",
+  "request_id": "2026-10-31-pakistan-win-toss-trinations-final-sl",
+  "layout": "bold",
+  "headline": "Pakistan won the toss and chose to bowl first against Sri Lanka in the tri-nation ODI series final at Gaddafi Stadium, Lahore, with Faheem Ashraf replacing Shadab Khan, who was ruled out on medical grounds, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2041167/pakistan-win-toss-bowl-first-in-tri-series-final-against-sri-lanka",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041167/pakistan-win-toss-bowl-first-in-tri-series-final-against-sri-lanka",
+    "published_at": "2026-10-31T12:53:21+05:00"
+   }
+  ],
+  "published": "2026-10-31T12:53:21+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 693441682,
+  "image": "posts/2026-10-31-pakistan-win-toss-trinations-final-sl.jpg",
+  "story": "posts/2026-10-31-pakistan-win-toss-trinations-final-sl-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 14:00 PKT",
+  "music": "Upside Down - Mike Block",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-pakistan-win-toss-trinations-final-sl.mp4"
  }
 ]

@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-31-pakistan-win-toss-trinations-final-sl",
+ "revision": 1,
+ "request": "requests/2026-10-31-pakistan-win-toss-trinations-final-sl.json",
+ "type": "news",
+ "headline": "Pakistan won the toss and chose to bowl first against Sri Lanka in the tri-nation ODI series final at Gaddafi Stadium, Lahore, with Faheem Ashraf replacing Shadab Khan, who was ruled out on medical grounds, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-31T14:00:00+05:00",
+ "target_slot": "2026-10-31T14:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-toss-trinations-final-sl.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-toss-trinations-final-sl-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-toss-trinations-final-sl.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-31-pakistan-win-toss-trinations-final-sl.jpg",
+  "story": "posts/2026-10-31-pakistan-win-toss-trinations-final-sl-story.jpg",
+  "reel": "posts/2026-10-31-pakistan-win-toss-trinations-final-sl.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 693441682,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Tri-series final: Pakistan ne toss jeet kar pehle bowling ka faisla kiya!\nDawn ke mutabiq Gaddafi Stadium Lahore mein Sri Lanka ke khilaf final mein captain Shaheen Shah Afridi ne Sri Lanka ko pehle batting di. Shadab Khan medical wajah se bahar hain aur un ki jagah Faheem Ashraf team mein shamil hain.\nFinal kaun jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TriSeries #PakistanCricket #Cricket",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-toss-trinations-final-sl.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Tri-series final: Pakistan ne toss jeet kar bowling chuni, Faheem Ashraf team mein",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Tri-series final: Pakistan ne toss jeet kar pehle bowling ka faisla kiya!\nDawn ke mutabiq Gaddafi Stadium Lahore mein Sri Lanka ke khilaf final mein captain Shaheen Shah Afridi ne Sri Lanka ko pehle batting di. Shadab Khan medical wajah se bahar hain aur un ki jagah Faheem Ashraf team mein shamil hain.\nFinal kaun jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TriSeries #PakistanCricket #Cricket",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-toss-trinations-final-sl.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-toss-trinations-final-sl-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "581639516835198",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-toss-trinations-final-sl-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-31T13:50:50+05:00"
+}
