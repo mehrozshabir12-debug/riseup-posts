@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-31-gold-falls-rs10800-per-tola",
+ "type": "news",
+ "headline": "Gold prices in Pakistan fell by Rs10,800 per tola on Saturday to Rs409,736, while 10-gram gold dropped Rs9,259 to Rs351,282, Business Recorder reported citing APGJSA rates.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446801/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+   "published_at": "2026-10-31T16:15:39+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/4a7abd46-c405-4c5d-aeab-e5afdc60094b/fa4b42f4-7c46-438b-97d4-4b60a11f9473/Realistic_photo_inside_a_traditional_gold_jewellery_shop_in_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjNjYWY2YzNjODQ1MzYwNSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzYwMzkwN30.O7SBa6gBgZ_tOijhN8JOd14x4HxWmdc18emXuXMs_5o",
+  "head1": "Sone ki qeemat",
+  "head2_hl": "Rs10,800 kam",
+  "head2": "",
+  "kicker": "Fi tola ab Rs409,736",
+  "desc": "10 gram sona Rs9,259 kam ho kar Rs351,282 ka ho gaya.",
+  "source": "Business Recorder",
+  "date": "31 OCT 2026"
+ },
+ "caption": "Sone ki qeemat mein Rs10,800 ki bari kami!\nBusiness Recorder ke mutabiq Saturday ko fi tola sona Rs10,800 sasta ho kar Rs409,736 ka ho gaya, jab ke 10 gram sona Rs9,259 kam ho kar Rs351,282 par aa gaya. International market mein sona $108 gir kar $3,872 per ounce aur chandi fi tola Rs142 kam ho kar Rs5,388 ho gayi.\nKya aap abhi sona khareedenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #GoldRate #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Sona fi tola Rs10,800 sasta, ab Rs409,736 ka",
+ "publish": {
+  "slot": "2026-10-31T17:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "336015428971390",
+  "label": "Glow (Instrumental) - KNOTTS"
+ },
+ "ai_generated": true
+}
