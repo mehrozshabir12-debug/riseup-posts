@@ -1,1 +1,62 @@
-{"slot": "2026-10-31T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T18:46:54+05:00"}
+{
+ "slot": "2026-10-31T19:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T18:46:54+05:00",
+ "run_finished_pkt": "2026-10-31T18:53:44+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Kamindu Mendis struck 131 off 128 balls, his maiden ODI century, as Sri Lanka posted 325 and set Pakistan a target of 326 in the tri-series final at Gaddafi Stadium, Lahore, on Saturday, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041167/kamindu-mendis-blitz-sets-pakistan-326-to-win-in-tri-series-final",
+    "published_at": "2026-10-31T17:45:21+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-sri-lanka-set-pakistan-326-tri-series-final",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412172508,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2538222208677398345",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412172532,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1727179846633997328",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412172538,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4741519453580509907",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Chase It (Instrumental) - JQ, The Red Collective",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 18:00-20:00 plus windows 29 Oct 18:00 -> 1 Nov 07:00 all succeeded. No post at 19:00. RiseUp day 31 Oct before this post: 7 news feed posts (11,12,13,14,16,17,18), 5 with TikTok.",
+  "previous_slot_check": "Slot 18:00: feed 412130135 FB+TikTok PUBLISHED, Reel 412130160 IG PUBLISHED (Iced Latte, music), Story 412130176 FB+IG PUBLISHED. No errors.",
+  "news_search": "Dawn latest-news listing returned a stale copy (newest 03:36am) so not trusted; searched approved outlets. Picked Dawn tri-series final innings report, updated 17:45:21 PKT with Sri Lanka's final total (2h window). Same match as the 14:00 toss post, but the innings result/target is a new development. Other candidates (halal exports ambition, PM on KP emergency, Islamophobia at UN) less important to ordinary readers. Trending-audio web search returned only generic listicles with no confirmed 'music' track, so used verified list id (upbeat/cricket), unused this RiseUp day.",
+  "verification": "Single approved source Dawn (meta published 12:53:21+05:00, modified 17:45:21+05:00): Kamindu Mendis 131 off 128 balls, maiden ODI century; Sri Lanka finished on 325; target 326; Gaddafi Stadium Lahore; Salman Ali Agha took the only two wickets before the final 10 overs.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, task 94015db1-2577-4904-a83b-020b6748dfcf; generic stadium with anonymous crowd, no readable text.",
+  "publish": "Card and zoom MP4 (8s, 1080x1920, h264+aac, shows card) checked. Pipeline payload feed = Facebook only (no TikTok). Feed, Reel (IG) and Story (FB+IG) created from payloads; Reel audioType music, displayArtist JQ, The Red Collective. getScheduledPosts 18:55-19:10 confirms all three PENDING."
+ },
+ "skipped_candidates": [],
+ "errors": []
+}
