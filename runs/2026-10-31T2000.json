@@ -1,1 +1,86 @@
-{"slot": "2026-10-31T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T19:47:11+05:00"}
+{
+ "slot": "2026-10-31T20:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T19:47:11+05:00",
+ "run_finished_pkt": "2026-10-31T20:03:58+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Mansehra Assistant Commissioner Adil Waseem was injured on Saturday when unknown gunmen opened fire at his official vehicle in Panah Kot, Nowshera district, Khyber Pakhtunkhwa; a hospital spokesperson said he is stable, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041197/mansehra-assistant-commissioner-injured-as-vehicle-comes-under-attack-in-nowshera",
+    "published_at": "2026-10-31T18:41:54+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-mansehra-ac-vehicle-attacked-nowshera",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-mansehra-ac-vehicle-attacked-nowshera.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "text in photo: readable 'POLICE' on pickup and a car maker logo (task 4c1872cc-601c-4199-b64e-b4837048bdb0)"
+  },
+  {
+   "attempt": 2,
+   "result": "ok (task e863c65a-3bf7-4a4e-bd89-ed0e1e008796)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412224858,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8746920189480647864",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412224878,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=274757651792414538",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412224889,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6028911449901780435",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 19:00-21:00 plus 6h windows 29 Oct 19:00 -> 1 Nov 08:00 all succeeded. No post at 20:00. RiseUp day 31 Oct before this post: 8 news feed posts (11,12,13,14,16,17,18,19), 5 with TikTok.",
+  "previous_slot_check": "Slot 19:00: feed 412172508 FB PUBLISHED, Reel 412172532 IG PUBLISHED (Chase It, music), Story 412172538 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched approved outlets. Dawn latest-news listing is a stale copy (newest 03:36am) so not used. Freshest qualifying story: Dawn Nowshera attack on Mansehra AC's vehicle (published 18:41:54, updated 19:01:15 PKT, 2h window). Non-graphic, official named by Dawn, condition stable, no casualty figures. Not a duplicate of the last 48h. Other candidates older than 2h or already posted (see skipped_candidates).",
+  "verification": "Single approved source Dawn (meta published 2026-10-31T18:41:54+05:00, modified 19:01:15+05:00): Mansehra AC Adil Waseem injured Saturday when unknown gunmen fired at his official vehicle in Panah Kot, Nowshera district, KP; returning from native village Saleh Khana; LRH spokesperson Muhammad Asim said he is stable; Nowshera DPO Sonia Shamroz said area cordoned and search operation launched.",
+  "image": "Runway nano-banana-2-lite 4:3, 2 attempts (first had readable 'POLICE' text + car logo; retry clean): rural KP road at dusk, white unbadged car, three anonymous policemen from behind, no weapons, no text.",
+  "publish": "First GitHub render run (41212044457) failed in the receipts phase: AttributeError 'str' object has no attribute 'items' because receipts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.json (19:00 run) stored status as a string. Rewrote that receipt with per-network statuses (all PUBLISHED, confirmed in Metricool) and the pipeline then rendered: status awaiting_publish. Card and zoom MP4 (8s, 1080x1920, h264+aac, shows card) checked. Pipeline payload times 20:08 (feed+reel) / 20:13 (story) because render finished after T-5. Feed (FB+TikTok), Reel (IG) and Story (FB+IG) created from payloads; Reel audioType music, displayArtist Sam Marshall. getScheduledPosts 19:55-20:15 confirms all three PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan seeks Saudi support amid energy crisis (Tribune)",
+   "reason": "published 03:18 PKT, outside 8h window; Saudi oil storage/visa angle already posted 30 Oct 15:00"
+  },
+  {
+   "headline": "Pakistan committed to defending Saudi Arabia, not part of intra-Yemen conflict (Arab News/Reuters)",
+   "reason": "published 10:30 PKT, older than the fresher Dawn story; DG ISPR interview already covered 31 Oct 00:00"
+  },
+  {
+   "headline": "PM Shehbaz: 'very little done for KP' (Dawn)",
+   "reason": "one-sided political attack"
+  },
+  {
+   "headline": "US to deport 150 Afghan immigrants via Pakistan (Arab News)",
+   "reason": "less directly relevant to ordinary Pakistanis; Dawn story fresher and verified"
+  }
+ ],
+ "errors": [
+  "GitHub Actions run 41212044457 (RiseUp Media Manager) failed: automation/process_request.py line 380 phase_receipts: AttributeError: 'str' object has no attribute 'items' (caused by 19:00 receipt format; fixed by rewriting that receipt)"
+ ]
+}
