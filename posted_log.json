@@ -5183,10 +5183,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 11:00 PKT",
+  "scheduled": true,
   "music": "Melodic Mountain - Ross Lara",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 411937888,
+   "reel": 411937896,
+   "story": 411937906
+  },
+  "video": "posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
