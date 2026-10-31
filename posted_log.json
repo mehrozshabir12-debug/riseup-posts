@@ -5463,10 +5463,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 18:00 PKT",
+  "scheduled": true,
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-secp-marks-39704-companies-inactive.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412130135,
+   "reel": 412130160,
+   "story": 412130176
+  },
+  "video": "posts/2026-10-31-secp-marks-39704-companies-inactive.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
