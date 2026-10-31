@@ -5696,10 +5696,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 23:00 PKT",
+  "scheduled": true,
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-pakistan-win-tri-series-final-sri-lanka.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412341772,
+   "reel": 412341789,
+   "story": 412341800
+  },
+  "video": "posts/2026-10-31-pakistan-win-tri-series-final-sri-lanka.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
