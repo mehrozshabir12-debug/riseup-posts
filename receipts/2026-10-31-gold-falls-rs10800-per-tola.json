@@ -1,0 +1,25 @@
+{
+ "id": "2026-10-31-gold-falls-rs10800-per-tola",
+ "scheduled": "2026-10-31T17:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 412093443,
+   "status": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 412093451,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 412093457,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

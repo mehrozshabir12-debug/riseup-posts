@@ -1,1 +1,73 @@
-{"slot": "2026-10-31T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T16:47:14+05:00"}
+{
+ "slot": "2026-10-31T17:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T16:47:14+05:00",
+ "run_finished_pkt": "2026-10-31T16:52:04+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Gold prices in Pakistan fell by Rs10,800 per tola on Saturday to Rs409,736, while 10-gram gold dropped Rs9,259 to Rs351,282, Business Recorder reported citing APGJSA rates.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446801/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+    "published_at": "2026-10-31T16:15:39+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-gold-falls-rs10800-per-tola",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-gold-falls-rs10800-per-tola.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412093443,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6132042863071413994",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412093451,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5160682970669139301",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412093457,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6967379802364528784",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Glow (prod. by Jayme Stone) (Instrumental) - KNOTTS",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 16:00-18:00 plus six-hour windows 29 Oct 16:00 -> 1 Nov 05:00 all succeeded. No post at 17:00. RiseUp day 31 Oct before this post: 5 news feed posts (11,12,13,14,16), 4 with TikTok; now 6 news posts.",
+  "previous_slot_check": "Slot 16:00: feed 412062644 FB+TikTok PUBLISHED, Reel 412062668 IG PUBLISHED (Drift Away, music), Story 412062677 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched approved outlets. Picked Business Recorder gold price story (published 16:15:39 PKT; 2h window). Not a duplicate: 30 Oct post covered Friday's Rs5,100 fall; this is Saturday's new rate (new figures). Other candidates seen: Arab News halal forum (15:08 PKT, less relevant), Geo LNG/gas crisis and PM KP projects (pages could not be fetched, timestamps unverified).",
+  "verification": "Single approved source (Business Recorder) read via fetch: per tola Rs409,736 after Rs10,800 fall; 10g Rs351,282 after Rs9,259 fall; international $3,872/oz after $108 fall; silver Rs5,388/tola after Rs142 fall; APGJSA rates. Published 2026-10-31 16:15:39+05:00.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, task 4a7abd46-c405-4c5d-aeab-e5afdc60094b; jewellery shop, anonymous customer from behind, no text.",
+  "publish": "Card and zoom MP4 (8s, 1080x1920, h264+aac, shows card) checked. Pipeline warning: TikTok skipped by daily pacing (4 allowed by 17:00). Feed (FB), Reel (IG) and Story (FB+IG) created from payloads; Reel audio audioType music, displayArtist KNOTTS. getScheduledPosts 16:55-17:10 confirms all three PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan faces winter gas crisis as Qatar extends LNG force majeure (Geo)",
+   "reason": "article page could not be fetched; timestamp/facts unverified"
+  },
+  {
+   "headline": "Pakistan eyes $50bn halal exports (Arab News, 15:08 PKT)",
+   "reason": "gold price more relevant to ordinary people"
+  }
+ ],
+ "errors": [
+  "WebFetch client_error for geo.tv/latest/689116 and geo.tv/latest/689132"
+ ]
+}
