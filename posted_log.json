@@ -5624,5 +5624,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T22:00:00+05:00",
+  "request_id": "2026-10-31-lakki-marwat-judicial-complex-firing",
+  "layout": "bold",
+  "headline": "A police constable was martyred and two other people were injured when unidentified gunmen opened fire outside an additional sessions judge's courtroom at the Judicial Complex in Lakki Marwat, Khyber Pakhtunkhwa, on Saturday, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2637937/police-constable-martyred-two-injured-in-firing-at-lakki-marwat-judicial-complex",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2637937/police-constable-martyred-two-injured-in-firing-at-lakki-marwat-judicial-complex",
+    "published_at": "2026-10-31T19:00:44+05:00"
+   }
+  ],
+  "published": "2026-10-31T19:00:44+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 795737323,
+  "image": "posts/2026-10-31-lakki-marwat-judicial-complex-firing.jpg",
+  "story": "posts/2026-10-31-lakki-marwat-judicial-complex-firing-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 22:00 PKT",
+  "music": "Float (Instrumental) - Sleeping Lion",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-lakki-marwat-judicial-complex-firing.mp4"
  }
 ]
