@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-31-punjab-crop-fire-detections-4x-indian-punjab",
+ "type": "news",
+ "headline": "NASA satellites detected 13,241 fire spots in Pakistan's Punjab between October 1 and 29, 4.2 times the 3,158 in Indian Punjab, according to a HamariHawa analysis reported by Dawn.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2041172/pakistans-punjab-records-42-times-more-crop-fire-detections-than-indian-punjab-report",
+   "published_at": "2026-10-31T15:07:22+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/3f44ffab-5f38-4145-989d-a814c0541a17/315bf1a6-b3b2-42e7-911b-3da229ad2503/Realistic_documentary_photo_of_a_flat_rural_farmland_in_Punj.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiN2NhNjQ5MDM4OGZiNjdkNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzUzODA1MX0.jnoguq_IRjDxGpp3PwSAPkpFaEEAMqqYQR78EFsWEzs",
+  "head1": "Punjab mein aag ke",
+  "head2_hl": "13,241 spots",
+  "head2": "",
+  "kicker": "Indian Punjab se 4.2 guna",
+  "desc": "NASA satellites ne 1-29 October ke darmiyan yeh fire spots detect kiye.",
+  "source": "Dawn",
+  "date": "31 OCT 2026"
+ },
+ "caption": "Pakistani Punjab mein aag ke 13,241 spots, Indian Punjab se 4.2 guna zyada!\nDawn ke mutabiq HamariHawa ke analysis mein NASA satellites ne 1 se 29 October tak Pakistani Punjab mein 13,241 fire spots detect kiye, jab ke Indian Punjab mein 3,158. Inn mein se 92 percent kheton mein thay. IQAir ke mutabiq 31 October dopehar 1 baje Lahore ka AQI 232 tha.\nSmog se bachne ke liye aap kya kar rahe hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Smog #Lahore #AirQuality #PakistanNews",
+ "tiktok_title": "Pakistani Punjab mein aag ke 13,241 spots, Indian Punjab se 4.2 guna zyada",
+ "publish": {
+  "slot": "2026-10-31T16:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1211414204067053",
+  "label": "Drift Away (Instrumental) - Giulio Cercato"
+ },
+ "ai_generated": true
+}
