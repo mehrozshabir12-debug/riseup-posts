@@ -5510,10 +5510,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 19:00 PKT",
+  "scheduled": true,
   "music": "Chase It (Instrumental) - JQ, The Red Collective",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.mp4"
+  "publish_status": "published",
+  "metricool_ids": {
+   "feed": 412172508,
+   "reel": 412172532,
+   "story": 412172538
+  },
+  "video": "posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PUBLISHED"
+   },
+   "reel": {
+    "instagram": "PUBLISHED"
+   },
+   "story": {
+    "facebook": "PUBLISHED",
+    "instagram": "PUBLISHED"
+   }
+  }
  }
 ]

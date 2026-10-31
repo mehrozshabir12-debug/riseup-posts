@@ -29,7 +29,7 @@
   }
  },
  "card_seed": 947343018,
- "published": false,
+ "published": true,
  "metricool": {
   "blogId": "7305396",
   "mode": "chatgpt_connector",
@@ -133,9 +133,36 @@
     }
    }
   },
-  "posts": {}
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 412172508,
+    "status": {
+     "facebook": "PUBLISHED"
+    },
+    "public_urls": {}
+   },
+   "reel": {
+    "attempts": 1,
+    "metricool_id": 412172532,
+    "status": {
+     "instagram": "PUBLISHED"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 412172538,
+    "status": {
+     "facebook": "PUBLISHED",
+     "instagram": "PUBLISHED"
+    },
+    "public_urls": {}
+   }
+  }
  },
- "status": "awaiting_publish",
+ "status": "published",
  "log": "posted_log.json",
- "updated_at": "2026-10-31T18:52:25+05:00"
+ "updated_at": "2026-10-31T20:02:24+05:00",
+ "receipt_sha": "4517a8ad379d1749cc6ec22734d9a2671578c93bdf205c8a22aea8c9d144ffc2"
 }
