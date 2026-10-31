@@ -1,1 +1,82 @@
-{"slot": "2026-10-31T13:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T12:47:17+05:00"}
+{
+ "slot": "2026-10-31T13:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T12:47:17+05:00",
+ "run_finished_pkt": "2026-10-31T12:53:46+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "8h",
+ "story": {
+  "headline": "The Pakistan Tax Bar Association has asked FBR Chairman Rashid Mahmood Langrial for a further 34-day extension to file Tax Year 2026 income tax returns, whose FBR-extended deadline is October 31, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446758/income-tax-returns-ptba-urges-fbr-to-grant-a-further-34-day-extension",
+    "published_at": "2026-10-31T05:33:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-ptba-seeks-34-day-tax-return-extension",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-ptba-seeks-34-day-tax-return-extension.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok image, but generated for a candidate story (DG ISPR / Saudi defence) that was rejected AFTER generation on a duplicate/freshness re-check; not used (4 credits)"
+  },
+  {
+   "attempt": 2,
+   "result": "ok (tax consultant office; only a tiny illegible laptop maker mark)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411983106,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5651276101244634235",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411983119,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3157610506281073872",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411983127,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4891937541215009717",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 12:00-14:00 plus 6h windows 29 Oct 12:00 -> 1 Nov 01:00 all succeeded. No post at 13:00. RiseUp day 31 Oct before this post: 2 news, 2 TikTok.",
+  "previous_slot_check": "Slot 12:00: feed 411958914 FB+TikTok PUBLISHED, Reel 411958927 PUBLISHED (Cafe Lovers - Global Genius, music), Story 411958934 FB+IG PUBLISHED. No errors.",
+  "news_search": "No verifiable story in the 2h-6h windows (Geo toss story for PAK v SL final could not be fetched: client_error). Chose Business Recorder 05:33 PKT story (7h27m before T, 8h window); not a duplicate of the last 48h.",
+  "verification": "Business Recorder article read; meta published_time 2026-10-31 05:33:00+05:00. PTBA letter (Sheikh Ahsan Ul Haq, Tahir Mahmood Butt) to FBR Chairman Rashid Mahmood Langrial asking 34 more days; FBR deadline extended to 31 Oct via Circular No. 4; 7.3 million returns by 29 Oct. 'FBR sources' claim of no extension deliberately left out.",
+  "image": "Runway nano-banana-2-lite 4:3, 2 generations (see image_attempts).",
+  "publish": "Pipeline skipped TikTok (hourly pacing: 2 allowed by 13:00). Feed (FB), Reel (IG, music verified audioType=music, displayArtist Trout Recording) and Story (FB+IG 13:05) created; all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan says committed to defending Saudi Arabia, not part of intra-Yemen conflict (Arab News/Reuters 10:30)",
+   "reason": "Same Friday Reuters interview with DG ISPR already posted at 00:00 slot; repeated theme; rejected after photo was generated"
+  },
+  {
+   "headline": "Pakistan win toss, opt to bowl first in ODI tri-series final (Geo)",
+   "reason": "Article could not be fetched (client_error), timestamp unverifiable; final preview already posted 30 Oct 21:00"
+  },
+  {
+   "headline": "LHC orders abolition of parchi system; CM Maryam PIVOT; PM GB solar (Dawn 04:19)",
+   "reason": "Older than 8h before T (print re-runs of Friday events)"
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest/689108: client_error",
+  "Brecorder latest-news listing stale (Dec 2025 items) - not used"
+ ]
+}
