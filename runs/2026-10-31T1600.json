@@ -1,1 +1,68 @@
-{"slot": "2026-10-31T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T15:46:51+05:00"}
+{
+ "slot": "2026-10-31T16:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T15:46:51+05:00",
+ "run_finished_pkt": "2026-10-31T15:52:30+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "NASA satellites detected 13,241 fire spots in Pakistan's Punjab between October 1 and 29, 4.2 times the 3,158 in Indian Punjab, according to a HamariHawa analysis reported by Dawn.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041172/pakistans-punjab-records-42-times-more-crop-fire-detections-than-indian-punjab-report",
+    "published_at": "2026-10-31T15:07:22+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-punjab-crop-fire-detections-4x-indian-punjab",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412062644,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5202118192282354740",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412062668,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4934869789716820737",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412062677,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8715839971832057563",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Drift Away (Instrumental) - Giulio Cercato",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 15:00-17:00 plus six-hour windows 29 Oct 15:00 -> 1 Nov 04:00 all succeeded. No post at 16:00. RiseUp day 31 Oct before this post: 4 news feed posts (11,12,13,14), 3 with TikTok; now 5 and 4.",
+  "previous_slot_check": "Slot 15:00 was skipped (no posts). Slot 14:00: feed 412006656 FB+TikTok PUBLISHED, Reel 412006674 IG PUBLISHED (Upside Down - Mike Block, music), Story 412006680 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched approved outlets. Picked Dawn crop-fire detections report (published 15:07:22 PKT, updated 15:09:29 PKT; 2h window). Not a duplicate of last 48h.",
+  "verification": "Single approved source (Dawn) read in full via fetch: 13,241 vs 3,158 fire spots Oct 1-29, 4.2x, 92% on farmland, Lahore AQI 232 at 1pm Oct 31 (IQAir), HamariHawa analysis of NASA FIRMS data.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, task 3f44ffab-5f38-4145-989d-a814c0541a17; smoky stubble fields, distant anonymous farmers, no text.",
+  "publish": "Card and zoom MP4 (8s, 1080x1920, plays, shows card) checked. Feed/Reel/Story created from payloads; Reel audio audioType music with displayArtist Giulio Cercato. getScheduledPosts 15:55-16:10 confirms all three PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan eyes $40-50bn halal exports at first Pakistan Halal Forum (Arab News 15:08 PKT)",
+   "reason": "Fresh and valid but lower impact for ordinary people than the smog/crop-fire story."
+  }
+ ],
+ "errors": []
+}

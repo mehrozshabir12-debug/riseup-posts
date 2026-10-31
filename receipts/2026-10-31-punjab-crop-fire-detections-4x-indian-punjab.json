@@ -1,0 +1,31 @@
+{
+ "id": "2026-10-31-punjab-crop-fire-detections-4x-indian-punjab",
+ "scheduled": "2026-10-31T16:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 412062644,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5202118192282354740"
+  },
+  "reel": {
+   "metricool_id": 412062668,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4934869789716820737",
+   "music": "Drift Away (Instrumental) - Giulio Cercato",
+   "audioType": "music"
+  },
+  "story": {
+   "metricool_id": 412062677,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8715839971832057563"
+  }
+ }
+}
