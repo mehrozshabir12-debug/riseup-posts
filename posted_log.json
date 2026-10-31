@@ -5323,10 +5323,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 14:00 PKT",
+  "scheduled": "2026-10-31T14:00:00+05:00",
   "music": "Upside Down - Mike Block",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-pakistan-win-toss-trinations-final-sl.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412006656,
+   "reel": 412006674,
+   "story": 412006680
+  },
+  "video": "posts/2026-10-31-pakistan-win-toss-trinations-final-sl.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
