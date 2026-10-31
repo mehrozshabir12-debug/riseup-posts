@@ -1,1 +1,43 @@
-{"slot": "2026-10-31T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T09:46:13+05:00"}
+{
+ "slot": "2026-10-31T10:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T09:46:13+05:00",
+ "run_finished_pkt": "2026-10-31T09:53:00+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": null,
+ "music": "none",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts windows 29 Oct 09:00 -> 31 Oct 22:00 all succeeded; no post at 10:00; RiseUp day 31 Oct counts: 0 news, 0 TikTok.",
+  "previous_slot_check": "Previous slot 00:00 (31 Oct): feed 411566299 FB+TikTok PUBLISHED, Reel 411566328 PUBLISHED (music Slow Living - stereogully), Story 411566358 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched Pakistan news for 08:00-10:00 and wider (to 02:00) windows. Only candidate with a verified timestamp was Dawn's PIVOT plan story (published 04:19, updated 09:27 PKT) but the launch happened on Friday and was first reported Friday, outside 8h. Tri-series final preview = duplicate of the 21:00 post. Web fetch of listing pages (dawn.com/latest-news) failed with PROVENANCE_REQUIRED and each fetch took ~5 min, leaving no time to verify another story (or a showbiz fallback) before the 10:15 cutoff.",
+  "verification": "no candidate passed",
+  "image": "not generated (order rule)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "CM Maryam launches Rs2 trillion PIVOT initiative (Dawn, 31 Oct 04:19 PKT)",
+   "reason": "event on Friday 30 Oct; first-report time of event is outside the 8-hour window"
+  },
+  {
+   "headline": "Pakistan vs Sri Lanka tri-series final preview (Arab News / Tribune)",
+   "reason": "duplicate of 30 Oct 21:00 post (final preview)"
+  },
+  {
+   "headline": "Pakistan warns of Taliban repression / Angoor Adda clashes statements",
+   "reason": "Friday events, conflict/political; timestamps not verified in time"
+  },
+  {
+   "headline": "Showbiz fallback",
+   "reason": "no time left to verify a showbiz article timestamp before the slot cutoff"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.dawn.com/latest-news: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time"
+ ]
+}
