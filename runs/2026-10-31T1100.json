@@ -1,1 +1,94 @@
-{"slot": "2026-10-31T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T10:46:44+05:00"}
+{
+ "slot": "2026-10-31T11:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T10:46:44+05:00",
+ "run_finished_pkt": "2026-10-31T10:52:41+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan's fodder exports fell 49 percent to $15.5 million in July-September 2026 from $30.1 million in the previous quarter as the US-Iran war raised freight costs; some Sindh farmers are uprooting Rhodes grass to plant wheat (Arab News).",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-fodder-farmers-uproot-crops-as-us-iran-war-eats-into-export-profits-3005704",
+    "published_at": "2026-10-31T10:03:46+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-fodder-exports-fall-49pc-sindh-farmers",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 411937888,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4485916527460465386",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 411937896,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8312242659683945307",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 411937906,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3451222806545805785",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Melodic Mountain - Ross Lara",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 6h windows 29 Oct 10:00 -> 31 Oct 23:00 all succeeded. No post at 11:00. RiseUp day 31 Oct counts before this post: 0 news, 0 TikTok.",
+  "previous_slot_check": "Previous slot 10:00 was skipped (no posts). Last posts 00:00 slot (411566299/411566328/411566358) all PUBLISHED, checked by 10:00 run and seen PUBLISHED again.",
+  "news_search": "Chose Arab News feature published 10:03 PKT (within 2h of T). Rejected candidates listed below.",
+  "verification": "Single approved outlet (Arab News); article read, meta published_time 2026-10-31T05:03:46Z = 10:03 PKT; all figures checked against article (49%, $15.5m, $30.1m, Rs27,000-30,000/ton vs Rs56,000).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, no text/logos/public figures.",
+  "publish": "Card and zoom MP4 (8 s) looked at; feed FB+TikTok, IG Reel with music (audioType music, displayArtist Ross Lara), FB+IG Story at 11:05 all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "DG ISPR: Pakistan committed to defending Saudi Arabia, not part of intra-Yemen conflict (Arab News/Reuters 10:30)",
+   "reason": "same Friday Reuters interview already posted at 00:00 (duplicate event, new angle only)"
+  },
+  {
+   "headline": "Diesel up Rs2.29, petrol unchanged (Dawn 30 Oct 23:45)",
+   "reason": "older than 8 hours before T"
+  },
+  {
+   "headline": "Pakistan seeks Saudi LPG/energy support (Tribune 03:18)",
+   "reason": "same Malik-Saudi ambassador meeting posted 30 Oct 15:00 (duplicate)"
+  },
+  {
+   "headline": "Govt confirms winding up of PASSCO (Brecorder 05:33)",
+   "reason": "event was Friday NA written reply; older than 8 h"
+  },
+  {
+   "headline": "Banks open till 8pm Saturday for tax collection (APP 29 Oct)",
+   "reason": "published 29 Oct, too old"
+  },
+  {
+   "headline": "Pakistan strikes Afghan Taliban posts after cross-border attack (Geo)",
+   "reason": "conflict/violence; Geo page could not be fetched to verify timestamp"
+  },
+  {
+   "headline": "Tri-series final preview",
+   "reason": "duplicate of 30 Oct 21:00 post"
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest/688588: client_error (no content)"
+ ]
+}
