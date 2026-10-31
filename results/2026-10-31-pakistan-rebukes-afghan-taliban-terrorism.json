@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-31-pakistan-rebukes-afghan-taliban-terrorism",
+ "revision": 1,
+ "request": "requests/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.json",
+ "type": "news",
+ "headline": "Pakistan's information ministry on Saturday rebuked Afghan Taliban spokesperson Zabihullah Mujahid's remarks, saying the Taliban's persistent refusal to address terrorism from Afghan soil remains the principal obstacle to normal relations, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-01T00:00:00+05:00",
+ "target_slot": "2026-11-01T00:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.jpg",
+  "story": "posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism-story.jpg",
+  "reel": "posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 830060066,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-01T00:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan ka Afghan Taliban ko sakht jawab!\nDawn ke mutabiq Saturday ko information ministry ne Afghan Taliban spokesperson Zabihullah Mujahid ke Hurriyat Radio interview par jawab dete hue kaha ke Afghan sarzameen se dehshatgardi ko address karne se Taliban ka musalsal inkaar hi normal ta'luqat mein sab se bari rukawat hai. Ministry ke mutabiq dehshatgardi red line hai aur shehriyon ki security par koi samjhauta nahi.\nAap ka kya khayal hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakAfghan #Afghanistan #Terrorism #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan ka Afghan Taliban ko jawab: dehshatgardi se inkaar sab se bari rukawat",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-01T00:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan ka Afghan Taliban ko sakht jawab!\nDawn ke mutabiq Saturday ko information ministry ne Afghan Taliban spokesperson Zabihullah Mujahid ke Hurriyat Radio interview par jawab dete hue kaha ke Afghan sarzameen se dehshatgardi ko address karne se Taliban ka musalsal inkaar hi normal ta'luqat mein sab se bari rukawat hai. Ministry ke mutabiq dehshatgardi red line hai aur shehriyon ki security par koi samjhauta nahi.\nAap ka kya khayal hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakAfghan #Afghanistan #Terrorism #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "985048086988929",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-01T00:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-31T23:50:04+05:00"
+}

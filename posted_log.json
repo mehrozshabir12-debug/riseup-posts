@@ -5717,5 +5717,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-11-01T00:00:00+05:00",
+  "request_id": "2026-10-31-pakistan-rebukes-afghan-taliban-terrorism",
+  "layout": "bold",
+  "headline": "Pakistan's information ministry on Saturday rebuked Afghan Taliban spokesperson Zabihullah Mujahid's remarks, saying the Taliban's persistent refusal to address terrorism from Afghan soil remains the principal obstacle to normal relations, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2041221/pakistan-slams-afghan-taliban-for-shifting-blame-persistent-refusal-to-address-terrorism-issues",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041221/pakistan-slams-afghan-taliban-for-shifting-blame-persistent-refusal-to-address-terrorism-issues",
+    "published_at": "2026-10-31T23:32:40+05:00"
+   }
+  ],
+  "published": "2026-10-31T23:32:40+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 830060066,
+  "image": "posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.jpg",
+  "story": "posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-01 00:00 PKT",
+  "music": "Vow (Instrumental) - Ross Lara",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.mp4"
  }
 ]
