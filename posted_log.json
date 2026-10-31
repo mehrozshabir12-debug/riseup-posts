@@ -5438,5 +5438,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T18:00:00+05:00",
+  "request_id": "2026-10-31-secp-marks-39704-companies-inactive",
+  "layout": "bold",
+  "headline": "The SECP said on Saturday it has marked 39,704 companies 'Inactive by Registrar' for failing to file annual returns and/or financial statements for four years, barring them from opening new bank accounts until they file, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446806/secp-marks-over-39000-non-filing-companies-inactive",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446806/secp-marks-over-39000-non-filing-companies-inactive",
+    "published_at": "2026-10-31T17:36:08+05:00"
+   }
+  ],
+  "published": "2026-10-31T17:36:08+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 675729270,
+  "image": "posts/2026-10-31-secp-marks-39704-companies-inactive.jpg",
+  "story": "posts/2026-10-31-secp-marks-39704-companies-inactive-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 18:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-secp-marks-39704-companies-inactive.mp4"
  }
 ]
