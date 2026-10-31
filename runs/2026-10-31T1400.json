@@ -1,1 +1,86 @@
-{"slot": "2026-10-31T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T13:46:52+05:00"}
+{
+ "slot": "2026-10-31T14:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T13:46:50+05:00",
+ "run_finished_pkt": "2026-10-31T13:52:19+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan won the toss and chose to bowl first against Sri Lanka in the tri-nation ODI series final at Gaddafi Stadium, Lahore, with Faheem Ashraf replacing Shadab Khan, who was ruled out on medical grounds, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041167/pakistan-win-toss-bowl-first-in-tri-series-final-against-sri-lanka",
+    "published_at": "2026-10-31T12:53:21+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-pakistan-win-toss-trinations-final-sl",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-win-toss-trinations-final-sl.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (wide stadium view, distant anonymous players, no text/logos)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412006656,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3237892014795473925",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412006674,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-832614652538828386",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412006680,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1221930365489953701",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Upside Down - Mike Block",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 13:00-15:00 plus windows 29 Oct 12:00 -> 1 Nov 02:00 all succeeded. No post at 14:00. RiseUp day 31 Oct before this post: 3 news feed posts, 2 with TikTok.",
+  "previous_slot_check": "Slot 13:00: feed 411983106 FB PUBLISHED, Reel 411983119 IG PUBLISHED (Sunday In October - Trout Recording, music), Story 411983127 FB+IG PUBLISHED. No errors.",
+  "news_search": "Chose Dawn 12:53 PKT story (1h07m before T, 2h window): Pakistan won toss in tri-series final vs Sri Lanka. Not a duplicate (30 Oct 21:00 post was the pre-final captain preview). Rejected others below.",
+  "verification": "Dawn article read via fetch: meta published/modified 2026-10-31T12:53:21+05:00, byline Dawn Sport. Facts checked: Pakistan won toss and chose to field; captain Shaheen Shah Afridi; Faheem Ashraf replaces Shadab Khan (ruled out on medical grounds); venue Gaddafi Stadium Lahore; Saturday Oct 31.",
+  "image": "Runway nano-banana-2-lite 4:3, one image, checked: no text, no identifiable people.",
+  "publish": "Feed, Reel and Story created from results payloads; all PENDING; Reel audio audioType music, displayArtist Mike Block (verified-list numeric id; trending search skipped for time). Card and zoom MP4 (8 s, 1080x1920) checked."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan faces winter gas crisis as Qatar extends LNG supply halt (Geo)",
+   "reason": "Geo page could not be fetched (client_error), timestamp unverifiable; related Reuters story in Arab News/BR is from 27 Oct (too old)."
+  },
+  {
+   "headline": "Punjab private MBBS admissions open till Nov 6 (APP 13:30)",
+   "reason": "Article attributes the information to unnamed 'sources'; rule skips 'sources say'."
+  },
+  {
+   "headline": "Experts see USD50bn potential in Halal exports (BR 05:33)",
+   "reason": "8h27m before T, outside 8h window."
+  },
+  {
+   "headline": "Profit-taking, rising oil prices drag PSX lower (BR 05:33)",
+   "reason": "Outside 8h window; covers Friday's session."
+  },
+  {
+   "headline": "Pakistan Army destroys Afghan Taliban posts (Tribune)",
+   "reason": "Military clash/violence; not suitable."
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest/689116: client_error"
+ ]
+}

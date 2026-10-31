@@ -1,0 +1,32 @@
+{
+ "id": "2026-10-31-pakistan-win-toss-trinations-final-sl",
+ "scheduled": "2026-10-31T14:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 412006656,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 412006674,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "581639516835198",
+    "audioType": "music",
+    "title": "Upside Down",
+    "displayArtist": "Mike Block"
+   }
+  },
+  "story": {
+   "metricool_id": 412006680,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
