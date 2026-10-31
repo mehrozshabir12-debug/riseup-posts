@@ -1,0 +1,141 @@
+{
+ "id": "2026-10-31-pakistan-halal-forum-export-target",
+ "revision": 1,
+ "request": "requests/2026-10-31-pakistan-halal-forum-export-target.json",
+ "type": "news",
+ "headline": "The first Pakistan Halal Forum 2026 concluded in Karachi on Saturday, with the Pakistan Halal Authority saying it aims to lift halal exports to $40-50 billion a year; organisers say Pakistan has less than 1% share of the global halal economy, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 6 TikTok posts on RiseUp day 2026-10-31; allowed by 21:00 = 6 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-10-31T21:00:00+05:00",
+ "target_slot": "2026-10-31T21:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-halal-forum-export-target.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-halal-forum-export-target-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-halal-forum-export-target.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-31-pakistan-halal-forum-export-target.jpg",
+  "story": "posts/2026-10-31-pakistan-halal-forum-export-target-story.jpg",
+  "reel": "posts/2026-10-31-pakistan-halal-forum-export-target.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 630788321,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T21:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Halal exports ko $40-50 billion saalana tak le jane ka hadaf!\nArab News ke mutabiq Karachi mein pehla Pakistan Halal Forum 2026 Saturday ko khatam hua. Pakistan Halal Authority ke mutabiq maqsad raw material ke bajaye certified value-added products bech kar halal exports ko $40-50 billion saalana tak le jana hai, jab ke organisers ke mutabiq global halal economy mein Pakistan ka hissa abhi 1% se kam hai.\nKya Pakistan halal hub ban sakta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Halal #Exports #Karachi #PakistanEconomy",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-halal-forum-export-target.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T21:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Halal exports ko $40-50 billion saalana tak le jane ka hadaf!\nArab News ke mutabiq Karachi mein pehla Pakistan Halal Forum 2026 Saturday ko khatam hua. Pakistan Halal Authority ke mutabiq maqsad raw material ke bajaye certified value-added products bech kar halal exports ko $40-50 billion saalana tak le jana hai, jab ke organisers ke mutabiq global halal economy mein Pakistan ka hissa abhi 1% se kam hai.\nKya Pakistan halal hub ban sakta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Halal #Exports #Karachi #PakistanEconomy",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-halal-forum-export-target.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-halal-forum-export-target-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1131479132514825",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T21:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-halal-forum-export-target-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-31T20:52:09+05:00"
+}
