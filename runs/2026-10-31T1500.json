@@ -1,1 +1,57 @@
-{"slot": "2026-10-31T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T14:47:01+05:00"}
+{
+ "slot": "2026-10-31T15:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T14:47:01+05:00",
+ "run_finished_pkt": "2026-10-31T14:54:16+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "freshness_window": null,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 14:00-16:00 plus windows 29 Oct 14:00 -> 1 Nov 03:00 all succeeded. No post at 15:00. RiseUp day 31 Oct: 4 news feed posts (11,12,13,14), 3 with TikTok. Music used today: Melodic Mountain, Cafe Lovers, Sunday In October, Upside Down.",
+  "previous_slot_check": "Slot 14:00: feed 412006656 FB+TikTok PUBLISHED, Reel 412006674 IG PUBLISHED (Upside Down - Mike Block, music), Story 412006680 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched approved outlets (Dawn, Tribune, Geo, BR, APP, Arab News, The News). No candidate within 8h of T passed all rules and could be verified from the article itself; Geo and Dawn latest-news listing pages could not be fetched. Showbiz fallback (2B) also found nothing fresh and suitable.",
+  "verification": "n/a",
+  "image": "Not generated (no story passed; order rule).",
+  "publish": "Nothing scheduled."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan knocked out of Hong Kong Sixes 2026 main trophy race (Geo)",
+   "reason": "Geo article fetch failed (client_error); timestamp unverifiable; no approved-outlet alternative found."
+  },
+  {
+   "headline": "Petrol price unchanged, diesel raised by Rs2.29 (Dawn)",
+   "reason": "Published 2026-10-30T23:45+05:00, over 15h before T (outside 8h)."
+  },
+  {
+   "headline": "Banks open till 8pm on Saturday 31 Oct for tax collection (APP)",
+   "reason": "Published 2026-10-29T18:57+05:00, too old."
+  },
+  {
+   "headline": "Pakistan committed to defending Saudi Arabia, not part of intra-Yemen conflict (Arab News/Reuters 10:30 PKT)",
+   "reason": "Military/conflict topic, and same DG ISPR interview already posted at 00:00 (duplicate)."
+  },
+  {
+   "headline": "Court grants bail to anchorperson Iqrarul Hassan (Dawn)",
+   "reason": "Criminal court case about an individual; not suitable."
+  },
+  {
+   "headline": "Pakistan slams/urges Afghan Taliban (Tribune)",
+   "reason": "Military clash/conflict; not suitable."
+  },
+  {
+   "headline": "Danyal Zafar announces break from showbiz (Tribune/Images)",
+   "reason": "Not within 8h (older story) and personal wellbeing topic; not suitable for showbiz fallback."
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest/689104: client_error",
+  "WebFetch dawn.com/latest-news: PROVENANCE_REQUIRED - The permission request for this URL was not answered in time. Do not retry."
+ ]
+}
