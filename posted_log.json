@@ -5392,5 +5392,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T17:00:00+05:00",
+  "request_id": "2026-10-31-gold-falls-rs10800-per-tola",
+  "layout": "bold",
+  "headline": "Gold prices in Pakistan fell by Rs10,800 per tola on Saturday to Rs409,736, while 10-gram gold dropped Rs9,259 to Rs351,282, Business Recorder reported citing APGJSA rates.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446801/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446801/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+    "published_at": "2026-10-31T16:15:39+05:00"
+   }
+  ],
+  "published": "2026-10-31T16:15:39+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 841056849,
+  "image": "posts/2026-10-31-gold-falls-rs10800-per-tola.jpg",
+  "story": "posts/2026-10-31-gold-falls-rs10800-per-tola-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 17:00 PKT",
+  "music": "Glow (Instrumental) - KNOTTS",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-gold-falls-rs10800-per-tola.mp4"
  }
 ]
