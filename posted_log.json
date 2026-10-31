@@ -5649,10 +5649,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 22:00 PKT",
+  "scheduled": true,
   "music": "Float (Instrumental) - Sleeping Lion",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-lakki-marwat-judicial-complex-firing.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412300904,
+   "reel": 412300917,
+   "story": 412300928
+  },
+  "video": "posts/2026-10-31-lakki-marwat-judicial-complex-firing.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
