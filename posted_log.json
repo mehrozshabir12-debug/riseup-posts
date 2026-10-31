@@ -5205,5 +5205,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T12:00:00+05:00",
+  "request_id": "2026-10-31-pakistan-ksa-push-early-gcc-fta",
+  "layout": "bold",
+  "headline": "Commerce Minister Jam Kamal Khan and new Saudi Ambassador Dr Rajeh Albugamy discussed the early signing and implementation of the Pakistan-GCC Free Trade Agreement in Islamabad, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement",
+    "published_at": "2026-10-31T11:04:17+05:00"
+   }
+  ],
+  "published": "2026-10-31T11:04:17+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 908960257,
+  "image": "posts/2026-10-31-pakistan-ksa-push-early-gcc-fta.jpg",
+  "story": "posts/2026-10-31-pakistan-ksa-push-early-gcc-fta-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 12:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-pakistan-ksa-push-early-gcc-fta.mp4"
  }
 ]
