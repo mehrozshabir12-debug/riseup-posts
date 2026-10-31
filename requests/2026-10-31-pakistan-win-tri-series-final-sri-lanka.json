@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-31-pakistan-win-tri-series-final-sri-lanka",
+ "type": "news",
+ "headline": "Pakistan beat Sri Lanka by three wickets in the tri-nation ODI series final at Gaddafi Stadium, Lahore, chasing 326 to finish on 327 for seven, with Fakhar Zaman scoring 127 off 99 balls and Arafat Minhas 61 off 31, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2041167/fakhar-zaman-and-arafat-minhas-lead-pakistan-to-tri-series-glory",
+   "published_at": "2026-10-31T21:51:02+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/db3cbce0-a05e-48ec-bedc-d663f5cf34d8/1effa29d-cd30-4886-b8cc-cde465adddb9/Realistic_news_photo_at_night_inside_a_large_cricket_stadium.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOGRkODA4YWM3ODdhMmJhOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzYwNzg1Mn0.25gnnya_Y7UuZVKWzxtXcKIEs07ccO3GDm4ySDh6bSk",
+  "head1": "Pakistan ne jeeta",
+  "head2_hl": "Tri-Series",
+  "head2": "Final",
+  "kicker": "Sri Lanka ko 3 wickets se haraya",
+  "desc": "Fakhar Zaman 127, Arafat Minhas 61; 326 ka target hasil",
+  "source": "Dawn",
+  "date": "31 OCT 2026"
+ },
+ "caption": "Pakistan ne tri-series final jeet liya!\nDawn ke mutabiq Gaddafi Stadium Lahore mein Pakistan ne Sri Lanka ka 326 runs ka target 7 wickets par hasil kar ke final 3 wickets se jeet liya. Fakhar Zaman ne 99 balls par 127, Saad Baig ne 74 aur Arafat Minhas ne 31 balls par 61 runs banaye, aur captain Shaheen Shah Afridi ne chakka maar kar match khatam kiya.\nIs jeet ka asal hero kaun hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TriSeries #PakistanCricket #FakharZaman",
+ "tiktok_title": "Pakistan ne tri-series final jeet liya, Sri Lanka ko 3 wickets se haraya",
+ "publish": {
+  "slot": "2026-10-31T23:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1543577430102877",
+  "label": "The Process - Jackson Whalan"
+ },
+ "ai_generated": true
+}
