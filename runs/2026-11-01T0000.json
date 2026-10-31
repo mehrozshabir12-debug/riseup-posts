@@ -1,1 +1,63 @@
-{"slot": "2026-11-01T00:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T23:46:41+05:00"}
+{
+ "slot": "2026-11-01T00:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T23:46:41+05:00",
+ "run_finished_pkt": "2026-10-31T23:51:42+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan's information ministry on Saturday rebuked Afghan Taliban spokesperson Zabihullah Mujahid's remarks, saying the Taliban's persistent refusal to address terrorism from Afghan soil remains the principal obstacle to normal relations, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041221/pakistan-slams-afghan-taliban-for-shifting-blame-persistent-refusal-to-address-terrorism-issues",
+    "published_at": "2026-10-31T23:32:40+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-pakistan-rebukes-afghan-taliban-terrorism",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (task adda562d-05d1-4178-91a9-de83b344b18c; empty mountain border road at dusk with distant fence/watchtower, no text, logos or people)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412383223,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4713963081478720206",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412383247,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6879088500141016026",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412383256,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3648184595960609949",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Vow (Instrumental) - Ross Lara",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB+IG+TikTok connected; T-1h..T+1h and all 6h windows 29 Oct 23:47 .. 1 Nov 11:47 read OK; no post at 00:00; RiseUp day 2026-10-31: 12 news feed posts before this, 7 with TikTok (this is the 8th)",
+  "previous_slot_check": "23:00 feed 412341772 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122188539014855502); reel 412341789 IG PUBLISHED (https://www.instagram.com/reel/DfKwvZ7j2Wj/); story 412341800 FB+IG PUBLISHED",
+  "news_search": "2h window: Dawn story on information ministry statement rebutting Afghan Taliban spokesperson (published 23:32 PKT) chosen; not covered in last 48h. Trending-music web search skipped for time; verified calm numeric id used (unused today).",
+  "verification": "Dawn article read directly; article:published_time = modified_time 2026-10-31 23:32:40+05:00; byline News Desk; quotes on ministry statement and Mujahid's Hurriyat Radio interview checked",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt",
+  "publish": "results awaiting_publish; card and 8s zoom MP4 checked; feed FB+TikTok, reel IG with music (audioType music, displayArtist Ross Lara), story FB+IG at 00:05; all PENDING"
+ },
+ "skipped_candidates": [],
+ "errors": []
+}
