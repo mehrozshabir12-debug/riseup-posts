@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-31-ptba-seeks-34-day-tax-return-extension",
+ "type": "news",
+ "headline": "The Pakistan Tax Bar Association has asked FBR Chairman Rashid Mahmood Langrial for a further 34-day extension to file Tax Year 2026 income tax returns, whose FBR-extended deadline is October 31, Business Recorder reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40446758/income-tax-returns-ptba-urges-fbr-to-grant-a-further-34-day-extension",
+   "published_at": "2026-10-31T05:33:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/73e7466f-e221-46db-b640-3de583175993/47a36cce-47f8-4aa5-aa92-b4f218f8cc3d/Realistic_photo_of_a_small_tax_consultant_s_office_in_Lahore.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMmFjNzhkMTMzY2NlODE4ZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzU3MzY1MX0.wn9-5EhbsU7gsg0Y2UV9GDLoJKyCkPMzrSOVarP4Q0E",
+  "head1": "Income tax return",
+  "head2_hl": "Deadline aaj",
+  "head2": "",
+  "kicker": "PTBA ki 34 din ki maang",
+  "desc": "PTBA ne FBR se 34 din mazeed mohlat maangi",
+  "source": "Business Recorder",
+  "date": "31 OCT 2026"
+ },
+ "caption": "Income tax return ki FBR deadline aaj, 31 October!\nBusiness Recorder ke mutabiq Pakistan Tax Bar Association (PTBA) ne FBR Chairman Rashid Mahmood Langrial se Tax Year 2026 ke returns ke liye mazeed 34 din ki extension maangi hai. 29 October tak FBR ko 7.3 million returns mil chuke thay.\nKya aap ne apna return file kar diya? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #FBR #IncomeTax #TaxReturn #PakistanNews",
+ "tiktok_title": "Income tax return ki FBR deadline aaj, PTBA ne 34 din mazeed maange",
+ "publish": {
+  "slot": "2026-10-31T13:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
