@@ -1,1 +1,76 @@
-{"slot": "2026-10-31T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T21:46:37+05:00"}
+{
+ "slot": "2026-10-31T22:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T21:46:37+05:00",
+ "run_finished_pkt": "2026-10-31T21:54:25+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "3h",
+ "story": {
+  "headline": "A police constable was martyred and two other people were injured when unidentified gunmen opened fire outside an additional sessions judge's courtroom at the Judicial Complex in Lakki Marwat, Khyber Pakhtunkhwa, on Saturday, Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2637937/police-constable-martyred-two-injured-in-firing-at-lakki-marwat-judicial-complex",
+    "published_at": "2026-10-31T19:00:44+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-lakki-marwat-judicial-complex-firing",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-lakki-marwat-judicial-complex-firing.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (task 9e2e896d-6835-4d3f-8302-5250e90246e6; anonymous police guards seen from behind with slung rifles, nothing pointed, no text/logos/public figures)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412300904,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3716380870970945825",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412300917,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8033394817494631791",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412300928,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=275853036017831244",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Float (Instrumental) - Sleeping Lion",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB+IG+TikTok connected; all 6h windows 29 Oct 21:45 .. 1 Nov 09:50 read OK; no post at 22:00; RiseUp day 2026-10-31: 10 news feed posts before this, 6 with TikTok",
+  "previous_slot_check": "21:00 feed 412258715 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122188530032855502); reel 412258740 IG PUBLISHED (https://www.instagram.com/reel/DfKjDlJlk0D/); story 412258755 FB+IG PUBLISHED",
+  "news_search": "2h window: no candidate passed (see skipped_candidates); 3h window: Express Tribune Lakki Marwat judicial complex firing (19:00 PKT) chosen. Trending-music web search skipped; verified numeric id used.",
+  "verification": "Express Tribune article read directly; article:published_time 2026-10-31T14:00:44+00:00 = 19:00:44 PKT; constable Karamatullah killed, PPP's Javed Iqbal and Inshaullah injured, injured taken to Bannu (DHQ spokesperson Jalal Khan); complex sealed, investigation started",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt",
+  "publish": "results awaiting_publish; card and 8s zoom MP4 checked; feed FB+TikTok, reel IG with music (audioType music, displayArtist Sleeping Lion), story FB+IG all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Tri-series final result (Pakistan chasing 326 vs Sri Lanka, Lahore)",
+   "reason": "no approved outlet had published the result yet (Dawn 2041167 and Geo 689108 still pre-result)"
+  },
+  {
+   "headline": "Arab News 21:34: Pakistan braces for winter gas crunch as Qatar halts LNG supply till end-December",
+   "reason": "event (QatarEnergy force majeure extended to end-Dec) first reported 27 Oct 2026 (Reuters via Arab News 3005425); not fresh"
+  },
+  {
+   "headline": "Arab News 16:25: PM says center imposed emergency in KP to curb militancy",
+   "reason": "one-sided political statement against provincial govt/PTI; emergency itself imposed earlier this month"
+  }
+ ],
+ "errors": []
+}
