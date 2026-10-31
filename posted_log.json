@@ -5485,5 +5485,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T19:00:00+05:00",
+  "request_id": "2026-10-31-sri-lanka-set-pakistan-326-tri-series-final",
+  "layout": "bold",
+  "headline": "Kamindu Mendis struck 131 off 128 balls, his maiden ODI century, as Sri Lanka posted 325 and set Pakistan a target of 326 in the tri-series final at Gaddafi Stadium, Lahore, on Saturday, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2041167/kamindu-mendis-blitz-sets-pakistan-326-to-win-in-tri-series-final",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041167/kamindu-mendis-blitz-sets-pakistan-326-to-win-in-tri-series-final",
+    "published_at": "2026-10-31T17:45:21+05:00"
+   }
+  ],
+  "published": "2026-10-31T17:45:21+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 947343018,
+  "image": "posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.jpg",
+  "story": "posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 19:00 PKT",
+  "music": "Chase It (Instrumental) - JQ, The Red Collective",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.mp4"
  }
 ]

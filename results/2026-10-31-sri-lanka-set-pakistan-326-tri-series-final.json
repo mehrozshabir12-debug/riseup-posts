@@ -1,0 +1,141 @@
+{
+ "id": "2026-10-31-sri-lanka-set-pakistan-326-tri-series-final",
+ "revision": 1,
+ "request": "requests/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.json",
+ "type": "news",
+ "headline": "Kamindu Mendis struck 131 off 128 balls, his maiden ODI century, as Sri Lanka posted 325 and set Pakistan a target of 326 in the tri-series final at Gaddafi Stadium, Lahore, on Saturday, Dawn reports.",
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-10-31; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-10-31T19:00:00+05:00",
+ "target_slot": "2026-10-31T19:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.jpg",
+  "story": "posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final-story.jpg",
+  "reel": "posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 947343018,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Final mein Pakistan ko 326 runs ka target!\nDawn ke mutabiq Gaddafi Stadium Lahore mein tri-series final mein Sri Lanka ne 325 runs banaye. Kamindu Mendis ne 128 balls par 131 runs ki innings kheli, jo un ki pehli ODI century hai. Salman Ali Agha ne 2 wickets liye.\nKya Pakistan ye target hasil kar lega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TriSeries #PakistanCricket #Cricket",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Final mein Pakistan ko 326 runs ka target!\nDawn ke mutabiq Gaddafi Stadium Lahore mein tri-series final mein Sri Lanka ne 325 runs banaye. Kamindu Mendis ne 128 balls par 131 runs ki innings kheli, jo un ki pehli ODI century hai. Salman Ali Agha ne 2 wickets liye.\nKya Pakistan ye target hasil kar lega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TriSeries #PakistanCricket #Cricket",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "2991194837697937",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-sri-lanka-set-pakistan-326-tri-series-final-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-31T18:52:25+05:00"
+}
