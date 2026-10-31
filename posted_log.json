@@ -5345,5 +5345,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T16:00:00+05:00",
+  "request_id": "2026-10-31-punjab-crop-fire-detections-4x-indian-punjab",
+  "layout": "bold",
+  "headline": "NASA satellites detected 13,241 fire spots in Pakistan's Punjab between October 1 and 29, 4.2 times the 3,158 in Indian Punjab, according to a HamariHawa analysis reported by Dawn.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2041172/pakistans-punjab-records-42-times-more-crop-fire-detections-than-indian-punjab-report",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041172/pakistans-punjab-records-42-times-more-crop-fire-detections-than-indian-punjab-report",
+    "published_at": "2026-10-31T15:07:22+05:00"
+   }
+  ],
+  "published": "2026-10-31T15:07:22+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 492085519,
+  "image": "posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.jpg",
+  "story": "posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 16:00 PKT",
+  "music": "Drift Away (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.mp4"
  }
 ]

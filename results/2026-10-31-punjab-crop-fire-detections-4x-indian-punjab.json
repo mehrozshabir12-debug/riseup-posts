@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-31-punjab-crop-fire-detections-4x-indian-punjab",
+ "revision": 1,
+ "request": "requests/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.json",
+ "type": "news",
+ "headline": "NASA satellites detected 13,241 fire spots in Pakistan's Punjab between October 1 and 29, 4.2 times the 3,158 in Indian Punjab, according to a HamariHawa analysis reported by Dawn.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-31T16:00:00+05:00",
+ "target_slot": "2026-10-31T16:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.jpg",
+  "story": "posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab-story.jpg",
+  "reel": "posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 492085519,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistani Punjab mein aag ke 13,241 spots, Indian Punjab se 4.2 guna zyada!\nDawn ke mutabiq HamariHawa ke analysis mein NASA satellites ne 1 se 29 October tak Pakistani Punjab mein 13,241 fire spots detect kiye, jab ke Indian Punjab mein 3,158. Inn mein se 92 percent kheton mein thay. IQAir ke mutabiq 31 October dopehar 1 baje Lahore ka AQI 232 tha.\nSmog se bachne ke liye aap kya kar rahe hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Smog #Lahore #AirQuality #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistani Punjab mein aag ke 13,241 spots, Indian Punjab se 4.2 guna zyada",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistani Punjab mein aag ke 13,241 spots, Indian Punjab se 4.2 guna zyada!\nDawn ke mutabiq HamariHawa ke analysis mein NASA satellites ne 1 se 29 October tak Pakistani Punjab mein 13,241 fire spots detect kiye, jab ke Indian Punjab mein 3,158. Inn mein se 92 percent kheton mein thay. IQAir ke mutabiq 31 October dopehar 1 baje Lahore ka AQI 232 tha.\nSmog se bachne ke liye aap kya kar rahe hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Smog #Lahore #AirQuality #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1211414204067053",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-punjab-crop-fire-detections-4x-indian-punjab-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-31T15:50:48+05:00"
+}
