@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-31-fodder-exports-fall-49pc-sindh-farmers",
+ "revision": 1,
+ "request": "requests/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.json",
+ "type": "news",
+ "headline": "Pakistan's fodder exports fell 49 percent to $15.5 million in July-September 2026 from $30.1 million in the previous quarter as the US-Iran war raised freight costs, and some Sindh farmers are uprooting Rhodes grass to plant wheat, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-10-31T11:00:00+05:00",
+ "target_slot": "2026-10-31T11:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.jpg",
+  "story": "posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers-story.jpg",
+  "reel": "posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 190672077,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T11:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Chara exports mein 49% kami!\nArab News ke mutabiq July-September 2026 mein Pakistan ki chara (fodder) exports 49% gir kar $15.5 million reh gayin, jo pichli quarter mein $30.1 million thin. Sindh mein kuch kisan Rhodes grass ukhaar kar gandum laga rahe hain, kyun ke rate Rs27,000-Rs30,000 per ton hai jo pichle saal Rs56,000 tha.\nKya kisanon ko madad milni chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Kisan #Sindh #Agriculture #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Chara exports 49% kam, Sindh ke kisan Rhodes grass ukhaar rahe hain",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T11:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Chara exports mein 49% kami!\nArab News ke mutabiq July-September 2026 mein Pakistan ki chara (fodder) exports 49% gir kar $15.5 million reh gayin, jo pichli quarter mein $30.1 million thin. Sindh mein kuch kisan Rhodes grass ukhaar kar gandum laga rahe hain, kyun ke rate Rs27,000-Rs30,000 per ton hai jo pichle saal Rs56,000 tha.\nKya kisanon ko madad milni chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Kisan #Sindh #Agriculture #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "297072506536797",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-10-31T11:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-10-31T10:51:07+05:00"
+}

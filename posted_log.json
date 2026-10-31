@@ -5158,5 +5158,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T11:00:00+05:00",
+  "request_id": "2026-10-31-fodder-exports-fall-49pc-sindh-farmers",
+  "layout": "bold",
+  "headline": "Pakistan's fodder exports fell 49 percent to $15.5 million in July-September 2026 from $30.1 million in the previous quarter as the US-Iran war raised freight costs, and some Sindh farmers are uprooting Rhodes grass to plant wheat, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistans-fodder-farmers-uproot-crops-as-us-iran-war-eats-into-export-profits-3005704",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-fodder-farmers-uproot-crops-as-us-iran-war-eats-into-export-profits-3005704",
+    "published_at": "2026-10-31T10:03:46+05:00"
+   }
+  ],
+  "published": "2026-10-31T10:03:46+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 190672077,
+  "image": "posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.jpg",
+  "story": "posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 11:00 PKT",
+  "music": "Melodic Mountain - Ross Lara",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-fodder-exports-fall-49pc-sindh-farmers.mp4"
  }
 ]
