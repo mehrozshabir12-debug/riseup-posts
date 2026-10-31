@@ -5556,10 +5556,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-10-31 20:08 PKT",
+  "scheduled": true,
   "music": "Reflection - Sam Marshall",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-mansehra-ac-vehicle-attacked-nowshera.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412224858,
+   "reel": 412224878,
+   "story": 412224889
+  },
+  "video": "posts/2026-10-31-mansehra-ac-vehicle-attacked-nowshera.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
