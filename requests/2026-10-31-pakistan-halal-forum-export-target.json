@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-31-pakistan-halal-forum-export-target",
+ "type": "news",
+ "headline": "The first Pakistan Halal Forum 2026 concluded in Karachi on Saturday, with the Pakistan Halal Authority saying it aims to lift halal exports to $40-50 billion a year; organisers say Pakistan has less than 1% share of the global halal economy, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-eyes-boosting-global-halal-market-share-with-50-billion-export-ambition-3005715",
+   "published_at": "2026-10-31T15:08:51+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/ef28e4cd-c1aa-4058-abfa-0bd39e2e13d2/77025135-83ec-49a8-afcf-15fc9aac94c0/Realistic_photo_of_a_busy_trade_exhibition_hall_in_a_Karachi.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNmIyMWRjYWM1ZDcxNTY1MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzU3OTY5Mn0.T0_yjkTNn4jfHUKw5FT1ghQ9MdrL_-h8tdO8JD7nMQI",
+  "head1": "Halal exports ka",
+  "head2_hl": "$40-50 billion",
+  "head2": "hadaf",
+  "kicker": "Karachi mein Pakistan Halal Forum",
+  "desc": "Global halal economy mein Pakistan ka hissa 1% se kam.",
+  "source": "Arab News",
+  "date": "31 OCT 2026"
+ },
+ "caption": "Halal exports ko $40-50 billion saalana tak le jane ka hadaf!\nArab News ke mutabiq Karachi mein pehla Pakistan Halal Forum 2026 Saturday ko khatam hua. Pakistan Halal Authority ke mutabiq maqsad raw material ke bajaye certified value-added products bech kar halal exports ko $40-50 billion saalana tak le jana hai, jab ke organisers ke mutabiq global halal economy mein Pakistan ka hissa abhi 1% se kam hai.\nKya Pakistan halal hub ban sakta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Halal #Exports #Karachi #PakistanEconomy",
+ "tiktok_title": "Halal exports ko $40-50 billion tak le jane ka hadaf, Karachi mein Halal Forum",
+ "publish": {
+  "slot": "2026-10-31T21:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1131479132514825",
+  "label": "Simple Pleasures - Alex Blue"
+ },
+ "ai_generated": true
+}
