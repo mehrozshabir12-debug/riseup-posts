@@ -5671,5 +5671,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-10-31",
+  "slot": "2026-10-31T23:00:00+05:00",
+  "request_id": "2026-10-31-pakistan-win-tri-series-final-sri-lanka",
+  "layout": "bold",
+  "headline": "Pakistan beat Sri Lanka by three wickets in the tri-nation ODI series final at Gaddafi Stadium, Lahore, chasing 326 to finish on 327 for seven, with Fakhar Zaman scoring 127 off 99 balls and Arafat Minhas 61 off 31, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2041167/fakhar-zaman-and-arafat-minhas-lead-pakistan-to-tri-series-glory",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041167/fakhar-zaman-and-arafat-minhas-lead-pakistan-to-tri-series-glory",
+    "published_at": "2026-10-31T21:51:02+05:00"
+   }
+  ],
+  "published": "2026-10-31T21:51:02+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 176252534,
+  "image": "posts/2026-10-31-pakistan-win-tri-series-final-sri-lanka.jpg",
+  "story": "posts/2026-10-31-pakistan-win-tri-series-final-sri-lanka-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-10-31 23:00 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-10-31-pakistan-win-tri-series-final-sri-lanka.mp4"
  }
 ]
