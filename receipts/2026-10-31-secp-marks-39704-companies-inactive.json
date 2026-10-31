@@ -1,0 +1,26 @@
+{
+ "id": "2026-10-31-secp-marks-39704-companies-inactive",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 412130135,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 412130160,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 412130176,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

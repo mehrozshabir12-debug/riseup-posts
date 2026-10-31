@@ -1,1 +1,72 @@
-{"slot": "2026-10-31T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T17:47:42+05:00"}
+{
+ "slot": "2026-10-31T18:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T17:47:42+05:00",
+ "run_finished_pkt": "2026-10-31T17:52:01+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The SECP said on Saturday it has marked 39,704 companies 'Inactive by Registrar' for failing to file annual returns and/or financial statements for four years, barring them from opening new bank accounts until they file, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446806/secp-marks-over-39000-non-filing-companies-inactive",
+    "published_at": "2026-10-31T17:36:08+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-secp-marks-39704-companies-inactive",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-secp-marks-39704-companies-inactive.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412130135,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1213355721035435473",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412130160,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4442427933733272944",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412130176,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6318813607100660851",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB/IG/TikTok connected). getScheduledPosts 17:00-19:00 plus windows 29 Oct 17:00 -> 1 Nov 06:00 all succeeded. No post at 18:00. RiseUp day 31 Oct before this post: 6 news feed posts (11,12,13,14,16,17), 4 with TikTok; now 7 news, 5 with TikTok.",
+  "previous_slot_check": "Slot 17:00: feed 412093443 FB PUBLISHED, Reel 412093451 IG PUBLISHED (Glow, music), Story 412093457 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched approved outlets (Dawn, Tribune, Brecorder etc.). Picked Business Recorder SECP story published 17:36:08 PKT (2h window). Not a duplicate of last 48h. Trending-audio web search skipped for time; used verified numeric list id (neutral/economy), unused this RiseUp day.",
+  "verification": "Single approved source (Business Recorder, BR Web Desk) read via fetch: 39,704 companies marked 'Inactive by Registrar' for not filing annual returns and/or financial statements for four years; cannot open new bank accounts until filing; Lahore 13,927, Islamabad 13,859. Published/modified 2026-10-31T17:36:08+05:00.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, task d47ff9b8-33da-42ea-8a9d-3f8415394dab; office desk with files, anonymous worker from behind, no text.",
+  "publish": "Card and zoom MP4 (8s, 1080x1920, h264+aac, shows card) checked. Feed (FB+TikTok), Reel (IG) and Story (FB+IG) created from payloads; Reel audioType music, displayArtist Global Genius. getScheduledPosts 17:55-18:10 confirms all three PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Weekly SPI inflation dips 0.35pc (Brecorder)",
+   "reason": "duplicate of 30 Oct 16:00 SPI post"
+  },
+  {
+   "headline": "PM Shehbaz criticises PTI governance in KP (Dawn)",
+   "reason": "one-sided political attack"
+  }
+ ],
+ "errors": []
+}
