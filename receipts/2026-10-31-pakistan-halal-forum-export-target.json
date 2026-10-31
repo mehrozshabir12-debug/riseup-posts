@@ -1,0 +1,31 @@
+{
+ "id": "2026-10-31-pakistan-halal-forum-export-target",
+ "scheduled": "2026-10-31T21:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 412258715,
+   "status": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 412258740,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "1131479132514825",
+    "audioType": "music",
+    "title": "Simple Pleasures (Reels Sound - Photo Dump)",
+    "displayArtist": "Alex Blue"
+   }
+  },
+  "story": {
+   "metricool_id": 412258755,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

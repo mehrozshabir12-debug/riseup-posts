@@ -1,1 +1,87 @@
-{"slot": "2026-10-31T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-10-31T20:46:58+05:00"}
+{
+ "slot": "2026-10-31T21:00:00+05:00",
+ "riseup_day": "2026-10-31",
+ "run_started_pkt": "2026-10-31T20:46:58+05:00",
+ "run_finished_pkt": "2026-10-31T20:53:43+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "6h",
+ "story": {
+  "headline": "The first Pakistan Halal Forum 2026 concluded in Karachi on Saturday, with the Pakistan Halal Authority saying it aims to lift halal exports to $40-50 billion a year; organisers say Pakistan has less than 1% share of the global halal economy, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-eyes-boosting-global-halal-market-share-with-50-billion-export-ambition-3005715",
+    "published_at": "2026-10-31T15:08:51+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-10-31-pakistan-halal-forum-export-target",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-10-31-pakistan-halal-forum-export-target.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (task ef28e4cd-c1aa-4058-abfa-0bd39e2e13d2)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412258715,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7194067588736173030",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412258740,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3863266037901511142",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412258755,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5339398045636313743",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures (Reels Sound - Photo Dump) - Alex Blue",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB+IG+TikTok connected; all 6h windows NOW-48h..NOW+12h read OK; no post at 21:00; RiseUp day 2026-10-31: 9 news feed posts before this, 6 with TikTok",
+  "previous_slot_check": "20:00 feed 412224858 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122188526186855502), TikTok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7702849075279924488); reel 412224878 IG PUBLISHED (https://www.instagram.com/reel/DfKcZ79EVZq/); story 412224889 FB+IG PUBLISHED",
+  "news_search": "2h/3h/4h windows: no story passed all rules (see skipped_candidates); 6h window: Arab News halal forum story (15:08 PKT) chosen",
+  "verification": "Arab News article read directly; published_time meta 2026-10-31T10:08:51Z = 15:08:51 PKT; forum concluded Saturday 31 Oct in Karachi; $40-50 billion target from PHA statement; <1% share from organisers",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, no readable text/logos/public figures",
+  "publish": "results awaiting_publish; card and 8s zoom MP4 checked; pipeline skipped TikTok (pacing: 6 allowed by 21:00); feed FB, reel IG with music (audioType music, displayArtist Alex Blue), story FB+IG all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan vs Sri Lanka ODI tri-series final result",
+   "reason": "match still in progress at run time; no result to report; 326 target already posted at 19:00"
+  },
+  {
+   "headline": "PM Shehbaz criticises PTI's 13-year KP rule / says centre imposed emergency in KP (Dawn 15:41, Arab News 16:25, Tribune)",
+   "reason": "one-sided political attack on PTI; emergency itself imposed earlier this month (not fresh)"
+  },
+  {
+   "headline": "Trump administration plans to deport Afghan refugees to Pakistan (Tribune/Anadolu citing NBC, 16:51)",
+   "reason": "unconfirmed media report; destination and timing not officially confirmed"
+  },
+  {
+   "headline": "At UN, Pakistan voices concern over Islamophobia (Arab News 17:38)",
+   "reason": "statement delivered at UNGA on 30 Oct (event not fresh); low relevance to ordinary people"
+  },
+  {
+   "headline": "Police constable martyred in firing at Lakki Marwat judicial complex (Tribune)",
+   "reason": "violence story; a firing story already posted at 20:00, no exact timestamp read"
+  },
+  {
+   "headline": "Karachi court approves Iqrarul Hassan's bail plea (Tribune)",
+   "reason": "individual's criminal case; skip"
+  }
+ ],
+ "errors": []
+}
