@@ -5742,10 +5742,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-01 00:00 PKT",
+  "scheduled": "2026-11-01T00:00:00+05:00",
   "music": "Vow (Instrumental) - Ross Lara",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412383223,
+   "reel": 412383247,
+   "story": 412383256
+  },
+  "video": "posts/2026-10-31-pakistan-rebukes-afghan-taliban-terrorism.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
