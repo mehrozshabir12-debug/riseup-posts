@@ -5976,10 +5976,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-01 15:00 PKT",
+  "scheduled": "2026-11-01T15:00:00+05:00",
   "music": "Upside Down - Mike Block",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412786751,
+   "reel": 412786774,
+   "story": 412786782
+  },
+  "video": "posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
