@@ -5764,5 +5764,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-01",
+  "slot": "2026-11-01T10:00:00+05:00",
+  "request_id": "2026-11-01-rubio-us-heard-pakistan-terror-concerns-r2",
+  "layout": "bold",
+  "headline": "US Secretary of State Marco Rubio said on Saturday that Washington has heard Pakistan's concerns over terrorism from Afghanistan and would play a 'productive role' if there is one, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2041358/us-hears-pakistans-concerns-over-terrorism-from-afghanistan-would-play-productive-role-if-there-is-one-rubio",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041358/us-hears-pakistans-concerns-over-terrorism-from-afghanistan-would-play-productive-role-if-there-is-one-rubio",
+    "published_at": "2026-11-01T09:13:43+05:00"
+   }
+  ],
+  "published": "2026-11-01T09:13:43+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 121625253,
+  "image": "posts/2026-11-01-rubio-us-heard-pakistan-terror-concerns-r2.jpg",
+  "story": "posts/2026-11-01-rubio-us-heard-pakistan-terror-concerns-r2-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-01 10:03 PKT",
+  "music": "Carry On (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-01-rubio-us-heard-pakistan-terror-concerns-r2.mp4"
  }
 ]
