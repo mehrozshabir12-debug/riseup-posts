@@ -1,1 +1,74 @@
-{"slot": "2026-11-01T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-01T09:46:40+05:00"}
+{
+ "slot": "2026-11-01T10:00:00+05:00",
+ "riseup_day": "2026-11-01",
+ "run_started_pkt": "2026-11-01T09:46:40+05:00",
+ "run_finished_pkt": "2026-11-01T09:59:09+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "US Secretary of State Marco Rubio said on Saturday that Washington has heard Pakistan's concerns over terrorism from Afghanistan and would play a 'productive role' if there is one, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2041358/us-hears-pakistans-concerns-over-terrorism-from-afghanistan-would-play-productive-role-if-there-is-one-rubio",
+    "published_at": "2026-11-01T09:13:43+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-01-rubio-us-heard-pakistan-terror-concerns-r2",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-rubio-us-heard-pakistan-terror-concerns-r2.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (task 3f6e3759-67f6-4eb8-84f2-85affc1f541c; empty press room with lectern/microphones, anonymous journalists from behind, no text/logos)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412667692,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-375363872462585239",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412667701,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8267204197357011948",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412667708,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7508770226329334090",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Carry On (Instrumental) - Giulio Cercato",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB+IG+TikTok connected; T-1h..T+1h and all 6h windows 30 Oct 09:46 .. 1 Nov 21:46 read OK; no post at 10:00; RiseUp day 2026-11-01: 0 news posts before this (1st), 0 with TikTok",
+  "previous_slot_check": "00:00 feed 412383223 FB+TikTok PUBLISHED (https://facebook.com/122185478282855502/posts/122188543058855502, https://www.tiktok.com/@riseuppakistan2025/video/7702909822852746502); reel 412383247 IG PUBLISHED (https://www.instagram.com/reel/DfK3aVxD5YV/); story 412383256 FB+IG PUBLISHED",
+  "news_search": "2h window: Dawn 09:13 PKT report of Rubio's Saturday remarks in Atlanta (US response = new development vs 00:00 info-ministry post). Trending-music web search skipped for time; verified calm numeric id used (first track of the day).",
+  "verification": "Dawn article read via fetch; article:published_time 2026-11-01 09:13:43+05:00, modified 09:24:21+05:00; byline News Desk; Rubio quotes checked verbatim",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt",
+  "publish": "first request (…-concerns) rejected: publish.slot must be minute 00; resubmitted as -r2 with slot 10:00; pipeline set 10:03 (NOW+5). Card and 8s zoom MP4 checked; feed FB+TikTok, reel IG with music (audioType music, displayArtist Giulio Cercato) at 10:03, story FB+IG at 10:08; all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan plans to privatize three DISCOs in Q1 2027 (Arab News 08:18 PKT)",
+   "reason": "chairman spoke on Saturday; first-report time of the statement could not be established within 8h"
+  },
+  {
+   "headline": "Diesel up Rs2.29 to Rs402.96, petrol unchanged (Brecorder 31 Oct 00:08)",
+   "reason": "older than 8 hours"
+  }
+ ],
+ "errors": [
+  "request 2026-11-01-rubio-us-heard-pakistan-terror-concerns rejected: publish.slot is required: the target slot, e.g. 2026-10-14T15:00:00+05:00 (minute 00, hours 10-23 or 00 PKT)"
+ ]
+}
