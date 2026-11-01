@@ -1,1 +1,84 @@
-{"slot": "2026-11-01T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-01T13:46:50+05:00"}
+{
+ "slot": "2026-11-01T14:00:00+05:00",
+ "riseup_day": "2026-11-01",
+ "run_started_pkt": "2026-11-01T13:46:50+05:00",
+ "run_finished_pkt": "2026-11-01T13:58:09+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Petroleum Minister Ali Pervaiz Malik said on Sunday that more than 12-13 million deserving people are being provided subsidised petrol at pre-war prices, APP reports.",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/over-12-mln-deserving-people-being-provided-subsidised-petrol-at-pre-war-prices-ali-pervaiz-malik/",
+    "published_at": "2026-11-01T13:32:06+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-01-subsidised-petrol-12-13-million-people",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-subsidised-petrol-12-13-million-people.jpg",
+ "freshness_window": "2h",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412759746,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1649049018046106195",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412759760,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3512975350301900577",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412759767,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3773962554611118796",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blog 7305396, Asia/Karachi, FB+IG+TikTok connected). getScheduledPosts 13:00-15:00 plus 6h windows 30 Oct 13:00 -> 2 Nov 02:00 all succeeded; no post at 14:00; before this slot 3 news feed posts today (10:03, 12:02, 13:00), 2 with TikTok.",
+  "previous_slot_check": "13:00 slot: feed 412729405 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122188686368855502), reel 412729414 IG PUBLISHED (https://www.instagram.com/reel/DfMQg81kdHs/, music Sunday In October), story 412729425 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched Dawn, Brecorder, Tribune, Geo, APP, Arab News, The News. Chose APP petrol subsidy story (published 13:32 PKT) in 2h window; not covered in last 48h.",
+  "verification": "Single approved outlet (APP) per 30 Oct rule; article read, meta published_time 2026-11-01T13:32:06+05:00, dateline Islamabad Nov 01, 'said on Sunday' at university convocation. Facts (12-13 million, pre-war prices, targeted subsidies, Land Cruiser families) checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt: Islamabad petrol station, anonymous rider from behind and attendant; no signage text (tiny model badge on motorcycle only).",
+  "publish": "Pipeline payloads used exactly (slot 14:02, story 14:07). Reel audio confirmed audioType music, displayArtist Global Genius (Iced Latte, numeric id from verified list, not used earlier today). Trending-audio search skipped for time; verified list used. Post-check 13:55-14:10: feed, reel, story all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "World Bank okays $150m Sindh PREP for Karachi property tax (Dawn 06:28)",
+   "reason": "event announced Saturday; first report likely >8h before slot; older than 2h window story"
+  },
+  {
+   "headline": "PIA resumes direct flights to China (Dawn/APP 06:28)",
+   "reason": "first flight 30 Oct; old event"
+  },
+  {
+   "headline": "Fertiliser shortfall over 200,000 tons (Tribune 04:25 PKT)",
+   "reason": "older than 8h window"
+  },
+  {
+   "headline": "Proposed wheat support price Rs4,500 per maund (APP 11:18)",
+   "reason": "valid but older (3h window); newer 2h story preferred"
+  },
+  {
+   "headline": "Karachi traffic police e-challans via mobile app (Geo)",
+   "reason": "old story on cached listing page"
+  }
+ ],
+ "errors": []
+}
