@@ -5929,10 +5929,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-01 14:02 PKT",
+  "scheduled": true,
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-01-subsidised-petrol-12-13-million-people.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412759746,
+   "reel": 412759760,
+   "story": 412759767
+  },
+  "video": "posts/2026-11-01-subsidised-petrol-12-13-million-people.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
