@@ -5883,10 +5883,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-01 13:00 PKT",
+  "scheduled": "2026-11-01T13:00:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-01-pakistan-assumes-g24-chairmanship.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412729405,
+   "reel": 412729414,
+   "story": 412729425
+  },
+  "video": "posts/2026-11-01-pakistan-assumes-g24-chairmanship.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
