@@ -1,1 +1,82 @@
-{"slot": "2026-11-01T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-01T11:47:22+05:00"}
+{
+ "slot": "2026-11-01T12:00:00+05:00",
+ "riseup_day": "2026-11-01",
+ "run_started_pkt": "2026-11-01T11:47:22+05:00",
+ "run_finished_pkt": "2026-11-01T11:57:55+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Lahore's overall Air Quality Index reached a hazardous 448 on Sunday, making it the most polluted city in the world, with Iqbal Town recording 617, APP reports citing PMD sources.",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/punjab/lahore-ranks-as-the-most-polluted-city-in-the-world-as-aqi-reaches-hazardous-448/",
+    "published_at": "2026-11-01T11:23:44+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-01-lahore-aqi-448-most-polluted",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-lahore-aqi-448-most-polluted.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412707333,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2937174824474622759",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412707343,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6170598918073335426",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412707346,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8879725830613089833",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Painted White - Julia Gartha",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB+IG+TikTok connected; T-1h..T+1h and 6h windows 30 Oct 11:45 .. 1 Nov 23:50 all read OK; no post at 12:00; RiseUp day 2026-11-01 before this slot: 1 news post (10:00), 1 with TikTok",
+  "previous_slot_check": "11:00 slot was skipped (no posts). Last posts 10:03 feed 412667692 FB+TikTok PUBLISHED, reel 412667701 IG PUBLISHED, story 412667708 FB+IG PUBLISHED",
+  "news_search": "Dawn latest-news, Arab News, Tribune, Geo, APP searched. Chosen APP Lahore AQI 448 (published 11:23 PKT, PMD readings Sunday) - new development vs 31 Oct 16:00 smog post (AQI 232 on 31 Oct).",
+  "verification": "APP article read: meta published_time 2026-11-01T11:23:44+05:00; AQI 448, Iqbal Town 617, Paragon City 513, Model Town 453; PMD sources on Sunday; experts advise masks/avoid unnecessary travel",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, smoggy street, no text/logos/public figures",
+  "publish": "slot passed T-5 by the time render finished (render 11:56:42); pipeline set 12:02 (feed+reel) and 12:07 story; all PENDING; Reel audio verified audioType music, displayArtist Julia Gartha; card and zoom MP4 (8 s, 1080x1920) viewed"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Stampede at TikToker's wedding event in Sialkot, 1 dead (Arab News 11:41 PKT)",
+   "reason": "event Saturday night, first reported by Dawn 31 Oct by 22:42; older than 8h; injured counts differ"
+  },
+  {
+   "headline": "Mustafa Kamal: new administrative units inevitable (Tribune 07:22 PKT)",
+   "reason": "remarks made Saturday; political statement; time not established within 8h"
+  },
+  {
+   "headline": "Karachi traffic police officers to issue e-challans via mobile app (Geo)",
+   "reason": "no exact published timestamp readable from the article"
+  },
+  {
+   "headline": "Wheat support price proposed at Rs4,500 per maund: Kirmani (APP 11:18 PKT)",
+   "reason": "valid alternative but the Rs4,500 figure is a proposal whose first-report time could not be established; AQI story preferred"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.brecorder.com/latest-news: PROVENANCE_REQUIRED permission request not answered in time"
+ ]
+}
