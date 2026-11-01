@@ -5789,10 +5789,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-01 10:03 PKT",
+  "scheduled": "2026-11-01T10:03:00+05:00",
   "music": "Carry On (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-01-rubio-us-heard-pakistan-terror-concerns-r2.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 412667692,
+   "reel": 412667701,
+   "story": 412667708
+  },
+  "video": "posts/2026-11-01-rubio-us-heard-pakistan-terror-concerns-r2.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
