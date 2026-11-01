@@ -1,0 +1,141 @@
+{
+ "id": "2026-11-01-pakistan-beat-oman-hk-sixes-plate-final",
+ "revision": 1,
+ "request": "requests/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.json",
+ "type": "news",
+ "headline": "Pakistan beat Oman by 18 runs in the Plate final of the Hong Kong International Sixes on Sunday, with skipper Abbas Afridi scoring an unbeaten 73 off 16 balls, Express Tribune reports.",
+ "warnings": [
+  "TikTok skipped: 3 TikTok posts on RiseUp day 2026-11-01; allowed by 15:00 = 3 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-01T15:00:00+05:00",
+ "target_slot": "2026-11-01T15:00:00+05:00",
+ "riseup_day": "2026-11-01",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.jpg",
+  "story": "posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final-story.jpg",
+  "reel": "posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 657359429,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-01T15:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Hong Kong Sixes mein Pakistan ne Plate final jeet liya!\nExpress Tribune ke mutabiq Sunday ko Mong Kok ke Mission Road Ground par Pakistan ne Oman ko 18 runs se hara diya. Pakistan ne 6 overs mein 154-4 banaye, captain Abbas Afridi ne 16 balls par naabad 73 runs (11 chhakke) banaye aur player of the match bane, jab ke Oman 136-4 tak hi pohanch saka.\nAbbas Afridi ki is innings ko kitne number denge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #HongKongSixes #PakistanCricket #AbbasAfridi #Cricket",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-01T15:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Hong Kong Sixes mein Pakistan ne Plate final jeet liya!\nExpress Tribune ke mutabiq Sunday ko Mong Kok ke Mission Road Ground par Pakistan ne Oman ko 18 runs se hara diya. Pakistan ne 6 overs mein 154-4 banaye, captain Abbas Afridi ne 16 balls par naabad 73 runs (11 chhakke) banaye aur player of the match bane, jab ke Oman 136-4 tak hi pohanch saka.\nAbbas Afridi ki is innings ko kitne number denge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #HongKongSixes #PakistanCricket #AbbasAfridi #Cricket",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "581639516835198",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-01T15:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-01T14:50:57+05:00"
+}
