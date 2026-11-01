@@ -5811,5 +5811,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-01",
+  "slot": "2026-11-01T12:00:00+05:00",
+  "request_id": "2026-11-01-lahore-aqi-448-most-polluted",
+  "layout": "bold",
+  "headline": "Lahore's overall Air Quality Index reached a hazardous 448 on Sunday, making it the most polluted city in the world, with Iqbal Town recording 617, APP reports citing PMD sources.",
+  "source_outlet": "APP",
+  "source": "https://www.app.com.pk/punjab/lahore-ranks-as-the-most-polluted-city-in-the-world-as-aqi-reaches-hazardous-448/",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/punjab/lahore-ranks-as-the-most-polluted-city-in-the-world-as-aqi-reaches-hazardous-448/",
+    "published_at": "2026-11-01T11:23:44+05:00"
+   }
+  ],
+  "published": "2026-11-01T11:23:44+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 946528861,
+  "image": "posts/2026-11-01-lahore-aqi-448-most-polluted.jpg",
+  "story": "posts/2026-11-01-lahore-aqi-448-most-polluted-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-01 12:02 PKT",
+  "music": "Painted White - Julia Gartha",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-01-lahore-aqi-448-most-polluted.mp4"
  }
 ]
