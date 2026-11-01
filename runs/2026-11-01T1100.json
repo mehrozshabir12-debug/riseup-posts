@@ -1,1 +1,51 @@
-{"slot": "2026-11-01T11:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-01T10:46:47+05:00"}
+{
+ "slot": "2026-11-01T11:00:00+05:00",
+ "riseup_day": "2026-11-01",
+ "run_started_pkt": "2026-11-01T10:46:39+05:00",
+ "run_finished_pkt": "2026-11-01T10:50:08+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB+IG+TikTok connected; T-1h..T+1h and all 6h windows 30 Oct 10:45 .. 1 Nov 22:50 read OK; no post at 11:00; RiseUp day 2026-11-01: 1 news post (10:00), 1 with TikTok",
+  "previous_slot_check": "10:00 slot: feed 412667692 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122188649006855502) + TikTok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7703064199190187282); reel 412667701 IG PUBLISHED (https://www.instagram.com/reel/DfL78cBlGqx/, music Carry On (Instrumental) - Giulio Cercato); story 412667708 FB+IG PUBLISHED",
+  "news_search": "Searched Dawn, Brecorder, Arab News, Tribune, Geo, APP. Every candidate within 8h was a print/online re-report of an event announced on Saturday 31 Oct whose first-report time could not be established within 8h of T (same rule as the 10:00 DISCO rejection). Others were duplicates (Pak-Afghan/Rubio, already posted), political attacks or accidents involving private individuals. Showbiz fallback (2B): no Pakistani showbiz story from an approved outlet within 8h found.",
+  "verification": "Dawn article timestamps read via fetch (meta published/modified) for candidates listed below",
+  "image": "not generated (story did not pass section 2; ORDER RULE)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "World Bank okays $150m Sindh PREP to boost Karachi property tax (Dawn, published 2026-11-01 06:28 PKT, updated 09:59)",
+   "reason": "World Bank resident mission announced it on Saturday 31 Oct; first-report time of the announcement could not be established within 8h of T (Brecorder 40445182 may have reported earlier but could not be opened)"
+  },
+  {
+   "headline": "ECP pilot project to register women voters in Kasur and Qamber-Shahdadkot (Dawn 06:27 PKT, updated 08:07)",
+   "reason": "ECP announced on Saturday 31 Oct; announcement time not established within 8h"
+  },
+  {
+   "headline": "PIA resumes direct Islamabad-Beijing flights (Dawn/APP 06:28 PKT)",
+   "reason": "first flight operated 30 Oct; older than 8h"
+  },
+  {
+   "headline": "Iran appreciates Pakistan, Qatar mediation (Arab News 09:56 PKT)",
+   "reason": "Araghchi remarks made Saturday to Al Jazeera, time not established; mainly Iran-US, Pakistan mediation already covered 31 Oct 00:00"
+  },
+  {
+   "headline": "PM Shehbaz criticises PTI governance in KP (Dawn/Geo, Sat afternoon)",
+   "reason": "older than 8h and one-sided political attack"
+  },
+  {
+   "headline": "Two dead as car and bike fall into canal in Multan (Dawn 06:28)",
+   "reason": "accident on Saturday involving private individuals; not established within 8h"
+  }
+ ],
+ "errors": [
+  "WebFetch https://www.brecorder.com/news/40445182: failed at its site (client_error)"
+ ]
+}
