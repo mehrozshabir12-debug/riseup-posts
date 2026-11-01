@@ -1,1 +1,77 @@
-{"slot": "2026-11-01T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-01T14:47:02+05:00"}
+{
+ "slot": "2026-11-01T15:00:00+05:00",
+ "riseup_day": "2026-11-01",
+ "run_started_pkt": "2026-11-01T14:46:57+05:00",
+ "run_finished_pkt": "2026-11-01T14:52:52+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan beat Oman by 18 runs in the Plate final of the Hong Kong International Sixes on Sunday, with skipper Abbas Afridi scoring an unbeaten 73 off 16 balls, Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2638073/pakistan-beat-oman-to-win-hk-sixes-plate-final",
+    "published_at": "2026-11-01T13:30:45+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-01-pakistan-beat-oman-hk-sixes-plate-final",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-beat-oman-hk-sixes-plate-final.jpg",
+ "freshness_window": "2h",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412786751,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1120750270767055662",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412786774,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7043592935423558086",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412786782,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2729558381340476425",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Upside Down - Mike Block",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blog 7305396, Asia/Karachi, FB+IG+TikTok connected). getScheduledPosts 14:00-16:00 plus 6h windows 30 Oct 14:00 -> 2 Nov 03:00 all succeeded; no post at 15:00; before this slot 4 news feed posts today (10:03, 12:02, 13:00, 14:02), 3 with TikTok.",
+  "previous_slot_check": "14:00 slot: feed 412759746 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122188698692855502) + TikTok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7703126421236894994), reel 412759760 IG PUBLISHED (https://www.instagram.com/reel/DfMXoqcAIom/, music Iced Latte), story 412759767 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched Dawn, APP, Brecorder, Tribune, Geo. Chose Express Tribune HK Sixes Plate final story (published 13:30:45 PKT) in 2h window; not covered in last 48h.",
+  "verification": "Single approved outlet (Express Tribune) per 30 Oct rule; article read via fetch, meta article:published_time 2026-11-01T08:30:45+00:00 (=13:30:45 PKT), 'on Sunday'. Facts (won by 18 runs, 154-4 vs 136-4 in six overs, Abbas Afridi 73* off 16 balls, 11 sixes, player of the match, Mission Road Ground Mong Kok) checked against article. Geo.tv copy could not be fetched (client_error).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt: small city cricket ground among high-rises, anonymous players in plain green kit celebrating; no text/logos, faces not identifiable.",
+  "publish": "Pipeline payloads used exactly (slot 15:00, story 15:05). TikTok skipped by pipeline (pacing: 3 by 15:00). Reel audio confirmed audioType music, displayArtist Mike Block (Upside Down, verified list id 581639516835198; trending search done but no confirmed music-type term). getScheduledPosts 14:55-15:10: feed, reel, story all PENDING. Card and zoom MP4 (8s, 1080x1920) checked."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "World Bank okays $150m Sindh PREP for Karachi property tax (Dawn)",
+   "reason": "first published 06:28 PKT (announced Saturday); older than HK Sixes story; newest story wins"
+  },
+  {
+   "headline": "Wedding stampede leaves one dead, 18 injured (APP)",
+   "reason": "death/injury story, less relevant; not chosen"
+  },
+  {
+   "headline": "Pakistan rebukes Afghan Taliban (Tribune/Geo)",
+   "reason": "duplicate of 00:00 slot post"
+  }
+ ],
+ "errors": [
+  "WebFetch geo.tv/latest/689222: failed at its site (client_error)"
+ ]
+}
