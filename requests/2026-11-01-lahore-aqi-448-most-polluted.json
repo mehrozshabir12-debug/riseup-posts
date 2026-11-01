@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-01-lahore-aqi-448-most-polluted",
+ "type": "news",
+ "headline": "Lahore's overall Air Quality Index reached a hazardous 448 on Sunday, making it the most polluted city in the world, with Iqbal Town recording 617, APP reports citing PMD sources.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "APP",
+   "url": "https://www.app.com.pk/punjab/lahore-ranks-as-the-most-polluted-city-in-the-world-as-aqi-reaches-hazardous-448/",
+   "published_at": "2026-11-01T11:23:44+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/dce302d2-0712-4c6a-ab14-9daf1203a8d5/ed10853d-4cab-4375-bab3-2d03f8f77874/Realistic_documentary_photo_of_a_busy_residential_street_in_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNGJlYWNmNjcxMzNlYjZmNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzYzNDkxOX0.Eg6RX3WDEdC2zgm9aCVd6BejNVUzqsaaWboyBlsAJGA",
+  "head1": "Lahore duniya ka",
+  "head2_hl": "sab se aloodah",
+  "head2": "shehar",
+  "kicker": "AQI 448, Iqbal Town mein 617",
+  "desc": "Mahireen ka mashwara: mask pehnein, ghair zaroori safar se bachein.",
+  "source": "APP",
+  "date": "01 NOV 2026"
+ },
+ "caption": "Lahore duniya ka sab se aloodah shehar, AQI 448!\nAPP ke mutabiq PMD sources ne Sunday ko bataya ke smog ki wajah se Lahore ka overall AQI 448 tak pohanch gaya. Iqbal Town mein AQI 617, Paragon City mein 513 aur Model Town mein 453 record hua. Mahireen ne mask pehnne aur subah sawere aur shaam ko ghair zaroori safar se bachne ka mashwara diya hai.\nSmog se bachne ke liye aap kya kar rahe hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Smog #Lahore #AirQuality #PakistanNews",
+ "tiktok_title": "Lahore duniya ka sab se aloodah shehar, AQI 448, Iqbal Town mein 617",
+ "publish": {
+  "slot": "2026-11-01T12:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1142425671382048",
+  "label": "Painted White - Julia Gartha"
+ },
+ "ai_generated": true
+}
