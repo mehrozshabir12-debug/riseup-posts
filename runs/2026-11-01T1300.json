@@ -1,1 +1,78 @@
-{"slot": "2026-11-01T13:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-01T12:46:25+05:00"}
+{
+ "slot": "2026-11-01T13:00:00+05:00",
+ "riseup_day": "2026-11-01",
+ "run_started_pkt": "2026-11-01T12:46:25+05:00",
+ "run_finished_pkt": "2026-11-01T12:52:20+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan has assumed the chairmanship of the Intergovernmental Group of Twenty-Four (G-24), with Finance Minister Muhammad Aurangzeb calling for a more inclusive, fair and development-oriented global financial system, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40446904/pakistan-assumes-g-24-chairmanship-seeks-global-financial-reforms",
+    "published_at": "2026-11-01T11:56:19+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-01-pakistan-assumes-g24-chairmanship",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-01-pakistan-assumes-g24-chairmanship.jpg",
+ "freshness_window": "2h",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 412729405,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6583218848266697368",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 412729414,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5009570672696079780",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 412729425,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8434491822758870445",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blog 7305396, Asia/Karachi, FB+IG+TikTok connected). getScheduledPosts windows 30 Oct 12:00 -> 2 Nov 01:00 all succeeded; no post at 13:00; today 2 news feed posts (10:00, 12:00), 2 with TikTok.",
+  "previous_slot_check": "12:00 slot (feed 412707333 FB+TikTok PUBLISHED, reel 412707343 IG PUBLISHED with music Painted White, story 412707346 FB+IG PUBLISHED). No errors.",
+  "news_search": "Searched approved outlets; Dawn latest-news 1 Nov listing reviewed. Chose Business Recorder G-24 story (published 11:56 PKT, updated 12:15) within 2h window; not covered in last 48h.",
+  "verification": "Single approved outlet (Business Recorder) per 30 Oct rule; article read, meta published_time 2026-11-01 11:56:19+05:00; facts (G-24 chairmanship, Aurangzeb quotes, Finance Division statement Sunday, PM 'significant diplomatic milestone', Nigeria outgoing chair) checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, conference hall with anonymous delegates, no readable text.",
+  "publish": "Pipeline payloads used exactly. TikTok skipped by pipeline pacing (warning: 2 TikTok by 13:00 allowed). Reel audio confirmed audioType music, displayArtist Trout Recording. Music from verified list (numeric id) rather than a trending search term, to guarantee real music given late start."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Dawn: Binance to resume withdrawals (11:54)",
+   "reason": "not Pakistan-focused"
+  },
+  {
+   "headline": "Dawn: Indian authorities tighten security ahead of Delhi march (12:21)",
+   "reason": "not directly affecting Pakistan"
+  },
+  {
+   "headline": "Dawn/APP smog/Lahore AQI",
+   "reason": "posted at 12:00 (duplicate)"
+  }
+ ],
+ "warnings": [
+  "TikTok skipped: 2 TikTok posts on RiseUp day 2026-11-01; allowed by 13:00 = 2 (max 8/day)"
+ ],
+ "errors": []
+}
