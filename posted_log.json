@@ -6120,8 +6120,9 @@
   "reel_kind": "zoom",
   "scheduled": "2026-11-04 18:00 PKT",
   "music": "Reflection - Sam Marshall",
-  "publish_status": "awaiting_publish",
+  "publish_status": "cancelled",
   "metricool_ids": {},
-  "video": "posts/2026-11-04-pakistan-uk-ct-dialogue-afghanistan.mp4"
+  "video": "posts/2026-11-04-pakistan-uk-ct-dialogue-afghanistan.mp4",
+  "cancel_reason": "card desc truncated mid-sentence on rendered card; re-submitted with shorter desc"
  }
 ]

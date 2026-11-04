@@ -144,7 +144,9 @@
   },
   "posts": {}
  },
- "status": "awaiting_publish",
+ "status": "cancelled",
  "log": "posted_log.json",
- "updated_at": "2026-11-04T17:51:55+05:00"
+ "updated_at": "2026-11-04T17:55:38+05:00",
+ "cancel_reason": "card desc truncated mid-sentence on rendered card; re-submitted with shorter desc",
+ "receipt_sha": "c7bac50bfb271a84e35d0ed357e83b2bb86a937a70ad32fad4c94c6507299a21"
 }
