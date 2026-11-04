@@ -1,1 +1,69 @@
-{"slot": "2026-11-04T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T15:46:54+05:00"}
+{
+ "slot": "2026-11-04T16:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T15:46:54+05:00",
+ "run_finished_pkt": "2026-11-04T15:54:20+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The KSE-100 index of the Pakistan Stock Exchange was hovering at 172,123.36 at 3:25pm on Wednesday, up 4,104.50 points or 2.44%, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447354/psx-rally-continues-kse-100-gains-over-4000-points-as-investors-bet-on-us-midterms-iran-talks",
+    "published_at": "2026-11-04T09:56:24+05:00",
+    "updated_at": "2026-11-04T15:28:52+05:00",
+    "substantive_update": true
+   }
+  ]
+ },
+ "freshness_window": "2h (substantive update 15:28 PKT; rally first reported 09:56 PKT, within 8h)",
+ "request_id": "2026-11-04-kse100-gains-4104-points-r2",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-kse100-gains-4104-points-r2.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 416346406,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4289988742684299179",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 416346477,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7590844605331324174",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 416346529,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4111518339679108714",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (757785052896581, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all windows 2026-11-02T15:00..2026-11-05T04:00 empty; slot 16:00 free; 0 posts today",
+  "previous_slot_check": "no posts at 15:00/15:05 (15:00 run ended error_render_timeout, nothing posted)",
+  "news_search": "picked Business Recorder intraday PSX update (KSE-100 +4,104.50 at 3:25pm); not a duplicate since the 15:00 KSE story was never posted",
+  "verification": "Business Recorder article fetched; meta published 09:56:24+05:00, modified 15:28:52+05:00; 172,123.36 / +4,104.50 / 2.44% at 3:25pm",
+  "image": "Runway nano-banana-2-lite task f558bd7a-3918-4b36-a64c-18ee6d3a79c5 ok, no readable text/logos",
+  "publish": "feed+reel at 16:00, story 16:05; card and zoom MP4 checked; Reel audioType music, displayArtist Trout Recording"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "Media workflow did not run on push of 924cd9f (15:00 slot); this run triggered workflow_dispatch (run 41816553976, conclusion failure) after which push triggers worked again",
+  "request 2026-11-04-kse100-gains-4104-points rejected: sources[0].substantive_update must be true or false when updated_at is given; resubmitted as -r2",
+  "git push: remote Internal Server Error once (retry ok)"
+ ]
+}
