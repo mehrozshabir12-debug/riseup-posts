@@ -1,1 +1,74 @@
-{"slot": "2026-11-04T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T17:48:55+05:00"}
+{
+ "slot": "2026-11-04T18:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T17:48:55+05:00",
+ "run_finished_pkt": "2026-11-04T17:58:15+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan and the UK expressed concern on Wednesday over the continuing threat from terrorist groups, including the TTP, operating in and from Afghanistan, during their annual counter-terrorism dialogue in Islamabad, the Foreign Office said, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042085/pakistan-uk-express-concern-at-threat-from-terrorists-groups-operating-in-and-from-afghanistan-fo",
+    "published_at": "2026-11-04T17:00:55+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h (published 17:00:55 PKT)",
+ "request_id": "2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r3",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r3.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 416469922,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5942877356722206099",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 416470002,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5529771733741384101",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 416470085,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8849850691070806322",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall (478728841591377, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all windows 2026-11-02T17:00..2026-11-05T06:00 succeeded; slot 18:00 free; today 2 news posts before this, 2 TikTok",
+  "previous_slot_check": "17:00 feed 416406362 facebook PUBLISHED, tiktok PUBLISHED; reel 416406390 instagram PUBLISHED https://www.instagram.com/reel/DfUahUnjCAQ/; story 416406410 facebook+instagram PUBLISHED",
+  "news_search": "searched Dawn/Tribune/Geo/BR/Arab News; candidates: Dawn Pakistan-UK CT dialogue (17:00:55, chosen, freshest), Arab News PM on Tehran talks/defence pact (16:07), Dawn PM Middle East peace (14:44); petrol cut and Fa'az missile older",
+  "verification": "Dawn article fetched: meta published/modified 2026-11-04T17:00:55+05:00; FO statement, TTP, Islamabad annual CT dialogue, next round London 2027",
+  "image": "Runway nano-banana-2-lite task 1a479cf7-24d5-4f42-85f5-bebe65abc3aa ok; anonymous meeting room, no text/logos",
+  "publish": "r1 card desc truncated mid-sentence -> cancelled via receipt (never sent to Metricool); r2 rejected (slot held by r1); r3 card + zoom MP4 (8s 1080x1920) checked; feed+reel 18:02, story 18:07; Reel audioType music, displayArtist Sam Marshall"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM Shehbaz: Saudi-Turkiye-Pakistan defence pact discussed at Tehran talks (Arab News 16:07)",
+   "reason": "older than chosen story; PM remarks without details"
+  },
+  {
+   "headline": "Fuel subsidy 15 million people, Rs28bn (PM, Arab News)",
+   "reason": "near-duplicate of 1 Nov subsidised petrol post"
+  }
+ ],
+ "errors": [
+  "request 2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r2 rejected: slot 18:00 PKT already has a story (r1 held slot until cancelled)"
+ ]
+}
