@@ -6218,5 +6218,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "2026-11-04T20:00:00+05:00",
+  "request_id": "2026-11-04-gold-tola-gains-rs13900",
+  "layout": "bold",
+  "headline": "Gold price per tola in Pakistan rose by Rs13,900 on Wednesday to Rs426,036, according to APGJSA rates reported by Business Recorder.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40447381/gold-price-per-tola-gains-rs13900-in-pakistan",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447381/gold-price-per-tola-gains-rs13900-in-pakistan",
+    "published_at": "2026-11-04T14:06:46+05:00"
+   }
+  ],
+  "published": "2026-11-04T14:06:46+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 885183170,
+  "image": "posts/2026-11-04-gold-tola-gains-rs13900.jpg",
+  "story": "posts/2026-11-04-gold-tola-gains-rs13900-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-04 20:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-04-gold-tola-gains-rs13900.mp4"
  }
 ]

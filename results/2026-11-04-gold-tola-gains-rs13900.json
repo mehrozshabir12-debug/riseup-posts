@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-04-gold-tola-gains-rs13900",
+ "revision": 1,
+ "request": "requests/2026-11-04-gold-tola-gains-rs13900.json",
+ "type": "news",
+ "headline": "Gold price per tola in Pakistan rose by Rs13,900 on Wednesday to Rs426,036, according to APGJSA rates reported by Business Recorder.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-04T20:00:00+05:00",
+ "target_slot": "2026-11-04T20:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-gold-tola-gains-rs13900.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-gold-tola-gains-rs13900-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-gold-tola-gains-rs13900.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-04-gold-tola-gains-rs13900.jpg",
+  "story": "posts/2026-11-04-gold-tola-gains-rs13900-story.jpg",
+  "reel": "posts/2026-11-04-gold-tola-gains-rs13900.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 885183170,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Sone ki qeemat mein Rs13,900 ka izafa!\nBusiness Recorder ke mutabiq Wednesday ko APGJSA ke rates par fi tola sona Rs13,900 mehnga ho kar Rs426,036 ka ho gaya, jabke 10 gram sona Rs11,917 izafe ke baad Rs365,257 mein bika. International market mein sona $139 barh kar $4,035 fi ounce par pohanch gaya.\nKya aap abhi sona khareedenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #SoneKiQeemat #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-gold-tola-gains-rs13900.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Sone ki qeemat mein Rs13,900 ka izafa, fi tola Rs426,036 ho gaya",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Sone ki qeemat mein Rs13,900 ka izafa!\nBusiness Recorder ke mutabiq Wednesday ko APGJSA ke rates par fi tola sona Rs13,900 mehnga ho kar Rs426,036 ka ho gaya, jabke 10 gram sona Rs11,917 izafe ke baad Rs365,257 mein bika. International market mein sona $139 barh kar $4,035 fi ounce par pohanch gaya.\nKya aap abhi sona khareedenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #SoneKiQeemat #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-gold-tola-gains-rs13900.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-gold-tola-gains-rs13900-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1131479132514825",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-gold-tola-gains-rs13900-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-04T19:50:54+05:00"
+}
