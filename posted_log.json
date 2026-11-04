@@ -6337,10 +6337,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-04 22:00 PKT",
+  "scheduled": "2026-11-04T22:00:00+05:00",
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-04-psx-investor-base-47pc.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 416752043,
+   "reel": 416752084,
+   "story": 416752111
+  },
+  "video": "posts/2026-11-04-psx-investor-base-47pc.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
