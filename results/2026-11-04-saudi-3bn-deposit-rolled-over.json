@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-04-saudi-3bn-deposit-rolled-over",
+ "revision": 1,
+ "request": "requests/2026-11-04-saudi-3bn-deposit-rolled-over.json",
+ "type": "news",
+ "headline": "Finance Minister Muhammad Aurangzeb said on Wednesday that Saudi Arabia has extended its additional $3 billion deposit for Pakistan for a 'reasonable period', Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-04T21:02:00+05:00",
+ "target_slot": "2026-11-04T21:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-saudi-3bn-deposit-rolled-over.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-saudi-3bn-deposit-rolled-over-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-saudi-3bn-deposit-rolled-over.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-04-saudi-3bn-deposit-rolled-over.jpg",
+  "story": "posts/2026-11-04-saudi-3bn-deposit-rolled-over-story.jpg",
+  "reel": "posts/2026-11-04-saudi-3bn-deposit-rolled-over.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 66054806,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T21:02:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Saudi Arabia ne $3 billion ka deposit aage barha diya!\nArab News ke mutabiq Finance Minister Muhammad Aurangzeb ne Wednesday ko bataya ke Saudi Arabia ne Pakistan ke liye $3 billion ki izafi support ki muddat \"reasonable period\" ke liye barha di hai. Riyadh ka $5 billion ka deposit pehle hi 2028 tak roll over ho chuka hai.\nAap ke khayal mein is se maeeshat ko kitna faida hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SaudiArabia #PakistanEconomy #ForexReserves #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-saudi-3bn-deposit-rolled-over.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Saudi Arabia ne Pakistan ke $3 billion deposit ki muddat barha di",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T21:02:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Saudi Arabia ne $3 billion ka deposit aage barha diya!\nArab News ke mutabiq Finance Minister Muhammad Aurangzeb ne Wednesday ko bataya ke Saudi Arabia ne Pakistan ke liye $3 billion ki izafi support ki muddat \"reasonable period\" ke liye barha di hai. Riyadh ka $5 billion ka deposit pehle hi 2028 tak roll over ho chuka hai.\nAap ke khayal mein is se maeeshat ko kitna faida hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SaudiArabia #PakistanEconomy #ForexReserves #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-saudi-3bn-deposit-rolled-over.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-saudi-3bn-deposit-rolled-over-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "2384396914990297",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T21:07:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-saudi-3bn-deposit-rolled-over-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-04T20:56:38+05:00"
+}

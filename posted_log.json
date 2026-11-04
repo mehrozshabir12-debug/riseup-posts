@@ -6265,5 +6265,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "2026-11-04T21:00:00+05:00",
+  "request_id": "2026-11-04-saudi-3bn-deposit-rolled-over",
+  "layout": "bold",
+  "headline": "Finance Minister Muhammad Aurangzeb said on Wednesday that Saudi Arabia has extended its additional $3 billion deposit for Pakistan for a 'reasonable period', Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-says-saudi-arabia-has-rolled-over-additional-3-billion-deposit-for-reasonable-period-3006091",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-saudi-arabia-has-rolled-over-additional-3-billion-deposit-for-reasonable-period-3006091",
+    "published_at": "2026-11-04T20:02:30+05:00"
+   }
+  ],
+  "published": "2026-11-04T20:02:30+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 66054806,
+  "image": "posts/2026-11-04-saudi-3bn-deposit-rolled-over.jpg",
+  "story": "posts/2026-11-04-saudi-3bn-deposit-rolled-over-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-04 21:02 PKT",
+  "music": "City Around The Corner - The Poison Oaks",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-04-saudi-3bn-deposit-rolled-over.mp4"
  }
 ]
