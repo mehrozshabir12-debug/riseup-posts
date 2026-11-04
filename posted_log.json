@@ -6290,10 +6290,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-04 21:02 PKT",
+  "scheduled": "2026-11-04T21:02:00+05:00",
   "music": "City Around The Corner - The Poison Oaks",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-04-saudi-3bn-deposit-rolled-over.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 416683661,
+   "reel": 416683722,
+   "story": 416683751
+  },
+  "video": "posts/2026-11-04-saudi-3bn-deposit-rolled-over.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
