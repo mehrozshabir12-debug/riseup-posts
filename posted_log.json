@@ -6312,5 +6312,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "2026-11-04T22:00:00+05:00",
+  "request_id": "2026-11-04-psx-investor-base-47pc",
+  "layout": "bold",
+  "headline": "The SECP said on Wednesday that the Pakistan Stock Exchange added 218,894 new investors in January-October 2026, growing its investor base 47.3 percent from 463,071 to 681,965, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/psx-investor-base-grows-473-percent-in-10-months-of-2026-regulator-says-3006082",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/psx-investor-base-grows-473-percent-in-10-months-of-2026-regulator-says-3006082",
+    "published_at": "2026-11-04T18:52:28+05:00"
+   }
+  ],
+  "published": "2026-11-04T18:52:28+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 334668510,
+  "image": "posts/2026-11-04-psx-investor-base-47pc.jpg",
+  "story": "posts/2026-11-04-psx-investor-base-47pc-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-04 22:00 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-04-psx-investor-base-47pc.mp4"
  }
 ]

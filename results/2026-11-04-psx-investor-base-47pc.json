@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-04-psx-investor-base-47pc",
+ "revision": 1,
+ "request": "requests/2026-11-04-psx-investor-base-47pc.json",
+ "type": "news",
+ "headline": "The SECP said on Wednesday that the Pakistan Stock Exchange added 218,894 new investors in January-October 2026, growing its investor base 47.3 percent from 463,071 to 681,965, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-04T22:00:00+05:00",
+ "target_slot": "2026-11-04T22:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-psx-investor-base-47pc.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-psx-investor-base-47pc-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-psx-investor-base-47pc.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-04-psx-investor-base-47pc.jpg",
+  "story": "posts/2026-11-04-psx-investor-base-47pc-story.jpg",
+  "reel": "posts/2026-11-04-psx-investor-base-47pc.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 334668510,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PSX mein 218,894 naye investors shamil!\nArab News ke mutabiq SECP ne Wednesday ko bataya ke January se October 2026 tak Pakistan Stock Exchange ke investors 463,071 se barh kar 681,965 ho gaye, yani 47.3% izafa. Sirf October mein 26,843 naye accounts khule.\nKya aap ne bhi stock market account khola hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #SECP #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-psx-investor-base-47pc.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PSX investors 47.3% barh kar 681,965 ho gaye, 218,894 naye shamil",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PSX mein 218,894 naye investors shamil!\nArab News ke mutabiq SECP ne Wednesday ko bataya ke January se October 2026 tak Pakistan Stock Exchange ke investors 463,071 se barh kar 681,965 ho gaye, yani 47.3% izafa. Sirf October mein 26,843 naye accounts khule.\nKya aap ne bhi stock market account khola hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #SECP #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-psx-investor-base-47pc.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-psx-investor-base-47pc-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1543577430102877",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-psx-investor-base-47pc-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-04T21:51:00+05:00"
+}
