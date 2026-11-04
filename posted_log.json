@@ -6171,5 +6171,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "2026-11-04T19:00:00+05:00",
+  "request_id": "2026-11-04-rs10-coin-replaces-note",
+  "layout": "bold",
+  "headline": "The federal cabinet chaired by Prime Minister Shehbaz Sharif on Wednesday approved the introduction of a 10-rupee coin to replace the existing 10-rupee banknote and approved designs for a series of new currency notes with enhanced security features, APP reports.",
+  "source_outlet": "APP",
+  "source": "https://www.app.com.pk/national/federal-cabinet-approves-transfer-of-kp-cms-powers-to-governor-endorses-new-currency-designs/",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/federal-cabinet-approves-transfer-of-kp-cms-powers-to-governor-endorses-new-currency-designs/",
+    "published_at": "2026-11-04T17:43:18+05:00"
+   }
+  ],
+  "published": "2026-11-04T17:43:18+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 874209435,
+  "image": "posts/2026-11-04-rs10-coin-replaces-note.jpg",
+  "story": "posts/2026-11-04-rs10-coin-replaces-note-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-04 19:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-04-rs10-coin-replaces-note.mp4"
  }
 ]

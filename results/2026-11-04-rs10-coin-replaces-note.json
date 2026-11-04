@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-04-rs10-coin-replaces-note",
+ "revision": 1,
+ "request": "requests/2026-11-04-rs10-coin-replaces-note.json",
+ "type": "news",
+ "headline": "The federal cabinet chaired by Prime Minister Shehbaz Sharif on Wednesday approved the introduction of a 10-rupee coin to replace the existing 10-rupee banknote and approved designs for a series of new currency notes with enhanced security features, APP reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-04T19:00:00+05:00",
+ "target_slot": "2026-11-04T19:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rs10-coin-replaces-note.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rs10-coin-replaces-note-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rs10-coin-replaces-note.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-04-rs10-coin-replaces-note.jpg",
+  "story": "posts/2026-11-04-rs10-coin-replaces-note-story.jpg",
+  "reel": "posts/2026-11-04-rs10-coin-replaces-note.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 874209435,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Rs10 ke note ki jagah ab Rs10 ka sikka!\nAPP ke mutabiq Wednesday ko PM Shehbaz Sharif ki sadarat mein federal cabinet ne Rs10 ke note ki jagah Rs10 ka sikka laane ki manzoori de di. Cabinet ne behtar security features wale naye currency notes ke designs bhi manzoor kiye.\nAap ko sikka pasand hai ya note? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Rs10Coin #CurrencyNotes #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rs10-coin-replaces-note.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Rs10 ke note ki jagah ab Rs10 ka sikka, cabinet ne manzoori de di",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Rs10 ke note ki jagah ab Rs10 ka sikka!\nAPP ke mutabiq Wednesday ko PM Shehbaz Sharif ki sadarat mein federal cabinet ne Rs10 ke note ki jagah Rs10 ka sikka laane ki manzoori de di. Cabinet ne behtar security features wale naye currency notes ke designs bhi manzoor kiye.\nAap ko sikka pasand hai ya note? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Rs10Coin #CurrencyNotes #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rs10-coin-replaces-note.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rs10-coin-replaces-note-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "934661001819759",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rs10-coin-replaces-note-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-04T18:52:32+05:00"
+}
