@@ -1,1 +1,72 @@
-{"slot": "2026-11-04T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T19:47:38+05:00"}
+{
+ "slot": "2026-11-04T20:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T19:47:38+05:00",
+ "run_finished_pkt": "2026-11-04T19:52:51+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Gold price per tola in Pakistan rose by Rs13,900 on Wednesday to Rs426,036, according to APGJSA rates reported by Business Recorder.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447381/gold-price-per-tola-gains-rs13900-in-pakistan",
+    "published_at": "2026-11-04T14:06:46+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h (BR published 14:06:46 PKT, updated 19:03:28 PKT)",
+ "request_id": "2026-11-04-gold-tola-gains-rs13900",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-gold-tola-gains-rs13900.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 416602263,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7838948299363956692",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 416602340,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3833464569331169292",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 416602368,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-439769993223517068",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures - Alex Blue (1131479132514825, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all windows 2026-11-02T18:00..2026-11-05T08:00 succeeded; slot 20:00 free; today 4 news posts before this (16:00 PSX, 17:01 rupee, 18:02 Pak-UK CT, 19:00 Rs10 coin), 4 TikTok",
+  "previous_slot_check": "19:00 feed 416534293 facebook PUBLISHED, tiktok PUBLISHED; reel 416534329 instagram PUBLISHED https://www.instagram.com/reel/DfUoWdWGzcr/; story 416534348 facebook+instagram PUBLISHED",
+  "news_search": "searched Dawn/Tribune/Geo/BR/APP; chosen: gold +Rs13,900 per tola (BR 14:06, upd 19:03); rejected: Karachi teachers baton-charge (violence), SSGC winter gas timings (Tribune 14:02, less important), Sindh Nov 9 school holiday (Tribune 16:09, lower priority), cabinet Kuwait defence agreement (same cabinet meeting as 19:00 post)",
+  "verification": "BR article fetched: article:published_time 2026-11-04 14:06:46+05:00, modified 19:03:28+05:00; per tola Rs426,036 after +Rs13,900; 10g 365,257 after +Rs11,917 (APGJSA); Tuesday Rs412,136; international +$139 to $4,035/oz. Last gold post 31 Oct, not a duplicate.",
+  "image": "Runway nano-banana-2-lite task 958c8d82-c742-451e-8258-02b418a5a3d4 ok; jewellery shop counter with gold bangles, no readable text/logos/identifiable people",
+  "publish": "card + zoom MP4 (8s 1080x1920, h264+aac) checked; feed+reel 20:00, story 20:05; Reel audioType music, displayArtist Alex Blue; all PENDING on getScheduledPosts. Trending-audio web search gave no confirmed music-type id, so verified list id used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Police baton-charge protesting teachers in Karachi",
+   "reason": "violence/police clash"
+  },
+  {
+   "headline": "SSGC winter gas supply timings",
+   "reason": "lower priority than gold; still usable later"
+  }
+ ],
+ "errors": []
+}
