@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-04-kse100-gains-4104-points",
+ "type": "news",
+ "headline": "The KSE-100 index of the Pakistan Stock Exchange was hovering at 172,123.36 at 3:25pm on Wednesday, up 4,104.50 points or 2.44%, Business Recorder reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40447354/psx-rally-continues-kse-100-gains-over-4000-points-as-investors-bet-on-us-midterms-iran-talks",
+   "published_at": "2026-11-04T09:56:24+05:00",
+   "updated_at": "2026-11-04T15:28:52+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f558bd7a-3918-4b36-a64c-18ee6d3a79c5/768604cd-7529-4621-82ba-5a51f18ae9ff/Realistic_photo_of_a_busy_stock_exchange_trading_hall_in_Kar.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjFkMzc1ZjA0NDEwMjQyOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzk1NjcyMH0.HWz3jJUA5LW5lRCAmztV8aLEfU23m0jC0iwEH_rpGg8",
+  "head1": "PSX mein bari tezi",
+  "head2_hl": "4,104.50 points",
+  "head2": "upar",
+  "kicker": "KSE-100 172,123.36 par",
+  "desc": "Dopahar 3:25 baje index 2.44% upar tha.",
+  "source": "Business Recorder",
+  "date": "04 NOV 2026"
+ },
+ "caption": "KSE-100 index mein 4,104.50 points ka izafa!\nBusiness Recorder ke mutabiq Wednesday ko Pakistan Stock Exchange mein tezi jaari rahi aur dopahar 3:25 baje benchmark index 4,104.50 points (2.44%) izafe ke saath 172,123.36 par tha. Investors US midterms aur Iran talks par nazar rakhe hue hain.\nKya aap stock market mein invest karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #PakistanEconomy #PakistanNews",
+ "tiktok_title": "PSX: KSE-100 index 172,123.36 par, 4,104.50 points ka izafa",
+ "publish": {
+  "slot": "2026-11-04T16:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "757785052896581", "label": "Sunday In October - Trout Recording"},
+ "ai_generated": true
+}
