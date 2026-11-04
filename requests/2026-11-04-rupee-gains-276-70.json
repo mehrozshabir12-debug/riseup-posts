@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-04-rupee-gains-276-70",
+ "type": "news",
+ "headline": "The Pakistani rupee closed at 276.70 against the US dollar in the inter-bank market on Wednesday, a gain of Re0.01 from Tuesday's close of 276.71, Business Recorder reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar",
+   "published_at": "2026-11-04T15:37:40+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/82b6a110-803b-4465-98ae-e427ca11990c/01273e76-ebde-4d79-a87b-7d5acf684e5f/Realistic_photo_of_a_currency_exchange_counter_in_a_Karachi_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiODgxNzYzZDhjNmE2ODY0ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzk1MTA2NH0.1jBeDtwD_MlKOFuX4zk_ypMyHO3fZVm6ew_dXtaeWg8",
+  "head1": "Dollar ke muqable",
+  "head2_hl": "rupee mazboot",
+  "head2": "",
+  "kicker": "Interbank mein 276.70 par band",
+  "desc": "Tuesday ke 276.71 ke muqable mein Re0.01 ki behtari.",
+  "source": "Business Recorder",
+  "date": "04 NOV 2026"
+ },
+ "caption": "Rupee dollar ke muqable mein phir mazboot!\nBusiness Recorder ke mutabiq Wednesday ko inter-bank market mein rupee 276.70 par band hua, jo Tuesday ke 276.71 ke muqable mein Re0.01 ki behtari hai.\nAap ke khayal mein dollar aage kahan jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Rupee #Dollar #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Rupee dollar ke muqable mein 276.70 par band, Re0.01 ki behtari",
+ "publish": {
+  "slot": "2026-11-04T17:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "810120545333296", "label": "Iced Latte - Global Genius"},
+ "ai_generated": true
+}
