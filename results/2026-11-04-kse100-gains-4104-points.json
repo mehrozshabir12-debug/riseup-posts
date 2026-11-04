@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-04-kse100-gains-4104-points",
+ "revision": 1,
+ "request": "requests/2026-11-04-kse100-gains-4104-points.json",
+ "status": "rejected",
+ "errors": [
+  "sources[0].substantive_update must be true or false when updated_at is given"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-04T15:50:31+05:00"
+}
