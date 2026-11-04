@@ -6359,5 +6359,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "2026-11-04T23:00:00+05:00",
+  "request_id": "2026-11-04-one-constitution-avenue-hotel",
+  "layout": "bold",
+  "headline": "The federal government said on Wednesday that Islamabad's One Constitution Avenue residential building will be turned into a five-star hotel after a JIT found the project was built on irregularities and rigging, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042095/govt-says-islamabads-one-constitution-avenue-to-be-turned-into-a-five-star-hotel",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042095/govt-says-islamabads-one-constitution-avenue-to-be-turned-into-a-five-star-hotel",
+    "published_at": "2026-11-04T19:40:04+05:00"
+   }
+  ],
+  "published": "2026-11-04T19:40:04+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 682468216,
+  "image": "posts/2026-11-04-one-constitution-avenue-hotel.jpg",
+  "story": "posts/2026-11-04-one-constitution-avenue-hotel-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-04 23:00 PKT",
+  "music": "I'll Always Be Around - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-04-one-constitution-avenue-hotel.mp4"
  }
 ]
