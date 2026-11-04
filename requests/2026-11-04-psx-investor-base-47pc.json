@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-04-psx-investor-base-47pc",
+ "type": "news",
+ "headline": "The SECP said on Wednesday that the Pakistan Stock Exchange added 218,894 new investors in January-October 2026, growing its investor base 47.3 percent from 463,071 to 681,965, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/psx-investor-base-grows-473-percent-in-10-months-of-2026-regulator-says-3006082",
+   "published_at": "2026-11-04T18:52:28+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/53e37e90-ee33-44e0-9475-4f800c631804/31b8d310-e165-4fba-baac-3e5c40b55fa7/Realistic_photo_of_a_young_Pakistani_man_and_woman__anonymou.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMjBiYmNiZTQ5YzQ3OWE0MCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzk0MzE0MH0.ONXfVZ75SkoQcmSF69XdsL86SlBuAoxNdK0Cm4GQHk8",
+  "head1": "PSX mein investors",
+  "head2_hl": "47.3% izafa",
+  "head2": "",
+  "kicker": "SECP ki naye aadaad",
+  "desc": "Jan-Oct 2026 mein 218,894 naye investors shamil hue.",
+  "source": "Arab News",
+  "date": "04 NOV 2026"
+ },
+ "caption": "PSX mein 218,894 naye investors shamil!\nArab News ke mutabiq SECP ne Wednesday ko bataya ke January se October 2026 tak Pakistan Stock Exchange ke investors 463,071 se barh kar 681,965 ho gaye, yani 47.3% izafa. Sirf October mein 26,843 naye accounts khule.\nKya aap ne bhi stock market account khola hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #SECP #PakistanEconomy #PakistanNews",
+ "tiktok_title": "PSX investors 47.3% barh kar 681,965 ho gaye, 218,894 naye shamil",
+ "publish": {
+  "slot": "2026-11-04T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1543577430102877",
+  "label": "The Process - Jackson Whalan"
+ },
+ "ai_generated": true
+}
