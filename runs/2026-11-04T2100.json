@@ -1,1 +1,76 @@
-{"slot": "2026-11-04T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T20:46:40+05:00"}
+{
+ "slot": "2026-11-04T21:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T20:46:40+05:00",
+ "run_finished_pkt": "2026-11-04T20:57:44+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Finance Minister Muhammad Aurangzeb said on Wednesday that Saudi Arabia has extended its additional $3 billion deposit for Pakistan for a 'reasonable period', Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-saudi-arabia-has-rolled-over-additional-3-billion-deposit-for-reasonable-period-3006091",
+    "published_at": "2026-11-04T20:02:30+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h (Arab News article:published_time 2026-11-04T15:02:30Z = 20:02:30 PKT; statement made Wednesday)",
+ "request_id": "2026-11-04-saudi-3bn-deposit-rolled-over",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-saudi-3bn-deposit-rolled-over.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 416683661,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4176077777368824788",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 416683722,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5460052867021161325",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 416683751,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1652371448668339352",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "City Around The Corner - The Poison Oaks (2384396914990297, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all windows 2026-11-02T18:00..2026-11-05T09:00 succeeded; slot 21:00 free; today 5 news posts before this (16:00 PSX, 17:01 rupee, 18:02 Pak-UK CT, 19:00 Rs10 coin, 20:00 gold), 5 TikTok",
+  "previous_slot_check": "20:00 feed 416602263 facebook PUBLISHED, tiktok PUBLISHED; reel 416602340 instagram PUBLISHED https://www.instagram.com/reel/DfUvo1CIKun/; story 416602368 facebook+instagram PUBLISHED",
+  "news_search": "searched Dawn/Tribune/Geo/BR/APP/Arab News; chosen: Saudi $3bn deposit extension (Arab News 20:02 PKT); rejected: Fa'az missile test (Dawn 3 Nov 22:02, older than 8h before T? published 22:57h before T - too old), PM Shehbaz Middle East peace remarks (Dawn 14:44, thin 'more to follow' item, same cabinet meeting as 19:00 post), Karachi teachers tear gas (violence)",
+  "verification": "Arab News article fetched: published/modified 2026-11-04T15:02:30Z (20:02:30 PKT), byline Naimat Khan, Islamabad; Aurangzeb: $3bn term 'extended for a reasonable period'; $5bn deposit already rolled over until 2028. No Saudi deposit post in last 48h or posted_log.",
+  "image": "Runway nano-banana-2-lite task 0674b10c-aa5f-414a-8130-11037b99bba8 ok; office desk with dollar stacks, calculator and papers, modern building outside; no readable text/logos/people",
+  "publish": "card + zoom MP4 (8s 1080x1920, h264+aac) checked; feed+reel 21:02, story 21:07; Reel audioType music, displayArtist The Poison Oaks; all PENDING on getScheduledPosts. Trending-audio web search gave no confirmed music-type id, so verified list id used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan tests Fa'az air-to-air missile",
+   "reason": "published 3 Nov 22:02 PKT, older than 8h"
+  },
+  {
+   "headline": "PM Shehbaz: Pakistan continuing Middle East peace efforts",
+   "reason": "thin developing item; same cabinet meeting as 19:00 post"
+  },
+  {
+   "headline": "Police tear gas protesting teachers in Karachi",
+   "reason": "violence/police clash"
+  }
+ ],
+ "errors": []
+}
