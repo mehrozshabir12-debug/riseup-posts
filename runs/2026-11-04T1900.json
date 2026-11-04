@@ -1,1 +1,74 @@
-{"slot": "2026-11-04T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T18:47:41+05:00"}
+{
+ "slot": "2026-11-04T19:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T18:47:41+05:00",
+ "run_finished_pkt": "2026-11-04T18:54:15+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The federal cabinet chaired by Prime Minister Shehbaz Sharif on Wednesday approved the introduction of a 10-rupee coin to replace the existing 10-rupee banknote and approved designs for a series of new currency notes with enhanced security features, APP reports.",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/federal-cabinet-approves-transfer-of-kp-cms-powers-to-governor-endorses-new-currency-designs/",
+    "published_at": "2026-11-04T17:43:18+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h (APP published 17:43:18 PKT; first report of the cabinet meeting Dawn 14:44:58 PKT, updated 17:47:43)",
+ "request_id": "2026-11-04-rs10-coin-replaces-note",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rs10-coin-replaces-note.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 416534293,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7251294539710052628",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 416534329,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1872725426953633684",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 416534348,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7254634331347398882",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius (934661001819759, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all windows 2026-11-02T18:00..2026-11-05T07:00 succeeded; slot 19:00 free; today 3 news posts before this, 3 TikTok",
+  "previous_slot_check": "18:00 feed 416469922 facebook PUBLISHED, tiktok PUBLISHED; reel 416470002 instagram PUBLISHED https://www.instagram.com/reel/DfUhcsYDYtn/; story 416470085 facebook+instagram PUBLISHED",
+  "news_search": "searched Dawn/Tribune/Geo/BR/APP/Arab News; chosen: cabinet Rs10 coin + new note designs (APP 17:43, Dawn 14:44 upd 17:47); rejected: Karachi teachers protest baton-charge (violence/detentions), Lakki Marwat terrorists killed (violence), Pakistan-UK CT dialogue (already posted 18:00), Fa'az missile/petrol cut (older than 8h)",
+  "verification": "APP article fetched: article:published_time 2026-11-04T17:43:18+05:00, modified 17:45:30; cabinet chaired by PM Shehbaz Sharif approved 10-rupee coin to replace 10-rupee note and new currency note designs with enhanced security features; Dawn (PMO handout) says the same. No effective date given, none claimed.",
+  "image": "Runway nano-banana-2-lite task df9e10f1-42f3-4841-adc7-36e6b79c05a2 ok; shop counter with coins and folded notes, no readable text/logos/faces",
+  "publish": "card + zoom MP4 (8s 1080x1920, h264+aac) checked; feed+reel 19:00, story 19:05; Reel audioType music, displayArtist Global Genius; all PENDING on getScheduledPosts"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "38 detained in Karachi as police baton-charge teachers' march (Dawn 16:14, upd 18:39)",
+   "reason": "violence/police clash"
+  },
+  {
+   "headline": "Two terrorists killed in Lakki Marwat (Tribune 17:24)",
+   "reason": "violence"
+  }
+ ],
+ "errors": [
+  "web fetch of geo.tv/latest/689718 failed (client_error); not used as source"
+ ]
+}
