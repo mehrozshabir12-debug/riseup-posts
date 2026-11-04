@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-04-psx-investor-base-47pc",
+ "scheduled": "2026-11-04T22:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 416752043,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 416752084,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 416752111,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

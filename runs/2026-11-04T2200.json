@@ -1,1 +1,72 @@
-{"slot": "2026-11-04T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T21:47:49+05:00"}
+{
+ "slot": "2026-11-04T22:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T21:47:49+05:00",
+ "run_finished_pkt": "2026-11-04T21:52:02+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The SECP said on Wednesday that the Pakistan Stock Exchange added 218,894 new investors in January-October 2026, growing its investor base 47.3 percent from 463,071 to 681,965, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/psx-investor-base-grows-473-percent-in-10-months-of-2026-regulator-says-3006082",
+    "published_at": "2026-11-04T18:52:28+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h (Arab News article:published_time 2026-11-04T13:52:28Z = 18:52:28 PKT, ~3h08m before T; SECP statement Wednesday)",
+ "request_id": "2026-11-04-psx-investor-base-47pc",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-psx-investor-base-47pc.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 416752043,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6880568549516856530",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 416752084,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7307229216917208842",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 416752111,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4125974537949328048",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan (1543577430102877, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 2026-11-02T21:00..2026-11-05T10:00 all succeeded; slot 22:00 free; today 6 news posts before this (16:00 PSX index, 17:01 rupee, 18:02 Pak-UK CT, 19:00 Rs10 coin, 20:00 gold, 21:02 Saudi deposit), 6 TikTok",
+  "previous_slot_check": "21:00 feed 416683661 facebook PUBLISHED, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7704348475743554823; reel 416683722 instagram PUBLISHED https://www.instagram.com/reel/DfU2RkXCuZ6/; story 416683751 facebook+instagram PUBLISHED",
+  "news_search": "searched Dawn/Tribune/Geo/BR/Arab News/APP; chosen: SECP PSX investor base +47.3% (Arab News 18:52 PKT) — different event from 16:00 KSE-100 index post; rejected: Pakistan-Kuwait defence pact cabinet ratification (Geo page fetch failed client_error, timestamp unverifiable), Turkiye pact ratification (Middle East story, not yet ratified), Fa'az missile test (3 Nov, too old), Saudi deposit/Rs10 coin (already posted)",
+  "verification": "Arab News article fetched: published/modified 2026-11-04T13:52:28Z, byline Ismail Dilawar, Islamabad; 218,894 new investors Jan-Oct 2026, 463,071 -> 681,965 (47.3%), October 26,843 new accounts; no SECP investor-base post in last 48h or posted_log",
+  "image": "Runway nano-banana-2-lite task 53e37e90-ee33-44e0-9475-4f800c631804 ok; anonymous couple at Karachi cafe looking at phone chart, laptop graphs; no readable text/logos/public figures",
+  "publish": "card + zoom MP4 (8s 1080x1920 h264+aac) checked; feed+reel 22:00, story 22:05; Reel audioType music, displayArtist Jackson Whalan; all PENDING on getScheduledPosts 21:55-22:10. Trending-audio web search gave no confirmed music-type id, so verified list id used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Federal cabinet ratifies Pakistan-Kuwait defence cooperation agreement (Geo)",
+   "reason": "article page could not be fetched (client_error); timestamp not verifiable"
+  },
+  {
+   "headline": "Turkiye parliament set to ratify defence pact with Saudi Arabia, Pakistan (Arab News)",
+   "reason": "less relevant for ordinary people; pending event"
+  }
+ ],
+ "errors": []
+}
