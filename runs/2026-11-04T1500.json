@@ -1,1 +1,43 @@
-{"slot": "2026-11-04T15:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T14:46:30+05:00"}
+{
+ "slot": "2026-11-04T15:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T14:46:20+05:00",
+ "run_finished_pkt": "2026-11-04T15:07:49+05:00",
+ "test_mode": false,
+ "outcome": "error_render_timeout",
+ "story": {
+  "headline": "The KSE-100 index crossed the 170,000 level on Wednesday, hovering at 170,235.50 at 10:40am, up 2,216.64 points or 1.32%, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447354/psx-rally-continues-kse-100-crosses-170000-level",
+    "published_at": "2026-11-04T09:56:24+05:00",
+    "updated_at": "2026-11-04T11:28:12+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-11-04-kse100-crosses-170000",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {},
+ "music": "none (planned: Sunday In October - Trout Recording, 757785052896581; nothing posted)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all 6h windows 2026-11-02T14:00..2026-11-05T03:00 returned empty; slot 15:00 free",
+  "previous_slot_check": "no posts in Metricool at 14:00/14:05 (no runs logged since 2026-11-01T1600)",
+  "news_search": "picked PSX KSE-100 crosses 170,000 (Business Recorder, updated 11:28 PKT)",
+  "verification": "Business Recorder article fetched; meta published 2026-11-04T09:56:24+05:00, updated 11:28:12+05:00; figures 170,235.50 / +2,216.64 / 1.32% at 10:40am",
+  "image": "Runway nano-banana-2-lite task a115ec75-f811-42da-b29c-27805d4b2bb0 ok, no text/logos",
+  "publish": "not published: results/2026-11-04-kse100-crosses-170000.json never appeared (polled 14:54-15:07 PKT); RiseUp Media Manager workflow has not run since 2026-11-04T00:14Z (schedule-only, last runs mixed success/failure). Slot window closed at 15:15, so the slot is missed."
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "results/2026-11-04-kse100-crosses-170000.json not created within 13 min of commit 924cd9f; last RiseUp Media Manager run #514 at 2026-11-04T00:14:07Z on sha 3d12e33 (did not see the new request)",
+  "First web-fetch subagent: PROVENANCE_REQUIRED 'The permission request for this URL was not answered in time.' (resolved by a second agent that searched first)"
+ ]
+}
