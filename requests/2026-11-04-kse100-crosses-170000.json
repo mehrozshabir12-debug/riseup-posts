@@ -1,0 +1,44 @@
+{
+ "id": "2026-11-04-kse100-crosses-170000",
+ "type": "news",
+ "headline": "The KSE-100 index of the Pakistan Stock Exchange crossed the 170,000 level on Wednesday, hovering at 170,235.50 at 10:40am, up 2,216.64 points or 1.32%, Business Recorder reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40447354/psx-rally-continues-kse-100-crosses-170000-level",
+   "published_at": "2026-11-04T09:56:24+05:00",
+   "updated_at": "2026-11-04T11:28:12+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/a115ec75-f811-42da-b29c-27805d4b2bb0/051640d3-6b5e-436d-bf8b-b1b8b4c80953/Realistic_photo_inside_a_busy_stock_exchange_trading_hall_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjBjNGNmODY0NzhkM2Q3OSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzg5MTcxOH0.Hf-CmZOp2g0YSCBJo1qKhfzphY3T_yCnGBaVlpQ3VIA",
+  "head1": "PSX mein tezi",
+  "head2_hl": "170,000 paar",
+  "head2": "",
+  "kicker": "KSE-100 2,216.64 points upar",
+  "desc": "Subah 10:40 baje index 170,235.50 par tha.",
+  "source": "Business Recorder",
+  "date": "04 NOV 2026"
+ },
+ "caption": "KSE-100 index 170,000 ki satah se upar!\nBusiness Recorder ke mutabiq Wednesday ko Pakistan Stock Exchange mein khareedari jaari rahi aur subah 10:40 baje benchmark index 2,216.64 points (1.32%) izafe ke saath 170,235.50 par tha. Arif Habib Limited ki Sana Tawfik ke mutabiq khareedari zyada tar institutions, khaas taur par mutual funds, ki taraf se aa rahi hai.\nKya aap stock market mein invest karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #PakistanEconomy #PakistanNews",
+ "tiktok_title": "PSX: KSE-100 index 170,000 se upar, 2,216.64 points ka izafa",
+ "publish": {
+  "slot": "2026-11-04T15:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
