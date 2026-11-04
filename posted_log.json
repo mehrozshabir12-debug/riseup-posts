@@ -5997,5 +5997,37 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "2026-11-04T16:00:00+05:00",
+  "request_id": "2026-11-04-kse100-gains-4104-points-r2",
+  "layout": "bold",
+  "headline": "The KSE-100 index of the Pakistan Stock Exchange was hovering at 172,123.36 at 3:25pm on Wednesday, up 4,104.50 points or 2.44%, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40447354/psx-rally-continues-kse-100-gains-over-4000-points-as-investors-bet-on-us-midterms-iran-talks",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447354/psx-rally-continues-kse-100-gains-over-4000-points-as-investors-bet-on-us-midterms-iran-talks",
+    "published_at": "2026-11-04T09:56:24+05:00",
+    "updated_at": "2026-11-04T15:28:52+05:00",
+    "substantive_update": true
+   }
+  ],
+  "published": "2026-11-04T09:56:24+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 242043059,
+  "image": "posts/2026-11-04-kse100-gains-4104-points-r2.jpg",
+  "story": "posts/2026-11-04-kse100-gains-4104-points-r2-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-04 16:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-04-kse100-gains-4104-points-r2.mp4"
  }
 ]
