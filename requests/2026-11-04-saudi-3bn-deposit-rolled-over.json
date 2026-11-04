@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-04-saudi-3bn-deposit-rolled-over",
+ "type": "news",
+ "headline": "Finance Minister Muhammad Aurangzeb said on Wednesday that Saudi Arabia has extended its additional $3 billion deposit for Pakistan for a 'reasonable period', Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-says-saudi-arabia-has-rolled-over-additional-3-billion-deposit-for-reasonable-period-3006091",
+   "published_at": "2026-11-04T20:02:30+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/0674b10c-aa5f-414a-8130-11037b99bba8/07b40ea5-c8eb-4192-b245-15567e33a02b/Realistic_photo_of_a_modern_central_bank_building_exterior_i.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDRhZWJhZDgyOTJmODllNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5MzkxMDQ4OH0.Uo5bOlPQMp4PBUKvIQtmZ6klDg6JNnNkXQeoUNyKz5k",
+  "head1": "Saudi Arabia ne",
+  "head2_hl": "$3 billion",
+  "head2": "deposit barhaya",
+  "kicker": "Finance Minister Aurangzeb ka elaan",
+  "desc": "Riyadh ka $5 billion deposit pehle hi 2028 tak barhaya ja chuka.",
+  "source": "Arab News",
+  "date": "04 NOV 2026"
+ },
+ "caption": "Saudi Arabia ne $3 billion ka deposit aage barha diya!\nArab News ke mutabiq Finance Minister Muhammad Aurangzeb ne Wednesday ko bataya ke Saudi Arabia ne Pakistan ke liye $3 billion ki izafi support ki muddat \"reasonable period\" ke liye barha di hai. Riyadh ka $5 billion ka deposit pehle hi 2028 tak roll over ho chuka hai.\nAap ke khayal mein is se maeeshat ko kitna faida hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SaudiArabia #PakistanEconomy #ForexReserves #PakistanNews",
+ "tiktok_title": "Saudi Arabia ne Pakistan ke $3 billion deposit ki muddat barha di",
+ "publish": {
+  "slot": "2026-11-04T21:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "2384396914990297", "label": "City Around The Corner - The Poison Oaks"},
+ "ai_generated": true
+}
