@@ -1,1 +1,75 @@
-{"slot": "2026-11-04T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T22:47:01+05:00"}
+{
+ "slot": "2026-11-04T23:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T22:47:01+05:00",
+ "run_finished_pkt": "2026-11-04T22:55:34+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The federal government said on Wednesday that Islamabad's One Constitution Avenue residential building will be turned into a five-star hotel after a JIT found the project was built on irregularities and rigging, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042095/govt-says-islamabads-one-constitution-avenue-to-be-turned-into-a-five-star-hotel",
+    "published_at": "2026-11-04T19:40:04+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h (Dawn article:published_time 2026-11-04 19:40:04+05:00, modified 19:47:19, ~3h20m before T)",
+ "request_id": "2026-11-04-one-constitution-avenue-hotel",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-one-constitution-avenue-hotel.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 416826445,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4711552373846291425",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 416826470,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1161242742977117936",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 416826482,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5043517156972740286",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "I'll Always Be Around - Alex Blue (836981678209890, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 2026-11-02T22:00..2026-11-05T11:00 all succeeded; slot 23:00 free; today 7 news posts before this (16:00..22:00), 7 TikTok",
+  "previous_slot_check": "22:00 feed 416752043 facebook PUBLISHED, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7704364207269006593; reel 416752084 instagram PUBLISHED https://www.instagram.com/reel/DfU9QxnDule/; story 416752111 facebook+instagram PUBLISHED",
+  "news_search": "searched Dawn/Tribune/Geo/The News/APP/Arab News/BR; chosen Dawn One Constitution Avenue -> five-star hotel (19:40 PKT); not posted in last 48h",
+  "verification": "Dawn article fetched: published 2026-11-04 19:40:04+05:00, News Desk; govt press conference Wednesday (Ahsan Iqbal, Tarar, Tallal Chaudhry, Naqvi); JIT found 'irregularities and rigging'; building to be turned into five-star hotel; buyers to get principal refunded. Card avoids naming accused individuals.",
+  "image": "Runway nano-banana-2-lite task c934f97c-6e56-4126-bb26-0fc5fe18112e ok; generic glass tower at dusk with Margalla hills, anonymous walkers from behind; no text/logos/public figures",
+  "publish": "card + zoom MP4 (8s 1080x1920 h264+aac) checked; feed (Facebook only — pipeline skipped TikTok: '7 TikTok posts on RiseUp day 2026-11-04; allowed by 23:00 = 7 (max 8/day)') + reel 23:00, story 23:05; Reel audioType music, displayArtist Alex Blue; all PENDING on getScheduledPosts 22:55-23:10. Trending-audio web search gave no confirmed music-type id, so verified list id used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan eyes Saudi Arabia, Oman for LPG imports (Arab News)",
+   "reason": "published 09:19 PKT, older than 8h before T"
+  },
+  {
+   "headline": "SSGC winter gas supply schedule (Dawn)",
+   "reason": "published 11:48 / updated 13:54 PKT, older than 8h"
+  },
+  {
+   "headline": "Federal cabinet ratifies defence agreement with Kuwait / Rs10 coin",
+   "reason": "Rs10 coin already posted 19:00; Kuwait pact rejected previous slot (timestamp unverified)"
+  }
+ ],
+ "errors": []
+}
