@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r2",
+ "revision": 1,
+ "request": "requests/2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r2.json",
+ "status": "rejected",
+ "errors": [
+  "slot 18:00 PKT already has a story: Pakistan and the UK expressed concern on Wednesday over the continuing threat fr"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-04T17:53:59+05:00"
+}
