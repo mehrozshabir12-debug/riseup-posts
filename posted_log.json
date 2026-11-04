@@ -6124,5 +6124,35 @@
   "metricool_ids": {},
   "video": "posts/2026-11-04-pakistan-uk-ct-dialogue-afghanistan.mp4",
   "cancel_reason": "card desc truncated mid-sentence on rendered card; re-submitted with shorter desc"
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "2026-11-04T18:00:00+05:00",
+  "request_id": "2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r3",
+  "layout": "bold",
+  "headline": "Pakistan and the UK expressed concern on Wednesday over the continuing threat from terrorist groups, including the TTP, operating in and from Afghanistan, during their annual counter-terrorism dialogue in Islamabad, the Foreign Office said, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042085/pakistan-uk-express-concern-at-threat-from-terrorists-groups-operating-in-and-from-afghanistan-fo",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042085/pakistan-uk-express-concern-at-threat-from-terrorists-groups-operating-in-and-from-afghanistan-fo",
+    "published_at": "2026-11-04T17:00:55+05:00"
+   }
+  ],
+  "published": "2026-11-04T17:00:55+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 746647372,
+  "image": "posts/2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r3.jpg",
+  "story": "posts/2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r3-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-04 18:02 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-04-pakistan-uk-ct-dialogue-afghanistan-r3.mp4"
  }
 ]
