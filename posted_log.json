@@ -6024,10 +6024,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-04 16:00 PKT",
+  "scheduled": "2026-11-04T16:00:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-04-kse100-gains-4104-points-r2.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 416346406,
+   "reel": 416346477,
+   "story": 416346529
+  },
+  "video": "posts/2026-11-04-kse100-gains-4104-points-r2.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
