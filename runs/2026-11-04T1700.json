@@ -1,1 +1,65 @@
-{"slot": "2026-11-04T17:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-04T16:47:26+05:00"}
+{
+ "slot": "2026-11-04T17:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "run_started_pkt": "2026-11-04T16:47:26+05:00",
+ "run_finished_pkt": "2026-11-04T16:56:54+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Pakistani rupee closed at 276.70 against the US dollar in the inter-bank market on Wednesday, a gain of Re0.01 from Tuesday's close of 276.71, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar",
+    "published_at": "2026-11-04T15:37:40+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h (published 15:37:40 PKT)",
+ "request_id": "2026-11-04-rupee-gains-276-70",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rupee-gains-276-70.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 416406362,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8117661206726330633",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 416406390,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3402786630917898838",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 416406410,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5995542590146786280",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius (810120545333296, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; all 6h windows 2026-11-02T16:00..2026-11-05T04:50 succeeded; slot 17:00 free; today 1 news post, 1 TikTok",
+  "previous_slot_check": "16:00 feed 416346406 facebook PUBLISHED, tiktok PUBLISHED; reel 416346477 instagram PUBLISHED https://www.instagram.com/reel/DfUTyBeD4bu/; story 416346529 facebook+instagram PUBLISHED",
+  "news_search": "searched Dawn/Tribune/BR/Arab News; BR latest-news listing stale (Dec 2025 items); Dawn and Tribune listing fetches failed PROVENANCE_REQUIRED; picked BR rupee interbank close (15:37 PKT); not a duplicate (16:00 was KSE-100)",
+  "verification": "BR article fetched: meta published/modified 2026-11-04T15:37:40+05:00; 276.70 close, Re0.01 gain, Tuesday 276.71",
+  "image": "Runway nano-banana-2-lite task 82b6a110-803b-4465-98ae-e427ca11990c ok; banknotes only, no readable text/logos",
+  "publish": "feed+reel at 17:01, story 17:06 (pipeline slot); card and zoom MP4 (8s, 1080x1920) checked; Reel audioType music, displayArtist Global Genius"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "WebFetch https://www.dawn.com/latest-news and https://tribune.com.pk/latest: PROVENANCE_REQUIRED (permission request not answered in time)"
+ ]
+}
