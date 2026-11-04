@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-04-one-constitution-avenue-hotel",
+ "type": "news",
+ "headline": "The federal government said on Wednesday that Islamabad's One Constitution Avenue residential building will be turned into a five-star hotel after a JIT found the project was built on irregularities and rigging, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2042095/govt-says-islamabads-one-constitution-avenue-to-be-turned-into-a-five-star-hotel",
+   "published_at": "2026-11-04T19:40:04+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/c934f97c-6e56-4126-bb26-0fc5fe18112e/7cd8df91-5581-4b54-9f92-ff3a05414747/Realistic_photo_of_a_modern_tall_glass_residential_tower_in_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmY4OGU0MDM5MTVhNmY3OCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzk1MzkyM30.pXnv9tvDdnDsAhZtapcwVi4UeC_1pFE6cMGv295fTc4",
+  "head1": "One Constitution Avenue",
+  "head2_hl": "5-star hotel",
+  "head2": "banegi",
+  "kicker": "Islamabad ki mashhoor building",
+  "desc": "JIT report ke baad elaan, kharidaron ko asal raqam wapas milegi.",
+  "source": "Dawn",
+  "date": "04 NOV 2026"
+ },
+ "caption": "Islamabad ki One Constitution Avenue ab 5-star hotel banegi!\nDawn ke mutabiq federal hukumat ne Wednesday ko bataya ke JIT ke mutabiq yeh project \"irregularities aur rigging\" par bana tha, aur ab is building ko 5-star hotel mein badla jayega. Hukumat ke mutabiq kharidaron ko unki asal raqam wapas di jayegi.\nAap ke khayal mein yeh faisla sahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Islamabad #OneConstitutionAvenue #CDA #PakistanNews",
+ "tiktok_title": "One Constitution Avenue Islamabad ab 5-star hotel banegi, hukumat ka elaan",
+ "publish": {
+  "slot": "2026-11-04T23:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "836981678209890",
+  "label": "I'll Always Be Around - Alex Blue"
+ },
+ "ai_generated": true
+}
