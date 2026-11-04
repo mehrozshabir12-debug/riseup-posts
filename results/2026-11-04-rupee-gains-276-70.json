@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-04-rupee-gains-276-70",
+ "revision": 1,
+ "request": "requests/2026-11-04-rupee-gains-276-70.json",
+ "type": "news",
+ "headline": "The Pakistani rupee closed at 276.70 against the US dollar in the inter-bank market on Wednesday, a gain of Re0.01 from Tuesday's close of 276.71, Business Recorder reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-04T17:01:00+05:00",
+ "target_slot": "2026-11-04T17:00:00+05:00",
+ "riseup_day": "2026-11-04",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rupee-gains-276-70.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rupee-gains-276-70-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rupee-gains-276-70.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-04-rupee-gains-276-70.jpg",
+  "story": "posts/2026-11-04-rupee-gains-276-70-story.jpg",
+  "reel": "posts/2026-11-04-rupee-gains-276-70.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 120378644,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T17:01:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Rupee dollar ke muqable mein phir mazboot!\nBusiness Recorder ke mutabiq Wednesday ko inter-bank market mein rupee 276.70 par band hua, jo Tuesday ke 276.71 ke muqable mein Re0.01 ki behtari hai.\nAap ke khayal mein dollar aage kahan jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Rupee #Dollar #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rupee-gains-276-70.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Rupee dollar ke muqable mein 276.70 par band, Re0.01 ki behtari",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T17:01:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Rupee dollar ke muqable mein phir mazboot!\nBusiness Recorder ke mutabiq Wednesday ko inter-bank market mein rupee 276.70 par band hua, jo Tuesday ke 276.71 ke muqable mein Re0.01 ki behtari hai.\nAap ke khayal mein dollar aage kahan jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Rupee #Dollar #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rupee-gains-276-70.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rupee-gains-276-70-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "810120545333296",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-04T17:06:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-04-rupee-gains-276-70-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-04T16:55:34+05:00"
+}

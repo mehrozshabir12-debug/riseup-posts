@@ -6046,5 +6046,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-04",
+  "slot": "2026-11-04T17:00:00+05:00",
+  "request_id": "2026-11-04-rupee-gains-276-70",
+  "layout": "bold",
+  "headline": "The Pakistani rupee closed at 276.70 against the US dollar in the inter-bank market on Wednesday, a gain of Re0.01 from Tuesday's close of 276.71, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar",
+    "published_at": "2026-11-04T15:37:40+05:00"
+   }
+  ],
+  "published": "2026-11-04T15:37:40+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 120378644,
+  "image": "posts/2026-11-04-rupee-gains-276-70.jpg",
+  "story": "posts/2026-11-04-rupee-gains-276-70-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-04 17:01 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-04-rupee-gains-276-70.mp4"
  }
 ]
