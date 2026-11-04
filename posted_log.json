@@ -6243,10 +6243,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-04 20:00 PKT",
+  "scheduled": "2026-11-04T20:00:00+05:00",
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-04-gold-tola-gains-rs13900.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 416602263,
+   "reel": 416602340,
+   "story": 416602368
+  },
+  "video": "posts/2026-11-04-gold-tola-gains-rs13900.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
