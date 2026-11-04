@@ -6071,10 +6071,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-04 17:01 PKT",
+  "scheduled": "2026-11-04T17:01:00+05:00",
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-04-rupee-gains-276-70.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 416406362,
+   "reel": 416406390,
+   "story": 416406410
+  },
+  "video": "posts/2026-11-04-rupee-gains-276-70.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
