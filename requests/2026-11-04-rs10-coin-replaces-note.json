@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-04-rs10-coin-replaces-note",
+ "type": "news",
+ "headline": "The federal cabinet chaired by Prime Minister Shehbaz Sharif on Wednesday approved the introduction of a 10-rupee coin to replace the existing 10-rupee banknote and approved designs for a series of new currency notes with enhanced security features, APP reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {"outlet": "APP", "url": "https://www.app.com.pk/national/federal-cabinet-approves-transfer-of-kp-cms-powers-to-governor-endorses-new-currency-designs/", "published_at": "2026-11-04T17:43:18+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/df9e10f1-42f3-4841-adc7-36e6b79c05a2/bcec14ea-245e-40ee-9e19-22bf9c044863/Realistic_close_up_photo_of_an_ordinary_Pakistani_shopkeeper.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjNlMDYyMDg2NjQxZWNlMyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzk3MDgyNH0.uwi_widZxJPabj0KmPwI-op1O-NaOH3bXswj2gzdQxU",
+  "head1": "Rs10 ke note ki",
+  "head2_hl": "Jagah sikka",
+  "head2": "",
+  "kicker": "Cabinet ne manzoori de di",
+  "desc": "Federal cabinet ne naye currency notes ke designs bhi manzoor kiye.",
+  "source": "APP",
+  "date": "04 NOV 2026"
+ },
+ "caption": "Rs10 ke note ki jagah ab Rs10 ka sikka!\nAPP ke mutabiq Wednesday ko PM Shehbaz Sharif ki sadarat mein federal cabinet ne Rs10 ke note ki jagah Rs10 ka sikka laane ki manzoori de di. Cabinet ne behtar security features wale naye currency notes ke designs bhi manzoor kiye.\nAap ko sikka pasand hai ya note? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Rs10Coin #CurrencyNotes #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Rs10 ke note ki jagah ab Rs10 ka sikka, cabinet ne manzoori de di",
+ "publish": {"slot": "2026-11-04T19:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "934661001819759", "label": "Cafe Lovers - Global Genius"},
+ "ai_generated": true
+}
