@@ -6640,5 +6640,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T19:00:00+05:00",
+  "request_id": "2026-11-05-pakistan-lose-india-saff-opener",
+  "layout": "bold",
+  "headline": "Pakistan lost 3-2 to India in their SAFF Championship opener at the National Stadium in Dhaka on Thursday after scoring twice in stoppage time, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042348/pakistan-go-down-to-india-despite-late-onslaught-in-saff-championship-opener",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042348/pakistan-go-down-to-india-despite-late-onslaught-in-saff-championship-opener",
+    "published_at": "2026-11-05T17:42:07+05:00"
+   }
+  ],
+  "published": "2026-11-05T17:42:07+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 505163259,
+  "image": "posts/2026-11-05-pakistan-lose-india-saff-opener.jpg",
+  "story": "posts/2026-11-05-pakistan-lose-india-saff-opener-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 19:00 PKT",
+  "music": "Carry On (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-pakistan-lose-india-saff-opener.mp4"
  }
 ]

@@ -1,0 +1,141 @@
+{
+ "id": "2026-11-05-pakistan-lose-india-saff-opener",
+ "revision": 1,
+ "request": "requests/2026-11-05-pakistan-lose-india-saff-opener.json",
+ "type": "news",
+ "headline": "Pakistan lost 3-2 to India in their SAFF Championship opener at the National Stadium in Dhaka on Thursday after scoring twice in stoppage time, Dawn reports.",
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-05; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-05T19:00:00+05:00",
+ "target_slot": "2026-11-05T19:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lose-india-saff-opener.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lose-india-saff-opener-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lose-india-saff-opener.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-05-pakistan-lose-india-saff-opener.jpg",
+  "story": "posts/2026-11-05-pakistan-lose-india-saff-opener-story.jpg",
+  "reel": "posts/2026-11-05-pakistan-lose-india-saff-opener.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 505163259,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "SAFF Championship mein Pakistan ko India se 3-2 se shikast!\nDawn ke mutabiq Thursday ko Dhaka ke National Stadium mein half-time tak 3-0 se peeche rehne ke baad Pakistan ne stoppage time mein Najeebullah aur Alamgir ke goals se score 3-2 kar diya. Pakistan ka agla match Sunday, 8 November ko Maldives se hai.\nKya Pakistan agle round mein pohanch payega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SAFFChampionship #PakistanFootball #PAKvIND #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lose-india-saff-opener.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "SAFF Championship mein Pakistan ko India se 3-2 se shikast!\nDawn ke mutabiq Thursday ko Dhaka ke National Stadium mein half-time tak 3-0 se peeche rehne ke baad Pakistan ne stoppage time mein Najeebullah aur Alamgir ke goals se score 3-2 kar diya. Pakistan ka agla match Sunday, 8 November ko Maldives se hai.\nKya Pakistan agle round mein pohanch payega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SAFFChampionship #PakistanFootball #PAKvIND #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lose-india-saff-opener.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lose-india-saff-opener-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1197857668796525",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lose-india-saff-opener-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-05T18:51:28+05:00"
+}
