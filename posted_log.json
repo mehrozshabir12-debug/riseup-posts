@@ -6665,10 +6665,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-05 19:00 PKT",
+  "scheduled": "2026-11-05T19:00:00+05:00",
   "music": "Carry On (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-05-pakistan-lose-india-saff-opener.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 417763141,
+   "reel": 417763223,
+   "story": 417763245
+  },
+  "video": "posts/2026-11-05-pakistan-lose-india-saff-opener.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
