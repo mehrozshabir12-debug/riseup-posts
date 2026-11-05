@@ -1,1 +1,78 @@
-{"slot": "2026-11-05T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T22:46:21+05:00"}
+{
+ "slot": "2026-11-05T23:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T22:46:21+05:00",
+ "run_finished_pkt": "2026-11-05T22:53:21+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan has invited international bids for two LNG cargoes for December and January as Qatari supply disruptions threaten winter shortages, with spot prices around $33 per MMBTU against about $14 under the Qatar deals, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-seeks-lng-cargoes-as-qatar-supply-disruptions-threaten-winter-shortages-3006202",
+    "published_at": "2026-11-05T21:47:50+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-05-pakistan-lng-cargo-bids",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lng-cargo-bids.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "text in photo (\"LNG\" and a ship name on the tanker hull)"
+  },
+  {
+   "attempt": 2,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 418046087,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8222033266520901739",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 418046130,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3329082396202452435",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 418046159,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4736438095041154825",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Float (Instrumental) - Sleeping Lion (589750179694057, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts windows 2026-11-03T22:00..2026-11-06T11:00 all succeeded; slot 23:00 empty. RiseUp day 2026-11-05 before this slot: 9 news feed posts (10,12,14,16,18,19,20,21,22), 7 with TikTok.",
+  "previous_slot_check": "Slot 22:00 (flu vaccine): feed FB PUBLISHED https://facebook.com/122185478282855502/posts/122189262134855502, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7704735580642413844, Reel PUBLISHED https://www.instagram.com/reel/DfXh-D7lY11/, Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Arab News LNG tender story (published 21:47 PKT) chosen in 2h window; no LNG/gas story in last 48h. Other results (TikTok fake ban, SCO projects, Pak-UK, Iqbal Day, petrol pump licences) already posted; NCCIA call-centre raid skipped (crime/arrests); Geo IMF growth article could not be fetched (client_error).",
+  "verification": "Single approved outlet (Arab News, Waseem Abbasi) read; meta published_time 2026-11-05T16:47:50Z (21:47 PKT). Facts: PLL invited bids for 2 LNG cargoes for December and January, bids due Friday; spot LNG around $33/MMBTU vs approximately $14 under Qatar long-term deals; QatarEnergy force majeure since March.",
+  "image": "Runway nano-banana-2-lite 4:3, 2 attempts (1st had LNG text on hull); final: gas terminal with storage spheres, pipelines, distant unmarked tanker, 3 anonymous workers, no text.",
+  "publish": "results awaiting_publish; warning: TikTok skipped by pipeline (7 TikTok posts, allowed by 23:00 = 7). Feed card and zoom MP4 (8s, 1080x1920, h264+aac) checked; feed (FB), Reel (IG) and Story (FB+IG) created from payloads, all PENDING; Reel audioType music, displayArtist Sleeping Lion. Trending-music search returned only generic list pages; used verified-list calm id unused today."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "273 arrested in NCCIA raid on illegal call centre in Karachi (Dawn)",
+   "reason": "crime/arrest story; LNG story more relevant to ordinary people"
+  },
+  {
+   "headline": "IMF sees Pakistan growth reaching 3.5% (Geo)",
+   "reason": "page could not be fetched, timestamp unverifiable"
+  }
+ ],
+ "errors": [
+  "Geo.tv article fetch: client_error (no content)",
+  "Runway attempt 1: readable text on ship hull"
+ ]
+}
