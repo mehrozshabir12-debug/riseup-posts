@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-05-punjab-lg-polls-feb-7",
+ "scheduled": "2026-11-05T16:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 417577618,
+   "uuid": "3455036897017480547",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 417577655,
+   "uuid": "3318955336987002063",
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 417577680,
+   "uuid": "2291556031035821301",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

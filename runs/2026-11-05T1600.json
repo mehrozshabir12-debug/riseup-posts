@@ -1,1 +1,79 @@
-{"slot": "2026-11-05T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T15:46:23+05:00"}
+{
+ "slot": "2026-11-05T16:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T15:46:23+05:00",
+ "run_finished_pkt": "2026-11-05T15:53:48+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Election Commission of Pakistan on Thursday decided to hold the first phase of local government elections in Punjab on Feb 7, 2027, in view of fog and weather conditions, while polls in Khyber Pakhtunkhwa were postponed until further orders, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042324/ecp-sets-feb-7-as-polling-date-for-first-phase-of-punjab-local-govt-elections-kp-polls-delayed",
+    "published_at": "2026-11-05T13:52:49+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-11-05-punjab-lg-polls-feb-7",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-punjab-lg-polls-feb-7.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417577618,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3455036897017480547",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417577655,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3318955336987002063",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417577680,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2291556031035821301",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Drift Away (Instrumental) - Giulio Cercato (1211414204067053, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts 6h windows 2026-11-03T15:00..2026-11-06T04:00 all succeeded; slot 16:00 empty. RiseUp day 2026-11-05 so far: 3 news feed posts (10:00, 12:00, 14:00), 3 with TikTok.",
+  "previous_slot_check": "No post at 15:00 (no 15:00 run). Last slot 14:00 (PTA TikTok ban): feed FB+TikTok PUBLISHED, Reel PUBLISHED https://www.instagram.com/reel/DfWq-s1mZDD/, Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Dawn ECP Punjab LG polls Feb 7 (published 13:52 PKT, updated 15:26 PKT) chosen. Not a duplicate of last 48h.",
+  "verification": "Single approved outlet (Dawn) article read; timestamps from meta article:published_time/modified_time (+05:00); date Feb 7 2027, fog/weather reason, KP halt until further orders all checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, empty polling-station classroom in fog, no text/people.",
+  "publish": "results awaiting_publish; feed card and zoom MP4 (8s, 1080x1920, aac) checked; feed, Reel and Story created from payloads, all PENDING; Reel audioType music with displayArtist Giulio Cercato."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PSX KSE-100 extends rally, +3,450 points midday (Tribune 13:50 PKT)",
+   "reason": "same topic as 4 Nov KSE-100 rally post; ECP decision more important"
+  },
+  {
+   "headline": "FCC bars PHC from hearing MPO detention cases (Tribune 13:17 PKT)",
+   "reason": "court/political; ECP story newer-updated and more relevant to ordinary people"
+  },
+  {
+   "headline": "Gold soars Rs13,900 (Brecorder/Tribune)",
+   "reason": "already posted 4 Nov 20:00"
+  }
+ ],
+ "errors": [
+  "geo.tv ECP article fetch failed: client_error (used Dawn instead)",
+  "brecorder.com/live/gold-rates fetch failed: client_error"
+ ]
+}
