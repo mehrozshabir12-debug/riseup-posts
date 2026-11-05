@@ -6779,5 +6779,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T22:00:00+05:00",
+  "request_id": "2026-11-05-islamabad-flu-vaccine-shortage",
+  "layout": "bold",
+  "headline": "Citizens in Islamabad are unable to find influenza vaccines this winter, and Drap CEO Dr Obaidullah Malik said the Chinese Sinovac vaccine would be made available by Nov 15, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042365/citizens-in-islamabad-left-hanging-amid-unavailability-of-influenza-vaccines",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042365/citizens-in-islamabad-left-hanging-amid-unavailability-of-influenza-vaccines",
+    "published_at": "2026-11-05T20:46:12+05:00"
+   }
+  ],
+  "published": "2026-11-05T20:46:12+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 67186557,
+  "image": "posts/2026-11-05-islamabad-flu-vaccine-shortage.jpg",
+  "story": "posts/2026-11-05-islamabad-flu-vaccine-shortage-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 22:00 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-islamabad-flu-vaccine-shortage.mp4"
  }
 ]
