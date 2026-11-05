@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-05-pakistan-lng-cargo-bids",
+ "type": "news",
+ "headline": "Pakistan has invited international bids for two LNG cargoes for December and January as Qatari supply disruptions threaten winter shortages, with spot prices around $33 per MMBTU against about $14 under the Qatar deals, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-seeks-lng-cargoes-as-qatar-supply-disruptions-threaten-winter-shortages-3006202",
+   "published_at": "2026-11-05T21:47:50+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b07e9407-659b-4eb0-8614-a73047641b0d/b8e0c15e-66a2-46ce-b370-56c11232620b/Realistic_photo_of_an_industrial_natural_gas_terminal_at_dus.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzMwODc2YWEyNzA1NTA1MiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDA2Njk4Nn0.Jdox3eU8vv1hDUM72PhUBOfHDYvlzCAxIo0VqmrN-pk",
+  "head1": "Gas bohran ka khatra",
+  "head2_hl": "2 LNG cargo",
+  "head2": "talab",
+  "kicker": "December aur January ke liye",
+  "desc": "Spot LNG taqreeban $33 fi MMBTU, Qatar deal mein $14 tha",
+  "source": "Arab News",
+  "date": "05 NOV 2026"
+ },
+ "caption": "Sardiyon se pehle gas ki qillat ka khatra!\nArab News ke mutabiq petroleum ministry ke ek senior afsar ne Thursday ko bataya ke Pakistan ne December aur January ke liye 2 LNG cargoes ke international bids talab kiye hain, jo Friday tak jama honge. Qatar ki supply mein rukawat ke baad spot LNG taqreeban $33 fi MMBTU tak pohanch gayi hai, jabke Qatar ke muahide mein Pakistan taqreeban $14 de raha tha.\nKya aap ke ghar mein gas poori aa rahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LNG #GasCrisis #PakistanEnergy #PakistanNews",
+ "tiktok_title": "Pakistan ne December aur January ke liye 2 LNG cargoes ke bids mange",
+ "publish": {
+  "slot": "2026-11-05T23:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "589750179694057",
+  "label": "Float (Instrumental) - Sleeping Lion"
+ },
+ "ai_generated": true
+}
