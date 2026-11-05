@@ -1,1 +1,76 @@
-{"slot": "2026-11-05T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T17:47:08+05:00"}
+{
+ "slot": "2026-11-05T18:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T17:47:08+05:00",
+ "run_finished_pkt": "2026-11-05T17:52:13+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif on Thursday directed authorities to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries of the PM's Fuel Relief Programme, under which 15,519,282 citizens have registered, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042330/pm-shehbaz-directs-cancellation-of-petrol-pump-licences-over-failure-to-facilitate-fuel-subsidy-beneficiaries",
+    "published_at": "2026-11-05T15:19:05+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-11-05-pm-fuel-relief-pump-licences",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pm-fuel-relief-pump-licences.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417694487,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4495796641987672852",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417694527,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7454074732033456069",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417694546,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8313619509574482624",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius (934661001819759, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts windows 2026-11-03T17:00..2026-11-06T05:47 all succeeded; slot 18:00 empty. RiseUp day 2026-11-05 before this slot: 4 news feed posts (10,12,14,16), 4 with TikTok.",
+  "previous_slot_check": "No post at 17:00 (no 17:00 run). Last slot 16:00 (Punjab LG polls): feed FB+TikTok PUBLISHED, Reel PUBLISHED https://www.instagram.com/reel/DfW4lK1gQVr/, Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Dawn PM Fuel Relief Programme / petrol pump licence cancellation (published 15:19 PKT) chosen from 3h window; no fuel-subsidy post in last 48h.",
+  "verification": "Single approved outlet (Dawn) article read; timestamp from meta article:published_time 2026-11-05 15:19:05+05:00; 15,519,282 registered, Rs28.6 billion disbursed as of November 4, licence cancellation directive checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, petrol station with motorcycles and rickshaw, anonymous people, no readable text.",
+  "publish": "results awaiting_publish; feed card and zoom MP4 (8s, 1080x1920, aac) checked; feed, Reel and Story created from payloads, all PENDING; Reel audioType music with displayArtist Global Genius."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Ninth polio case of 2026 confirmed in Khyber (Dawn 17:25 PKT)",
+   "reason": "centres on an infected seven-month-old child (minors rule) and follows the 12:00 polio post; skipped for safety"
+  },
+  {
+   "headline": "Pakistan, UK agree to deepen cooperation in security, trade, migration (Dawn)",
+   "reason": "same Pakistan-UK talks as 4 Nov 18:00 post"
+  },
+  {
+   "headline": "PSX KSE-100 gains nearly 2% / rupee gains (Brecorder)",
+   "reason": "same topics as recent posts (4 Nov 16:00, 17:01)"
+  }
+ ],
+ "errors": []
+}
