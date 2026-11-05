@@ -1,1 +1,79 @@
-{"slot": "2026-11-05T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T18:47:17+05:00"}
+{
+ "slot": "2026-11-05T19:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T18:47:17+05:00",
+ "run_finished_pkt": "2026-11-05T18:52:50+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan lost 3-2 to India in their SAFF Championship opener at the National Stadium in Dhaka on Thursday after scoring twice in stoppage time, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042348/pakistan-go-down-to-india-despite-late-onslaught-in-saff-championship-opener",
+    "published_at": "2026-11-05T17:42:07+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-05-pakistan-lose-india-saff-opener",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pakistan-lose-india-saff-opener.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417763141,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6855216813180826690",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417763223,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6298138509131953184",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417763245,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5849489948833922147",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Carry On (Instrumental) - Giulio Cercato (1197857668796525, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts windows 2026-11-03T18:00..2026-11-06T07:00 all succeeded; slot 19:00 empty. RiseUp day 2026-11-05 before this slot: 5 news feed posts (10,12,14,16,18), 5 with TikTok.",
+  "previous_slot_check": "Slot 18:00 (PM fuel relief pump licences): feed FB PUBLISHED, TikTok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7704672934777949461, Reel PUBLISHED https://www.instagram.com/reel/DfXGblWFZyL/, Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Dawn SAFF Championship opener (17:42 PKT) is the only story passing all rules in the 2h window; not covered in last 48h.",
+  "verification": "Single approved outlet (Dawn) article read; meta article:published_time 2026-11-05 17:42:07+05:00; 3-2 score, Dhaka National Stadium, half-time 3-0, stoppage-time goals by Najeebullah and Alamgir, next match vs Maldives Sunday 8 November checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, floodlit football match with anonymous players in plain kits, no readable text.",
+  "publish": "results awaiting_publish (pipeline warning: TikTok skipped, 5 TikTok posts allowed by 19:00); feed card and zoom MP4 (8s, 1080x1920, h264+aac) checked; feed (FB), Reel (IG) and Story (FB+IG) created from payloads, all PENDING; Reel audioType music with displayArtist Giulio Cercato."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold price jumps Rs9,600 per tola to Rs435,636 (Brecorder 16:08 PKT)",
+   "reason": "3h window; a qualifying story existed in the newer 2h window"
+  },
+  {
+   "headline": "Electoral reforms panel: 2 members each from PML-N, PPP, PTI (Dawn 16:23 PKT)",
+   "reason": "3h window; newer story available"
+  },
+  {
+   "headline": "Ninth polio case of 2026 confirmed in Khyber (Dawn 17:25 PKT)",
+   "reason": "centres on an infected child (minors rule); follows 12:00 polio post"
+  },
+  {
+   "headline": "Cristiano Ronaldo announces international retirement (Dawn 17:24 PKT)",
+   "reason": "not Pakistan-related"
+  }
+ ],
+ "errors": []
+}
