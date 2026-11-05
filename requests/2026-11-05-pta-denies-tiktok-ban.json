@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-05-pta-denies-tiktok-ban",
+ "type": "news",
+ "headline": "The Pakistan Telecommunication Authority on Thursday dismissed a notification circulating on social media about an alleged TikTok ban as fake, saying no such notification has been issued, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2042309/false-and-misleading-pta-dismisses-claims-of-tiktok-ban-in-pakistan",
+   "published_at": "2026-11-05T12:22:44+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/7ddc2ecc-696a-47b7-990f-df3bfa51f8fa/7feb6ca1-4ecc-48a6-9ca7-6a248cfd2cd9/Realistic_photo_of_an_anonymous_young_Pakistani_man_sitting_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzEwZjVjM2VhYjJkNzAxNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzk2NzAzOH0.gusSAiIVcNME715GVD_8yezGp3XN84FiXNXUr1vmh9o",
+  "head1": "TikTok ban ki",
+  "head2_hl": "khabar jhooti",
+  "head2": "",
+  "kicker": "PTA ki wazahat",
+  "desc": "PTA: TikTok ban ka koi notification jari nahi hua",
+  "source": "Dawn",
+  "date": "05 NOV 2026"
+ },
+ "caption": "TikTok ban ki khabar jhooti nikli!\nDawn ke mutabiq PTA ne Thursday ko bataya ke social media par TikTok ban ka jo notification gardish kar raha hai woh jaali hai, aur aisa koi notification jari nahi kiya gaya. PTA ne awam ko kaha ke sahi maloomat sirf PTA ki official website aur verified social media accounts se lein.\nKya aap ne bhi yeh fake notification dekha tha? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #TikTok #PTA #FakeNews #PakistanNews",
+ "tiktok_title": "PTA: TikTok ban ka notification jaali hai, koi ban nahi laga",
+ "publish": {
+  "slot": "2026-11-05T14:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
