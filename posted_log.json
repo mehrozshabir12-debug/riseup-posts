@@ -6593,5 +6593,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T18:00:00+05:00",
+  "request_id": "2026-11-05-pm-fuel-relief-pump-licences",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif on Thursday directed authorities to cancel the licences of petrol pumps that fail to facilitate registered beneficiaries of the PM's Fuel Relief Programme, under which 15,519,282 citizens have registered, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042330/pm-shehbaz-directs-cancellation-of-petrol-pump-licences-over-failure-to-facilitate-fuel-subsidy-beneficiaries",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042330/pm-shehbaz-directs-cancellation-of-petrol-pump-licences-over-failure-to-facilitate-fuel-subsidy-beneficiaries",
+    "published_at": "2026-11-05T15:19:05+05:00"
+   }
+  ],
+  "published": "2026-11-05T15:19:05+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 452310909,
+  "image": "posts/2026-11-05-pm-fuel-relief-pump-licences.jpg",
+  "story": "posts/2026-11-05-pm-fuel-relief-pump-licences-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 18:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-pm-fuel-relief-pump-licences.mp4"
  }
 ]
