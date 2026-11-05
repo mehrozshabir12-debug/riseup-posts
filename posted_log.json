@@ -6477,10 +6477,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-05 12:00 PKT",
+  "scheduled": true,
   "music": "A Little Love Song - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-05-polio-drive-19-6m-vaccinated.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 417387023,
+   "reel": 417387042,
+   "story": 417387053
+  },
+  "video": "posts/2026-11-05-polio-drive-19-6m-vaccinated.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
