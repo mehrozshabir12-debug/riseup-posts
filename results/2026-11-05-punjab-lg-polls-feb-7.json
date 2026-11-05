@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-05-punjab-lg-polls-feb-7",
+ "revision": 1,
+ "request": "requests/2026-11-05-punjab-lg-polls-feb-7.json",
+ "type": "news",
+ "headline": "The Election Commission of Pakistan on Thursday decided to hold the first phase of local government elections in Punjab on Feb 7, 2027, in view of fog and weather conditions, while polls in Khyber Pakhtunkhwa were postponed until further orders, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-05T16:00:00+05:00",
+ "target_slot": "2026-11-05T16:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-punjab-lg-polls-feb-7.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-punjab-lg-polls-feb-7-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-punjab-lg-polls-feb-7.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-05-punjab-lg-polls-feb-7.jpg",
+  "story": "posts/2026-11-05-punjab-lg-polls-feb-7-story.jpg",
+  "reel": "posts/2026-11-05-punjab-lg-polls-feb-7.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 961226308,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Punjab mein local government elections 7 February 2027 ko!\nDawn ke mutabiq Election Commission of Pakistan ne Thursday ko faisla kiya ke Punjab mein LG elections ka pehla marhala fog aur mausam ki wajah se 7 February 2027 ko hoga. KP mein local government elections agle hukum tak rok diye gaye hain.\nKya aap apne ilaqe ke LG elections mein vote denge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ECP #LocalGovernment #Punjab #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-punjab-lg-polls-feb-7.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Punjab LG elections ka pehla marhala 7 Feb 2027 ko, KP mein polls ruk gaye",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Punjab mein local government elections 7 February 2027 ko!\nDawn ke mutabiq Election Commission of Pakistan ne Thursday ko faisla kiya ke Punjab mein LG elections ka pehla marhala fog aur mausam ki wajah se 7 February 2027 ko hoga. KP mein local government elections agle hukum tak rok diye gaye hain.\nKya aap apne ilaqe ke LG elections mein vote denge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ECP #LocalGovernment #Punjab #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-punjab-lg-polls-feb-7.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-punjab-lg-polls-feb-7-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1211414204067053",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-punjab-lg-polls-feb-7-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-05T15:52:45+05:00"
+}

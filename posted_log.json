@@ -6546,5 +6546,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T16:00:00+05:00",
+  "request_id": "2026-11-05-punjab-lg-polls-feb-7",
+  "layout": "bold",
+  "headline": "The Election Commission of Pakistan on Thursday decided to hold the first phase of local government elections in Punjab on Feb 7, 2027, in view of fog and weather conditions, while polls in Khyber Pakhtunkhwa were postponed until further orders, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042324/ecp-sets-feb-7-as-polling-date-for-first-phase-of-punjab-local-govt-elections-kp-polls-delayed",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042324/ecp-sets-feb-7-as-polling-date-for-first-phase-of-punjab-local-govt-elections-kp-polls-delayed",
+    "published_at": "2026-11-05T13:52:49+05:00"
+   }
+  ],
+  "published": "2026-11-05T13:52:49+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 961226308,
+  "image": "posts/2026-11-05-punjab-lg-polls-feb-7.jpg",
+  "story": "posts/2026-11-05-punjab-lg-polls-feb-7-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 16:00 PKT",
+  "music": "Drift Away (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-punjab-lg-polls-feb-7.mp4"
  }
 ]
