@@ -6826,5 +6826,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T23:00:00+05:00",
+  "request_id": "2026-11-05-pakistan-lng-cargo-bids",
+  "layout": "bold",
+  "headline": "Pakistan has invited international bids for two LNG cargoes for December and January as Qatari supply disruptions threaten winter shortages, with spot prices around $33 per MMBTU against about $14 under the Qatar deals, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-seeks-lng-cargoes-as-qatar-supply-disruptions-threaten-winter-shortages-3006202",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-seeks-lng-cargoes-as-qatar-supply-disruptions-threaten-winter-shortages-3006202",
+    "published_at": "2026-11-05T21:47:50+05:00"
+   }
+  ],
+  "published": "2026-11-05T21:47:50+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 957696269,
+  "image": "posts/2026-11-05-pakistan-lng-cargo-bids.jpg",
+  "story": "posts/2026-11-05-pakistan-lng-cargo-bids-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 23:00 PKT",
+  "music": "Float (Instrumental) - Sleeping Lion",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-pakistan-lng-cargo-bids.mp4"
  }
 ]
