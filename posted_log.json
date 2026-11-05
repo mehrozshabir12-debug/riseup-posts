@@ -6405,5 +6405,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T10:00:00+05:00",
+  "request_id": "2026-11-05-air-pollution-costs-6-5pc-gdp",
+  "layout": "bold",
+  "headline": "Air pollution is costing Pakistan an estimated 6.5% of GDP and, according to the State of Global Air cited by the OICCI, causes more than 248,000 premature deaths a year, the Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2638702/air-pollution-costs-65-of-gdp",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2638702/air-pollution-costs-65-of-gdp",
+    "published_at": "2026-11-05T03:16:11+05:00"
+   }
+  ],
+  "published": "2026-11-05T03:16:11+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 497519429,
+  "image": "posts/2026-11-05-air-pollution-costs-6-5pc-gdp.jpg",
+  "story": "posts/2026-11-05-air-pollution-costs-6-5pc-gdp-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 10:00 PKT",
+  "music": "Slow Living - stereogully",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-air-pollution-costs-6-5pc-gdp.mp4"
  }
 ]
