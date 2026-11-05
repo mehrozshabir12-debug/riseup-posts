@@ -1,1 +1,76 @@
-{"slot": "2026-11-05T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T11:48:23+05:00"}
+{
+ "slot": "2026-11-05T12:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T11:48:23+05:00",
+ "run_finished_pkt": "2026-11-05T11:53:47+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Over 19.6 million children were vaccinated in the first three days of Pakistan's sub-national polio campaign, which targets 24 million children in 97 districts until 8 November, the NEOC said, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-over-196-million-vaccinated-in-first-three-days-of-anti-polio-campaign-3006145",
+    "published_at": "2026-11-05T10:32:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h (Arab News article:published_time 2026-11-05T05:32:00Z = 10:32 PKT, 1h28m before T)",
+ "request_id": "2026-11-05-polio-drive-19-6m-vaccinated",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-polio-drive-19-6m-vaccinated.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417387023,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5103297816694469638",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417387042,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8025406231720473922",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417387053,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8705901043342816431",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "A Little Love Song - Alex Blue (614418411270205, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; slot window 11:00-13:00 empty; 6h windows 2026-11-03T11:50..2026-11-05T23:50 all succeeded; RiseUp day 2026-11-05: 1 news post, 1 TikTok before this",
+  "previous_slot_check": "no 11:00 slot posts on Metricool (11:00 run log missing); 10:00 slot: feed 417328874 facebook+tiktok PUBLISHED, reel 417328886 instagram PUBLISHED https://www.instagram.com/reel/DfWO9nPARWj/, story 417328897 facebook+instagram PUBLISHED",
+  "news_search": "searched general + Arab News/Dawn/Tribune/Geo/BR; Dawn latest newest Pakistan items ~01:34 PKT; chose Arab News polio campaign progress (10:32 PKT). Polio drive announcement posted 24 Oct (outside 48h); this is a new development (first 3-day results).",
+  "verification": "Arab News article fetched: published 2026-11-05T05:32:00Z (10:32 PKT), unmodified; NEOC: over 19.6 million children vaccinated in first three days; campaign launched Monday targeting 24 million children in 97 districts, continues until 8 November; 8 WPV1 cases this year",
+  "image": "Runway nano-banana-2-lite task e2647523-5e33-4a03-8ce0-f162721a6ede ok; two anonymous health workers with vaccine carrier in residential lane, mother with child; no readable text/logos/public figures",
+  "publish": "card + zoom MP4 (8s 1080x1920 h264+aac) checked; feed FB+TikTok and Reel at 12:00, Story 12:05; Reel audioType music, displayArtist Alex Blue; all PENDING on getScheduledPosts 11:55-12:10. Trending-audio search gave no confirmed music-type id, verified list id used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Commerce minister meets Saudi, Egypt, Tunisia officials at COMCEC Istanbul (Arab News 11:31 PKT)",
+   "reason": "routine sideline meetings, less important for ordinary people"
+  },
+  {
+   "headline": "Petrol Rs7.06 / diesel Rs3.71 cut (Dawn 23:23 PKT 4 Nov)",
+   "reason": "older than 8h before T"
+  },
+  {
+   "headline": "LPG imports from Saudi/Oman (Arab News 4 Nov 09:19)",
+   "reason": "old"
+  }
+ ],
+ "errors": []
+}

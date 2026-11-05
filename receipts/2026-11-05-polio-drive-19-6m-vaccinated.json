@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-05-polio-drive-19-6m-vaccinated",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 417387023,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 417387042,
+   "status": {
+    "instagram": "PENDING"
+   },
+   "music": "A Little Love Song - Alex Blue (614418411270205, audioType music)"
+  },
+  "story": {
+   "metricool_id": 417387053,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
