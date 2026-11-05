@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-05-islamabad-flu-vaccine-shortage",
+ "type": "news",
+ "headline": "Citizens in Islamabad are unable to find influenza vaccines this winter, and Drap CEO Dr Obaidullah Malik said the Chinese Sinovac vaccine would be made available by Nov 15, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2042365/citizens-in-islamabad-left-hanging-amid-unavailability-of-influenza-vaccines",
+   "published_at": "2026-11-05T20:46:12+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/646ca788-51f7-4359-8674-14a282daa7d9/1ac629f1-6eb9-4843-8b73-2d8cdcfc9fbf/Realistic_photo_inside_a_small_pharmacy_in_Islamabad__Pakist.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzQ1NjlhNjhmYmU4ZjI5YSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDAxOTU2MH0.-o67h5uq-iQ4OHa33YM2vvpfEuijY_d6GB1Qdjd_-2U",
+  "head1": "Islamabad mein flu vaccine",
+  "head2_hl": "Nayab",
+  "head2": "",
+  "kicker": "Drap: Sinovac 15 Nov tak",
+  "desc": "Vaxigrip aur Influvac is saal market mein nahi milengi.",
+  "source": "Dawn",
+  "date": "05 NOV 2026"
+ },
+ "caption": "Sardiyon se pehle flu vaccine market se ghayab!\nDawn ke mutabiq Islamabad mein shehri flu vaccine dhoond rahe hain magar nahi mil rahi. Drap CEO Dr Obaidullah Malik ne kaha ke Chinese vaccine Sinovac 15 November tak dastiyab kar di jayegi, jabke health ministry ke ek afsar ke mutabiq Vaxigrip aur Influvac is saal consumers ko nahi milengi.\nKya aap ko flu vaccine mil saki? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #FluVaccine #Influenza #PakistanHealth #PakistanNews",
+ "tiktok_title": "Flu vaccine nayab: Drap ke mutabiq Sinovac 15 November tak milegi",
+ "publish": {
+  "slot": "2026-11-05T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "478728841591377",
+  "label": "Reflection - Sam Marshall"
+ },
+ "ai_generated": true
+}
