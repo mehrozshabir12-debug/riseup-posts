@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-05-air-pollution-costs-6-5pc-gdp",
+ "type": "news",
+ "headline": "Air pollution is costing Pakistan an estimated 6.5% of GDP and, according to the State of Global Air cited by the OICCI, causes more than 248,000 premature deaths a year, the Express Tribune reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2638702/air-pollution-costs-65-of-gdp",
+   "published_at": "2026-11-05T03:16:11+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/90691f0a-5674-4ff9-8e85-4590e9e9948d/55cc709f-386d-4f9e-8bee-0f5596dc0999/Realistic_news_photograph_of_a_busy_road_in_a_Pakistani_city.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjRjNjI4YWVmZmMxZWYzZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzk1ODQ0Nn0.Pxe_-gw9v6cmNCIdhioMA0141mW8DexDlnV80kshyls",
+  "head1": "Fazai aloodgi ka",
+  "head2_hl": "GDP ka 6.5%",
+  "head2": "nuksaan",
+  "kicker": "248,000 saalana qabl-az-waqt amwaat",
+  "desc": "92% aabadi WHO ki interim hadd se zyada PM2.5 mein",
+  "source": "Express Tribune",
+  "date": "05 NOV 2026"
+ },
+ "caption": "Fazai aloodgi Pakistan ko GDP ka 6.5% nuksaan de rahi hai!\nExpress Tribune ke mutabiq OICCI ne State of Global Air ke hawale se bataya ke fazai aloodgi se har saal 248,000 se zyada log qabl-az-waqt mar jate hain. 92% aabadi WHO ki interim hadd se zyada PM2.5 wale ilaqon mein rehti hai.\nAap ke shehar mein smog ka kya haal hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Smog #AirPollution #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Fazai aloodgi se Pakistan ko GDP ka 6.5% nuksaan, saalana 248,000 amwaat",
+ "publish": {
+  "slot": "2026-11-05T10:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1329928372147056",
+  "label": "Slow Living - stereogully"
+ },
+ "ai_generated": true
+}
