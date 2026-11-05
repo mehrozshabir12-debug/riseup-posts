@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-05-punjab-lg-polls-feb-7",
+ "type": "news",
+ "headline": "The Election Commission of Pakistan on Thursday decided to hold the first phase of local government elections in Punjab on Feb 7, 2027, in view of fog and weather conditions, while polls in Khyber Pakhtunkhwa were postponed until further orders, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2042324/ecp-sets-feb-7-as-polling-date-for-first-phase-of-punjab-local-govt-elections-kp-polls-delayed",
+   "published_at": "2026-11-05T13:52:49+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b3b84385-a35a-4688-9159-f879658bca73/57fcc6dd-847e-49c9-b65c-8ced382804f1/Realistic_news_photo_of_an_empty_government_school_classroom.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMWFlYzc3OWY4Y2VhODFkYSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDAxNTEzNX0.qBTx0MstQReIag2tt2cFVn75v0TzgyWAifqye74AY9I",
+  "head1": "Punjab LG elections",
+  "head2_hl": "7 Feb 2027",
+  "head2": "ko",
+  "kicker": "ECP ka bara faisla",
+  "desc": "KP mein elections agle hukum tak rok diye gaye",
+  "source": "Dawn",
+  "date": "05 NOV 2026"
+ },
+ "caption": "Punjab mein local government elections 7 February 2027 ko!\nDawn ke mutabiq Election Commission of Pakistan ne Thursday ko faisla kiya ke Punjab mein LG elections ka pehla marhala fog aur mausam ki wajah se 7 February 2027 ko hoga. KP mein local government elections agle hukum tak rok diye gaye hain.\nKya aap apne ilaqe ke LG elections mein vote denge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ECP #LocalGovernment #Punjab #PakistanNews",
+ "tiktok_title": "Punjab LG elections ka pehla marhala 7 Feb 2027 ko, KP mein polls ruk gaye",
+ "publish": {
+  "slot": "2026-11-05T16:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1211414204067053",
+  "label": "Drift Away (Instrumental) - Giulio Cercato"
+ },
+ "ai_generated": true
+}
