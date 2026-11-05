@@ -6618,10 +6618,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-05 18:00 PKT",
+  "scheduled": "2026-11-05T18:00:00+05:00",
   "music": "Cafe Lovers - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-05-pm-fuel-relief-pump-licences.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 417694487,
+   "reel": 417694527,
+   "story": 417694546
+  },
+  "video": "posts/2026-11-05-pm-fuel-relief-pump-licences.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
