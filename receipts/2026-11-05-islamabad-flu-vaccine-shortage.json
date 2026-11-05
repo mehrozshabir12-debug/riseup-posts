@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-05-islamabad-flu-vaccine-shortage",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 417972809,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 417972891,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 417973000,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

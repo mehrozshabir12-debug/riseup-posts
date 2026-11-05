@@ -1,1 +1,76 @@
-{"slot": "2026-11-05T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T21:46:13+05:00"}
+{
+ "slot": "2026-11-05T22:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T21:46:13+05:00",
+ "run_finished_pkt": "2026-11-05T21:52:00+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Citizens in Islamabad are unable to find influenza vaccines this winter, and Drap CEO Dr Obaidullah Malik said the Chinese Sinovac vaccine would be made available by Nov 15, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042365/citizens-in-islamabad-left-hanging-amid-unavailability-of-influenza-vaccines",
+    "published_at": "2026-11-05T20:46:12+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-05-islamabad-flu-vaccine-shortage",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-islamabad-flu-vaccine-shortage.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417972809,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5960381493769121814",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417972891,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4969555898364706374",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417973000,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3457073432889506438",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall (478728841591377, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts windows 2026-11-03T21:00..2026-11-06T09:45 all succeeded; slot 22:00 empty. RiseUp day 2026-11-05 before this slot: 8 news feed posts (10,12,14,16,18,19,20,21), 6 with TikTok.",
+  "previous_slot_check": "Slot 21:00 (Iqbal Day holiday): feed FB PUBLISHED https://facebook.com/122185478282855502/posts/122189258642855502, Reel PUBLISHED https://www.instagram.com/reel/DfXbawvjjXF/, Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Dawn flu vaccine shortage in Islamabad (published 20:46 PKT, updated 20:57) chosen in 2h window; not covered in last 48h. Dawn latest-news newest other Pakistan items older/duplicates.",
+  "verification": "Single approved outlet (Dawn, Ikram Junaidi) article read; meta published_time 2026-11-05T20:46:12+05:00, modified 20:57:09+05:00. Drap CEO Dr Obaidullah Malik: Sinovac 'would be made available by Nov 15'; senior health ministry official: Vaxigrip and Influvac 'will not be available to consumers this year'.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, Pakistani pharmacy counter with anonymous pharmacist, elderly woman and son, no readable text.",
+  "publish": "results awaiting_publish, no warnings. Feed card and zoom MP4 (8s, 1080x1920, h264+aac) checked; feed (FB+TikTok), Reel (IG) and Story (FB+IG) created from payloads, all PENDING; Reel audioType music with displayArtist Sam Marshall. Trending-music search returned only generic list pages, used verified-list calm id unused today."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Saudi and Iranian foreign ministers discuss regional security (Arab News)",
+   "reason": "not directly about Pakistan"
+  },
+  {
+   "headline": "Army chief calls for stronger military readiness (Arab News 20:31)",
+   "reason": "military story, less relevant to ordinary people"
+  },
+  {
+   "headline": "Ninth polio case of 2026 (Dawn 17:25)",
+   "reason": "story about a child (minors rule)"
+  }
+ ],
+ "errors": []
+}
