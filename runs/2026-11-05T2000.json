@@ -1,1 +1,72 @@
-{"slot": "2026-11-05T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T19:47:43+05:00"}
+{
+ "slot": "2026-11-05T20:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T19:47:43+05:00",
+ "run_finished_pkt": "2026-11-05T19:52:33+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Interior Minister Mohsin Naqvi said on Thursday that work on a convention center, a new cricket stadium and Asia's biggest safari park in Islamabad will begin ahead of the SCO summit, as PM Shehbaz Sharif inaugurated the Rs1.45 billion Kashmir Chowk Underpass, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-plans-major-islamabad-infrastructure-projects-ahead-of-sco-summit-3006177",
+    "published_at": "2026-11-05T19:17:41+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-05-islamabad-sco-projects-safari-park",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-islamabad-sco-projects-safari-park.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417829938,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5320834462424937677",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417830014,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8137066497199357541",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417830056,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1341853374759745733",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius (810120545333296, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts windows 2026-11-03T19:00..2026-11-06T08:00 all succeeded; slot 20:00 empty. RiseUp day 2026-11-05 before this slot: 6 news feed posts (10,12,14,16,18,19), 5 with TikTok.",
+  "previous_slot_check": "Slot 19:00 (SAFF Pakistan v India): feed FB PUBLISHED, Reel PUBLISHED https://www.instagram.com/reel/DfXNO7kiW53/, Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Arab News SCO Islamabad projects (19:17 PKT) chosen in 2h window; not covered in last 48h.",
+  "verification": "Single approved outlet (Arab News) article read; meta published_time 2026-11-05T14:17:41Z = 19:17:41 PKT; Naqvi quotes on safari park, convention center (15 days), cricket stadium groundbreaking next week; Kashmir Chowk Underpass Rs1.45 billion, completed in 27 days, inaugurated by PM Shehbaz Sharif.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, Islamabad underpass with traffic and Margalla hills, no readable text.",
+  "publish": "results awaiting_publish, no warnings; feed card and zoom MP4 (8s, 1080x1920, h264+aac) checked; feed (FB+TikTok), Reel (IG) and Story (FB+IG) created from payloads, all PENDING; Reel audioType music with displayArtist Global Genius. Trending-music web search skipped; used verified list id unused today."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan reports ninth polio case; PM orders provinces to prepare polio plan within a week (Tribune, 19:35 PKT)",
+   "reason": "centres on a seven-month-old child case (minors rule) and close to 12:00 polio post"
+  },
+  {
+   "headline": "Pakistan, UK deepen cooperation in security, trade and migration (Tribune)",
+   "reason": "close to 4 Nov 18:00 Pakistan-UK post; not verified as new development"
+  }
+ ],
+ "errors": []
+}
