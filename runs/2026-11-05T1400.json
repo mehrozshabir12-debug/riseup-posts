@@ -1,1 +1,65 @@
-{"slot": "2026-11-05T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T13:46:17+05:00"}
+{
+ "slot": "2026-11-05T14:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T13:46:17+05:00",
+ "run_finished_pkt": "2026-11-05T13:50:26+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Pakistan Telecommunication Authority on Thursday dismissed a notification circulating on social media about an alleged TikTok ban as fake, saying no such notification has been issued, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042309/false-and-misleading-pta-dismisses-claims-of-tiktok-ban-in-pakistan",
+    "published_at": "2026-11-05T12:22:44+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-05-pta-denies-tiktok-ban",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-pta-denies-tiktok-ban.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "task_id": "7ddc2ecc-696a-47b7-990f-df3bfa51f8fa",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417467575,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7499956260116056378",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417467605,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7264143937300156167",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417467617,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1811318421973676824",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (757785052896581, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, FB+IG+TikTok connected). getScheduledPosts 6h windows 2026-11-03T13:00..2026-11-06T02:00 all succeeded; slot 14:00 free. RiseUp day 2026-11-05 before this post: 2 news feed posts (10:00, 12:00), 2 with TikTok.",
+  "previous_slot_check": "No posts at 13:00 (slot not used). Latest earlier slot 12:00: feed FB+TikTok PUBLISHED, Reel PUBLISHED (https://www.instagram.com/reel/DfWc5l-lb3W/), Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched approved outlets; picked Dawn PTA TikTok-ban denial (published 12:22 PKT, 1h38m before T). Not a duplicate of last 48h posts.",
+  "verification": "Single approved outlet (Dawn); article meta published 2026-11-05T12:22:44+05:00, modified 12:50:17+05:00. PTA quote 'no such notification has been issued, and the circulating information is false and misleading' and advice to use official website/verified accounts checked against article.",
+  "image": "1 Runway image, no readable text/logos/public figures.",
+  "publish": "results awaiting_publish; card and zoom MP4 (8s, 1080x1920) inspected; feed, Reel and Story created from payloads; all PENDING; Reel audioType music with displayArtist."
+ },
+ "skipped_candidates": [],
+ "errors": []
+}

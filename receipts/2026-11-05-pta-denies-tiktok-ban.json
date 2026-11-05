@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-05-pta-denies-tiktok-ban",
+ "scheduled": "2026-11-05T14:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 417467575,
+   "uuid": "7499956260116056378",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 417467605,
+   "uuid": "7264143937300156167",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "757785052896581",
+    "audioType": "music",
+    "title": "Sunday In October",
+    "displayArtist": "Trout Recording"
+   }
+  },
+  "story": {
+   "metricool_id": 417467617,
+   "uuid": "-1811318421973676824",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publication": "2026-11-05T14:05:00+05:00"
+  }
+ }
+}
