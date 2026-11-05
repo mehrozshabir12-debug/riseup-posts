@@ -6758,10 +6758,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-05 21:00 PKT",
+  "scheduled": true,
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-05-iqbal-day-holiday-nov-9.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 417903062,
+   "reel": 417903106,
+   "story": 417903118
+  },
+  "video": "posts/2026-11-05-iqbal-day-holiday-nov-9.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
