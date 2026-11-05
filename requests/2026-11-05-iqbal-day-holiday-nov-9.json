@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-05-iqbal-day-holiday-nov-9",
+ "type": "news",
+ "headline": "The federal government has declared Monday, November 9 a public holiday throughout the country for Allama Iqbal Day, according to a Cabinet Division notification issued on Thursday, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2042357/govt-announces-public-holiday-on-nov-9-for-iqbal-day",
+   "published_at": "2026-11-05T19:15:15+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9730a5ed-0877-49ca-94a8-074722802010/5c2b29bc-21ae-4c50-be32-92a8698d4f08/Realistic_photograph_of_the_courtyard_of_a_grand_Mughal_era_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYWRiOWMzMzBiMGNiNDYyZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDAyNDQ5Nn0.9mgE11nd4HcWql0a4Lvr91BOvAZs0HnZ839wab5xvVE",
+  "head1": "Monday 9 November ko",
+  "head2_hl": "Aam Chutti",
+  "head2": "",
+  "kicker": "Allama Iqbal Day par",
+  "desc": "Cabinet Division ne poore mulk mein chutti ka elaan kar diya.",
+  "source": "Dawn",
+  "date": "05 NOV 2026"
+ },
+ "caption": "Monday, 9 November ko poore mulk mein aam chutti!\nDawn ke mutabiq Cabinet Division ne Thursday ko notification jari kiya ke Allama Iqbal Day par Monday, 9 November poore mulk mein public holiday hoga. Punjab ne bhi 9 November ki chutti ka elaan kiya hai aur State Bank of Pakistan bhi Monday ko band rahega.\nAap chutti ka din kaise guzarenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IqbalDay #PublicHoliday #AllamaIqbal #PakistanNews",
+ "tiktok_title": "Allama Iqbal Day: Monday 9 November ko poore mulk mein aam chutti",
+ "publish": {
+  "slot": "2026-11-05T21:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1131479132514825",
+  "label": "Simple Pleasures - Alex Blue"
+ },
+ "ai_generated": true
+}
