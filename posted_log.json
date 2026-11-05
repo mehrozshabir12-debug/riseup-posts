@@ -6733,5 +6733,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T21:00:00+05:00",
+  "request_id": "2026-11-05-iqbal-day-holiday-nov-9",
+  "layout": "bold",
+  "headline": "The federal government has declared Monday, November 9 a public holiday throughout the country for Allama Iqbal Day, according to a Cabinet Division notification issued on Thursday, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042357/govt-announces-public-holiday-on-nov-9-for-iqbal-day",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042357/govt-announces-public-holiday-on-nov-9-for-iqbal-day",
+    "published_at": "2026-11-05T19:15:15+05:00"
+   }
+  ],
+  "published": "2026-11-05T19:15:15+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 72118739,
+  "image": "posts/2026-11-05-iqbal-day-holiday-nov-9.jpg",
+  "story": "posts/2026-11-05-iqbal-day-holiday-nov-9-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 21:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-iqbal-day-holiday-nov-9.mp4"
  }
 ]
