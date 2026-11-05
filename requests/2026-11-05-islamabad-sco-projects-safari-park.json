@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-05-islamabad-sco-projects-safari-park",
+ "type": "news",
+ "headline": "Interior Minister Mohsin Naqvi said on Thursday that work on a convention center, a new cricket stadium and Asia's biggest safari park in Islamabad will begin ahead of the SCO summit, as PM Shehbaz Sharif inaugurated the Rs1.45 billion Kashmir Chowk Underpass, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-plans-major-islamabad-infrastructure-projects-ahead-of-sco-summit-3006177",
+   "published_at": "2026-11-05T19:17:41+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/bf14902c-5aa4-4d70-8602-e6ff89ac0761/ec5cc0d7-2b2a-4727-95e2-a3ad0dc6bb2c/Realistic_photo_of_a_newly_built_modern_road_underpass_at_a_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmQxOTBjZDgxY2M4MzZiNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDAyMzUxMn0.AI6dXZ2GEKpQanPj5h670b43exixJsDvXu4csabpLc4",
+  "head1": "Islamabad mein Asia ka",
+  "head2_hl": "sab se bara",
+  "head2": "safari park",
+  "kicker": "SCO summit se pehle projects",
+  "desc": "Convention center aur naya cricket stadium bhi banega",
+  "source": "Arab News",
+  "date": "05 NOV 2026"
+ },
+ "caption": "Islamabad mein Asia ka sab se bara safari park banega!\nArab News ke mutabiq Interior Minister Mohsin Naqvi ne Thursday ko bataya ke SCO summit se pehle Islamabad mein convention center, naya cricket stadium aur safari park banaye jayenge. PM Shehbaz Sharif ne Rs1.45 billion ke Kashmir Chowk Underpass ka iftitah kiya, jo 27 din mein mukammal hua.\nAap Islamabad mein kaun sa project sab se pehle dekhna chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Islamabad #SCOSummit #SafariPark #PakistanNews",
+ "tiktok_title": "Islamabad mein Asia ka sab se bara safari park, convention center aur cricket stadium",
+ "publish": {
+  "slot": "2026-11-05T20:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "810120545333296", "label": "Iced Latte - Global Genius"},
+ "ai_generated": true
+}
