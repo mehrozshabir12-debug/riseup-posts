@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-05-polio-drive-19-6m-vaccinated",
+ "revision": 1,
+ "request": "requests/2026-11-05-polio-drive-19-6m-vaccinated.json",
+ "type": "news",
+ "headline": "Over 19.6 million children were vaccinated in the first three days of Pakistan's sub-national polio campaign, which targets 24 million children in 97 districts until 8 November, the NEOC said, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-05T12:00:00+05:00",
+ "target_slot": "2026-11-05T12:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-polio-drive-19-6m-vaccinated.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-polio-drive-19-6m-vaccinated-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-polio-drive-19-6m-vaccinated.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-05-polio-drive-19-6m-vaccinated.jpg",
+  "story": "posts/2026-11-05-polio-drive-19-6m-vaccinated-story.jpg",
+  "reel": "posts/2026-11-05-polio-drive-19-6m-vaccinated.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 776328031,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Polio muhim ke pehle 3 din mein 19.6 million se zyada bachon ki vaccination!\nArab News ke mutabiq NEOC ne bataya ke Monday ko shuru hone wali sub-national polio muhim 97 districts mein 24 million bachon ki vaccination ke liye 8 November tak jari rahegi. Is saal ab tak 8 wild poliovirus cases report hue hain.\nKya aap ke bachon ki vaccination ho gayi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Polio #EndPolio #PakistanHealth #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-polio-drive-19-6m-vaccinated.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Polio muhim: pehle 3 din mein 19.6 million se zyada bachon ki vaccination",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Polio muhim ke pehle 3 din mein 19.6 million se zyada bachon ki vaccination!\nArab News ke mutabiq NEOC ne bataya ke Monday ko shuru hone wali sub-national polio muhim 97 districts mein 24 million bachon ki vaccination ke liye 8 November tak jari rahegi. Is saal ab tak 8 wild poliovirus cases report hue hain.\nKya aap ke bachon ki vaccination ho gayi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Polio #EndPolio #PakistanHealth #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-polio-drive-19-6m-vaccinated.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-polio-drive-19-6m-vaccinated-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "614418411270205",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-05T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-polio-drive-19-6m-vaccinated-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-05T11:52:12+05:00"
+}
