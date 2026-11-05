@@ -6804,10 +6804,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-05 22:00 PKT",
+  "scheduled": true,
   "music": "Reflection - Sam Marshall",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-05-islamabad-flu-vaccine-shortage.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 417972809,
+   "reel": 417972891,
+   "story": 417973000
+  },
+  "video": "posts/2026-11-05-islamabad-flu-vaccine-shortage.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
