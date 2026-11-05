@@ -6851,10 +6851,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-05 23:00 PKT",
+  "scheduled": "2026-11-05T23:00:00+05:00",
   "music": "Float (Instrumental) - Sleeping Lion",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-05-pakistan-lng-cargo-bids.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 418046087,
+   "reel": 418046130,
+   "story": 418046159
+  },
+  "video": "posts/2026-11-05-pakistan-lng-cargo-bids.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
