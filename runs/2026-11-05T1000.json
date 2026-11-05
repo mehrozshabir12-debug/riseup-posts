@@ -1,1 +1,84 @@
-{"slot": "2026-11-05T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T09:46:38+05:00"}
+{
+ "slot": "2026-11-05T10:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T09:46:38+05:00",
+ "run_finished_pkt": "2026-11-05T09:53:52+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Air pollution is costing Pakistan an estimated 6.5% of GDP and, according to the State of Global Air cited by the OICCI, causes more than 248,000 premature deaths a year, the Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2638702/air-pollution-costs-65-of-gdp",
+    "published_at": "2026-11-05T03:16:11+05:00"
+   }
+  ]
+ },
+ "freshness_window": "8h (Tribune article:published_time 2026-11-04T22:16:11Z = 2026-11-05 03:16 PKT, ~6h44m before T; no fresher qualifying Pakistan story in 2h/3h/4h/6h windows)",
+ "request_id": "2026-11-05-air-pollution-costs-6-5pc-gdp",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-air-pollution-costs-6-5pc-gdp.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417328874,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7394936582252313724",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417328886,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2085967597871151628",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417328897,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1103541800789851622",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Slow Living - stereogully (1329928372147056, audioType music)",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, facebook/instagram/tiktok connected; windows 2026-11-03T09:00..2026-11-05T22:00 all succeeded; slot 10:00 free; RiseUp day 2026-11-05: 0 news posts, 0 TikTok before this",
+  "previous_slot_check": "no 09:00 or 00:00 slot posts; last slot 2026-11-04 23:00: feed 416826445 facebook PUBLISHED, reel 416826470 instagram PUBLISHED https://www.instagram.com/reel/DfVEDOCiG5h/, story 416826482 facebook+instagram PUBLISHED",
+  "news_search": "searched Dawn latest (newest Pakistan items before 02:00 PKT), Tribune, Geo, APP, Arab News, BR; chosen Tribune OICCI air pollution report (03:16 PKT); smog topic distinct from 1 Nov Lahore AQI post",
+  "verification": "Tribune article fetched: published 2026-11-05 03:16:11 PKT, Usman Hanif, Karachi; OICCI: >248,000 premature deaths annually (State of Global Air); 92% population above WHO interim PM2.5 target 35 µg/m3; estimated cost ~6.5% of GDP",
+  "image": "Runway nano-banana-2-lite task 90691f0a-5674-4ff9-8e85-4590e9e9948d ok; smoggy city road, anonymous commuters with masks, chimneys; no readable text/logos/public figures",
+  "publish": "card + zoom MP4 (8s 1080x1920 h264+aac) checked; feed FB+TikTok and Reel at 10:00, Story 10:05; Reel audioType music, displayArtist stereogully; all PENDING on getScheduledPosts 09:55-10:10. Trending-audio search gave no confirmed music-type id, verified list id used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "US-led consortium proposes $4.4bn LNG project at Port Qasim (Arab News 08:25 PKT)",
+   "reason": "not fresh: first reported 2 Nov 2026 (ProPakistani/BOL/oilprice)"
+  },
+  {
+   "headline": "Dar-Prince Faisal phone call (Arab News 08:34 PKT)",
+   "reason": "call and FO statement on Wednesday; routine diplomatic readout"
+  },
+  {
+   "headline": "Petrol cut Rs7.06, diesel Rs3.71 (Dawn 23:23 PKT 4 Nov)",
+   "reason": "older than 8h before T"
+  },
+  {
+   "headline": "Spotify Audiobooks+ in Pakistan (Tribune 04:09 PKT)",
+   "reason": "service available since 4 Nov, first-report time unclear; less important"
+  },
+  {
+   "headline": "Balochistan ops 17 militants (Arab News 3 Nov)",
+   "reason": "old"
+  }
+ ],
+ "errors": []
+}
