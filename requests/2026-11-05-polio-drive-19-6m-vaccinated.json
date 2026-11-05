@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-05-polio-drive-19-6m-vaccinated",
+ "type": "news",
+ "headline": "Over 19.6 million children were vaccinated in the first three days of Pakistan's sub-national polio campaign, which targets 24 million children in 97 districts until 8 November, the NEOC said, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-says-over-196-million-vaccinated-in-first-three-days-of-anti-polio-campaign-3006145",
+   "published_at": "2026-11-05T10:32:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/e2647523-5e33-4a03-8ce0-f162721a6ede/05f1952f-fd89-4907-a385-9fb41777adc7/Realistic_news_photograph_of_a_narrow_residential_street_in_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZTFmMTIxNTAzZjVjZjVjNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5Mzk3MjMwNH0.4__Zxcz8Dgle1FQk7tiXXueRSBr6sXrvvOjG1dQZwr4",
+  "head1": "Polio muhim mein",
+  "head2_hl": "19.6 million se",
+  "head2": "zyada bachay",
+  "kicker": "Pehle teen din mein vaccination",
+  "desc": "97 districts mein 24 million bachon ka hadaf, muhim 8 November tak",
+  "source": "Arab News",
+  "date": "05 NOV 2026"
+ },
+ "caption": "Polio muhim ke pehle 3 din mein 19.6 million se zyada bachon ki vaccination!\nArab News ke mutabiq NEOC ne bataya ke Monday ko shuru hone wali sub-national polio muhim 97 districts mein 24 million bachon ki vaccination ke liye 8 November tak jari rahegi. Is saal ab tak 8 wild poliovirus cases report hue hain.\nKya aap ke bachon ki vaccination ho gayi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Polio #EndPolio #PakistanHealth #PakistanNews",
+ "tiktok_title": "Polio muhim: pehle 3 din mein 19.6 million se zyada bachon ki vaccination",
+ "publish": {
+  "slot": "2026-11-05T12:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "614418411270205",
+  "label": "A Little Love Song - Alex Blue"
+ },
+ "ai_generated": true
+}
