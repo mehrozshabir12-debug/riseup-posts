@@ -6686,5 +6686,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T20:00:00+05:00",
+  "request_id": "2026-11-05-islamabad-sco-projects-safari-park",
+  "layout": "bold",
+  "headline": "Interior Minister Mohsin Naqvi said on Thursday that work on a convention center, a new cricket stadium and Asia's biggest safari park in Islamabad will begin ahead of the SCO summit, as PM Shehbaz Sharif inaugurated the Rs1.45 billion Kashmir Chowk Underpass, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-plans-major-islamabad-infrastructure-projects-ahead-of-sco-summit-3006177",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-plans-major-islamabad-infrastructure-projects-ahead-of-sco-summit-3006177",
+    "published_at": "2026-11-05T19:17:41+05:00"
+   }
+  ],
+  "published": "2026-11-05T19:17:41+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 337154733,
+  "image": "posts/2026-11-05-islamabad-sco-projects-safari-park.jpg",
+  "story": "posts/2026-11-05-islamabad-sco-projects-safari-park-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 20:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-islamabad-sco-projects-safari-park.mp4"
  }
 ]
