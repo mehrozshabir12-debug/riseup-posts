@@ -6499,5 +6499,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-05",
+  "slot": "2026-11-05T14:00:00+05:00",
+  "request_id": "2026-11-05-pta-denies-tiktok-ban",
+  "layout": "bold",
+  "headline": "The Pakistan Telecommunication Authority on Thursday dismissed a notification circulating on social media about an alleged TikTok ban as fake, saying no such notification has been issued, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042309/false-and-misleading-pta-dismisses-claims-of-tiktok-ban-in-pakistan",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042309/false-and-misleading-pta-dismisses-claims-of-tiktok-ban-in-pakistan",
+    "published_at": "2026-11-05T12:22:44+05:00"
+   }
+  ],
+  "published": "2026-11-05T12:22:44+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 273608335,
+  "image": "posts/2026-11-05-pta-denies-tiktok-ban.jpg",
+  "story": "posts/2026-11-05-pta-denies-tiktok-ban-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-05 14:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-05-pta-denies-tiktok-ban.mp4"
  }
 ]
