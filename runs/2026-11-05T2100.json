@@ -1,1 +1,83 @@
-{"slot": "2026-11-05T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-05T20:46:49+05:00"}
+{
+ "slot": "2026-11-05T21:00:00+05:00",
+ "riseup_day": "2026-11-05",
+ "run_started_pkt": "2026-11-05T20:46:49+05:00",
+ "run_finished_pkt": "2026-11-05T20:53:24+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The federal government has declared Monday, November 9 a public holiday throughout the country for Allama Iqbal Day, according to a Cabinet Division notification issued on Thursday, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042357/govt-announces-public-holiday-on-nov-9-for-iqbal-day",
+    "published_at": "2026-11-05T19:15:15+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-05-iqbal-day-holiday-nov-9",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-05-iqbal-day-holiday-nov-9.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 417903062,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8762182506833136823",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 417903106,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-496785621270575673",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 417903118,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3084175262807601536",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures - Alex Blue (1131479132514825, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts windows 2026-11-03T20:00..2026-11-06T09:00 all succeeded; slot 21:00 empty. RiseUp day 2026-11-05 before this slot: 7 news feed posts (10,12,14,16,18,19,20), 6 with TikTok.",
+  "previous_slot_check": "Slot 20:00 (Islamabad SCO projects): feed FB+TikTok PUBLISHED, Reel PUBLISHED https://www.instagram.com/reel/DfXUgI9j5vY/, Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Dawn Iqbal Day public holiday (published 19:15 PKT, updated 19:53) chosen in 2h window; not covered in last 48h. Other candidates listed in skipped_candidates.",
+  "verification": "Single approved outlet (Dawn) article read; meta published_time 2026-11-05T19:15:15+05:00, modified 19:53:49+05:00. Quote: 'Monday, Nov 9, shall be a public holiday throughout the country on the occasion of Allama Iqbal Day' (Cabinet Division notification, Thursday). Punjab also announced Nov 9 holiday; SBP closed Monday. 2026-11-09 is a Monday.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, Lahore Mughal mosque courtyard with anonymous families and pigeons, no readable text.",
+  "publish": "results awaiting_publish; pipeline warning: TikTok skipped (6 TikTok posts, allowed by 21:00 = 6). Feed card and zoom MP4 (8s, 1080x1920, h264+aac) checked; feed (FB), Reel (IG) and Story (FB+IG) created from payloads, all PENDING; Reel audioType music with displayArtist Alex Blue. Trending-music web search skipped; used verified list id unused today."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Army chief Asim Munir calls for stronger military readiness at SSG HQ (Arab News 20:31)",
+   "reason": "military/defence story, less relevant to ordinary people than the holiday"
+  },
+  {
+   "headline": "Pakistan reports ninth polio case of 2026 (Arab News)",
+   "reason": "story about a child (minors rule)"
+  },
+  {
+   "headline": "Pakistan, UK agree to deepen cooperation in security, trade and migration (Dawn 16:50)",
+   "reason": "older (4h window) and close to the Pakistan-UK CT dialogue posted 4 Nov 18:00"
+  },
+  {
+   "headline": "Pakistan banking on Middle East investment for $60bn export target (Arab News 12:23)",
+   "reason": "older than 8h before T"
+  },
+  {
+   "headline": "Fa'az air-to-air missile test",
+   "reason": "weapons story"
+  }
+ ],
+ "errors": []
+}
