@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-06-turkish-seismic-vessel-karachi",
+ "type": "news",
+ "headline": "A Turkish seismic research vessel is expected to arrive in Karachi between November 17 and 20 to begin offshore oil and gas exploration, reviving Pakistan's offshore exploration after 20 years, the Petroleum Division said on Friday, Express Tribune reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639010/turkish-seismic-vessel-to-reach-karachi-in-mid-nov-for-offshore-oil-gas-exploration",
+   "published_at": "2026-11-06T20:39:47+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b7430c60-776d-406f-8579-7db19b482850/7c2224c8-5748-4891-a19f-2612ad343d54/Realistic_photo_of_a_large_white_and_orange_offshore_seismic.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOGRkOGQ0Mzc2Njg3MWY1MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDA5MTk1OX0.hjgZfkiRguMWZ04ZeSIFe5_fOHv-SYrk20TkDYJpGWw",
+  "head1": "Turkish jahaz Karachi",
+  "head2_hl": "17-20 Nov",
+  "head2": "aayega",
+  "kicker": "Offshore tail aur gas talash",
+  "desc": "20 saal baad samundar mein tail-gas ki talash dobara shuru hogi",
+  "source": "Express Tribune",
+  "date": "06 NOV 2026"
+ },
+ "caption": "Samundar mein tail aur gas ki talash 20 saal baad dobara!\nExpress Tribune ke mutabiq Petroleum Division ne Friday ko bataya ke Turkish seismic research vessel 17 se 20 November ke darmiyan Karachi pohanchega aur offshore tail aur gas ki talash shuru karega. Petroleum Minister Ali Pervaiz Malik ne kaha ke woh khud jahaz ka istiqbal karenge.\nKya Pakistan ke samundar mein tail mil sakta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #OffshoreExploration #PakistanTurkiye #PakistanEnergy #PakistanNews",
+ "tiktok_title": "Turkish seismic jahaz 17-20 Nov Karachi aayega, 20 saal baad offshore tail-gas ki talash",
+ "publish": {
+  "slot": "2026-11-06T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "836981678209890",
+  "label": "I'll Always Be Around - Alex Blue"
+ },
+ "ai_generated": true
+}
