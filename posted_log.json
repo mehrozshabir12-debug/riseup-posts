@@ -7179,10 +7179,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-06 21:00 PKT",
+  "scheduled": "2026-11-06T21:00:00+05:00",
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-06-pm-digital-payments-roadmap.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 419089430,
+   "reel": 419089475,
+   "story": 419089493
+  },
+  "video": "posts/2026-11-06-pm-digital-payments-roadmap.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
