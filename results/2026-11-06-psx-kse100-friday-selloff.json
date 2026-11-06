@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-06-psx-kse100-friday-selloff",
+ "revision": 1,
+ "request": "requests/2026-11-06-psx-kse100-friday-selloff.json",
+ "status": "rejected",
+ "errors": [
+  "slot 2026-11-06 10:00 PKT was missed (now 11:50); never schedule in the past"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-06T11:50:53+05:00"
+}
