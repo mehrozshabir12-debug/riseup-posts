@@ -7085,10 +7085,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-06 19:00 PKT",
+  "scheduled": true,
   "music": "Vow (Instrumental) - Ross Lara",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-06-nccia-karachi-scam-call-centers.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 418956415,
+   "reel": 418956457,
+   "story": 418956481
+  },
+  "video": "posts/2026-11-06-nccia-karachi-scam-call-centers.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
