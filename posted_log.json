@@ -7225,10 +7225,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-06 22:00 PKT",
+  "scheduled": "2026-11-06T22:00:00+05:00",
   "music": "I'll Always Be Around - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-06-turkish-seismic-vessel-karachi.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 419158923,
+   "reel": 419158972,
+   "story": 419158990
+  },
+  "video": "posts/2026-11-06-turkish-seismic-vessel-karachi.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
