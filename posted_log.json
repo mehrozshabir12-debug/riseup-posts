@@ -6872,5 +6872,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "2026-11-06T12:00:00+05:00",
+  "request_id": "2026-11-06-fuel-price-cuts-expected",
+  "layout": "bold",
+  "headline": "Pakistan expects further fuel price cuts as global oil prices fall below $100 a barrel, Finance Adviser Khurram Schehzad told Arab News, after petrol was cut by Rs9.41 and high-speed diesel by Rs5.56 per litre on Thursday.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-expects-further-fuel-price-cuts-amid-global-oil-slump-3006262",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-expects-further-fuel-price-cuts-amid-global-oil-slump-3006262",
+    "published_at": "2026-11-06T09:54:34+05:00"
+   }
+  ],
+  "published": "2026-11-06T09:54:34+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 464161094,
+  "image": "posts/2026-11-06-fuel-price-cuts-expected.jpg",
+  "story": "posts/2026-11-06-fuel-price-cuts-expected-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-06 12:00 PKT",
+  "music": "Upside Down - Mike Block",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-06-fuel-price-cuts-expected.mp4"
  }
 ]

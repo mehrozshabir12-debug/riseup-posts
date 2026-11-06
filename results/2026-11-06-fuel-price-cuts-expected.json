@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-06-fuel-price-cuts-expected",
+ "revision": 1,
+ "request": "requests/2026-11-06-fuel-price-cuts-expected.json",
+ "type": "news",
+ "headline": "Pakistan expects further fuel price cuts as global oil prices fall below $100 a barrel, Finance Adviser Khurram Schehzad told Arab News, after petrol was cut by Rs9.41 and high-speed diesel by Rs5.56 per litre on Thursday.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-06T12:00:00+05:00",
+ "target_slot": "2026-11-06T12:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-fuel-price-cuts-expected.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-fuel-price-cuts-expected-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-fuel-price-cuts-expected.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-06-fuel-price-cuts-expected.jpg",
+  "story": "posts/2026-11-06-fuel-price-cuts-expected-story.jpg",
+  "reel": "posts/2026-11-06-fuel-price-cuts-expected.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 464161094,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Petrol aur diesel mazeed saste hone ki umeed!\nArab News ke mutabiq aalami oil qeematein $115-116 fi barrel se gir kar $100 se neeche aa gayi hain, aur Finance Adviser Khurram Schehzad ko Pakistan mein fuel qeematon mein mazeed kami ki umeed hai. Thursday ko petrol Rs9.41 aur high-speed diesel Rs5.56 fi litre sasta kiya gaya tha.\nAap ke khayal mein petrol kitna sasta hona chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #FuelPrices #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-fuel-price-cuts-expected.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Petrol aur diesel mazeed saste hone ki umeed, oil $100 se neeche",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Petrol aur diesel mazeed saste hone ki umeed!\nArab News ke mutabiq aalami oil qeematein $115-116 fi barrel se gir kar $100 se neeche aa gayi hain, aur Finance Adviser Khurram Schehzad ko Pakistan mein fuel qeematon mein mazeed kami ki umeed hai. Thursday ko petrol Rs9.41 aur high-speed diesel Rs5.56 fi litre sasta kiya gaya tha.\nAap ke khayal mein petrol kitna sasta hona chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #FuelPrices #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-fuel-price-cuts-expected.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-fuel-price-cuts-expected-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "581639516835198",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-fuel-price-cuts-expected-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-06T11:50:58+05:00"
+}
