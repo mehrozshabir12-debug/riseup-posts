@@ -6897,10 +6897,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-06 12:00 PKT",
+  "scheduled": "2026-11-06T12:00:00+05:00",
   "music": "Upside Down - Mike Block",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-06-fuel-price-cuts-expected.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 418588132,
+   "reel": 418588146,
+   "story": 418588160
+  },
+  "video": "posts/2026-11-06-fuel-price-cuts-expected.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
