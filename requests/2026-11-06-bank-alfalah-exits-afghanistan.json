@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-06-bank-alfalah-exits-afghanistan",
+ "type": "news",
+ "headline": "Bank Alfalah has completed the sale and transfer of its Afghanistan banking operations, including its Kabul and Herat branches, to Ghazanfar Bank on 5 November 2026, marking its full exit from Afghanistan after over two decades, Business Recorder reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://brecorder.com/news/40447760/pakistans-bank-alfalah-exits-afghanistan-after-20-years",
+   "published_at": "2026-11-06T15:33:00+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/20c757fe-7dd5-46bc-89ed-e1402d35d1cf/dea19dbd-dbba-4cfc-9fe3-89e29946564f/Realistic_photo_of_a_modest_bank_branch_building_on_a_busy_c.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDJhMjQ2Y2QwODIwODUyNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDA5NzYxM30.UzmIm_JM8oOHhR9ttIWTeyanrDSaaoH3Jue6nmkxAPM",
+  "head1": "Bank Alfalah ne",
+  "head2_hl": "Afghanistan",
+  "head2": "chhor diya",
+  "kicker": "20 saal baad mukammal exit",
+  "desc": "Kabul aur Herat branches Ghazanfar Bank ko transfer kar di gayin",
+  "source": "Business Recorder",
+  "date": "06 NOV 2026"
+ },
+ "caption": "Bank Alfalah ne 20 saal baad Afghanistan chhor diya!\nBusiness Recorder ke mutabiq Bank Alfalah ne Friday ko PSX ko bataya ke Afghanistan mein us ki banking operations Ghazanfar Bank ko transfer karne ka sauda 5 November 2026 ko mukammal ho gaya, jis mein Kabul aur Herat branches shamil hain. Yeh sauda State Bank of Pakistan aur Da Afghanistan Bank ki manzoori ke baad hua.\nAap ke khayal mein yeh faisla sahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #BankAlfalah #Afghanistan #PakistanBanking #PakistanNews",
+ "tiktok_title": "Bank Alfalah ne 20 saal baad Afghanistan chhor diya, Kabul aur Herat branches transfer",
+ "publish": {
+  "slot": "2026-11-06T16:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "934661001819759", "label": "Cafe Lovers - Global Genius"},
+ "ai_generated": true
+}
