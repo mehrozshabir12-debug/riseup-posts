@@ -1,1 +1,78 @@
-{"slot": "2026-11-06T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T17:47:51+05:00"}
+{
+ "slot": "2026-11-06T18:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T17:47:51+05:00",
+ "run_finished_pkt": "2026-11-06T17:53:07+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "A sperm whale, estimated to be around 45 feet long, has been sighted off the Sindh coast for the first time, around 40 nautical miles southwest of Karachi, WWF-Pakistan said on Friday, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042599/sperm-whale-spotted-off-sindhs-coast-for-first-time-wwf-pakistan",
+    "published_at": "2026-11-06T16:43:24+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-06-sperm-whale-sindh-coast",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-sperm-whale-sindh-coast.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "fe5cb504-2e55-4e90-8f8b-463984740472",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 418893997,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3758898864039899718",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 418894056,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7496107332555944631",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 418894086,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4308346055428492048",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Melodic Mountain - Ross Lara (297072506536797, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings OK (blogId 7305396, Asia/Karachi, FB 683615374824663, IG riseuppakistann, TikTok riseuppakistan2025). getScheduledPosts: slot window 17:00-19:00 empty; all 10 six-hour windows 2026-11-04T17:45..2026-11-07T05:50 succeeded. RiseUp day 2026-11-06 before this post: 3 news feed posts (12:00, 14:00, 16:00), 3 with TikTok.",
+  "previous_slot_check": "No posts at 17:00 slot (T-1h) or 17:05 (no run log for 17:00). Last slot 16:00: feed 418769789 FB+TikTok PUBLISHED, Reel 418769821 IG PUBLISHED, Story 418769838 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched approved outlets (Dawn, BR, Tribune, Geo, The News, Arab News, APP). Chose Dawn sperm whale sighting off Sindh (published 16:43 PKT, within 2h of T). Not a duplicate of last 48h. Trending-audio web search gave no confirmed IG music id, so used verified list id.",
+  "verification": "1 approved outlet (Dawn), meta article:published_time/modified_time 2026-11-06T16:43:24+05:00. Facts checked from article: first sighting off Sindh coast, ~40 nautical miles southwest of Karachi, ~45 feet long, WWF-Pakistan said Friday, previous sightings off Balochistan coast in 2017.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, task fe5cb504-2e55-4e90-8f8b-463984740472; checked: whale at sea, small boat with anonymous people, no text/logos/public figures.",
+  "publish": "results awaiting_publish; card and zoom MP4 (8 s, 1080x1920) viewed and correct. createScheduledPost feed 418893997 (FB+TikTok 18:00), Reel 418894056 (IG 18:00, audioType music, Melodic Mountain - Ross Lara), Story 418894086 (FB+IG 18:05). Confirmed via getScheduledPosts 17:55-18:10: all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan launches online ship registration (Business Recorder, 15:56 PKT)",
+   "reason": "less broad public interest than the whale sighting; both fresh"
+  },
+  {
+   "headline": "Bank Alfalah exits Afghanistan",
+   "reason": "already posted at 16:00"
+  },
+  {
+   "headline": "Petrol Rs9.41 / diesel Rs5.56 cut",
+   "reason": "duplicate of 12:00 post (fuel)"
+  }
+ ],
+ "errors": []
+}
