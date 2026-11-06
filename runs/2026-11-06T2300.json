@@ -1,1 +1,87 @@
-{"slot": "2026-11-06T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T22:45:50+05:00"}
+{
+ "slot": "2026-11-06T23:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T22:45:50+05:00",
+ "run_finished_pkt": "2026-11-06T22:51:18+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "6h",
+ "story": {
+  "headline": "Lieutenant General (retd) Nauman Mahmood, the first secretary general of the Makkah Defence Alliance between Pakistan, Saudi Arabia and Turkiye, is expected to take up his responsibilities in Riyadh soon, the Foreign Office said on Friday, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042611/makkah-defence-alliance-secretary-general-to-assume-duties-in-riyadh-soon-fo",
+    "published_at": "2026-11-06T17:20:24+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-06-makkah-defence-alliance-sg-riyadh",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-makkah-defence-alliance-sg-riyadh.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419223277,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=829062455194111004",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419223328,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6954555844797579169",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419223362,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5948722194137499923",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall (478728841591377, audioType music)",
+ "stages": {
+  "metricool_read": "getScheduledPosts windows 04 Nov 22:00 .. 07 Nov 11:00 all succeeded; no post at 23:00; RiseUp day 06 Nov had 8 news feed posts (12,14,16,18,19,20,21,22) and 7 TikTok before this one. getBrandSettings not called (all networks published fine in previous slots).",
+  "previous_slot_check": "22:00 feed 419158923 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122189374088855502), TikTok PUBLISHED (https://www.tiktok.com/@riseuppakistan2025/video/7705107323915832597); Reel 419158972 IG PUBLISHED (https://www.instagram.com/reel/DfaG2gYDcRy/); 22:05 Story 419158990 FB+IG PUBLISHED",
+  "news_search": "No suitable story found in 2h-4h windows (Dawn latest-news fetch looked stale, Geo/Brecorder homepages returned old cached copies). Dawn FO-briefing story (17:20 PKT, 5h40m before T) chosen in the 6h window; not covered in last 48h.",
+  "verification": "Single approved outlet (Dawn); article fetched live, article:published_time 2026-11-06 17:20:24+05:00, modified 17:26:55; Lt Gen (retd) Nauman Mahmood, first secretary general of the alliance of Pakistan, Saudi Arabia and Turkiye, appointed Sep 23, expected to take up responsibilities in Riyadh soon (FO weekly briefing, spokesperson Sajjad Haider Khan) - checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task a39898e0-d808-4ff8-b205-77873796972f, generic modern government building and plaza in Riyadh at golden hour, 3 anonymous people from behind, no readable text/logos",
+  "publish": "card and 8s zoom reel (1080x1920, h264+aac) checked; pipeline skipped TikTok (7 allowed by 23:00); feed FB, reel IG, story FB+IG created and confirmed via getScheduledPosts, all PENDING; reel audioType music, displayArtist Sam Marshall (verified list id; trending search skipped for time)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan's trade deficit surges 20% YoY to $3.9bn in October 2026 (Business Recorder)",
+   "reason": "first published 13:56 PKT, older than 8h before T"
+  },
+  {
+   "headline": "PM Shehbaz approves restructuring TDAP (Tribune)",
+   "reason": "published 14:10 PKT, older than 8h"
+  },
+  {
+   "headline": "Pakistan pushes for economic cooperation among Muslim nations at COMCEC (Arab News)",
+   "reason": "published 12:32 PKT, older than 8h"
+  },
+  {
+   "headline": "Pakistan, UK agree to expand cooperation on counterterrorism, narcotics (Dawn 17:30)",
+   "reason": "similar Pakistan-UK cooperation story already in circulation since 5 Nov; less relevant to ordinary people"
+  },
+  {
+   "headline": "Bilawal urges govt to engage all political forces",
+   "reason": "political statement"
+  },
+  {
+   "headline": "Pakistan wins three honours at International Space Games 2026 (APP)",
+   "reason": "published 00:58 PKT, older than 8h"
+  }
+ ],
+ "errors": []
+}
