@@ -1,1 +1,80 @@
-{"slot": "2026-11-06T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T21:45:34+05:00"}
+{
+ "slot": "2026-11-06T22:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T21:45:34+05:00",
+ "run_finished_pkt": "2026-11-06T21:50:12+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "A Turkish seismic research vessel is expected to arrive in Karachi between November 17 and 20 to begin offshore oil and gas exploration, reviving Pakistan's offshore exploration after 20 years, the Petroleum Division said on Friday, Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639010/turkish-seismic-vessel-to-reach-karachi-in-mid-nov-for-offshore-oil-gas-exploration",
+    "published_at": "2026-11-06T20:39:47+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-06-turkish-seismic-vessel-karachi",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-turkish-seismic-vessel-karachi.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419158923,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8164092045930678942",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419158972,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6242469533178442670",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419158990,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8900926981576438402",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "I'll Always Be Around - Alex Blue",
+ "stages": {
+  "metricool_read": "getScheduledPosts windows 04 Nov 21:00 .. 07 Nov 10:00 all succeeded; no post at 22:00; RiseUp day 06 Nov had 7 news feed posts (12,14,16,18,19,20,21) and 6 TikTok before this one. getBrandSettings not called (all networks published fine in previous slots).",
+  "previous_slot_check": "21:00 feed 419089430 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122189369846855502), Reel 419089475 IG PUBLISHED (https://www.instagram.com/reel/DfZ__49Dc9y/), 21:05 Story 419089493 FB+IG PUBLISHED",
+  "news_search": "Express Tribune Turkish seismic vessel (20:39 PKT, 1h21m before T; Arab News same story 21:08) chosen; not covered in last 48h. Other candidates older or excluded (see skipped_candidates).",
+  "verification": "Single approved outlet (Express Tribune); article fetched live, article:published_time 2026-11-06T15:39:47+00:00 = 20:39:47 PKT; vessel arrival Karachi Nov 17-20, offshore oil/gas exploration, revives offshore exploration after 20 years (Petroleum Division statement), Minister Ali Pervaiz Malik to personally welcome vessel - checked against article; Arab News (21:08 PKT) consistent.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task b7430c60-776d-406f-8579-7db19b482850, generic seismic survey ship at sea near port at sunset, no people, no readable text/logos",
+  "publish": "card and 8s zoom reel (1080x1920, h264+aac) checked; feed FB+TikTok, reel IG, story FB+IG created and confirmed via getScheduledPosts, all PENDING; reel audioType music, displayArtist Alex Blue (verified list id 836981678209890; trending search skipped for time, list id used directly)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Usman Khan's unbeaten century powers Pakistan to win over UAE in U-19 Asia Cup",
+   "reason": "story about U-19 players (possible minors)"
+  },
+  {
+   "headline": "11 dead, 33 injured as passenger bus collides with truck in eastern Pakistan",
+   "reason": "casualty/accident story, not preferred; fresher energy story chosen"
+  },
+  {
+   "headline": "Pakistan prepares international arbitration to recover $800 million from Etisalat",
+   "reason": "older than chosen story"
+  },
+  {
+   "headline": "Bilawal urges federal govt to engage all political forces",
+   "reason": "political statement"
+  }
+ ],
+ "errors": []
+}

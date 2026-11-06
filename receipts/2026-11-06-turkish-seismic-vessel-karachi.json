@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-06-turkish-seismic-vessel-karachi",
+ "scheduled": "2026-11-06T22:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 419158923,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 419158972,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 419158990,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
