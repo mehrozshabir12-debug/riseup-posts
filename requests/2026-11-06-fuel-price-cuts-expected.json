@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-06-fuel-price-cuts-expected",
+ "type": "news",
+ "headline": "Pakistan expects further fuel price cuts as global oil prices fall below $100 a barrel, Finance Adviser Khurram Schehzad told Arab News, after petrol was cut by Rs9.41 and high-speed diesel by Rs5.56 per litre on Thursday.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-expects-further-fuel-price-cuts-amid-global-oil-slump-3006262",
+   "published_at": "2026-11-06T09:54:34+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/72a8efe5-dfb1-4bd8-adc7-b425f2cb5bb1/2ed95e9e-4133-4c33-9004-f1e3c1a8b902/Realistic_photo_of_a_busy_petrol_station_in_Karachi__Pakista.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiY2Q2MDQwNjlkNTFkN2FkMyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDEwMTIyNX0.dhkGrcI_AkWBAdLcFGrIZJOHZlmgCQmnGsyi_doAWcI",
+  "head1": "Fuel qeematon mein",
+  "head2_hl": "mazeed kami",
+  "head2": "ki umeed",
+  "kicker": "Finance Adviser Khurram Schehzad",
+  "desc": "Aalami oil qeemat $100 fi barrel se neeche aa gayi",
+  "source": "Arab News",
+  "date": "06 NOV 2026"
+ },
+ "caption": "Petrol aur diesel mazeed saste hone ki umeed!\nArab News ke mutabiq aalami oil qeematein $115-116 fi barrel se gir kar $100 se neeche aa gayi hain, aur Finance Adviser Khurram Schehzad ko Pakistan mein fuel qeematon mein mazeed kami ki umeed hai. Thursday ko petrol Rs9.41 aur high-speed diesel Rs5.56 fi litre sasta kiya gaya tha.\nAap ke khayal mein petrol kitna sasta hona chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #FuelPrices #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Petrol aur diesel mazeed saste hone ki umeed, oil $100 se neeche",
+ "publish": {
+  "slot": "2026-11-06T12:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "581639516835198",
+  "label": "Upside Down - Mike Block"
+ },
+ "ai_generated": true
+}
