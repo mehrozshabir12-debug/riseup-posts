@@ -6919,5 +6919,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "2026-11-06T14:00:00+05:00",
+  "request_id": "2026-11-06-pta-meta-whatsapp-recycled-sims",
+  "layout": "bold",
+  "headline": "The PTA, in collaboration with Meta, has blocked 176,000 WhatsApp accounts registered against recycled mobile numbers and agreed a permanent mechanism to share 5,000 recycled numbers with Meta every month, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40447750/pta-meta-block-176000-whatsapp-accounts-linked-to-recycled-sims",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447750/pta-meta-block-176000-whatsapp-accounts-linked-to-recycled-sims",
+    "published_at": "2026-11-06T12:38:05+05:00"
+   }
+  ],
+  "published": "2026-11-06T12:38:05+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 809003175,
+  "image": "posts/2026-11-06-pta-meta-whatsapp-recycled-sims.jpg",
+  "story": "posts/2026-11-06-pta-meta-whatsapp-recycled-sims-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-06 14:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-06-pta-meta-whatsapp-recycled-sims.mp4"
  }
 ]
