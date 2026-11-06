@@ -7200,5 +7200,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "2026-11-06T22:00:00+05:00",
+  "request_id": "2026-11-06-turkish-seismic-vessel-karachi",
+  "layout": "bold",
+  "headline": "A Turkish seismic research vessel is expected to arrive in Karachi between November 17 and 20 to begin offshore oil and gas exploration, reviving Pakistan's offshore exploration after 20 years, the Petroleum Division said on Friday, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2639010/turkish-seismic-vessel-to-reach-karachi-in-mid-nov-for-offshore-oil-gas-exploration",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639010/turkish-seismic-vessel-to-reach-karachi-in-mid-nov-for-offshore-oil-gas-exploration",
+    "published_at": "2026-11-06T20:39:47+05:00"
+   }
+  ],
+  "published": "2026-11-06T20:39:47+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 957043602,
+  "image": "posts/2026-11-06-turkish-seismic-vessel-karachi.jpg",
+  "story": "posts/2026-11-06-turkish-seismic-vessel-karachi-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-06 22:00 PKT",
+  "music": "I'll Always Be Around - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-06-turkish-seismic-vessel-karachi.mp4"
  }
 ]

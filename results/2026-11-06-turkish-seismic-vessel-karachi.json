@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-06-turkish-seismic-vessel-karachi",
+ "revision": 1,
+ "request": "requests/2026-11-06-turkish-seismic-vessel-karachi.json",
+ "type": "news",
+ "headline": "A Turkish seismic research vessel is expected to arrive in Karachi between November 17 and 20 to begin offshore oil and gas exploration, reviving Pakistan's offshore exploration after 20 years, the Petroleum Division said on Friday, Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-06T22:00:00+05:00",
+ "target_slot": "2026-11-06T22:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-turkish-seismic-vessel-karachi.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-turkish-seismic-vessel-karachi-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-turkish-seismic-vessel-karachi.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-06-turkish-seismic-vessel-karachi.jpg",
+  "story": "posts/2026-11-06-turkish-seismic-vessel-karachi-story.jpg",
+  "reel": "posts/2026-11-06-turkish-seismic-vessel-karachi.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 957043602,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Samundar mein tail aur gas ki talash 20 saal baad dobara!\nExpress Tribune ke mutabiq Petroleum Division ne Friday ko bataya ke Turkish seismic research vessel 17 se 20 November ke darmiyan Karachi pohanchega aur offshore tail aur gas ki talash shuru karega. Petroleum Minister Ali Pervaiz Malik ne kaha ke woh khud jahaz ka istiqbal karenge.\nKya Pakistan ke samundar mein tail mil sakta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #OffshoreExploration #PakistanTurkiye #PakistanEnergy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-turkish-seismic-vessel-karachi.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Turkish seismic jahaz 17-20 Nov Karachi aayega, 20 saal baad offshore tail-gas ki talash",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Samundar mein tail aur gas ki talash 20 saal baad dobara!\nExpress Tribune ke mutabiq Petroleum Division ne Friday ko bataya ke Turkish seismic research vessel 17 se 20 November ke darmiyan Karachi pohanchega aur offshore tail aur gas ki talash shuru karega. Petroleum Minister Ali Pervaiz Malik ne kaha ke woh khud jahaz ka istiqbal karenge.\nKya Pakistan ke samundar mein tail mil sakta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #OffshoreExploration #PakistanTurkiye #PakistanEnergy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-turkish-seismic-vessel-karachi.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-turkish-seismic-vessel-karachi-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "836981678209890",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-turkish-seismic-vessel-karachi-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-06T21:48:57+05:00"
+}
