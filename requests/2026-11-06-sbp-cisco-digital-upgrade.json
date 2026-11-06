@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-06-sbp-cisco-digital-upgrade",
+ "type": "news",
+ "headline": "The State Bank of Pakistan has completed a multimillion-dollar upgrade of its digital infrastructure using technology from US firm Cisco, the US Embassy said on Friday, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-central-bank-completes-multimillion-dollar-upgrade-with-us-firm-cisco-3006298",
+   "published_at": "2026-11-06T19:30:10+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f4c783c6-c9e5-4c56-81f7-b2939b3181d6/551ba226-6942-4ef9-b3fc-1cd89cfc1b82/Realistic_photo_inside_a_modern_bank_data_center_in_Karachi_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiY2U4MTljNzBlMjllNzljMiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDE0MzA4OH0.FytK5KDq6YPuGt0YvkPtk2XpOBvzeVGuI1N53_DNp2c",
+  "head1": "State Bank ka",
+  "head2_hl": "Digital Upgrade",
+  "head2": "Mukammal",
+  "kicker": "US firm Cisco ki technology",
+  "desc": "Naya banking network aur data center bina rukawat ke lag gaya",
+  "source": "Arab News",
+  "date": "06 NOV 2026"
+ },
+ "caption": "State Bank of Pakistan ka digital nizam upgrade ho gaya!\nArab News ke mutabiq US Embassy ne Friday ko bataya ke State Bank ne US firm Cisco ki technology se apne digital infrastructure ka multimillion-dollar upgrade mukammal kar liya hai. Is mein naya banking network aur data center shamil hai, jo bank ke rozana kaam roke baghair lagaya gaya.\nKya is se aap ki online banking zyada mehfooz hogi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #StateBank #SBP #DigitalBanking #PakistanNews",
+ "tiktok_title": "State Bank ne Cisco ki technology se digital nizam upgrade kar liya",
+ "publish": {
+  "slot": "2026-11-06T20:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2384396914990297",
+  "label": "City Around The Corner - The Poison Oaks"
+ },
+ "ai_generated": true
+}
