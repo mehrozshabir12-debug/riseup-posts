@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-06-bank-alfalah-exits-afghanistan",
+ "scheduled": "2026-11-06T16:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 418769789,
+   "uuid": "-6554166068080983310",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 418769821,
+   "uuid": "5461927357497756075",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "934661001819759",
+    "audioType": "music",
+    "title": "Cafe Lovers",
+    "displayArtist": "Global Genius"
+   }
+  },
+  "story": {
+   "metricool_id": 418769838,
+   "uuid": "-8996967411745140742",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publication": "2026-11-06T16:05:00+05:00"
+  }
+ }
+}

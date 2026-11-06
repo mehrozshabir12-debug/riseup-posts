@@ -1,1 +1,82 @@
-{"slot": "2026-11-06T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T15:46:40+05:00"}
+{
+ "slot": "2026-11-06T16:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T15:46:40+05:00",
+ "run_finished_pkt": "2026-11-06T15:51:31+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Bank Alfalah has completed the sale and transfer of its Afghanistan banking operations, including its Kabul and Herat branches, to Ghazanfar Bank on 5 November 2026, marking its full exit from Afghanistan after over two decades, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://brecorder.com/news/40447760/pakistans-bank-alfalah-exits-afghanistan-after-20-years",
+    "published_at": "2026-11-06T15:33:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-06-bank-alfalah-exits-afghanistan",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-bank-alfalah-exits-afghanistan.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "20c757fe-7dd5-46bc-89ed-e1402d35d1cf",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 418769789,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6554166068080983310",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 418769821,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5461927357497756075",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 418769838,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8996967411745140742",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius (934661001819759, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings OK (blogId 7305396, Asia/Karachi, FB 683615374824663, IG riseuppakistann, TikTok riseuppakistan2025). getScheduledPosts: slot window 15:00-17:00 empty; all 10 six-hour windows 2026-11-04T15:46..2026-11-07T03:46 succeeded. RiseUp day 2026-11-06 before this post: 2 news feed posts (12:00, 14:00), 2 with TikTok.",
+  "previous_slot_check": "No posts at 15:00 slot (T-1h) or 15:05. Last slot 14:00: feed 418670493 FB+TikTok PUBLISHED, Reel 418670529 IG PUBLISHED, Story 418670547 FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched approved outlets. Chose Business Recorder Bank Alfalah Afghanistan exit (published 15:33 PKT, within 2h of T). Rejected candidates listed in skipped_candidates.",
+  "verification": "1 approved outlet (Business Recorder), article meta published/modified 2026-11-06T15:33:00+05:00. Facts checked from article: completion on 5 Nov 2026 per PSX filing Friday, Kabul and Herat branches transferred to Ghazanfar Bank, SBP and Da Afghanistan Bank approvals, presence since 2005 (headline: after 20 years). Not a duplicate of last 48h.",
+  "image": "Runway nano-banana-2-lite 4:3, one image; checked: no readable text/logos, no public figures, no distortion.",
+  "publish": "results awaiting_publish; card and zoom MP4 (8 s, 1080x1920) checked; feed, Reel, Story created from payloads exactly; Reel audioType music with displayArtist Global Genius; verified PENDING via getScheduledPosts 15:55-16:10."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PSX KSE-100 sheds over 2,200 points on Friday (Business Recorder 09:36 PKT)",
+   "reason": "intraday update; same event attempted at 10:00 slot; older than better fresh candidate"
+  },
+  {
+   "headline": "NCCIA says up to 350 suspected scam call centers in Karachi (Arab News 15:35 PKT)",
+   "reason": "crime/arrest story that involves juveniles among arrested; avoided under minors rule"
+  },
+  {
+   "headline": "Mustafa Ramday appointed PSO chairman (Business Recorder 13:22 PKT)",
+   "reason": "less relevant to ordinary people"
+  },
+  {
+   "headline": "Over 22.1 million children vaccinated in first four days of polio drive (APP)",
+   "reason": "same campaign posted 5 Nov 12:00; no genuinely new development"
+  }
+ ],
+ "errors": []
+}
