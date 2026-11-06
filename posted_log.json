@@ -7247,5 +7247,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "2026-11-06T23:00:00+05:00",
+  "request_id": "2026-11-06-makkah-defence-alliance-sg-riyadh",
+  "layout": "bold",
+  "headline": "Lieutenant General (retd) Nauman Mahmood, the first secretary general of the Makkah Defence Alliance between Pakistan, Saudi Arabia and Turkiye, is expected to take up his responsibilities in Riyadh soon, the Foreign Office said on Friday, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042611/makkah-defence-alliance-secretary-general-to-assume-duties-in-riyadh-soon-fo",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042611/makkah-defence-alliance-secretary-general-to-assume-duties-in-riyadh-soon-fo",
+    "published_at": "2026-11-06T17:20:24+05:00"
+   }
+  ],
+  "published": "2026-11-06T17:20:24+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 279323322,
+  "image": "posts/2026-11-06-makkah-defence-alliance-sg-riyadh.jpg",
+  "story": "posts/2026-11-06-makkah-defence-alliance-sg-riyadh-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-06 23:00 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-06-makkah-defence-alliance-sg-riyadh.mp4"
  }
 ]
