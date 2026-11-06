@@ -7060,5 +7060,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "2026-11-06T19:00:00+05:00",
+  "request_id": "2026-11-06-nccia-karachi-scam-call-centers",
+  "layout": "bold",
+  "headline": "Up to 350 suspected scam call centers are operating in Karachi, NCCIA Additional Director Shahzad Akbar said on Friday, after the agency raided a call center and arrested 273 people, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-cybercrime-agency-says-up-to-350-suspected-scam-call-centers-operating-in-karachi-3006284",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-cybercrime-agency-says-up-to-350-suspected-scam-call-centers-operating-in-karachi-3006284",
+    "published_at": "2026-11-06T15:35:01+05:00"
+   }
+  ],
+  "published": "2026-11-06T15:35:01+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 57264705,
+  "image": "posts/2026-11-06-nccia-karachi-scam-call-centers.jpg",
+  "story": "posts/2026-11-06-nccia-karachi-scam-call-centers-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-06 19:00 PKT",
+  "music": "Vow (Instrumental) - Ross Lara",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-06-nccia-karachi-scam-call-centers.mp4"
  }
 ]
