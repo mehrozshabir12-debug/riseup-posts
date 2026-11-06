@@ -1,1 +1,75 @@
-{"slot": "2026-11-06T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T20:46:39+05:00"}
+{
+ "slot": "2026-11-06T21:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T20:46:39+05:00",
+ "run_finished_pkt": "2026-11-06T20:51:16+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif on Friday directed authorities to prepare a clear roadmap and time-bound targets for a 100 per cent digital payments system, and ordered a campaign to encourage electricity and gas bill payments via QR codes, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042606/pm-seeks-roadmap-for-100pc-digital-payments-system-stresses-countrywide-internet-access",
+    "published_at": "2026-11-06T17:39:58+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-06-pm-digital-payments-roadmap",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-pm-digital-payments-roadmap.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419089430,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5794721946664415405",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419089475,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2749731213613550618",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419089493,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3018324770033152366",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures - Alex Blue",
+ "stages": {
+  "metricool_read": "getScheduledPosts windows 04 Nov 20:00 .. 07 Nov 09:00 all succeeded; no post at 21:00; RiseUp day 06 Nov had 6 news feed posts (12,14,16,18,19,20) and 6 TikTok before this one. getBrandSettings not called (all networks published fine in previous slots).",
+  "previous_slot_check": "20:00 feed 419022178 FB+TikTok PUBLISHED, Reel 419022221 IG PUBLISHED (City Around The Corner, music), 20:05 Story 419022258 FB+IG PUBLISHED",
+  "news_search": "Dawn PM digital payments roadmap (17:39 PKT, 3h20m before T) chosen; not covered in last 48h (SBP/Cisco 20:00 post is a different event). Fresher candidate U-19 Asia Cup win (Dawn 19:56) rejected (story about U-19 players, possible minors). Gold drop (Brecorder, first published 14:18) older.",
+  "verification": "Single approved outlet (Dawn); article fetched live, article:published_time 2026-11-06T17:39:58+05:00 (modified 17:41:37); 100pc digital payments, roadmap and time-bound targets, QR codes on electricity/gas bills campaign, Asaan Assignment Account cheques discontinued from Nov 15 replaced by Raast checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task ea324c71-2bea-48c5-9f52-8a8281900c63, anonymous customer from behind with phone at grocery counter with blank card stand, no readable text/logos",
+  "publish": "card and 8s zoom reel (1080x1920, h264+aac) checked; pipeline payload feed = Facebook only (no TikTok in payload); feed/reel/story created and confirmed via getScheduledPosts, all PENDING; reel audioType music, displayArtist Alex Blue (verified list id 1131479132514825, trending search skipped, list id used directly)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Usman Khan's unbeaten century powers Pakistan to win over UAE in U-19 Asia Cup",
+   "reason": "story about U-19 players (possible minors)"
+  },
+  {
+   "headline": "Gold price per tola drops Rs6,500",
+   "reason": "first published 14:18, older than the 4h-window story"
+  },
+  {
+   "headline": "Bilawal urges federal govt to engage all political forces",
+   "reason": "political statement"
+  }
+ ],
+ "errors": []
+}
