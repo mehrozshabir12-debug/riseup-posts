@@ -7154,5 +7154,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-06",
+  "slot": "2026-11-06T21:00:00+05:00",
+  "request_id": "2026-11-06-pm-digital-payments-roadmap",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif on Friday directed authorities to prepare a clear roadmap and time-bound targets for a 100 per cent digital payments system, and ordered a campaign to encourage electricity and gas bill payments via QR codes, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042606/pm-seeks-roadmap-for-100pc-digital-payments-system-stresses-countrywide-internet-access",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042606/pm-seeks-roadmap-for-100pc-digital-payments-system-stresses-countrywide-internet-access",
+    "published_at": "2026-11-06T17:39:58+05:00"
+   }
+  ],
+  "published": "2026-11-06T17:39:58+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 505481241,
+  "image": "posts/2026-11-06-pm-digital-payments-roadmap.jpg",
+  "story": "posts/2026-11-06-pm-digital-payments-roadmap-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-06 21:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-06-pm-digital-payments-roadmap.mp4"
  }
 ]
