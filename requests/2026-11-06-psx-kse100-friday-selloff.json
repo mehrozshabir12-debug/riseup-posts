@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-06-psx-kse100-friday-selloff",
+ "type": "news",
+ "headline": "The KSE-100 index of the Pakistan Stock Exchange fell 2,233.79 points or 1.27% to 173,146.07 at 9:40am on Friday as selling returned after days of buying, Business Recorder reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40447725/psx-selling-engulfs-bourse-kse-100-sheds-over-2200-points",
+   "published_at": "2026-11-06T09:36:20+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/29aaf2ed-e99c-41aa-8abe-4e6615788864/fc753fa5-9dfc-4887-a32c-a973b1e96dcf/Realistic_photo_inside_a_busy_stock_brokerage_office_in_Kara.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzFkOThhMzAzMjRmNTBmNSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDA4NjU3Nn0.SVAf0vwSCoIG-rWWBC1P6W_GEC39Y2X0ab8PQaw5gVA",
+  "head1": "PSX mein bhari selling",
+  "head2_hl": "2,233.79 points",
+  "head2": "ki kami",
+  "kicker": "KSE-100 173,146.07 par",
+  "desc": "Friday subah 9:40 baje index 1.27% neeche aa gaya",
+  "source": "Business Recorder",
+  "date": "06 NOV 2026"
+ },
+ "caption": "PSX mein bhari selling, KSE-100 2,233.79 points gir gaya!\nBusiness Recorder ke mutabiq Friday ko trading ke shuruati minton mein subah 9:40 baje KSE-100 index 2,233.79 points (1.27%) ki kami ke saath 173,146.07 par tha. Thursday ko index 175,379.87 par band hua tha.\nAap ke khayal mein market phir upar jayegi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #PakistanEconomy #PakistanNews",
+ "tiktok_title": "PSX: KSE-100 2,233.79 points gir kar 173,146.07 par aa gaya",
+ "publish": {
+  "slot": "2026-11-06T10:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
