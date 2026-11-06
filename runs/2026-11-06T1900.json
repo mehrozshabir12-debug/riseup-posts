@@ -1,1 +1,71 @@
-{"slot": "2026-11-06T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T18:46:23+05:00"}
+{
+ "slot": "2026-11-06T19:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T18:46:23+05:00",
+ "run_finished_pkt": "2026-11-06T18:50:28+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Up to 350 suspected scam call centers are operating in Karachi, NCCIA Additional Director Shahzad Akbar said on Friday, after the agency raided a call center and arrested 273 people, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-cybercrime-agency-says-up-to-350-suspected-scam-call-centers-operating-in-karachi-3006284",
+    "published_at": "2026-11-06T15:35:01+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-06-nccia-karachi-scam-call-centers",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-nccia-karachi-scam-call-centers.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 418956415,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3878286889152983237",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 418956457,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6478673163944871362",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 418956481,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2066518837474997523",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Vow (Instrumental) - Ross Lara",
+ "stages": {
+  "metricool_read": "getScheduledPosts in windows 04 Nov 18:00 .. 07 Nov 07:00 all succeeded; no post at 19:00; RiseUp day 06 Nov had 4 news feed posts (12,14,16,18) and 4 TikTok before this one. getBrandSettings not called (all three networks published fine in previous slot).",
+  "previous_slot_check": "18:00 feed 418893997 FB+TikTok PUBLISHED, Reel 418894056 IG PUBLISHED (Melodic Mountain, music), 18:05 Story 418894086 FB+IG PUBLISHED",
+  "news_search": "Arab News NCCIA scam call centers story published 15:35 PKT (3h25m before T) chosen; not covered in last 48h.",
+  "verification": "Single approved outlet (Arab News); article fetched, published_time 2026-11-06T10:35:01Z = 15:35 PKT; figures 300-350, 273 arrested, Shahzad Akbar title checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 4e5566cb-bd65-426d-af42-865b82feb341, no text/faces identifiable",
+  "publish": "card and zoom reel checked; feed/reel/story created, all PENDING; reel audioType music, displayArtist Ross Lara"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan aims to develop one million AI professionals by 2030: Ahsan Iqbal (Dawn)",
+   "reason": "published 06:59 PKT, event on Nov 5 - outside 8h window"
+  }
+ ],
+ "notes": [
+  "Music taken directly from VERIFIED MUSIC LIST (calm/serious, unused today); no separate trending-audio search this run."
+ ],
+ "errors": []
+}
