@@ -6944,10 +6944,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-06 14:00 PKT",
+  "scheduled": true,
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-06-pta-meta-whatsapp-recycled-sims.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 418670493,
+   "reel": 418670529,
+   "story": 418670547
+  },
+  "video": "posts/2026-11-06-pta-meta-whatsapp-recycled-sims.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
