@@ -1,1 +1,72 @@
-{"slot": "2026-11-06T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T13:45:56+05:00"}
+{
+ "slot": "2026-11-06T14:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T13:45:56+05:00",
+ "run_finished_pkt": "2026-11-06T13:51:20+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The PTA, in collaboration with Meta, has blocked 176,000 WhatsApp accounts registered against recycled mobile numbers and agreed a permanent mechanism to share 5,000 recycled numbers with Meta every month, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447750/pta-meta-block-176000-whatsapp-accounts-linked-to-recycled-sims",
+    "published_at": "2026-11-06T12:38:05+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-06-pta-meta-whatsapp-recycled-sims",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-pta-meta-whatsapp-recycled-sims.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 418670493,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7080683882180789521",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 418670529,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1649009771537546484",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 418670547,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=873997508087857176",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius (810120545333296, audioType music)",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB+IG+TikTok connected; 10 six-hour windows NOW-48h..NOW+12h all succeeded; slot 14:00 free; RiseUp day 2026-11-06 had 1 news feed post (12:00) and 1 TikTok before this run",
+  "previous_slot_check": "no posts at 13:00 slot (no 13:00 run); last slot 12:00 (418588132 FB+TikTok, 418588146 IG Reel, 418588160 Story) all PUBLISHED",
+  "news_search": "web search + Business Recorder; picked PTA/Meta WhatsApp recycled-SIM block (published 12:38 PKT, within 2h window); not a duplicate of last 48h",
+  "verification": "1 approved outlet (Business Recorder, Tahir Amin), article timestamp 2026-11-06 12:38:05+05:00 from meta; 176,000 accounts, 5,000 numbers/month checked against article",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, no text/logos/faces",
+  "publish": "card and zoom Reel checked; feed, Reel (music: Iced Latte - Global Genius, audioType music) and Story created, all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Hazara Motorway bus-dumper collision kills at least 8",
+   "reason": "casualty/accident story; preferred non-casualty consumer story"
+  },
+  {
+   "headline": "Mustafa Ramday appointed PSO chairman",
+   "reason": "less relevant to ordinary people"
+  }
+ ],
+ "errors": []
+}
