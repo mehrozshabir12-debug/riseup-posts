@@ -1,1 +1,70 @@
-{"slot": "2026-11-06T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T09:46:26+05:00"}
+{
+ "slot": "2026-11-06T10:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T09:46:20+05:00",
+ "run_finished_pkt": "2026-11-06T10:11:06+05:00",
+ "test_mode": false,
+ "outcome": "error_render_timeout",
+ "story": {
+  "headline": "The KSE-100 index of the Pakistan Stock Exchange fell 2,233.79 points or 1.27% to 173,146.07 at 9:40am on Friday as selling returned after days of buying, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40447725/psx-selling-engulfs-bourse-kse-100-sheds-over-2200-points",
+    "published_at": "2026-11-06T09:36:20+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-06-psx-kse100-friday-selloff",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": null,
+  "reel": null,
+  "story": null
+ },
+ "music": "none (planned: Sunday In October - Trout Recording, 757785052896581; nothing was posted)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected); getScheduledPosts 6h windows 2026-11-04T09:00..2026-11-06T22:00 plus 09:00-11:00 slot window all succeeded; slot 10:00 free; 0 posts so far in RiseUp day 2026-11-06",
+  "previous_slot_check": "Slot 2026-11-06T00:00 has no posts and no run log. Last posted slot 2026-11-05T23:00: feed 418046087 facebook PUBLISHED, reel 418046130 instagram PUBLISHED (https://www.instagram.com/reel/DfXo7HUHDH1/), story 418046159 facebook+instagram PUBLISHED. No retries needed.",
+  "news_search": "Chose Business Recorder intraday PSX story (published 09:36:20, updated 09:44:01 PKT). Not a duplicate: last KSE-100 post was the 4 Nov rally.",
+  "verification": "Article read in full: 9:40am KSE-100 173,146.07, down 2,233.79 points or 1.27%; Thursday close 175,379.87 (+3,366.38, 1.96%).",
+  "image": "Runway nano-banana-2-lite 4:3, task 29aaf2ed-e99c-41aa-8abe-4e6615788864, 1 image, looked at: anonymous traders, red charts, no readable text/logos.",
+  "publish": "Request committed 09:50 PKT (commit 2474fb9). GitHub Actions run 42164823180 'process' job stuck at step 4 'Install video tools only when a pending request has a Reel' since 04:50:41Z; no results/<id>.json after 20 min. Slot window closed at T+15 (10:15) so nothing was posted; no Metricool posts created."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Petrol cut Rs9.41 to Rs352.59 (Arab News)",
+   "reason": "published 2026-11-06T00:05 PKT, more than 8h before T"
+  },
+  {
+   "headline": "SBP/country reserves record $26.864bn (Dawn print 06:59)",
+   "reason": "first reported Thursday by SBP, older than 8h"
+  },
+  {
+   "headline": "PSX Thursday close 175,380 (Tribune)",
+   "reason": "event Thursday afternoon, older than 8h"
+  },
+  {
+   "headline": "DAP shortage threatens Rabi crop (Brecorder 07:12)",
+   "reason": "based on unnamed industry sources ('sources say' rule)"
+  },
+  {
+   "headline": "Ninth polio case 2026 (Dawn/Arab News/Geo)",
+   "reason": "first reported 5 Nov evening, older than 8h; Geo page fetch failed"
+  },
+  {
+   "headline": "Pakpattan bus-trailer crash, 11 dead (APP 01:00)",
+   "reason": "event 5 Nov, older than 8h"
+  }
+ ],
+ "errors": [
+  "GitHub Actions run 42164823180 (RiseUp Media Manager) job 'process' stuck in_progress at step 'Install video tools only when a pending request has a Reel' from 2026-11-06T04:50:41Z; results/2026-11-06-psx-kse100-friday-selloff.json not produced within 10+ min; slot 10:00 missed"
+ ]
+}
