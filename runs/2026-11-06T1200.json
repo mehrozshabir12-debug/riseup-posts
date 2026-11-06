@@ -1,1 +1,72 @@
-{"slot": "2026-11-06T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T11:47:13+05:00"}
+{
+ "slot": "2026-11-06T12:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T11:47:13+05:00",
+ "run_finished_pkt": "2026-11-06T11:52:53+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan expects further fuel price cuts as global oil prices fall below $100 a barrel, Finance Adviser Khurram Schehzad told Arab News, after petrol was cut by Rs9.41 and high-speed diesel by Rs5.56 per litre on Thursday.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-expects-further-fuel-price-cuts-amid-global-oil-slump-3006262",
+    "published_at": "2026-11-06T09:54:34+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-11-06-fuel-price-cuts-expected",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-fuel-price-cuts-expected.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 418588132,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4211125418904237984",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 418588146,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1662287879329462920",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 418588160,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=997151665043817008",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Upside Down - Mike Block (581639516835198, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (blogId 7305396, Asia/Karachi, facebook/instagram/tiktok connected). getScheduledPosts 6h windows 2026-11-04T11:00..2026-11-07T00:00 plus slot window 11:00-13:00 all succeeded. Slot 12:00 free; 0 feed posts and 0 TikTok posts so far in RiseUp day 2026-11-06.",
+  "previous_slot_check": "Slot 11:00 has no posts and no run log; slot 10:00 failed (render timeout, nothing posted). Last posted slot 2026-11-05T23:00: feed 418046087 facebook PUBLISHED, reel 418046130 instagram PUBLISHED, story 418046159 facebook+instagram PUBLISHED. No retries needed.",
+  "news_search": "Searched approved outlets. Chose Arab News fuel-price story (published 09:54:34 PKT, modified 10:40 PKT) — 3h window. Not a duplicate: no fuel-price-cut post in last 48h (5 Nov 18:00 post was about Fuel Relief Programme licences).",
+  "verification": "Article read: Finance Adviser Khurram Schehzad (on record) expects further cuts; oil from ~$115-116 to below $100/bbl; petrol cut Rs9.41/l and HSD Rs5.56/l on Thursday.",
+  "image": "Runway nano-banana-2-lite 4:3, task 72a8efe5-dfb1-4bd8-adc7-b425f2cb5bb1, 1 image; looked at: anonymous petrol station scene, no readable text/logos/public figures.",
+  "publish": "GitHub rendered in ~1 min (status awaiting_publish). Card and zoom MP4 (8s, 1080x1920, plays, shows card) checked. Feed, Reel, Story created from payloads exactly; Reel audio audioType music, displayArtist Mike Block; getScheduledPosts 11:55-12:10 shows all three PENDING. GitHub also processed the stale 10:00 PSX request and rejected it (slot missed) — no action needed."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Karachi official beef/mutton rates raised Rs50-100/kg (Dawn 06:59)",
+   "reason": "older (6h window) than the fresher Arab News fuel story"
+  },
+  {
+   "headline": "Pakistan to seek arbitration to recover $800m from Etisalat (Arab News 08:28)",
+   "reason": "based on an anonymous MP ('sources say' rule)"
+  }
+ ],
+ "errors": []
+}
