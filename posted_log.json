@@ -7038,10 +7038,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-06 18:00 PKT",
+  "scheduled": "2026-11-06T18:00:00+05:00",
   "music": "Melodic Mountain - Ross Lara",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-06-sperm-whale-sindh-coast.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 418893997,
+   "reel": 418894056,
+   "story": 418894086
+  },
+  "video": "posts/2026-11-06-sperm-whale-sindh-coast.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
