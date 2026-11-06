@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-06-sperm-whale-sindh-coast",
+ "type": "news",
+ "headline": "A sperm whale, estimated to be around 45 feet long, has been sighted off the Sindh coast for the first time, around 40 nautical miles southwest of Karachi, WWF-Pakistan said on Friday, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2042599/sperm-whale-spotted-off-sindhs-coast-for-first-time-wwf-pakistan",
+   "published_at": "2026-11-06T16:43:24+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/fe5cb504-2e55-4e90-8f8b-463984740472/a029d92d-f98f-44d8-a007-9856dc535f47/Realistic_wide_photo_of_a_large_sperm_whale_surfacing_in_the.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDNkNTNlZjk3NTM5ODhmOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDA4Mzk2MX0.xm9zgr8fDeItN1DLoa0on5DZ7bbGlMr5ixHUwu9CDSg",
+  "head1": "Sindh ke sahil par",
+  "head2_hl": "Sperm Whale",
+  "head2": "pehli baar",
+  "kicker": "Karachi se 40 nautical miles",
+  "desc": "WWF-Pakistan ke mutabiq whale taqreeban 45 feet lambi thi",
+  "source": "Dawn",
+  "date": "06 NOV 2026"
+ },
+ "caption": "Sindh ke sahil par pehli baar sperm whale dekhi gayi!\nDawn ke mutabiq WWF-Pakistan ne Friday ko bataya ke Karachi se taqreeban 40 nautical miles southwest mein taqreeban 45 feet lambi sperm whale dekhi gayi. Is se pehle is nasal ki whales 2017 mein Balochistan ke sahil par dekhi gayi thin.\nKya aap ne kabhi samandar mein whale ya dolphin dekhi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SpermWhale #WWFPakistan #Karachi #PakistanNews",
+ "tiktok_title": "Sindh ke sahil par pehli baar 45 feet lambi sperm whale dekhi gayi",
+ "publish": {
+  "slot": "2026-11-06T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "297072506536797",
+  "label": "Melodic Mountain - Ross Lara"
+ },
+ "ai_generated": true
+}
