@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-06-bank-alfalah-exits-afghanistan",
+ "revision": 1,
+ "request": "requests/2026-11-06-bank-alfalah-exits-afghanistan.json",
+ "type": "news",
+ "headline": "Bank Alfalah has completed the sale and transfer of its Afghanistan banking operations, including its Kabul and Herat branches, to Ghazanfar Bank on 5 November 2026, marking its full exit from Afghanistan after over two decades, Business Recorder reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-06T16:00:00+05:00",
+ "target_slot": "2026-11-06T16:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-bank-alfalah-exits-afghanistan.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-bank-alfalah-exits-afghanistan-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-bank-alfalah-exits-afghanistan.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-06-bank-alfalah-exits-afghanistan.jpg",
+  "story": "posts/2026-11-06-bank-alfalah-exits-afghanistan-story.jpg",
+  "reel": "posts/2026-11-06-bank-alfalah-exits-afghanistan.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 218473416,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Bank Alfalah ne 20 saal baad Afghanistan chhor diya!\nBusiness Recorder ke mutabiq Bank Alfalah ne Friday ko PSX ko bataya ke Afghanistan mein us ki banking operations Ghazanfar Bank ko transfer karne ka sauda 5 November 2026 ko mukammal ho gaya, jis mein Kabul aur Herat branches shamil hain. Yeh sauda State Bank of Pakistan aur Da Afghanistan Bank ki manzoori ke baad hua.\nAap ke khayal mein yeh faisla sahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #BankAlfalah #Afghanistan #PakistanBanking #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-bank-alfalah-exits-afghanistan.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Bank Alfalah ne 20 saal baad Afghanistan chhor diya, Kabul aur Herat branches transfer",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Bank Alfalah ne 20 saal baad Afghanistan chhor diya!\nBusiness Recorder ke mutabiq Bank Alfalah ne Friday ko PSX ko bataya ke Afghanistan mein us ki banking operations Ghazanfar Bank ko transfer karne ka sauda 5 November 2026 ko mukammal ho gaya, jis mein Kabul aur Herat branches shamil hain. Yeh sauda State Bank of Pakistan aur Da Afghanistan Bank ki manzoori ke baad hua.\nAap ke khayal mein yeh faisla sahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #BankAlfalah #Afghanistan #PakistanBanking #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-bank-alfalah-exits-afghanistan.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-bank-alfalah-exits-afghanistan-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "934661001819759",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-06T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-bank-alfalah-exits-afghanistan-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-06T15:50:04+05:00"
+}
