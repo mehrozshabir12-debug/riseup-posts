@@ -1,1 +1,72 @@
-{"slot": "2026-11-06T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-06T19:47:02+05:00"}
+{
+ "slot": "2026-11-06T20:00:00+05:00",
+ "riseup_day": "2026-11-06",
+ "run_started_pkt": "2026-11-06T19:47:02+05:00",
+ "run_finished_pkt": "2026-11-06T19:51:19+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The State Bank of Pakistan has completed a multimillion-dollar upgrade of its digital infrastructure using technology from US firm Cisco, the US Embassy said on Friday, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-central-bank-completes-multimillion-dollar-upgrade-with-us-firm-cisco-3006298",
+    "published_at": "2026-11-06T19:30:10+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-06-sbp-cisco-digital-upgrade",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-06-sbp-cisco-digital-upgrade.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419022178,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6847307668751142617",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419022221,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2354851113610690513",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419022258,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=267539406840744513",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "City Around The Corner - The Poison Oaks",
+ "stages": {
+  "metricool_read": "getScheduledPosts windows 04 Nov 19:00 .. 07 Nov 08:00 all succeeded; no post at 20:00; RiseUp day 06 Nov had 5 news feed posts (12,14,16,18,19) and 5 TikTok before this one. getBrandSettings not called (all networks published fine in previous slots).",
+  "previous_slot_check": "19:00 feed 418956415 FB+TikTok PUBLISHED, Reel 418956457 IG PUBLISHED (Vow, music), 19:05 Story 418956481 FB+IG PUBLISHED",
+  "news_search": "Arab News SBP/Cisco upgrade article published 19:30 PKT (30 min before T) chosen; not covered in last 48h. Other candidates: Pakistan-UK counterterrorism cooperation (Dawn), Pakistan calls Israel spoiler in US-Iran talks (Arab News, foreign-policy/political), fuel price cut (already posted 12:00 angle).",
+  "verification": "Single approved outlet (Arab News); article fetched live, published_time 2026-11-06T14:30:10Z = 19:30 PKT; names (Natalie Baker, Jameel Ahmad, Kashif Ul Haq), 'multimillion-dollar', network+data center, no disruption checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task f4c783c6-c9e5-4c56-81f7-b2939b3181d6, server room with two anonymous engineers from behind, no text/logos",
+  "publish": "card and 8s zoom reel (1080x1920, h264+aac) checked; feed/reel/story created and confirmed via getScheduledPosts, all PENDING; reel audioType music, displayArtist The Poison Oaks (verified list id 2384396914990297, trending search skipped, list id used directly)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan calls Israel a spoiler in US-Iran talks",
+   "reason": "political/foreign-policy statement; less relevant for ordinary people"
+  },
+  {
+   "headline": "Pakistan, UK agree to expand counterterrorism cooperation",
+   "reason": "not chosen; SBP story fresher"
+  }
+ ],
+ "errors": []
+}
