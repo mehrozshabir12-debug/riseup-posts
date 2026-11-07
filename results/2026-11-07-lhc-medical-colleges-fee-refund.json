@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-07-lhc-medical-colleges-fee-refund",
+ "revision": 1,
+ "request": "requests/2026-11-07-lhc-medical-colleges-fee-refund.json",
+ "type": "news",
+ "headline": "The Lahore High Court has directed two private medical and dental colleges, University Medical and Dental College Faisalabad and FMH College of Medicine and Dentistry Lahore, to adjust or refund students' excess tuition fees in line with PM&DC fee limits, the Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-07T22:00:00+05:00",
+ "target_slot": "2026-11-07T22:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-lhc-medical-colleges-fee-refund.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-lhc-medical-colleges-fee-refund-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-lhc-medical-colleges-fee-refund.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-07-lhc-medical-colleges-fee-refund.jpg",
+  "story": "posts/2026-11-07-lhc-medical-colleges-fee-refund-story.jpg",
+  "reel": "posts/2026-11-07-lhc-medical-colleges-fee-refund.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 481500440,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Medical students ki bari jeet: izafi fees wapas milegi!\nExpress Tribune ke mutabiq Lahore High Court ne University Medical and Dental College Faisalabad aur FMH College of Medicine and Dentistry Lahore ko PM&DC ki muqarrar fees ki had ke mutabiq students ki izafi tuition fees adjust ya refund karne ka hukum diya hai. Faisle ke mutabiq Faisalabad ke college ko fi student Rs841,317 aur FMH ko fi student Rs741,802 wapas karne hain.\nKya private colleges ki fees par had honi chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MedicalStudents #LHC #PMDC #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-lhc-medical-colleges-fee-refund.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "LHC: 2 private medical colleges students ki izafi fees refund karein",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Medical students ki bari jeet: izafi fees wapas milegi!\nExpress Tribune ke mutabiq Lahore High Court ne University Medical and Dental College Faisalabad aur FMH College of Medicine and Dentistry Lahore ko PM&DC ki muqarrar fees ki had ke mutabiq students ki izafi tuition fees adjust ya refund karne ka hukum diya hai. Faisle ke mutabiq Faisalabad ke college ko fi student Rs841,317 aur FMH ko fi student Rs741,802 wapas karne hain.\nKya private colleges ki fees par had honi chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MedicalStudents #LHC #PMDC #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-lhc-medical-colleges-fee-refund.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-lhc-medical-colleges-fee-refund-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "336015428971390",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-lhc-medical-colleges-fee-refund-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-07T21:50:53+05:00"
+}

@@ -7650,5 +7650,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T22:00:00+05:00",
+  "request_id": "2026-11-07-lhc-medical-colleges-fee-refund",
+  "layout": "bold",
+  "headline": "The Lahore High Court has directed two private medical and dental colleges, University Medical and Dental College Faisalabad and FMH College of Medicine and Dentistry Lahore, to adjust or refund students' excess tuition fees in line with PM&DC fee limits, the Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2639143/win-for-students-lhc-directs-two-private-medical-colleges-to-adjust-refund-excess-fees-by-nov-29",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639143/win-for-students-lhc-directs-two-private-medical-colleges-to-adjust-refund-excess-fees-by-nov-29",
+    "published_at": "2026-11-07T18:59:07+05:00"
+   }
+  ],
+  "published": "2026-11-07T18:59:07+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 481500440,
+  "image": "posts/2026-11-07-lhc-medical-colleges-fee-refund.jpg",
+  "story": "posts/2026-11-07-lhc-medical-colleges-fee-refund-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 22:00 PKT",
+  "music": "Glow (Instrumental) - KNOTTS",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-lhc-medical-colleges-fee-refund.mp4"
  }
 ]
