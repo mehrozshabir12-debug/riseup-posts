@@ -7489,10 +7489,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-07 18:00 PKT",
+  "scheduled": "2026-11-07T18:00:00+05:00",
   "music": "Heros Journey (Instrumental) - Abby Posner",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-07-pakistani-astronaut-shenzhou-24.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 419916222,
+   "reel": 419916253,
+   "story": 419916270
+  },
+  "video": "posts/2026-11-07-pakistani-astronaut-shenzhou-24.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
