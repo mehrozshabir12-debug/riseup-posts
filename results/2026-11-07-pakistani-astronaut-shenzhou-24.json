@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-07-pakistani-astronaut-shenzhou-24",
+ "revision": 1,
+ "request": "requests/2026-11-07-pakistani-astronaut-shenzhou-24.json",
+ "type": "news",
+ "headline": "A Pakistani astronaut will travel to China's Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit it, China's manned space agency said on Saturday, Dawn reports citing AFP.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-07T18:00:00+05:00",
+ "target_slot": "2026-11-07T18:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pakistani-astronaut-shenzhou-24.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pakistani-astronaut-shenzhou-24-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pakistani-astronaut-shenzhou-24.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-07-pakistani-astronaut-shenzhou-24.jpg",
+  "story": "posts/2026-11-07-pakistani-astronaut-shenzhou-24-story.jpg",
+  "reel": "posts/2026-11-07-pakistani-astronaut-shenzhou-24.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 773322590,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistani astronaut China ke space station jayega!\nDawn ke mutabiq China ki manned space agency ne Saturday ko bataya ke ek Pakistani astronaut Shenzhou-24 mission par Tiangong space station jayega aur wahan jane wala pehla ghair mulki hoga. Rawangi ki tareekh nahi batayi gayi, magar mission saal ke aakhir tak mutawaqqe hai.\nKya aap bhi space mein jana chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Shenzhou24 #PakistanInSpace #PakistanChina #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pakistani-astronaut-shenzhou-24.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistani astronaut Shenzhou-24 par China ke Tiangong space station jayega",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistani astronaut China ke space station jayega!\nDawn ke mutabiq China ki manned space agency ne Saturday ko bataya ke ek Pakistani astronaut Shenzhou-24 mission par Tiangong space station jayega aur wahan jane wala pehla ghair mulki hoga. Rawangi ki tareekh nahi batayi gayi, magar mission saal ke aakhir tak mutawaqqe hai.\nKya aap bhi space mein jana chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Shenzhou24 #PakistanInSpace #PakistanChina #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pakistani-astronaut-shenzhou-24.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pakistani-astronaut-shenzhou-24-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1274149560124013",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pakistani-astronaut-shenzhou-24-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-07T17:48:52+05:00"
+}

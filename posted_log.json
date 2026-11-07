@@ -7464,5 +7464,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T18:00:00+05:00",
+  "request_id": "2026-11-07-pakistani-astronaut-shenzhou-24",
+  "layout": "bold",
+  "headline": "A Pakistani astronaut will travel to China's Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit it, China's manned space agency said on Saturday, Dawn reports citing AFP.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
+    "published_at": "2026-11-07T16:13:19+05:00"
+   }
+  ],
+  "published": "2026-11-07T16:13:19+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 773322590,
+  "image": "posts/2026-11-07-pakistani-astronaut-shenzhou-24.jpg",
+  "story": "posts/2026-11-07-pakistani-astronaut-shenzhou-24-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 18:00 PKT",
+  "music": "Heros Journey (Instrumental) - Abby Posner",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-pakistani-astronaut-shenzhou-24.mp4"
  }
 ]
