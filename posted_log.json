@@ -7604,5 +7604,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T21:00:00+05:00",
+  "request_id": "2026-11-07-larkana-600-bed-hospital",
+  "layout": "bold",
+  "headline": "PPP Chairman Bilawal Bhutto Zardari on Saturday laid the foundation stone of a new 600-bed hospital in Larkana that will provide modern medical facilities to Larkana and adjacent areas, APP reports.",
+  "source_outlet": "APP",
+  "source": "https://www.app.com.pk/domestic/chairman-ppp-bilawal-bhutto-zardari-lays-foundation-stone-of-600-bed-hospital-in-larkana/",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/domestic/chairman-ppp-bilawal-bhutto-zardari-lays-foundation-stone-of-600-bed-hospital-in-larkana/",
+    "published_at": "2026-11-07T19:40:01+05:00"
+   }
+  ],
+  "published": "2026-11-07T19:40:01+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 641099096,
+  "image": "posts/2026-11-07-larkana-600-bed-hospital.jpg",
+  "story": "posts/2026-11-07-larkana-600-bed-hospital-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 21:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-larkana-600-bed-hospital.mp4"
  }
 ]
