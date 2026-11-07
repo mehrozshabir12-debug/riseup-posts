@@ -7417,5 +7417,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T16:00:00+05:00",
+  "request_id": "2026-11-07-pcb-test-squad-sri-lanka-additions",
+  "layout": "bold",
+  "headline": "The PCB on Saturday added Aamir Jamal and three uncapped players, Mohammad Tayyab Arif, Ali Shabbir and Saqib Khan, to Pakistan's 16-member Test squad for the two-match series against Sri Lanka, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2042821/pcb-add-aamir-jamal-three-uncapped-players-to-pakistan-squad-for-sri-lanka-tests",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042821/pcb-add-aamir-jamal-three-uncapped-players-to-pakistan-squad-for-sri-lanka-tests",
+    "published_at": "2026-11-07T14:46:37+05:00"
+   }
+  ],
+  "published": "2026-11-07T14:46:37+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 536814657,
+  "image": "posts/2026-11-07-pcb-test-squad-sri-lanka-additions.jpg",
+  "story": "posts/2026-11-07-pcb-test-squad-sri-lanka-additions-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 16:00 PKT",
+  "music": "Upside Down - Mike Block",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-pcb-test-squad-sri-lanka-additions.mp4"
  }
 ]

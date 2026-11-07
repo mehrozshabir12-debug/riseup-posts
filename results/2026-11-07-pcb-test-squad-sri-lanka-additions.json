@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-07-pcb-test-squad-sri-lanka-additions",
+ "revision": 1,
+ "request": "requests/2026-11-07-pcb-test-squad-sri-lanka-additions.json",
+ "type": "news",
+ "headline": "The PCB on Saturday added Aamir Jamal and three uncapped players, Mohammad Tayyab Arif, Ali Shabbir and Saqib Khan, to Pakistan's 16-member Test squad for the two-match series against Sri Lanka, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-07T16:00:00+05:00",
+ "target_slot": "2026-11-07T16:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pcb-test-squad-sri-lanka-additions.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pcb-test-squad-sri-lanka-additions-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pcb-test-squad-sri-lanka-additions.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-07-pcb-test-squad-sri-lanka-additions.jpg",
+  "story": "posts/2026-11-07-pcb-test-squad-sri-lanka-additions-story.jpg",
+  "reel": "posts/2026-11-07-pcb-test-squad-sri-lanka-additions.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 536814657,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan Test squad mein 4 naye khiladi shamil!\nDawn ke mutabiq PCB ne Saturday ko Sri Lanka ke khilaf 2 Test matches ki series ke liye Aamir Jamal aur 3 uncapped players Mohammad Tayyab Arif, Ali Shabbir aur Saqib Khan ko squad mein shamil kar liya, jis ke baad squad 16 players ka ho gaya. Pehla Test Monday se Rawalpindi Cricket Stadium mein aur doosra 17 se 21 November tak Lahore ke Gaddafi Stadium mein hoga.\nNaye khiladiyon mein se aap kis se sab se zyada umeed rakhte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pcb-test-squad-sri-lanka-additions.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Sri Lanka Tests ke liye Aamir Jamal aur 3 uncapped players Pakistan squad mein",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan Test squad mein 4 naye khiladi shamil!\nDawn ke mutabiq PCB ne Saturday ko Sri Lanka ke khilaf 2 Test matches ki series ke liye Aamir Jamal aur 3 uncapped players Mohammad Tayyab Arif, Ali Shabbir aur Saqib Khan ko squad mein shamil kar liya, jis ke baad squad 16 players ka ho gaya. Pehla Test Monday se Rawalpindi Cricket Stadium mein aur doosra 17 se 21 November tak Lahore ke Gaddafi Stadium mein hoga.\nNaye khiladiyon mein se aap kis se sab se zyada umeed rakhte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pcb-test-squad-sri-lanka-additions.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pcb-test-squad-sri-lanka-additions-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "581639516835198",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pcb-test-squad-sri-lanka-additions-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-07T15:49:02+05:00"
+}
