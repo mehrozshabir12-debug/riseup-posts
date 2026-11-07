@@ -7722,10 +7722,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-07 23:00 PKT",
+  "scheduled": "2026-11-07T23:00:00+05:00",
   "music": "Out In The Wild - bldgs",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-07-mehrgarh-museum-reopen.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 420129668,
+   "reel": 420129690,
+   "story": 420129706
+  },
+  "video": "posts/2026-11-07-mehrgarh-museum-reopen.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
