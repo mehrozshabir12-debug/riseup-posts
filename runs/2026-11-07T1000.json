@@ -1,1 +1,91 @@
-{"slot": "2026-11-07T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T09:45:48+05:00"}
+{
+ "slot": "2026-11-07T10:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T09:45:48+05:00",
+ "run_finished_pkt": "2026-11-07T09:54:22+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan cut petrol by Rs6.59 to Rs346 per litre and high-speed diesel by Rs4.25 to Rs378 per litre, applicable from Nov 7 to 10, its fifth consecutive fuel price cut, Arab News reports citing Radio Pakistan.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-slashes-fuel-prices-again-despite-fears-of-us-iran-war-escalating-3006355",
+    "published_at": "2026-11-07T09:31:43+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-petrol-diesel-cut-nov7",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-petrol-diesel-cut-nov7.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419669043,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2267708250371374464",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419669063,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-392643158824238445",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419669073,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9193601073937402882",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan (1543577430102877, audioType music)",
+ "stages": {
+  "metricool_read": "getScheduledPosts windows 07 Nov 09:00-11:00 and 05 Nov 09:45 .. 07 Nov 21:45 (6h windows) all succeeded; no post at 10:00; RiseUp day 07 Nov had 0 news posts and 0 TikTok before this one. getBrandSettings not called (all networks published fine in previous slots).",
+  "previous_slot_check": "No 09:00 slot; last slot 06 Nov 23:00: feed 419223277 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122189377436855502), Reel 419223328 IG PUBLISHED (https://www.instagram.com/reel/DfaNeOIieyx/), Story 419223362 FB+IG PUBLISHED. No 00:00 post on 07 Nov.",
+  "news_search": "Arab News fuel cut (09:31 PKT, 29 min before T) chosen in 2h window. New development: new cut effective 7-10 Nov 'starting from today' per Radio Pakistan; earlier posts (5-6 Nov) covered the previous Rs9.41 cut and expectation of further cuts.",
+  "verification": "Single approved outlet (Arab News); article fetched live, article:published_time 2026-11-07T04:31:43Z (09:31 PKT), modified 04:33:22Z; petrol -Rs6.59 to Rs346/l, HSD -Rs4.25 to Rs378/l, applicable Nov 7-10, fifth consecutive cut, via OGRA notification per Radio Pakistan - checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 1e72dd6a-f3ec-4947-b625-c28f54e5941d, petrol station forecourt with anonymous attendant, motorcyclist, car and rickshaw; no readable text/logos",
+  "publish": "card and 8s zoom reel (1080x1920, h264+aac) checked; feed FB+TikTok, reel IG, story FB+IG created and confirmed via getScheduledPosts, all PENDING; reel audioType music, displayArtist Jackson Whalan (verified list id; trending web search gave no confirmable music id)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan says deportation of Afghans from US under consideration (Arab News 08:35 PKT)",
+   "reason": "FO briefing was Friday afternoon; first report >8h before T"
+  },
+  {
+   "headline": "Pakistan, UK agree to expand security cooperation (Dawn 05:04 PKT)",
+   "reason": "first reported by Dawn 06 Nov 17:30, >8h before T"
+  },
+  {
+   "headline": "Thar coal being developed beyond power generation (Brecorder 04:51 PKT)",
+   "reason": "press release, first-report time unclear; less important"
+  },
+  {
+   "headline": "Ministry to devise tobacco deregulation system (Tribune 02:04 PKT)",
+   "reason": "older and less relevant than fresh fuel cut"
+  },
+  {
+   "headline": "Usman's ton powers Pakistan U19 victory over UAE (Tribune 19:45 PKT 06 Nov)",
+   "reason": "older than 8h"
+  },
+  {
+   "headline": "Karachi traffic police e-challans via mobile app (Geo)",
+   "reason": "Geo article id 645425 is old; listing was a stale cache"
+  }
+ ],
+ "errors": [
+  "geo.tv/latest fetch: The permission request for this URL was not answered in time.",
+  "brecorder.com homepage returned stale plain-text market stub"
+ ]
+}
