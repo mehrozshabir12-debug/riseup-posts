@@ -7557,5 +7557,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T20:00:00+05:00",
+  "request_id": "2026-11-07-auto-policy-6bn-exports",
+  "layout": "bold",
+  "headline": "Pakistan on Saturday announced a proposed automotive policy targeting $6 billion in cumulative vehicle exports over five years, with a proposed 1% sales tax on fully electric vehicles, subject to federal cabinet approval, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-eyes-6-billion-auto-exports-over-five-years-in-proposed-policy-overhaul-3006383",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-eyes-6-billion-auto-exports-over-five-years-in-proposed-policy-overhaul-3006383",
+    "published_at": "2026-11-07T19:15:53+05:00"
+   }
+  ],
+  "published": "2026-11-07T19:15:53+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 397088576,
+  "image": "posts/2026-11-07-auto-policy-6bn-exports.jpg",
+  "story": "posts/2026-11-07-auto-policy-6bn-exports-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 20:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-auto-policy-6bn-exports.mp4"
  }
 ]

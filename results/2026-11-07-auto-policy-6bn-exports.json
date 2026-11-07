@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-07-auto-policy-6bn-exports",
+ "revision": 1,
+ "request": "requests/2026-11-07-auto-policy-6bn-exports.json",
+ "type": "news",
+ "headline": "Pakistan on Saturday announced a proposed automotive policy targeting $6 billion in cumulative vehicle exports over five years, with a proposed 1% sales tax on fully electric vehicles, subject to federal cabinet approval, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-07T20:00:00+05:00",
+ "target_slot": "2026-11-07T20:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-auto-policy-6bn-exports.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-auto-policy-6bn-exports-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-auto-policy-6bn-exports.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-07-auto-policy-6bn-exports.jpg",
+  "story": "posts/2026-11-07-auto-policy-6bn-exports-story.jpg",
+  "reel": "posts/2026-11-07-auto-policy-6bn-exports.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 397088576,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Nayi auto policy: 5 saal mein $6 billion ki exports ka hadaf!\nArab News ke mutabiq PM ke adviser Haroon Akhtar Khan ne Saturday ko mujawwaza auto policy pesh ki, jis mein 5 saal mein $6 billion ki gariyon ki exports ka hadaf hai, jabke pichle maali saal taqreeban $200 million ki exports hui thin. Fully electric gariyon par sirf 1% sales tax ki tajweez hai, aur policy ko abhi federal cabinet ki manzoori chahiye.\nKya nayi policy se gariyan sasti hongi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #AutoPolicy #ElectricVehicles #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-auto-policy-6bn-exports.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Nayi auto policy: 5 saal mein $6 billion exports ka hadaf, EVs par 1% sales tax",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Nayi auto policy: 5 saal mein $6 billion ki exports ka hadaf!\nArab News ke mutabiq PM ke adviser Haroon Akhtar Khan ne Saturday ko mujawwaza auto policy pesh ki, jis mein 5 saal mein $6 billion ki gariyon ki exports ka hadaf hai, jabke pichle maali saal taqreeban $200 million ki exports hui thin. Fully electric gariyon par sirf 1% sales tax ki tajweez hai, aur policy ko abhi federal cabinet ki manzoori chahiye.\nKya nayi policy se gariyan sasti hongi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #AutoPolicy #ElectricVehicles #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-auto-policy-6bn-exports.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-auto-policy-6bn-exports-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "810120545333296",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-auto-policy-6bn-exports-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-07T19:50:46+05:00"
+}
