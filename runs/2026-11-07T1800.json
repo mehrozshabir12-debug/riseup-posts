@@ -1,1 +1,68 @@
-{"slot": "2026-11-07T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T17:46:13+05:00"}
+{
+ "slot": "2026-11-07T18:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T17:46:13+05:00",
+ "run_finished_pkt": "2026-11-07T17:50:11+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "A Pakistani astronaut will travel to China's Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit it, China's manned space agency said on Saturday, Dawn reports citing AFP.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
+    "published_at": "2026-11-07T16:13:19+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-pakistani-astronaut-shenzhou-24",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pakistani-astronaut-shenzhou-24.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419916222,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5341461259498861978",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419916253,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3162254325546304605",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419916270,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1070291481045285032",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Heros Journey (Instrumental) - Abby Posner (1274149560124013, audioType music)",
+ "stages": {
+  "metricool_read": "All windows 2026-11-05T17:46..2026-11-08T05:46 read OK; no post at 18:00; today 3 news feed posts (10,14,16), 3 TikTok; no duplicate of astronaut story in 48h.",
+  "previous_slot_check": "No post at 17:00 (previous slot not used). 16:00 feed FB+TikTok PUBLISHED, Reel PUBLISHED (DfcCJAWnNs5), 16:05 Story FB+IG PUBLISHED.",
+  "news_search": "Dawn search; picked Shenzhou-24 Pakistani astronaut (published 16:13 PKT, within 2h of T). Others seen: Arab News industrial tariff cut, Dawn LPG priorities, Pakistan-Sudan visa deal (Sudan already covered at 12:00 attempt), squash final.",
+  "verification": "Dawn article read in full: meta published 2026-11-07T16:13:19+05:00, modified 16:39:16; AFP; CNSA statement Saturday; astronaut not named; no departure date, expected by end of year.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt: rocket on launch pad at dusk with anonymous spectators from behind, no text/logos.",
+  "publish": "Card and zoom MP4 (8 s, 1080x1920) checked; feed, Reel, Story created PENDING; Reel audio resolved as music with displayArtist (no fix needed). Trending-audio search returned only generic listicles, so a verified-list id was used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan reduced industrial electricity tariff by Rs18.94/unit since March 2024 (Arab News)",
+   "reason": "less fresh/important than chosen story; not opened"
+  }
+ ],
+ "errors": []
+}
