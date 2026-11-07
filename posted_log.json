@@ -7536,10 +7536,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-07 19:00 PKT",
+  "scheduled": "2026-11-07T19:00:00+05:00",
   "music": "Slow Living - stereogully",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-07-nepra-fca-rs236-hike.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 419955315,
+   "reel": 419955338,
+   "story": 419955346
+  },
+  "video": "posts/2026-11-07-nepra-fca-rs236-hike.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
