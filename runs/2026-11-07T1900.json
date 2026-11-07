@@ -1,1 +1,67 @@
-{"slot": "2026-11-07T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T18:46:44+05:00"}
+{
+ "slot": "2026-11-07T19:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T18:46:40+05:00",
+ "run_finished_pkt": "2026-11-07T18:50:51+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "NEPRA on Saturday notified a Rs2.36 per unit increase in electricity prices under the fuel charge adjustment for September 2026, applicable to all consumer categories of K-Electric and the DISCOs, with pre-paid consumers and EV charging stations exempt, Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639122/nepra-notifies-rs236-per-unit-hike-in-electricity-price",
+    "published_at": "2026-11-07T15:01:06+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-nepra-fca-rs236-hike",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-nepra-fca-rs236-hike.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419955315,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-940254229329591399",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419955338,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7267629746418435136",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419955346,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7873166088955541012",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Slow Living - stereogully (1329928372147056, audioType music)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. All windows 2026-11-05T18:48..2026-11-08T06:48 read OK; no post at 19:00; today 4 news feed posts (10,14,16,18), 4 TikTok; no electricity/FCA story in 48h.",
+  "previous_slot_check": "18:00 feed FB+TikTok PUBLISHED, Reel PUBLISHED (DfcPwsHE5HV), 18:05 Story FB+IG PUBLISHED.",
+  "news_search": "Searched Dawn, Arab News, Express Tribune. Nothing suitable within 2h/3h; picked NEPRA Rs2.36/unit FCA notification (Tribune 15:01 PKT, within 4h). Others seen: Peshawar-Lahore flight from 9 Nov (Tribune 13:15, older), Lahore smog, LPG priorities, Sudan visa deal (already attempted 12:00), astronaut (posted 18:00).",
+  "verification": "Tribune article read in full: meta published 2026-11-07T10:01:06Z (15:01:06 PKT), Web Desk; Rs2.36/unit FCA for September 2026, all KE and XWDISCO consumer categories, shown separately in bills; pre-paid consumers and EV charging stations exempt. Ambiguous 'lifetime consumers' exemption left out of post.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt: man (face out of frame) holding a paper bill by a wall meter in a home corridor; no readable text/logos.",
+  "publish": "Card and zoom MP4 (8 s, 1080x1920) checked; pipeline skipped TikTok by daily pacing (5 allowed by 19:00). Feed (FB), Reel, Story created PENDING; Reel audio resolved as music with displayArtist (no fix needed). Trending-audio search returned only generic listicles, so a verified-list calm id was used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Peshawar-Lahore direct flight from 9 Nov (K-P governor)",
+   "reason": "older (13:15 PKT) than the NEPRA story; airline not named"
+  }
+ ],
+ "errors": []
+}
