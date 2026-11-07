@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-07-auto-policy-6bn-exports",
+ "type": "news",
+ "headline": "Pakistan on Saturday announced a proposed automotive policy targeting $6 billion in cumulative vehicle exports over five years, with a proposed 1% sales tax on fully electric vehicles, subject to federal cabinet approval, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-eyes-6-billion-auto-exports-over-five-years-in-proposed-policy-overhaul-3006383",
+   "published_at": "2026-11-07T19:15:53+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/bd70983e-c4fd-4fea-b18b-9e71c34066de/6c9fb6c0-2f2e-43c9-b53d-6d7b65c5c49e/Realistic_photo_of_a_Pakistani_car_assembly_plant__rows_of_n.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzNmZmU0NjI5YzQ1NzM0MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDE3MjM4Nn0.99jluHM2Fzh1TPqX8Gp0HoE3pVzagbJPXZuGwusOwSc",
+  "head1": "Nayi auto policy",
+  "head2_hl": "$6 billion",
+  "head2": "exports",
+  "kicker": "5 saal ka hadaf",
+  "desc": "Tajweez: electric gariyon par sirf 1% sales tax",
+  "source": "Arab News",
+  "date": "07 NOV 2026"
+ },
+ "caption": "Nayi auto policy: 5 saal mein $6 billion ki exports ka hadaf!\nArab News ke mutabiq PM ke adviser Haroon Akhtar Khan ne Saturday ko mujawwaza auto policy pesh ki, jis mein 5 saal mein $6 billion ki gariyon ki exports ka hadaf hai, jabke pichle maali saal taqreeban $200 million ki exports hui thin. Fully electric gariyon par sirf 1% sales tax ki tajweez hai, aur policy ko abhi federal cabinet ki manzoori chahiye.\nKya nayi policy se gariyan sasti hongi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #AutoPolicy #ElectricVehicles #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Nayi auto policy: 5 saal mein $6 billion exports ka hadaf, EVs par 1% sales tax",
+ "publish": {
+  "slot": "2026-11-07T20:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "810120545333296",
+  "label": "Iced Latte - Global Genius"
+ },
+ "ai_generated": true
+}
