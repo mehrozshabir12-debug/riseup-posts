@@ -1,1 +1,70 @@
-{"slot": "2026-11-07T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T13:45:57+05:00"}
+{
+ "slot": "2026-11-07T14:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T13:45:57+05:00",
+ "run_finished_pkt": "2026-11-07T13:49:40+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan's National Emergency Operations Center said on Saturday that over 23.4 million children were vaccinated in the first five days of the sub-national anti-polio campaign that began Monday in 97 districts, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-over-234-million-children-vaccinated-in-five-days-of-anti-polio-campaign-3006368",
+    "published_at": "2026-11-07T13:38:02+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-polio-campaign-23-4-million",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-polio-campaign-23-4-million.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok - street scene, anonymous health worker and woman, no text - task 3a2c843c-3abf-4d84-9b1f-7d4bc75ee026"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419780037,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9160666486082878698",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419780047,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1674912379208512950",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419780054,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8007426779977763427",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (757785052896581, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings OK (FB, IG, TikTok connected, Asia/Karachi). getScheduledPosts 13:00-15:00 and 05 Nov 13:45 .. 08 Nov 01:45 in 6h windows all succeeded; 14:00 slot free. RiseUp day 07 Nov before this post: 1 news post, 1 TikTok.",
+  "previous_slot_check": "No 13:00 or 12:00 post exists. Last post 10:00: feed 419669043 FB+TikTok PUBLISHED, Reel 419669063 PUBLISHED, Story 419669073 PUBLISHED. No retries needed.",
+  "news_search": "Chosen: Arab News polio campaign update (13:38 PKT today, NEOC statement Saturday) in 2h window. Earlier 24 Oct post about the same campaign's announcement is outside 48h and this is a new development (results). Others: Geo NEPRA Rs2.37 November tariff (page fetch failed, timestamp unverifiable); Pakistan-Sudan meeting already attempted at 12:00 (v1 card not published).",
+  "verification": "Single approved outlet Arab News; article read, article:published_time 2026-11-07T08:38:02Z = 13:38 PKT; figures 23.4 million, 5 days, 97 districts, 24 million target, 9 cases checked against article.",
+  "image": "1 Runway image (nano-banana-2-lite, 4:3), clean.",
+  "publish": "results awaiting_publish; feed card and zoom MP4 (8 s) checked; feed, Reel and Story created from payloads, all PENDING; Reel audio verified music with displayArtist."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "NEPRA hikes electricity tariff by Rs2.37 for November bills (Geo)",
+   "reason": "article fetch failed; exact timestamp not established"
+  }
+ ],
+ "errors": [
+  "web fetch geo.tv/latest/690132: client_error (not retrieved)"
+ ]
+}

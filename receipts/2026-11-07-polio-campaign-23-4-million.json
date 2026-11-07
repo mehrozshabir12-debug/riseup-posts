@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-07-polio-campaign-23-4-million",
+ "scheduled": "2026-11-07T14:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 419780037,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 419780047,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 419780054,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
