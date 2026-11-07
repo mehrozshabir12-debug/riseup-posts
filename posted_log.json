@@ -7340,5 +7340,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T12:00:00+05:00",
+  "request_id": "2026-11-07-pakistan-sudan-interior-cooperation",
+  "layout": "bold",
+  "headline": "Pakistan's Interior Minister Mohsin Naqvi and Sudan's Interior Minister Lt. Gen. Babeker Samra Mustafa Ali agreed in Islamabad on Saturday to enhance cooperation in security, cybercrime, police training and NADRA, and to sign an MoU on cybercrime cooperation, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-sudan-agree-to-enhance-cooperation-in-security-cybercrime-and-police-training-3006358",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-sudan-agree-to-enhance-cooperation-in-security-cybercrime-and-police-training-3006358",
+    "published_at": "2026-11-07T10:16:46+05:00"
+   }
+  ],
+  "published": "2026-11-07T10:16:46+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 596136729,
+  "image": "posts/2026-11-07-pakistan-sudan-interior-cooperation.jpg",
+  "story": "posts/2026-11-07-pakistan-sudan-interior-cooperation-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 12:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-pakistan-sudan-interior-cooperation.mp4"
  }
 ]
