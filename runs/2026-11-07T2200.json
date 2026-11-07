@@ -1,1 +1,80 @@
-{"slot": "2026-11-07T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T21:46:24+05:00"}
+{
+ "slot": "2026-11-07T22:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T21:46:24+05:00",
+ "run_finished_pkt": "2026-11-07T21:52:10+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "The Lahore High Court has directed two private medical and dental colleges, University Medical and Dental College Faisalabad and FMH College of Medicine and Dentistry Lahore, to adjust or refund students' excess tuition fees in line with PM&DC fee limits, the Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639143/win-for-students-lhc-directs-two-private-medical-colleges-to-adjust-refund-excess-fees-by-nov-29",
+    "published_at": "2026-11-07T18:59:07+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-lhc-medical-colleges-fee-refund",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-lhc-medical-colleges-fee-refund.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420089430,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3614302621445241476",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420089452,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8252165925405637204",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420089464,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7883794512874654687",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Glow (prod. by Jayme Stone) (Instrumental) - KNOTTS (336015428971390, audioType music)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Windows 2026-11-05T21:00..2026-11-08T10:00 all read OK; no post at 22:00; today 7 news feed posts before this (10,14,16,18,19,20,21), 5 TikTok; no LHC medical fee story in 48h.",
+  "previous_slot_check": "21:00 feed FB PUBLISHED (122189478494855502), Reel PUBLISHED (Dfckm0FlGXP), 21:05 Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched Arab News, Dawn latest, Tribune, Geo, Brecorder, APP. Nothing found within 2h/3h windows. LHC medical fee refund (Tribune 18:59 PKT) = newest qualifying, 4h window.",
+  "verification": "Tribune article read: meta article:published_time 2026-11-07T13:59:07+00:00 (18:59 PKT). Facts used: Justice Khalid Ishaq judgment; UMDC Faisalabad Rs841,317 and FMH Lahore Rs741,802 refund per student; PM&DC fee limits. Avoided headline's Nov 29 date (body says 30 working days from Oct 30).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task adfa19ad-5705-4f75-90b2-68b236f7157a; no text/logos, anonymous AI people.",
+  "publish": "Card and 8s 1080x1920 zoom MP4 checked. Feed FB+TikTok, IG Reel (music Glow - KNOTTS, audioType music, displayArtist KNOTTS; numeric id from verified list, trending search skipped for time), Story FB+IG 22:05 all PENDING, confirmed by getScheduledPosts 21:55-22:10."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Govt to auction 90% of indigenous LPG production (Brecorder 11:51 / Arab News 18:14)",
+   "reason": "first report 11:51 PKT, older than 8h before T"
+  },
+  {
+   "headline": "Peshawar-Lahore direct flight from Nov 9 (Tribune 13:15 PKT)",
+   "reason": "older than 8h before T"
+  },
+  {
+   "headline": "Karachi Traffic Police e-challans via mobile app (Geo)",
+   "reason": "old article id 645425, stale page, not today"
+  },
+  {
+   "headline": "Supreme Court on lawyers' vigilance (Dawn 16:48)",
+   "reason": "less important for ordinary people than the fee refund story"
+  }
+ ],
+ "errors": []
+}
