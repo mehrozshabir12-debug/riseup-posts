@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-07-polio-campaign-23-4-million",
+ "revision": 1,
+ "request": "requests/2026-11-07-polio-campaign-23-4-million.json",
+ "type": "news",
+ "headline": "Pakistan's National Emergency Operations Center said on Saturday that over 23.4 million children were vaccinated in the first five days of the sub-national anti-polio campaign that began Monday in 97 districts, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-07T14:00:00+05:00",
+ "target_slot": "2026-11-07T14:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-polio-campaign-23-4-million.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-polio-campaign-23-4-million-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-polio-campaign-23-4-million.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-07-polio-campaign-23-4-million.jpg",
+  "story": "posts/2026-11-07-polio-campaign-23-4-million-story.jpg",
+  "reel": "posts/2026-11-07-polio-campaign-23-4-million.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 597192010,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Polio muhim ke 5 din mein 23.4 million se zyada bachon ko qatre pilaye gaye!\nArab News ke mutabiq NEOC ne Saturday ko bataya ke Monday se shuru hone wali polio muhim ke pehle 5 din mein 23.4 million se zyada bachon ki vaccination hui. 97 districts mein 24 million bachon ka hadaf hai, aur is saal ab tak 9 polio cases report hue hain.\nKya aap ke bachon ko polio ke qatre pilaye gaye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #EndPolio #PolioCampaign #PakistanHealth #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-polio-campaign-23-4-million.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Polio muhim ke 5 din mein 23.4 million se zyada bachon ki vaccination: NEOC",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Polio muhim ke 5 din mein 23.4 million se zyada bachon ko qatre pilaye gaye!\nArab News ke mutabiq NEOC ne Saturday ko bataya ke Monday se shuru hone wali polio muhim ke pehle 5 din mein 23.4 million se zyada bachon ki vaccination hui. 97 districts mein 24 million bachon ka hadaf hai, aur is saal ab tak 9 polio cases report hue hain.\nKya aap ke bachon ko polio ke qatre pilaye gaye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #EndPolio #PolioCampaign #PakistanHealth #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-polio-campaign-23-4-million.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-polio-campaign-23-4-million-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "757785052896581",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-07T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-polio-campaign-23-4-million-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-07T13:48:17+05:00"
+}

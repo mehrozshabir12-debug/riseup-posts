@@ -7370,5 +7370,35 @@
   "publish_status": "awaiting_publish",
   "metricool_ids": {},
   "video": "posts/2026-11-07-pakistan-sudan-interior-cooperation.mp4"
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T14:00:00+05:00",
+  "request_id": "2026-11-07-polio-campaign-23-4-million",
+  "layout": "bold",
+  "headline": "Pakistan's National Emergency Operations Center said on Saturday that over 23.4 million children were vaccinated in the first five days of the sub-national anti-polio campaign that began Monday in 97 districts, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-says-over-234-million-children-vaccinated-in-five-days-of-anti-polio-campaign-3006368",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-over-234-million-children-vaccinated-in-five-days-of-anti-polio-campaign-3006368",
+    "published_at": "2026-11-07T13:38:02+05:00"
+   }
+  ],
+  "published": "2026-11-07T13:38:02+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 597192010,
+  "image": "posts/2026-11-07-polio-campaign-23-4-million.jpg",
+  "story": "posts/2026-11-07-polio-campaign-23-4-million-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 14:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-polio-campaign-23-4-million.mp4"
  }
 ]
