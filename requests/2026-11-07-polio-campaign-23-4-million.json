@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-07-polio-campaign-23-4-million",
+ "type": "news",
+ "headline": "Pakistan's National Emergency Operations Center said on Saturday that over 23.4 million children were vaccinated in the first five days of the sub-national anti-polio campaign that began Monday in 97 districts, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-says-over-234-million-children-vaccinated-in-five-days-of-anti-polio-campaign-3006368",
+   "published_at": "2026-11-07T13:38:02+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/3a2c843c-3abf-4d84-9b1f-7d4bc75ee026/708a6aae-4749-4fb4-835f-47d864eacc81/Realistic_photo_of_a_narrow_residential_street_in_a_Pakistan.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZGZjNzNiMmY5MDc4NzViYSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDEzMjc4M30.bLI0GHeozKoyvnUaUPrWCnmunYoBCKmc_Rw-LFm9K_8",
+  "head1": "Polio muhim mein",
+  "head2_hl": "23.4 million",
+  "head2": "bachay",
+  "kicker": "Sirf 5 din mein vaccination",
+  "desc": "97 districts mein polio muhim jari, NEOC ne bataya",
+  "source": "Arab News",
+  "date": "07 NOV 2026"
+ },
+ "caption": "Polio muhim ke 5 din mein 23.4 million se zyada bachon ko qatre pilaye gaye!\nArab News ke mutabiq NEOC ne Saturday ko bataya ke Monday se shuru hone wali polio muhim ke pehle 5 din mein 23.4 million se zyada bachon ki vaccination hui. 97 districts mein 24 million bachon ka hadaf hai, aur is saal ab tak 9 polio cases report hue hain.\nKya aap ke bachon ko polio ke qatre pilaye gaye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #EndPolio #PolioCampaign #PakistanHealth #PakistanNews",
+ "tiktok_title": "Polio muhim ke 5 din mein 23.4 million se zyada bachon ki vaccination: NEOC",
+ "publish": {
+  "slot": "2026-11-07T14:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
