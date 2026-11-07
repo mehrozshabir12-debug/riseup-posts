@@ -7629,10 +7629,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-07 21:00 PKT",
+  "scheduled": "2026-11-07T20:52:08+05:00",
   "music": "Cafe Lovers - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-07-larkana-600-bed-hospital.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 420043393,
+   "reel": 420043410,
+   "story": 420043424
+  },
+  "video": "posts/2026-11-07-larkana-600-bed-hospital.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
