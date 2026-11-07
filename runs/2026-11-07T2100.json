@@ -1,1 +1,79 @@
-{"slot": "2026-11-07T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T20:46:03+05:00"}
+{
+ "slot": "2026-11-07T21:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T20:46:03+05:00",
+ "run_finished_pkt": "2026-11-07T20:52:08+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "PPP Chairman Bilawal Bhutto Zardari on Saturday laid the foundation stone of a new 600-bed hospital in Larkana that will provide modern medical facilities to Larkana and adjacent areas, APP reports.",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/domestic/chairman-ppp-bilawal-bhutto-zardari-lays-foundation-stone-of-600-bed-hospital-in-larkana/",
+    "published_at": "2026-11-07T19:40:01+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-larkana-600-bed-hospital",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-larkana-600-bed-hospital.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420043393,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5509377809079057033",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420043410,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6519218663990670733",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420043424,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5880562161119545194",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius (934661001819759, audioType music)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. All windows 2026-11-05T20:00..2026-11-08T09:00 read OK; no post at 21:00; today 6 news feed posts before this (10,14,16,18,19,20), 5 TikTok; no Larkana hospital story in 48h.",
+  "previous_slot_check": "20:00 feed FB PUBLISHED (122189474354855502) + TikTok PUBLISHED (7705447133968649490), Reel PUBLISHED (DfceHuLEpI5), 20:05 Story FB+IG PUBLISHED.",
+  "news_search": "Searched Arab News, Dawn, Tribune, Geo, Brecorder, The News, APP. Only story within 2h: APP Larkana 600-bed hospital (19:40 PKT). Older: Tharparkar drought declared (APP 17:54, 4h window), Mehrgarh museum (Tribune 17:12), Pakistan-Sudan visa-free (Dawn 11:58, upd 17:05), UN peacekeeping (Tribune 16:39).",
+  "verification": "APP article read: meta article:published_time 2026-11-07T19:40:01+05:00; facts (Bilawal Bhutto Zardari, PPP chairman, 600-bed, Larkana, Saturday, modern facilities under one roof) from it. Neutral, no cost/date claims.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task b6c58460-1777-4a7c-bd73-e58d3aa9c6ae; no text/faces.",
+  "publish": "Card and 8s zoom MP4 checked. Pipeline skipped TikTok (6 by 21:00 pacing). Feed FB, IG Reel (music Cafe Lovers, audioType music, displayArtist Global Genius), Story FB+IG all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Sindh declares Tharparkar drought-affected (APP 17:54)",
+   "reason": "outside 2h window; newer qualifying story existed"
+  },
+  {
+   "headline": "Mehrgarh Museum project completed (Tribune 17:12)",
+   "reason": "outside 2h window"
+  },
+  {
+   "headline": "Pakistan-Sudan visa-free agreement (Dawn)",
+   "reason": "older than 2h; Sudan visit already candidate earlier"
+  },
+  {
+   "headline": "Bannu IBO four militants killed (Geo)",
+   "reason": "violence; security sources"
+  }
+ ],
+ "errors": []
+}
