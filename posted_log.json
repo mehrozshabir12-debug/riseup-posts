@@ -7511,5 +7511,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T19:00:00+05:00",
+  "request_id": "2026-11-07-nepra-fca-rs236-hike",
+  "layout": "bold",
+  "headline": "NEPRA on Saturday notified a Rs2.36 per unit increase in electricity prices under the fuel charge adjustment for September 2026, applicable to all consumer categories of K-Electric and the DISCOs, with pre-paid consumers and EV charging stations exempt, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2639122/nepra-notifies-rs236-per-unit-hike-in-electricity-price",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639122/nepra-notifies-rs236-per-unit-hike-in-electricity-price",
+    "published_at": "2026-11-07T15:01:06+05:00"
+   }
+  ],
+  "published": "2026-11-07T15:01:06+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 977645608,
+  "image": "posts/2026-11-07-nepra-fca-rs236-hike.jpg",
+  "story": "posts/2026-11-07-nepra-fca-rs236-hike-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 19:00 PKT",
+  "music": "Slow Living - stereogully",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-nepra-fca-rs236-hike.mp4"
  }
 ]
