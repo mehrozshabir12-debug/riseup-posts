@@ -1,1 +1,67 @@
-{"slot": "2026-11-07T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T22:45:53+05:00"}
+{
+ "slot": "2026-11-07T23:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T22:45:53+05:00",
+ "run_finished_pkt": "2026-11-07T22:49:29+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The US embassy said on Saturday that the Mehrgarh Museum in Quetta will reopen later this month after a US-funded preservation project, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-mehrgarh-museum-to-reopen-this-month-after-us-preservation-project-3006395",
+    "published_at": "2026-11-07T22:21:25+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-mehrgarh-museum-reopen",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-mehrgarh-museum-reopen.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420129668,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7893848947174257691",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420129690,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1894846884679273274",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420129706,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8237879130213626125",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Out In The Wild - bldgs (2479868452044482, audioType music)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Windows 2026-11-05T22:00..2026-11-08T11:00 all read OK; no post at 23:00; today 8 news feed posts before this (10,14,16,18,19,20,21,22); no Mehrgarh story in 48h.",
+  "previous_slot_check": "22:00 feed FB PUBLISHED (122189483516855502) + TikTok PUBLISHED (7705477168897281298), Reel PUBLISHED (Dfcr4xqk3oG), 22:05 Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched Dawn, Arab News, Tribune, Geo, APP, Brecorder. Mehrgarh museum reopen (Arab News 22:21 PKT) newest qualifying, 2h window. Also considered Dawn PIC/NA committees disclosure (21:14 PKT) - older.",
+  "verification": "Arab News article read: article:published_time 2026-11-07T17:21:25Z (22:21 PKT). Facts used: US embassy said Saturday museum in Quetta reopens later this month, no date given; US Ambassadors Fund for Cultural Preservation; Neolithic artifacts preserved, displays upgraded, local professionals trained; 8,000-year-old Mehrgarh civilization (Baker quote).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 1cf4d4e5-861a-48ab-a244-74529ad5fb0b; museum interior, no text/logos, anonymous people from behind.",
+  "publish": "Card and 8s 1080x1920 zoom MP4 checked. Pipeline skipped TikTok (allowed-by-slot pacing: 7 by 23:00). Feed FB, IG Reel (music Out In The Wild - bldgs, audioType music, displayArtist bldgs; verified-list numeric id, trending search skipped for time), Story FB+IG 23:05 all PENDING, confirmed by getScheduledPosts 22:55-23:10."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan Information Commission seeks disclosure of NA committee expenses (Dawn 21:14 PKT)",
+   "reason": "valid but older than Mehrgarh story"
+  }
+ ],
+ "errors": []
+}
