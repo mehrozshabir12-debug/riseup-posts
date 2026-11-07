@@ -7318,10 +7318,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-07 10:00 PKT",
+  "scheduled": "2026-11-07T10:00:00+05:00",
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-07-petrol-diesel-cut-nov7.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 419669043,
+   "reel": 419669063,
+   "story": 419669073
+  },
+  "video": "posts/2026-11-07-petrol-diesel-cut-nov7.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
