@@ -1,1 +1,55 @@
-{"slot": "2026-11-07T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T11:46:26+05:00"}
+{
+ "slot": "2026-11-07T12:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T11:46:26+05:00",
+ "run_finished_pkt": "2026-11-07T11:52:27+05:00",
+ "test_mode": false,
+ "outcome": "error_rejected",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan's Interior Minister Mohsin Naqvi and Sudan's Interior Minister Lt. Gen. Babeker Samra Mustafa Ali agreed in Islamabad on Saturday to enhance cooperation in security, cybercrime, police training and NADRA, and to sign an MoU on cybercrime cooperation, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-sudan-agree-to-enhance-cooperation-in-security-cybercrime-and-police-training-3006358",
+    "published_at": "2026-11-07T10:16:46+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-pakistan-sudan-interior-cooperation-v2",
+ "card_url": "",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "rejected at card check: seated figure on the right strongly resembles a real public figure (Imran Khan) - task b6b49a2e-2bb0-4c77-89f1-fc2e44515dee"
+  },
+  {
+   "attempt": 2,
+   "result": "ok - empty conference room, no people/text - task 0e5739cb-3227-4344-af1c-c322f68cf849"
+  }
+ ],
+ "metricool": {},
+ "music": "none (nothing posted; planned Sunday In October - Trout Recording, 757785052896581)",
+ "stages": {
+  "metricool_read": "getScheduledPosts 07 Nov 11:00-13:00 and 05 Nov 11:45 .. 07 Nov 23:45 in 6h windows all succeeded; 12:00 slot free; RiseUp day 07 Nov: 1 news post, 1 TikTok so far.",
+  "previous_slot_check": "No 11:00 post exists. Last slot 07 Nov 10:00: feed 419669043 FB PUBLISHED (https://facebook.com/122185478282855502/posts/122189425136855502), TikTok PUBLISHED; Reel 419669063 IG PUBLISHED (https://www.instagram.com/reel/DfbYje6AOAh/); Story 419669073 FB+IG PUBLISHED.",
+  "news_search": "Chosen: Arab News Pakistan-Sudan interior ministers meeting (10:16 PKT, meeting held Saturday) in 2h window. Others checked: Arab News Expo 2030 Riyadh contract (09:55 PKT but signing reported Thursday - not fresh); Dawn stubble burning 593 hotspots (first published 05:05 PKT, EPA statement Friday).",
+  "verification": "Single approved outlet Arab News; article read live, article:published_time 2026-11-07T05:16:46Z (10:16 PKT); names, MoU on cybercrime, cooperation areas checked against article.",
+  "image": "Attempt 1 rendered into card v1 (results/2026-11-07-pakistan-sudan-interior-cooperation.json, status awaiting_publish) but card check found a seated figure resembling Imran Khan -> NOT published. Attempt 2 (allowed single retry) clean.",
+  "publish": "Not published. v2 request rejected by pipeline: 'slot 12:00 PKT already has a story' (v1 request occupies the slot in the pipeline log). v1 card must NOT be posted."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan signs participation contract for Expo 2030 Riyadh (Arab News 09:55)",
+   "reason": "signing happened earlier in the week (Expo tweet 5 Nov) - not fresh"
+  },
+  {
+   "headline": "Stubble burning: 593 fire hotspots in eight Punjab districts (Dawn)",
+   "reason": "first published 05:05 PKT on a Friday EPA statement; lower priority than a same-day story"
+  }
+ ],
+ "errors": [
+  "card check: v1 photo shows a figure resembling a real public figure (Imran Khan) - not published",
+  "results/2026-11-07-pakistan-sudan-interior-cooperation-v2.json: rejected - slot 12:00 PKT already has a story: Pakistan's Interior Minister Mohsin Naqvi and Sudan's Interior Minister Lt. Gen."
+ ]
+}
