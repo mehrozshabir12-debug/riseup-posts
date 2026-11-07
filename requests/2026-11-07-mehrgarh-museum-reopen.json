@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-07-mehrgarh-museum-reopen",
+ "type": "news",
+ "headline": "The US embassy said on Saturday that the Mehrgarh Museum in Quetta will reopen later this month after a US-funded preservation project, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistans-mehrgarh-museum-to-reopen-this-month-after-us-preservation-project-3006395",
+   "published_at": "2026-11-07T22:21:25+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/1cf4d4e5-861a-48ab-a244-74529ad5fb0b/a0c2b1ca-b721-42f7-8adb-110d936a6daa/Realistic_photo_inside_a_small_archaeology_museum_gallery_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTU1M2Y0N2IzODdlMDZiZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDIzNTI1OX0.2EsaWrYvsWA1xvdWsUD8dzZ9kRI8TqszNAoa8678qdQ",
+  "head1": "Mehrgarh Museum",
+  "head2_hl": "jald khulega",
+  "head2": "",
+  "kicker": "8,000 saal purani tehzeeb",
+  "desc": "US Embassy: Quetta ka museum isi mahine dobara khulega",
+  "source": "Arab News",
+  "date": "07 NOV 2026"
+ },
+ "caption": "8,000 saal purani Mehrgarh tehzeeb ka museum dobara khulega!\nArab News ke mutabiq US Embassy ne Saturday ko bataya ke Quetta ka Mehrgarh Museum US ke funded preservation project ke baad isi mahine dobara khulega, magar tareekh abhi nahi batayi gayi. Project mein Neolithic nawadraat ki hifazat, displays ki behtari aur maqami mahireen ki training shamil thi.\nKya aap ne kabhi Mehrgarh ke baare mein suna hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Mehrgarh #Balochistan #PakistanHeritage #PakistanNews",
+ "tiktok_title": "Quetta ka Mehrgarh Museum isi mahine dobara khulega: US Embassy",
+ "publish": {
+  "slot": "2026-11-07T23:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2479868452044482",
+  "label": "Out In The Wild - bldgs"
+ },
+ "ai_generated": true
+}
