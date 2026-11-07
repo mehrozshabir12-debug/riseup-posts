@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-07-nepra-fca-rs236-hike",
+ "type": "news",
+ "headline": "NEPRA on Saturday notified a Rs2.36 per unit increase in electricity prices under the fuel charge adjustment for September 2026, applicable to all consumer categories of K-Electric and the DISCOs, with pre-paid consumers and EV charging stations exempt, Express Tribune reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639122/nepra-notifies-rs236-per-unit-hike-in-electricity-price",
+   "published_at": "2026-11-07T15:01:06+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/7a410cda-c6d1-4241-9664-d69fcad6fcd6/c5acab6e-d41d-42fc-94ac-11dae3097023/Realistic_photo_of_an_ordinary_Pakistani_household_in_the_ev.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMGMwNWZmNzVjZGRhNjFjZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDE1ODA2OX0.98C_FxmP1VpJRzM8KWDshq8c8TSWN7zrXY4d8L6BUKk",
+  "head1": "Bijli mehngi",
+  "head2_hl": "Rs2.36",
+  "head2": "fi unit",
+  "kicker": "NEPRA ka notification jari",
+  "desc": "September fuel adjustment, bill mein alag dikhaya jayega",
+  "source": "Express Tribune",
+  "date": "07 NOV 2026"
+ },
+ "caption": "Bijli Rs2.36 fi unit mehngi!\nExpress Tribune ke mutabiq NEPRA ne Saturday ko September ki fuel charge adjustment ke tehat bijli Rs2.36 fi unit mehngi karne ka notification jari kar diya. Yeh K-Electric aur DISCOs ke tamam consumers par lagu hoga aur bill mein alag dikhaya jayega, jabke pre-paid consumers aur EV charging stations ko chhoot hai.\nKya bijli ka bill aap ke budget par bhaari hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #BijliKaBill #NEPRA #ElectricityPrices #PakistanNews",
+ "tiktok_title": "NEPRA ne bijli Rs2.36 fi unit mehngi kar di, September fuel adjustment",
+ "publish": {
+  "slot": "2026-11-07T19:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1329928372147056",
+  "label": "Slow Living - stereogully"
+ },
+ "ai_generated": true
+}
