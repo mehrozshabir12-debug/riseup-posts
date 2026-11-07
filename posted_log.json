@@ -7293,5 +7293,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T10:00:00+05:00",
+  "request_id": "2026-11-07-petrol-diesel-cut-nov7",
+  "layout": "bold",
+  "headline": "Pakistan cut petrol by Rs6.59 to Rs346 per litre and high-speed diesel by Rs4.25 to Rs378 per litre, applicable from Nov 7 to 10, its fifth consecutive fuel price cut, Arab News reports citing Radio Pakistan.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-slashes-fuel-prices-again-despite-fears-of-us-iran-war-escalating-3006355",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-slashes-fuel-prices-again-despite-fears-of-us-iran-war-escalating-3006355",
+    "published_at": "2026-11-07T09:31:43+05:00"
+   }
+  ],
+  "published": "2026-11-07T09:31:43+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 222598394,
+  "image": "posts/2026-11-07-petrol-diesel-cut-nov7.jpg",
+  "story": "posts/2026-11-07-petrol-diesel-cut-nov7-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 10:00 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-petrol-diesel-cut-nov7.mp4"
  }
 ]
