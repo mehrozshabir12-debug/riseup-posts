@@ -1,1 +1,75 @@
-{"slot": "2026-11-07T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T15:46:01+05:00"}
+{
+ "slot": "2026-11-07T16:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T15:46:01+05:00",
+ "run_finished_pkt": "2026-11-07T15:50:12+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The PCB on Saturday added Aamir Jamal and three uncapped players, Mohammad Tayyab Arif, Ali Shabbir and Saqib Khan, to Pakistan's 16-member Test squad for the two-match series against Sri Lanka, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2042821/pcb-add-aamir-jamal-three-uncapped-players-to-pakistan-squad-for-sri-lanka-tests",
+    "published_at": "2026-11-07T14:46:37+05:00",
+    "updated_at": "2026-11-07T15:41:03+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-07-pcb-test-squad-sri-lanka-additions",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-pcb-test-squad-sri-lanka-additions.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "7bef10d9-b50e-480a-b72d-cb9b2bb6abf6",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419842741,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1114130704205263937",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419842751,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=472639508671318612",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419842766,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2350424326695439294",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Upside Down - Mike Block (581639516835198, audioType music)",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; 11 windows read OK (T-1h..T+1h and 2026-11-05T15:45..2026-11-08T03:45); slot 16:00 free; RiseUp day 2026-11-07 before this post: 2 news feed posts, 2 TikTok",
+  "previous_slot_check": "no post at 15:00 slot (15:00 run did not schedule); latest earlier slot 14:00 feed/reel/story all PUBLISHED",
+  "news_search": "Dawn PCB Test squad story first published 14:46 PKT (within 2h of T), not posted in last 48h",
+  "verification": "Single approved outlet (Dawn) read in full; timestamps from article meta; names, numbers, venues, dates checked",
+  "image": "1 Runway image, no text/logos/identifiable people",
+  "publish": "feed, Reel and Story created; Reel audio confirmed audioType music, displayArtist Mike Block; all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Thick smog envelopes Lahore (Arab News/Reuters, 13:33 PKT)",
+   "reason": "article text says Thursday; date ambiguity, lower priority than fresher story"
+  },
+  {
+   "headline": "Pakistan aims to raise $723 million from privatization by June 2027 (Arab News, 13:46 PKT)",
+   "reason": "less fresh; fresher cricket story chosen"
+  }
+ ],
+ "errors": []
+}

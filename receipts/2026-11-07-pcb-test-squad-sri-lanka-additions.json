@@ -1,0 +1,31 @@
+{
+ "id": "2026-11-07-pcb-test-squad-sri-lanka-additions",
+ "scheduled": "2026-11-07T16:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 419842741,
+   "uuid": "-1114130704205263937",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 419842751,
+   "uuid": "472639508671318612",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": "Upside Down - Mike Block (581639516835198, audioType music)"
+  },
+  "story": {
+   "metricool_id": 419842766,
+   "uuid": "2350424326695439294",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publicationDate": "2026-11-07T16:05:00+05:00"
+  }
+ }
+}
