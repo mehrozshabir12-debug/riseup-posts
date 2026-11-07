@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-07-pakistan-sudan-interior-cooperation-v2",
+ "revision": 1,
+ "request": "requests/2026-11-07-pakistan-sudan-interior-cooperation-v2.json",
+ "status": "rejected",
+ "errors": [
+  "slot 12:00 PKT already has a story: Pakistan's Interior Minister Mohsin Naqvi and Sudan's Interior Minister Lt. Gen."
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-07T11:51:30+05:00"
+}
