@@ -7582,10 +7582,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-07 20:00 PKT",
+  "scheduled": "2026-11-07T20:00:00+05:00",
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-07-auto-policy-6bn-exports.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 419999149,
+   "reel": 419999178,
+   "story": 419999196
+  },
+  "video": "posts/2026-11-07-auto-policy-6bn-exports.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
