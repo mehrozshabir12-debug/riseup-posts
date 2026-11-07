@@ -1,1 +1,70 @@
-{"slot": "2026-11-07T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-07T19:46:38+05:00"}
+{
+ "slot": "2026-11-07T20:00:00+05:00",
+ "riseup_day": "2026-11-07",
+ "run_started_pkt": "2026-11-07T19:46:38+05:00",
+ "run_finished_pkt": "2026-11-07T19:52:05+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan on Saturday announced a proposed automotive policy targeting $6 billion in cumulative vehicle exports over five years, with a proposed 1% sales tax on fully electric vehicles, subject to federal cabinet approval, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-eyes-6-billion-auto-exports-over-five-years-in-proposed-policy-overhaul-3006383",
+    "published_at": "2026-11-07T19:15:53+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-07-auto-policy-6bn-exports",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-07-auto-policy-6bn-exports.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (tiny 'EV' badge on one car, not a sign/logo; accepted)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 419999149,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5404614800370547798",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 419999178,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=22295199529387543",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 419999196,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3256202938671150556",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius (810120545333296, audioType music)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. All windows 2026-11-05T19:00..2026-11-08T08:00 read OK; no post at 20:00; today 5 news feed posts before this (10,14,16,18,19), 4 TikTok; no auto-policy story in 48h.",
+  "previous_slot_check": "19:00 feed FB PUBLISHED (122189468774855502), Reel PUBLISHED (DfcWuG_jz6V), 19:05 Story FB+IG PUBLISHED.",
+  "news_search": "Searched approved outlets (Dawn latest-news, Arab News, Geo). Arab News auto policy story 19:15 PKT (within 2h). Others: LPG auction (Arab News 18:14, LPG priorities already seen at 19:00 run), Dawn items older/duplicates (astronaut, Test squad, Sudan visa).",
+  "verification": "Arab News article read: meta published_time 2026-11-07T14:15:53Z = 19:15:53 PKT; facts ($6bn over 5 yrs, ~$200m last FY, 1% sales tax on fully electric, cabinet approval pending, Haroon Akhtar Khan) taken from it. First report of today's press conference; no earlier same-day report found.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task bd70983e-c4fd-4fea-b18b-9e71c34066de.",
+  "publish": "Card and 8s zoom MP4 checked. Feed FB+TikTok, IG Reel (music Iced Latte, audioType music, displayArtist Global Genius), Story FB+IG all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan moves to overhaul LPG sales ahead of winter (Arab News 18:14)",
+   "reason": "less important; LPG priorities topic seen in prior run; auto policy newer"
+  }
+ ],
+ "errors": [
+  "Geo article fetch failed: client_error (geo.tv/latest/690160)"
+ ]
+}
