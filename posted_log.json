@@ -7395,10 +7395,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-07 14:00 PKT",
+  "scheduled": "2026-11-07T14:00:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-07-polio-campaign-23-4-million.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 419780037,
+   "reel": 419780047,
+   "story": 419780054
+  },
+  "video": "posts/2026-11-07-polio-campaign-23-4-million.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
