@@ -7697,5 +7697,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-07",
+  "slot": "2026-11-07T23:00:00+05:00",
+  "request_id": "2026-11-07-mehrgarh-museum-reopen",
+  "layout": "bold",
+  "headline": "The US embassy said on Saturday that the Mehrgarh Museum in Quetta will reopen later this month after a US-funded preservation project, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistans-mehrgarh-museum-to-reopen-this-month-after-us-preservation-project-3006395",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-mehrgarh-museum-to-reopen-this-month-after-us-preservation-project-3006395",
+    "published_at": "2026-11-07T22:21:25+05:00"
+   }
+  ],
+  "published": "2026-11-07T22:21:25+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 778812828,
+  "image": "posts/2026-11-07-mehrgarh-museum-reopen.jpg",
+  "story": "posts/2026-11-07-mehrgarh-museum-reopen-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-07 23:00 PKT",
+  "music": "Out In The Wild - bldgs",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-07-mehrgarh-museum-reopen.mp4"
  }
 ]
