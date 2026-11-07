@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-07-larkana-600-bed-hospital",
+ "type": "news",
+ "headline": "PPP Chairman Bilawal Bhutto Zardari on Saturday laid the foundation stone of a new 600-bed hospital in Larkana that will provide modern medical facilities to Larkana and adjacent areas, APP reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "APP",
+   "url": "https://www.app.com.pk/domestic/chairman-ppp-bilawal-bhutto-zardari-lays-foundation-stone-of-600-bed-hospital-in-larkana/",
+   "published_at": "2026-11-07T19:40:01+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b6c58460-1777-4a7c-bd73-e58d3aa9c6ae/a90c873c-b676-4a1c-bd6e-3aec4e089394/Realistic_photo_of_a_large_hospital_construction_site_in_a_s.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjVhNjdiMWM5MGYwZmYyMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDIyODUwOH0.AEWf87M72oRA6Yb_WNMYkeZbPK_furziCcDrwRAxkU4",
+  "head1": "Larkana mein naya",
+  "head2_hl": "600-bed",
+  "head2": "hospital",
+  "kicker": "Sang-e-bunyad rakh diya gaya",
+  "desc": "Jadeed tibbi sahooliyat ek hi chhat tale milengi",
+  "source": "APP",
+  "date": "07 NOV 2026"
+ },
+ "caption": "Larkana mein 600-bed ka naya hospital banega!\nAPP ke mutabiq PPP Chairman Bilawal Bhutto Zardari ne Saturday ko Larkana mein 600-bed hospital ka sang-e-bunyad rakha. Is hospital mein Larkana aur aas paas ke ilaqon ke logon ko specialised ilaj aur jadeed tibbi sahooliyat ek hi chhat tale milengi.\nAap ke ilaqe mein kis sahoolat ki sab se zyada zaroorat hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Larkana #Healthcare #Sindh #PakistanNews",
+ "tiktok_title": "Larkana mein 600-bed ke naye hospital ka sang-e-bunyad rakh diya gaya",
+ "publish": {
+  "slot": "2026-11-07T21:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "934661001819759",
+  "label": "Cafe Lovers - Global Genius"
+ },
+ "ai_generated": true
+}
