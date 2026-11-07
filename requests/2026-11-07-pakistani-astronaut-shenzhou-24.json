@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-07-pakistani-astronaut-shenzhou-24",
+ "type": "news",
+ "headline": "A Pakistani astronaut will travel to China's Tiangong space station aboard the Shenzhou-24 mission, becoming the first foreigner to visit it, China's manned space agency said on Saturday, Dawn reports citing AFP.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2042826/pakistani-astronaut-to-join-shenzhou-24-mission-to-chinas-space-station",
+   "published_at": "2026-11-07T16:13:19+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/7940ae42-1589-4426-8918-5889fd67d965/baea1d11-b800-4e1e-af82-6206106dcdea/Realistic_photo_of_a_white_crewed_space_rocket_standing_on_a.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjA2YmY0Njk2OTYwZmJjNSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDIwNTE2MX0.xF_1E4Ba3lEwayYKKdsYcQaSrHKWqUtj5NbyU3sokj4",
+  "head1": "Pakistani astronaut",
+  "head2_hl": "Tiangong",
+  "head2": "jayega",
+  "kicker": "Shenzhou-24 mission ka hissa",
+  "desc": "Station jane wala pehla ghair mulki hoga: China ki space agency",
+  "source": "Dawn",
+  "date": "07 NOV 2026"
+ },
+ "caption": "Pakistani astronaut China ke space station jayega!\nDawn ke mutabiq China ki manned space agency ne Saturday ko bataya ke ek Pakistani astronaut Shenzhou-24 mission par Tiangong space station jayega aur wahan jane wala pehla ghair mulki hoga. Rawangi ki tareekh nahi batayi gayi, magar mission saal ke aakhir tak mutawaqqe hai.\nKya aap bhi space mein jana chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Shenzhou24 #PakistanInSpace #PakistanChina #PakistanNews",
+ "tiktok_title": "Pakistani astronaut Shenzhou-24 par China ke Tiangong space station jayega",
+ "publish": {
+  "slot": "2026-11-07T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1274149560124013",
+  "label": "Heros Journey (Instrumental) - Abby Posner"
+ },
+ "ai_generated": true
+}
