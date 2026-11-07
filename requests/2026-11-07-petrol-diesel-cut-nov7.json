@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-07-petrol-diesel-cut-nov7",
+ "type": "news",
+ "headline": "Pakistan cut petrol by Rs6.59 to Rs346 per litre and high-speed diesel by Rs4.25 to Rs378 per litre, applicable from Nov 7 to 10, its fifth consecutive fuel price cut, Arab News reports citing Radio Pakistan.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-slashes-fuel-prices-again-despite-fears-of-us-iran-war-escalating-3006355",
+   "published_at": "2026-11-07T09:31:43+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/1e72dd6a-f3ec-4947-b625-c28f54e5941d/b8bc974d-934a-4cb0-aef8-8fd9f1942ddd/Realistic_photo_of_a_busy_petrol_station_forecourt_in_a_Paki.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjJiZWJhZGQzOTA0YWNiYyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDEzMTU0OX0.iZQlpFZzNBYGLQCQNGAASbCc-Gq4YVpHPtT1ENTXOaI",
+  "head1": "Petrol phir sasta",
+  "head2_hl": "Rs6.59 kami",
+  "head2": "",
+  "kicker": "Diesel bhi Rs4.25 sasta",
+  "desc": "Petrol Rs346, diesel Rs378 fi litre, 7 se 10 November tak",
+  "source": "Arab News",
+  "date": "07 NOV 2026"
+ },
+ "caption": "Petrol Rs6.59 aur diesel Rs4.25 fi litre sasta!\nArab News ke mutabiq Radio Pakistan ne bataya ke petrol ki nayi qeemat Rs346 aur high-speed diesel ki Rs378 fi litre ho gayi hai, jo 7 se 10 November tak lagu rahegi. Yeh fuel qeematon mein musalsal paanchvi kami hai.\nKya is kami ka asar aap ki jeb par parega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #FuelPrices #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Petrol Rs6.59 aur diesel Rs4.25 sasta, nayi qeemat Rs346 aur Rs378 fi litre",
+ "publish": {
+  "slot": "2026-11-07T10:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "1543577430102877", "label": "The Process - Jackson Whalan"},
+ "ai_generated": true
+}
