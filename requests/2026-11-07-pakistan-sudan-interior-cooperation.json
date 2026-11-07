@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-07-pakistan-sudan-interior-cooperation",
+ "type": "news",
+ "headline": "Pakistan's Interior Minister Mohsin Naqvi and Sudan's Interior Minister Lt. Gen. Babeker Samra Mustafa Ali agreed in Islamabad on Saturday to enhance cooperation in security, cybercrime, police training and NADRA, and to sign an MoU on cybercrime cooperation, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-sudan-agree-to-enhance-cooperation-in-security-cybercrime-and-police-training-3006358",
+   "published_at": "2026-11-07T10:16:46+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b6b49a2e-2bb0-4c77-89f1-fc2e44515dee/394d640b-3c5f-489f-b43d-efeb65b5f299/Realistic_photo_of_a_formal_government_meeting_room_in_Islam.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMTc1ZGZhZDk4NmM3MTg1ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDEzNDIzM30.wdZzIDKqfbyE0yFpkOYE7WHD1PsU330OFj1C-SHg-xc",
+  "head1": "Pakistan aur Sudan",
+  "head2_hl": "taawun barhega",
+  "head2": "",
+  "kicker": "Cybercrime par MoU hoga",
+  "desc": "Mohsin Naqvi aur Sudani wazir-e-dakhla ki Islamabad mein mulaqat",
+  "source": "Arab News",
+  "date": "07 NOV 2026"
+ },
+ "caption": "Pakistan aur Sudan security aur cybercrime mein taawun barhayenge!\nArab News ke mutabiq Interior Minister Mohsin Naqvi ne Saturday ko Islamabad mein Sudan ke Interior Minister Lt. Gen. Babeker Samra Mustafa Ali se mulaqat ki. Dono mulkon ne security, cybercrime, police training aur NADRA mein taawun barhane aur cybercrime par MoU sign karne ka faisla kiya.\nAap ke khayal mein is se dono mulkon ko kya faida hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanSudan #Cybercrime #MohsinNaqvi #PakistanNews",
+ "tiktok_title": "Pakistan aur Sudan security, cybercrime aur police training mein taawun barhayenge",
+ "publish": {
+  "slot": "2026-11-07T12:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "757785052896581", "label": "Sunday In October - Trout Recording"},
+ "ai_generated": true
+}
