@@ -1,1 +1,80 @@
-{"slot": "2026-11-08T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T19:46:44+05:00"}
+{
+ "slot": "2026-11-08T20:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T19:46:44+05:00",
+ "run_finished_pkt": "2026-11-08T19:52:18+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "PM Shehbaz Sharif met PML-N President Nawaz Sharif at Jati Umra, Lahore, on Sunday, discussing the political situation and briefing him on law and order in Khyber Pakhtunkhwa and economic reforms, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043062/pm-shehbaz-nawaz-discuss-matters-of-national-importance-as-sharifs-gather-at-lahores-jati-umra",
+    "published_at": "2026-11-08T18:45:01+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-08-shehbaz-nawaz-jati-umra-meeting",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (empty drawing room with tea set, no people/text/logos)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420800265,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3384646947014228245",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420800288,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-496883993622003044",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420800301,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1734836606246958376",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius (810120545333296, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings OK (FB/IG/TikTok connected, Asia/Karachi); windows 19-21 PKT and 6 Nov 19:00..9 Nov 08:00 all succeeded; no post at 20:00; RiseUp day before this run: 6 news feed posts, 5 TikTok",
+  "previous_slot_check": "19:00 feed 420757291 FB PUBLISHED, Reel 420757308 IG PUBLISHED (The Process, music), 19:05 Story 420757324 FB+IG PUBLISHED",
+  "news_search": "Dawn PM Shehbaz-Nawaz Jati Umra meeting (18:45 PKT, 2h window) chosen; new event, not covered in last 48h (18:00 KP security plan post is a different event).",
+  "verification": "Single approved outlet (Dawn), article fetched; article:published_time 2026-11-08 18:45:01+05:00 (modified 18:48:19); Jati Umra Lahore, Sunday, Nawaz Sharif PML-N President, Ishaq Dar and Maryam Nawaz present, KP law and order and economic reforms briefing checked (Dawn cites Radio Pakistan)",
+  "image": "Runway nano-banana-2-lite 4:3, 1 generation (4 credits)",
+  "publish": "feed FB+TikTok, reel IG, story FB+IG created, all PENDING; reel audio audioType music 'Iced Latte' by Global Genius on first try (verified list id; trending web search gave no confirmed music-type id)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Content creators bag awards at first Pakistan Influencer Awards (Arab News 19:01)",
+   "reason": "ceremony held Saturday 7 Nov; first-report time of event likely older than 8h"
+  },
+  {
+   "headline": "Pakistan, Sudan to expand security cooperation (Tribune)",
+   "reason": "published 05:35 PKT, older than 8h before slot"
+  },
+  {
+   "headline": "Khawaja Asif backs new provinces (Geo)",
+   "reason": "article could not be fetched to verify timestamp/facts"
+  },
+  {
+   "headline": "Hamza Zahoor century, Pakistan U-19 beat India (Dawn)",
+   "reason": "story about U-19 players (possible minors)"
+  }
+ ],
+ "errors": []
+}

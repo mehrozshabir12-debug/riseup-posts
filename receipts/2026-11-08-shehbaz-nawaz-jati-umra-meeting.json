@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-08-shehbaz-nawaz-jati-umra-meeting",
+ "scheduled": "2026-11-08T20:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 420800265,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 420800288,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 420800301,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
