@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-08-shehbaz-nawaz-jati-umra-meeting",
+ "revision": 1,
+ "request": "requests/2026-11-08-shehbaz-nawaz-jati-umra-meeting.json",
+ "type": "news",
+ "headline": "PM Shehbaz Sharif met PML-N President Nawaz Sharif at Jati Umra, Lahore, on Sunday, discussing the political situation and briefing him on law and order in Khyber Pakhtunkhwa and economic reforms, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-08T20:00:00+05:00",
+ "target_slot": "2026-11-08T20:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.jpg",
+  "story": "posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting-story.jpg",
+  "reel": "posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 721403938,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PM Shehbaz Sharif aur Nawaz Sharif ki Jati Umra mein mulaqat!\nDawn ke mutabiq PM Shehbaz Sharif ne Sunday ko Lahore ke Jati Umra mein PML-N President Nawaz Sharif se mulaqat ki, jis mein mulk ki siyasi soorat-e-haal aur qaumi ahmiyat ke maamlaat par tafseeli guftagu hui. PM ne Khyber Pakhtunkhwa mein aman-o-amaan aur maashi islahat par briefing di, jabke Deputy PM Ishaq Dar aur CM Punjab Maryam Nawaz bhi maujood thay.\nAap ke khayal mein mulk ka sab se ahem masla kya hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ShehbazSharif #NawazSharif #PMLN #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PM Shehbaz ki Jati Umra mein Nawaz Sharif se mulaqat, KP aur maeeshat par guftagu",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PM Shehbaz Sharif aur Nawaz Sharif ki Jati Umra mein mulaqat!\nDawn ke mutabiq PM Shehbaz Sharif ne Sunday ko Lahore ke Jati Umra mein PML-N President Nawaz Sharif se mulaqat ki, jis mein mulk ki siyasi soorat-e-haal aur qaumi ahmiyat ke maamlaat par tafseeli guftagu hui. PM ne Khyber Pakhtunkhwa mein aman-o-amaan aur maashi islahat par briefing di, jabke Deputy PM Ishaq Dar aur CM Punjab Maryam Nawaz bhi maujood thay.\nAap ke khayal mein mulk ka sab se ahem masla kya hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ShehbazSharif #NawazSharif #PMLN #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "810120545333296",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-08T19:50:44+05:00"
+}

@@ -8024,5 +8024,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T20:00:00+05:00",
+  "request_id": "2026-11-08-shehbaz-nawaz-jati-umra-meeting",
+  "layout": "bold",
+  "headline": "PM Shehbaz Sharif met PML-N President Nawaz Sharif at Jati Umra, Lahore, on Sunday, discussing the political situation and briefing him on law and order in Khyber Pakhtunkhwa and economic reforms, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043062/pm-shehbaz-nawaz-discuss-matters-of-national-importance-as-sharifs-gather-at-lahores-jati-umra",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043062/pm-shehbaz-nawaz-discuss-matters-of-national-importance-as-sharifs-gather-at-lahores-jati-umra",
+    "published_at": "2026-11-08T18:45:01+05:00"
+   }
+  ],
+  "published": "2026-11-08T18:45:01+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 721403938,
+  "image": "posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.jpg",
+  "story": "posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 20:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-shehbaz-nawaz-jati-umra-meeting.mp4"
  }
 ]
