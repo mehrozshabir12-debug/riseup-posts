@@ -1,1 +1,69 @@
-{"slot": "2026-11-08T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T22:45:52+05:00"}
+{
+ "slot": "2026-11-08T23:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T22:45:52+05:00",
+ "run_finished_pkt": "2026-11-08T22:50:43+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "PML-N's Muhammad Asad Hanif Jutt won Sahiwal's PP-203 by-election with 42,114 votes against 24,512 for TEP's Muhammad Awais Mahmood (Form-47 seen by Dawn); NA-77 counting underway.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043037/pml-n-retains-sahiwals-pp-203-as-per-unofficial-result-counting-underway-in-gujranwalas-na-77",
+    "published_at": "2026-11-08T22:30:01+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-08-pp203-by-election-result",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pp203-by-election-result.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420940382,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3147011688245474026",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420940404,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9024237736673063476",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420940414,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7287878494700783783",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "City Around The Corner - The Poison Oaks",
+ "stages": {
+  "metricool_read": "getBrandSettings OK (7305396, Asia/Karachi, FB/IG/TikTok connected); windows 22:00-00:00 and 6 Nov 22:00 .. 9 Nov 11:00 (6h windows) all succeeded; no post at 23:00; RiseUp day before this post: 8 news feed posts, 6 with TikTok, 0 showbiz",
+  "previous_slot_check": "22:00 slot was skipped (no posts). Last posts 21:00 feed 420844171 FB PUBLISHED, Reel 420844199 IG PUBLISHED, 21:05 Story 420844207 FB+IG PUBLISHED; no retries needed",
+  "news_search": "Dawn by-poll article 2043037 substantively updated 22:30 PKT with PP-203 Form-47 result (earlier 14:00 post covered polling only; result is a new development). Other fresh items: Rawalpindi anchorperson killing (crime, skipped).",
+  "verification": "Dawn article read: published 11:40:26+05:00, modified 22:30:01+05:00, byline Amjad Mahmood; figures 42,114 / 24,512, turnout 27.6%, NA-77 counting underway, all checked against article",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, no text/public figures",
+  "publish": "feed (FB+TikTok), IG Reel with music (audioType music, displayArtist The Poison Oaks, first try), Story 23:05 FB+IG all PENDING; card and 8s zoom MP4 checked"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Anchorperson Rabia Ahsan shot dead at Rawalpindi home",
+   "reason": "crime/violence"
+  }
+ ],
+ "errors": [],
+ "notes": "Music chosen from VERIFIED MUSIC LIST (neutral, unused today) without a trending search to meet the tight slot time."
+}
