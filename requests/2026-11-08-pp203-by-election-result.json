@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-08-pp203-by-election-result",
+ "type": "news",
+ "headline": "PML-N's Muhammad Asad Hanif Jutt won Sahiwal's PP-203 by-election with 42,114 votes against 24,512 for TEP's Muhammad Awais Mahmood, according to the Form-47 seen by Dawn, while counting was underway in Gujranwala's NA-77.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043037/pml-n-retains-sahiwals-pp-203-as-per-unofficial-result-counting-underway-in-gujranwalas-na-77",
+   "published_at": "2026-11-08T22:30:01+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/376c5be9-8d85-41cf-8469-e76eb36e7553/cbdd4508-0df7-47b6-a7ce-cd83fc9fb250/Realistic_photo_of_a_by_election_vote_counting_room_in_a_sma.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjFiOGZiYjI0MjJhYTQ5YiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDI1NTQxMH0.wbTey8Sg0FdAxD6vX-apfMt_uzfkuYbTNI1yUjmLOOQ",
+  "head1": "PP-203 by-election",
+  "head2_hl": "PML-N jeet gayi",
+  "head2": "",
+  "kicker": "Sahiwal ka ghair sarkari natija",
+  "desc": "Asad Hanif Jutt ko 42,114, TEP ke Awais Mahmood ko 24,512 votes",
+  "source": "Dawn",
+  "date": "08 NOV 2026"
+ },
+ "caption": "PP-203 Sahiwal ka by-election PML-N ne jeet liya!\nDawn ke mutabiq Form-47 ke tehat PML-N ke Muhammad Asad Hanif Jutt ne 42,114 votes liye, jabke Tehreek-i-Ehsas Pakistan ke Muhammad Awais Mahmood ko 24,512 votes mile. Turnout 27.6 per cent raha, aur Gujranwala ke NA-77 mein vote ki ginti abhi jari hai.\nKya aap ne is by-election mein vote dala? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ByElection #PP203 #Sahiwal #PakistanNews",
+ "tiktok_title": "PP-203 Sahiwal by-election: PML-N ke Asad Hanif Jutt 42,114 votes se kamyab",
+ "publish": {
+  "slot": "2026-11-08T23:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2384396914990297",
+  "label": "City Around The Corner - The Poison Oaks"
+ },
+ "ai_generated": true
+}
