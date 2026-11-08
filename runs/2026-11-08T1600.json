@@ -1,1 +1,86 @@
-{"slot": "2026-11-08T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T15:46:51+05:00"}
+{
+ "slot": "2026-11-08T16:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T15:46:51+05:00",
+ "run_finished_pkt": "2026-11-08T15:55:29+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Punjab Chief Minister Maryam Nawaz removed the Jhelum deputy commissioner on Sunday after Intermediate computer science papers in Jhelum were postponed on his recommendation because of her Nov 10 visit, and said the exams will be held on the original schedule, Tuesday Nov 10, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043049/foolishness-misplaced-over-smartness-maryam-removes-jhelum-dc-over-exam-postponement-for-her-visit",
+    "published_at": "2026-11-08T14:12:12+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-08-jhelum-inter-papers-restored-dc-removed",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420638744,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9089569682530811839",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420638760,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=588978916622943770",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420638780,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6786645847710583197",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius (934661001819759, audioType music)",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; slot window 15:00-17:00 empty; 6h windows 2026-11-06T15:00..2026-11-09T04:00 all succeeded; RiseUp day 08 Nov before this post: 3 news feed posts, 3 TikTok",
+  "previous_slot_check": "no 15:00 post (slot unused); last slot 14:00 feed 420572680 FB+TikTok PUBLISHED, Reel 420572703 IG PUBLISHED, Story 420572714 FB+IG PUBLISHED",
+  "news_search": "Dawn 14:12 PKT story (2h window) chosen; new development (DC removed, exams restored to Nov 10) over Dawn 07:02 BISE postponement report; not posted in last 48h",
+  "verification": "Dawn article read via fetch: published 2026-11-08 14:12:12+05:00, modified 14:19:15; Intermediate Second Annual Exams 2026 computer science papers, BISE Rawalpindi, Nov 10 visit, exams on original schedule Tuesday Nov 10 checked",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image (exam hall, anonymous students), no text/public figures",
+  "publish": "feed, reel, story created and confirmed via getScheduledPosts; reel audio audioType music with displayArtist Global Genius; all PENDING; music picked from verified list (neutral, unused today) without separate trending search"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Sindh CM declares Tharparkar drought-hit (Dawn 07:02 PKT)",
+   "reason": "older than 8h before T"
+  },
+  {
+   "headline": "K-P to fill 17,000 vacant police posts (Tribune 10:51 PKT)",
+   "reason": "older than 2h window and political accusations against previous govt; fresher story available"
+  },
+  {
+   "headline": "Nationwide referendum on 12 new provinces (Geo)",
+   "reason": "based on 'sources'"
+  },
+  {
+   "headline": "Babar Azam on new Test squad (Geo)",
+   "reason": "duplicate of 7 Nov 16:00 PAK v SL squad post"
+  },
+  {
+   "headline": "India v Pakistan U19 Asia Cup toss (Geo)",
+   "reason": "Geo page could not be fetched (client_error); match in progress"
+  }
+ ],
+ "errors": [
+  "geo.tv fetch: client_error for /latest/690251 and /latest/690231; /latest-news permission request not answered in time"
+ ]
+}

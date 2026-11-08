@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-08-jhelum-inter-papers-restored-dc-removed",
+ "scheduled": "2026-11-08T16:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 420638744,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 420638760,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 420638780,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
