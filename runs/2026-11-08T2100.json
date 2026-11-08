@@ -1,1 +1,71 @@
-{"slot": "2026-11-08T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T20:46:08+05:00"}
+{
+ "slot": "2026-11-08T21:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T20:46:08+05:00",
+ "run_finished_pkt": "2026-11-08T20:51:13+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "3h",
+ "story": {
+  "headline": "Pakistan U-19 beat India by three wickets in the ACC Men's Under-19 Asia Cup in Muscat on Sunday, with Hamza Zahoor scoring an unbeaten 100 off 108 balls, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043063/hamza-zahoors-unbeaten-century-guides-pakistan-u-19-to-thrilling-win-over-india",
+    "published_at": "2026-11-08T18:09:59+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-08-pakistan-u19-beat-india-asia-cup",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pakistan-u19-beat-india-asia-cup.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (anonymous cricket team in green kits celebrating on desert-edge ground, no text/logos/identifiable faces)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420844171,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6956780612977210777",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420844199,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2365145724123592403",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420844207,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1988751963760996991",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Chase It (Instrumental) - JQ, The Red Collective (2991194837697937, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings OK (FB/IG/TikTok connected, Asia/Karachi); windows 20-22 PKT and 6 Nov 20:00..9 Nov 09:00 all succeeded; no post at 21:00; RiseUp day before this run: 7 news feed posts, 6 TikTok",
+  "previous_slot_check": "20:00 feed 420800265 FB+TikTok PUBLISHED, Reel 420800288 IG PUBLISHED (Iced Latte, music), 20:05 Story 420800301 FB+IG PUBLISHED",
+  "news_search": "Dawn/Arab News/Tribune searched. 2h window (19:00-21:00): only Jati Umra meeting (already posted 20:00) and Rawalpindi anchorperson killing (crime/violence, skipped). 3h window: Dawn U-19 Pakistan beat India (18:09 PKT) chosen; not covered in last 48h.",
+  "verification": "Single approved outlet (Dawn), article fetched; article:published_time 2026-11-08 18:09:59+05:00; 3-wicket win, ACC Men's U-19 Asia Cup Group A, Al Amerat Cricket Ground Muscat, Sunday, target 209, 211/7 in 48.1 overs, Hamza Zahoor 100* off 108, 61/5, Pakistan top of Group A with 4 points - all checked",
+  "image": "Runway nano-banana-2-lite 4:3, 1 generation",
+  "publish": "pipeline skipped TikTok (6 TikTok posts, allowed by 21:00 = 6); feed FB, reel IG, story FB+IG created, all PENDING; reel audio audioType music 'Chase It (Instrumental)' by JQ, The Red Collective on first try (verified list id; trending web search gave no confirmed music-type id)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Anchorperson shot dead at Rawalpindi home, husband held (Dawn)",
+   "reason": "crime/violence, private individual"
+  },
+  {
+   "headline": "By-polls in NA-77, PP-203 conclude (Dawn 2043037)",
+   "reason": "article last updated 16:43 with polling-day details already covered at 14:00; no results yet"
+  }
+ ],
+ "errors": []
+}
