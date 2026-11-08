@@ -7931,5 +7931,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T18:00:00+05:00",
+  "request_id": "2026-11-08-kp-security-rs70-billion-faceless-courts",
+  "layout": "bold",
+  "headline": "Khyber Pakhtunkhwa authorities said on Sunday Pakistan is weighing 'faceless' courts and Rs70 billion ($253 million) for security in the province, including Rs59.8 billion for police and Rs10.3 billion for the Counter-Terrorism Department, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-weighs-faceless-courts-over-250-million-to-boost-security-in-northwest-3006455",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-weighs-faceless-courts-over-250-million-to-boost-security-in-northwest-3006455",
+    "published_at": "2026-11-08T17:04:26+05:00"
+   }
+  ],
+  "published": "2026-11-08T17:04:26+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 573577990,
+  "image": "posts/2026-11-08-kp-security-rs70-billion-faceless-courts.jpg",
+  "story": "posts/2026-11-08-kp-security-rs70-billion-faceless-courts-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 18:00 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-kp-security-rs70-billion-faceless-courts.mp4"
  }
 ]
