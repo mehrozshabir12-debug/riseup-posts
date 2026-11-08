@@ -1,1 +1,76 @@
-{"slot": "2026-11-08T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T11:46:12+05:00"}
+{
+ "slot": "2026-11-08T12:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T11:46:03+05:00",
+ "run_finished_pkt": "2026-11-08T11:53:09+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi met a Chinese investor delegation in Peshawar and invited them to invest in the province's natural resources sector, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-invites-chinese-investors-to-explore-natural-resources-in-northwestern-province-3006429",
+    "published_at": "2026-11-08T10:02:56+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-08-kp-chinese-investors-minerals",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-chinese-investors-minerals.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420521836,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5074636086939202416",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420521851,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3383409199252488168",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420521860,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3881009546640246266",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (757785052896581, audioType music)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Windows 2026-11-06T11:00..2026-11-09T00:00 all read OK; no post at 11:00 or 12:00; RiseUp day 2026-11-08 had 1 news post (10:00) and 1 TikTok before this slot; no KP/Chinese investors story in 48h.",
+  "previous_slot_check": "No 11:00 slot post. Last slot 10:00: feed FB PUBLISHED (122189535992855502), TikTok PUBLISHED (7705661450781510933), Reel PUBLISHED (Dfd9WK3igS5), 10:05 Story FB+IG PUBLISHED. No errors.",
+  "news_search": "Searched Dawn/Tribune/Geo/Arab News/APP/Brecorder. Arab News KP Chinese investors (10:02 PKT) newest qualifying, 2h window. Dawn Tharparkar drought (07:02) older window. Trending-audio web search gave no confirmed Metricool music id, so verified-list numeric id used.",
+  "verification": "Arab News article read: article:published_time 2026-11-08T05:02:56Z (10:02 PKT). Facts used: Governor Faisal Karim Kundi met Chinese investor delegation in Peshawar, invited investment in KP natural resources; KP has minerals, precious gemstones, marble, granite, limestone, chromite, oil and gas reserves, hydropower potential; economic zones mentioned. Governor's rule context left out (neutral).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task b7432a13-3817-4477-bc2e-e73fa43442e3; mountain marble quarry with anonymous workers, no text/logos.",
+  "publish": "Card and 8s 1080x1920 zoom MP4 (h264+aac) checked. Feed FB+TikTok 12:00, IG Reel 12:00 (music Sunday In October - Trout Recording, audioType music, displayArtist Trout Recording), Story FB+IG 12:05 all PENDING, confirmed by getScheduledPosts 11:55-12:10."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Sindh CM declares Tharparkar drought-hit (Dawn, 07:02 PKT)",
+   "reason": "older (6h window); newer qualifying story available"
+  },
+  {
+   "headline": "Nationwide referendum envisaged on 12 new provinces (Geo)",
+   "reason": "based on 'sources'"
+  },
+  {
+   "headline": "India win toss vs Pakistan in U19 Asia Cup (Geo)",
+   "reason": "toss only, match result unknown"
+  }
+ ],
+ "errors": []
+}
