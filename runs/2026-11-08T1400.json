@@ -1,1 +1,76 @@
-{"slot": "2026-11-08T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T13:46:36+05:00"}
+{
+ "slot": "2026-11-08T14:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T13:46:36+05:00",
+ "run_finished_pkt": "2026-11-08T13:51:28+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "3h",
+ "story": {
+  "headline": "Polling is under way on Sunday in by-elections for NA-77 and PP-203 in Punjab, seats vacated after the deaths of MNA Chaudhry Mehmood Bashir Virk and MPA Chaudhry Muhammad Hanif Jutt, with 185 polling stations set up for PP-203, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043037/polling-under-way-for-na-77-pp-203-by-elections-in-punjab",
+    "published_at": "2026-11-08T11:40:26+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-08-na77-pp203-by-election-polling",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-na77-pp203-by-election-polling.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420572680,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2629907293155839020",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420572703,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4542078286692724953",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420572714,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2203637219922327792",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures - Alex Blue (1131479132514825, audioType music)",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; 6h windows 2026-11-06T13:00..2026-11-09T02:00 all succeeded; slot 14:00 free; RiseUp day 08 Nov before this post: 2 news feed posts, 2 TikTok",
+  "previous_slot_check": "no 13:00 post (13:00 slot not used); last slot 12:00 feed 420521836 FB+TikTok PUBLISHED, Reel 420521851 IG PUBLISHED, Story 420521860 FB+IG PUBLISHED",
+  "news_search": "Dawn by-election article 11:40 PKT (3h window) chosen; 2h-window candidate Babar Azam presser rejected as duplicate of 7 Nov 16:00 PAK v SL Test series post",
+  "verification": "Dawn article read; published 2026-11-08 11:40:26+05:00, updated 11:48; constituencies, names, 185 polling stations, ~1,370 polling staff checked",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, no text/public figures",
+  "publish": "feed, reel, story created; reel audio verified music with displayArtist; all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Babar Azam says selection not in his hands as Pakistan face Sri Lanka (Dawn 13:37)",
+   "reason": "same event as 7 Nov 16:00 post (Test series squad/dates); no genuinely new development"
+  },
+  {
+   "headline": "Polio drive 23.8 million children in six days (Arab News)",
+   "reason": "same campaign posted 7 Nov 14:00"
+  },
+  {
+   "headline": "President/PM Diwali greetings (Dawn/Tribune)",
+   "reason": "duplicate of 10:00 post"
+  }
+ ],
+ "errors": []
+}

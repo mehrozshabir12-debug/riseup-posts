@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-08-na77-pp203-by-election-polling",
+ "scheduled": "2026-11-08T14:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 420572680,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 420572703,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 420572714,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
