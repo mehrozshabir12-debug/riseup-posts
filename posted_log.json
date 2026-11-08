@@ -8142,10 +8142,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-08 23:00 PKT",
+  "scheduled": "2026-11-08T23:00:00+05:00",
   "music": "City Around The Corner - The Poison Oaks",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-08-pp203-by-election-result.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 420940382,
+   "reel": 420940404,
+   "story": 420940414
+  },
+  "video": "posts/2026-11-08-pp203-by-election-result.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
