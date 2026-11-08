@@ -8003,10 +8003,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-08 19:00 PKT",
+  "scheduled": true,
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-08-pakistan-beat-maldives-saff-3-0.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 420757291,
+   "reel": 420757308,
+   "story": 420757324
+  },
+  "video": "posts/2026-11-08-pakistan-beat-maldives-saff-3-0.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
