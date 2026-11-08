@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-08-na77-pp203-by-election-polling",
+ "type": "news",
+ "headline": "Polling is under way on Sunday in by-elections for NA-77 and PP-203 in Punjab, seats vacated after the deaths of MNA Chaudhry Mehmood Bashir Virk and MPA Chaudhry Muhammad Hanif Jutt, with 185 polling stations set up for PP-203, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043037/polling-under-way-for-na-77-pp-203-by-elections-in-punjab",
+   "published_at": "2026-11-08T11:40:26+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/78167813-41fa-45e4-97d5-aa1434ccc7cb/c9081f8b-fc17-4793-b422-768ba2a38695/Realistic_photograph_of_a_polling_station_set_up_in_a_govern.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjI2MGFkZWFiNmFkMmJlNyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDIyNjAyNn0.E5A6HwSpPEuRmfjPDo1DKszct5UbSp1TLsuGzr1-Zng",
+  "head1": "NA-77 aur PP-203",
+  "head2_hl": "By-election",
+  "head2": "polling jari",
+  "kicker": "Punjab ke 2 halqon mein",
+  "desc": "PP-203 mein 185 polling stations par polling ho rahi hai",
+  "source": "Dawn",
+  "date": "08 NOV 2026"
+ },
+ "caption": "Punjab ke 2 halqon NA-77 aur PP-203 mein by-election ki polling jari!\nDawn ke mutabiq NA-77 ki seat MNA Chaudhry Mehmood Bashir Virk aur PP-203 ki seat PML-N MPA Chaudhry Muhammad Hanif Jutt ke inteqal ke baad khali hui thi. PP-203 mein 185 polling stations banaye gaye hain aur taqreeban 1,370 polling staff tainaat hai.\nKya aap ne kabhi by-election mein vote dala hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ByElection #NA77 #PP203 #PakistanNews",
+ "tiktok_title": "NA-77 aur PP-203 mein by-election ki polling jari, PP-203 mein 185 polling stations",
+ "publish": {
+  "slot": "2026-11-08T14:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1131479132514825",
+  "label": "Simple Pleasures - Alex Blue"
+ },
+ "ai_generated": true
+}
