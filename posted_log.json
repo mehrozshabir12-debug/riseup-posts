@@ -7743,5 +7743,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T10:00:00+05:00",
+  "request_id": "2026-11-08-pm-diwali-message",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif praised Pakistan's Hindu community on Sunday in a Diwali message, calling it a valued and integral part of the national fabric, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-pm-praises-hindu-communitys-contributions-in-diwali-message-3006427",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-pm-praises-hindu-communitys-contributions-in-diwali-message-3006427",
+    "published_at": "2026-11-08T09:17:10+05:00"
+   }
+  ],
+  "published": "2026-11-08T09:17:10+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 957823227,
+  "image": "posts/2026-11-08-pm-diwali-message.jpg",
+  "story": "posts/2026-11-08-pm-diwali-message-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 10:00 PKT",
+  "music": "Upside Down - Mike Block",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-pm-diwali-message.mp4"
  }
 ]
