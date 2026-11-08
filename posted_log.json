@@ -7768,10 +7768,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-08 10:00 PKT",
+  "scheduled": "2026-11-08T10:00:00+05:00",
   "music": "Upside Down - Mike Block",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-08-pm-diwali-message.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 420473787,
+   "reel": 420473798,
+   "story": 420473804
+  },
+  "video": "posts/2026-11-08-pm-diwali-message.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
