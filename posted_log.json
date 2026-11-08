@@ -7978,5 +7978,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T19:00:00+05:00",
+  "request_id": "2026-11-08-pakistan-beat-maldives-saff-3-0",
+  "layout": "bold",
+  "headline": "Pakistan beat Maldives 3-0 at the National Football Stadium in Dhaka on Sunday in the 2026 SAFF Championship, with a McKeal Abdullah penalty and a first-half brace from Najeebullah Bettani, moving closer to the semi-finals, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043065/saff-championship-pakistan-cruise-past-maldives-3-0-close-in-on-semi-final-spot",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043065/saff-championship-pakistan-cruise-past-maldives-3-0-close-in-on-semi-final-spot",
+    "published_at": "2026-11-08T18:21:18+05:00"
+   }
+  ],
+  "published": "2026-11-08T18:21:18+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 856490072,
+  "image": "posts/2026-11-08-pakistan-beat-maldives-saff-3-0.jpg",
+  "story": "posts/2026-11-08-pakistan-beat-maldives-saff-3-0-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 19:00 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-pakistan-beat-maldives-saff-3-0.mp4"
  }
 ]
