@@ -7956,10 +7956,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-08 18:00 PKT",
+  "scheduled": "2026-11-08T18:00:00+05:00",
   "music": "Reflection - Sam Marshall",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-08-kp-security-rs70-billion-faceless-courts.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 420715074,
+   "reel": 420715096,
+   "story": 420715107
+  },
+  "video": "posts/2026-11-08-kp-security-rs70-billion-faceless-courts.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
