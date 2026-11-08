@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-08-pakistan-u19-beat-india-asia-cup",
+ "type": "news",
+ "headline": "Pakistan U-19 beat India by three wickets in the ACC Men's Under-19 Asia Cup in Muscat on Sunday, with Hamza Zahoor scoring an unbeaten 100 off 108 balls, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043063/hamza-zahoors-unbeaten-century-guides-pakistan-u-19-to-thrilling-win-over-india",
+   "published_at": "2026-11-08T18:09:59+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/ed711b7f-cee0-455e-8a8d-8f31d63bb7f9/52112f78-c060-4e65-ae98-703577aae09e/Realistic_photo_of_a_young_cricket_team_in_plain_green_train.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNGY5MmUzYzZmY2M3ZGNmZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDI0MjYzMH0.OhWAUyV5vli89c4_jfyaXeQfMN4zVxakBEQCkRBjgS4",
+  "head1": "Pakistan U-19 ne",
+  "head2_hl": "India ko hara",
+  "head2": "diya",
+  "kicker": "Hamza Zahoor ke nabad 100 runs",
+  "desc": "Muscat mein U-19 Asia Cup match 3 wickets se jeeta",
+  "source": "Dawn",
+  "date": "08 NOV 2026"
+ },
+ "caption": "Pakistan U-19 ne India ko 3 wickets se hara diya! 🏏\nDawn ke mutabiq Sunday ko Muscat ke Al Amerat Cricket Ground mein ACC Men's Under-19 Asia Cup ke Group A match mein Pakistan ne 209 runs ka hadaf 48.1 overs mein 211-7 bana kar poora kiya. Hamza Zahoor ne 108 balls par nabad 100 runs banaye, jabke Pakistan ek waqt 61-5 par tha. Pakistan 4 points ke saath Group A mein top par hai.\nHamza Zahoor ki is inning ko aap kitne number denge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #U19AsiaCup #PAKvIND #PakistanCricket #PakistanNews",
+ "tiktok_title": "Pakistan U-19 ne India ko 3 wickets se hara diya, Hamza Zahoor ke nabad 100 runs",
+ "publish": {
+  "slot": "2026-11-08T21:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "2991194837697937", "label": "Chase It (Instrumental) - JQ, The Red Collective"},
+ "ai_generated": true
+}
