@@ -1,1 +1,79 @@
-{"slot": "2026-11-08T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T18:46:33+05:00"}
+{
+ "slot": "2026-11-08T19:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T18:46:33+05:00",
+ "run_finished_pkt": "2026-11-08T18:52:16+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan beat Maldives 3-0 at the National Football Stadium in Dhaka on Sunday in the 2026 SAFF Championship, with a McKeal Abdullah penalty and a first-half brace from Najeebullah Bettani, moving closer to the semi-finals, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043065/saff-championship-pakistan-cruise-past-maldives-3-0-close-in-on-semi-final-spot",
+    "published_at": "2026-11-08T18:21:18+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-08-pakistan-beat-maldives-saff-3-0",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pakistan-beat-maldives-saff-3-0.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok, but discarded: generated for the U-19 India match story (cricket scene), which was then rejected under the minors rule; mistake in order of checks"
+  },
+  {
+   "attempt": 2,
+   "result": "jersey numbers and brand logos in photo"
+  },
+  {
+   "attempt": 3,
+   "result": "ok (ball in goal net, no text/logos)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420757291,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1874066938440204307",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420757308,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8240979067761739439",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420757324,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=592611171602284647",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan (1543577430102877, audioType music)",
+ "stages": {
+  "metricool_read": "getBrandSettings OK (FB/IG/TikTok connected, Asia/Karachi); windows 18-20 PKT and 6 Nov 18:00..9 Nov 07:00 all succeeded; no post at 19:00; RiseUp day before this run: 5 news feed posts, 5 TikTok",
+  "previous_slot_check": "18:00 feed 420715074 FB+TikTok PUBLISHED, Reel 420715096 IG PUBLISHED (Reflection, music), 18:05 Story 420715107 FB+IG PUBLISHED; no 17:00 slot",
+  "news_search": "Dawn SAFF Pakistan 3-0 Maldives (18:21 PKT, 2h window) chosen; not covered in last 48h. Fresher-ranked U-19 Asia Cup win over India (Dawn 18:09) rejected under minors rule (consistent with earlier runs).",
+  "verification": "Single approved outlet (Dawn), article fetched; article:published_time 2026-11-08 18:21:18+05:00; 3-0, Dhaka National Football Stadium, Group B, McKeal Abdullah 4th-minute penalty, Najeebullah Bettani first-half brace, first win after 3-2 loss to India checked",
+  "image": "Runway nano-banana-2-lite 4:3, 3 generations (12 credits): 1 wasted on rejected story, 1 retry for jersey numbers/logos",
+  "publish": "feed (FB only; pipeline skipped TikTok: 5 by 19:00 allowed 5), reel and story created, all PENDING; reel audio audioType music 'The Process' by Jackson Whalan on first try. Trending-audio web search skipped; verified list id used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Hamza Zahoor's unbeaten century guides Pakistan U-19 to win over India (Dawn 18:09)",
+   "reason": "story about U-19 players (possible minors)"
+  },
+  {
+   "headline": "By-polls in NA-77 / PP-203 conclude (Dawn)",
+   "reason": "same event as 14:00 post; results not yet official"
+  }
+ ],
+ "errors": []
+}
