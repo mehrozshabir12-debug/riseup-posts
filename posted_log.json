@@ -8117,5 +8117,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T23:00:00+05:00",
+  "request_id": "2026-11-08-pp203-by-election-result",
+  "layout": "bold",
+  "headline": "PML-N's Muhammad Asad Hanif Jutt won Sahiwal's PP-203 by-election with 42,114 votes against 24,512 for TEP's Muhammad Awais Mahmood, according to the Form-47 seen by Dawn, while counting was underway in Gujranwala's NA-77.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043037/pml-n-retains-sahiwals-pp-203-as-per-unofficial-result-counting-underway-in-gujranwalas-na-77",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043037/pml-n-retains-sahiwals-pp-203-as-per-unofficial-result-counting-underway-in-gujranwalas-na-77",
+    "published_at": "2026-11-08T22:30:01+05:00"
+   }
+  ],
+  "published": "2026-11-08T22:30:01+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 805381346,
+  "image": "posts/2026-11-08-pp203-by-election-result.jpg",
+  "story": "posts/2026-11-08-pp203-by-election-result-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 23:00 PKT",
+  "music": "City Around The Corner - The Poison Oaks",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-pp203-by-election-result.mp4"
  }
 ]

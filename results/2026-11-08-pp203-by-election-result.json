@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-08-pp203-by-election-result",
+ "revision": 1,
+ "request": "requests/2026-11-08-pp203-by-election-result.json",
+ "type": "news",
+ "headline": "PML-N's Muhammad Asad Hanif Jutt won Sahiwal's PP-203 by-election with 42,114 votes against 24,512 for TEP's Muhammad Awais Mahmood, according to the Form-47 seen by Dawn, while counting was underway in Gujranwala's NA-77.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-08T23:00:00+05:00",
+ "target_slot": "2026-11-08T23:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pp203-by-election-result.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pp203-by-election-result-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pp203-by-election-result.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-08-pp203-by-election-result.jpg",
+  "story": "posts/2026-11-08-pp203-by-election-result-story.jpg",
+  "reel": "posts/2026-11-08-pp203-by-election-result.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 805381346,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PP-203 Sahiwal ka by-election PML-N ne jeet liya!\nDawn ke mutabiq Form-47 ke tehat PML-N ke Muhammad Asad Hanif Jutt ne 42,114 votes liye, jabke Tehreek-i-Ehsas Pakistan ke Muhammad Awais Mahmood ko 24,512 votes mile. Turnout 27.6 per cent raha, aur Gujranwala ke NA-77 mein vote ki ginti abhi jari hai.\nKya aap ne is by-election mein vote dala? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ByElection #PP203 #Sahiwal #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pp203-by-election-result.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PP-203 Sahiwal by-election: PML-N ke Asad Hanif Jutt 42,114 votes se kamyab",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PP-203 Sahiwal ka by-election PML-N ne jeet liya!\nDawn ke mutabiq Form-47 ke tehat PML-N ke Muhammad Asad Hanif Jutt ne 42,114 votes liye, jabke Tehreek-i-Ehsas Pakistan ke Muhammad Awais Mahmood ko 24,512 votes mile. Turnout 27.6 per cent raha, aur Gujranwala ke NA-77 mein vote ki ginti abhi jari hai.\nKya aap ne is by-election mein vote dala? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ByElection #PP203 #Sahiwal #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pp203-by-election-result.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pp203-by-election-result-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "2384396914990297",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T23:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pp203-by-election-result-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-08T22:49:41+05:00"
+}
