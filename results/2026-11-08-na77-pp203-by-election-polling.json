@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-08-na77-pp203-by-election-polling",
+ "revision": 1,
+ "request": "requests/2026-11-08-na77-pp203-by-election-polling.json",
+ "type": "news",
+ "headline": "Polling is under way on Sunday in by-elections for NA-77 and PP-203 in Punjab, seats vacated after the deaths of MNA Chaudhry Mehmood Bashir Virk and MPA Chaudhry Muhammad Hanif Jutt, with 185 polling stations set up for PP-203, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-08T14:00:00+05:00",
+ "target_slot": "2026-11-08T14:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-na77-pp203-by-election-polling.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-na77-pp203-by-election-polling-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-na77-pp203-by-election-polling.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-08-na77-pp203-by-election-polling.jpg",
+  "story": "posts/2026-11-08-na77-pp203-by-election-polling-story.jpg",
+  "reel": "posts/2026-11-08-na77-pp203-by-election-polling.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 934754364,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Punjab ke 2 halqon NA-77 aur PP-203 mein by-election ki polling jari!\nDawn ke mutabiq NA-77 ki seat MNA Chaudhry Mehmood Bashir Virk aur PP-203 ki seat PML-N MPA Chaudhry Muhammad Hanif Jutt ke inteqal ke baad khali hui thi. PP-203 mein 185 polling stations banaye gaye hain aur taqreeban 1,370 polling staff tainaat hai.\nKya aap ne kabhi by-election mein vote dala hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ByElection #NA77 #PP203 #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-na77-pp203-by-election-polling.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "NA-77 aur PP-203 mein by-election ki polling jari, PP-203 mein 185 polling stations",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Punjab ke 2 halqon NA-77 aur PP-203 mein by-election ki polling jari!\nDawn ke mutabiq NA-77 ki seat MNA Chaudhry Mehmood Bashir Virk aur PP-203 ki seat PML-N MPA Chaudhry Muhammad Hanif Jutt ke inteqal ke baad khali hui thi. PP-203 mein 185 polling stations banaye gaye hain aur taqreeban 1,370 polling staff tainaat hai.\nKya aap ne kabhi by-election mein vote dala hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ByElection #NA77 #PP203 #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-na77-pp203-by-election-polling.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-na77-pp203-by-election-polling-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1131479132514825",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-na77-pp203-by-election-polling-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-08T13:49:44+05:00"
+}

@@ -7837,5 +7837,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T14:00:00+05:00",
+  "request_id": "2026-11-08-na77-pp203-by-election-polling",
+  "layout": "bold",
+  "headline": "Polling is under way on Sunday in by-elections for NA-77 and PP-203 in Punjab, seats vacated after the deaths of MNA Chaudhry Mehmood Bashir Virk and MPA Chaudhry Muhammad Hanif Jutt, with 185 polling stations set up for PP-203, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043037/polling-under-way-for-na-77-pp-203-by-elections-in-punjab",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043037/polling-under-way-for-na-77-pp-203-by-elections-in-punjab",
+    "published_at": "2026-11-08T11:40:26+05:00"
+   }
+  ],
+  "published": "2026-11-08T11:40:26+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 934754364,
+  "image": "posts/2026-11-08-na77-pp203-by-election-polling.jpg",
+  "story": "posts/2026-11-08-na77-pp203-by-election-polling-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 14:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-na77-pp203-by-election-polling.mp4"
  }
 ]
