@@ -8071,5 +8071,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T21:00:00+05:00",
+  "request_id": "2026-11-08-pakistan-u19-beat-india-asia-cup",
+  "layout": "bold",
+  "headline": "Pakistan U-19 beat India by three wickets in the ACC Men's Under-19 Asia Cup in Muscat on Sunday, with Hamza Zahoor scoring an unbeaten 100 off 108 balls, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043063/hamza-zahoors-unbeaten-century-guides-pakistan-u-19-to-thrilling-win-over-india",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043063/hamza-zahoors-unbeaten-century-guides-pakistan-u-19-to-thrilling-win-over-india",
+    "published_at": "2026-11-08T18:09:59+05:00"
+   }
+  ],
+  "published": "2026-11-08T18:09:59+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 186432178,
+  "image": "posts/2026-11-08-pakistan-u19-beat-india-asia-cup.jpg",
+  "story": "posts/2026-11-08-pakistan-u19-beat-india-asia-cup-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 21:00 PKT",
+  "music": "Chase It (Instrumental) - JQ, The Red Collective",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-pakistan-u19-beat-india-asia-cup.mp4"
  }
 ]
