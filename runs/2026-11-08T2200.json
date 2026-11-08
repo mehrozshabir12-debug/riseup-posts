@@ -1,1 +1,33 @@
-{"slot": "2026-11-08T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T21:46:21+05:00"}
+{
+ "slot": "2026-11-08T22:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T21:46:21+05:00",
+ "run_finished_pkt": "2026-11-08T21:52:12+05:00",
+ "test_mode": false,
+ "outcome": "skipped_no_fresh_verified_news",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "getBrandSettings OK (blogId 7305396, Asia/Karachi, Facebook/Instagram/TikTok connected); windows 21-23 PKT, 6 Nov 21:00..8 Nov 21:00 (6h each) and 8 Nov 23:00..9 Nov 10:00 all succeeded; no post at 22:00; RiseUp day so far: 8 news feed posts, 6 with TikTok, 0 showbiz",
+  "previous_slot_check": "21:00 feed 420844171 FB PUBLISHED, Reel 420844199 IG PUBLISHED (Chase It, music), 21:05 Story 420844207 FB+IG PUBLISHED; no errors, no retries needed",
+  "news_search": "Searched Dawn, Arab News, Tribune, Geo, The News, Brecorder, APP for 14:00-22:00 PKT. Fresh stories found were already posted (Jati Umra 20:00, U-19 win 21:00, SAFF 19:00, KP Rs70bn/faceless courts 18:00, Jhelum DC 16:00) or unsafe (Rawalpindi anchorperson killing, militant attacks). Others older than 8h. Geo 'Pakistani drugmaker wins second WHO prequalification' could not be opened (client_error, then PROVENANCE_REQUIRED) so its timestamp could not be verified. Showbiz fallback (2B) also found nothing fresh.",
+  "verification": "no candidate passed",
+  "image": "not generated (no Runway credits spent)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {"headline": "Pakistani drugmaker wins second WHO prequalification for manufacturing site (Geo 690293)", "reason": "article could not be fetched (client_error / PROVENANCE_REQUIRED); exact timestamp and facts unverifiable"},
+  {"headline": "Content creators bag awards at first Pakistan Influencer Awards (Arab News, 2026-11-08T19:01+05:00)", "reason": "showbiz fallback: ceremony took place on Saturday 7 Nov at Karachi Expo Center, more than 8 hours before T; not fresh"},
+  {"headline": "Pakistan-built robots serve taste of future to Karachi diners (Dawn/AFP)", "reason": "first published 2026-11-08 13:32 PKT, older than 8h before T"},
+  {"headline": "By-polls NA-77, PP-203 (Dawn 2043037)", "reason": "last updated 16:43, no results reported; polling already posted at 14:00"},
+  {"headline": "Smog persists in Lahore / light fog in Karachi (Tribune)", "reason": "published 03:10 and 07:34 PKT, older than 8h"},
+  {"headline": "Pakistan, Sudan to expand security cooperation (Tribune)", "reason": "published 05:35 PKT, older than 8h"},
+  {"headline": "Anchorperson shot dead at Rawalpindi home (Dawn/Tribune/Arab News)", "reason": "crime/violence, private individual"},
+  {"headline": "Policeman killed in militant attack in northwest (Arab News)", "reason": "violence"}
+ ],
+ "errors": ["geo.tv fetch: client_error (no status code)", "geo.tv amp fetch: PROVENANCE_REQUIRED: The permission request for this URL was not answered in time. Do not retry."]
+}
