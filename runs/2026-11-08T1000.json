@@ -1,1 +1,76 @@
-{"slot": "2026-11-08T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T09:46:11+05:00"}
+{
+ "slot": "2026-11-08T10:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T09:46:11+05:00",
+ "run_finished_pkt": "2026-11-08T09:51:43+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif praised Pakistan's Hindu community on Sunday in a Diwali message, calling it a valued and integral part of the national fabric, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-pm-praises-hindu-communitys-contributions-in-diwali-message-3006427",
+    "published_at": "2026-11-08T09:17:10+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-08-pm-diwali-message",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-pm-diwali-message.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420473787,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1814242915262970259",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420473798,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-342313267725120972",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420473804,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5060357437648882974",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Upside Down - Mike Block (581639516835198, audioType music)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Windows 2026-11-06T09:00..2026-11-08T22:00 all read OK; no post at 10:00; first post of RiseUp day 2026-11-08 (0 news, 0 TikTok before); no Diwali story in 48h.",
+  "previous_slot_check": "No 09:00 slot. Last RiseUp-day slot 2026-11-07 23:00: feed FB PUBLISHED (122189488070855502), Reel PUBLISHED (Dfcydn2CQOR), 23:05 Story FB+IG PUBLISHED. No 00:00 post found. No errors.",
+  "news_search": "Searched general, Dawn, Arab News, Tribune. Arab News PM Diwali message (09:17 PKT) newest qualifying, 2h window.",
+  "verification": "Arab News article read: article:published_time 2026-11-08T04:17:10Z (09:17 PKT). Facts used: PM Shehbaz Sharif on Sunday, Diwali message; quote 'valued and integral part of our national fabric'; contributions to social, cultural and economic development 'worthy of the highest appreciation'; wished Pakistani Hindus happiness and prosperity; called for interfaith harmony.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 9772e115-e9fe-4424-878e-9c217c7470e5; temple courtyard with diyas and rangoli, anonymous families, no text/logos.",
+  "publish": "Card and 8s 1080x1920 zoom MP4 (h264+aac) checked. Feed FB+TikTok 10:00, IG Reel 10:00 (music Upside Down - Mike Block, audioType music, displayArtist Mike Block; verified-list numeric id since trending search gave no confirmed music id), Story FB+IG 10:05 all PENDING, confirmed by getScheduledPosts 09:55-10:10."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Umrah vaccination for Saudi-bound passengers halted at Karachi airport dispensary (Tribune, 02:39 PKT)",
+   "reason": "based on 'sources', no on-record confirmation"
+  },
+  {
+   "headline": "PSX strongest weekly rally in six months (Tribune, 04:45 PKT)",
+   "reason": "weekly roundup of older market moves; Diwali story newer"
+  },
+  {
+   "headline": "100 community schools in Karachi get solar panels (Tribune, 03:06 PKT)",
+   "reason": "older; newer story available"
+  }
+ ],
+ "errors": []
+}
