@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-08-pakistan-beat-maldives-saff-3-0",
+ "type": "news",
+ "headline": "Pakistan beat Maldives 3-0 at the National Football Stadium in Dhaka on Sunday in the 2026 SAFF Championship, with a McKeal Abdullah penalty and a first-half brace from Najeebullah Bettani, moving closer to the semi-finals, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2043065/saff-championship-pakistan-cruise-past-maldives-3-0-close-in-on-semi-final-spot", "published_at": "2026-11-08T18:21:18+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/6e540c0d-1067-4266-8b2c-4d1285da8cfe/4448d802-d407-4fa1-b167-7d32c633d7e3/Realistic_sports_photo_of_a_plain_white_football_hitting_the.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDVjMDBkMmFmNjE1ZmRlMyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDI4MzY5MH0.vyTkGhySsQjhR0ol9i2pXuZOezgis_f8SHP8Qp52jBU",
+  "head1": "Pakistan ne Maldives",
+  "head2_hl": "3-0 se",
+  "head2": "hara diya",
+  "kicker": "SAFF Championship 2026",
+  "desc": "Dhaka mein Najeebullah Bettani ke 2 goal, semi-final qareeb",
+  "source": "Dawn",
+  "date": "08 NOV 2026"
+ },
+ "caption": "Pakistan football team ne Maldives ko 3-0 se hara diya! ⚽\nDawn ke mutabiq Sunday ko Dhaka ke National Football Stadium mein SAFF Championship ke Group B match mein McKeal Abdullah ne 4th minute mein penalty par goal kiya aur Najeebullah Bettani ne first half mein 2 goal kiye. Yeh tournament mein Pakistan ki pehli jeet hai, aur team semi-final ke qareeb pohanch gayi hai.\nKya Pakistan semi-final mein pohanchega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SAFFChampionship #PakistanFootball #PAKvMDV #PakistanNews",
+ "tiktok_title": "Pakistan ne SAFF Championship mein Maldives ko 3-0 se hara diya",
+ "publish": {"slot": "2026-11-08T19:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "1543577430102877", "label": "The Process - Jackson Whalan"},
+ "ai_generated": true
+}
