@@ -8096,10 +8096,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-08 21:00 PKT",
+  "scheduled": true,
   "music": "Chase It (Instrumental) - JQ, The Red Collective",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-08-pakistan-u19-beat-india-asia-cup.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 420844171,
+   "reel": 420844199,
+   "story": 420844207
+  },
+  "video": "posts/2026-11-08-pakistan-u19-beat-india-asia-cup.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
