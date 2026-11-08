@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-08-pm-diwali-message",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif praised Pakistan's Hindu community on Sunday in a Diwali message, calling it a valued and integral part of the national fabric, Arab News reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-pm-praises-hindu-communitys-contributions-in-diwali-message-3006427",
+   "published_at": "2026-11-08T09:17:10+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9772e115-e9fe-4424-878e-9c217c7470e5/f87fa74b-e0b7-417a-979f-99648ffda06d/Realistic_photo_of_a_Hindu_temple_courtyard_in_Sindh__Pakist.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjk5ZWU2ODY3M2E2MmU3ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDIyNjE4Mn0.en_lDp3OpCzzWO4DTbMUf0TTbrh-qSpzpqFIMqovyQg",
+  "head1": "PM Shehbaz ka",
+  "head2_hl": "Diwali",
+  "head2": "paigham",
+  "kicker": "Hindu biradri ki khidmat ka aitraf",
+  "desc": "Hindu biradri hamare qaumi dhanche ka qeemti aur aham hissa hai",
+  "source": "Arab News",
+  "date": "08 NOV 2026"
+ },
+ "caption": "PM Shehbaz Sharif ka Diwali par Hindu biradri ke naam paigham!\nArab News ke mutabiq PM Shehbaz Sharif ne Sunday ko Diwali ke paigham mein kaha ke Pakistan ki Hindu biradri hamare qaumi dhanche ka qeemti aur aham hissa hai, aur mulk ki samaji, saqafati aur maashi taraqqi mein us ka kirdar \"worthy of the highest appreciation\" hai. Unhon ne Pakistani Hindus ke liye khushi aur khushhali ki dua ki aur interfaith harmony par zor diya.\nAap Diwali ki mubarakbad kaise dete hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Diwali #HappyDiwali #InterfaithHarmony #PakistanNews",
+ "tiktok_title": "PM Shehbaz: Hindu biradri hamare qaumi dhanche ka aham hissa, Diwali paigham",
+ "publish": {
+  "slot": "2026-11-08T10:00:00+05:00",
+  "networks": ["facebook", "instagram", "tiktok"],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "581639516835198", "label": "Upside Down - Mike Block"},
+ "ai_generated": true
+}
