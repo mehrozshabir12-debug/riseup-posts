@@ -7862,10 +7862,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-08 14:00 PKT",
+  "scheduled": "2026-11-08T14:00:00+05:00",
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-08-na77-pp203-by-election-polling.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 420572680,
+   "reel": 420572703,
+   "story": 420572714
+  },
+  "video": "posts/2026-11-08-na77-pp203-by-election-polling.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
