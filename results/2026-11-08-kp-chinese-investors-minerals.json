@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-08-kp-chinese-investors-minerals",
+ "revision": 1,
+ "request": "requests/2026-11-08-kp-chinese-investors-minerals.json",
+ "type": "news",
+ "headline": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi met a Chinese investor delegation in Peshawar and invited them to invest in the province's natural resources sector, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-08T12:00:00+05:00",
+ "target_slot": "2026-11-08T12:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-chinese-investors-minerals.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-chinese-investors-minerals-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-chinese-investors-minerals.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-08-kp-chinese-investors-minerals.jpg",
+  "story": "posts/2026-11-08-kp-chinese-investors-minerals-story.jpg",
+  "reel": "posts/2026-11-08-kp-chinese-investors-minerals.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 141541000,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "KP ke maadni wasail mein Chinese investors ko dawat!\nArab News ke mutabiq Governor Faisal Karim Kundi ne Peshawar mein Chinese investors ke delegation se mulaqat ki aur unhein Khyber Pakhtunkhwa ke natural resources sector mein sarmaya kari ki dawat di. KP mein minerals, qeemti pathar, marble, granite, chromite, tail aur gas ke zakheere aur hydropower ki salahiyat maujood hai.\nKya is se KP mein rozgar barhega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #KhyberPakhtunkhwa #PakistanChina #Minerals #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-chinese-investors-minerals.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "KP Governor ki Chinese investors ko minerals sector mein sarmaya kari ki dawat",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "KP ke maadni wasail mein Chinese investors ko dawat!\nArab News ke mutabiq Governor Faisal Karim Kundi ne Peshawar mein Chinese investors ke delegation se mulaqat ki aur unhein Khyber Pakhtunkhwa ke natural resources sector mein sarmaya kari ki dawat di. KP mein minerals, qeemti pathar, marble, granite, chromite, tail aur gas ke zakheere aur hydropower ki salahiyat maujood hai.\nKya is se KP mein rozgar barhega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #KhyberPakhtunkhwa #PakistanChina #Minerals #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-chinese-investors-minerals.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-chinese-investors-minerals-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "757785052896581",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-chinese-investors-minerals-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-08T11:51:26+05:00"
+}

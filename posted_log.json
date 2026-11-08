@@ -7790,5 +7790,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T12:00:00+05:00",
+  "request_id": "2026-11-08-kp-chinese-investors-minerals",
+  "layout": "bold",
+  "headline": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi met a Chinese investor delegation in Peshawar and invited them to invest in the province's natural resources sector, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-invites-chinese-investors-to-explore-natural-resources-in-northwestern-province-3006429",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-invites-chinese-investors-to-explore-natural-resources-in-northwestern-province-3006429",
+    "published_at": "2026-11-08T10:02:56+05:00"
+   }
+  ],
+  "published": "2026-11-08T10:02:56+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 141541000,
+  "image": "posts/2026-11-08-kp-chinese-investors-minerals.jpg",
+  "story": "posts/2026-11-08-kp-chinese-investors-minerals-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 12:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-kp-chinese-investors-minerals.mp4"
  }
 ]
