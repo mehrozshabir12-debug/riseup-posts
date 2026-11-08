@@ -1,1 +1,72 @@
-{"slot": "2026-11-08T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-08T17:46:36+05:00"}
+{
+ "slot": "2026-11-08T18:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "run_started_pkt": "2026-11-08T17:46:36+05:00",
+ "run_finished_pkt": "2026-11-08T17:51:04+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Khyber Pakhtunkhwa authorities said on Sunday Pakistan is weighing 'faceless' courts and Rs70 billion ($253 million) for security in the province, including Rs59.8 billion for police and Rs10.3 billion for the Counter-Terrorism Department, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-weighs-faceless-courts-over-250-million-to-boost-security-in-northwest-3006455",
+    "published_at": "2026-11-08T17:04:26+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-08-kp-security-rs70-billion-faceless-courts",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-kp-security-rs70-billion-faceless-courts.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 420715074,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9040605719313991888",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 420715096,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8768252618593055122",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 420715107,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5505984547694855283",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall (478728841591377, audioType music)",
+ "stages": {
+  "metricool_read": "7 windows NOW-48h..NOW+12h all succeeded; no post at 18:00; today's RiseUp day before this run: 4 news feed posts, 4 TikTok",
+  "previous_slot_check": "no posts at 17:00 slot; last slot 16:00 feed/reel/story all PUBLISHED (FB 122189562200855502, TikTok 7705754858262973703, IG reel Dfemzt1jFLt, stories published)",
+  "news_search": "Arab News KP security/faceless courts published 17:04 PKT (within 2h); not covered in last 48h",
+  "verification": "Arab News article read; timestamp 2026-11-08T12:04:26Z; all figures checked (Rs70bn, Rs59.8bn police, Rs10.3bn CTD)",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, no text/public figures",
+  "publish": "feed+reel+story created, all PENDING; reel audio music 'Reflection' by Sam Marshall. Trending-audio web search returned no confirmed music id, so verified list id used."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan-built robots serve Karachi diners (Dawn/AFP)",
+   "reason": "first published 13:32 PKT, older and less important than chosen story"
+  },
+  {
+   "headline": "Babar Azam says new Test squad ready vs Sri Lanka (Arab News/AFP)",
+   "reason": "preview piece; squad already covered 7 Nov 16:00"
+  }
+ ],
+ "errors": []
+}
