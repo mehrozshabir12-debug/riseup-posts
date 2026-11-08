@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-08-jhelum-inter-papers-restored-dc-removed",
+ "revision": 1,
+ "request": "requests/2026-11-08-jhelum-inter-papers-restored-dc-removed.json",
+ "type": "news",
+ "headline": "Punjab Chief Minister Maryam Nawaz removed the Jhelum deputy commissioner on Sunday after Intermediate computer science papers in Jhelum were postponed on his recommendation because of her Nov 10 visit, and said the exams will be held on the original schedule, Tuesday Nov 10, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-08T16:00:00+05:00",
+ "target_slot": "2026-11-08T16:00:00+05:00",
+ "riseup_day": "2026-11-08",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-jhelum-inter-papers-restored-dc-removed-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.jpg",
+  "story": "posts/2026-11-08-jhelum-inter-papers-restored-dc-removed-story.jpg",
+  "reel": "posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 548879526,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Jhelum mein Inter ke paper ab 10 November ko hi honge!\nDawn ke mutabiq Punjab CM Maryam Nawaz ne Sunday ko Jhelum ke deputy commissioner ko ohde se hata diya, jin ki sifarish par BISE Rawalpindi ne CM ke 10 November ke dauray ki wajah se Intermediate computer science ke paper mulatvi kiye the. CM ne kaha ke imtihanaat asal schedule ke mutabiq Tuesday, 10 November ko hi honge.\nKya aap ke ghar mein bhi koi Inter ka student hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Jhelum #BISERawalpindi #InterExams #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Jhelum mein Inter computer science ke paper 10 November ko hi honge, DC fariq",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Jhelum mein Inter ke paper ab 10 November ko hi honge!\nDawn ke mutabiq Punjab CM Maryam Nawaz ne Sunday ko Jhelum ke deputy commissioner ko ohde se hata diya, jin ki sifarish par BISE Rawalpindi ne CM ke 10 November ke dauray ki wajah se Intermediate computer science ke paper mulatvi kiye the. CM ne kaha ke imtihanaat asal schedule ke mutabiq Tuesday, 10 November ko hi honge.\nKya aap ke ghar mein bhi koi Inter ka student hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Jhelum #BISERawalpindi #InterExams #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-jhelum-inter-papers-restored-dc-removed-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "934661001819759",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-08T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-08-jhelum-inter-papers-restored-dc-removed-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-08T15:53:46+05:00"
+}

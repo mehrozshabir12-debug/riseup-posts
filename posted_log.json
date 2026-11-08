@@ -7884,5 +7884,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-08",
+  "slot": "2026-11-08T16:00:00+05:00",
+  "request_id": "2026-11-08-jhelum-inter-papers-restored-dc-removed",
+  "layout": "bold",
+  "headline": "Punjab Chief Minister Maryam Nawaz removed the Jhelum deputy commissioner on Sunday after Intermediate computer science papers in Jhelum were postponed on his recommendation because of her Nov 10 visit, and said the exams will be held on the original schedule, Tuesday Nov 10, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043049/foolishness-misplaced-over-smartness-maryam-removes-jhelum-dc-over-exam-postponement-for-her-visit",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043049/foolishness-misplaced-over-smartness-maryam-removes-jhelum-dc-over-exam-postponement-for-her-visit",
+    "published_at": "2026-11-08T14:12:12+05:00"
+   }
+  ],
+  "published": "2026-11-08T14:12:12+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 548879526,
+  "image": "posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.jpg",
+  "story": "posts/2026-11-08-jhelum-inter-papers-restored-dc-removed-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-08 16:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-08-jhelum-inter-papers-restored-dc-removed.mp4"
  }
 ]
