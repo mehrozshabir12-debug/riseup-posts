@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-09-pak-sl-first-test-rawalpindi-begins",
+ "type": "news",
+ "headline": "Sri Lanka won the toss and chose to bowl against Pakistan in the first Test in Rawalpindi on Monday, with Pakistan handing Test debuts to Tayyab Arif, Mohammad Taha, Arafat Minhas and Saqib Khan.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/sri-lanka-win-toss-send-pakistan-into-bat-in-first-test-3006517",
+   "published_at": "2026-11-09T10:33:29+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/73bada5d-7faf-4485-b92e-c7d30d0a1be1/a6460efc-a847-4d7a-9e2b-3904b94fd2ff/Realistic_photo_of_a_Test_cricket_match_in_a_Pakistani_stadi.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMGIwMmFjOGExYjY5MTQxMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDM1NjYxOH0.OenqTEX6lN9NiDguCF1ZVzdefGgjzkoFeKMnYSbW0s4",
+  "head1": "Pakistan vs Sri Lanka",
+  "head2_hl": "Pehla Test",
+  "head2": "shuru",
+  "kicker": "4 khiladiyon ka Test debut",
+  "desc": "Sri Lanka ne toss jeet kar Pakistan ko batting di.",
+  "source": "Arab News",
+  "date": "09 NOV 2026"
+ },
+ "caption": "Pakistan aur Sri Lanka ka pehla Test Rawalpindi mein shuru! 🏏\nArab News ke mutabiq Monday ko Sri Lanka ke captain Kusal Mendis ne toss jeet kar pehle bowling ka faisla kiya. Pakistan ki taraf se Tayyab Arif, Mohammad Taha, Arafat Minhas aur Saqib Khan apna pehla Test match khel rahe hain. Doosra Test 17 November se Lahore mein hoga.\nAap ke khayal mein yeh Test kaun jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+ "tiktok_title": "Pakistan vs Sri Lanka pehla Test Rawalpindi mein shuru, 4 khiladiyon ka debut",
+ "publish": {
+  "slot": "2026-11-09T12:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1543577430102877",
+  "label": "The Process - Jackson Whalan"
+ },
+ "ai_generated": true
+}
