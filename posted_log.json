@@ -8248,10 +8248,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-09 12:05 PKT",
+  "scheduled": "2026-11-09T12:06:00+05:00",
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 421432008,
+   "feed": 421432032,
+   "story": 421432039
+  },
+  "video": "posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
