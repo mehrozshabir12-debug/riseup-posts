@@ -1,1 +1,83 @@
-{"slot": "2026-11-09T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T21:46:12+05:00", "language": "en"}
+{
+ "slot": "2026-11-09T22:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "run_started_pkt": "2026-11-09T21:46:12+05:00",
+ "run_finished_pkt": "2026-11-09T21:51:45+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "The Drug Regulatory Authority of Pakistan (DRAP) on Monday urged the public to use its new Mehfooz Dawa app to verify the authenticity and prices of medicines, as part of efforts to curb the sale of counterfeit drugs.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043272/drap-urges-public-to-verify-authenticity-and-prices-of-medicines-via-new-app",
+    "published_at": "2026-11-09T15:19:47+05:00"
+   }
+  ]
+ },
+ "freshness_window": "8h",
+ "request_id": "2026-11-09-drap-mehfooz-dawa-app",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-drap-mehfooz-dawa-app.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 422109584,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5984332258005240072",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 422109613,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5836463031390941327",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 422109651,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5301098399048812336",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius (810120545333296, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 21:00-23:00 had only the 21:00/21:05 posts (22:00 free); 6-hour windows 2026-11-07T21:00..2026-11-10T10:00 all succeeded. No DRAP/medicine-app story in last 48 h. RiseUp day so far: 8 news, 6 TikTok.",
+  "previous_slot_check": "21:00 slot all PUBLISHED: reel 422026257 FB https://facebook.com/reel/1819268198960503 + IG https://www.instagram.com/reel/DfhugOrmROD/, story 422026294 FB+IG PUBLISHED. No TikTok at 21:00 (pipeline cap). No retries.",
+  "news_search": "Searched dawn/tribune/geo/thenews/arabnews/app/brecorder. Fresher items were already posted today (Aramco 21:00, Saudi fund 18:00, Test day one 20:00, Tarbela 16:00, Gaza aid 14:00) or rejected (crime/violence, ISPR op, 'hints'). Picked DRAP Mehfooz Dawa app (Dawn 15:19 PKT) -> 8h window.",
+  "verification": "Dawn article read: article:published_time 2026-11-09T15:19:47+05:00 (modified same), byline Ikram Junaidi, Islamabad. Facts: Drap urges consumers to use Mehfooz Dawa app to verify authenticity and prices of medicines to curb counterfeit drugs; 2D barcode lets smartphone users scan packs to see product details and prices; per health ministry spokesperson Sajid Shah.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: pharmacy counter, hand holding phone over plain white box, anonymous people, no readable text/logos.",
+  "publish": "Card (English) and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one Metricool post at 22:00 (facebookData REEL; IG audio resolved to audioType music, displayArtist Global Genius). TikTok photo post 22:00 (autoAddMusic). Story FB+IG 22:05. Zoom renderer has no option to bake a licensed track into the MP4, so the Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Tarbela T-5 rock mass collapse (Arab News 18:09)",
+   "reason": "duplicate of 16:00 post"
+  },
+  {
+   "headline": "Opposition alliance hints at movement against govt",
+   "reason": "'hints', speculative political"
+  },
+  {
+   "headline": "TV anchor killing remand",
+   "reason": "crime/violence"
+  },
+  {
+   "headline": "ISPR Mir Ali operation",
+   "reason": "violence"
+  }
+ ],
+ "errors": []
+}
