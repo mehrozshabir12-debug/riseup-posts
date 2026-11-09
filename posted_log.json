@@ -8455,5 +8455,35 @@
    },
    "feed": {}
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T20:00:00+05:00",
+  "request_id": "2026-11-09-pakistan-281-5-day-one-sri-lanka",
+  "layout": "bold",
+  "headline": "Pakistan reached 281-5 at the close of day one of the first Test against Sri Lanka in Rawalpindi on Monday, with debutants Tayyab Arif and Mohammad Taha both scoring fifties and Saud Shakeel 57 not out.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-post-281-5-to-punish-sri-lanka-in-first-test-3006543",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-post-281-5-to-punish-sri-lanka-in-first-test-3006543",
+    "published_at": "2026-11-09T15:57:56+05:00"
+   }
+  ],
+  "published": "2026-11-09T15:57:56+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 514080893,
+  "image": "posts/2026-11-09-pakistan-281-5-day-one-sri-lanka.jpg",
+  "story": "posts/2026-11-09-pakistan-281-5-day-one-sri-lanka-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 20:03 PKT",
+  "music": "Heros Journey (Instrumental) - Abby Posner",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-pakistan-281-5-day-one-sri-lanka.mp4"
  }
 ]
