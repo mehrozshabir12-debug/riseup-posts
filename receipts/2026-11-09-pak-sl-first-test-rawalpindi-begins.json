@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-09-pak-sl-first-test-rawalpindi-begins",
+ "scheduled": "2026-11-09T12:06:00+05:00",
+ "posts": {
+  "reel": {
+   "metricool_id": 421432008,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "music": "The Process - Jackson Whalan (audioType music)"
+  },
+  "feed": {
+   "metricool_id": 421432032,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 421432039,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

@@ -1,1 +1,69 @@
-{"slot": "2026-11-09T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T11:46:51+05:00", "language": "ur"}
+{
+ "slot": "2026-11-09T12:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "run_started_pkt": "2026-11-09T11:46:51+05:00",
+ "run_finished_pkt": "2026-11-09T12:01:23+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "Sri Lanka won the toss and chose to bowl against Pakistan in the first Test in Rawalpindi; Pakistan hand Test debuts to Tayyab Arif, Mohammad Taha, Arafat Minhas and Saqib Khan",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/sri-lanka-win-toss-send-pakistan-into-bat-in-first-test-3006517",
+    "published_at": "2026-11-09T10:33:29+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-09-pak-sl-first-test-rawalpindi-begins",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 421432008,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8589041752653710337",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 421432032,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1403890041298830840",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 421432039,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3262583027404813981",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "publish_time": "2026-11-09T12:06:00+05:00 (render delayed past T; posted at NOW+5 within T+15)",
+ "music": "The Process - Jackson Whalan (1543577430102877, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all 6-hour windows 2026-11-07T11:00..2026-11-10T00:00 succeeded; slot 12:00 free; RiseUp day counts before: 1 news, 1 TikTok",
+  "previous_slot_check": "No 11:00 post. 10:00 posts all PUBLISHED: reel 421364985 FB https://facebook.com/reel/1192424770108968 + IG https://www.instagram.com/reel/DfgiNhEkV2U/, feed 421365063 TikTok PUBLISHED, story 421365078 FB+IG PUBLISHED.",
+  "news_search": "Arab News (AFP) toss report 10:33 PKT, 1h27m before T. Not a duplicate: 7 Nov 16:00 post was the squad announcement; today is the match start with debutants.",
+  "verification": "Arab News article read; published_time 2026-11-09T05:33:29Z = 10:33 PKT; toss (Kusal Mendis, bowl first), 4 debutants and 2nd Test in Lahore from 17 Nov checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: no readable text, no real public figures",
+  "publish": "First GitHub run 42575318344 failed in the receipts phase (AttributeError: 'str' object has no attribute 'items') because the 10:00 receipt stored status as a string; rewrote that receipt with per-network status dicts (statuses from Metricool, all PUBLISHED), render then succeeded. Card and zoom MP4 (8 s, 1080x1920) inspected. FB+IG Reel in one post (facebookData REEL, IG music), TikTok photo separate, FB+IG Story at 12:11. Trending-audio web search gave no confirmed Instagram 'music' id, so used verified-list id. Renderer cannot bake a licensed track into the MP4 (silent audio only), so Facebook Reel has no music."
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "GitHub Actions run 42575318344: AttributeError: 'str' object has no attribute 'items' in phase_receipts (fixed by correcting receipts/2026-11-09-iqbal-149th-birth-anniversary.json)"
+ ]
+}
