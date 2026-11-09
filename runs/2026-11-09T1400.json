@@ -1,1 +1,75 @@
-{"slot": "2026-11-09T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T13:46:13+05:00", "language": "en"}
+{
+ "slot": "2026-11-09T14:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "run_started_pkt": "2026-11-09T13:46:13+05:00",
+ "run_finished_pkt": "2026-11-09T13:51:22+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "PM Shehbaz Sharif condemned Israeli restrictions on humanitarian aid reaching Gaza, where rains flooded about 70,000 tents over the weekend, and directed the Foreign Ministry to escalate humanitarian assistance urgently.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-condemns-israeli-restrictions-on-relief-supplies-as-rains-flood-gaza-tents-3006523",
+    "published_at": "2026-11-09T11:48:09+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-11-09-pm-shehbaz-gaza-aid-directive",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pm-shehbaz-gaza-aid-directive.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 421517067,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5724014838020419811",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 421517078,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6053659455455540437",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 421517092,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6690763994128534769",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall (478728841591377, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; slot window 13:00-15:00 empty; all 6-hour windows 2026-11-07T13:00..2026-11-10T02:00 succeeded; RiseUp day counts before: 2 news, 2 TikTok",
+  "previous_slot_check": "No 13:00 post. 12:00 (12:06) posts all PUBLISHED: reel 421432008 FB https://facebook.com/reel/1130946529839739 + IG https://www.instagram.com/reel/DfgwcXzj_gS/, feed 421432032 TikTok https://www.tiktok.com/@riseuppakistan2025/video/7706064521877572865, story 421432039 FB+IG PUBLISHED.",
+  "news_search": "Searched dawn.com, arabnews.pk, tribune/geo/brecorder. Arab News Gaza/PM story 11:48 PKT (2h12m before T, 3h window). Not a duplicate of last 48h.",
+  "verification": "Arab News article read; article:published_time 2026-11-09T06:48:09Z = 11:48 PKT; PM condemnation, MoFA directive quote and Save the Children 'about 70,000 tents' checked against article. Express Tribune 2639406 (06:12Z) carries same PM statement.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: flooded tent camp, anonymous people from behind, no readable text, no public figures, no gore",
+  "publish": "Card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one post (facebookData REEL, IG music audioType music, displayArtist Sam Marshall), TikTok photo separate, FB+IG Story at 14:05. Trending-audio search not run; verified-list calm id used (fits serious story). Renderer cannot bake a licensed track into the MP4, so Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan reach 137-2 at lunch against Sri Lanka (Tribune, 12:32 PKT)",
+   "reason": "Same first Test already posted at 12:00; lunch score would be stale by 14:00 - not a genuinely new development"
+  },
+  {
+   "headline": "Anchorperson shot dead at Rawalpindi home (Dawn)",
+   "reason": "violence/crime; skip per rules"
+  }
+ ],
+ "errors": []
+}
