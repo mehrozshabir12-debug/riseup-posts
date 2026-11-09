@@ -8411,5 +8411,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T19:00:00+05:00",
+  "request_id": "2026-11-09-lahore-aqi-590-most-polluted",
+  "layout": "bold",
+  "headline": "Lahore was ranked the world's most polluted major city on Monday with an IQAir Air Quality Index of 590, while the Allama Iqbal Town station recorded 1,033.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043255/lahore-remains-worlds-most-polluted-major-city-as-aqi-crosses-600",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043255/lahore-remains-worlds-most-polluted-major-city-as-aqi-crosses-600",
+    "published_at": "2026-11-09T12:06:56+05:00"
+   }
+  ],
+  "published": "2026-11-09T12:06:56+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 974552779,
+  "image": "posts/2026-11-09-lahore-aqi-590-most-polluted.jpg",
+  "story": "posts/2026-11-09-lahore-aqi-590-most-polluted-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 19:00 PKT",
+  "music": "Drift Away (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-lahore-aqi-590-most-polluted.mp4"
  }
 ]

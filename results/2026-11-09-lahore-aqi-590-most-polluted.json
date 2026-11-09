@@ -1,0 +1,141 @@
+{
+ "id": "2026-11-09-lahore-aqi-590-most-polluted",
+ "revision": 1,
+ "request": "requests/2026-11-09-lahore-aqi-590-most-polluted.json",
+ "type": "news",
+ "headline": "Lahore was ranked the world's most polluted major city on Monday with an IQAir Air Quality Index of 590, while the Allama Iqbal Town station recorded 1,033.",
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-09; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-09T19:00:00+05:00",
+ "target_slot": "2026-11-09T19:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-lahore-aqi-590-most-polluted.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-lahore-aqi-590-most-polluted-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-lahore-aqi-590-most-polluted.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-09-lahore-aqi-590-most-polluted.jpg",
+  "story": "posts/2026-11-09-lahore-aqi-590-most-polluted-story.jpg",
+  "reel": "posts/2026-11-09-lahore-aqi-590-most-polluted.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 974552779,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Lahore ki hawa phir dunya mein sab se kharab, AQI 590!\nDawn ke mutabiq Monday ko IQAir ki ranking mein Lahore dunya ka sab se zyada pollution wala bara shehar raha. Yahan AQI 590 tha, jo doosre number ke shehar se 3 guna se bhi zyada hai. Allama Iqbal Town mein AQI 1,033 tak pohnch gaya. Report ke mutabiq 9 aur 10 November ko pollution zyada rahegi, aur 11 November se thori behtari ki umeed hai.\nAap smog se bachne ke liye kya karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LahoreSmog #AirQuality #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-lahore-aqi-590-most-polluted.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Lahore ki hawa phir dunya mein sab se kharab, AQI 590!\nDawn ke mutabiq Monday ko IQAir ki ranking mein Lahore dunya ka sab se zyada pollution wala bara shehar raha. Yahan AQI 590 tha, jo doosre number ke shehar se 3 guna se bhi zyada hai. Allama Iqbal Town mein AQI 1,033 tak pohnch gaya. Report ke mutabiq 9 aur 10 November ko pollution zyada rahegi, aur 11 November se thori behtari ki umeed hai.\nAap smog se bachne ke liye kya karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LahoreSmog #AirQuality #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-lahore-aqi-590-most-polluted.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-lahore-aqi-590-most-polluted-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1211414204067053",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-lahore-aqi-590-most-polluted-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-09T18:51:05+05:00"
+}
