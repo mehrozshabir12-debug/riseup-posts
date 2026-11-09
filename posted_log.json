@@ -8502,5 +8502,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T21:00:00+05:00",
+  "request_id": "2026-11-09-pakistan-condemns-aramco-riyadh-attack",
+  "layout": "bold",
+  "headline": "Pakistan's Foreign Office on Monday condemned the attempted Houthi attack on Saudi Aramco's building in Riyadh, said no casualties were reported, and demanded the Houthis immediately and unconditionally cease all attacks against Saudi Arabia.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043294/pakistan-condemns-targeting-of-aramco-building-demands-houthis-cease-all-attacks-against-saudi-arabia",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043294/pakistan-condemns-targeting-of-aramco-building-demands-houthis-cease-all-attacks-against-saudi-arabia",
+    "published_at": "2026-11-09T19:42:29+05:00"
+   }
+  ],
+  "published": "2026-11-09T19:42:29+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 366257836,
+  "image": "posts/2026-11-09-pakistan-condemns-aramco-riyadh-attack.jpg",
+  "story": "posts/2026-11-09-pakistan-condemns-aramco-riyadh-attack-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 21:00 PKT",
+  "music": "Vow (Instrumental) - Ross Lara",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-pakistan-condemns-aramco-riyadh-attack.mp4"
  }
 ]
