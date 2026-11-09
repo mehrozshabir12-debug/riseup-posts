@@ -1,1 +1,63 @@
-{"slot": "2026-11-09T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T22:46:17+05:00", "language": "ur"}
+{
+ "slot": "2026-11-09T23:00:00+05:00",
+ "outcome": "skipped_no_fresh_verified_news",
+ "run_started_pkt": "2026-11-09T22:46:17+05:00",
+ "language": "ur",
+ "riseup_day": "2026-11-09",
+ "run_finished_pkt": "2026-11-09T22:52:07+05:00",
+ "test_mode": false,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 22:00-00:00 had only 22:00/22:05 posts (23:00 free); 6-hour windows 2026-11-07T22:00..2026-11-10T11:00 all succeeded. RiseUp day so far: 9 news, 7 TikTok, 0 showbiz.",
+  "previous_slot_check": "22:00 slot all PUBLISHED: reel 422109584 FB https://facebook.com/reel/1858180552273958 + IG https://www.instagram.com/reel/Dfh1lGljI-e/, TikTok 422109613 https://www.tiktok.com/@riseuppakistan2025/video/7706218814404300084, story 422109651 FB+IG PUBLISHED. No retries.",
+  "news_search": "Window = after 15:00 PKT. Searched dawn/tribune/geo/thenews/arabnews/app/brecorder/ptv. All post-15:00 Pakistan stories already posted today (DRAP 22:00, Aramco 21:00, Test day one 20:00, Lahore smog 19:00, Saudi fund 18:00, Tarbela 16:00) or rejected (see skipped_candidates). Showbiz fallback (2B) also found nothing fresh.",
+  "verification": "n/a",
+  "image": "not generated (no story passed; Runway not called)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan to sign agreements at Jeddah Hajj conference (Arab News)",
+   "reason": "published 13:38 PKT, older than 8 h before T (15:00 cutoff)"
+  },
+  {
+   "headline": "G-B plans aircraft lease deal with South Air (Express Tribune)",
+   "reason": "published 13:26 PKT, older than 8 h"
+  },
+  {
+   "headline": "Ali Raza replaces injured Akif Javed in Rising Stars Asia Cup squad (Express Tribune)",
+   "reason": "published 14:52 PKT, just older than 8 h"
+  },
+  {
+   "headline": "Pakistani farmers' lawsuit against RWE/Heidelberg (Dawn/AFP 17:20)",
+   "reason": "feature on existing lawsuit, no new development"
+  },
+  {
+   "headline": "Opposition alliance hints at movement against govt (Dawn 16:16)",
+   "reason": "'hints', speculative political"
+  },
+  {
+   "headline": "TV anchor killing remand (Dawn 15:24)",
+   "reason": "crime/violence"
+  },
+  {
+   "headline": "Syria to join Makkah Joint Defence Agreement: report (Tribune)",
+   "reason": "'report', unconfirmed; not Pakistan-focused"
+  },
+  {
+   "headline": "PMIF26 in Islamabad on 12-13 Nov (Business Recorder)",
+   "reason": "published 04:46 PKT, older than 8 h"
+  },
+  {
+   "headline": "Showbiz: Haris Waheed interview (Images Dawn 16:30)",
+   "reason": "repost of Dawn ICON interview first published 8 Nov, not fresh"
+  }
+ ],
+ "errors": []
+}
