@@ -8571,10 +8571,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-09 22:00 PKT",
+  "scheduled": "2026-11-09T22:00:00+05:00",
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-09-drap-mehfooz-dawa-app.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 422109584,
+   "feed": 422109613,
+   "story": 422109651
+  },
+  "video": "posts/2026-11-09-drap-mehfooz-dawa-app.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
