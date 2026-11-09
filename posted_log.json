@@ -8270,5 +8270,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T14:00:00+05:00",
+  "request_id": "2026-11-09-pm-shehbaz-gaza-aid-directive",
+  "layout": "bold",
+  "headline": "PM Shehbaz Sharif on Monday condemned Israeli restrictions on humanitarian aid reaching Gaza, where rains flooded about 70,000 tents over the weekend, and directed the Foreign Ministry to escalate humanitarian assistance urgently.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-condemns-israeli-restrictions-on-relief-supplies-as-rains-flood-gaza-tents-3006523",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-condemns-israeli-restrictions-on-relief-supplies-as-rains-flood-gaza-tents-3006523",
+    "published_at": "2026-11-09T11:48:09+05:00"
+   }
+  ],
+  "published": "2026-11-09T11:48:09+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 913936222,
+  "image": "posts/2026-11-09-pm-shehbaz-gaza-aid-directive.jpg",
+  "story": "posts/2026-11-09-pm-shehbaz-gaza-aid-directive-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 14:00 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-pm-shehbaz-gaza-aid-directive.mp4"
  }
 ]
