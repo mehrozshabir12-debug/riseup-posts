@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-09-tarbela-t5-bund-collapse",
+ "revision": 1,
+ "request": "requests/2026-11-09-tarbela-t5-bund-collapse.json",
+ "type": "news",
+ "headline": "The protective bund of the under-construction Tunnel-5 of the Tarbela Dam 5th Extension Project collapsed on Monday, sending reservoir water into the tunnel and power house area; Wapda said all workers were evacuated safely and no one was hurt.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-09T16:00:00+05:00",
+ "target_slot": "2026-11-09T16:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-tarbela-t5-bund-collapse.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-tarbela-t5-bund-collapse-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-tarbela-t5-bund-collapse.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-09-tarbela-t5-bund-collapse.jpg",
+  "story": "posts/2026-11-09-tarbela-t5-bund-collapse-story.jpg",
+  "reel": "posts/2026-11-09-tarbela-t5-bund-collapse.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 807443186,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Tarbela Dam ke naye project par pani rokne wala bund toot gaya!\nDawn ke mutabiq Monday ko Tarbela Dam 5th Extension Project ki nayi ban rahi Tunnel-5 ka hifazati bund gir gaya, aur dam ka pani tunnel aur power house ke ilaqe mein aa gaya. Emergency laga kar kaam rok diya gaya. Wapda ke mutabiq tamam workers ko mehfooz nikal liya gaya, koi zakhmi nahi hua, aur main tunnel aur power house ko nuqsan nahi pohncha.\nKya bare projects par hifazat ka intezam aur behtar hona chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #TarbelaDam #Wapda #Swabi #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-tarbela-t5-bund-collapse.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Tarbela Dam project par bund toot gaya, Wapda: sab workers mehfooz",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Tarbela Dam ke naye project par pani rokne wala bund toot gaya!\nDawn ke mutabiq Monday ko Tarbela Dam 5th Extension Project ki nayi ban rahi Tunnel-5 ka hifazati bund gir gaya, aur dam ka pani tunnel aur power house ke ilaqe mein aa gaya. Emergency laga kar kaam rok diya gaya. Wapda ke mutabiq tamam workers ko mehfooz nikal liya gaya, koi zakhmi nahi hua, aur main tunnel aur power house ko nuqsan nahi pohncha.\nKya bare projects par hifazat ka intezam aur behtar hona chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #TarbelaDam #Wapda #Swabi #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-tarbela-t5-bund-collapse.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-tarbela-t5-bund-collapse-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1329928372147056",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-tarbela-t5-bund-collapse-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-09T15:49:27+05:00"
+}

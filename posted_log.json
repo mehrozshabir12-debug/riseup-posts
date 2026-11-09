@@ -8317,5 +8317,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T16:00:00+05:00",
+  "request_id": "2026-11-09-tarbela-t5-bund-collapse",
+  "layout": "bold",
+  "headline": "The protective bund of the under-construction Tunnel-5 of the Tarbela Dam 5th Extension Project collapsed on Monday, sending reservoir water into the tunnel and power house area; Wapda said all workers were evacuated safely and no one was hurt.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043275/protective-bund-of-tarbela-dam-tunnel-collapses-triggering-water-surge",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043275/protective-bund-of-tarbela-dam-tunnel-collapses-triggering-water-surge",
+    "published_at": "2026-11-09T15:29:06+05:00"
+   }
+  ],
+  "published": "2026-11-09T15:29:06+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 807443186,
+  "image": "posts/2026-11-09-tarbela-t5-bund-collapse.jpg",
+  "story": "posts/2026-11-09-tarbela-t5-bund-collapse-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 16:00 PKT",
+  "music": "Slow Living - stereogully",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-tarbela-t5-bund-collapse.mp4"
  }
 ]
