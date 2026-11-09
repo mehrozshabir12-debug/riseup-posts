@@ -1,1 +1,83 @@
-{"slot": "2026-11-09T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T17:47:05+05:00", "language": "en"}
+{
+ "slot": "2026-11-09T18:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "run_started_pkt": "2026-11-09T17:47:05+05:00",
+ "run_finished_pkt": "2026-11-09T17:52:41+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "The Saudi-Pakistan Joint Business Council, formed by both governments, launched a private equity fund on Monday with an initial size of multi-hundred million, three-fourths of which will go to Pakistan.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448123/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment",
+    "published_at": "2026-11-09T17:02:47+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-09-pak-saudi-joint-business-council-fund",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-saudi-joint-business-council-fund.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 421774862,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5614620318523015936",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 421774890,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5039434336334597147",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 421774919,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1048092218473992072",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (757785052896581, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 17:00-19:00 empty; 6-hour windows 2026-11-07T17:45..2026-11-10T05:45 all succeeded; RiseUp day counts before: 4 news, 4 TikTok. getBrandSettings not called separately (previous slots publish normally on FB/IG/TikTok).",
+  "previous_slot_check": "No 17:00 post. 16:00 posts all PUBLISHED: reel 421643975 FB https://facebook.com/reel/2199425074311905 + IG https://www.instagram.com/reel/DfhLyaCDGH2/, feed 421644037 TikTok https://www.tiktok.com/@riseuppakistan2025/video/7706126324301155604, story 421644071 FB+IG PUBLISHED.",
+  "news_search": "Searched dawn.com latest, brecorder, arabnews, tribune/geo. Brecorder (Reuters) Saudi-Pakistan fund published 17:02 PKT, within 2h of T; not a duplicate of the last 48h.",
+  "verification": "Brecorder article read: article:published_time 2026-11-09 17:02:47+05:00. Facts: Saudi-Pakistan Joint Business Council (formed by both governments) launched a private equity fund on Monday; initial size 'multi-hundred million', expected to expand; three-fourths to Pakistan, rest to Saudi projects. Dawn carried the same story at 17:40.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: Islamabad meeting room with anonymous businessmen shaking hands, small Pakistan and Saudi desk flags (flag emblem only), no public figures, no readable signs.",
+  "publish": "Card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one post (facebookData REEL, IG music audioType music, displayArtist Trout Recording), TikTok photo separate, FB+IG Story 18:05. Trending-audio web search run (no track confirmed as audioType music), verified-list neutral id used (unused today). Zoom renderer cannot bake a licensed track into the MP4, so the Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan post 281-5 vs Sri Lanka, day 1 (Dawn, upd 17:07)",
+   "reason": "Same Test already posted at 12:00; picked a story new to the page instead"
+  },
+  {
+   "headline": "Opposition alliance TTAP hints at movement against govt (Dawn 16:16)",
+   "reason": "one-sided political story; lower value for ordinary readers"
+  },
+  {
+   "headline": "Gold per tola up Rs3,200 to Rs432,336 (Brecorder 13:56)",
+   "reason": "older than the 2h window, which had a qualifying story"
+  },
+  {
+   "headline": "Pakistan to sign Hajj facility agreements in Jeddah (Arab News 13:38)",
+   "reason": "older than the 2h window"
+  }
+ ],
+ "errors": []
+}
