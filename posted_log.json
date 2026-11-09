@@ -8527,10 +8527,24 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-09 21:00 PKT",
+  "scheduled": true,
   "music": "Vow (Instrumental) - Ross Lara",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-09-pakistan-condemns-aramco-riyadh-attack.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 422026257,
+   "story": 422026294
+  },
+  "video": "posts/2026-11-09-pakistan-condemns-aramco-riyadh-attack.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {}
+  }
  }
 ]
