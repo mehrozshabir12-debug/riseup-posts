@@ -1,1 +1,85 @@
-{"slot": "2026-11-09T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T19:46:44+05:00", "language": "en"}
+{
+ "slot": "2026-11-09T20:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "run_started_pkt": "2026-11-09T19:46:44+05:00",
+ "run_finished_pkt": "2026-11-09T19:59:36+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "Pakistan reached 281-5 at the close of day one of the first Test against Sri Lanka in Rawalpindi on Monday, with debutants Tayyab Arif and Mohammad Taha both scoring fifties and Saud Shakeel 57 not out.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-post-281-5-to-punish-sri-lanka-in-first-test-3006543",
+    "published_at": "2026-11-09T15:57:56+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h",
+ "request_id": "2026-11-09-pakistan-281-5-day-one-sri-lanka",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pakistan-281-5-day-one-sri-lanka.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 421948065,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3705262791100615924",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 421948104,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-249900965721519953",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 421948158,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6619063197333109711",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Heros Journey (Instrumental) - Abby Posner (1274149560124013, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 19:00-21:00 had only the 19:00 posts (no 20:00 post); 6-hour windows 2026-11-07T19:45..2026-11-10T07:55 all succeeded. RiseUp day counts before: 6 news, 5 TikTok. getBrandSettings not called separately (all three networks publishing normally today).",
+  "previous_slot_check": "19:00 posts all PUBLISHED: reel 421852439 FB https://facebook.com/reel/1448328034170003 + IG https://www.instagram.com/reel/DfhgaaBAPtQ/, story 421852473 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "Searched dawn/tribune/geo/thenews/brecorder/arabnews/app. Picked the day-one close of the PAK v SL Test (new development vs the 12:00 toss/debut post). Arab News 15:57 PKT (modified 19:14) -> 6h window.",
+  "verification": "Arab News/AFP article read (via fetch): article:published_time 2026-11-09T10:57:56Z = 15:57:56 PKT, modified 19:14:26 PKT. Facts: Pakistan 281-5 on day one at Rawalpindi; bad light stopped play 15 minutes early; debutants Tayyab Arif 57 and Mohammad Taha 51 hit fifties; Babar Azam 50; Saud Shakeel 57 not out. Card avoids Arif's exact score (photo caption on page says 50, text 57).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: Test match in a stadium, batter from distance, no identifiable faces, no readable text/logos.",
+  "publish": "First render push failed: receipts phase crashed (AttributeError: 'str' object has no attribute 'items') on the 19:00 receipt whose feed.status was a string; fixed that receipt (status {} + note) and the pipeline then rendered. Card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). Slot T-5 had passed, so posts set at 20:05 (NOW+5). FB+IG Reel in one post (facebookData REEL; IG music audioType music, displayArtist Abby Posner), TikTok photo post separate, FB+IG Story 20:10. Trending-audio web search gave no confirmed audioType-music id, so a verified-list upbeat id (unused today) was used. Zoom renderer cannot bake a licensed track into the MP4 (only the OFF narrated renderer mixes audio), so the Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan-Saudi investors launch fund",
+   "reason": "already posted at 18:00"
+  },
+  {
+   "headline": "TV anchor's killing: remand of husband",
+   "reason": "crime story about private individuals"
+  },
+  {
+   "headline": "Sialkot police arrest TikToker over stampede victim's family",
+   "reason": "crime/private individuals"
+  },
+  {
+   "headline": "Pakistan likely to host Makkah defence pact officials' meeting",
+   "reason": "'likely', unconfirmed"
+  }
+ ],
+ "errors": [
+  "GitHub Actions run 42638305740 (receipts phase): AttributeError: 'str' object has no attribute 'items' — fixed by correcting receipts/2026-11-09-lahore-aqi-590-most-polluted.json"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-09-pakistan-281-5-day-one-sri-lanka",
+ "scheduled": "2026-11-09T20:05:00+05:00",
+ "posts": {
+  "reel": {
+   "metricool_id": 421948065,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3705262791100615924"
+  },
+  "feed": {
+   "metricool_id": 421948104,
+   "status": {
+    "tiktok": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-249900965721519953"
+  },
+  "story": {
+   "metricool_id": 421948158,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6619063197333109711"
+  }
+ }
+}
