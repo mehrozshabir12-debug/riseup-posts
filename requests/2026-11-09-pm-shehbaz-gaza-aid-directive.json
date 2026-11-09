@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-09-pm-shehbaz-gaza-aid-directive",
+ "type": "news",
+ "headline": "PM Shehbaz Sharif on Monday condemned Israeli restrictions on humanitarian aid reaching Gaza, where rains flooded about 70,000 tents over the weekend, and directed the Foreign Ministry to escalate humanitarian assistance urgently.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Arab News",
+   "url": "https://www.arabnews.pk/pakistan/pakistan-condemns-israeli-restrictions-on-relief-supplies-as-rains-flood-gaza-tents-3006523",
+   "published_at": "2026-11-09T11:48:09+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/3d3f4478-c656-42b9-939a-5f64e300086c/1427af7d-de5e-4d48-a29d-0d6bb6eb870f/Realistic_news_photo_of_a_displaced_families__tent_camp_floo.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzliNjVhNzk2NzU4ZmYzMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDMyMjQyNX0.NHA5lfFc1k72tmdUuYOhVD5oVmuAiB_xQq_cEFaGKzw",
+  "head1": "PM Shehbaz orders",
+  "head2_hl": "more Gaza aid",
+  "head2": "",
+  "kicker": "About 70,000 tents flooded",
+  "desc": "PM condemns Israeli limits on aid reaching Gaza.",
+  "source": "Arab News",
+  "date": "09 NOV 2026"
+ },
+ "caption": "PM Shehbaz Sharif orders more help for Gaza!\nAccording to Arab News, PM Shehbaz Sharif on Monday condemned Israeli restrictions that stop humanitarian aid from reaching Gaza. He directed the Foreign Ministry to use all possible means to increase aid urgently. Save the Children said about 70,000 tents of displaced Palestinians were flooded in a single day over the weekend.\nHow can Pakistan help the people of Gaza? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Gaza #ShehbazSharif #Palestine #PakistanNews",
+ "tiktok_title": "PM Shehbaz condemns Israeli aid limits, orders more help for Gaza",
+ "publish": {
+  "slot": "2026-11-09T14:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "478728841591377",
+  "label": "Reflection - Sam Marshall"
+ },
+ "ai_generated": true
+}
