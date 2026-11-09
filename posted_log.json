@@ -8436,10 +8436,24 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-09 19:00 PKT",
+  "scheduled": "2026-11-09T19:00:00+05:00",
   "music": "Drift Away (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-09-lahore-aqi-590-most-polluted.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 421852439,
+   "story": 421852473
+  },
+  "video": "posts/2026-11-09-lahore-aqi-590-most-polluted.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {}
+  }
  }
 ]
