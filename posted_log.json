@@ -8295,10 +8295,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-09 14:00 PKT",
+  "scheduled": "2026-11-09T14:00:00+05:00",
   "music": "Reflection - Sam Marshall",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-09-pm-shehbaz-gaza-aid-directive.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 421517067,
+   "feed": 421517078,
+   "story": 421517092
+  },
+  "video": "posts/2026-11-09-pm-shehbaz-gaza-aid-directive.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
