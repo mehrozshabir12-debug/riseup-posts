@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-09-lahore-aqi-590-most-polluted",
+ "scheduled": "2026-11-09T19:00:00+05:00",
+ "posts": {
+  "reel": {
+   "metricool_id": 421852439,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1806032943738604838"
+  },
+  "story": {
+   "metricool_id": 421852473,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7040569022676516576"
+  },
+  "feed": {
+   "metricool_id": null,
+   "status": "not created: pipeline skipped TikTok (pacing 5 allowed by 19:00); Facebook gets the Reel instead of a photo post"
+  }
+ }
+}
