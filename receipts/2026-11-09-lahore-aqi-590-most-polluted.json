@@ -21,7 +21,8 @@
   },
   "feed": {
    "metricool_id": null,
-   "status": "not created: pipeline skipped TikTok (pacing 5 allowed by 19:00); Facebook gets the Reel instead of a photo post"
+   "status": {},
+   "note": "not created: pipeline skipped TikTok (pacing 5 allowed by 19:00); Facebook gets the Reel instead of a photo post"
   }
  }
 }
