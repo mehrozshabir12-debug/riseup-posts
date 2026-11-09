@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-09-iqbal-149th-birth-anniversary",
+ "revision": 1,
+ "request": "requests/2026-11-09-iqbal-149th-birth-anniversary.json",
+ "type": "news",
+ "headline": "President Asif Ali Zardari and PM Shehbaz Sharif paid tribute to Allama Muhammad Iqbal on his 149th birth anniversary, and the PM said a year-long commemoration begins today, culminating on 9 November next year.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-09T10:00:00+05:00",
+ "target_slot": "2026-11-09T10:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-iqbal-149th-birth-anniversary.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-iqbal-149th-birth-anniversary-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-iqbal-149th-birth-anniversary.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-09-iqbal-149th-birth-anniversary.jpg",
+  "story": "posts/2026-11-09-iqbal-149th-birth-anniversary-story.jpg",
+  "reel": "posts/2026-11-09-iqbal-149th-birth-anniversary.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 911544892,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T10:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan remembers Allama Iqbal on his 149th birth anniversary!\nAccording to Dawn, President Asif Ali Zardari and PM Shehbaz Sharif paid tribute to national poet Allama Muhammad Iqbal in separate messages. President Zardari asked young people to take inspiration from Iqbal's poetry, and PM Shehbaz said the government will hold a year-long celebration from today until 9 November next year.\nWhich Iqbal poem is your favourite? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IqbalDay #AllamaIqbal #Pakistan #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-iqbal-149th-birth-anniversary.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan remembers Allama Iqbal on 149th birth anniversary, year-long celebration begins",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T10:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan remembers Allama Iqbal on his 149th birth anniversary!\nAccording to Dawn, President Asif Ali Zardari and PM Shehbaz Sharif paid tribute to national poet Allama Muhammad Iqbal in separate messages. President Zardari asked young people to take inspiration from Iqbal's poetry, and PM Shehbaz said the government will hold a year-long celebration from today until 9 November next year.\nWhich Iqbal poem is your favourite? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IqbalDay #AllamaIqbal #Pakistan #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-iqbal-149th-birth-anniversary.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-iqbal-149th-birth-anniversary-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "297072506536797",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T10:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-iqbal-149th-birth-anniversary-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-09T09:50:51+05:00"
+}

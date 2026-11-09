@@ -8164,5 +8164,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T10:00:00+05:00",
+  "request_id": "2026-11-09-iqbal-149th-birth-anniversary",
+  "layout": "bold",
+  "headline": "President Asif Ali Zardari and PM Shehbaz Sharif paid tribute to Allama Muhammad Iqbal on his 149th birth anniversary, and the PM said a year-long commemoration begins today, culminating on 9 November next year.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043141/president-pm-pay-tribute-to-allama-iqbal-on-birth-anniversary",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043141/president-pm-pay-tribute-to-allama-iqbal-on-birth-anniversary",
+    "published_at": "2026-11-09T06:36:07+05:00"
+   }
+  ],
+  "published": "2026-11-09T06:36:07+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 911544892,
+  "image": "posts/2026-11-09-iqbal-149th-birth-anniversary.jpg",
+  "story": "posts/2026-11-09-iqbal-149th-birth-anniversary-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 10:00 PKT",
+  "music": "Melodic Mountain - Ross Lara",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-iqbal-149th-birth-anniversary.mp4"
  }
 ]
