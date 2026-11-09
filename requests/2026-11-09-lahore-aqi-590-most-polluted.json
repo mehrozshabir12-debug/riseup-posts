@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-09-lahore-aqi-590-most-polluted",
+ "type": "news",
+ "headline": "Lahore was ranked the world's most polluted major city on Monday with an IQAir Air Quality Index of 590, while the Allama Iqbal Town station recorded 1,033.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043255/lahore-remains-worlds-most-polluted-major-city-as-aqi-crosses-600",
+   "published_at": "2026-11-09T12:06:56+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9ece469e-8bcf-4b0d-95f8-a1357f2d227e/79fc288b-eea7-47b2-9e9d-b05afeeb0818/Realistic_news_photo_of_a_busy_Lahore_city_road_on_a_heavy_s.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTlmYmQwNThlMjBkOWNmNSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDMyNTcyMH0.VEhTbdUmtf2ALDHE_h0aA6V8jOUIVUWPeMS49_-vax0",
+  "head1": "Lahore ki hawa",
+  "head2_hl": "sab se kharab",
+  "head2": "",
+  "kicker": "Dunya mein pehla number",
+  "desc": "Monday subah AQI 590, Allama Iqbal Town mein 1,033 tak pohncha.",
+  "source": "Dawn",
+  "date": "09 NOV 2026"
+ },
+ "caption": "Lahore ki hawa phir dunya mein sab se kharab, AQI 590!\nDawn ke mutabiq Monday ko IQAir ki ranking mein Lahore dunya ka sab se zyada pollution wala bara shehar raha. Yahan AQI 590 tha, jo doosre number ke shehar se 3 guna se bhi zyada hai. Allama Iqbal Town mein AQI 1,033 tak pohnch gaya. Report ke mutabiq 9 aur 10 November ko pollution zyada rahegi, aur 11 November se thori behtari ki umeed hai.\nAap smog se bachne ke liye kya karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LahoreSmog #AirQuality #Lahore #PakistanNews",
+ "tiktok_title": "Lahore phir dunya ka sab se zyada pollution wala shehar, AQI 590",
+ "publish": {
+  "slot": "2026-11-09T19:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1211414204067053",
+  "label": "Drift Away (Instrumental) - Giulio Cercato"
+ },
+ "ai_generated": true
+}
