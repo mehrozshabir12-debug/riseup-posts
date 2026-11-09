@@ -8480,10 +8480,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-09 20:03 PKT",
+  "scheduled": "2026-11-09T20:05:00+05:00",
   "music": "Heros Journey (Instrumental) - Abby Posner",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-09-pakistan-281-5-day-one-sri-lanka.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 421948065,
+   "feed": 421948104,
+   "story": 421948158
+  },
+  "video": "posts/2026-11-09-pakistan-281-5-day-one-sri-lanka.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
