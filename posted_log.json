@@ -8546,5 +8546,35 @@
    },
    "feed": {}
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T22:00:00+05:00",
+  "request_id": "2026-11-09-drap-mehfooz-dawa-app",
+  "layout": "bold",
+  "headline": "The Drug Regulatory Authority of Pakistan (DRAP) on Monday urged the public to use its new Mehfooz Dawa app to verify the authenticity and prices of medicines, as part of efforts to curb the sale of counterfeit drugs.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043272/drap-urges-public-to-verify-authenticity-and-prices-of-medicines-via-new-app",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043272/drap-urges-public-to-verify-authenticity-and-prices-of-medicines-via-new-app",
+    "published_at": "2026-11-09T15:19:47+05:00"
+   }
+  ],
+  "published": "2026-11-09T15:19:47+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 927899504,
+  "image": "posts/2026-11-09-drap-mehfooz-dawa-app.jpg",
+  "story": "posts/2026-11-09-drap-mehfooz-dawa-app-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 22:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-drap-mehfooz-dawa-app.mp4"
  }
 ]
