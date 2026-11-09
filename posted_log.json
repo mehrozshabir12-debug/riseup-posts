@@ -8189,10 +8189,39 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-09 10:00 PKT",
+  "scheduled": "2026-11-09T10:00:00+05:00",
   "music": "Melodic Mountain - Ross Lara",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-09-iqbal-149th-birth-anniversary.mp4"
+  "publish_status": "published",
+  "metricool_ids": {
+   "reel": 421364985,
+   "feed": 421365063,
+   "story": 421365078
+  },
+  "video": "posts/2026-11-09-iqbal-149th-birth-anniversary.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PUBLISHED",
+    "instagram": "PUBLISHED"
+   },
+   "feed": {
+    "tiktok": "PUBLISHED"
+   },
+   "story": {
+    "facebook": "PUBLISHED",
+    "instagram": "PUBLISHED"
+   }
+  },
+  "public_urls": {
+   "reel": {
+    "facebook": "https://facebook.com/reel/1192424770108968",
+    "instagram": "https://www.instagram.com/reel/DfgiNhEkV2U/"
+   },
+   "feed": {
+    "tiktok": "https://www.tiktok.com/@riseuppakistan2025/video/7706032559695662356"
+   },
+   "story": {
+    "facebook": "https://facebook.com/122185478282855502/posts/2080519779262370"
+   }
+  }
  }
 ]

@@ -27,7 +27,7 @@
   }
  },
  "card_seed": 911544892,
- "published": false,
+ "published": true,
  "metricool": {
   "blogId": "7305396",
   "mode": "chatgpt_connector",
@@ -142,9 +142,44 @@
     }
    }
   },
-  "posts": {}
+  "posts": {
+   "reel": {
+    "attempts": 1,
+    "metricool_id": 421364985,
+    "status": {
+     "facebook": "PUBLISHED",
+     "instagram": "PUBLISHED"
+    },
+    "public_urls": {
+     "facebook": "https://facebook.com/reel/1192424770108968",
+     "instagram": "https://www.instagram.com/reel/DfgiNhEkV2U/"
+    }
+   },
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 421365063,
+    "status": {
+     "tiktok": "PUBLISHED"
+    },
+    "public_urls": {
+     "tiktok": "https://www.tiktok.com/@riseuppakistan2025/video/7706032559695662356"
+    }
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 421365078,
+    "status": {
+     "facebook": "PUBLISHED",
+     "instagram": "PUBLISHED"
+    },
+    "public_urls": {
+     "facebook": "https://facebook.com/122185478282855502/posts/2080519779262370"
+    }
+   }
+  }
  },
- "status": "awaiting_publish",
+ "status": "published",
  "log": "posted_log.json",
- "updated_at": "2026-11-09T09:50:51+05:00"
+ "updated_at": "2026-11-09T11:59:52+05:00",
+ "receipt_sha": "0df08c26145bf6cd4805598c0dbef7e6f16636f27fa1ba1d17fcd5988888f52f"
 }
