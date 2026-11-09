@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-09-tarbela-t5-bund-collapse",
+ "type": "news",
+ "headline": "The protective bund of the under-construction Tunnel-5 of the Tarbela Dam 5th Extension Project collapsed on Monday, sending reservoir water into the tunnel and power house area; Wapda said all workers were evacuated safely and no one was hurt.",
+ "language": "Roman Urdu",
+ "sources": [
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2043275/protective-bund-of-tarbela-dam-tunnel-collapses-triggering-water-surge", "published_at": "2026-11-09T15:29:06+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/2d4f854e-82d2-43ae-b192-5e247c1bfca7/0a011e9a-4927-4625-968b-eeb23dfb6b5a/Realistic_news_photo_of_a_large_hydropower_dam_construction_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTM1N2YzYTIzM2RmNjRkNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDM3OTU1NH0.gRFCtY5C5lngPj18BoR6MvOYuQ7zkOfyY9TJUdcJG70",
+  "head1": "Tarbela project par",
+  "head2_hl": "bund toot gaya",
+  "head2": "",
+  "kicker": "Workers mehfooz, koi zakhmi nahi",
+  "desc": "Wapda: Tunnel-5 ki khudai mein pani power house tak aaya.",
+  "source": "Dawn",
+  "date": "09 NOV 2026"
+ },
+ "caption": "Tarbela Dam ke naye project par pani rokne wala bund toot gaya!\nDawn ke mutabiq Monday ko Tarbela Dam 5th Extension Project ki nayi ban rahi Tunnel-5 ka hifazati bund gir gaya, aur dam ka pani tunnel aur power house ke ilaqe mein aa gaya. Emergency laga kar kaam rok diya gaya. Wapda ke mutabiq tamam workers ko mehfooz nikal liya gaya, koi zakhmi nahi hua, aur main tunnel aur power house ko nuqsan nahi pohncha.\nKya bare projects par hifazat ka intezam aur behtar hona chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #TarbelaDam #Wapda #Swabi #PakistanNews",
+ "tiktok_title": "Tarbela Dam project par bund toot gaya, Wapda: sab workers mehfooz",
+ "publish": {"slot": "2026-11-09T16:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "1329928372147056", "label": "Slow Living - stereogully"},
+ "ai_generated": true
+}
