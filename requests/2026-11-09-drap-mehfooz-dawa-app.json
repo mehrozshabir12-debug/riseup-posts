@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-09-drap-mehfooz-dawa-app",
+ "type": "news",
+ "headline": "The Drug Regulatory Authority of Pakistan (DRAP) on Monday urged the public to use its new Mehfooz Dawa app to verify the authenticity and prices of medicines, as part of efforts to curb the sale of counterfeit drugs.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043272/drap-urges-public-to-verify-authenticity-and-prices-of-medicines-via-new-app",
+   "published_at": "2026-11-09T15:19:47+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/38f9f13e-4b7a-49d0-9ea0-69535880ba54/3f4524de-1fa9-4097-addb-0642bdd937d2/Realistic_news_photo_inside_a_small_Pakistani_neighbourhood_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOGViM2MxNDkzNmMyYTFjNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDM1NjI5N30._zLK4ZfarmfOiTPUvsuviGNzvIFYeZqaXJtegXk9fok",
+  "head1": "DRAP app checks",
+  "head2_hl": "medicine prices",
+  "head2": "",
+  "kicker": "Scan medicine pack barcodes",
+  "desc": "Use the Mehfooz Dawa app to verify real medicines and prices.",
+  "source": "Dawn",
+  "date": "09 NOV 2026"
+ },
+ "caption": "Is your medicine real? Check it with your phone!\nAccording to Dawn, DRAP has asked people to use its new Mehfooz Dawa app to check if their medicines are genuine and to see their prices. People with smartphones can scan the barcode on a medicine pack to see the product details and price. The aim is to stop the sale of fake medicines.\nWill you use this app? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #DRAP #MehfoozDawa #FakeMedicines #PakistanNews",
+ "tiktok_title": "DRAP's Mehfooz Dawa app: scan the barcode to check if your medicine is real",
+ "publish": {
+  "slot": "2026-11-09T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "810120545333296",
+  "label": "Iced Latte - Global Genius"
+ },
+ "ai_generated": true
+}
