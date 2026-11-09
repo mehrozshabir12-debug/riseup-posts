@@ -8223,5 +8223,35 @@
     "facebook": "https://facebook.com/122185478282855502/posts/2080519779262370"
    }
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T12:00:00+05:00",
+  "request_id": "2026-11-09-pak-sl-first-test-rawalpindi-begins",
+  "layout": "bold",
+  "headline": "Sri Lanka won the toss and chose to bowl against Pakistan in the first Test in Rawalpindi on Monday, with Pakistan handing Test debuts to Tayyab Arif, Mohammad Taha, Arafat Minhas and Saqib Khan.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/sri-lanka-win-toss-send-pakistan-into-bat-in-first-test-3006517",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/sri-lanka-win-toss-send-pakistan-into-bat-in-first-test-3006517",
+    "published_at": "2026-11-09T10:33:29+05:00"
+   }
+  ],
+  "published": "2026-11-09T10:33:29+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 898421751,
+  "image": "posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.jpg",
+  "story": "posts/2026-11-09-pak-sl-first-test-rawalpindi-begins-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 12:05 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.mp4"
  }
 ]

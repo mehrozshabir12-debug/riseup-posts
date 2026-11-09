@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-09-pak-sl-first-test-rawalpindi-begins",
+ "revision": 1,
+ "request": "requests/2026-11-09-pak-sl-first-test-rawalpindi-begins.json",
+ "type": "news",
+ "headline": "Sri Lanka won the toss and chose to bowl against Pakistan in the first Test in Rawalpindi on Monday, with Pakistan handing Test debuts to Tayyab Arif, Mohammad Taha, Arafat Minhas and Saqib Khan.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-09T12:05:00+05:00",
+ "target_slot": "2026-11-09T12:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-sl-first-test-rawalpindi-begins-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.jpg",
+  "story": "posts/2026-11-09-pak-sl-first-test-rawalpindi-begins-story.jpg",
+  "reel": "posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 898421751,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan aur Sri Lanka ka pehla Test Rawalpindi mein shuru! 🏏\nArab News ke mutabiq Monday ko Sri Lanka ke captain Kusal Mendis ne toss jeet kar pehle bowling ka faisla kiya. Pakistan ki taraf se Tayyab Arif, Mohammad Taha, Arafat Minhas aur Saqib Khan apna pehla Test match khel rahe hain. Doosra Test 17 November se Lahore mein hoga.\nAap ke khayal mein yeh Test kaun jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan vs Sri Lanka pehla Test Rawalpindi mein shuru, 4 khiladiyon ka debut",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan aur Sri Lanka ka pehla Test Rawalpindi mein shuru! 🏏\nArab News ke mutabiq Monday ko Sri Lanka ke captain Kusal Mendis ne toss jeet kar pehle bowling ka faisla kiya. Pakistan ki taraf se Tayyab Arif, Mohammad Taha, Arafat Minhas aur Saqib Khan apna pehla Test match khel rahe hain. Doosra Test 17 November se Lahore mein hoga.\nAap ke khayal mein yeh Test kaun jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-sl-first-test-rawalpindi-begins.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-sl-first-test-rawalpindi-begins-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1543577430102877",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-09T12:10:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pak-sl-first-test-rawalpindi-begins-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-09T12:00:06+05:00"
+}
