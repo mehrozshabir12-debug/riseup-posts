@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-09-iqbal-149th-birth-anniversary",
+ "type": "news",
+ "headline": "President Asif Ali Zardari and PM Shehbaz Sharif paid tribute to Allama Muhammad Iqbal on his 149th birth anniversary, and the PM said a year-long commemoration begins today, culminating on 9 November next year.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043141/president-pm-pay-tribute-to-allama-iqbal-on-birth-anniversary",
+   "published_at": "2026-11-09T06:36:07+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f0cb5fbc-8035-4f44-85ce-857b00cca581/6b5387b1-aa2d-41ef-9e02-8552e27787b1/Realistic_photo_of_an_old_Mughal_style_red_brick_and_white_m.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMjg5NmRlYzIxZjBkMGNkOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDMyNjQ2Nn0.zR917WDNW5ARZh_uUJZ1dMZB8hvLIFkPuZ7IjKGmtOM",
+  "head1": "Pakistan remembers",
+  "head2_hl": "Allama Iqbal",
+  "head2": "",
+  "kicker": "149th birth anniversary today",
+  "desc": "President and PM pay tribute; year-long celebration begins today.",
+  "source": "Dawn",
+  "date": "09 NOV 2026"
+ },
+ "caption": "Pakistan remembers Allama Iqbal on his 149th birth anniversary!\nAccording to Dawn, President Asif Ali Zardari and PM Shehbaz Sharif paid tribute to national poet Allama Muhammad Iqbal in separate messages. President Zardari asked young people to take inspiration from Iqbal's poetry, and PM Shehbaz said the government will hold a year-long celebration from today until 9 November next year.\nWhich Iqbal poem is your favourite? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IqbalDay #AllamaIqbal #Pakistan #PakistanNews",
+ "tiktok_title": "Pakistan remembers Allama Iqbal on 149th birth anniversary, year-long celebration begins",
+ "publish": {
+  "slot": "2026-11-09T10:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "297072506536797",
+  "label": "Melodic Mountain - Ross Lara"
+ },
+ "ai_generated": true
+}
