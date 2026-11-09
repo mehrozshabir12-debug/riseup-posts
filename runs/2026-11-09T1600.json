@@ -1,1 +1,75 @@
-{"slot": "2026-11-09T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T15:46:35+05:00", "language": "ur"}
+{
+ "slot": "2026-11-09T16:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "run_started_pkt": "2026-11-09T15:46:35+05:00",
+ "run_finished_pkt": "2026-11-09T15:50:34+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "The protective bund of the under-construction Tunnel-5 of the Tarbela Dam 5th Extension Project collapsed on Monday, sending reservoir water into the tunnel and power house area; Wapda said all workers were evacuated safely and no one was hurt.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043275/protective-bund-of-tarbela-dam-tunnel-collapses-triggering-water-surge",
+    "published_at": "2026-11-09T15:29:06+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-09-tarbela-t5-bund-collapse",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-tarbela-t5-bund-collapse.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 421643975,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=94045202567021862",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 421644037,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3854987543749411107",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 421644071,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2707361059302848458",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Slow Living - stereogully (1329928372147056, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 15:00-17:00 empty; 6-hour windows 2026-11-07T15:00..2026-11-10T04:00 all succeeded; RiseUp day counts before: 3 news, 3 TikTok. getBrandSettings not called separately (previous slots show FB/IG/TikTok publishing normally).",
+  "previous_slot_check": "No 15:00 post. 14:00 posts all PUBLISHED: reel 421517067 FB https://facebook.com/reel/1026381053817532 + IG https://www.instagram.com/reel/Dfg-IVQGTgu/, feed 421517078 TikTok https://www.tiktok.com/@riseuppakistan2025/video/7706095475870502150, story 421517092 FB+IG PUBLISHED.",
+  "news_search": "Searched dawn.com, tribune.com.pk, arabnews/geo. Dawn Tarbela T-5 bund story published 15:29 PKT (31 min before T). Not a duplicate of the last 48h.",
+  "verification": "Dawn article read via fetch: article:published_time 2026-11-09T15:29:06+05:00, modified 15:43:43. Facts checked: Tunnel-5 of Tarbela 5th Extension Project, protective bund collapsed Monday, emergency declared, work suspended; Wapda: water from Intake Pit entered tunnel and power house area, all workers evacuated safely, no injuries, main tunnel/power house/tailrace/switchyard not damaged.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: dam construction site with water surge, anonymous workers from behind, no public figures, no gore; tiny unreadable maker marks on distant excavators only, accepted to save credits.",
+  "publish": "Card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one post (facebookData REEL, IG music audioType music, displayArtist stereogully), TikTok photo separate, FB+IG Story at 16:05. Trending-audio search not run; verified-list calm id used (serious story, unused today). Zoom renderer cannot bake a licensed track into the MP4 (only narrated reels have synthesized audio), so Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Anchorperson killing in Rawalpindi - remand of husband (Dawn)",
+   "reason": "violence/crime; skip per rules"
+  },
+  {
+   "headline": "Pakistan vs Sri Lanka first Test lunch score",
+   "reason": "Same Test already posted at 12:00; not a genuinely new development"
+  }
+ ],
+ "errors": []
+}
