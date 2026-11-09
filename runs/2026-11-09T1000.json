@@ -1,1 +1,75 @@
-{"slot": "2026-11-09T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T09:46:37+05:00", "language": "en"}
+{
+ "slot": "2026-11-09T10:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "run_started_pkt": "2026-11-09T09:46:37+05:00",
+ "run_finished_pkt": "2026-11-09T09:51:52+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "President Zardari and PM Shehbaz pay tribute to Allama Iqbal on 149th birth anniversary; year-long commemoration begins",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043141/president-pm-pay-tribute-to-allama-iqbal-on-birth-anniversary",
+    "published_at": "2026-11-09T06:36:07+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-11-09-iqbal-149th-birth-anniversary",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-iqbal-149th-birth-anniversary.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 421365063,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6275248840935228986",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 421364985,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7262520895222232667",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "story": {
+   "id": 421365078,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4763463999127796300",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Melodic Mountain - Ross Lara (297072506536797, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; 6-hour windows 2026-11-07T09:00..2026-11-09T22:00 all succeeded; slot 10:00 free; RiseUp day 2026-11-09 counts before: 0 news, 0 TikTok",
+  "previous_slot_check": "No post at 2026-11-09T00:00. Last posts 2026-11-08T23:00 (feed 420940382 FB+TikTok PUBLISHED, reel 420940404 IG PUBLISHED, story 420940414 FB+IG PUBLISHED). No errors.",
+  "news_search": "Chose Dawn (APP) Iqbal Day tributes 06:36 PKT (3h24m before T, 4h window). Nothing suitable found in 2h/3h windows.",
+  "verification": "Dawn article read; timestamp 2026-11-09T06:36:07+05:00 from meta; names, 149th anniversary and year-long commemoration until 9 Nov next year checked.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: no text, no real public figures",
+  "publish": "Per owner 9 Nov: FB+IG Reel in one post (facebookData REEL, IG music), TikTok photo separate, FB+IG Story at 10:05. All PENDING. Zoom renderer (template/make_video.py) only adds silent anullsrc audio, cannot bake a licensed track, so Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PML-N retains NA-77 and PP-203 (Dawn 06:36)",
+   "reason": "same by-election event already posted 2026-11-08 23:00"
+  },
+  {
+   "headline": "KP and GB agree to settle boundary disputes (Dawn 06:39, upd 07:33)",
+   "reason": "less relevant to ordinary readers than Iqbal Day"
+  }
+ ],
+ "errors": []
+}
