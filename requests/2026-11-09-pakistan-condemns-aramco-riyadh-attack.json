@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-09-pakistan-condemns-aramco-riyadh-attack",
+ "type": "news",
+ "headline": "Pakistan's Foreign Office on Monday condemned the attempted Houthi attack on Saudi Aramco's building in Riyadh, said no casualties were reported, and demanded the Houthis immediately and unconditionally cease all attacks against Saudi Arabia.",
+ "language": "Roman Urdu",
+ "sources": [
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2043294/pakistan-condemns-targeting-of-aramco-building-demands-houthis-cease-all-attacks-against-saudi-arabia", "published_at": "2026-11-09T19:42:29+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/401cd8aa-6537-459b-8157-cbcc06300e32/59dc8623-f56f-4dbe-bf95-c8a721fa90e7/Realistic_news_photo_of_a_modern_financial_district_skyline_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZTc2ZDg0YzM4YjJiZjM1YiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDMzOTkwN30.DJFhlvCaoPvQpV0xNudrorWkPSIsamuEu9XuR0IpYUY",
+  "head1": "Pakistan ne ki",
+  "head2_hl": "Houthi hamle",
+  "head2": "ki mazammat",
+  "kicker": "Riyadh mein Aramco building nishana",
+  "desc": "Foreign Office: koi jaani nuqsan nahi hua, hamle foran band hon.",
+  "source": "Dawn",
+  "date": "09 NOV 2026"
+ },
+ "caption": "Pakistan ne Riyadh mein Aramco building par hamle ki mazammat kar di!\nDawn ke mutabiq Pakistan ke Foreign Office ne Monday ko Saudi Arabia ke dar-ul-hukumat Riyadh mein Saudi tel company Aramco ki building par Houthi hamle ki koshish ki mazammat ki. Houthi Yemen ka baghi group hai. FO ne kaha ke shukar hai koi jaani nuqsan nahi hua, aur Houthi Saudi Arabia par tamam hamle foran aur bina shart band karein. FO ke mutabiq Saudi Arabia ki hifazat Pakistan ke liye bohat ahem hai.\nAap is baare mein kya kehte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SaudiArabia #PakistanSaudiArabia #ForeignOffice #PakistanNews",
+ "tiktok_title": "Pakistan ne Riyadh mein Aramco building par Houthi hamle ki mazammat ki",
+ "publish": {"slot": "2026-11-09T21:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "985048086988929", "label": "Vow (Instrumental) - Ross Lara"},
+ "ai_generated": true
+}
