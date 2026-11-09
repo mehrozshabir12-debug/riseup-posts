@@ -1,1 +1,81 @@
-{"slot": "2026-11-09T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-09T20:47:14+05:00", "language": "ur"}
+{
+ "slot": "2026-11-09T21:00:00+05:00",
+ "riseup_day": "2026-11-09",
+ "run_started_pkt": "2026-11-09T20:47:14+05:00",
+ "run_finished_pkt": "2026-11-09T20:52:10+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "Pakistan's Foreign Office on Monday condemned the attempted Houthi attack on Saudi Aramco's building in Riyadh, said no casualties were reported, and demanded the Houthis immediately and unconditionally cease all attacks against Saudi Arabia.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043294/pakistan-condemns-targeting-of-aramco-building-demands-houthis-cease-all-attacks-against-saudi-arabia",
+    "published_at": "2026-11-09T19:42:29+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-09-pakistan-condemns-aramco-riyadh-attack",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-09-pakistan-condemns-aramco-riyadh-attack.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 422026257,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1096074059726172435",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": null,
+   "networks": {},
+   "note": "no TikTok post: pipeline warning 'TikTok skipped: 6 TikTok posts on RiseUp day 2026-11-09; allowed by 21:00 = 6 (max 8/day)'"
+  },
+  "story": {
+   "id": 422026294,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2062969029001625856",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Vow (Instrumental) - Ross Lara (985048086988929, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 20:00-22:00 had only the 20:05/20:10 posts (21:00 free); windows 2026-11-07T20:00..2026-11-10T09:00 all succeeded. No Aramco/Houthi story in last 48 h. RiseUp day before: 7 news, 6 TikTok.",
+  "previous_slot_check": "20:00 slot all PUBLISHED: reel 421948065 FB https://facebook.com/reel/2345095739660560 + IG https://www.instagram.com/reel/Dfhnv5PCaeX/, TikTok 421948104 https://www.tiktok.com/@riseuppakistan2025/video/7706189115271761173, story 421948158 FB+IG PUBLISHED. No retries.",
+  "news_search": "Searched dawn/tribune/geo/thenews/arabnews/app/brecorder. Picked FO condemnation of attempted Houthi attack on Aramco building in Riyadh (Dawn 19:42 PKT, Arab News 19:57 PKT confirms) -> 2h window.",
+  "verification": "Dawn article read: article:published_time 2026-11-09T19:42:29+05:00, modified 19:45:08. Facts: FO statement Monday condemned Houthi attack on Aramco office in Riyadh (attack on Sunday); 'no casualties were reported'; demanded Houthis 'immediately and unconditionally' cease all attacks against Saudi Arabia; Saudi security of 'paramount importance'. Arab News (FO direct quote 'attempted attack by the Houthis', no casualties) agrees.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: Riyadh skyline at dusk, palm boulevard, no readable text/logos, no identifiable people, no damage shown.",
+  "publish": "Card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card; MP4 audio track silent -91 dB). FB+IG Reel in one Metricool post at 21:00 (facebookData REEL; IG audio resolved to audioType music, displayArtist Ross Lara). Caption: 'dar-ul-hukumat' replaced by 'shehar' in the posted text for easier Roman Urdu. Story FB+IG at 21:05. No TikTok post (pipeline cap). Zoom renderer cannot bake a licensed track into the MP4, so the Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Karachi inspector Javed Abro killing probe team",
+   "reason": "crime/violence"
+  },
+  {
+   "headline": "Sialkot police arrest TikToker",
+   "reason": "crime/private individuals"
+  },
+  {
+   "headline": "Pakistan likely to host Makkah defence pact meeting",
+   "reason": "'likely', unconfirmed"
+  },
+  {
+   "headline": "Hajj conference agreements",
+   "reason": "less fresh; Aramco statement newer"
+  }
+ ],
+ "errors": []
+}

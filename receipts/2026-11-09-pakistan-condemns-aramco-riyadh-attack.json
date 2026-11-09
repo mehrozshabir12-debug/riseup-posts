@@ -1,0 +1,28 @@
+{
+ "id": "2026-11-09-pakistan-condemns-aramco-riyadh-attack",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 422026257,
+   "uuid": "-1096074059726172435",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "story": {
+   "metricool_id": 422026294,
+   "uuid": "2062969029001625856",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "feed": {
+   "metricool_id": null,
+   "status": {},
+   "note": "TikTok skipped by pipeline cap (6 by 21:00); Facebook goes as Reel"
+  }
+ }
+}
