@@ -8389,10 +8389,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-09 18:00 PKT",
+  "scheduled": "2026-11-09T18:00:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-09-pak-saudi-joint-business-council-fund.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 421774862,
+   "feed": 421774890,
+   "story": 421774919
+  },
+  "video": "posts/2026-11-09-pak-saudi-joint-business-council-fund.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
