@@ -8364,5 +8364,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-09",
+  "slot": "2026-11-09T18:00:00+05:00",
+  "request_id": "2026-11-09-pak-saudi-joint-business-council-fund",
+  "layout": "bold",
+  "headline": "The Saudi-Pakistan Joint Business Council, formed by both governments, launched a private equity fund on Monday with an initial size of multi-hundred million, three-fourths of which will go to Pakistan.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40448123/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448123/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment",
+    "published_at": "2026-11-09T17:02:47+05:00"
+   }
+  ],
+  "published": "2026-11-09T17:02:47+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 546643444,
+  "image": "posts/2026-11-09-pak-saudi-joint-business-council-fund.jpg",
+  "story": "posts/2026-11-09-pak-saudi-joint-business-council-fund-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-09 18:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-09-pak-saudi-joint-business-council-fund.mp4"
  }
 ]
