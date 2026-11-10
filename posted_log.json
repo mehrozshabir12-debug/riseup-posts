@@ -8961,5 +8961,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T22:00:00+05:00",
+  "request_id": "2026-11-10-wapda-inquiry-tarbela-incident",
+  "layout": "bold",
+  "headline": "Wapda Chairman Lt Gen (retd) Muhammad Saeed on Tuesday ordered an inquiry into the incident inside the tunnel of the Tarbela Fifth Extension Hydropower Project, as Wapda, consultants and the contractor agreed there is no threat to the main dam or any major structure, The Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2639615/wapda-chairman-orders-inquiry-into-tarbela-project-incident",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639615/wapda-chairman-orders-inquiry-into-tarbela-project-incident",
+    "published_at": "2026-11-10T20:07:28+05:00"
+   }
+  ],
+  "published": "2026-11-10T20:07:28+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 925310891,
+  "image": "posts/2026-11-10-wapda-inquiry-tarbela-incident.jpg",
+  "story": "posts/2026-11-10-wapda-inquiry-tarbela-incident-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 22:00 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-wapda-inquiry-tarbela-incident.mp4"
  }
 ]
