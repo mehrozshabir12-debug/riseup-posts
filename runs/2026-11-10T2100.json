@@ -1,1 +1,76 @@
-{"slot": "2026-11-10T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T20:46:37+05:00", "language": "ur"}
+{
+ "slot": "2026-11-10T21:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T20:46:37+05:00",
+ "run_finished_pkt": "2026-11-10T20:52:19+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "Gold price in Pakistan fell by Rs1,500 to Rs430,836 per tola on Tuesday, while 10 grams fell by Rs1,286 to Rs369,372, according to APGJSA rates reported by Business Recorder.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448255/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+    "published_at": "2026-11-10T15:16:44+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h",
+ "request_id": "2026-11-10-gold-per-tola-down-rs1500",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-gold-per-tola-down-rs1500.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 423333102,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1977542930777423860",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": null,
+  "story": {
+   "id": 423333118,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1500905166798435760",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (757785052896581, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 20:00-22:00 had only the 20:00 posts, 21:00 empty. Windows 2026-11-08T20:45..2026-11-11T09:00 all succeeded. RiseUp day 2026-11-10: 7 news, 6 TikTok before this post. Gold drop not posted in last 48h.",
+  "previous_slot_check": "20:00 slot (posted 20:07): reel 423269957 FB https://facebook.com/reel/1150865290822502 + IG https://www.instagram.com/reel/DfkMpYrEoBw/ PUBLISHED; TikTok 423270013 PUBLISHED; story 423270104 FB+IG PUBLISHED. No retries.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, The News, APP. 2h-4h windows: only China space-cooperation item (Arab News 19:35), same event as 7 Nov Shenzhou-24 astronaut post. 6h window: Brecorder gold price (15:16 PKT) and Dawn BHC Achakzai sentence (15:37); gold chosen as it matters to ordinary people.",
+  "verification": "Brecorder article read: article:published_time 2026-11-10T15:16:44+05:00, BR Web Desk. Facts: per tola Rs430,836 after Rs1,500 fall (Monday Rs432,336); 10 g Rs369,372 after Rs1,286 fall; APGJSA rates; international down $15 to $4,083/oz. Note: URL slug says Rs2,700 but headline and body say Rs1,500; body figures used.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: jewellery shop counter with gold bangles and bars, shopkeeper's face cropped out, no readable text or logos.",
+  "publish": "Roman Urdu card and 8 s 1080x1920 zoom MP4 (with audio stream) inspected (frame at 4 s shows card). FB Reel + IG Reel in one Metricool post at 21:00 (IG audio audioType music, displayArtist Trout Recording). Story FB+IG 21:05. No TikTok/feed post: pipeline skipped TikTok (6 TikTok by 21:00 = pacing limit). Zoom renderer has no option to bake a licensed track, so the Facebook Reel has no added music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "China ready to deepen space cooperation with Pakistan (Arab News 19:35)",
+   "reason": "same event as 7 Nov Shenzhou-24 astronaut post"
+  },
+  {
+   "headline": "BHC hands ex-MPA Abdul Majeed Achakzai 10-year sentence (Dawn 15:37)",
+   "reason": "gold price story more relevant to ordinary people"
+  },
+  {
+   "headline": "PM directs FO to escalate Gaza aid (Dawn 9 Nov)",
+   "reason": "older than 8h, posted 9 Nov 14:00"
+  }
+ ],
+ "warnings": [
+  "TikTok skipped by pipeline: 6 TikTok posts on RiseUp day 2026-11-10; allowed by 21:00 = 6"
+ ],
+ "errors": []
+}
