@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-10-wapda-inquiry-tarbela-incident",
+ "type": "news",
+ "headline": "Wapda Chairman Lt Gen (retd) Muhammad Saeed on Tuesday ordered an inquiry into the incident inside the tunnel of the Tarbela Fifth Extension Hydropower Project, as Wapda, consultants and the contractor agreed there is no threat to the main dam or any major structure, The Express Tribune reports.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639615/wapda-chairman-orders-inquiry-into-tarbela-project-incident",
+   "published_at": "2026-11-10T20:07:28+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9e3aa255-e931-40e3-aaf7-4daf0765a6b8/71b69b96-91fb-4371-a0be-95924318ce73/Realistic_news_photo_of_a_large_hydropower_dam_spillway_and_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOWZjYzYxYzI0YjRiMWE0NiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDQyMTMxNH0.BoLfVCiuaN89f1hwbJ23eUVGxd3KlhRwEXFzu_7KGSQ",
+  "head1": "Tarbela incident",
+  "head2_hl": "inquiry ordered",
+  "head2": "",
+  "kicker": "No threat to main dam",
+  "desc": "Wapda says the main dam and key structures are safe.",
+  "source": "Express Tribune",
+  "date": "10 NOV 2026"
+ },
+ "caption": "Wapda orders an inquiry into the Tarbela project incident!\nAccording to The Express Tribune, Wapda Chairman Lt Gen (retd) Muhammad Saeed on Tuesday ordered an inquiry into the incident inside the tunnel of the 1,530MW Tarbela Fifth Extension Hydropower Project. A protective embankment broke on Monday and construction work was stopped. Wapda, the consultants and the contractor agreed that there is no threat to the main dam or any major structure.\nShould big projects have stronger safety checks? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #TarbelaDam #Wapda #PakistanWater #PakistanNews",
+ "tiktok_title": "Wapda orders inquiry into Tarbela project incident, says main dam is safe",
+ "publish": {
+  "slot": "2026-11-10T22:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "478728841591377",
+  "label": "Reflection - Sam Marshall"
+ },
+ "ai_generated": true
+}
