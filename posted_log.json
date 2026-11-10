@@ -9008,5 +9008,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T23:00:00+05:00",
+  "request_id": "2026-11-10-qureshi-taken-to-pic",
+  "layout": "bold",
+  "headline": "PTI leader Shah Mahmood Qureshi, held in Kot Lakhpat jail, was taken to the Punjab Institute of Cardiology in Lahore on Tuesday days after suffering a fall, and will be kept under observation for 24 hours, his lawyer Rana Mudassar Umar told Dawn.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043526/lawyer-says-shah-mahmood-qureshi-taken-to-hospital-days-after-suffering-fall",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043526/lawyer-says-shah-mahmood-qureshi-taken-to-hospital-days-after-suffering-fall",
+    "published_at": "2026-11-10T18:01:45+05:00"
+   }
+  ],
+  "published": "2026-11-10T18:01:45+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 984466517,
+  "image": "posts/2026-11-10-qureshi-taken-to-pic.jpg",
+  "story": "posts/2026-11-10-qureshi-taken-to-pic-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 23:04 PKT",
+  "music": "Carry On (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-qureshi-taken-to-pic.mp4"
  }
 ]

@@ -1,0 +1,141 @@
+{
+ "id": "2026-11-10-qureshi-taken-to-pic",
+ "revision": 1,
+ "request": "requests/2026-11-10-qureshi-taken-to-pic.json",
+ "type": "news",
+ "headline": "PTI leader Shah Mahmood Qureshi, held in Kot Lakhpat jail, was taken to the Punjab Institute of Cardiology in Lahore on Tuesday days after suffering a fall, and will be kept under observation for 24 hours, his lawyer Rana Mudassar Umar told Dawn.",
+ "warnings": [
+  "TikTok skipped: 7 TikTok posts on RiseUp day 2026-11-10; allowed by 23:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-10T23:04:00+05:00",
+ "target_slot": "2026-11-10T23:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-qureshi-taken-to-pic.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-qureshi-taken-to-pic-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-qureshi-taken-to-pic.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-10-qureshi-taken-to-pic.jpg",
+  "story": "posts/2026-11-10-qureshi-taken-to-pic-story.jpg",
+  "reel": "posts/2026-11-10-qureshi-taken-to-pic.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 984466517,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T23:04:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Shah Mahmood Qureshi ko jail se hospital le jaya gaya!\nDawn ke mutabiq PTI ke senior leader Shah Mahmood Qureshi ko Tuesday ko Lahore ke Punjab Institute of Cardiology (PIC), yaani dil ke hospital, le jaya gaya. Un ke wakeel Rana Mudassar Umar ne bataya ke woh kuch din pehle Kot Lakhpat jail mein behosh ho kar gir gaye thay. Unhein 24 ghante nigrani mein rakha jayega, phir faisla hoga ke hospital mein dakhil karna hai ya nahi.\nAap is khabar par kya kehte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ShahMahmoodQureshi #PTI #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-qureshi-taken-to-pic.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T23:04:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Shah Mahmood Qureshi ko jail se hospital le jaya gaya!\nDawn ke mutabiq PTI ke senior leader Shah Mahmood Qureshi ko Tuesday ko Lahore ke Punjab Institute of Cardiology (PIC), yaani dil ke hospital, le jaya gaya. Un ke wakeel Rana Mudassar Umar ne bataya ke woh kuch din pehle Kot Lakhpat jail mein behosh ho kar gir gaye thay. Unhein 24 ghante nigrani mein rakha jayega, phir faisla hoga ke hospital mein dakhil karna hai ya nahi.\nAap is khabar par kya kehte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ShahMahmoodQureshi #PTI #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-qureshi-taken-to-pic.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-qureshi-taken-to-pic-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1197857668796525",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T23:09:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-qureshi-taken-to-pic-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-10T22:58:12+05:00"
+}
