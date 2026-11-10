@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-10-october-remittances-389bn",
+ "revision": 1,
+ "request": "requests/2026-11-10-october-remittances-389bn.json",
+ "type": "news",
+ "headline": "Overseas workers' remittances to Pakistan rose 14% year-on-year to $3.89 billion in October 2026, with Saudi Arabia the largest source at $982 million, the State Bank of Pakistan said on Tuesday.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-10T12:00:00+05:00",
+ "target_slot": "2026-11-10T12:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-october-remittances-389bn.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-october-remittances-389bn-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-october-remittances-389bn.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-10-october-remittances-389bn.jpg",
+  "story": "posts/2026-11-10-october-remittances-389bn-story.jpg",
+  "reel": "posts/2026-11-10-october-remittances-389bn.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 402203411,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Overseas Pakistaniyon ne October mein $3.89 billion ghar bheje!\nBusiness Recorder ke mutabiq State Bank of Pakistan (SBP) ne Tuesday ko bataya ke October 2026 mein bahar se aane wali raqam (remittances) $3.89 billion rahi. Yeh pichle saal October ke $3.42 billion se 14% zyada hai. Sab se zyada paisay Saudi Arabia se $982 million aaye, phir UAE se $816 million.\nKya aap ke ghar ka bhi koi bahar kaam karta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Remittances #OverseasPakistanis #SBP #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-october-remittances-389bn.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Overseas Pakistaniyon ne October mein $3.89 billion bheje, 14% izafa",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Overseas Pakistaniyon ne October mein $3.89 billion ghar bheje!\nBusiness Recorder ke mutabiq State Bank of Pakistan (SBP) ne Tuesday ko bataya ke October 2026 mein bahar se aane wali raqam (remittances) $3.89 billion rahi. Yeh pichle saal October ke $3.42 billion se 14% zyada hai. Sab se zyada paisay Saudi Arabia se $982 million aaye, phir UAE se $816 million.\nKya aap ke ghar ka bhi koi bahar kaam karta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Remittances #OverseasPakistanis #SBP #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-october-remittances-389bn.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-october-remittances-389bn-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1131479132514825",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-october-remittances-389bn-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-10T11:54:39+05:00"
+}

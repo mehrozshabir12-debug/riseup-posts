@@ -8640,5 +8640,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T12:00:00+05:00",
+  "request_id": "2026-11-10-october-remittances-389bn",
+  "layout": "bold",
+  "headline": "Overseas workers' remittances to Pakistan rose 14% year-on-year to $3.89 billion in October 2026, with Saudi Arabia the largest source at $982 million, the State Bank of Pakistan said on Tuesday.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40448227/pakistan-records-39bn-in-remittances-for-october-2026",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448227/pakistan-records-39bn-in-remittances-for-october-2026",
+    "published_at": "2026-11-10T11:00:08+05:00"
+   }
+  ],
+  "published": "2026-11-10T11:00:08+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 402203411,
+  "image": "posts/2026-11-10-october-remittances-389bn.jpg",
+  "story": "posts/2026-11-10-october-remittances-389bn-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 12:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-october-remittances-389bn.mp4"
  }
 ]
