@@ -1,1 +1,75 @@
-{"slot": "2026-11-10T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T15:47:06+05:00", "language": "ur"}
+{
+ "slot": "2026-11-10T16:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T15:47:06+05:00",
+ "run_finished_pkt": "2026-11-10T15:51:20+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "Pakistan declared their first innings at 434-9 on day two of the first Test against Sri Lanka in Rawalpindi on Tuesday, after Saud Shakeel was out for 93.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043497/pakistan-declare-at-434-9-as-saud-shakeel-falls-short-of-century-in-first-sri-lanka-test",
+    "published_at": "2026-11-10T14:43:55+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-10-pakistan-declare-434-9-shakeel-93",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-pakistan-declare-434-9-shakeel-93.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 422984130,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3924612032170081309",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 422984160,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1236326770653285890",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 422984182,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2081172782762642921",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Glow (prod. by Jayme Stone) (Instrumental) - KNOTTS (336015428971390, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Slot window 15:00-17:00 empty; 6-hour windows 2026-11-08T15:00..2026-11-11T04:00 all succeeded. RiseUp day 2026-11-10: 3 news, 3 TikTok before this post.",
+  "previous_slot_check": "15:00 slot had no posts. Last posted slot 14:00: reel 422870658 FB https://facebook.com/reel/29134083739592086 + IG https://www.instagram.com/reel/DfjjCV0AZ30/, TikTok 422870674 https://www.tiktok.com/@riseuppakistan2025/video/7706466632033651989, story 422870687 FB+IG all PUBLISHED. No retries.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, The News for 10 Nov. Freshest passing story: Dawn (AFP) Pakistan declare 434-9, modified 14:43 PKT (2h window) - new development after the 14:00 lunch post (declaration, Shakeel out for 93).",
+  "verification": "Dawn article read: published 2026-11-10T12:55:56+05:00, modified 14:43:55+05:00, byline AFP. Facts: declared 434-9 after 106.3 overs, day two, Rawalpindi Cricket Stadium; Saud Shakeel 93 off 199 (c Kusal Mendis b Asitha Fernando); Arafat Minhas 52; Ghazi Ghori 48; Asitha Fernando and Dilshan Madushanka 3 wickets each.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: two batsmen walking off from distance, no readable text, no identifiable public figure.",
+  "publish": "Roman Urdu card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one Metricool post at 16:00 (facebookData REEL; IG audio audioType music, displayArtist KNOTTS). TikTok photo post 16:00 (autoAddMusic). Story FB+IG 16:05. Renderer has no option to bake a licensed track into the MP4, so the Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Bannu board postpones matric exam in North Waziristan (Dawn 13:37, upd 14:25)",
+   "reason": "older than the cricket story; press release dated 9 Nov, no new dates"
+  },
+  {
+   "headline": "PM Shehbaz departs for Turkiye, to address COP31 (Dawn)",
+   "reason": "older"
+  }
+ ],
+ "errors": []
+}
