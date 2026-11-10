@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-10-saudi-delegation-karachi-port",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 422727831,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "metricool_id": 422727848,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 422727859,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

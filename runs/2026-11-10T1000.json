@@ -1,1 +1,79 @@
-{"slot": "2026-11-10T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T09:48:32+05:00", "language": "en"}
+{
+ "slot": "2026-11-10T10:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T09:48:32+05:00",
+ "run_finished_pkt": "2026-11-10T09:54:18+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "A Saudi business delegation led by Prince Mansour bin Muhammad Al-Saud, chairman of the Saudi chapter of the Saudi-Pakistani Joint Business Council, visited Karachi Port Trust on Monday and showed interest in investing in Karachi port infrastructure, logistics connectivity and green initiatives.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/saudi-delegation-eyes-karachi-port-investments-as-pakistan-expands-maritime-trade-3006611",
+    "published_at": "2026-11-10T09:23:38+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-10-saudi-delegation-karachi-port",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-saudi-delegation-karachi-port.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 422727831,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-191413743185868315",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 422727848,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5690516006578896906",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 422727859,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9040190922257812352",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius (934661001819759, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Slot window 09:00-11:00 empty (10:00 free); 6-hour windows 2026-11-08T09:00..2026-11-10T22:00 all succeeded. No Karachi port / Saudi port-investment story in last 48 h (09 Nov 18:00 Saudi-Pakistan JBC private equity fund is a different development). New RiseUp day 2026-11-10: 0 news, 0 TikTok before this post.",
+  "previous_slot_check": "23:00 slot was skipped (no posts). Last posted slot 22:00: reel 422109584 FB https://facebook.com/reel/1858180552273958 + IG https://www.instagram.com/reel/Dfh1lGljI-e/, TikTok 422109613 https://www.tiktok.com/@riseuppakistan2025/video/7706218814404300084, story 422109651 FB+IG all PUBLISHED. No retries.",
+  "news_search": "Searched dawn/tribune/geo/thenews/arabnews/brecorder/app for 10 Nov. Freshest passing story: Arab News Saudi delegation / Karachi port (09:23 PKT, 2h window). No earlier report of this KPT visit found. Urea ban lifted in 17 more Balochistan districts (Dawn 07:03) was the runner-up (3h window).",
+  "verification": "Arab News article read: article:published_time 2026-11-10T04:23:38Z (=09:23:38 PKT), byline Ismail Dilawar, Karachi. Facts: delegation led by Prince Mansour bin Muhammad Al-Saud (chairs Saudi chapter of Saudi-Pakistani JBC) visited KPT HQ on Monday; KPT said keen interest in Maritime Business District (140-acre), green port initiatives, terminal expansion, connectivity projects; record 55.48 million tons cargo in FY 2025-26.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: container port with cranes and ship, four anonymous men in suits from behind, no readable text/logos.",
+  "publish": "Card (English) and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one Metricool post at 10:00 (facebookData REEL; IG audio resolved to audioType music, displayArtist Global Genius). TikTok photo post 10:00 (autoAddMusic). Story FB+IG 10:05. Zoom renderer has no option to bake a licensed track into the MP4, so the Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Urea ban lifted in 17 more Balochistan districts (Dawn 07:03)",
+   "reason": "older than the Arab News story; newest suitable story wins"
+  },
+  {
+   "headline": "Man killed, two women injured in Kech firing",
+   "reason": "violence"
+  },
+  {
+   "headline": "Jamaat-i-Islami Quetta rally mobilisation",
+   "reason": "political party campaign, low relevance"
+  }
+ ],
+ "errors": []
+}
