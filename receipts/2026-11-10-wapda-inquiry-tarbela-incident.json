@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-10-wapda-inquiry-tarbela-incident",
+ "scheduled": "2026-11-10T22:00:00+05:00",
+ "posts": {
+  "reel": {
+   "metricool_id": 423405645,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "metricool_id": 423405671,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 423405762,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

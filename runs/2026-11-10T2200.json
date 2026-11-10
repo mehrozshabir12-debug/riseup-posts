@@ -1,1 +1,81 @@
-{"slot": "2026-11-10T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T21:46:25+05:00", "language": "en"}
+{
+ "slot": "2026-11-10T22:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T21:46:25+05:00",
+ "run_finished_pkt": "2026-11-10T21:51:00+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "Wapda Chairman Lt Gen (retd) Muhammad Saeed on Tuesday ordered an inquiry into the incident inside the tunnel of the Tarbela Fifth Extension Hydropower Project, as Wapda, consultants and the contractor agreed there is no threat to the main dam or any major structure.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639615/wapda-chairman-orders-inquiry-into-tarbela-project-incident",
+    "published_at": "2026-11-10T20:07:28+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-10-wapda-inquiry-tarbela-incident",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-wapda-inquiry-tarbela-incident.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 423405645,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8258067759065120228",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "id": 423405671,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2575094794188930115",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "feed": null,
+  "story": {
+   "id": 423405762,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2181188345190173949",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall (478728841591377, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 21:00-23:00 had only the 21:00 posts, 22:00 empty. Windows 2026-11-08T21:00..2026-11-11T10:00 all succeeded. RiseUp day 2026-11-10: 7 news, 6 TikTok before this post. Tarbela bund collapse posted 9 Nov 16:00; this is a new development (inquiry ordered, Wapda/consultants/contractor assessment).",
+  "previous_slot_check": "21:00 slot: reel 423333102 FB https://facebook.com/reel/1483687723863599 + IG https://www.instagram.com/reel/DfkTX_rDcYw/ PUBLISHED; story 423333118 FB+IG PUBLISHED. No retries.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, APP, The News. 2h window: Tribune Wapda inquiry into Tarbela incident (20:07 PKT) chosen.",
+  "verification": "Tribune article read: article:published_time 2026-11-10T15:07:28Z (20:07 PKT), APP/Web Desk. Facts: Wapda Chairman Lt Gen (retd) Muhammad Saeed ordered departmental inquiry; 1,530MW Tarbela Fifth Extension; protective embankment breach Monday; construction suspended; consultants, contractor and Wapda agreed no threat to main dam or any major structure.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: mountain dam/tunnel construction site, two anonymous engineers in hard hats, no readable text or logos.",
+  "publish": "English card and 8 s 1080x1920 zoom MP4 (with audio stream) inspected (frame at 4 s shows card). FB Reel + IG Reel in one Metricool post at 22:00 (IG audio audioType music, displayArtist Sam Marshall). TikTok photo post 22:00 separate (autoAddMusic). Story FB+IG 22:05. All PENDING. Zoom renderer has no option to bake a licensed track, so the Facebook Reel has no added music. Music from verified list (trending search gave only generic listicles, no confirmed Instagram music id)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan expresses solidarity with Turkiye after steel plant blast (Arab News 16:04)",
+   "reason": "Tarbela inquiry fresher and more relevant to Pakistanis"
+  },
+  {
+   "headline": "Bilawal rejects corruption allegations in Sindh housing scheme (Tribune 17:44)",
+   "reason": "one-sided political statement"
+  },
+  {
+   "headline": "Pakistan blames India's Diwali fireworks for Lahore's toxic air (Arab News)",
+   "reason": "one-sided political claim; smog already posted 18:00"
+  }
+ ],
+ "warnings": [],
+ "errors": []
+}
