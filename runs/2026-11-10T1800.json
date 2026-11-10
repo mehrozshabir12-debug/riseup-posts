@@ -1,1 +1,75 @@
-{"slot": "2026-11-10T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T17:47:00+05:00", "language": "en"}
+{
+ "slot": "2026-11-10T18:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T17:47:00+05:00",
+ "run_finished_pkt": "2026-11-10T17:52:26+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "A Pakistan Air Quality Initiative report released on Tuesday said Lahore's average PM2.5 from October 1 to November 9 was 126 micrograms per cubic metre, eight times the WHO guideline, with 16,714 likely crop-residue fires detected in Punjab.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043509/lahores-pm25-level-eight-times-who-guideline-report-says",
+    "published_at": "2026-11-10T16:55:47+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-10-lahore-pm25-eight-times-who-limit",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-lahore-pm25-eight-times-who-limit.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 423115556,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9040722650213468984",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 423115568,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2508096377702102591",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 423115583,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7888091840305151456",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Float (Instrumental) - Sleeping Lion (589750179694057, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Slot window 17:00-19:00 empty; 6-hour windows 2026-11-08T17:00..2026-11-11T06:00 all succeeded. RiseUp day 2026-11-10: 4 news, 4 TikTok before this post.",
+  "previous_slot_check": "17:00 slot had no posts. Last posted slot 16:00: reel 422984130 FB https://facebook.com/reel/2678308622622828 + IG https://www.instagram.com/reel/DfjwqKDk9lI/, TikTok 422984160 https://www.tiktok.com/@riseuppakistan2025/video/7706497407043030293, story 422984182 FB+IG all PUBLISHED. No retries.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, The News, APP for 10 Nov. Freshest passing story: Dawn (Imran Gabol) Lahore PM2.5 eight times WHO guideline, PAQI report, published 16:55 PKT (2h window). New development vs 9 Nov IQAir ranking post: new PAQI season report with crop-fire data and PDMA rain forecast.",
+  "verification": "Dawn article read: published/modified 2026-11-10T16:55:47+05:00. Facts: PAQI report released Tuesday; 16,714 likely crop-residue fires in Punjab Oct 1-Nov 9; Lahore average PM2.5 126 micrograms per cubic metre, eight times WHO guideline; PDMA forecast rain in most Punjab districts for two days, likely reducing smog.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: smoggy Lahore road with traffic and masked anonymous commuters, no readable text, no identifiable public figure.",
+  "publish": "English card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one Metricool post at 18:00 (facebookData REEL; IG audio audioType music, displayArtist Sleeping Lion). TikTok photo post 18:00 (autoAddMusic). Story FB+IG 18:05. Zoom renderer has no option to bake a licensed track into the MP4 (its audio track is not a music bed we can choose), so the Facebook Reel has no added music. Trending-audio search skipped; used verified numeric list id unused today."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan orders hotel upgrades in Islamabad ahead of 2027 SCO summit (Arab News 15:12)",
+   "reason": "older than the Lahore PM2.5 story (3h window)"
+  },
+  {
+   "headline": "Dar pledges continued US-Iran diplomacy at Margalla Dialogue (Arab News 13:10)",
+   "reason": "older; less direct impact on ordinary people"
+  }
+ ],
+ "errors": []
+}

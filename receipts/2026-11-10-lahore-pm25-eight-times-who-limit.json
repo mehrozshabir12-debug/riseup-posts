@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-10-lahore-pm25-eight-times-who-limit",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 423115556,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "metricool_id": 423115568,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 423115583,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
