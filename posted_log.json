@@ -8853,10 +8853,23 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-10 19:00 PKT",
+  "scheduled": "2026-11-10T19:00:00+05:00",
   "music": "Heros Journey (Instrumental) - Abby Posner",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-10-sri-lanka-114-3-trail-by-320.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 423185193,
+   "story": 423185212
+  },
+  "video": "posts/2026-11-10-sri-lanka-114-3-trail-by-320.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
