@@ -8593,5 +8593,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T10:00:00+05:00",
+  "request_id": "2026-11-10-saudi-delegation-karachi-port",
+  "layout": "bold",
+  "headline": "A Saudi business delegation led by Prince Mansour bin Muhammad Al-Saud, chairman of the Saudi chapter of the Saudi-Pakistani Joint Business Council, visited Karachi Port Trust on Monday and showed interest in investing in Karachi port infrastructure, logistics connectivity and green initiatives.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/saudi-delegation-eyes-karachi-port-investments-as-pakistan-expands-maritime-trade-3006611",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/saudi-delegation-eyes-karachi-port-investments-as-pakistan-expands-maritime-trade-3006611",
+    "published_at": "2026-11-10T09:23:38+05:00"
+   }
+  ],
+  "published": "2026-11-10T09:23:38+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 390615651,
+  "image": "posts/2026-11-10-saudi-delegation-karachi-port.jpg",
+  "story": "posts/2026-11-10-saudi-delegation-karachi-port-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 10:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-saudi-delegation-karachi-port.mp4"
  }
 ]
