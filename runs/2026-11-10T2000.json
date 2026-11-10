@@ -1,1 +1,88 @@
-{"slot": "2026-11-10T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T19:47:33+05:00", "language": "en"}
+{
+ "slot": "2026-11-10T20:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T19:47:33+05:00",
+ "run_finished_pkt": "2026-11-10T20:02:50+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "The Islamabad High Court on Tuesday ordered authorities to arrange a one-hour jail meeting within two days between Imran Khan, Bushra Bibi and their lawyers in the £190 million case, and adjourned the appeals for 10 days.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639593/ihc-directs-authorities-to-arrange-one-hour-meeting-between-imran-khan-his-lawyer-within-two-days",
+    "published_at": "2026-11-10T16:14:05+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-11-10-ihc-orders-imran-khan-lawyers-meeting",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 423269957,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1034761653389211712",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 423270013,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6837696110196247868",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 423270104,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7704304842511171907",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Purity - Ross Lara (1362869204224018, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Slot window 19:00-21:00: only the 19:00 posts, 20:00 empty. Windows 2026-11-08T19:00..2026-11-11T08:00 all succeeded. RiseUp day 2026-11-10: 6 news, 5 TikTok before this post.",
+  "previous_slot_check": "19:00 slot: reel 423185193 FB https://facebook.com/reel/1667286415117070 + IG https://www.instagram.com/reel/DfkFYNUEWTs/ PUBLISHED; story 423185212 FB+IG PUBLISHED. No retries.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, The News, APP. 2h/3h windows: nothing new passing rules (Shah Mahmood Qureshi hospital story = lawyer claims only). 4h window: Tribune IHC jail-meeting order (16:14 PKT), not posted in last 48h.",
+  "verification": "Tribune article read: article:published_time 2026-11-10T11:14:05Z = 16:14:05 PKT, author Fiaz Mahmood. Facts: IHC bench of CJ Sarfraz Dogar and Justice Muhammad Asif; one-hour jail meeting for Imran Khan and Bushra Bibi with lawyers Salman Safdar and Latif Khosa; AG to arrange within two days; £190m appeals adjourned 10 days; arguments to begin at next hearing. Health claims by lawyer left out.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: court building exterior with anonymous lawyers from behind, no readable text or identifiable person.",
+  "publish": "English card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB Reel + IG Reel in one Metricool post at 20:07 (IG audio audioType music, displayArtist Ross Lara). TikTok photo post 20:07. Story FB+IG 20:12. Render was delayed: workflow receipts phase crashed on the 19:00 receipt ('feed': null -> AttributeError); removed the null entry, render then succeeded. Zoom renderer has no option to bake a licensed track, so the Facebook Reel has no added music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Lawyer says Shah Mahmood Qureshi taken to hospital (Dawn 18:01)",
+   "reason": "lawyer/family claims only, no official confirmation"
+  },
+  {
+   "headline": "Pakistan condemns Houthi attack on Aramco tower (Geo/Dawn)",
+   "reason": "same event as 9 Nov 21:00 post; Geo page not fetchable"
+  },
+  {
+   "headline": "PM Shehbaz departs for Turkiye, to address COP31 (Dawn 11:37, upd 14:51)",
+   "reason": "older than the IHC story and seen in earlier runs"
+  },
+  {
+   "headline": "October remittances $3.89bn (Brecorder)",
+   "reason": "posted at 12:00"
+  }
+ ],
+ "warnings": [
+  "slot moved to 20:07 by the pipeline because the render was delayed by the receipts-phase crash"
+ ],
+ "errors": [
+  "GitHub workflow run 42838067229 failed: automation/process_request.py line 378 phase_receipts AttributeError: 'NoneType' object has no attribute 'get' (receipts/2026-11-10-sri-lanka-114-3-trail-by-320.json had \"feed\": null) - fixed by removing the null entry"
+ ]
+}
