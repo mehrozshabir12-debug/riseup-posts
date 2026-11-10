@@ -8734,5 +8734,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T16:00:00+05:00",
+  "request_id": "2026-11-10-pakistan-declare-434-9-shakeel-93",
+  "layout": "bold",
+  "headline": "Pakistan declared their first innings at 434-9 on day two of the first Test against Sri Lanka in Rawalpindi on Tuesday, after Saud Shakeel was out for 93.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043497/pakistan-declare-at-434-9-as-saud-shakeel-falls-short-of-century-in-first-sri-lanka-test",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043497/pakistan-declare-at-434-9-as-saud-shakeel-falls-short-of-century-in-first-sri-lanka-test",
+    "published_at": "2026-11-10T14:43:55+05:00"
+   }
+  ],
+  "published": "2026-11-10T14:43:55+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 425151839,
+  "image": "posts/2026-11-10-pakistan-declare-434-9-shakeel-93.jpg",
+  "story": "posts/2026-11-10-pakistan-declare-434-9-shakeel-93-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 16:00 PKT",
+  "music": "Glow (Instrumental) - KNOTTS",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-pakistan-declare-434-9-shakeel-93.mp4"
  }
 ]
