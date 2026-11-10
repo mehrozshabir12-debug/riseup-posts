@@ -8712,10 +8712,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-10 14:00 PKT",
+  "scheduled": "2026-11-10T14:00:00+05:00",
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-10-pakistan-390-6-lunch-day-two-sl.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 422870658,
+   "feed": 422870674,
+   "story": 422870687
+  },
+  "video": "posts/2026-11-10-pakistan-390-6-lunch-day-two-sl.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
