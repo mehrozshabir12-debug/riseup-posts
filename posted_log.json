@@ -8943,10 +8943,23 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-10 21:00 PKT",
+  "scheduled": true,
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-10-gold-per-tola-down-rs1500.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 423333102,
+   "story": 423333118
+  },
+  "video": "posts/2026-11-10-gold-per-tola-down-rs1500.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
