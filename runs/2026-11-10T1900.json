@@ -1,1 +1,80 @@
-{"slot": "2026-11-10T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T18:47:31+05:00"}
+{
+ "slot": "2026-11-10T19:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T18:47:31+05:00",
+ "run_finished_pkt": "2026-11-10T18:53:41+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "Sri Lanka reached 114-3 at stumps on day two of the first Test in Rawalpindi on Tuesday, trailing Pakistan's 434-9 declared by 320 runs.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043497/pakistan-tighten-grip-on-first-test-as-sri-lanka-struggle-at-114-3",
+    "published_at": "2026-11-10T16:59:50+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-11-10-sri-lanka-114-3-trail-by-320",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-sri-lanka-114-3-trail-by-320.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 423185193,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6720891864662130308",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": null,
+  "story": {
+   "id": 423185212,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4539718109462087259",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Heros Journey (Instrumental) - Abby Posner (1274149560124013, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Slot window 18:00-20:00: only the 18:00 posts, 19:00 empty. 6-hour windows 2026-11-08T18:00..2026-11-11T07:00 all succeeded. RiseUp day 2026-11-10: 5 news, 5 TikTok before this post.",
+  "previous_slot_check": "18:00 slot: reel 423115556 FB https://facebook.com/reel/2214212589157073 + IG https://www.instagram.com/reel/Dfj-WB0liFY/, TikTok 423115568 https://www.tiktok.com/@riseuppakistan2025/video/7706528300679859477, story 423115583 FB+IG all PUBLISHED. No retries.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, The News, APP. 2h window: only Dawn Shah Mahmood Qureshi hospital story (18:01) - rejected (claims by lawyer/family only, no official confirmation). 3h window: Dawn first-Test day-two stumps update (modified 16:59:50) - new development vs 16:00 declaration post (Sri Lanka innings, 114-3, trail by 320).",
+  "verification": "Dawn article read: published 2026-11-10T12:55:56+05:00, modified 16:59:50+05:00. Facts: Pakistan 434-9 declared; Sri Lanka 114-3 at close of day two after 27.1 overs, bad light; trail by 320; Kamindu Mendis 40*, Dhananjaya de Silva 22*; Sooriyabandara c behind b Mohammad Abbas 0; Chandimal 1 to debutant Saqib Khan; Udara 42 c Ghazi b Saqib Khan.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: Test match scene, anonymous distant players and crowd, no readable text or identifiable public figure.",
+  "publish": "Roman Urdu card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one Metricool post at 19:00 (facebookData REEL; IG audio audioType music, displayArtist Abby Posner). Story FB+IG 19:05. TikTok skipped by pipeline pacing warning (5 TikTok allowed by 19:00, already 5). Zoom renderer has no option to bake a licensed track into the MP4, so the Facebook Reel has no added music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Lawyer says Shah Mahmood Qureshi taken to hospital (Dawn 18:01)",
+   "reason": "based on lawyer/family claims, no official confirmation"
+  },
+  {
+   "headline": "Wapda says no threat to Tarbela Dam after rock collapse (Dawn)",
+   "reason": "same event as 9 Nov 16:00 post"
+  },
+  {
+   "headline": "IHC adjourns £190m case hearing for 10 days (Dawn 15:00)",
+   "reason": "older than the cricket update"
+  },
+  {
+   "headline": "Matric exams postponed in North Waziristan (Dawn 14:25)",
+   "reason": "older"
+  }
+ ],
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-10; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": []
+}

@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-10-sri-lanka-114-3-trail-by-320",
+ "scheduled": "2026-11-10T19:00:00+05:00",
+ "posts": {
+  "reel": {
+   "metricool_id": 423185193,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": null,
+  "story": {
+   "metricool_id": 423185212,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "notes": "TikTok skipped by pipeline pacing (5 TikTok allowed by 19:00); Facebook gets the Reel, so no separate feed post."
+}
