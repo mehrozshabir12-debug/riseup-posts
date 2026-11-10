@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-10-ihc-orders-imran-khan-lawyers-meeting",
+ "revision": 1,
+ "request": "requests/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.json",
+ "type": "news",
+ "headline": "The Islamabad High Court on Tuesday ordered authorities to arrange a one-hour jail meeting within two days between Imran Khan, Bushra Bibi and their lawyers in the £190 million case, and adjourned the appeals for 10 days.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-10T20:07:00+05:00",
+ "target_slot": "2026-11-10T20:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.jpg",
+  "story": "posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting-story.jpg",
+  "reel": "posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 689253780,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T20:07:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Imran Khan's lawyers to get a one-hour jail meeting!\nAccording to The Express Tribune, the Islamabad High Court on Tuesday ordered authorities to arrange a one-hour jail meeting within two days between PTI founder Imran Khan, his wife Bushra Bibi and their lawyers, Salman Safdar and Latif Khosa, in the £190 million case. The court adjourned the appeals for 10 days and told the lawyers to start their arguments at the next hearing.\nWhat do you think about this order? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IHC #ImranKhan #190MillionCase #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "IHC orders one-hour jail meeting for Imran Khan with his lawyers within two days",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T20:07:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Imran Khan's lawyers to get a one-hour jail meeting!\nAccording to The Express Tribune, the Islamabad High Court on Tuesday ordered authorities to arrange a one-hour jail meeting within two days between PTI founder Imran Khan, his wife Bushra Bibi and their lawyers, Salman Safdar and Latif Khosa, in the £190 million case. The court adjourned the appeals for 10 days and told the lawyers to start their arguments at the next hearing.\nWhat do you think about this order? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IHC #ImranKhan #190MillionCase #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1362869204224018",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T20:12:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-10T20:01:31+05:00"
+}

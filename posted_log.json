@@ -8871,5 +8871,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T20:00:00+05:00",
+  "request_id": "2026-11-10-ihc-orders-imran-khan-lawyers-meeting",
+  "layout": "bold",
+  "headline": "The Islamabad High Court on Tuesday ordered authorities to arrange a one-hour jail meeting within two days between Imran Khan, Bushra Bibi and their lawyers in the £190 million case, and adjourned the appeals for 10 days.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2639593/ihc-directs-authorities-to-arrange-one-hour-meeting-between-imran-khan-his-lawyer-within-two-days",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639593/ihc-directs-authorities-to-arrange-one-hour-meeting-between-imran-khan-his-lawyer-within-two-days",
+    "published_at": "2026-11-10T16:14:05+05:00"
+   }
+  ],
+  "published": "2026-11-10T16:14:05+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 689253780,
+  "image": "posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.jpg",
+  "story": "posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 20:07 PKT",
+  "music": "Purity - Ross Lara",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.mp4"
  }
 ]
