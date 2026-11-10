@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-10-lahore-pm25-eight-times-who-limit",
+ "revision": 1,
+ "request": "requests/2026-11-10-lahore-pm25-eight-times-who-limit.json",
+ "type": "news",
+ "headline": "A Pakistan Air Quality Initiative report released on Tuesday said Lahore's average PM2.5 from October 1 to November 9 was 126 micrograms per cubic metre, eight times the WHO guideline, with 16,714 likely crop-residue fires detected in Punjab.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-10T18:00:00+05:00",
+ "target_slot": "2026-11-10T18:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-lahore-pm25-eight-times-who-limit.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-lahore-pm25-eight-times-who-limit-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-lahore-pm25-eight-times-who-limit.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-10-lahore-pm25-eight-times-who-limit.jpg",
+  "story": "posts/2026-11-10-lahore-pm25-eight-times-who-limit-story.jpg",
+  "reel": "posts/2026-11-10-lahore-pm25-eight-times-who-limit.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 214704681,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Lahore's air pollution was eight times the WHO limit!\nAccording to Dawn, a Pakistan Air Quality Initiative (PAQI) report released on Tuesday says Lahore's average PM2.5 was 126 micrograms per cubic metre from October 1 to November 9. Satellites found 16,714 likely crop-residue fires in Punjab in this period. PDMA has forecast rain in most Punjab districts for two days, which may reduce smog.\nHow is the air in your city today? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LahoreSmog #AirQuality #Punjab #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-lahore-pm25-eight-times-who-limit.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Lahore's PM2.5 eight times WHO limit, 16,714 crop fires found in Punjab",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Lahore's air pollution was eight times the WHO limit!\nAccording to Dawn, a Pakistan Air Quality Initiative (PAQI) report released on Tuesday says Lahore's average PM2.5 was 126 micrograms per cubic metre from October 1 to November 9. Satellites found 16,714 likely crop-residue fires in Punjab in this period. PDMA has forecast rain in most Punjab districts for two days, which may reduce smog.\nHow is the air in your city today? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LahoreSmog #AirQuality #Punjab #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-lahore-pm25-eight-times-who-limit.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-lahore-pm25-eight-times-who-limit-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "589750179694057",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-lahore-pm25-eight-times-who-limit-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-10T17:51:19+05:00"
+}

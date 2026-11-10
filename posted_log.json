@@ -8781,5 +8781,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T18:00:00+05:00",
+  "request_id": "2026-11-10-lahore-pm25-eight-times-who-limit",
+  "layout": "bold",
+  "headline": "A Pakistan Air Quality Initiative report released on Tuesday said Lahore's average PM2.5 from October 1 to November 9 was 126 micrograms per cubic metre, eight times the WHO guideline, with 16,714 likely crop-residue fires detected in Punjab.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043509/lahores-pm25-level-eight-times-who-guideline-report-says",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043509/lahores-pm25-level-eight-times-who-guideline-report-says",
+    "published_at": "2026-11-10T16:55:47+05:00"
+   }
+  ],
+  "published": "2026-11-10T16:55:47+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 214704681,
+  "image": "posts/2026-11-10-lahore-pm25-eight-times-who-limit.jpg",
+  "story": "posts/2026-11-10-lahore-pm25-eight-times-who-limit-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 18:00 PKT",
+  "music": "Float (Instrumental) - Sleeping Lion",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-lahore-pm25-eight-times-who-limit.mp4"
  }
 ]
