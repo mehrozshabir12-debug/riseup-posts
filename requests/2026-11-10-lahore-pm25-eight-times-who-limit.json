@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-10-lahore-pm25-eight-times-who-limit",
+ "type": "news",
+ "headline": "A Pakistan Air Quality Initiative report released on Tuesday said Lahore's average PM2.5 from October 1 to November 9 was 126 micrograms per cubic metre, eight times the WHO guideline, with 16,714 likely crop-residue fires detected in Punjab.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043509/lahores-pm25-level-eight-times-who-guideline-report-says",
+   "published_at": "2026-11-10T16:55:47+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/e12f4cad-23dc-4a70-a120-d069df4f5fa9/2ba4b9fa-6f0f-4efe-9419-e13c4628e7e8/Realistic_wide_photo_of_a_busy_road_in_Lahore__Pakistan__cov.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMWM4YmFjZjQ5NjU4YzgwNSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDQ0MjIyOH0.jGWAZ4CrYD_sm_rlIQLlXqZrRDd8PulJGTBf3hkRGr8",
+  "head1": "Lahore's PM2.5 Level",
+  "head2_hl": "8 Times",
+  "head2": "WHO Limit",
+  "kicker": "16,714 crop fires in Punjab",
+  "desc": "PAQI report: average PM2.5 was 126 from Oct 1 to Nov 9.",
+  "source": "Dawn",
+  "date": "10 NOV 2026"
+ },
+ "caption": "Lahore's air pollution was eight times the WHO limit!\nAccording to Dawn, a Pakistan Air Quality Initiative (PAQI) report released on Tuesday says Lahore's average PM2.5 was 126 micrograms per cubic metre from October 1 to November 9. Satellites found 16,714 likely crop-residue fires in Punjab in this period. PDMA has forecast rain in most Punjab districts for two days, which may reduce smog.\nHow is the air in your city today? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LahoreSmog #AirQuality #Punjab #PakistanNews",
+ "tiktok_title": "Lahore's PM2.5 eight times WHO limit, 16,714 crop fires found in Punjab",
+ "publish": {
+  "slot": "2026-11-10T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "589750179694057",
+  "label": "Float (Instrumental) - Sleeping Lion"
+ },
+ "ai_generated": true
+}
