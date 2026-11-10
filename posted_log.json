@@ -8665,10 +8665,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-10 12:00 PKT",
+  "scheduled": true,
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-10-october-remittances-389bn.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 422788645,
+   "feed": 422788656,
+   "story": 422788693
+  },
+  "video": "posts/2026-11-10-october-remittances-389bn.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
