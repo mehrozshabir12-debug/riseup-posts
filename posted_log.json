@@ -8806,10 +8806,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-10 18:00 PKT",
+  "scheduled": true,
   "music": "Float (Instrumental) - Sleeping Lion",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-10-lahore-pm25-eight-times-who-limit.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 423115556,
+   "feed": 423115568,
+   "story": 423115583
+  },
+  "video": "posts/2026-11-10-lahore-pm25-eight-times-who-limit.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
