@@ -1,1 +1,71 @@
-{"slot": "2026-11-10T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T13:46:23+05:00", "language": "en"}
+{
+ "slot": "2026-11-10T14:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T13:46:23+05:00",
+ "run_finished_pkt": "2026-11-10T13:51:19+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "Pakistan reached 390-6 at lunch on day two of the first Test against Sri Lanka in Rawalpindi on Tuesday, with Saud Shakeel 91 not out, nine short of his fifth Test hundred.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043497/saud-shakeel-nears-century-as-pakistan-score-390-6-in-first-test-against-sri-lanka",
+    "published_at": "2026-11-10T12:55:56+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-10-pakistan-390-6-lunch-day-two-sl",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-pakistan-390-6-lunch-day-two-sl.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 422870658,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3647753804667505412",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "id": 422870674,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6803212842159457260",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 422870687,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-942350767126592748",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan (1543577430102877, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Slot window 13:00-15:00 empty (14:00 free); 6-hour windows 2026-11-08T13:00..2026-11-11T02:00 all succeeded. Last PAK v SL post was day-one close 281-5 (09 Nov 20:05); lunch day two 390-6 is a new development. RiseUp day 2026-11-10: 2 news, 2 TikTok before this post.",
+  "previous_slot_check": "13:00 slot had no posts (no run). Last posted slot 12:00: reel 422788645 FB https://facebook.com/reel/1487890166546374 + IG https://www.instagram.com/reel/DfjU4-QAaPx/, TikTok 422788656 https://www.tiktok.com/@riseuppakistan2025/video/7706434003502386484, story 422788693 FB+IG all PUBLISHED. No retries.",
+  "news_search": "Searched dawn/arabnews/tribune/geo for 10 Nov. Freshest passing story: Dawn (AFP) PAK v SL lunch day two (12:55 PKT, 2h window). Runner-up: Dawn PM Shehbaz to Turkiye for COP31 (11:37, 3h window).",
+  "verification": "Dawn article read: article:published_time 2026-11-10T12:55:56+05:00, byline AFP. Facts: Pakistan 390-6 at lunch day two, Rawalpindi; resumed 281-5, one wicket in session; Saud Shakeel 91* off 192 balls, nine short of fifth Test hundred; Ghazi Ghori 48 (b Madushanka, ct Sooriyabandara at gully); Arafat Minhas 27*.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: Test match, batsman from distance, no readable text, no identifiable public figure.",
+  "publish": "English card and 8 s 1080x1920 zoom MP4 inspected (frame at 4 s shows card). FB+IG Reel in one Metricool post at 14:00 (facebookData REEL; IG audio audioType music, displayArtist Jackson Whalan). TikTok photo post 14:00 (autoAddMusic). Story FB+IG 14:05. MP4 audio track is silent (-91 dB); renderer has no option to bake a licensed track, so the Facebook Reel has no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM Shehbaz to leave for Turkiye, will address COP31 (Dawn 11:37)",
+   "reason": "older than the cricket story"
+  }
+ ],
+ "errors": []
+}

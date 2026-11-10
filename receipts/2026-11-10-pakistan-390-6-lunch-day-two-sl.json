@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-10-pakistan-390-6-lunch-day-two-sl",
+ "scheduled": "2026-11-10T14:00:00+05:00",
+ "posts": {
+  "reel": {
+   "metricool_id": 422870658,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "feed": {
+   "metricool_id": 422870674,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 422870687,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
