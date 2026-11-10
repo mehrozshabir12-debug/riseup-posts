@@ -8687,5 +8687,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T14:00:00+05:00",
+  "request_id": "2026-11-10-pakistan-390-6-lunch-day-two-sl",
+  "layout": "bold",
+  "headline": "Pakistan reached 390-6 at lunch on day two of the first Test against Sri Lanka in Rawalpindi on Tuesday, with Saud Shakeel 91 not out, nine short of his fifth Test hundred.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043497/saud-shakeel-nears-century-as-pakistan-score-390-6-in-first-test-against-sri-lanka",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043497/saud-shakeel-nears-century-as-pakistan-score-390-6-in-first-test-against-sri-lanka",
+    "published_at": "2026-11-10T12:55:56+05:00"
+   }
+  ],
+  "published": "2026-11-10T12:55:56+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 563150310,
+  "image": "posts/2026-11-10-pakistan-390-6-lunch-day-two-sl.jpg",
+  "story": "posts/2026-11-10-pakistan-390-6-lunch-day-two-sl-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 14:00 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-pakistan-390-6-lunch-day-two-sl.mp4"
  }
 ]
