@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-10-qureshi-taken-to-pic",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 423486526,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL",
+   "publication": "2026-11-10T23:04:00+05:00"
+  },
+  "story": {
+   "metricool_id": 423486545,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publication": "2026-11-10T23:09:00+05:00"
+  },
+  "tiktok": null,
+  "feed": null
+ }
+}

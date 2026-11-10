@@ -1,1 +1,91 @@
-{"slot": "2026-11-10T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-10T22:47:20+05:00", "language": "ur"}
+{
+ "slot": "2026-11-10T23:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "run_started_pkt": "2026-11-10T22:47:20+05:00",
+ "run_finished_pkt": "2026-11-10T22:59:05+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "PTI leader Shah Mahmood Qureshi, held in Kot Lakhpat jail, was taken to the Punjab Institute of Cardiology in Lahore on Tuesday days after suffering a fall, and will be kept under observation for 24 hours, his lawyer Rana Mudassar Umar told Dawn.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043526/lawyer-says-shah-mahmood-qureshi-taken-to-hospital-days-after-suffering-fall",
+    "published_at": "2026-11-10T18:01:45+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h",
+ "request_id": "2026-11-10-qureshi-taken-to-pic",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-qureshi-taken-to-pic.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 423486526,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6163597001188228377",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": null,
+  "feed": null,
+  "story": {
+   "id": 423486545,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3261862867638502847",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Carry On (Instrumental) - Giulio Cercato (1197857668796525, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "complete: slot window 22:00-00:00 had only the 22:00 posts; 23:00 empty. Windows 2026-11-08T22:00..2026-11-11T11:00 all succeeded. RiseUp day 2026-11-10: 9 news, 7 TikTok before this post. No Qureshi story in last 48h.",
+  "previous_slot_check": "22:00 slot: reel 423405645 FB https://facebook.com/reel/1694682888991884 + IG https://www.instagram.com/reel/Dfkab54DPOI/ PUBLISHED; TikTok 423405671 https://www.tiktok.com/@riseuppakistan2025/video/7706591027624267029 PUBLISHED; story 423405762 FB+IG PUBLISHED. No retries.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, APP, The News. Nothing qualifying in 2h-4h windows (see skipped_candidates). 6h window: Dawn Qureshi taken to PIC (18:01 PKT) chosen.",
+  "verification": "Dawn article read: article:published_time 2026-11-10 18:01:45+05:00, modified 18:03:42, byline Mansoor Malik, Lahore. Facts: lawyer Rana Mudassar Umar said Tuesday Qureshi (senior PTI leader, Kot Lakhpat jail) taken to PIC today after fainting and falling a few days ago; under observation 24 hours, then decision on admission.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: generic hospital entrance at dusk, anonymous people from behind, stretcher, unmarked van; no readable text, logos or public figures.",
+  "publish": "Roman Urdu card and 8 s 1080x1920 zoom MP4 (with audio stream) inspected (frame at 4 s shows card). FB Reel + IG Reel in one Metricool post at 23:04 (pipeline slot; NOW+5 rule); IG audio audioType music, displayArtist Giulio Cercato. Story FB+IG 23:09. TikTok skipped by pipeline pacing (7 allowed by 23:00). Zoom renderer has no option to bake a licensed track, so the Facebook Reel has no added music. Music from verified list (no time for trending search; calm track for serious news)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "China ready to deepen space cooperation with Pakistan; Pakistani astronaut on Shenzhou-24 (Arab News/Reuters 19:35)",
+   "reason": "briefing was Monday 9 Nov; event first reported >8h before slot"
+  },
+  {
+   "headline": "PM Shehbaz departs for Turkiye for COP31 (Dawn 11:37, updated 14:51)",
+   "reason": "older than 8 hours"
+  },
+  {
+   "headline": "PM calls for economically stronger, energy-secure Pakistan (Geo 690541)",
+   "reason": "page could not be fetched (client_error / PROVENANCE_REQUIRED); timestamp unverifiable"
+  },
+  {
+   "headline": "Saudi ministry launches Islamic course in Pakistan (Arab News 18:21)",
+   "reason": "course began Monday 9 Nov; event older than 8h"
+  },
+  {
+   "headline": "Karachi braces for morning fog (Tribune 09:51)",
+   "reason": "older than 8 hours"
+  },
+  {
+   "headline": "Relatives of 2023 boat disaster victims dropped charges (Arab News)",
+   "reason": "involves minors"
+  }
+ ],
+ "warnings": [
+  "TikTok skipped by pipeline: 7 TikTok posts on RiseUp day, allowed by 23:00 = 7"
+ ],
+ "errors": [
+  "geo.tv fetch: client_error; amp: PROVENANCE_REQUIRED (permission request not answered in time)"
+ ]
+}
