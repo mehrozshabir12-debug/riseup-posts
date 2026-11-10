@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-10-gold-per-tola-down-rs1500",
+ "type": "news",
+ "headline": "Gold price in Pakistan fell by Rs1,500 to Rs430,836 per tola on Tuesday, while 10 grams fell by Rs1,286 to Rs369,372, according to APGJSA rates reported by Business Recorder.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40448255/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+   "published_at": "2026-11-10T15:16:44+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/edb2a619-2ad8-4725-a09a-955980e1cbbc/6c6aee5b-667e-4468-a732-3648629ef2dd/Realistic_photo_of_a_traditional_jewellery_shop_counter_in_a.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZGJiZjMxNTgzNjYxNmIzNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDQ5MzkxMn0.-Dne1gsliR7dW8NlX9iyaXGT5EhMJOm54aaPEmSfvUs",
+  "head1": "Sone ki qeemat",
+  "head2_hl": "Rs1,500 kam",
+  "head2": "",
+  "kicker": "Ab fi tola Rs430,836",
+  "desc": "10 gram sona Rs1,286 sasta ho kar Rs369,372 ka ho gaya.",
+  "source": "Business Recorder",
+  "date": "10 NOV 2026"
+ },
+ "caption": "Sone ki qeemat mein Rs1,500 ki kami!\nBusiness Recorder ke mutabiq Tuesday ko Pakistan mein sona Rs1,500 sasta ho kar Rs430,836 fi tola ho gaya. 10 gram sona Rs1,286 kam ho kar Rs369,372 ka ho gaya. Yeh rate All-Pakistan Gems and Jewellers Sarafa Association (APGJSA) ne jari kiye. Duniya mein bhi sone ki qeemat $15 gir kar $4,083 fi ounce ho gayi.\nKya aap abhi sona khareedenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #SoneKiQeemat #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Sona Rs1,500 sasta, ab fi tola Rs430,836",
+ "publish": {
+  "slot": "2026-11-10T21:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
