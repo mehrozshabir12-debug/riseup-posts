@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-10-qureshi-taken-to-pic",
+ "type": "news",
+ "headline": "PTI leader Shah Mahmood Qureshi, held in Kot Lakhpat jail, was taken to the Punjab Institute of Cardiology in Lahore on Tuesday days after suffering a fall, and will be kept under observation for 24 hours, his lawyer Rana Mudassar Umar told Dawn.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043526/lawyer-says-shah-mahmood-qureshi-taken-to-hospital-days-after-suffering-fall",
+   "published_at": "2026-11-10T18:01:45+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/7163386b-f1d4-40a6-a464-bcb066b71822/9bb0e3f4-e96e-488f-b0f5-cc7b5757b7f5/Realistic_news_photo_of_the_entrance_of_a_large_public_cardi.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNWIzNjUwZTU4NmU5YmI1NCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDQ5NzUwOX0.WOCWbFPlYFCxt21Z9K13fUOmAbwXeoR4z1MRolSUKCU",
+  "head1": "Shah Mahmood Qureshi",
+  "head2_hl": "hospital le",
+  "head2": "jaya gaya",
+  "kicker": "24 ghante nigrani mein",
+  "desc": "Wakeel ke mutabiq kuch din pehle jail mein gir gaye thay.",
+  "source": "Dawn",
+  "date": "10 NOV 2026"
+ },
+ "caption": "Shah Mahmood Qureshi ko jail se hospital le jaya gaya!\nDawn ke mutabiq PTI ke senior leader Shah Mahmood Qureshi ko Tuesday ko Lahore ke Punjab Institute of Cardiology (PIC), yaani dil ke hospital, le jaya gaya. Un ke wakeel Rana Mudassar Umar ne bataya ke woh kuch din pehle Kot Lakhpat jail mein behosh ho kar gir gaye thay. Unhein 24 ghante nigrani mein rakha jayega, phir faisla hoga ke hospital mein dakhil karna hai ya nahi.\nAap is khabar par kya kehte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ShahMahmoodQureshi #PTI #Lahore #PakistanNews",
+ "tiktok_title": "Shah Mahmood Qureshi ko jail se PIC hospital le jaya gaya, 24 ghante nigrani",
+ "publish": {
+  "slot": "2026-11-10T23:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1197857668796525",
+  "label": "Carry On (Instrumental) - Giulio Cercato"
+ },
+ "ai_generated": true
+}
