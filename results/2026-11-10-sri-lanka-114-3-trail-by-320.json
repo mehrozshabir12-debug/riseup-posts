@@ -1,0 +1,141 @@
+{
+ "id": "2026-11-10-sri-lanka-114-3-trail-by-320",
+ "revision": 1,
+ "request": "requests/2026-11-10-sri-lanka-114-3-trail-by-320.json",
+ "type": "news",
+ "headline": "Sri Lanka reached 114-3 at stumps on day two of the first Test in Rawalpindi on Tuesday, trailing Pakistan's 434-9 declared by 320 runs.",
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-10; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-10T19:00:00+05:00",
+ "target_slot": "2026-11-10T19:00:00+05:00",
+ "riseup_day": "2026-11-10",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-sri-lanka-114-3-trail-by-320.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-sri-lanka-114-3-trail-by-320-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-sri-lanka-114-3-trail-by-320.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-10-sri-lanka-114-3-trail-by-320.jpg",
+  "story": "posts/2026-11-10-sri-lanka-114-3-trail-by-320-story.jpg",
+  "reel": "posts/2026-11-10-sri-lanka-114-3-trail-by-320.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 668369626,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pehle Test mein Sri Lanka 114-3 par mushkil mein! 🏏\nDawn ke mutabiq Tuesday ko Rawalpindi mein doosre din ka khel kam roshni ki wajah se jaldi khatam ho gaya. Pakistan ke 434-9 (declare) ke jawab mein Sri Lanka ne 114-3 banaye aur abhi 320 runs peeche hai. Debut karne wale Saqib Khan ne 2 wickets aur Mohammad Abbas ne 1 wicket liya. Kamindu Mendis 40 aur captain Dhananjaya de Silva 22 runs par khel rahe hain.\nKya Pakistan yeh Test jeet jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-sri-lanka-114-3-trail-by-320.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pehle Test mein Sri Lanka 114-3 par mushkil mein! 🏏\nDawn ke mutabiq Tuesday ko Rawalpindi mein doosre din ka khel kam roshni ki wajah se jaldi khatam ho gaya. Pakistan ke 434-9 (declare) ke jawab mein Sri Lanka ne 114-3 banaye aur abhi 320 runs peeche hai. Debut karne wale Saqib Khan ne 2 wickets aur Mohammad Abbas ne 1 wicket liya. Kamindu Mendis 40 aur captain Dhananjaya de Silva 22 runs par khel rahe hain.\nKya Pakistan yeh Test jeet jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #TestCricket #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-sri-lanka-114-3-trail-by-320.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-sri-lanka-114-3-trail-by-320-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1274149560124013",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-10T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-10-sri-lanka-114-3-trail-by-320-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-10T18:52:09+05:00"
+}

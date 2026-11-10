@@ -8828,5 +8828,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-10",
+  "slot": "2026-11-10T19:00:00+05:00",
+  "request_id": "2026-11-10-sri-lanka-114-3-trail-by-320",
+  "layout": "bold",
+  "headline": "Sri Lanka reached 114-3 at stumps on day two of the first Test in Rawalpindi on Tuesday, trailing Pakistan's 434-9 declared by 320 runs.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043497/pakistan-tighten-grip-on-first-test-as-sri-lanka-struggle-at-114-3",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043497/pakistan-tighten-grip-on-first-test-as-sri-lanka-struggle-at-114-3",
+    "published_at": "2026-11-10T16:59:50+05:00"
+   }
+  ],
+  "published": "2026-11-10T16:59:50+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 668369626,
+  "image": "posts/2026-11-10-sri-lanka-114-3-trail-by-320.jpg",
+  "story": "posts/2026-11-10-sri-lanka-114-3-trail-by-320-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-10 19:00 PKT",
+  "music": "Heros Journey (Instrumental) - Abby Posner",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-10-sri-lanka-114-3-trail-by-320.mp4"
  }
 ]
