@@ -8896,10 +8896,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-10 20:07 PKT",
+  "scheduled": "2026-11-10T20:07:00+05:00",
   "music": "Purity - Ross Lara",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 423269957,
+   "feed": 423270013,
+   "story": 423270104
+  },
+  "video": "posts/2026-11-10-ihc-orders-imran-khan-lawyers-meeting.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "feed": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
