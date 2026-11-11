@@ -1,1 +1,52 @@
-{"slot": "2026-11-11T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T18:46:40+05:00", "language": "ur"}
+{
+ "slot": "2026-11-11T19:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "run_started_pkt": "2026-11-11T18:46:40+05:00",
+ "run_finished_pkt": "2026-11-11T19:09:39+05:00",
+ "test_mode": false,
+ "outcome": "error_render_timeout_slot_missed",
+ "language": "ur",
+ "story": {
+  "headline": "Sri Lanka reached 404-4 at the close of day three of the first Test against Pakistan in Rawalpindi on Wednesday, 30 runs behind Pakistan's 434-9 declared (De Silva 167*, Kusal Mendis 117*), Dawn (AFP).",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043767/centurions-de-silva-mendis-foil-pakistan-as-sri-lanka-dig-in",
+    "published_at": "2026-11-11T17:18:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-11-sri-lanka-404-4-day-three-rawalpindi",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {},
+ "music": "none (not posted; planned I'll Always Be Around - Alex Blue 836981678209890)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB+IG+TikTok). 18:00-20:00: only 18:00 posts, 19:00 free. Windows 9 Nov 18:00 -> 12 Nov 07:00 all succeeded. RiseUp day 2026-11-11: 4 news, 4 TikTok.",
+  "previous_slot_check": "18:00 slot: reel 424391504 FB https://facebook.com/reel/2770810056655305 + IG https://www.instagram.com/reel/DfmjYInAV2f/ PUBLISHED; TikTok 424391531 PUBLISHED; story 424391554 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "Dawn/Tribune/Arab News/Geo searched. Chose Dawn (AFP) day-three Test report, updated 17:18 PKT (stumps). Last cricket post was day two (10 Nov 19:00), so new development.",
+  "verification": "Dawn meta published 2026-11-11 14:08:58+05:00, modified 17:18:00+05:00. SL 404-4, De Silva 167*, Mendis 117*, 249 unbroken 5th-wkt stand (SL record vs Pakistan), 30 behind 434-9d, bad light ended play 15 min early.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image: wide stadium Test match scene, anonymous players, no readable text/public figures.",
+  "publish": "Request committed 18:49 PKT (workflow run 43032566940). The 'process' job stayed on step 'Install video tools only when a pending request has a Reel' from 18:49:31 to past 19:09 PKT; no results/<id>.json. Slot T+15 limit (19:15) could not be met with render + card check + posting, so nothing was posted. Cancel receipt committed so the late render is never published."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Kohat police party ambush (10 police martyred)",
+   "reason": "violence; casualty figures differ"
+  },
+  {
+   "headline": "Imran Khan taken to Pims for eye procedure",
+   "reason": "overnight story, older than better candidate; political/health"
+  }
+ ],
+ "errors": [
+  "GitHub Actions run 43032566940 job 'process' stuck in step 4 'Install video tools only when a pending request has a Reel' for 20+ minutes; results/2026-11-11-sri-lanka-404-4-day-three-rawalpindi.json never appeared; slot 19:00 missed"
+ ]
+}
