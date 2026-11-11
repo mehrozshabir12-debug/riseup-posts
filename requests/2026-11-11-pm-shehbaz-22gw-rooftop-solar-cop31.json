@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31",
+ "type": "news",
+ "headline": "PM Shehbaz Sharif told COP31 in Antalya on Wednesday that Pakistanis added nearly 22 gigawatts of rooftop solar capacity in two years, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
+   "published_at": "2026-11-11T10:44:54+05:00",
+   "updated_at": "2026-11-11T19:26:11+05:00",
+   "substantive_update": true
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/ef50d743-7b4b-40e7-b4ab-2a43deb1084e/6e115e86-2bf8-4eab-8d37-1e8109358a2e/Realistic_news_photo_of_a_dense_residential_neighbourhood_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZTdmM2ZmOGE3NDg4MDBjMiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDUxMzE2Mn0.a__1od456-m6qNEU5NmHvuVyc-v9UKBgqCj6RKVsa9o",
+  "head1": "PM: awam ne takreeban",
+  "head2_hl": "22 GW solar",
+  "head2": "lagaya",
+  "kicker": "COP31 mein PM Shehbaz",
+  "desc": "Sirf 2 saal mein gharon ki chhaton par solar panels lage.",
+  "source": "Dawn",
+  "date": "11 NOV 2026"
+ },
+ "caption": "PM Shehbaz: Pakistaniyon ne 2 saal mein takreeban 22 GW solar laga liya!\nDawn ke mutabiq PM Shehbaz Sharif ne Wednesday ko Turkiye ke shehar Antalya mein COP31 (mausam ki tabdeeli par duniya ki bari conference) mein bataya ke Pakistan mein sirf 2 saal mein gharon ki chhaton par takreeban 22 gigawatt (GW) solar lagaya gaya. Unhon ne ise aam logon ka \"khamosh inqilab\" kaha jo sasti bijli chahte hain. Unhon ne Chashma-5 nuclear plant ka bhi zikr kiya jo 1,200 MW bijli dega.\nKya aap ke ghar par bhi solar laga hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SolarEnergy #COP31 #ShehbazSharif #PakistanNews",
+ "tiktok_title": "PM Shehbaz: 2 saal mein chhaton par takreeban 22 GW solar laga",
+ "publish": {
+  "slot": "2026-11-11T23:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1543577430102877",
+  "label": "The Process - Jackson Whalan"
+ },
+ "ai_generated": true
+}
