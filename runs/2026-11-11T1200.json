@@ -1,1 +1,79 @@
-{"slot": "2026-11-11T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T11:46:24+05:00", "language": "ur"}
+{
+ "slot": "2026-11-11T12:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "run_started_pkt": "2026-11-11T11:46:24+05:00",
+ "run_finished_pkt": "2026-11-11T11:50:47+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "PM Shehbaz Sharif will address the COP31 Leaders' Summit in Antalya, Turkiye, on Wednesday, highlighting Pakistan's climate priorities and calling for climate finance for developing countries, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities",
+    "published_at": "2026-11-11T10:44:54+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-11-pm-shehbaz-cop31-antalya",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-cop31-antalya.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 424067614,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6274460081654839014",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "id": 424067637,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7313440856115559801",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 424067649,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4763609347903437521",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "City Around The Corner - The Poison Oaks (2384396914990297, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB+IG+TikTok). 11:00-13:00 empty (slot free). Six-hour windows 9 Nov 11:00 -> 12 Nov 00:00 all succeeded. RiseUp day 2026-11-11: 1 news, 1 TikTok before this post. No COP31 story posted in last 48h (only listed as skipped candidate on 10 Nov).",
+  "previous_slot_check": "No 11:00 post exists (no 11:00 run). 10:00 slot: reel 424013551 FB https://facebook.com/reel/1010065511377763 + IG https://www.instagram.com/reel/DflsiKZDxgE/ PUBLISHED; TikTok 424013587 PUBLISHED; story 424013615 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "Searched Dawn, Tribune, Geo, The News, Brecorder, Arab News, APP. Dawn COP31 story (10:44 PKT) chosen in 2h window: today's new development (PM addresses summit today), neutral, national.",
+  "verification": "Dawn article read: article:published_time 2026-11-11 10:44:54+05:00, modified 10:48:25, News Desk | Reuters. Facts: PM Shehbaz to highlight climate priorities at COP31 Antalya Leaders' Summit Wednesday; delegates from nearly 200 countries; FO: solarisation/renewables, disaster preparedness and early-warning systems; call for climate finance for developing countries; bilateral with President Erdogan scheduled.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: seaside conference hall, empty podium, anonymous audience, solar panels outside; no readable text, logos or public figures.",
+  "publish": "Results awaiting_publish. Roman Urdu card and 8 s 1080x1920 zoom MP4 (audio stream present; frame at 4 s shows card) inspected. FB Reel + IG Reel in one Metricool post (same MP4, caption, thumbnail); IG audio audioType music, displayArtist The Poison Oaks. TikTok photo post separate. Story FB+IG 12:05. Zoom renderer has no option to bake a licensed track into the MP4 (only narrated reels have synthesised audio), so Facebook Reel has no added music. Music from verified neutral list (no time for trending search)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Imran Khan brought to PIMS for eye procedure (Dawn 10:21)",
+   "reason": "political/health story; COP31 preferred as neutral national story of same freshness"
+  },
+  {
+   "headline": "Maryam dares PML-Q ministers to resign (Tribune)",
+   "reason": "political attack story"
+  },
+  {
+   "headline": "JI, govt agree on draft outlines for petroleum levy relief (Tribune)",
+   "reason": "timestamp not verified in time; COP31 newer in Dawn"
+  }
+ ],
+ "errors": []
+}

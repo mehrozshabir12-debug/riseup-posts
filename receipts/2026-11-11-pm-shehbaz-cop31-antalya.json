@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-11-pm-shehbaz-cop31-antalya",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 424067614,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "metricool_id": 424067637,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 424067649,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
