@@ -9076,10 +9076,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-11 10:08 PKT",
+  "scheduled": true,
   "music": "Chase It (Instrumental) - JQ, The Red Collective",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-11-ogdcl-gas-discovery-khairpur.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 424013551,
+   "tiktok": 424013587,
+   "story": 424013615
+  },
+  "video": "posts/2026-11-11-ogdcl-gas-discovery-khairpur.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "tiktok": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
