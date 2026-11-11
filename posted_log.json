@@ -9266,10 +9266,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-11 23:00 PKT",
+  "scheduled": true,
   "music": "The Process - Jackson Whalan",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 424746659,
+   "tiktok": 424746680,
+   "story": 424746703
+  },
+  "video": "posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "tiktok": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
