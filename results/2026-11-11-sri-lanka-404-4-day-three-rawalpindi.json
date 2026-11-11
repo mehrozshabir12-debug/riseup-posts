@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-11-sri-lanka-404-4-day-three-rawalpindi",
+ "revision": 1,
+ "request": "requests/2026-11-11-sri-lanka-404-4-day-three-rawalpindi.json",
+ "status": "rejected",
+ "errors": [
+  "slot 2026-11-11 19:00 PKT was missed (now 22:48); never schedule in the past"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-11T22:48:13+05:00"
+}
