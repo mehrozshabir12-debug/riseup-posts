@@ -1,1 +1,28 @@
-{"slot": "2026-11-11T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T21:46:37+05:00", "language": "en"}
+{
+ "slot": "2026-11-11T22:00:00+05:00",
+ "outcome": "error_pipeline_stuck_skipped",
+ "riseup_day": "2026-11-11",
+ "run_started_pkt": "2026-11-11T21:46:37+05:00",
+ "run_finished_pkt": "2026-11-11T21:49:37+05:00",
+ "test_mode": false,
+ "language": "en",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none (not posted)",
+ "fb_music": "not supported (not posted)",
+ "stages": {
+  "metricool_read": "not done - pipeline check failed first (no post possible).",
+  "previous_slot_check": "21:00 slot: nothing posted (run error_pipeline_stuck_skipped); 19:00 and 20:00 also missed.",
+  "news_search": "not done - render pipeline down.",
+  "verification": "not done",
+  "image": "No Runway image generated on purpose (owner: fewest credits) - pipeline cannot render.",
+  "publish": "Probe workflow_dispatch run 43061698830 (21:47 PKT) stuck in step 4 'Install video tools only when a pending request has a Reel' (apt-get ffmpeg espeak-ng) for 2+ min (healthy job finishes in ~1 min). Cancelled at 21:49 PKT so it does not block the next slot. 6th consecutive hang."
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "GitHub Actions step 4 apt-get (ffmpeg espeak-ng) still hangs on ubuntu-latest: probe run 43061698830 stuck >2 min, cancelled. Previous hung runs 43032566940, 43035802467, 43042093226, 43045354114, 43052871109. 22:00 slot skipped, no Runway credit spent. Needs owner fix in .github/workflows (Claude may not edit .github/)."
+ ]
+}
