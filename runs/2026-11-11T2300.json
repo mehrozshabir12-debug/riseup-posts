@@ -1,1 +1,76 @@
-{"slot": "2026-11-11T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T22:47:04+05:00", "language": "ur"}
+{
+ "slot": "2026-11-11T23:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "run_started_pkt": "2026-11-11T22:47:04+05:00",
+ "run_finished_pkt": "2026-11-11T22:53:43+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "PM Shehbaz Sharif told COP31 in Antalya on Wednesday that Pakistanis added nearly 22 gigawatts of rooftop solar capacity in two years, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
+    "published_at": "2026-11-11T10:44:54+05:00",
+    "updated_at": "2026-11-11T19:26:11+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 424746659,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6195261744606658449",
+   "networks": {
+    "instagram": "PENDING",
+    "facebook": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "id": 424746680,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6617118245811565020",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 424746703,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8170989881622246634",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "The Process - Jackson Whalan (audioType music, displayArtist Jackson Whalan, id 1543577430102877)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "All 6-hour windows 2026-11-09T22:00..2026-11-12T10:00 checked (some empty); no post at 23:00. RiseUp day 11 Nov news posts so far: 4 (10:00, 12:00, 16:00, 18:00), TikTok 4.",
+  "previous_slot_check": "19:00-22:00 slots had no posts (pipeline hang runs). Last posted slot 18:00: FB Reel, IG Reel, TikTok, Stories all PUBLISHED.",
+  "news_search": "Pipeline probe run 43071513323 (22:47 PKT) finished step 4 apt-get in 29 s - render pipeline healthy again. Picked Dawn COP31 solar speech (substantively updated 19:26 PKT with speech facts). Not a duplicate of the 12:00 COP31 preview post: the speech was delivered and new figures (22 GW rooftop solar, Chashma-5 1,200 MW) were added.",
+  "verification": "Dawn article read via fetch: meta published 10:44:54+05:00, modified 19:26:11+05:00; 'nearly 22 gigawatts of rooftop solar in two years', 'quiet revolution by ordinary citizens', Chashma-5 1,200 MW all match. Arab News 3006743 corroborates Chashma 1,200 MW.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task ef50d743-7b4b-40e7-b4ab-2a43deb1084e; no text/logos/public figures.",
+  "publish": "Card and zoom MP4 (8 s, 1080x1920) checked. Reel post = Instagram REEL + Facebook REEL with same MP4/caption/thumbnail; TikTok own photo post; Story 23:05. IG audio resolved as music. Renderer has no option to bake a licensed track into the MP4, so the Facebook Reel has no music. Trending-music web search skipped for time; used the verified list (not used yet today)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM Shehbaz meets Iran President Pezeshkian at COP31 (Arab News)",
+   "reason": "first reported 18:14 PKT (older than chosen story's update); less relevant to ordinary people"
+  },
+  {
+   "headline": "JI continues nationwide protests against petroleum levy (Tribune)",
+   "reason": "not checked in time; solar story chosen as more useful"
+  }
+ ],
+ "errors": []
+}

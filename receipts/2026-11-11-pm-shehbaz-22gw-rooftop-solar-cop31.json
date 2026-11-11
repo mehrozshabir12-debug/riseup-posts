@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 424746659,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "metricool_id": 424746680,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 424746703,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
