@@ -9098,5 +9098,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-11",
+  "slot": "2026-11-11T12:00:00+05:00",
+  "request_id": "2026-11-11-pm-shehbaz-cop31-antalya",
+  "layout": "bold",
+  "headline": "PM Shehbaz Sharif will address the COP31 Leaders' Summit in Antalya, Turkiye, on Wednesday, highlighting Pakistan's climate priorities and calling for climate finance for developing countries, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities",
+    "published_at": "2026-11-11T10:44:54+05:00"
+   }
+  ],
+  "published": "2026-11-11T10:44:54+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 758746150,
+  "image": "posts/2026-11-11-pm-shehbaz-cop31-antalya.jpg",
+  "story": "posts/2026-11-11-pm-shehbaz-cop31-antalya-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-11 12:00 PKT",
+  "music": "City Around The Corner - The Poison Oaks",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-11-pm-shehbaz-cop31-antalya.mp4"
  }
 ]
