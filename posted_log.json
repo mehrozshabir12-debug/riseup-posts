@@ -9145,5 +9145,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-11",
+  "slot": "2026-11-11T16:00:00+05:00",
+  "request_id": "2026-11-11-adb-500m-disaster-financing",
+  "layout": "bold",
+  "headline": "The Asian Development Bank on Wednesday approved contingent disaster financing of up to $500 million for Pakistan to provide prompt budget support after eligible disasters, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness",
+    "published_at": "2026-11-11T14:57:30+05:00"
+   }
+  ],
+  "published": "2026-11-11T14:57:30+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 251076580,
+  "image": "posts/2026-11-11-adb-500m-disaster-financing.jpg",
+  "story": "posts/2026-11-11-adb-500m-disaster-financing-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-11 16:00 PKT",
+  "music": "Simple Pleasures - Alex Blue",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-11-adb-500m-disaster-financing.mp4"
  }
 ]

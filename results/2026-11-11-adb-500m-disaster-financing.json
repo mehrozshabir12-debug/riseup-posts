@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-11-adb-500m-disaster-financing",
+ "revision": 1,
+ "request": "requests/2026-11-11-adb-500m-disaster-financing.json",
+ "type": "news",
+ "headline": "The Asian Development Bank on Wednesday approved contingent disaster financing of up to $500 million for Pakistan to provide prompt budget support after eligible disasters, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-11T16:00:00+05:00",
+ "target_slot": "2026-11-11T16:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-adb-500m-disaster-financing.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-adb-500m-disaster-financing-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-adb-500m-disaster-financing.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-11-adb-500m-disaster-financing.jpg",
+  "story": "posts/2026-11-11-adb-500m-disaster-financing-story.jpg",
+  "reel": "posts/2026-11-11-adb-500m-disaster-financing.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 251076580,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-11T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "ADB ne aafat se bachao ke liye Pakistan ko $500 million tak manzoor kar diye!\nDawn ke mutabiq Asian Development Bank (ADB) ne Wednesday ko Pakistan ke liye $500 million tak ki financing manzoor ki. Yeh paisay sailab, zalzalay ya kisi aur aafat ke baad hukumat ko foran budget madad ke taur par milenge. ADB ke mutabiq aafat se Pakistan ko har saal andazan $2 billion ka nuqsan hota hai. Sirf 2022 ke sailab ne $14.9 billion ka seedha nuqsan kiya tha.\nKya Pakistan sailab ke liye pehle se tayyar hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ADB #PakistanFloods #ClimateChange #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-adb-500m-disaster-financing.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "ADB ne Pakistan ke liye $500 million tak manzoor kiye, aafat ke baad foran madad",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-11T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "ADB ne aafat se bachao ke liye Pakistan ko $500 million tak manzoor kar diye!\nDawn ke mutabiq Asian Development Bank (ADB) ne Wednesday ko Pakistan ke liye $500 million tak ki financing manzoor ki. Yeh paisay sailab, zalzalay ya kisi aur aafat ke baad hukumat ko foran budget madad ke taur par milenge. ADB ke mutabiq aafat se Pakistan ko har saal andazan $2 billion ka nuqsan hota hai. Sirf 2022 ke sailab ne $14.9 billion ka seedha nuqsan kiya tha.\nKya Pakistan sailab ke liye pehle se tayyar hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ADB #PakistanFloods #ClimateChange #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-adb-500m-disaster-financing.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-adb-500m-disaster-financing-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1131479132514825",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-11T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-adb-500m-disaster-financing-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-11T15:48:14+05:00"
+}
