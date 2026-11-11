@@ -9192,5 +9192,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-11",
+  "slot": "2026-11-11T18:00:00+05:00",
+  "request_id": "2026-11-11-karachi-light-rain-friday-pmd",
+  "layout": "bold",
+  "headline": "The Pakistan Meteorological Department said on Wednesday that light rain and drizzle are expected at isolated places in Karachi on Friday, The Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2639760/karachi-likely-to-receive-light-rain-drizzle-on-friday-pmd",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639760/karachi-likely-to-receive-light-rain-drizzle-on-friday-pmd",
+    "published_at": "2026-11-11T14:21:39+05:00"
+   }
+  ],
+  "published": "2026-11-11T14:21:39+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 351619756,
+  "image": "posts/2026-11-11-karachi-light-rain-friday-pmd.jpg",
+  "story": "posts/2026-11-11-karachi-light-rain-friday-pmd-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-11 18:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-11-karachi-light-rain-friday-pmd.mp4"
  }
 ]
