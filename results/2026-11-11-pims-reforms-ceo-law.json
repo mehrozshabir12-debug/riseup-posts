@@ -2,11 +2,13 @@
  "id": "2026-11-11-pims-reforms-ceo-law",
  "revision": 1,
  "request": "requests/2026-11-11-pims-reforms-ceo-law.json",
- "status": "rejected",
+ "status": "cancelled",
  "errors": [
   "slot 2026-11-11 20:00 PKT was missed (now 22:48); never schedule in the past"
  ],
  "warnings": [],
  "published": false,
- "updated_at": "2026-11-11T22:48:13+05:00"
+ "updated_at": "2026-11-11T22:48:15+05:00",
+ "cancel_reason": "slot 20:00 missed: GitHub render did not finish (run 43042093226 stuck at step 4 Install video tools from 19:50 PKT) before T+15; nothing posted to Metricool",
+ "receipt_sha": "e7735c042d77c68c88fd37562f2f260fd3d59264bf2a24d7e442035c64a4b11e"
 }

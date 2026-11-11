@@ -2,11 +2,13 @@
  "id": "2026-11-11-sri-lanka-404-4-day-three-rawalpindi",
  "revision": 1,
  "request": "requests/2026-11-11-sri-lanka-404-4-day-three-rawalpindi.json",
- "status": "rejected",
+ "status": "cancelled",
  "errors": [
   "slot 2026-11-11 19:00 PKT was missed (now 22:48); never schedule in the past"
  ],
  "warnings": [],
  "published": false,
- "updated_at": "2026-11-11T22:48:13+05:00"
+ "updated_at": "2026-11-11T22:48:15+05:00",
+ "cancel_reason": "slot 19:00 missed: GitHub render did not finish (stuck at 'Install video tools' from 18:49 PKT) before T+15; nothing posted to Metricool",
+ "receipt_sha": "be93a771dac75f02e444fa6987ae7ed46221d45fb2fe0062f9b0b8818cb864a0"
 }
