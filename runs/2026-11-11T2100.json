@@ -1,1 +1,28 @@
-{"slot": "2026-11-11T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T20:46:32+05:00", "language": "ur"}
+{
+ "slot": "2026-11-11T21:00:00+05:00",
+ "outcome": "error_pipeline_stuck_skipped",
+ "run_started_pkt": "2026-11-11T20:46:32+05:00",
+ "language": "ur",
+ "riseup_day": "2026-11-11",
+ "run_finished_pkt": "2026-11-11T20:56:25+05:00",
+ "test_mode": false,
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none (not posted)",
+ "fb_music": "not supported (not posted)",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB+IG+TikTok connected). 20:00-22:00 window empty: 21:00 slot free. Full 48h history not pulled because the render pipeline was down (no post possible).",
+  "previous_slot_check": "20:00 slot: nothing posted (previous run error_render_timeout_slot_missed); 19:00 also missed.",
+  "news_search": "Searched Dawn/Tribune/Geo/Arab News; candidates seen (PM-Iran president COP31 meeting, Saudi-Pakistan PE fund, U-19 Asia Cup) but not pursued because the pipeline could not render.",
+  "verification": "not done",
+  "image": "No Runway image generated on purpose (owner: fewest credits) - the 19:00 and 20:00 runs each spent a credit and the render never ran.",
+  "publish": "GitHub Actions step 4 'Install video tools only when a pending request has a Reel' (apt-get update/install ffmpeg espeak-ng) hung for the 5th consecutive run. Runs 43032566940, 43035802467, 43042093226, 43045354114 all cancelled at the 30-min timeout. Probe run 43052871109 (workflow_dispatch at 20:53 PKT) was again stuck in step 4 after 2+ min (healthy runs finish the whole job in ~1 min); cancelled by this run at 20:56 PKT so it does not block the next slot. Note: needs_video is also true because the cancelled requests 2026-11-11-pims-reforms-ceo-law and 2026-11-11-sri-lanka-404-4-day-three-rawalpindi have no results file."
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "GitHub Actions step 4 apt-get (ffmpeg espeak-ng) hangs on ubuntu-latest runners: 4 runs timed out at 30 min (43032566940, 43035802467, 43042093226, 43045354114) and probe 43052871109 stuck >2 min, cancelled. 21:00 slot skipped without spending Runway credits."
+ ]
+}
