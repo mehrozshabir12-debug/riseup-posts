@@ -9170,10 +9170,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-11 16:00 PKT",
+  "scheduled": true,
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-11-adb-500m-disaster-financing.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 424264116,
+   "tiktok": 424264337,
+   "story": 424264365
+  },
+  "video": "posts/2026-11-11-adb-500m-disaster-financing.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "tiktok": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
