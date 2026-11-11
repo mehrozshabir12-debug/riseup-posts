@@ -1,1 +1,79 @@
-{"slot": "2026-11-11T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T17:46:41+05:00", "language": "en"}
+{
+ "slot": "2026-11-11T18:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "run_started_pkt": "2026-11-11T17:46:41+05:00",
+ "run_finished_pkt": "2026-11-11T17:56:24+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "The Pakistan Meteorological Department said on Wednesday that light rain and drizzle are expected at isolated places in Karachi on Friday, The Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639760/karachi-likely-to-receive-light-rain-drizzle-on-friday-pmd",
+    "published_at": "2026-11-11T14:21:39+05:00"
+   }
+  ]
+ },
+ "freshness_window": "4h",
+ "request_id": "2026-11-11-karachi-light-rain-friday-pmd",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-karachi-light-rain-friday-pmd.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 424391504,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6685746762840063366",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "id": 424391531,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6376583909705927461",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 424391554,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6052672011040345783",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (757785052896581, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB+IG+TikTok). 17:00-19:00 empty (slot free). Six-hour windows 9 Nov 17:30 -> 12 Nov 06:00 all succeeded. RiseUp day 2026-11-11: 3 news, 3 TikTok before this post. No Karachi weather/rain story in last 48h.",
+  "previous_slot_check": "No 17:00 post (no 17:00 run). 16:00 slot: reel 424264116 FB https://facebook.com/reel/1440997838232891 + IG https://www.instagram.com/reel/DfmVYsuDO0M/ PUBLISHED; TikTok 424264337 PUBLISHED; story 424264365 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, APP. Nothing suitable within 2h/3h (Kohat police attack = violence; COP31 speech not yet reported delivered and COP31 posted at 12:00; Imran Khan items political/repeat). Tribune PMD Karachi rain forecast (14:21 PKT) chosen in 4h window.",
+  "verification": "Tribune article read (Aftab Khan): article:published_time 2026-11-11T09:21:39+00:00 = 14:21 PKT. Facts: PMD said Wednesday light rain/drizzle expected at isolated places in Karachi on Friday; westerly wave may bring light rain to Karachi, Dadu, Kamber Shahdadkot, Jamshoro, Thatta; Karachi max 32-34C next three days; most of Sindh dry with cool nights, misty mornings.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: rainy Karachi-style street, anonymous pedestrians with umbrellas, rickshaws and motorbikes; no readable text, logos or public figures.",
+  "publish": "Results awaiting_publish. English card and 8 s 1080x1920 zoom MP4 (frame at 4 s shows card) inspected. FB Reel + IG Reel in one Metricool post (same MP4, caption, thumbnail); IG audio audioType music, displayArtist Trout Recording. TikTok photo post separate. Story FB+IG 18:05. Zoom renderer has no option to bake a licensed track into the MP4, so the Facebook Reel has no music (fb_music: not supported). Music from verified neutral list, unused today; no trending search this run (time)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Kohat police party attack, 10-12 police killed/injured",
+   "reason": "violence; casualty figures differ between outlets"
+  },
+  {
+   "headline": "PM Shehbaz COP31 speech",
+   "reason": "delivery not yet reported in approved sources; COP31 preview already posted at 12:00"
+  },
+  {
+   "headline": "Imran's lawyers allowed to Adiala after IHC order (Tribune)",
+   "reason": "political follow-up of a story posted 10 Nov; timestamp not checked"
+  }
+ ],
+ "errors": []
+}

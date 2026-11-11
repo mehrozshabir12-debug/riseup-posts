@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-11-karachi-light-rain-friday-pmd",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 424391504,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "metricool_id": 424391531,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 424391554,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
