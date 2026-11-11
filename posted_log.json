@@ -9217,10 +9217,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-11 18:00 PKT",
+  "scheduled": true,
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-11-karachi-light-rain-friday-pmd.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 424391504,
+   "tiktok": 424391531,
+   "story": 424391554
+  },
+  "video": "posts/2026-11-11-karachi-light-rain-friday-pmd.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "tiktok": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
