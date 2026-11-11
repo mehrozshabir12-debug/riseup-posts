@@ -1,1 +1,79 @@
-{"slot": "2026-11-11T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T15:45:35+05:00", "language": "ur"}
+{
+ "slot": "2026-11-11T16:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "run_started_pkt": "2026-11-11T15:45:35+05:00",
+ "run_finished_pkt": "2026-11-11T15:49:46+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "story": {
+  "headline": "The Asian Development Bank on Wednesday approved contingent disaster financing of up to $500 million for Pakistan to provide prompt budget support after eligible disasters, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness",
+    "published_at": "2026-11-11T14:57:30+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-11-adb-500m-disaster-financing",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-adb-500m-disaster-financing.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 424264116,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3378452131671787045",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "id": 424264337,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5691243283065622476",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 424264365,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1515926378870884134",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures - Alex Blue (1131479132514825, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB+IG+TikTok). 15:00-17:00 empty (slot free). Six-hour windows 9 Nov 15:00 -> 12 Nov 04:00 all succeeded. RiseUp day 2026-11-11: 2 news, 2 TikTok before this post. No ADB/disaster-financing story in last 48h.",
+  "previous_slot_check": "No 15:00 post exists (no 15:00 run). 14:00 slot also empty. 12:00 slot: reel 424067614 FB https://facebook.com/reel/1133936799222413 + IG https://www.instagram.com/reel/Dfl5uhAjl1L/ PUBLISHED; TikTok 424067637 PUBLISHED; story 424067649 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder. Dawn ADB story (14:57 PKT) chosen in 2h window: affects ordinary people (disaster preparedness), neutral, not posted before.",
+  "verification": "Dawn article read (Khaleeq Kiani): article:published_time 2026-11-11 14:57:30+05:00, modified 15:13:47. Facts: ADB on Wednesday approved contingent disaster financing facilities of up to $500 million; prompt budget support after eligible disaster events; disasters cause Pakistan estimated $2 billion annual average losses; 2022 floods caused $14.9bn direct damage.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: riverside village, relief workers unloading sacks from a small truck, anonymous villagers; no readable text, logos or public figures.",
+  "publish": "Results awaiting_publish. Roman Urdu card and 8 s 1080x1920 zoom MP4 (frame at 4 s shows card; audio stream silent, -91 dB) inspected. FB Reel + IG Reel in one Metricool post (same MP4, caption, thumbnail); IG audio audioType music, displayArtist Alex Blue. TikTok photo post separate. Story FB+IG 16:05. Zoom renderer does not bake a licensed track into the MP4, so the Facebook Reel has no music (fb_music: not supported). Music from verified neutral list, unused today; no trending search this run."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Sri Lanka 221-4 at lunch on day 3 (Dawn/AFP 14:08)",
+   "reason": "ADB story newer and of wider public interest; cricket session update"
+  },
+  {
+   "headline": "Imran Khan eye procedure at PIMS",
+   "reason": "already a rejected candidate at 12:00; political/health"
+  },
+  {
+   "headline": "Pearl Continental owner / Thatta Cement deal (Brecorder)",
+   "reason": "corporate story, less relevant to ordinary people; timestamp not checked"
+  }
+ ],
+ "errors": []
+}

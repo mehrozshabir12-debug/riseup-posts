@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-11-adb-500m-disaster-financing",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 424264116,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "metricool_id": 424264337,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 424264365,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
