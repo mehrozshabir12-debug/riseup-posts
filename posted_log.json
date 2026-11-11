@@ -9239,5 +9239,37 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-11",
+  "slot": "2026-11-11T23:00:00+05:00",
+  "request_id": "2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31",
+  "layout": "bold",
+  "headline": "PM Shehbaz Sharif told COP31 in Antalya on Wednesday that Pakistanis added nearly 22 gigawatts of rooftop solar capacity in two years, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
+    "published_at": "2026-11-11T10:44:54+05:00",
+    "updated_at": "2026-11-11T19:26:11+05:00",
+    "substantive_update": true
+   }
+  ],
+  "published": "2026-11-11T10:44:54+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 128587392,
+  "image": "posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.jpg",
+  "story": "posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-11 23:00 PKT",
+  "music": "The Process - Jackson Whalan",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.mp4"
  }
 ]

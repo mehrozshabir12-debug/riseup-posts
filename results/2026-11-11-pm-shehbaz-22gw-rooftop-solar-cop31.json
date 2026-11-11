@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31",
+ "revision": 1,
+ "request": "requests/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.json",
+ "type": "news",
+ "headline": "PM Shehbaz Sharif told COP31 in Antalya on Wednesday that Pakistanis added nearly 22 gigawatts of rooftop solar capacity in two years, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-11T23:00:00+05:00",
+ "target_slot": "2026-11-11T23:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.jpg",
+  "story": "posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31-story.jpg",
+  "reel": "posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 128587392,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-11T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PM Shehbaz: Pakistaniyon ne 2 saal mein takreeban 22 GW solar laga liya!\nDawn ke mutabiq PM Shehbaz Sharif ne Wednesday ko Turkiye ke shehar Antalya mein COP31 (mausam ki tabdeeli par duniya ki bari conference) mein bataya ke Pakistan mein sirf 2 saal mein gharon ki chhaton par takreeban 22 gigawatt (GW) solar lagaya gaya. Unhon ne ise aam logon ka \"khamosh inqilab\" kaha jo sasti bijli chahte hain. Unhon ne Chashma-5 nuclear plant ka bhi zikr kiya jo 1,200 MW bijli dega.\nKya aap ke ghar par bhi solar laga hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SolarEnergy #COP31 #ShehbazSharif #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PM Shehbaz: 2 saal mein chhaton par takreeban 22 GW solar laga",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-11T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PM Shehbaz: Pakistaniyon ne 2 saal mein takreeban 22 GW solar laga liya!\nDawn ke mutabiq PM Shehbaz Sharif ne Wednesday ko Turkiye ke shehar Antalya mein COP31 (mausam ki tabdeeli par duniya ki bari conference) mein bataya ke Pakistan mein sirf 2 saal mein gharon ki chhaton par takreeban 22 gigawatt (GW) solar lagaya gaya. Unhon ne ise aam logon ka \"khamosh inqilab\" kaha jo sasti bijli chahte hain. Unhon ne Chashma-5 nuclear plant ka bhi zikr kiya jo 1,200 MW bijli dega.\nKya aap ke ghar par bhi solar laga hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SolarEnergy #COP31 #ShehbazSharif #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1543577430102877",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-11T23:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-pm-shehbaz-22gw-rooftop-solar-cop31-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-11T22:52:28+05:00"
+}
