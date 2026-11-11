@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-11-ogdcl-gas-discovery-khairpur",
+ "type": "news",
+ "headline": "OGDCL told the PSX on Wednesday that its Bitrisim Northwest-1 exploratory well in District Khairpur, Sindh, tested 12.8 MMSCFD of gas and 175 barrels of condensate per day, Business Recorder reports.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40448392/ogdcl-discovers-hydrocarbon-reserves-in-sindhs-khairpur",
+   "published_at": "2026-11-11T09:38:47+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/bde934a1-427a-4913-bcee-1a003bf31fe0/738178d0-65fd-4633-adf0-174d68abd308/Realistic_news_photo_of_an_onshore_gas_well_test_site_in_the.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDY1NTk2Y2JiZDAzZjEwMyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDQ5MTA4M30.ksXIedB_4SZ-GQN5qjVAeHATcJJx6eTIaQttBpE29c4",
+  "head1": "OGDCL finds gas",
+  "head2_hl": "in Khairpur",
+  "head2": "",
+  "kicker": "New well in Sindh",
+  "desc": "Well gives 12.8 MMSCFD gas and 175 barrels condensate daily.",
+  "source": "Business Recorder",
+  "date": "11 NOV 2026"
+ },
+ "caption": "OGDCL finds new gas in Sindh's Khairpur!\nAccording to Business Recorder, OGDCL told the Pakistan Stock Exchange on Wednesday that its Bitrisim Northwest-1 well in District Khairpur has found gas. During testing, the well gave 12.8 million cubic feet of gas and 175 barrels of condensate per day. OGDCL says it will connect the well to the national gas system quickly.\nWill new gas finds help with gas shortages at home? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #OGDCL #GasDiscovery #Sindh #PakistanNews",
+ "tiktok_title": "OGDCL finds gas in Khairpur, Sindh: 12.8 MMSCFD from new well",
+ "publish": {
+  "slot": "2026-11-11T10:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2991194837697937",
+  "label": "Chase It (Instrumental) - JQ, The Red Collective"
+ },
+ "ai_generated": true
+}
