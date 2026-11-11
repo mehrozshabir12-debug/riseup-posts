@@ -9051,5 +9051,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-11",
+  "slot": "2026-11-11T10:00:00+05:00",
+  "request_id": "2026-11-11-ogdcl-gas-discovery-khairpur",
+  "layout": "bold",
+  "headline": "OGDCL told the PSX on Wednesday that its Bitrisim Northwest-1 exploratory well in District Khairpur, Sindh, tested 12.8 MMSCFD of gas and 175 barrels of condensate per day, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40448392/ogdcl-discovers-hydrocarbon-reserves-in-sindhs-khairpur",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448392/ogdcl-discovers-hydrocarbon-reserves-in-sindhs-khairpur",
+    "published_at": "2026-11-11T09:38:47+05:00"
+   }
+  ],
+  "published": "2026-11-11T09:38:47+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 816238720,
+  "image": "posts/2026-11-11-ogdcl-gas-discovery-khairpur.jpg",
+  "story": "posts/2026-11-11-ogdcl-gas-discovery-khairpur-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-11 10:08 PKT",
+  "music": "Chase It (Instrumental) - JQ, The Red Collective",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-11-ogdcl-gas-discovery-khairpur.mp4"
  }
 ]
