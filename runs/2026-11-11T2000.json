@@ -1,1 +1,52 @@
-{"slot": "2026-11-11T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T19:46:14+05:00", "language": "en"}
+{
+ "slot": "2026-11-11T20:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "run_started_pkt": "2026-11-11T19:46:14+05:00",
+ "run_finished_pkt": "2026-11-11T20:08:28+05:00",
+ "test_mode": false,
+ "outcome": "error_render_timeout_slot_missed",
+ "language": "en",
+ "story": {
+  "headline": "Health Minister Mustafa Kamal said on Wednesday that the government is preparing a law to give Islamabad's PIMS hospital more financial and administrative powers, including a chief executive officer, after the August 26 fire at its nursery, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-plans-financial-administrative-reforms-at-islamabad-hospital-months-after-deadly-fire-3006756",
+    "published_at": "2026-11-11T19:34:46+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-11-pims-reforms-ceo-law",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {},
+ "music": "none (not posted; planned Painted White - Julia Gartha 1142425671382048)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB+IG+TikTok). 19:00-21:00 empty, 20:00 free. Windows 9 Nov 19:00 -> 12 Nov 08:00 all succeeded. RiseUp day 2026-11-11: 4 news, 4 TikTok.",
+  "previous_slot_check": "19:00 slot: nothing posted (previous run error_render_timeout_slot_missed). 18:00 posts all PUBLISHED.",
+  "news_search": "Dawn/Tribune/Arab News/Geo searched. Chose Arab News PIMS reforms (19:34 PKT). No PIMS-reform post in last 48h.",
+  "verification": "Arab News meta published 2026-11-11T14:34:46Z (19:34 PKT). Mustafa Kamal, PIMS CEO, financial/admin autonomy, Aug 26 nursery fire, 14 newborns, 34 recommendations, draft to PM Shehbaz Sharif, staff keep terms.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image: hospital exterior with Margalla hills, anonymous people, no text.",
+  "publish": "Request committed 19:48 PKT. Run 43042093226 started 19:49 PKT (after stuck run 43035802467 hit its 30-min timeout) and is again stuck in step 4 'Install video tools only when a pending request has a Reel' (apt-get ffmpeg) since 19:50 PKT; no results/<id>.json by 20:08. Slot T+15 could not be met, nothing posted. Cancel receipt committed."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "JI announces nationwide protests and Lahore rally (Dawn 18:51)",
+   "reason": "political campaign with attacks on Punjab government; PIMS story more useful"
+  },
+  {
+   "headline": "Kohat police ambush",
+   "reason": "violence; casualty figures"
+  }
+ ],
+ "errors": [
+  "GitHub Actions: 3rd consecutive run stuck in step 4 'Install video tools' (apt-get update/install ffmpeg espeak-ng): runs 43032566940, 43035802467 (both cancelled at 30-min timeout), 43042093226 (stuck since 14:50:14Z). results/2026-11-11-pims-reforms-ceo-law.json never appeared; slot 20:00 missed."
+ ]
+}
