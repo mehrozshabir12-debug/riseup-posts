@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-11-ogdcl-gas-discovery-khairpur",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 424013551,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL",
+   "publication": "2026-11-11T10:08:00+05:00"
+  },
+  "tiktok": {
+   "metricool_id": 424013587,
+   "status": {
+    "tiktok": "PENDING"
+   },
+   "publication": "2026-11-11T10:08:00+05:00"
+  },
+  "story": {
+   "metricool_id": 424013615,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publication": "2026-11-11T10:13:00+05:00"
+  }
+ }
+}

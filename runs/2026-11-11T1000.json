@@ -1,1 +1,86 @@
-{"slot": "2026-11-11T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-11T09:46:42+05:00", "language": "en"}
+{
+ "slot": "2026-11-11T10:00:00+05:00",
+ "riseup_day": "2026-11-11",
+ "run_started_pkt": "2026-11-11T09:46:42+05:00",
+ "run_finished_pkt": "2026-11-11T10:03:38+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "story": {
+  "headline": "OGDCL told the PSX on Wednesday that its Bitrisim Northwest-1 exploratory well in District Khairpur, Sindh, tested 12.8 MMSCFD of gas and 175 barrels of condensate per day, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448392/ogdcl-discovers-hydrocarbon-reserves-in-sindhs-khairpur",
+    "published_at": "2026-11-11T09:38:47+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-11-ogdcl-gas-discovery-khairpur",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-11-ogdcl-gas-discovery-khairpur.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 424013551,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1346506444253317381",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "id": 424013587,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4307202588733717901",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 424013615,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6192057761853556421",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Chase It (Instrumental) - JQ, The Red Collective (2991194837697937, audioType music)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "getBrandSettings ok (7305396, Asia/Karachi, FB+IG+TikTok). getScheduledPosts 09:00-11:00 empty (slot free); windows 9 Nov 09:00 -> 11 Nov 22:00 all succeeded. RiseUp day 2026-11-11: 0 news, 0 TikTok before this post. No OGDCL/Khairpur story in last 48h.",
+  "previous_slot_check": "No 00:00 post exists (no run log for 2026-11-11T0000). 23:00 slot: reel 423486526 FB https://facebook.com/reel/1601284634547532 + IG https://www.instagram.com/reel/DfkgxSDkuxh/ PUBLISHED; story 423486545 FB+IG PUBLISHED. No retries needed.",
+  "news_search": "Searched Dawn, Tribune, Arab News, Brecorder, Geo, APP. Brecorder OGDCL Khairpur discovery (09:38 PKT, PSX filing Wednesday) chosen in 2h window.",
+  "verification": "Business Recorder article read: article:published_time 2026-11-11 09:38:47+05:00, BR Web Desk. Facts: Bitrisim Northwest-1 exploratory well, District Khairpur, Sindh; OGDCL operator 95%, GHPL 5%; 12.8 MMSCFD gas + 175 bpd condensate via 32/64 choke at 3,020 psi; spudded 21 Aug 2026, TD 3,732 m; PSX filing Wednesday; fast-track connection to gas system.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, inspected: desert gas well test site, rig, flare, three anonymous workers from behind; no readable text, logos or public figures.",
+  "publish": "Results awaiting_publish (slot 10:08 per NOW+5 rule). English card and 8 s 1080x1920 zoom MP4 (audio stream present; frame at 4 s shows card) inspected. FB Reel + IG Reel in one Metricool post (same MP4, caption, thumbnail); IG audio audioType music, displayArtist JQ, The Red Collective. TikTok photo post separate. Story FB+IG 10:13. Zoom renderer has no option to bake a licensed track into the MP4, so Facebook Reel has no added music. Music from verified upbeat list (no time for trending search)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Govt cuts petrol by Rs8, diesel by Rs7 (Dawn 10 Nov 23:10)",
+   "reason": "older than 8 hours before slot"
+  },
+  {
+   "headline": "184 kinnow exporters get Uzbek market access (Dawn 06:28)",
+   "reason": "announced Tuesday 10 Nov; newer story preferred"
+  },
+  {
+   "headline": "PAC seeks delay of power firms' sell-off (Dawn 06:25)",
+   "reason": "meeting Tuesday; newer story preferred"
+  },
+  {
+   "headline": "Remittances nearly cover trade gap (Tribune 03:33)",
+   "reason": "duplicate of 10 Nov 12:00 remittances post"
+  }
+ ],
+ "warnings": [
+  "Pipeline run 42961766243 initially crashed in receipts phase (AttributeError: 'NoneType' object has no attribute 'get') due to null tiktok/feed entries in receipts/2026-11-10-qureshi-taken-to-pic.json; removed the nulls, render then succeeded."
+ ],
+ "errors": []
+}
