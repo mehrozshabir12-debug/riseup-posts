@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-11-pm-shehbaz-cop31-antalya",
+ "type": "news",
+ "headline": "PM Shehbaz Sharif will address the COP31 Leaders' Summit in Antalya, Turkiye, on Wednesday, highlighting Pakistan's climate priorities and calling for climate finance for developing countries, Dawn reports.",
+ "language": "Roman Urdu",
+ "sources": [
+  {
+   "outlet": "Dawn",
+   "url": "https://www.dawn.com/news/2043746/pm-shehbaz-to-join-other-world-leaders-at-cop31-today-will-outline-pakistans-climate-priorities",
+   "published_at": "2026-11-11T10:44:54+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/bfe2f76b-34b3-41fd-be30-383dd9dcc40e/dfa8cd4d-30cc-45aa-8d68-169e369a6796/Realistic_news_photo_of_a_large_modern_international_climate.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZmM5ZDRlM2VhYmE0NDA1ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDUxNjQxNH0.o35X3vR0b7dxSyiMYUAKPXQJELAmZFGD0egVvQXjboU",
+  "head1": "PM Shehbaz COP31 mein",
+  "head2_hl": "aaj taqreer",
+  "head2": "",
+  "kicker": "Turkiye ke shehar Antalya mein",
+  "desc": "Climate finance aur solar energy par zor denge.",
+  "source": "Dawn",
+  "date": "11 NOV 2026"
+ },
+ "caption": "PM Shehbaz Sharif aaj COP31 mein Pakistan ki baat rakhenge!\nDawn ke mutabiq PM Shehbaz Sharif Wednesday ko Turkiye ke shehar Antalya mein COP31 (mausam ki tabdeeli par duniya ki bari conference) ke leaders summit se taqreer karenge. Woh solar aur renewable energy, aafat se pehle khabardar karne wale nizam aur ghareeb mulkon ke liye climate finance (mausam ke masail se nimatne ke liye paisay) par zor denge. Takreeban 200 mulkon ke numainde Antalya mein jama hain. Turkiye ke President Recep Tayyip Erdogan se bhi un ki mulaqat ka program hai.\nAap ke khayal mein mausam ki tabdeeli Pakistan ke liye kitna bara masla hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #COP31 #ShehbazSharif #ClimateChange #PakistanNews",
+ "tiktok_title": "PM Shehbaz aaj COP31 Antalya mein taqreer karenge, climate finance par zor",
+ "publish": {
+  "slot": "2026-11-11T12:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "2384396914990297",
+  "label": "City Around The Corner - The Poison Oaks"
+ },
+ "ai_generated": true
+}
