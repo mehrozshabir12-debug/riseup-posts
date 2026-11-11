@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-11-karachi-light-rain-friday-pmd",
+ "type": "news",
+ "headline": "The Pakistan Meteorological Department said on Wednesday that light rain and drizzle are expected at isolated places in Karachi on Friday, The Express Tribune reports.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639760/karachi-likely-to-receive-light-rain-drizzle-on-friday-pmd",
+   "published_at": "2026-11-11T14:21:39+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/0493ebd2-5681-4f64-a419-9e2c94f504fc/fe31bc21-82c4-473d-a034-54afe7bf1afc/Realistic_news_photo_of_a_busy_Karachi_street_under_a_cloudy.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMmYzYjRkZTYzNGRjN2Q4NiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDU2OTMxOH0.k5FaLzPOZGNy_q_8YRI2LYtYqAKPyWKA8vfA7n9AMFQ",
+  "head1": "Karachi may get",
+  "head2_hl": "light rain",
+  "head2": "on Friday",
+  "kicker": "PMD weather forecast",
+  "desc": "Isolated drizzle expected; most of Sindh stays dry and cool.",
+  "source": "Express Tribune",
+  "date": "11 NOV 2026"
+ },
+ "caption": "Light rain likely in Karachi this Friday!\nAccording to The Express Tribune, the Pakistan Meteorological Department (PMD) said on Wednesday that light rain and drizzle are expected at isolated places in Karachi on Friday. A westerly wave may also bring light rain to Dadu, Kamber Shahdadkot, Jamshoro and Thatta. Karachi's maximum temperature will stay between 32 and 34°C over the next three days. Most of Sindh will stay dry, with cool nights and misty mornings.\nHow is the weather in your city today? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #KarachiWeather #KarachiRain #PMD #PakistanNews",
+ "tiktok_title": "PMD: Light rain and drizzle likely in parts of Karachi on Friday",
+ "publish": {
+  "slot": "2026-11-11T18:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "757785052896581",
+  "label": "Sunday In October - Trout Recording"
+ },
+ "ai_generated": true
+}
