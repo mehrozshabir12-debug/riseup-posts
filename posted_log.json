@@ -9335,5 +9335,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T12:00:00+05:00",
+  "request_id": "2026-11-12-pakistan-minerals-investment-forum-opens",
+  "layout": "bold",
+  "headline": "Pakistan opened the two-day Pakistan Minerals Investment Forum 2026 in Islamabad on Thursday to attract foreign investment in its mineral reserves, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-opens-two-day-minerals-investment-forum-in-islamabad-to-harness-domestic-reserves-3006815",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-opens-two-day-minerals-investment-forum-in-islamabad-to-harness-domestic-reserves-3006815",
+    "published_at": "2026-11-12T11:40:51+05:00"
+   }
+  ],
+  "published": "2026-11-12T11:40:51+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 883132562,
+  "image": "posts/2026-11-12-pakistan-minerals-investment-forum-opens.jpg",
+  "story": "posts/2026-11-12-pakistan-minerals-investment-forum-opens-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 12:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-pakistan-minerals-investment-forum-opens.mp4"
  }
 ]
