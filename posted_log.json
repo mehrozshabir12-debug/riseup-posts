@@ -9407,10 +9407,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-12 14:00 PKT",
+  "scheduled": "2026-11-12T14:00:00+05:00",
   "music": "Upside Down - Mike Block",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-12-saqib-khan-seven-wickets-debut-sl-446.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 425408100,
+   "reel": 425408148,
+   "story": 425408176
+  },
+  "video": "posts/2026-11-12-saqib-khan-seven-wickets-debut-sl-446.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
