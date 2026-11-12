@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-12-naqvi-referendum-new-provinces",
+ "revision": 1,
+ "request": "requests/2026-11-12-naqvi-referendum-new-provinces.json",
+ "status": "rejected",
+ "errors": [
+  "sources[0].substantive_update must be true or false when updated_at is given"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-12T20:49:22+05:00"
+}
