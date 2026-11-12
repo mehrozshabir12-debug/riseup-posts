@@ -9360,10 +9360,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-12 12:00 PKT",
+  "scheduled": "2026-11-12T12:00:00+05:00",
   "music": "Iced Latte - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-12-pakistan-minerals-investment-forum-opens.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 425327844,
+   "tiktok": 425327847,
+   "story": 425327856
+  },
+  "video": "posts/2026-11-12-pakistan-minerals-investment-forum-opens.mp4",
+  "network_status": {
+   "reel": {
+    "instagram": "PENDING",
+    "facebook": "PENDING"
+   },
+   "tiktok": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
