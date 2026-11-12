@@ -1,1 +1,78 @@
-{"slot": "2026-11-12T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T15:46:31+05:00", "language": "ur"}
+{
+ "slot": "2026-11-12T16:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T15:46:31+05:00",
+ "run_finished_pkt": "2026-11-12T15:49:58+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "The Aircraft Owners and Operators Association (AOOA) has accused foreign airlines of moving $2 billion to $2.4 billion out of Pakistan every year through offshore ticket payments, in a letter to Finance Minister Muhammad Aurangzeb, The Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639899/aooa-accuses-foreign-airlines-of-moving-24b-out-of-pakistan-annually",
+    "published_at": "2026-11-12T12:48:08+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-12-aooa-foreign-airlines-2-4bn-abroad",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 425513915,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4950286178310600990",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "facebook_type": "POST"
+  },
+  "reel": {
+   "id": 425513945,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5672635730770346396",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 425513969,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3962078561001453630",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius (audioType music, displayArtist Global Genius, id 934661001819759)",
+ "stages": {
+  "metricool_read": "getScheduledPosts 6h windows 2026-11-10T15:00..2026-11-13T04:00 all succeeded. No post at 16:00. RiseUp day 12 Nov before this: 3 news feed posts (10:00, 12:00, 14:00) + owner's Basharat collab posts (13:00, 13:40, 15:00); TikTok-including posts 6 (this makes 7/8). getBrandSettings not called; FB/IG/TikTok all PUBLISHED today, so connected.",
+  "previous_slot_check": "Previous slot 15:00 (owner's Basharat collab): IG Reel https://www.instagram.com/reel/DfozVcpvMs-/, TikTok 7707223592651459861, FB https://facebook.com/122185478282855502/posts/1414757217073843 all PUBLISHED. Last own news slot 14:00: FB POST, TikTok, IG Reel, Story all PUBLISHED. No errors.",
+  "news_search": "Web search on approved outlets (Dawn, Tribune, Arab News, Geo, BR, APP). Picked AOOA foreign-airlines claim (Tribune 12:48 PKT, 4h window); not covered in last 48h.",
+  "verification": "Tribune article read via fetch: meta published_time 2026-11-12T07:48:08+00:00 (12:48 PKT), by Aftab Khan, Karachi. Facts: AOOA letter Wednesday to Finance Minister Muhammad Aurangzeb; $2bn-$2.4bn moved abroad annually via offshore payment gateways; demands SBP-regulated gateways and 5-year forensic tax audits; no response from airlines/FBR/SBP in the article (stated in caption). Framed as AOOA's claim.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 79354539-6891-44d4-aac3-844b049162de; anonymous airport check-in hall, no readable text/logos.",
+  "publish": "Card and zoom MP4 (8 s, 1080x1920) checked. Feed = Facebook POST + TikTok photo (autoAddMusic); Reel = Instagram only with music (audioType music, displayArtist Global Genius); Story FB+IG 16:05. All PENDING per createScheduledPost responses. Roman Urdu caption proofread."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Militants ambush police, 10 officers and 18 militants killed (Arab News)",
+   "reason": "violence/casualty story; not chosen"
+  },
+  {
+   "headline": "Imran's sisters released after detention orders withdrawn (Dawn)",
+   "reason": "political; time not verified; not chosen"
+  },
+  {
+   "headline": "Punjab govt says smog not a political issue (Dawn 07:31 PKT)",
+   "reason": "older than 8h before T and similar smog story posted 10 Nov"
+  }
+ ],
+ "errors": []
+}
