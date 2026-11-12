@@ -9692,10 +9692,26 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-12 22:00 PKT",
+  "scheduled": "2026-11-12T22:00:00+05:00",
   "music": "Simple Pleasures - Alex Blue",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-12-sindh-karachi-encroachment-crackdown-university-road-r2.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 425943621,
+   "reel": 425943671,
+   "story": 425943694
+  },
+  "video": "posts/2026-11-12-sindh-karachi-encroachment-crackdown-university-road-r2.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
