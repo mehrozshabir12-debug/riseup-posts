@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-12-gold-falls-rs10900-per-tola",
+ "revision": 1,
+ "request": "requests/2026-11-12-gold-falls-rs10900-per-tola.json",
+ "status": "rejected",
+ "errors": [
+  "sources[0].substantive_update must be true or false when updated_at is given"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-12T19:50:37+05:00"
+}
