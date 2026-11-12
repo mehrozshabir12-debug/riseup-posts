@@ -9382,5 +9382,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T14:00:00+05:00",
+  "request_id": "2026-11-12-saqib-khan-seven-wickets-debut-sl-446",
+  "layout": "bold",
+  "headline": "Debutant Saqib Khan took 7-130 as Sri Lanka were all out for 446 on day four of the first Test against Pakistan in Rawalpindi on Thursday, Business Recorder (AFP) reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40448574/pakistans-saqib-takes-seven-on-debut-to-spark-sri-lanka-collapse",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448574/pakistans-saqib-takes-seven-on-debut-to-spark-sri-lanka-collapse",
+    "published_at": "2026-11-12T12:56:28+05:00"
+   }
+  ],
+  "published": "2026-11-12T12:56:28+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 37442656,
+  "image": "posts/2026-11-12-saqib-khan-seven-wickets-debut-sl-446.jpg",
+  "story": "posts/2026-11-12-saqib-khan-seven-wickets-debut-sl-446-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 14:00 PKT",
+  "music": "Upside Down - Mike Block",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-saqib-khan-seven-wickets-debut-sl-446.mp4"
  }
 ]
