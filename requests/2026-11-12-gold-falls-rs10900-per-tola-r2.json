@@ -1,0 +1,45 @@
+{
+ "id": "2026-11-12-gold-falls-rs10900-per-tola-r2",
+ "type": "news",
+ "headline": "Gold in Pakistan fell by Rs10,900 per tola to Rs416,536 on Thursday, in line with a $109 drop to $3,940 per ounce in the international market, Business Recorder reports.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "Business Recorder",
+   "url": "https://www.brecorder.com/news/40448590/gold-price-per-tola-falls-rs10900-in-pakistan",
+   "published_at": "2026-11-12T16:15:16+05:00",
+   "updated_at": "2026-11-12T19:19:27+05:00",
+   "substantive_update": true
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/25db50ac-3d77-4cd9-91c6-94c0a90c99d7/e37c6c78-68da-4d57-87df-d0e8522c449a/Realistic_news_photo_of_a_traditional_gold_jewellery_shop_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmQwODcyMTZhODQ4NWVjOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDY2MzMxOH0.35aB_ScbDBAnylcLN7VNBzrsq6WrVIg24ztgU8XIEb0",
+  "head1": "Gold price falls",
+  "head2_hl": "Rs10,900",
+  "head2": "per tola",
+  "kicker": "Now Rs416,536 per tola",
+  "desc": "10-gram gold down Rs9,345 to Rs357,112 on Thursday.",
+  "source": "Business Recorder",
+  "date": "12 NOV 2026"
+ },
+ "caption": "Gold price drops by Rs10,900 per tola!\nAccording to Business Recorder, gold in Pakistan fell by Rs10,900 on Thursday to Rs416,536 per tola. The price of 10 grams of gold fell by Rs9,345 to Rs357,112. The All-Pakistan Gems and Jewellers Sarafa Association (APGJSA) shared the rates. In the world market, gold fell by $109 to $3,940 per ounce. Silver also fell by Rs163 to Rs4,782 per tola.\nWill you buy gold now? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #GoldRate #PakistanEconomy #PakistanNews",
+ "tiktok_title": "Gold falls Rs10,900 per tola to Rs416,536 in Pakistan on Thursday",
+ "publish": {
+  "slot": "2026-11-12T20:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "336015428971390",
+  "label": "Glow (Instrumental) - KNOTTS"
+ },
+ "ai_generated": true
+}
