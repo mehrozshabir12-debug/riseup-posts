@@ -9596,10 +9596,26 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-12 20:00 PKT",
+  "scheduled": true,
   "music": "Glow (Instrumental) - KNOTTS",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-12-gold-falls-rs10900-per-tola-r2.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 425795613,
+   "reel": 425795664,
+   "story": 425795692
+  },
+  "video": "posts/2026-11-12-gold-falls-rs10900-per-tola-r2.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
