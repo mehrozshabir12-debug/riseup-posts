@@ -1,1 +1,76 @@
-{"slot": "2026-11-12T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T22:46:30+05:00", "language": "ur"}
+{
+ "slot": "2026-11-12T23:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T22:46:30+05:00",
+ "run_finished_pkt": "2026-11-12T23:04:00+05:00",
+ "test_mode": false,
+ "language": "ur",
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Finance Minister Muhammad Aurangzeb said on Thursday that Pakistan wants more foreign investment in Sukuk (Islamic bonds), as issuance rose to Rs4.4 trillion in 2026 from about Rs2 trillion last year, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-seeks-foreign-investors-for-sukuk-as-islamic-bond-issuance-surges-3006865",
+    "published_at": "2026-11-12T22:15:23+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-12-sukuk-rs4-4-trillion-foreign-investors",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-sukuk-rs4-4-trillion-foreign-investors.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "6d1a5143-d05c-4323-9dff-40184176c406"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 426034019,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5966431350780703525",
+   "facebook_type": "POST",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 426034080,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6037883168757272396",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 426034119,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7309085186619820480",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "City Around The Corner - The Poison Oaks (audioType music, displayArtist The Poison Oaks, id 2384396914990297)",
+ "stages": {
+  "metricool_read": "Slot window 21:00-00:30 read: 23:00 free (no non-Story post). 48h duplicate check via run logs/requests 10-12 Nov plus that window: no Sukuk story. TikTok: pipeline dropped TikTok (7 TikTok posts today, 7 allowed by 23:00), so feed = Facebook POST only.",
+  "previous_slot_check": "22:00 feed (FB POST 425943621), IG Reel (425943671, music Simple Pleasures) and FB+IG Story (425943694) all PUBLISHED.",
+  "news_search": "Picked Arab News 3006865 (meta published 17:15:23 UTC = 22:15 PKT, byline 22:15). Rejected: Qureshi hospital after jail fall (Tribune 20:08 PKT) - less relevant to ordinary readers, health of detained politician; Saudi mineral cooperation (Arab News 20:01) - overlaps with 12 Nov Minerals Investment Forum post.",
+  "verification": "Single approved outlet (Arab News); Rs4.4 trillion, ~Rs2 trillion, 113 percent, 'underwhelming' foreign investment checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image; no readable text or real people (tiny laptop logo hidden under card text).",
+  "publish": "First pipeline run failed in receipts phase: AttributeError 'str' object has no attribute 'items' caused by 22:00 receipt using status strings; fixed that receipt to per-network status dicts, pipeline rendered awaiting_publish (slot moved to 23:07). Card and 8 s zoom MP4 checked. Caption hook changed from 'Rs4.4 trillion ka record!' to '113 percent izafa!' (source does not say record). Feed FB POST, IG Reel with music, FB+IG Story created; all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Barrister Gohar visits Qureshi in hospital after jail fall",
+   "reason": "less relevant; detained politician's health"
+  },
+  {
+   "headline": "Pakistan exploring mineral cooperation with Saudi Arabia",
+   "reason": "overlaps 12 Nov Minerals Forum post"
+  }
+ ],
+ "errors": [
+  "GitHub Actions run 43273226257 receipts phase: AttributeError: 'str' object has no attribute 'items' (receipts/2026-11-12-sindh-karachi-encroachment-crackdown-university-road-r2.json had string status; fixed)"
+ ]
+}
