@@ -9476,5 +9476,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T18:00:00+05:00",
+  "request_id": "2026-11-12-imran-khan-sisters-noreen-uzma-released",
+  "layout": "bold",
+  "headline": "Imran Khan's sisters Noreen Khan and Uzma Khan were released from Kot Lakhpat jail in Lahore on Thursday after the government withdrew their joint detention order, Arab News (AFP) reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/two-sisters-of-jailed-pakistan-ex-pm-imran-khan-released-from-prison-3006831",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/two-sisters-of-jailed-pakistan-ex-pm-imran-khan-released-from-prison-3006831",
+    "published_at": "2026-11-12T17:04:24+05:00"
+   }
+  ],
+  "published": "2026-11-12T17:04:24+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 717471083,
+  "image": "posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.jpg",
+  "story": "posts/2026-11-12-imran-khan-sisters-noreen-uzma-released-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 18:00 PKT",
+  "music": "Reflection - Sam Marshall",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.mp4"
  }
 ]

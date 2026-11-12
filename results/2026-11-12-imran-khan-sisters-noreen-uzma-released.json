@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-12-imran-khan-sisters-noreen-uzma-released",
+ "revision": 1,
+ "request": "requests/2026-11-12-imran-khan-sisters-noreen-uzma-released.json",
+ "type": "news",
+ "headline": "Imran Khan's sisters Noreen Khan and Uzma Khan were released from Kot Lakhpat jail in Lahore on Thursday after the government withdrew their joint detention order, Arab News (AFP) reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-12T18:00:00+05:00",
+ "target_slot": "2026-11-12T18:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-imran-khan-sisters-noreen-uzma-released-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.jpg",
+  "story": "posts/2026-11-12-imran-khan-sisters-noreen-uzma-released-story.jpg",
+  "reel": "posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 717471083,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-12T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Imran Khan's two sisters released from jail!\nAccording to Arab News (AFP), Imran Khan's sisters Noreen Khan and Uzma Khan were released from Kot Lakhpat jail in Lahore at 2pm on Thursday. Their lawyer, Rana Mudassar, said the government had withdrawn their joint detention order. They had been detained in September. A third sister, Aleema Khan, is still in jail, and lawyers are asking for her detention order to be withdrawn too.\nWhat do you think about this news? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ImranKhan #PTI #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Imran Khan's sisters Noreen and Uzma Khan released from jail in Lahore",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-12T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Imran Khan's two sisters released from jail!\nAccording to Arab News (AFP), Imran Khan's sisters Noreen Khan and Uzma Khan were released from Kot Lakhpat jail in Lahore at 2pm on Thursday. Their lawyer, Rana Mudassar, said the government had withdrawn their joint detention order. They had been detained in September. A third sister, Aleema Khan, is still in jail, and lawyers are asking for her detention order to be withdrawn too.\nWhat do you think about this news? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ImranKhan #PTI #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-imran-khan-sisters-noreen-uzma-released-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "478728841591377",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-12T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-imran-khan-sisters-noreen-uzma-released-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-12T17:50:06+05:00"
+}
