@@ -1,1 +1,77 @@
-{"slot": "2026-11-12T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T20:46:28+05:00", "language": "ur"}
+{
+ "slot": "2026-11-12T21:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T20:46:28+05:00",
+ "run_finished_pkt": "2026-11-12T20:51:48+05:00",
+ "test_mode": false,
+ "language": "ur",
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Interior Minister Mohsin Naqvi on Thursday suggested that political parties hold a referendum on creating new administrative units or provinces, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044043/naqvi-suggests-referendum-as-solution-to-debate-on-new-administrative-units",
+    "published_at": "2026-11-12T18:14:37+05:00",
+    "updated_at": "2026-11-12T18:33:04+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-11-12-naqvi-referendum-new-provinces-r2",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-naqvi-referendum-new-provinces-r2.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "f79ac5fe-3818-4c37-82c0-16c3056de98d"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 425866343,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5371206953376237802",
+   "facebook_type": "POST",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 425866396,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6966955695715170694",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 425866415,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8246083353007865761",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (audioType music, displayArtist Trout Recording, id 757785052896581)",
+ "stages": {
+  "metricool_read": "Windows 10 Nov 20:00 .. 13 Nov 09:00 all OK; slot 21:00 free. RiseUp day 12 Nov news feed posts before this: 7 (10,12,14,16,18,19,20). getBrandSettings not called this run (connected networks confirmed by previous-slot statuses).",
+  "previous_slot_check": "20:00 feed (FB POST), IG Reel and FB+IG Story all PUBLISHED.",
+  "news_search": "Dawn Naqvi referendum story published 18:14 PKT (updated 18:33, minor) -> 3h window. Not a duplicate of last 48h (no provinces/referendum post).",
+  "verification": "Dawn article read via fetch: meta published 2026-11-12T18:14:37+05:00, modified 18:33:04+05:00. Facts used: Naqvi Thursday, Lahore media talk, referendum suggestion, '100 per cent' with public if opposed, PPP Punjab rejected new provinces.",
+  "image": "Runway nano-banana-2-lite 4:3, one image: polling-station ballot box with anonymous voters, no text.",
+  "publish": "First request rejected by pipeline (sources[0].substantive_update missing); resubmitted as -r2, awaiting_publish. Card and zoom MP4 checked. TikTok skipped by pipeline (daily pacing 6 by 21:00). Feed = Facebook POST, Reel = Instagram only, Story FB+IG. Music: verified list id used directly (no trending search this run), confirmed audioType music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM Shehbaz urges debt-free climate finance at COP31, meets Erdogan (Arab News 18:29)",
+   "reason": "same COP31 event already posted 11 Nov 12:00 and 23:00 - duplicate"
+  },
+  {
+   "headline": "Rizwanullah five-for powers Pakistan into U-19 Asia Cup final (Dawn)",
+   "reason": "story about minors (U-19)"
+  }
+ ],
+ "errors": [
+  "results/2026-11-12-naqvi-referendum-new-provinces.json rejected: sources[0].substantive_update must be true or false when updated_at is given (fixed in -r2)"
+ ]
+}
