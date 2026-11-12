@@ -9738,10 +9738,26 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-12 23:07 PKT",
+  "scheduled": "2026-11-12T23:07:00+05:00",
   "music": "City Around The Corner - The Poison Oaks",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-12-sukuk-rs4-4-trillion-foreign-investors.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 426034019,
+   "reel": 426034080,
+   "story": 426034119
+  },
+  "video": "posts/2026-11-12-sukuk-rs4-4-trillion-foreign-investors.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
