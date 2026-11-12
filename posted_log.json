@@ -9454,10 +9454,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-12 16:00 PKT",
+  "scheduled": "2026-11-12T16:00:00+05:00",
   "music": "Cafe Lovers - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 425513915,
+   "reel": 425513945,
+   "story": 425513969
+  },
+  "video": "posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
