@@ -9713,5 +9713,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T23:00:00+05:00",
+  "request_id": "2026-11-12-sukuk-rs4-4-trillion-foreign-investors",
+  "layout": "bold",
+  "headline": "Finance Minister Muhammad Aurangzeb said on Thursday that Pakistan wants more foreign investment in Sukuk (Islamic bonds), as issuance rose to Rs4.4 trillion in 2026 from about Rs2 trillion last year, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-seeks-foreign-investors-for-sukuk-as-islamic-bond-issuance-surges-3006865",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-seeks-foreign-investors-for-sukuk-as-islamic-bond-issuance-surges-3006865",
+    "published_at": "2026-11-12T22:15:23+05:00"
+   }
+  ],
+  "published": "2026-11-12T22:15:23+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 90059080,
+  "image": "posts/2026-11-12-sukuk-rs4-4-trillion-foreign-investors.jpg",
+  "story": "posts/2026-11-12-sukuk-rs4-4-trillion-foreign-investors-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 23:07 PKT",
+  "music": "City Around The Corner - The Poison Oaks",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-sukuk-rs4-4-trillion-foreign-investors.mp4"
  }
 ]
