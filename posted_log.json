@@ -9429,5 +9429,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T16:00:00+05:00",
+  "request_id": "2026-11-12-aooa-foreign-airlines-2-4bn-abroad",
+  "layout": "bold",
+  "headline": "The Aircraft Owners and Operators Association (AOOA) has accused foreign airlines of moving $2 billion to $2.4 billion out of Pakistan every year through offshore ticket payments, in a letter to Finance Minister Muhammad Aurangzeb, The Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2639899/aooa-accuses-foreign-airlines-of-moving-24b-out-of-pakistan-annually",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2639899/aooa-accuses-foreign-airlines-of-moving-24b-out-of-pakistan-annually",
+    "published_at": "2026-11-12T12:48:08+05:00"
+   }
+  ],
+  "published": "2026-11-12T12:48:08+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 538852879,
+  "image": "posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.jpg",
+  "story": "posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 16:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.mp4"
  }
 ]

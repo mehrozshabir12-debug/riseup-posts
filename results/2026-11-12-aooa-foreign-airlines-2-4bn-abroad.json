@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-12-aooa-foreign-airlines-2-4bn-abroad",
+ "revision": 1,
+ "request": "requests/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.json",
+ "type": "news",
+ "headline": "The Aircraft Owners and Operators Association (AOOA) has accused foreign airlines of moving $2 billion to $2.4 billion out of Pakistan every year through offshore ticket payments, in a letter to Finance Minister Muhammad Aurangzeb, The Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-12T16:00:00+05:00",
+ "target_slot": "2026-11-12T16:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.jpg",
+  "story": "posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad-story.jpg",
+  "reel": "posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 538852879,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-12T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "AOOA ka daawa: foreign airlines har saal $2 se 2.4 billion Pakistan se bahar le jati hain!\nExpress Tribune ke mutabiq Aircraft Owners and Operators Association (AOOA) ne Wednesday ko Finance Minister Muhammad Aurangzeb ko khat likha. AOOA ka kehna hai ke foreign airlines Pakistan mein tickets bech kar bahar ke payment gateways ke zariye har saal $2 se 2.4 billion bahar bhej deti hain. AOOA ne mutalba kiya ke tamam tickets ki payment State Bank (SBP) ke manzoor-shuda gateways se ho aur tamam airlines ka pichle 5 saal ka forensic tax audit karwaya jaye. Airlines, FBR ya SBP ka jawab abhi samne nahi aaya.\nKya airlines ki ticket sales par sakht nigrani honi chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #AOOA #Airlines #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "AOOA ka daawa: foreign airlines har saal $2-2.4 billion bahar bhejti hain",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-12T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "AOOA ka daawa: foreign airlines har saal $2 se 2.4 billion Pakistan se bahar le jati hain!\nExpress Tribune ke mutabiq Aircraft Owners and Operators Association (AOOA) ne Wednesday ko Finance Minister Muhammad Aurangzeb ko khat likha. AOOA ka kehna hai ke foreign airlines Pakistan mein tickets bech kar bahar ke payment gateways ke zariye har saal $2 se 2.4 billion bahar bhej deti hain. AOOA ne mutalba kiya ke tamam tickets ki payment State Bank (SBP) ke manzoor-shuda gateways se ho aur tamam airlines ka pichle 5 saal ka forensic tax audit karwaya jaye. Airlines, FBR ya SBP ka jawab abhi samne nahi aaya.\nKya airlines ki ticket sales par sakht nigrani honi chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #AOOA #Airlines #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "934661001819759",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-12T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-aooa-foreign-airlines-2-4bn-abroad-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-12T15:48:58+05:00"
+}
