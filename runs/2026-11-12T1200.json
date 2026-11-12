@@ -1,1 +1,66 @@
-{"slot": "2026-11-12T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T11:46:30+05:00", "language": "ur"}
+{
+ "slot": "2026-11-12T12:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T11:46:30+05:00",
+ "run_finished_pkt": "2026-11-12T11:51:05+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "ur",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan opened the two-day Pakistan Minerals Investment Forum 2026 in Islamabad on Thursday to attract foreign investment in its mineral reserves, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-opens-two-day-minerals-investment-forum-in-islamabad-to-harness-domestic-reserves-3006815",
+    "published_at": "2026-11-12T11:40:51+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-12-pakistan-minerals-investment-forum-opens",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-pakistan-minerals-investment-forum-opens.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 425327844,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9014037508477861284",
+   "networks": {
+    "instagram": "PENDING",
+    "facebook": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "id": 425327847,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9074607090365843685",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 425327856,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6126764573776395754",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Iced Latte - Global Genius (audioType music, displayArtist Global Genius, id 810120545333296)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "getScheduledPosts windows 2026-11-10T11:00..2026-11-12T23:59 all succeeded; no post at 12:00 (11:00 slot empty, no run). RiseUp day 12 Nov: 1 news post, 1 TikTok before this. getBrandSettings not called this run; previous posts on FB/IG/TikTok all PUBLISHED, so networks connected.",
+  "previous_slot_check": "Previous posted slot 10:00 (no 11:00 post): FB Reel https://facebook.com/reel/1675282847360023, IG Reel https://www.instagram.com/reel/DfoQpQDAo8H/, TikTok 7707145286644206900, FB+IG Story all PUBLISHED. No errors.",
+  "news_search": "Web search; PMIF26 opening in Islamabad today, Arab News article 11:40 PKT (within 2h of T). Not a duplicate of last 48 h.",
+  "verification": "Arab News article read via fetch: meta published/modified 2026-11-12T06:40:51Z = 11:40:51 PKT, byline Waseem Abbasi. Facts used: opened Thursday, two-day, third PMIF, Islamabad, officials/foreign investors/industry, minerals list and provinces.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 9444fcd4-af78-43d9-852e-29c9bce4140b; no text/logos/public figures (blank display labels).",
+  "publish": "Card and zoom MP4 (8 s, 1080x1920, silent track) checked. Reel post = IG REEL + FB REEL (same MP4/caption/thumbnail); TikTok own photo post; Story 12:05. IG audio resolved as music. Zoom renderer has no option to bake a licensed track, so FB Reel has no music. Used verified-list track (unused today)."
+ },
+ "skipped_candidates": [],
+ "errors": []
+}
