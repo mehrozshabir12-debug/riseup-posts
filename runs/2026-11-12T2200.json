@@ -1,1 +1,77 @@
-{"slot": "2026-11-12T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T21:46:55+05:00", "language": "en"}
+{
+ "slot": "2026-11-12T22:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T21:46:55+05:00",
+ "run_finished_pkt": "2026-11-12T21:52:30+05:00",
+ "test_mode": false,
+ "language": "en",
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Sindh government decided on Thursday to launch a large-scale crackdown to remove encroachments from major roads in Karachi, including University Road and People's Bus Service routes, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044074/sindh-govt-to-launch-crackdown-on-encroachments-on-karachis-main-thoroughfares-including-university-road",
+    "published_at": "2026-11-12T21:17:52+05:00",
+    "updated_at": "2026-11-12T21:28:23+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-12-sindh-karachi-encroachment-crackdown-university-road-r2",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-sindh-karachi-encroachment-crackdown-university-road-r2.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "d1b09327-426e-48e3-baaf-2fe456564972"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 425943621,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5145192548390977447",
+   "facebook_type": "POST",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 425943671,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9112136168812230483",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 425943694,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7024865325718456832",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Simple Pleasures (Reels Sound - Photo Dump) - Alex Blue (audioType music, displayArtist Alex Blue, id 1131479132514825)",
+ "stages": {
+  "metricool_read": "Slot window 21:00-23:00: 22:00 free. 48h duplicate check via run logs/requests 10-12 Nov (21:00 run had full Metricool windows 10 Nov 20:00..13 Nov 09:00): no Karachi encroachment story. TikTok daily cap (8) already reached per 20:00 log, so feed = Facebook POST only (TikTok dropped). getBrandSettings not called.",
+  "previous_slot_check": "21:00 feed (FB POST), IG Reel (music Sunday In October) and FB+IG Story all PUBLISHED.",
+  "news_search": "Picked Dawn 2044074 (published 21:17 PKT, updated 21:28). Rejected: PM Shehbaz COP31 Antalya speech/Erdogan talks (Arab News 18:29) - duplicate of 11 Nov COP31 posts; Pakistan U-19 Asia Cup final - minors; women's Emerging Nations Trophy win over Bangladesh (Dawn 21:35) - considered, Karachi civic story preferred.",
+  "verification": "Single approved outlet (Dawn), timestamp from article meta; roads, names and agencies checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, no readable text or real people.",
+  "publish": "First request rejected by pipeline (substantive_update flag missing); r2 rendered awaiting_publish. Card and zoom MP4 (8 s) checked. Feed FB POST, IG Reel with music, FB+IG Story created; all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM Shehbaz urges debt-free climate finance at COP31, meets Erdogan",
+   "reason": "duplicate of 11 Nov COP31 posts"
+  },
+  {
+   "headline": "Pakistan into U-19 Asia Cup final",
+   "reason": "story about minors"
+  }
+ ],
+ "errors": [
+  "request 2026-11-12-sindh-karachi-encroachment-crackdown-university-road rejected: sources[0].substantive_update must be true or false when updated_at is given"
+ ]
+}

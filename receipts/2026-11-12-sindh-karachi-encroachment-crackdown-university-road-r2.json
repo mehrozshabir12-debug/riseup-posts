@@ -1,0 +1,29 @@
+{
+ "id": "2026-11-12-sindh-karachi-encroachment-crackdown-university-road-r2",
+ "scheduled": "2026-11-12T22:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 425943621,
+   "status": "PENDING",
+   "networks": {
+    "facebook": "PENDING"
+   },
+   "facebook_type": "POST"
+  },
+  "reel": {
+   "metricool_id": 425943671,
+   "status": "PENDING",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 425943694,
+   "status": "PENDING",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
