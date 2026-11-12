@@ -1,1 +1,75 @@
-{"slot": "2026-11-12T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T17:46:52+05:00", "language": "en"}
+{
+ "slot": "2026-11-12T18:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T17:46:43+05:00",
+ "run_finished_pkt": "2026-11-12T17:51:55+05:00",
+ "test_mode": false,
+ "language": "en",
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Imran Khan's sisters Noreen Khan and Uzma Khan were released from Kot Lakhpat jail in Lahore on Thursday after the government withdrew their joint detention order, Arab News (AFP) reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/two-sisters-of-jailed-pakistan-ex-pm-imran-khan-released-from-prison-3006831",
+    "published_at": "2026-11-12T17:04:24+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-12-imran-khan-sisters-noreen-uzma-released",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "6a1ec0fe-2e7e-4f60-a869-ae9bbfa800f4"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 425647549,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5872163542810969200",
+   "facebook_type": "POST",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 425647573,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4611653448590446078",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 425647582,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4650442073709563301",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Reflection - Sam Marshall (audioType music, displayArtist Sam Marshall, id 478728841591377)",
+ "stages": {
+  "metricool_read": "10 windows NOW-48h..NOW+12h all OK; slot 18:00 free; RiseUp day 12 Nov news feed posts before this: 4 (10,12,14,16), TikTok well under 8",
+  "previous_slot_check": "No 17:00 slot post. 16:00 feed (FB POST + TikTok), IG Reel and Story all PUBLISHED.",
+  "news_search": "Picked Arab News/AFP 17:04 PKT story (within 2h). Not a duplicate: earlier posts covered Qureshi to PIC and IHC jail meeting, not the sisters' release.",
+  "verification": "1 approved outlet (Arab News, AFP byline), article meta published_time 2026-11-12T12:04:24Z = 17:04 PKT; names (Noreen Khan, Uzma Khan, Aleema Khan, Rana Mudassar), place (Kot Lakhpat, Lahore), 2pm release time and September detention checked against the article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 attempt, generic prison wall/gate, no text or real people",
+  "publish": "Card and zoom MP4 checked (8 s, 1080x1920, plays, shows card). Feed = Facebook POST + TikTok photo (autoAddMusic); IG-only zoom Reel with music; FB+IG Story 18:05. All PENDING in getScheduledPosts."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Saqib Khan 7-130 / Sri Lanka 446 (Rawalpindi Test)",
+   "reason": "duplicate of 14:00 post"
+  },
+  {
+   "headline": "Pakistan Minerals Investment Forum",
+   "reason": "duplicate of 12:00 post"
+  }
+ ],
+ "errors": []
+}

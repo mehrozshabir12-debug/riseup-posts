@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-12-imran-khan-sisters-noreen-uzma-released",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 425647549,
+   "uuid": "5872163542810969200",
+   "facebook_type": "POST",
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 425647573,
+   "uuid": "4611653448590446078",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": {
+    "audioId": "478728841591377",
+    "audioType": "music",
+    "title": "Reflection",
+    "displayArtist": "Sam Marshall"
+   }
+  },
+  "story": {
+   "metricool_id": 425647582,
+   "uuid": "4650442073709563301",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
