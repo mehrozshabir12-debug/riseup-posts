@@ -1,1 +1,90 @@
-{"slot": "2026-11-12T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T19:46:24+05:00", "language": "en"}
+{
+ "slot": "2026-11-12T20:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T19:46:24+05:00",
+ "run_finished_pkt": "2026-11-12T19:55:24+05:00",
+ "test_mode": false,
+ "language": "en",
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Gold in Pakistan fell by Rs10,900 per tola to Rs416,536 on Thursday, in line with a $109 drop to $3,940 per ounce in the international market, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448590/gold-price-per-tola-falls-rs10900-in-pakistan",
+    "published_at": "2026-11-12T16:15:16+05:00",
+    "updated_at": "2026-11-12T19:19:27+05:00",
+    "substantive_update": true
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-12-gold-falls-rs10900-per-tola-r2",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-gold-falls-rs10900-per-tola-r2.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "25db50ac-3d77-4cd9-91c6-94c0a90c99d7"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 425795613,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2050922232979604873",
+   "facebook_type": "POST",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 425795664,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6585290061413567394",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 425795692,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3197711688717255474",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Glow (prod. by Jayme Stone) (Instrumental) - KNOTTS (audioType music, displayArtist KNOTTS, id 336015428971390)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. Windows 10 Nov 18:00 .. 13 Nov 08:00 all OK; slot 20:00 free. RiseUp day 12 Nov news feed posts before this: 6 (10,12,14,16,18,19). Posts incl. TikTok today: 8 (10,12,13:00,13:40,14,15,16,18).",
+  "previous_slot_check": "19:00 feed (FB POST), IG Reel and FB+IG Story all PUBLISHED.",
+  "news_search": "Picked Business Recorder gold story: first published 16:15 PKT, substantively updated 19:19 PKT (new figures Rs10,900 drop; URL slug shows earlier Rs2,700 version). Not a duplicate: last gold post was 10 Nov (Rs1,500 fall). Other candidates fresher but less relevant or older: see skipped_candidates.",
+  "verification": "1 approved outlet (Business Recorder, BR Web Desk), meta published 2026-11-12T16:15:16+05:00, modified 19:19:27+05:00; Rs416,536/tola (-Rs10,900), 10g Rs357,112 (-Rs9,345), APGJSA, $3,940/oz (-$109), silver Rs4,782 (-Rs163) checked; 427,436-10,900=416,536.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, gold jewellery shop in bazaar, anonymous people, no text.",
+  "publish": "First request rejected (sources[0].substantive_update missing); resubmitted as -r2 with the fix. Feed = Facebook normal POST only; TikTok removed from payloads.feed because 8 posts with TikTok already on RiseUp day 12 Nov (daily max 8). IG zoom Reel with music (instagram only). FB+IG Story 20:05. Music check: audioType music, displayArtist KNOTTS. Card and Reel frame checked visually; MP4 8.0 s."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Rizwanullah 5-30 as Pakistan beat Bangladesh to reach ACC U19 Asia Cup final (Tribune 15:55 PKT)",
+   "reason": "older than gold update; gold matters more to ordinary people"
+  },
+  {
+   "headline": "DG ISPR: Pakistan ready to take defensive measures to protect Saudi Arabia (Tribune 14:43 PKT)",
+   "reason": "older (5h+), security/conflict topic"
+  },
+  {
+   "headline": "PSO, Kuwait Petroleum agree to continue diesel, jet fuel supplies (BR 19:28 PKT)",
+   "reason": "no figures; lower public impact than gold price"
+  },
+  {
+   "headline": "Two policemen martyred in Swabi attack (Dawn)",
+   "reason": "violence"
+  }
+ ],
+ "errors": [
+  "request 2026-11-12-gold-falls-rs10900-per-tola rejected: sources[0].substantive_update must be true or false when updated_at is given (fixed in -r2)"
+ ],
+ "warnings": [
+  "TikTok skipped: 8 posts with TikTok already on RiseUp day 2026-11-12 (incl. 3 manual Basharat posts); max 8",
+  "Trending-music search returned no confirmed audioType music track; used verified list id"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-12-gold-falls-rs10900-per-tola-r2",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 425795613,
+   "status": {
+    "facebook": "PENDING"
+   },
+   "facebook_type": "POST"
+  },
+  "reel": {
+   "metricool_id": 425795664,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 425795692,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
