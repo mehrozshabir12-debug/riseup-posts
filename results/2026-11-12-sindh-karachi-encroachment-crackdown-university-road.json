@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-12-sindh-karachi-encroachment-crackdown-university-road",
+ "revision": 1,
+ "request": "requests/2026-11-12-sindh-karachi-encroachment-crackdown-university-road.json",
+ "status": "rejected",
+ "errors": [
+  "sources[0].substantive_update must be true or false when updated_at is given"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-12T21:49:48+05:00"
+}
