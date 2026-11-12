@@ -9569,5 +9569,37 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T20:00:00+05:00",
+  "request_id": "2026-11-12-gold-falls-rs10900-per-tola-r2",
+  "layout": "bold",
+  "headline": "Gold in Pakistan fell by Rs10,900 per tola to Rs416,536 on Thursday, in line with a $109 drop to $3,940 per ounce in the international market, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40448590/gold-price-per-tola-falls-rs10900-in-pakistan",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448590/gold-price-per-tola-falls-rs10900-in-pakistan",
+    "published_at": "2026-11-12T16:15:16+05:00",
+    "updated_at": "2026-11-12T19:19:27+05:00",
+    "substantive_update": true
+   }
+  ],
+  "published": "2026-11-12T16:15:16+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 783508506,
+  "image": "posts/2026-11-12-gold-falls-rs10900-per-tola-r2.jpg",
+  "story": "posts/2026-11-12-gold-falls-rs10900-per-tola-r2-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 20:00 PKT",
+  "music": "Glow (Instrumental) - KNOTTS",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-gold-falls-rs10900-per-tola-r2.mp4"
  }
 ]
