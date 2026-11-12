@@ -1,1 +1,78 @@
-{"slot": "2026-11-12T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T18:46:53+05:00", "language": "ur"}
+{
+ "slot": "2026-11-12T19:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T18:46:53+05:00",
+ "run_finished_pkt": "2026-11-12T18:53:39+05:00",
+ "test_mode": false,
+ "language": "ur",
+ "outcome": "scheduled",
+ "story": {
+  "headline": "PTI MNA Shandana Gulzar petitioned the Federal Constitutional Court on Thursday seeking the immediate release of KP Chief Minister Sohail Afridi, who has not been seen since governor's rule was imposed on October 11, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044048/pti-lawmaker-moves-fcc-seeking-immediate-release-of-sohail-afridi-other-party-workers",
+    "published_at": "2026-11-12T17:42:59+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-12-pti-mna-fcc-petition-sohail-afridi-release",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-pti-mna-fcc-petition-sohail-afridi-release.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "4be119f6-5b19-4318-a095-5a4e63484557"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 425717984,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5891332060383036066",
+   "facebook_type": "POST",
+   "networks": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 425718015,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8329887690175950",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 425718041,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3739040593407096901",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Drift Away (Instrumental) - Giulio Cercato (audioType music, displayArtist Giulio Cercato, id 1211414204067053)",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. Windows 10 Nov 18:00 .. 13 Nov 07:00 all OK; slot 19:00 free; RiseUp day 12 Nov news feed posts before this: 5 (10,12,14,16,18).",
+  "previous_slot_check": "18:00 feed (FB POST + TikTok), IG Reel and FB+IG Story all PUBLISHED.",
+  "news_search": "Picked Dawn 17:42 PKT story (within 2h). Not a duplicate: last 48h covered Imran Khan's sisters' release, IHC jail meeting, Qureshi to PIC \u2014 not the FCC petition for Afridi. Rejected: militant ambush on police (violence/casualty figures); cricket day-4 Saqib Khan (already posted 14:00).",
+  "verification": "1 approved outlet (Dawn, byline Nasir Iqbal), meta published 2026-11-12T17:42:59+05:00, modified 18:05:40+05:00; names (Shandana Gulzar, Sohail Afridi), FCC, Oct 11 governor's rule/emergency, preventive custody statement checked against article.",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, generic court steps with anonymous lawyers from behind, no text.",
+  "publish": "Feed = Facebook normal POST only (pipeline skipped TikTok by pacing: 5 TikTok posts by 19:00 allowed 5). IG zoom Reel with music (instagram only). FB+IG Story 19:05. Music check: audioType music, displayArtist Giulio Cercato. Card and Reel frame checked visually."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Militants ambush police, 10 officers and 18 militants killed (Arab News/AP)",
+   "reason": "violence/casualty-figure story"
+  },
+  {
+   "headline": "Saqib Khan 7-130 on debut",
+   "reason": "already posted at 14:00"
+  }
+ ],
+ "errors": [],
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-12; allowed by 19:00 = 5 (max 8/day)",
+  "Trending-music web search not run; used verified numeric list id for calm/serious news"
+ ]
+}

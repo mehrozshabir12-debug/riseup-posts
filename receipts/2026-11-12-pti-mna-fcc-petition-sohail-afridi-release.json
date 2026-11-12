@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-12-pti-mna-fcc-petition-sohail-afridi-release",
+ "scheduled": "2026-11-12T19:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 425717984,
+   "uuid": "5891332060383036066",
+   "facebook_type": "POST",
+   "status": {
+    "facebook": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 425718015,
+   "uuid": "-8329887690175950",
+   "status": {
+    "instagram": "PENDING"
+   },
+   "audio": "Drift Away (Instrumental) - Giulio Cercato, audioType music"
+  },
+  "story": {
+   "metricool_id": 425718041,
+   "uuid": "-3739040593407096901",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
