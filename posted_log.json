@@ -9313,10 +9313,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-12 10:00 PKT",
+  "scheduled": true,
   "music": "Slow Living - stereogully",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-12-karachi-water-supply-cut-dhabeji-nov13.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "reel": 425266355,
+   "tiktok": 425266366,
+   "story": 425266376
+  },
+  "video": "posts/2026-11-12-karachi-water-supply-cut-dhabeji-nov13.mp4",
+  "network_status": {
+   "reel": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "tiktok": {
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
