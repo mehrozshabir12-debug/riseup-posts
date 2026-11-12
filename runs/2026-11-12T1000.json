@@ -1,1 +1,71 @@
-{"slot": "2026-11-12T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-12T09:50:56+05:00", "language": "en"}
+{
+ "slot": "2026-11-12T10:00:00+05:00",
+ "riseup_day": "2026-11-12",
+ "run_started_pkt": "2026-11-12T09:50:56+05:00",
+ "run_finished_pkt": "2026-11-12T09:54:13+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "language": "en",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "A K-Electric power shutdown at Dhabeji on November 13 will stop 9 of 21 pumps and cut Karachi's daily water supply by around 130 million gallons, The Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2639866/dhabeji-shutdown-set-to-leave-city-high-dry",
+    "published_at": "2026-11-12T06:31:24+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-12-karachi-water-supply-cut-dhabeji-nov13",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-12-karachi-water-supply-cut-dhabeji-nov13.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "reel": {
+   "id": 425266355,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9129588763936575136",
+   "networks": {
+    "instagram": "PENDING",
+    "facebook": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "id": 425266366,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5964969919750685559",
+   "networks": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 425266376,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7054737173308853859",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Slow Living - stereogully (audioType music, displayArtist stereogully, id 1329928372147056)",
+ "fb_music": "not supported",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. Windows 2026-11-10T09:00..2026-11-12T22:00 all succeeded; no post at 10:00. RiseUp day 12 Nov: 0 news posts, 0 TikTok before this.",
+  "previous_slot_check": "Previous posted slot 2026-11-11 23:00: FB Reel, IG Reel, TikTok, Stories all PUBLISHED (FB https://facebook.com/reel/1167536548938678, IG https://www.instagram.com/reel/DfnFZRyiSnc/, TikTok 7706977353909521684). No errors.",
+  "news_search": "Search across approved outlets. Picked Tribune Karachi water cut (06:31 PKT, 3.5 h before T, matters to millions). Not a duplicate of last 48 h (Karachi rain post 11 Nov is a different event).",
+  "verification": "Tribune article read via fetch: meta published 2026-11-12T01:31:24Z = 06:31:24 PKT; 10am-midnight Nov 13, 9 of 21 pumps, ~650m to 520m gallons (~130m), affected areas and extra 22-hour maintenance all match. Nov 13 2026 = Friday (checked).",
+  "image": "Runway nano-banana-2-lite 4:3, 1 image, task 756bb624-2833-4b30-a760-8bdac747d881; no text/logos/public figures.",
+  "publish": "Card and zoom MP4 (8 s, 1080x1920) checked. Reel post = IG REEL + FB REEL (same MP4/caption/thumbnail); TikTok own photo post; Story 10:05. IG audio resolved as music. Renderer has no option to bake a licensed track into the MP4, so the Facebook Reel has no music. Trending search gave only generic listicles, no confirmed IG 'music' id; used the verified list."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM bans use of Islamabad schools/colleges for police deployment (Dawn 06:50 PKT)",
+   "reason": "valid, but Karachi water cut affects more ordinary people"
+  }
+ ],
+ "errors": []
+}

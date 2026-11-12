@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-12-karachi-water-supply-cut-dhabeji-nov13",
+ "scheduled": true,
+ "posts": {
+  "reel": {
+   "metricool_id": 425266355,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "facebook_type": "REEL"
+  },
+  "tiktok": {
+   "metricool_id": 425266366,
+   "status": {
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 425266376,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
