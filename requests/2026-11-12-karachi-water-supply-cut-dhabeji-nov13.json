@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-12-karachi-water-supply-cut-dhabeji-nov13",
+ "type": "news",
+ "headline": "A K-Electric power shutdown at Dhabeji on November 13 will stop 9 of 21 pumps and cut Karachi's daily water supply by around 130 million gallons, The Express Tribune reports.",
+ "language": "English",
+ "sources": [
+  {
+   "outlet": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2639866/dhabeji-shutdown-set-to-leave-city-high-dry",
+   "published_at": "2026-11-12T06:31:24+05:00"
+  }
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/756bb624-2833-4b30-a760-8bdac747d881/481acd9d-c963-45e7-bae5-b9ca7fbb2896/Realistic_news_photo_of_a_Karachi_residential_street_in_dayl.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMWUxOGNmYjliZmZjNzVkZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDU0ODkyMX0.07XFUFhFGS9qkju_J52iceanexD0P3WPTTahu_uJ87A",
+  "head1": "Karachi water supply",
+  "head2_hl": "down 130m",
+  "head2": "gallons",
+  "kicker": "Dhabeji power cut on Nov 13",
+  "desc": "9 of 21 Dhabeji pumps off, 10am to midnight Friday.",
+  "source": "The Express Tribune",
+  "date": "12 NOV 2026"
+ },
+ "caption": "Karachi water alert: supply to drop by around 130 million gallons on Friday!\nAccording to The Express Tribune, K-Electric will cut power at the Dhabeji grid station from 10am to midnight on November 13 for annual maintenance. Because of this, 9 of the 21 pumps at Dhabeji (the big pumping station that sends water to Karachi) will stop, and the city's daily supply will fall from about 650 million to 520 million gallons. Landhi, Korangi, Malir, Shah Faisal, Gulshan-e-Iqbal, Clifton, Saddar and Lyari are likely to be affected. Landhi, Korangi, Malir and Shah Faisal may face problems for another 22 hours because of Water Corporation maintenance.\nIs your area getting enough water? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #KarachiWater #Karachi #Dhabeji #PakistanNews",
+ "tiktok_title": "Karachi water supply to drop by around 130m gallons on Friday, Nov 13",
+ "publish": {
+  "slot": "2026-11-12T10:00:00+05:00",
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok"
+  ],
+  "stories": true,
+  "dry_run": false
+ },
+ "reel": {
+  "type": "zoom"
+ },
+ "music": {
+  "audioId": "1329928372147056",
+  "label": "Slow Living - stereogully"
+ },
+ "ai_generated": true
+}
