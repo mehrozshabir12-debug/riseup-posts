@@ -9617,5 +9617,37 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T21:00:00+05:00",
+  "request_id": "2026-11-12-naqvi-referendum-new-provinces-r2",
+  "layout": "bold",
+  "headline": "Interior Minister Mohsin Naqvi on Thursday suggested that political parties hold a referendum on creating new administrative units or provinces, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044043/naqvi-suggests-referendum-as-solution-to-debate-on-new-administrative-units",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044043/naqvi-suggests-referendum-as-solution-to-debate-on-new-administrative-units",
+    "published_at": "2026-11-12T18:14:37+05:00",
+    "updated_at": "2026-11-12T18:33:04+05:00",
+    "substantive_update": false
+   }
+  ],
+  "published": "2026-11-12T18:14:37+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 522288055,
+  "image": "posts/2026-11-12-naqvi-referendum-new-provinces-r2.jpg",
+  "story": "posts/2026-11-12-naqvi-referendum-new-provinces-r2-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 21:00 PKT",
+  "music": "Sunday In October - Trout Recording",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-naqvi-referendum-new-provinces-r2.mp4"
  }
 ]
