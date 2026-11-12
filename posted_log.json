@@ -9501,10 +9501,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-12 18:00 PKT",
+  "scheduled": true,
   "music": "Reflection - Sam Marshall",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 425647549,
+   "reel": 425647573,
+   "story": 425647582
+  },
+  "video": "posts/2026-11-12-imran-khan-sisters-noreen-uzma-released.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
