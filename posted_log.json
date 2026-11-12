@@ -9288,5 +9288,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T10:00:00+05:00",
+  "request_id": "2026-11-12-karachi-water-supply-cut-dhabeji-nov13",
+  "layout": "bold",
+  "headline": "A K-Electric power shutdown at Dhabeji on November 13 will stop 9 of 21 pumps and cut Karachi's daily water supply by around 130 million gallons, The Express Tribune reports.",
+  "source_outlet": "The Express Tribune",
+  "source": "https://tribune.com.pk/story/2639866/dhabeji-shutdown-set-to-leave-city-high-dry",
+  "sources": [
+   {
+    "outlet": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2639866/dhabeji-shutdown-set-to-leave-city-high-dry",
+    "published_at": "2026-11-12T06:31:24+05:00"
+   }
+  ],
+  "published": "2026-11-12T06:31:24+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 93450860,
+  "image": "posts/2026-11-12-karachi-water-supply-cut-dhabeji-nov13.jpg",
+  "story": "posts/2026-11-12-karachi-water-supply-cut-dhabeji-nov13-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 10:00 PKT",
+  "music": "Slow Living - stereogully",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-karachi-water-supply-cut-dhabeji-nov13.mp4"
  }
 ]
