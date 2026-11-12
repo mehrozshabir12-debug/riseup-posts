@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-12-sindh-karachi-encroachment-crackdown-university-road",
+ "type": "news",
+ "headline": "The Sindh government decided on Thursday to launch a large-scale crackdown to remove encroachments from major roads in Karachi, including University Road and People's Bus Service routes, Dawn reports.",
+ "language": "English",
+ "sources": [
+  {"outlet": "Dawn", "url": "https://www.dawn.com/news/2044074/sindh-govt-to-launch-crackdown-on-encroachments-on-karachis-main-thoroughfares-including-university-road", "published_at": "2026-11-12T21:17:52+05:00", "updated_at": "2026-11-12T21:28:23+05:00"}
+ ],
+ "card": {
+  "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/d1b09327-426e-48e3-baaf-2fe456564972/8c99e9db-46dc-4fa5-9dfa-09e05b7f868a/Realistic_news_photo_of_a_busy_wide_city_road_in_Karachi__Pa.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzc0OWY5MWM4ZTM4MzMxNyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDYxODc4MH0.EEy3zfaQTusmDCF091JWxSxDJ8DQ9S2v3wQ_KTadKQA",
+  "head1": "Karachi roads",
+  "head2_hl": "Encroachment",
+  "head2": "crackdown",
+  "kicker": "University Road in first phase",
+  "desc": "Police and city officials will act together, Sindh govt says.",
+  "source": "Dawn",
+  "date": "12 NOV 2026"
+ },
+ "caption": "Big crackdown coming on Karachi's main roads!\nAccording to Dawn, the Sindh government decided on Thursday to remove encroachments from major roads in Karachi. In the first phase, action will be taken on main roads, including University Road, and along People's Bus Service routes. Police, the city administration and the transport department will act together. The meeting was chaired by Senior Minister Sharjeel Inam Memon.\nWill this ease traffic in Karachi? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Karachi #UniversityRoad #Encroachment #PakistanNews",
+ "tiktok_title": "Sindh govt to clear encroachments from Karachi roads, University Road first",
+ "publish": {"slot": "2026-11-12T22:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+ "reel": {"type": "zoom"},
+ "music": {"audioId": "1131479132514825", "label": "Simple Pleasures - Alex Blue"},
+ "ai_generated": true
+}
