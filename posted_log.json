@@ -9523,5 +9523,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-12",
+  "slot": "2026-11-12T19:00:00+05:00",
+  "request_id": "2026-11-12-pti-mna-fcc-petition-sohail-afridi-release",
+  "layout": "bold",
+  "headline": "PTI MNA Shandana Gulzar petitioned the Federal Constitutional Court on Thursday seeking the immediate release of KP Chief Minister Sohail Afridi, who has not been seen since governor's rule was imposed on October 11, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044048/pti-lawmaker-moves-fcc-seeking-immediate-release-of-sohail-afridi-other-party-workers",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044048/pti-lawmaker-moves-fcc-seeking-immediate-release-of-sohail-afridi-other-party-workers",
+    "published_at": "2026-11-12T17:42:59+05:00"
+   }
+  ],
+  "published": "2026-11-12T17:42:59+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 516433170,
+  "image": "posts/2026-11-12-pti-mna-fcc-petition-sohail-afridi-release.jpg",
+  "story": "posts/2026-11-12-pti-mna-fcc-petition-sohail-afridi-release-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-12 19:00 PKT",
+  "music": "Drift Away (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-12-pti-mna-fcc-petition-sohail-afridi-release.mp4"
  }
 ]
