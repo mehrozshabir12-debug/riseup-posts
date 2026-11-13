@@ -9759,5 +9759,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-13",
+  "slot": "2026-11-13T10:00:00+05:00",
+  "request_id": "2026-11-13-ivanhoe-atlantic-mari-energies-mou",
+  "layout": "bold",
+  "headline": "Canadian miner Ivanhoe Atlantic signed an MoU with Pakistan's Mari Energies at the Pakistan Minerals Investment Forum in Islamabad, chairman Robert Friedland said, Arab News (Reuters) reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/ivanhoe-atlantic-signs-mou-with-pakistans-mari-energies-in-south-asia-push-3006908",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/ivanhoe-atlantic-signs-mou-with-pakistans-mari-energies-in-south-asia-push-3006908",
+    "published_at": "2026-11-13T09:24:50+05:00"
+   }
+  ],
+  "published": "2026-11-13T09:24:50+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 773188377,
+  "image": "posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg",
+  "story": "posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-13 10:00 PKT",
+  "music": "Iced Latte - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.mp4"
  }
 ]
