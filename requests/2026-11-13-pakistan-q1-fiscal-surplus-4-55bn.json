@@ -1,0 +1,34 @@
+{
+  "id": "2026-11-13-pakistan-q1-fiscal-surplus-4-55bn",
+  "type": "news",
+  "headline": "Pakistan posted a fiscal surplus of Rs1.274 trillion ($4.55 billion), 0.9% of GDP, in July-September FY2026-27, its third straight first-quarter surplus, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-posts-third-straight-first-quarter-fiscal-surplus-of-455-billion-3006938",
+      "published_at": "2026-11-13T20:22:29+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/8b4fc742-c1e7-4028-bd91-52441a694656/9e2f03aa-3304-4aeb-92a4-187e3d1a53ba/Realistic_photo_of_a_government_finance_office_in_Islamabad_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiN2VmNzczMmI1MWM2YWUwZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc0MTI5MX0.tBJVdm1moH0c17jQmY0UNpveIkE2hw416u7YQxcw6JM",
+    "head1": "Pakistan Ka Budget",
+    "head2_hl": "$4.55 Billion",
+    "head2": "Surplus",
+    "kicker": "Lagatar Teesra Saal",
+    "desc": "July-September mein aamdani kharchon se Rs1.274 trillion zyada rahi.",
+    "source": "Arab News",
+    "date": "13 NOV 2026"
+  },
+  "caption": "Pakistan ki aamdani kharchon se zyada! 📈\nArab News ke mutabiq Pakistan ne is maali saal ke pehle teen mahine (July se September) mein Rs1.274 trillion ($4.55 billion) ka fiscal surplus hasil kiya, jo GDP ka 0.9% hai. Yeh lagatar teesra saal hai ke pehle teen mahine surplus mein rahe, jabke is se pehle 23 saal tak in mahinon mein khasara hota raha. Is dafa surplus pichle do saalon se kam hai. Wazir-e-Khazana ke mushir Khurram Schehzad ne Friday ko X par yeh figures share kiye.\nKya is ka faida aam aadmi tak pohanchega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanEconomy #FiscalSurplus #IMF #PakistanNews",
+  "tiktok_title": "Pakistan ka pehli timahi mein $4.55 billion fiscal surplus",
+  "publish": {
+    "slot": "2026-11-13T23:00:00+05:00",
+    "networks": ["instagram"],
+    "stories": false,
+    "dry_run": true
+  },
+  "reel": {"type": "zoom"},
+  "music": {"audioId": "757785052896581", "label": "Sunday In October - Trout Recording"},
+  "ai_generated": true
+}
