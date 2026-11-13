@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-13-sc-inheritance-right-no-lapse",
+ "revision": 1,
+ "request": "requests/2026-11-13-sc-inheritance-right-no-lapse.json",
+ "type": "news",
+ "headline": "The Supreme Court ruled on Friday that an heir's right to inheritance arises immediately upon the owner's death and is not extinguished by the passage of time, The Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-13T22:00:00+05:00",
+ "target_slot": "2026-11-13T22:00:00+05:00",
+ "riseup_day": "2026-11-13",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-sc-inheritance-right-no-lapse.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-sc-inheritance-right-no-lapse-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-sc-inheritance-right-no-lapse.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-13-sc-inheritance-right-no-lapse.jpg",
+  "story": "posts/2026-11-13-sc-inheritance-right-no-lapse-story.jpg",
+  "reel": "posts/2026-11-13-sc-inheritance-right-no-lapse.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 472632417,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-13T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Wirasat ka haq waqt guzarne se khatam nahi hota! ⚖️\nExpress Tribune ke mutabiq Supreme Court ne Friday ko faisla diya ke jaidad ke maalik ki wafat hote hi waris ka wirasat ka haq shuru ho jata hai, aur yeh haq waqt guzarne se khatam nahi hota. Paanch judges ke bench ka yeh faisla Justice Shahid Waheed ne likha. Court ne kaha ke jaidad ka intiqal karne se pehle NADRA ka Family Registration Certificate liya jaye, aur har waris ko, khawateen samait, un ke apne pate par likhit notice diya jaye.\nKya is faisle se khawateen ko wirasat mein un ka haq milega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SupremeCourt #Inheritance #WomenRights #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-sc-inheritance-right-no-lapse.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Supreme Court: wirasat ka haq waqt guzarne se khatam nahi hota",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-13T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Wirasat ka haq waqt guzarne se khatam nahi hota! ⚖️\nExpress Tribune ke mutabiq Supreme Court ne Friday ko faisla diya ke jaidad ke maalik ki wafat hote hi waris ka wirasat ka haq shuru ho jata hai, aur yeh haq waqt guzarne se khatam nahi hota. Paanch judges ke bench ka yeh faisla Justice Shahid Waheed ne likha. Court ne kaha ke jaidad ka intiqal karne se pehle NADRA ka Family Registration Certificate liya jaye, aur har waris ko, khawateen samait, un ke apne pate par likhit notice diya jaye.\nKya is faisle se khawateen ko wirasat mein un ka haq milega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SupremeCourt #Inheritance #WomenRights #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-sc-inheritance-right-no-lapse.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-sc-inheritance-right-no-lapse-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "1197857668796525",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-13T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-sc-inheritance-right-no-lapse-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-13T21:08:24+05:00"
+}

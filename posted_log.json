@@ -9853,5 +9853,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-13",
+  "slot": "2026-11-13T22:00:00+05:00",
+  "request_id": "2026-11-13-sc-inheritance-right-no-lapse",
+  "layout": "bold",
+  "headline": "The Supreme Court ruled on Friday that an heir's right to inheritance arises immediately upon the owner's death and is not extinguished by the passage of time, The Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2640132/sc-rules-inheritance-right-does-not-lapse-with-time",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2640132/sc-rules-inheritance-right-does-not-lapse-with-time",
+    "published_at": "2026-11-13T20:16:27+05:00"
+   }
+  ],
+  "published": "2026-11-13T20:16:27+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 472632417,
+  "image": "posts/2026-11-13-sc-inheritance-right-no-lapse.jpg",
+  "story": "posts/2026-11-13-sc-inheritance-right-no-lapse-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-13 22:00 PKT",
+  "music": "Carry On (Instrumental) - Giulio Cercato",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-13-sc-inheritance-right-no-lapse.mp4"
  }
 ]
