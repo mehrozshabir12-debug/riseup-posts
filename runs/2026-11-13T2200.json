@@ -1,1 +1,72 @@
-{"slot": "2026-11-13T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-13T21:03:42+05:00"}
+{
+ "slot": "2026-11-13T22:00:00+05:00",
+ "riseup_day": "2026-11-13",
+ "run_started_pkt": "2026-11-13T21:03:42+05:00",
+ "run_finished_pkt": "2026-11-13T21:09:26+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Supreme Court rules an heir's inheritance right arises at the owner's death and does not lapse with time",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2640132/sc-rules-inheritance-right-does-not-lapse-with-time",
+    "published_at": "2026-11-13T20:16:27+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-13-sc-inheritance-right-no-lapse",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-sc-inheritance-right-no-lapse.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 427149664,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2303551209943382901",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 427149718,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-662897270763139701",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 427149760,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7228766230128379048",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Carry On (Instrumental) - Giulio Cercato",
+ "stages": {
+  "metricool_read": "complete: 6h windows 2026-11-11T21:00..2026-11-14T09:00 all succeeded; slot 22:00 empty; today 2 news feed posts (10:00, 18:00); TikTok today 4 (2 news + 2 Basharat)",
+  "previous_slot_check": "21:00 slot had no post (previous run errored: Runway/Metricool unavailable). Last news slot 18:00 all networks PUBLISHED. Note: Basharat 17:50 Instagram Reel (not created by Claude) shows ERROR 'Audio volume cannot be set to 0' - not touched.",
+  "news_search": "Express Tribune SC inheritance ruling, published 20:16 PKT (within 2h of T)",
+  "verification": "Express Tribune article read; timestamp from meta published_time 2026-11-13T15:16:27Z",
+  "image": "Runway nano-banana-2-lite, 1 image, inspected: no text/real figures",
+  "publish": "feed FB+TikTok photo, IG zoom Reel with music, FB+IG Story scheduled; card compared with approved 2026-11-13 Ivanhoe card - identical layout; Reel audioType music"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold price per tola loses Rs4,900 (Business Recorder)",
+   "reason": "published 16:14 PKT, older than the 2h window; newer story available"
+  },
+  {
+   "headline": "Islamabad to become first cashless city by Dec 31",
+   "reason": "older than newest qualifying story"
+  }
+ ],
+ "errors": []
+}
