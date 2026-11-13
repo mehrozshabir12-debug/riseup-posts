@@ -9955,10 +9955,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-13 23:00 PKT",
+  "scheduled": "2026-11-13T23:00:00+05:00",
   "music": "Sunday In October - Trout Recording",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-13-president-house-no-provinces-talk.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 427272812,
+   "reel": 427272826,
+   "story": 427272842
+  },
+  "video": "posts/2026-11-13-president-house-no-provinces-talk.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
