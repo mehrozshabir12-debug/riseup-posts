@@ -9878,10 +9878,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-13 22:00 PKT",
+  "scheduled": "2026-11-13T22:00:00+05:00",
   "music": "Carry On (Instrumental) - Giulio Cercato",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-13-sc-inheritance-right-no-lapse.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 427149664,
+   "reel": 427149718,
+   "story": 427149760
+  },
+  "video": "posts/2026-11-13-sc-inheritance-right-no-lapse.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
