@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-13-rawalpindi-test-draw-pak-sl",
+  "type": "news",
+  "headline": "The first Pakistan-Sri Lanka Test in Rawalpindi ended in a draw on the fifth day, with Pakistan 284-8 in their second innings, a lead of 272, Dawn (AFP) reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044279/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
+      "published_at": "2026-11-13T17:25:19+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/7b992237-714b-4e93-bb5f-787ed320b737/88578f7f-b3e3-4f69-8664-dc11d6675a46/Realistic_photo_of_a_cricket_Test_match_in_a_Pakistani_stadi.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZGVhZGFkMjc1YmUyOGY1MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDY4ODgwN30.8M1mmx59M5zJDOCZEQy0Uzn5tludNnrzTkVUdo3nv8U",
+    "head1": "Rawalpindi Test",
+    "head2_hl": "Draw",
+    "head2": "Ho Gaya",
+    "kicker": "Saud Shakeel Ke 97 Runs",
+    "desc": "Pakistan ne 284-8 banaye, Sri Lanka par 272 ki lead.",
+    "source": "Dawn",
+    "date": "13 NOV 2026"
+  },
+  "caption": "Rawalpindi Test draw par khatam! 🏏\nDawn (AFP) ke mutabiq Pakistan aur Sri Lanka ka pehla Test Friday ko paanchwein aur aakhri din draw ho gaya. Pakistan ne doosri innings mein 8 wickets par 284 runs banaye aur Sri Lanka par 272 runs ki lead li. Saud Shakeel ne 97 runs banaye aur century se sirf 3 runs pehle out ho gaye. Kharab roshni ki wajah se match ke 360 mein se 117 overs zaya hue. Doosra aur aakhri Test isi ground par Tuesday se shuru hoga.\nKya Pakistan doosra Test jeet sakta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #PakistanCricket #SaudShakeel #PakistanNews",
+  "tiktok_title": "Rawalpindi Test draw: Saud Shakeel 97, Pakistan 284-8, lead 272",
+  "publish": {
+    "slot": "2026-11-13T18:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "zoom"
+  },
+  "music": {
+    "audioId": "1274149560124013",
+    "label": "Heros Journey (Instrumental) - Abby Posner"
+  },
+  "ai_generated": true
+}
