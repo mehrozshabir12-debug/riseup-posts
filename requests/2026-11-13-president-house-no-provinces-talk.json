@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-13-president-house-no-provinces-talk",
+  "type": "news",
+  "headline": "The President House said on Friday that matters related to provinces did not come under discussion during President Asif Ali Zardari's Thursday meeting with Interior Minister Mohsin Naqvi, which focused on national security and the regional situation, Dawn reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044319/president-house-says-new-provinces-did-not-come-under-discussion-during-zardari-naqvi-meeting",
+      "published_at": "2026-11-13T21:00:07+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/8a377761-974e-416c-b9b5-bd67cfaa4b41/c95862ad-5920-4880-a5dd-4098f6a6e43a/Realistic_photo_of_the_exterior_of_a_grand_white_government_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjFkZTcxNjY0OWFmZDM5NyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc2Mjg1NH0.lSKB4M-44ccVVHoBXQNHv2BInH-W0qxCRXvynsda9CI",
+    "head1": "President House",
+    "head2_hl": "No Talks",
+    "head2": "On Provinces",
+    "kicker": "Zardari-Naqvi meeting clarified",
+    "desc": "Meeting focused on national security and the regional situation.",
+    "source": "Dawn",
+    "date": "13 NOV 2026"
+  },
+  "caption": "President House: no talks on new provinces in Zardari-Naqvi meeting!\nAccording to Dawn, the President House said on Friday that matters related to provinces did not come under discussion when President Asif Ali Zardari met Interior Minister Mohsin Naqvi on Thursday. It said the meeting focused on \"national security and the regional situation\". Media reports had claimed the two discussed new provinces at a meeting in Nawabshah on Thursday night. Naqvi has suggested a referendum on new provinces, while the PPP strongly opposes them.\nWhat do you think about the debate on new provinces? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #NewProvinces #Zardari #MohsinNaqvi #PakistanNews",
+  "tiktok_title": "President House: no talks on new provinces in Zardari-Naqvi meeting",
+  "publish": {
+    "slot": "2026-11-13T23:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "zoom"
+  },
+  "music": {
+    "audioId": "757785052896581",
+    "label": "Sunday In October - Trout Recording"
+  },
+  "ai_generated": true
+}
