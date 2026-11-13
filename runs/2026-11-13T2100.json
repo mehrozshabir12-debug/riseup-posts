@@ -1,0 +1,8 @@
+{"slot": "2026-11-13T21:00:00+05:00", "riseup_day": "2026-11-13", "run_started_pkt": "2026-11-13T20:00:47+05:00", "run_finished_pkt": "2026-11-13T20:01:17+05:00",
+ "test_mode": false,
+ "outcome": "error_tool_unavailable: runway, metricool",
+ "story": null, "request_id": null, "card_url": null, "image_attempts": [],
+ "metricool": null, "music": "none",
+ "stages": {"metricool_read": "not possible - Metricool connector failed to connect", "previous_slot_check": "not possible", "news_search": "not run (no post possible without Runway/Metricool)", "verification": "not run", "image": "not run - Runway connector failed to connect", "publish": "nothing scheduled"},
+ "skipped_candidates": [],
+ "errors": ["Runway MCP server failed to connect (502): SdkHttpError CLIENT_HTTP_NOT_IMPLEMENTED", "Metricool_Social_Media_Management MCP server failed to connect (502): SdkHttpError CLIENT_HTTP_NOT_IMPLEMENTED"]}
