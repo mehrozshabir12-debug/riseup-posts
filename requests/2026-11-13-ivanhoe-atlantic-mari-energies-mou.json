@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-13-ivanhoe-atlantic-mari-energies-mou",
+  "type": "news",
+  "headline": "Canadian miner Ivanhoe Atlantic signed an MoU with Pakistan's Mari Energies at the Pakistan Minerals Investment Forum in Islamabad, chairman Robert Friedland said, Arab News (Reuters) reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/ivanhoe-atlantic-signs-mou-with-pakistans-mari-energies-in-south-asia-push-3006908",
+      "published_at": "2026-11-13T09:24:50+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/999afe0e-6ca6-4434-861a-f0febb655ca1/155c6357-8109-4ed9-b632-bc0026de030f/Realistic_photo_of_a_mineral_exploration_site_in_rocky_brown.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjQzNGY3OWY0MGM0YmQ1ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDY3NTc0M30.zVUaC0M12UKejVTne5mGxe_UsDxGdqc9AjZZScHGM_4",
+    "head1": "Canadian miner",
+    "head2_hl": "Mari Energies",
+    "head2": "MoU",
+    "kicker": "Ivanhoe Atlantic enters Pakistan",
+    "desc": "Deal signed at Pakistan Minerals Investment Forum in Islamabad.",
+    "source": "Arab News",
+    "date": "13 NOV 2026"
+  },
+  "caption": "Canadian mining company signs deal in Pakistan!\nAccording to Arab News (Reuters), Canadian miner Ivanhoe Atlantic has signed an MoU (memorandum of understanding) with Pakistan's Mari Energies. Chairman Robert Friedland said this at the Pakistan Minerals Investment Forum in Islamabad. He said the company is setting up a local office in Pakistan and will sign another MoU on Friday. Mari's mining unit, Mari Minerals, has copper and gold exploration projects in Pakistan.\nWill foreign investment in mining help Pakistan? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MariEnergies #Mining #PakistanEconomy #PakistanNews",
+  "tiktok_title": "Canadian miner Ivanhoe Atlantic signs MoU with Pakistan's Mari Energies",
+  "publish": {
+    "slot": "2026-11-13T10:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "zoom"
+  },
+  "music": {
+    "audioId": "810120545333296",
+    "label": "Iced Latte - Global Genius"
+  },
+  "ai_generated": true
+}
