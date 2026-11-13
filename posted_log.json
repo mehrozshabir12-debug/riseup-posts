@@ -9806,5 +9806,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-13",
+  "slot": "2026-11-13T18:00:00+05:00",
+  "request_id": "2026-11-13-rawalpindi-test-draw-pak-sl",
+  "layout": "bold",
+  "headline": "The first Pakistan-Sri Lanka Test in Rawalpindi ended in a draw on the fifth day, with Pakistan 284-8 in their second innings, a lead of 272, Dawn (AFP) reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044279/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044279/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
+    "published_at": "2026-11-13T17:25:19+05:00"
+   }
+  ],
+  "published": "2026-11-13T17:25:19+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 118598763,
+  "image": "posts/2026-11-13-rawalpindi-test-draw-pak-sl.jpg",
+  "story": "posts/2026-11-13-rawalpindi-test-draw-pak-sl-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-13 18:00 PKT",
+  "music": "Heros Journey (Instrumental) - Abby Posner",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-13-rawalpindi-test-draw-pak-sl.mp4"
  }
 ]
