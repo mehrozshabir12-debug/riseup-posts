@@ -1,1 +1,88 @@
-{"slot": "2026-11-13T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-13T22:46:16+05:00"}
+{
+ "slot": "2026-11-13T23:00:00+05:00",
+ "riseup_day": "2026-11-13",
+ "run_started_pkt": "2026-11-13T22:46:16+05:00",
+ "run_finished_pkt": "2026-11-13T22:52:48+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "President House says matters related to provinces did not come under discussion during the Zardari-Naqvi meeting",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044319/president-house-says-new-provinces-did-not-come-under-discussion-during-zardari-naqvi-meeting",
+    "published_at": "2026-11-13T21:00:07+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-13-president-house-no-provinces-talk",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-president-house-no-provinces-talk.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 427272812,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3846321505767569183",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 427272826,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1141264991169823311",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 427272842,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2215972432791882991",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Sunday In October - Trout Recording (757785052896581, audioType music, displayArtist Trout Recording)",
+ "stages": {
+  "metricool_read": "Full 48h + 12h ahead read in windows (11-11 22:00 .. 11-14 11:00), all succeeded. No non-Story post at 23:00. RiseUp day 13 Nov news posts before this: 3 (10:00, 18:00, 22:00); TikTok posts today 6 incl. Basharat/Imran reels -> TikTok allowed (7th).",
+  "previous_slot_check": "22:00 feed 427149664 FB+TikTok PUBLISHED, Reel 427149718 IG PUBLISHED, Story 427149760 FB+IG PUBLISHED.",
+  "news_search": "2h window: Dawn 21:00 PKT President House statement on Zardari-Naqvi meeting chosen. New development, not a duplicate of the 12 Nov Naqvi referendum post. Language English (official statement; day mix: 10:00 EN, 18:00 RU, 22:00 RU).",
+  "verification": "Single approved outlet (Dawn), article timestamp published 2026-11-13T21:00:07+05:00 (updated 21:05:35); every name and fact checked against the article.",
+  "image": "Runway nano-banana-2-lite, 1 image, task 8a377761-974e-416c-b9b5-bd67cfaa4b41; generic government building with flag, no text, no identifiable people. Credits left 1095 before settle.",
+  "publish": "GitHub workflow rendered approved card/story/zoom reel (results status awaiting_publish, no errors). Card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: identical layout. Feed FB+TikTok, IG Reel with music, FB+IG Story at 23:05 scheduled, all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan U19 eye Asia Cup title defence against India (Tribune 20:47)",
+   "reason": "story about U19 players (minors rule)"
+  },
+  {
+   "headline": "Islamabad to become first cashless city by Dec 31 (Dawn 15:19)",
+   "reason": "older window (8h); 2h-window story exists"
+  },
+  {
+   "headline": "IHC suspends Islamabad LG election schedule (Tribune 15:58)",
+   "reason": "older window"
+  },
+  {
+   "headline": "PM pushes domestic mineral processing (Arab News 17:35)",
+   "reason": "older window; minerals forum already posted today"
+  },
+  {
+   "headline": "Petrol cut Rs3, diesel Rs4 (Brecorder 12 Nov 22:20)",
+   "reason": "older than 8h"
+  },
+  {
+   "headline": "Q1 fiscal surplus $4.55bn (Arab News)",
+   "reason": "owner's own request for this story exists (dry run); avoid duplicate"
+  }
+ ],
+ "errors": []
+}

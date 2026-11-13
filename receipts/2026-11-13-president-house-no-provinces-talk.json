@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-13-president-house-no-provinces-talk",
+ "scheduled": "2026-11-13T23:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 427272812,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 427272826,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 427272842,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
