@@ -1,0 +1,43 @@
+{
+  "id": "2026-11-13-sc-inheritance-right-no-lapse",
+  "type": "news",
+  "headline": "The Supreme Court ruled on Friday that an heir's right to inheritance arises immediately upon the owner's death and is not extinguished by the passage of time, The Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2640132/sc-rules-inheritance-right-does-not-lapse-with-time",
+      "published_at": "2026-11-13T20:16:27+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/4b108b8c-df11-4fb6-93a8-7d299cf42cbb/46c74a2d-6473-436e-94d7-8103b93da0aa/Realistic_photo_of_an_ordinary_Pakistani_family_of_anonymous.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzg1ZWVlYzg4MzNhYmQ3NiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDcxNDMxMn0.NkVDR86AeKxMDc0mqiqQkHLKVF8dLeItF8ynvpAUUR8",
+    "head1": "Wirasat Ka Haq",
+    "head2_hl": "Khatam Nahi",
+    "head2": "Hota",
+    "kicker": "Supreme Court Ka Faisla",
+    "desc": "Maalik ki wafat par waris ka haq foran shuru hota hai.",
+    "source": "Express Tribune",
+    "date": "13 NOV 2026"
+  },
+  "caption": "Wirasat ka haq waqt guzarne se khatam nahi hota! ⚖️\nExpress Tribune ke mutabiq Supreme Court ne Friday ko faisla diya ke jaidad ke maalik ki wafat hote hi waris ka wirasat ka haq shuru ho jata hai, aur yeh haq waqt guzarne se khatam nahi hota. Paanch judges ke bench ka yeh faisla Justice Shahid Waheed ne likha. Court ne kaha ke jaidad ka intiqal karne se pehle NADRA ka Family Registration Certificate liya jaye, aur har waris ko, khawateen samait, un ke apne pate par likhit notice diya jaye.\nKya is faisle se khawateen ko wirasat mein un ka haq milega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SupremeCourt #Inheritance #WomenRights #PakistanNews",
+  "tiktok_title": "Supreme Court: wirasat ka haq waqt guzarne se khatam nahi hota",
+  "publish": {
+    "slot": "2026-11-13T22:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "zoom"
+  },
+  "music": {
+    "audioId": "1197857668796525",
+    "label": "Carry On (Instrumental) - Giulio Cercato"
+  },
+  "ai_generated": true
+}
