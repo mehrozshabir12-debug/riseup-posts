@@ -1,0 +1,77 @@
+{
+ "id": "2026-11-13-pakistan-q1-fiscal-surplus-4-55bn",
+ "revision": 1,
+ "request": "requests/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn.json",
+ "type": "news",
+ "headline": "Pakistan posted a fiscal surplus of Rs1.274 trillion ($4.55 billion), 0.9% of GDP, in July-September FY2026-27, its third straight first-quarter surplus, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-13T23:00:00+05:00",
+ "target_slot": "2026-11-13T23:00:00+05:00",
+ "riseup_day": "2026-11-13",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn.jpg",
+  "story": "posts/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn-story.jpg",
+  "reel": "posts/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 718326423,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "dry_run",
+  "payloads": {
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-13T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan ki aamdani kharchon se zyada! 📈\nArab News ke mutabiq Pakistan ne is maali saal ke pehle teen mahine (July se September) mein Rs1.274 trillion ($4.55 billion) ka fiscal surplus hasil kiya, jo GDP ka 0.9% hai. Yeh lagatar teesra saal hai ke pehle teen mahine surplus mein rahe, jabke is se pehle 23 saal tak in mahinon mein khasara hota raha. Is dafa surplus pichle do saalon se kam hai. Wazir-e-Khazana ke mushir Khurram Schehzad ne Friday ko X par yeh figures share kiye.\nKya is ka faida aam aadmi tak pohanchega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanEconomy #FiscalSurplus #IMF #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-pakistan-q1-fiscal-surplus-4-55bn-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "757785052896581",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "dry_run_ready",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-13T22:09:35+05:00"
+}
