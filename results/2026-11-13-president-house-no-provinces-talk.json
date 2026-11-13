@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-13-president-house-no-provinces-talk",
+ "revision": 1,
+ "request": "requests/2026-11-13-president-house-no-provinces-talk.json",
+ "type": "news",
+ "headline": "The President House said on Friday that matters related to provinces did not come under discussion during President Asif Ali Zardari's Thursday meeting with Interior Minister Mohsin Naqvi, which focused on national security and the regional situation, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-13T23:00:00+05:00",
+ "target_slot": "2026-11-13T23:00:00+05:00",
+ "riseup_day": "2026-11-13",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-president-house-no-provinces-talk.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-president-house-no-provinces-talk-story.jpg",
+  "reel": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-president-house-no-provinces-talk.mp4"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-13-president-house-no-provinces-talk.jpg",
+  "story": "posts/2026-11-13-president-house-no-provinces-talk-story.jpg",
+  "reel": "posts/2026-11-13-president-house-no-provinces-talk.mp4",
+  "reel_kind": "zoom"
+ },
+ "render": {
+  "reel": {
+   "type": "zoom",
+   "duration": 8.0
+  }
+ },
+ "card_seed": 353098699,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-13T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "President House: no talks on new provinces in Zardari-Naqvi meeting!\nAccording to Dawn, the President House said on Friday that matters related to provinces did not come under discussion when President Asif Ali Zardari met Interior Minister Mohsin Naqvi on Thursday. It said the meeting focused on \"national security and the regional situation\". Media reports had claimed the two discussed new provinces at a meeting in Nawabshah on Thursday night. Naqvi has suggested a referendum on new provinces, while the PPP strongly opposes them.\nWhat do you think about the debate on new provinces? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #NewProvinces #Zardari #MohsinNaqvi #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-president-house-no-provinces-talk.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "President House: no talks on new provinces in Zardari-Naqvi meeting",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "reel": {
+    "publicationDate": {
+     "dateTime": "2026-11-13T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "President House: no talks on new provinces in Zardari-Naqvi meeting!\nAccording to Dawn, the President House said on Friday that matters related to provinces did not come under discussion when President Asif Ali Zardari met Interior Minister Mohsin Naqvi on Thursday. It said the meeting focused on \"national security and the regional situation\". Media reports had claimed the two discussed new provinces at a meeting in Nawabshah on Thursday night. Naqvi has suggested a referendum on new provinces, while the PPP strongly opposes them.\nWhat do you think about the debate on new provinces? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #NewProvinces #Zardari #MohsinNaqvi #PakistanNews",
+    "providers": [
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-president-house-no-provinces-talk.mp4"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-president-house-no-provinces-talk-story.jpg",
+    "instagramData": {
+     "type": "REEL",
+     "isAiGenerated": true,
+     "showReelOnFeed": true,
+     "audioConfiguration": {
+      "audioId": "757785052896581",
+      "audioVolume": 100,
+      "videoVolume": 0
+     }
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-13T23:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-president-house-no-provinces-talk-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-13T22:51:38+05:00"
+}
