@@ -1,1 +1,80 @@
-{"slot": "2026-11-13T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-13T17:48:53+05:00"}
+{
+  "slot": "2026-11-13T18:00:00+05:00",
+  "riseup_day": "2026-11-13",
+  "run_started_pkt": "2026-11-13T17:48:53+05:00",
+  "run_finished_pkt": "2026-11-13T17:55:04+05:00",
+  "test_mode": false,
+  "language": "Roman Urdu",
+  "outcome": "scheduled",
+  "story": {
+    "headline": "The first Pakistan-Sri Lanka Test in Rawalpindi ended in a draw on day five with Pakistan 284-8, a lead of 272.",
+    "sources": [
+      {
+        "outlet": "Dawn (AFP)",
+        "url": "https://www.dawn.com/news/2044279/pakistan-bad-weather-hold-sri-lanka-to-draw-in-first-test",
+        "published_at": "2026-11-13T17:25:19+05:00"
+      }
+    ]
+  },
+  "freshness_window": "2h",
+  "request_id": "2026-11-13-rawalpindi-test-draw-pak-sl",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-13-rawalpindi-test-draw-pak-sl.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "model": "nano-banana-2-lite",
+      "task": "7b992237-714b-4e93-bb5f-787ed320b737"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 426931426,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7101683667653840720",
+      "facebook_type": "POST",
+      "networks": {
+        "facebook": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "reel": {
+      "id": 426931889,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6551289658820676656",
+      "networks": {
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 426931939,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5669003792930485482",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "Heros Journey (Instrumental) - Abby Posner (1274149560124013, audioType music, displayArtist Abby Posner)",
+  "stages": {
+    "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all windows 11 Nov 17:00 .. 14 Nov 06:00 read OK; slot 18:00 free (Basharat collab reels at 17:36 and 17:50, untouched); RiseUp day 13 Nov before this run: 1 news post, 3 TikTok posts",
+    "previous_slot_check": "No post at 16:00 (16:00 run did not post). Last news slot 10:00 13 Nov (Ivanhoe/Mari MoU): FB POST, TikTok, IG Reel, FB+IG Story all PUBLISHED.",
+    "news_search": "Picked Dawn (AFP) PAK v SL first Test draw, updated 17:25 PKT with final result (new development vs 12 Nov Saqib Khan 7-wicket post). Other candidates in 3h window: Islamabad cashless city by Dec 31 (Brecorder 15:53), IHC suspends Islamabad LG poll schedule (Tribune 15:58).",
+    "verification": "Single approved outlet Dawn, AFP byline; published 14:24:40, modified 17:25:19 +05:00 from article meta. Scores, names, 117 of 360 overs lost, next Test Tuesday checked against article.",
+    "image": "Runway nano-banana-2-lite 4:3, one image, no text/logos/identifiable people",
+    "publish": "workflow render awaiting_publish; feed card compared with approved 2026-11-13 Ivanhoe card: identical layout; reel 8 s 1080x1920 checked. Feed FB POST + TikTok photo 18:00, IG zoom Reel with music 18:00, FB+IG Story 18:05."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Islamabad to become first cashless city by Dec 31 (Brecorder 15:53)",
+      "reason": "older than the 2h-window cricket result"
+    },
+    {
+      "headline": "IHC suspends Islamabad local govt election schedule (Tribune 15:58)",
+      "reason": "older than the 2h-window cricket result"
+    },
+    {
+      "headline": "Army says 74 militants killed in raids (Al Jazeera/Arab News)",
+      "reason": "violence; less suited, cricket result fresher"
+    }
+  ],
+  "errors": []
+}
