@@ -10196,5 +10196,23 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-14",
+  "kind": "drama_clip",
+  "headline": "Abubakar Ko Cancer! Zaryab Ko Sach Pata Chal Gaya",
+  "drama": "Dar-e-Nijat (ARY Digital)",
+  "language": "Roman Urdu",
+  "video": "posts/2026-11-14-dar-e-nijat-abubakar-cancer.mp4",
+  "tiktok": true,
+  "scheduled": "2026-11-14 18:53 PKT",
+  "metricool_ids": {
+   "reel": 428011502
+  },
+  "networks": {
+   "facebook": "POST",
+   "instagram": "REEL",
+   "tiktok": "VIDEO"
+  }
  }
 ]
