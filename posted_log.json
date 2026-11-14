@@ -10417,5 +10417,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T23:00:00+05:00",
+  "request_id": "2026-11-14-musadik-malik-sco-new-delhi",
+  "layout": "bold",
+  "headline": "Pakistan will send Climate Change Minister Musadik Malik to New Delhi for the SCO Civilizational Dialogue on November 20 to 22, the foreign ministry said on Saturday, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-to-send-climate-minister-to-india-for-sco-cultural-dialogue-next-week-3007017",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-to-send-climate-minister-to-india-for-sco-cultural-dialogue-next-week-3007017",
+    "published_at": "2026-11-14T17:36:44+05:00"
+   }
+  ],
+  "published": "2026-11-14T17:36:44+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 123735547,
+  "image": "posts/2026-11-14-musadik-malik-sco-new-delhi.jpg",
+  "story": "posts/2026-11-14-musadik-malik-sco-new-delhi-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-14 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
