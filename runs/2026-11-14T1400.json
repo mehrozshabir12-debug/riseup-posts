@@ -1,1 +1,70 @@
-{"slot": "2026-11-14T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T13:46:39+05:00"}
+{
+ "slot": "2026-11-14T14:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T13:46:39+05:00",
+ "run_finished_pkt": "2026-11-14T13:50:12+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Pakistan will host the 30th ECO Council of Ministers meeting in Islamabad on November 15-16, chaired by Deputy PM and FM Ishaq Dar, the Foreign Office said on Saturday (Dawn).",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16",
+    "published_at": "2026-11-14T10:53:55+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-eco-council-ministers-islamabad",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-eco-council-ministers-islamabad.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 427837366,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3830079797910223171",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 427837372,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7230608997933364112",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none (no Reel; owner rule 14 Nov 2026)",
+ "stages": {
+  "metricool_read": "blogId 7305396 Asia/Karachi. Slot window 13:00-15:00 empty (slot free). History 12 Nov 13:00 .. 15 Nov 02:00 read in windows, all succeeded. RiseUp day 14 Nov before this: 2 news posts (10:00, 12:00), 2 TikTok.",
+  "previous_slot_check": "12:00 slot (posted 12:05): feed 427784969 FB+IG+TikTok PUBLISHED, Story 427784978 FB+IG PUBLISHED.",
+  "news_search": "Dawn and Arab News searched. U-19 Asia Cup final Pakistan vs India (Arab News 09:36) rejected: match in progress at run time, preview would be stale/result unknown. Fiscal surplus (Arab News 13 Nov 20:22) and petrol Rs2 cut (Dawn 13 Nov 22:49) older than 8h. Bannu checkpost attack skipped (violence). Chose ECO Council of Ministers meeting (Dawn 10:53, 4h window). Language English (policy/international story).",
+  "verification": "Single approved outlet Dawn, metadata published 2026-11-14T10:53:55+05:00; names, numbers, dates (30th meeting, Nov 15-16, Ishaq Dar, chairmanship 2026-27, theme) checked against article.",
+  "image": "Runway nano-banana-2-lite, 1 image, task cf97881e-934b-4206-a7c7-0a789a53ae5b: conference hall, plain flags, anonymous delegates from behind, no readable text/logos. Credits 1083 after.",
+  "publish": "GitHub workflow rendered card + story (awaiting_publish, no errors/warnings). Card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout (logo, headline, yellow box, kicker, desc, source line, icons). Feed FB POST + IG feed POST (isAiGenerated false per owner override) + TikTok photo at 14:00, FB+IG Story at 14:00, all PENDING. No Reel."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "U-19 Asia Cup final: Pakistan vs India in Muscat",
+   "reason": "match live during run; result unknown"
+  },
+  {
+   "headline": "Pakistan posts Q1 fiscal surplus of $4.55bn",
+   "reason": "published 13 Nov 20:22, older than 8h"
+  },
+  {
+   "headline": "Petrol price cut by Rs2",
+   "reason": "published 13 Nov 22:49, older than 8h"
+  }
+ ],
+ "errors": []
+}
