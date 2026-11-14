@@ -1,1 +1,70 @@
-{"slot": "2026-11-14T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T11:46:35+05:00"}
+{
+ "slot": "2026-11-14T12:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T11:46:35+05:00",
+ "run_finished_pkt": "2026-11-14T11:59:49+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "8h",
+ "story": {
+  "headline": "Heavy snowfall at Khunjerab Pass on the Pakistan-China border stranded passengers, tourists, vehicles and dozens of cargo containers on Friday, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044384/snowfall-strands-passengers-cargo-at-khunjerab",
+    "published_at": "2026-11-14T05:26:13+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-khunjerab-snowfall-stranded",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-khunjerab-snowfall-stranded.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 427784969,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8011244368576691020",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 427784978,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4331421775676617853",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none (no Reel; owner rule 14 Nov 2026)",
+ "stages": {
+  "metricool_read": "blogId 7305396 Asia/Karachi. Slot window 11:00-13:00 empty (slot free). History 12 Nov 11:00 .. 15 Nov 00:00 read in windows, all succeeded. RiseUp day 14 Nov before this: 1 news post (10:00), 1 TikTok.",
+  "previous_slot_check": "10:00 feed 427736174 FB+TikTok PUBLISHED, IG Reel 427736190 PUBLISHED, Story 427736202 FB+IG PUBLISHED.",
+  "news_search": "Dawn latest-news read (newest 10:31). 2h: Pakistan urges Gulf de-escalation at UN (10:20) rejected: Pakistan's remarks dated 12 Nov per caption (old event, date conflict) and overlaps earlier Houthi/Saudi coverage. Sponge park Karachi (09:32 update) could not be opened (fetch permission). Conductor punished in Lahore: event and dismissal Friday 13 Nov, first report likely older. Chose Khunjerab snowfall (Dawn 05:26 PKT, 8h window), weather story for ordinary people. Language Roman Urdu.",
+  "verification": "Single approved outlet Dawn (Jamil Nagri), metadata published 2026-11-14T05:26:13+05:00; all names, numbers and places checked against the article.",
+  "image": "Runway nano-banana-2-lite, 1 image, task 264692e1-7427-4d20-b7e9-14b69012ef56: snowy mountain road with trucks and anonymous people, no readable text/logos. Credits 1087 after.",
+  "publish": "GitHub workflow rendered card + story (awaiting_publish, no errors/warnings). Card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout. NOW was past T-5 so posted at 12:05: feed FB POST + IG feed POST (isAiGenerated false per owner override) + TikTok photo, and FB+IG Story at 12:05, all PENDING. No Reel."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan urges Gulf de-escalation at UN",
+   "reason": "remarks dated 12 Nov; not fresh"
+  },
+  {
+   "headline": "Conductor punished for pushing woman off bus in Lahore",
+   "reason": "event and action on Friday; first report likely older than window"
+  },
+  {
+   "headline": "Sindh to replace government petrol vehicles with EVs",
+   "reason": "same 8h window; snowfall more relevant to travellers"
+  }
+ ],
+ "errors": []
+}
