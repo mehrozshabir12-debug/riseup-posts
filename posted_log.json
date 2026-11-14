@@ -10002,10 +10002,27 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "zoom",
-  "scheduled": "2026-11-14 10:00 PKT",
+  "scheduled": "2026-11-14T10:00:00+05:00",
   "music": "Cafe Lovers - Global Genius",
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {},
-  "video": "posts/2026-11-14-pmif-13-mining-deals-signed.mp4"
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 427736174,
+   "reel": 427736190,
+   "story": 427736202
+  },
+  "video": "posts/2026-11-14-pmif-13-mining-deals-signed.mp4",
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "reel": {
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
