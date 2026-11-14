@@ -1,1 +1,73 @@
-{"slot": "2026-11-14T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T21:46:44+05:00"}
+{
+ "slot": "2026-11-14T22:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T21:46:44+05:00",
+ "run_finished_pkt": "2026-11-14T21:51:39+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Petrol fell Rs62.66 per litre to Rs330 between October 14 and November 14, but consumers and traders say household costs have not eased, with 29 of 51 SPI items rising, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://arabnews.pk/pakistan/pakistan-fuel-price-cuts-fail-to-ease-household-costs-consumers-say-3007040",
+    "published_at": "2026-11-14T21:29:37+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-fuel-cuts-no-household-relief",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-fuel-cuts-no-household-relief.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428159565,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4502019662587576817",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428159576,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7011052716708114764",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB+IG+TikTok connected; all windows 2026-11-12T21:00..2026-11-15T10:00 read; slot 22:00 free; 8 news posts today before this one (cap 10); TikTok 8/8 today -> no TikTok",
+  "previous_slot_check": "21:00 feed 428110273 FB+IG PUBLISHED; story 428110285 FB+IG PUBLISHED",
+  "news_search": "Arab News fuel-cuts/household-costs story (21:29 PKT) in 2h window, chosen; not a duplicate of last 48h (IMF fuel subsidy post is a different event)",
+  "verification": "Arab News article read: published/modified 2026-11-14T16:29:37Z = 21:29:37 PKT, byline Waseem Abbasi; petrol Rs392.66 (Oct 14) -> Rs330 (Nov 14), -Rs62.66; diesel Rs396.82 -> Rs360, -Rs36.82; SPI 29 of 51 items up; tomatoes nearly 82%, LPG 11.67kg +26.4%, chicken +9.6%; Energy Minister Ali Pervez Malik to raise fares with chief ministers",
+  "image": "Runway nano-banana-2-lite, 1 image, ok (credits remaining ~1059)",
+  "publish": "workflow awaiting_publish; card compared with approved 2026-11-14 Mir Raza card: same layout; feed + story scheduled, PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan, Uzbekistan defence cooperation during Air Chief visit (Tribune 20:34)",
+   "reason": "less important for ordinary people than fuel/prices story"
+  },
+  {
+   "headline": "President Zardari, PM Shehbaz discuss political, economic, security situation (Dawn 17:45)",
+   "reason": "outside 2h window; 2h story qualified"
+  },
+  {
+   "headline": "Smog: Punjab pollution squad douses stubble fires (Tribune/Reuters 17:43)",
+   "reason": "outside 2h window"
+  },
+  {
+   "headline": "Mustafa Kamal: new provinces a need (Tribune 17:28)",
+   "reason": "outside 2h window; new-provinces topic posted in last 48h"
+  }
+ ],
+ "errors": []
+}
