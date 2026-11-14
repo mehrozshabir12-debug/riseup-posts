@@ -9977,5 +9977,35 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T10:00:00+05:00",
+  "request_id": "2026-11-14-pmif-13-mining-deals-signed",
+  "layout": "bold",
+  "headline": "Pakistan signed 13 agreements and MoUs on mineral exploration, investment, geological surveys and existing mining licences during the two-day Pakistan Minerals Investment Forum that ended in Islamabad on Friday, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-signs-13-mining-deals-at-investment-forum-says-foreign-interest-growing-3006993",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-signs-13-mining-deals-at-investment-forum-says-foreign-interest-growing-3006993",
+    "published_at": "2026-11-14T08:51:50+05:00"
+   }
+  ],
+  "published": "2026-11-14T08:51:50+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 411554467,
+  "image": "posts/2026-11-14-pmif-13-mining-deals-signed.jpg",
+  "story": "posts/2026-11-14-pmif-13-mining-deals-signed-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "zoom",
+  "scheduled": "2026-11-14 10:00 PKT",
+  "music": "Cafe Lovers - Global Genius",
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {},
+  "video": "posts/2026-11-14-pmif-13-mining-deals-signed.mp4"
  }
 ]
