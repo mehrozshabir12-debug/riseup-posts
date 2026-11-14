@@ -10273,5 +10273,23 @@
    "instagram": "REEL",
    "tiktok": "VIDEO"
   }
+ },
+ {
+  "date": "2026-11-14",
+  "kind": "podcast_clip",
+  "headline": "Ducky Bhai Ka Best Friend Kaun Hai?",
+  "credit": "BluntLine",
+  "language": "Roman Urdu",
+  "video": "posts/2026-11-14-ducky-bhai-best-friend.mp4",
+  "tiktok": true,
+  "scheduled": "2026-11-14 19:27 PKT",
+  "metricool_ids": {
+   "reel": 428043082
+  },
+  "networks": {
+   "facebook": "POST",
+   "instagram": "REEL",
+   "tiktok": "VIDEO"
+  }
  }
 ]
