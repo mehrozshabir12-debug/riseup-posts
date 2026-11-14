@@ -10333,5 +10333,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T21:00:00+05:00",
+  "request_id": "2026-11-14-mir-raza-case-sho-dismissed",
+  "layout": "bold",
+  "headline": "Former Gulistan-i-Jauhar SHO Kamran Qureshi was dismissed from service on Saturday for misconduct in the Mir Raza Ali murder case, including failing to secure the crime scene, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044503/mir-raza-murder-case-ex-sho-dismissed-over-misconduct-mishandling-of-evidence",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044503/mir-raza-murder-case-ex-sho-dismissed-over-misconduct-mishandling-of-evidence",
+    "published_at": "2026-11-14T20:21:28+05:00"
+   }
+  ],
+  "published": "2026-11-14T20:21:28+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 469971897,
+  "image": "posts/2026-11-14-mir-raza-case-sho-dismissed.jpg",
+  "story": "posts/2026-11-14-mir-raza-case-sho-dismissed-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-14 21:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
