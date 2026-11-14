@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-14-imf-phase-out-fuel-subsidy",
+  "type": "news",
+  "headline": "The IMF told Arab News on Saturday that Pakistan should phase out its fuel subsidy scheme for motorcycle, rickshaw and small-car users, and that any future fuel support should be limited, time-bound and targeted.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/imf-reiterates-pakistan-should-phase-out-fuel-subsidy-says-future-support-should-be-limited-3007005",
+      "published_at": "2026-11-14T13:11:35+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/ff65b4b5-419d-4322-a74d-1ec3b61cb85b/4f3aa910-8cfa-4391-ae20-29b2d47b0fb0/Realistic_news_photo_of_a_busy_petrol_station_in_a_Pakistani.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTJjMDY3ZDVhZDI2NjEyZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDgwNjQ4NX0.Y2z9QbjdKd_T_n9CTktPLwMmimZvX-E2KSwXYK1WIzA",
+    "head1": "IMF Asks Pakistan",
+    "head2_hl": "End Fuel",
+    "head2": "Subsidy",
+    "kicker": "Future Support Should Be Limited",
+    "desc": "Bikes and rickshaws get a Rs500 weekly petrol token",
+    "source": "Arab News",
+    "date": "14 NOV 2026"
+  },
+  "caption": "IMF says Pakistan should end its fuel subsidy! ⛽\nAccording to Arab News, an IMF spokesperson said on Saturday that Pakistan should phase out its fuel subsidy scheme because it is too broadly targeted. Launched in September, the scheme gives motorcycle and rickshaw users a weekly petrol token worth Rs500, and gives small-car owners a Rs100 per litre discount on up to 10 litres every 10 days. The IMF said any future fuel support should be limited, time-bound and targeted through existing social assistance programmes.\nShould the fuel subsidy continue? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IMF #FuelSubsidy #PetrolPrice #PakistanNews",
+  "tiktok_title": "IMF says Pakistan should phase out fuel subsidy for bikes, rickshaws and small cars",
+  "publish": {
+    "slot": "2026-11-14T19:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
