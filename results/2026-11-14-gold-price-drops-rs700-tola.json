@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-14-gold-price-drops-rs700-tola",
+ "revision": 1,
+ "request": "requests/2026-11-14-gold-price-drops-rs700-tola.json",
+ "type": "news",
+ "headline": "Gold price in Pakistan fell by Rs700 per tola on Saturday to Rs410,936, and 10 grams fell by Rs600 to Rs352,311, according to APGJSA rates reported by Business Recorder.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-14T18:00:00+05:00",
+ "target_slot": "2026-11-14T18:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-gold-price-drops-rs700-tola.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-gold-price-drops-rs700-tola-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-14-gold-price-drops-rs700-tola.jpg",
+  "story": "posts/2026-11-14-gold-price-drops-rs700-tola-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 521441042,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Sone ki qeemat mein Rs700 fi tola kami! 💰\nBusiness Recorder ke mutabiq Saturday ko Pakistan mein sone ki qeemat Rs700 kam ho kar Rs410,936 fi tola ho gayi. 10 gram sona Rs600 sasta ho kar Rs352,311 ka ho gaya. Yeh rates All-Pakistan Gems and Jewellers Sarafa Association (APGJSA) ne jaari kiye. Aalami market mein sona $7 kam ho kar $3,884 fi ounce par aa gaya.\nKya aap abhi sona khareedenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #GoldRate #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-gold-price-drops-rs700-tola.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Sone ki qeemat Rs700 fi tola kam, ab Rs410,936",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-gold-price-drops-rs700-tola-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-14T17:49:57+05:00"
+}
