@@ -1,1 +1,73 @@
-{"slot": "2026-11-14T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T20:49:39+05:00"}
+{
+ "slot": "2026-11-14T21:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T20:49:39+05:00",
+ "run_finished_pkt": "2026-11-14T20:53:26+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Former Gulistan-i-Jauhar SHO Kamran Qureshi was dismissed from service on Saturday for misconduct in the Mir Raza Ali murder case, including failing to secure the crime scene, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044503/mir-raza-murder-case-ex-sho-dismissed-over-misconduct-mishandling-of-evidence",
+    "published_at": "2026-11-14T20:21:28+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-mir-raza-case-sho-dismissed",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-mir-raza-case-sho-dismissed.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428110273,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3208135470483027749",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428110285,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7437851376087288472",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: all windows 2026-11-12T20:00..2026-11-15T09:00 read; slot 21:00 free; 7 news posts today before this one (cap 10); TikTok 8/8 today -> no TikTok",
+  "previous_slot_check": "20:00 feed 428061957 FB+IG PUBLISHED; story 428061973 FB+IG PUBLISHED",
+  "news_search": "Dawn Mir Raza case SHO dismissal (20:21 PKT) is in the 2h window and chosen; not a duplicate of last 48h",
+  "verification": "Dawn article read: published/updated 20:21:28+05:00; SHO Kamran Qureshi dismissed 14 Nov for misconduct (crime scene not secured, Crime Scene Unit not called, no reply to show-cause); Mir Raza Ali 25, went missing July 28; judicial commission concluded murder",
+  "image": "Runway nano-banana-2-lite, 1 image, ok (credits remaining ~1063)",
+  "publish": "workflow awaiting_publish; card compared with approved 2026-11-14 NCCIA card: same layout; feed + story scheduled, PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "India beat Pakistan by one wicket in U-19 Asia Cup final in Muscat (Dawn 18:33)",
+   "reason": "3h window (a 2h story qualified); also U-19 players are possible minors (earlier runs skipped U-19 stories for this)"
+  },
+  {
+   "headline": "Achakzai, Abbas move FCC for release of Sohail Afridi and detained lawmakers (Dawn 16:54)",
+   "reason": "older than 2h window; political"
+  },
+  {
+   "headline": "Musadik Malik to represent Pakistan at SCO dialogue in New Delhi",
+   "reason": "published before the 2h window"
+  },
+  {
+   "headline": "ISPR: soldiers martyred, terrorists killed in KP/Balochistan operations",
+   "reason": "violence / casualty figures"
+  }
+ ],
+ "errors": []
+}
