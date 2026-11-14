@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-14-fuel-cuts-no-household-relief",
+ "revision": 1,
+ "request": "requests/2026-11-14-fuel-cuts-no-household-relief.json",
+ "type": "news",
+ "headline": "Petrol fell Rs62.66 per litre to Rs330 between October 14 and November 14, but consumers and traders say household costs have not eased, with 29 of 51 SPI items rising, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 8 TikTok posts on RiseUp day 2026-11-14; allowed by 22:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-14T22:00:00+05:00",
+ "target_slot": "2026-11-14T22:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-fuel-cuts-no-household-relief.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-fuel-cuts-no-household-relief-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-14-fuel-cuts-no-household-relief.jpg",
+  "story": "posts/2026-11-14-fuel-cuts-no-household-relief-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 360409265,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Petrol sasta hua, lekin ghar ka kharcha kam kyun nahi hua? ⛽\nArab News ke mutabiq 14 October se 14 November tak petrol Rs62.66 fi litre sasta ho kar Rs392.66 se Rs330 par aa gaya, aur diesel Rs36.82 kam ho kar Rs360 fi litre ho gaya. Lekin Pakistan Bureau of Statistics (PBS) ke Sensitive Price Indicator ke mutabiq 51 cheezon mein se 29 ki qeemat barh gayi. Tamatar taqreeban 82% mehnge hue, LPG cylinder 26.4% aur chicken 9.6% mehnga hua. Musafiron ka kehna hai ke bus ke kiraye bhi kam nahi hue. Energy Minister Ali Pervez Malik ne Arab News ko bataya ke woh kirayon ka masla chief ministers ke saath uthayenge.\nKya aap ke ilaqe mein cheezein ya kiraye saste hue? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #Mehngai #FuelPrice #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-fuel-cuts-no-household-relief.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-fuel-cuts-no-household-relief-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-14T21:50:55+05:00"
+}

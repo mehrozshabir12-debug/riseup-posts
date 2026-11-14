@@ -10375,5 +10375,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T22:00:00+05:00",
+  "request_id": "2026-11-14-fuel-cuts-no-household-relief",
+  "layout": "bold",
+  "headline": "Petrol fell Rs62.66 per litre to Rs330 between October 14 and November 14, but consumers and traders say household costs have not eased, with 29 of 51 SPI items rising, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://arabnews.pk/pakistan/pakistan-fuel-price-cuts-fail-to-ease-household-costs-consumers-say-3007040",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://arabnews.pk/pakistan/pakistan-fuel-price-cuts-fail-to-ease-household-costs-consumers-say-3007040",
+    "published_at": "2026-11-14T21:29:37+05:00"
+   }
+  ],
+  "published": "2026-11-14T21:29:37+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 360409265,
+  "image": "posts/2026-11-14-fuel-cuts-no-household-relief.jpg",
+  "story": "posts/2026-11-14-fuel-cuts-no-household-relief-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-14 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
