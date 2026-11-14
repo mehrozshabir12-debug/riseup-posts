@@ -10110,5 +10110,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T16:00:00+05:00",
+  "request_id": "2026-11-14-kp-gold-mining-leases-suspended",
+  "layout": "bold",
+  "headline": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi said on Saturday in Peshawar that all gold mining leases in the province have been suspended, contractors have been told to leave within a week and a new gold mining policy will come within three weeks, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2640284/kundi-says-illegal-gold-mining-in-kohat-funded-terrorism-names-politicians",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2640284/kundi-says-illegal-gold-mining-in-kohat-funded-terrorism-names-politicians",
+    "published_at": "2026-11-14T15:14:05+05:00"
+   }
+  ],
+  "published": "2026-11-14T15:14:05+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 730054933,
+  "image": "posts/2026-11-14-kp-gold-mining-leases-suspended.jpg",
+  "story": "posts/2026-11-14-kp-gold-mining-leases-suspended-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-14 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
