@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-14-kp-gold-mining-leases-suspended",
+  "type": "news",
+  "headline": "Khyber Pakhtunkhwa Governor Faisal Karim Kundi said on Saturday in Peshawar that all gold mining leases in the province have been suspended, contractors have been told to leave within a week and a new gold mining policy will come within three weeks, Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2640284/kundi-says-illegal-gold-mining-in-kohat-funded-terrorism-names-politicians",
+      "published_at": "2026-11-14T15:14:05+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/2eee4c67-a7f3-45d9-aca3-5667eb2987c7/d3c5a4f7-3cac-4f3e-9ad8-5f1902f9b08b/Realistic_documentary_photo_of_a_quiet_riverside_gold_mining.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNmUzZDNkOTc3ZGM4NTU0OSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDgxNjAyM30.kcEEMMshWt8rkosjJq6GDUhngCOAORupMIrfhkR2BIs",
+    "head1": "KP Mein Gold Mining",
+    "head2_hl": "Leases",
+    "head2": "Muattal",
+    "kicker": "Nayi Policy 3 Hafton Mein",
+    "desc": "Contractors ko ek hafte mein province chhorne ka hukm",
+    "source": "Express Tribune",
+    "date": "14 NOV 2026"
+  },
+  "caption": "KP mein gold mining ke tamam leases muattal! ⛏️\nExpress Tribune ke mutabiq Khyber Pakhtunkhwa (KP) ke Governor Faisal Karim Kundi ne Saturday ko Peshawar mein press conference mein bataya ke province mein gold mining ke tamam leases muattal kar diye gaye hain. Contractors ko ek hafte ke andar province chhorne ka kaha gaya hai, aur teen hafton mein gold mining ki nayi policy layi jayegi. Governor ka kehna hai ke Kohat mein ghair qanooni gold mining ka paisa dehshatgardon tak pohanch raha tha.\nKya nayi policy se mining ka nizam behtar hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #KhyberPakhtunkhwa #GoldMining #Kohat #PakistanNews",
+  "tiktok_title": "KP mein gold mining ke tamam leases muattal, nayi policy 3 hafton mein",
+  "publish": {
+    "slot": "2026-11-14T16:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
