@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-14-nccia-illegal-call-centres-warning",
+ "revision": 1,
+ "request": "requests/2026-11-14-nccia-illegal-call-centres-warning.json",
+ "type": "news",
+ "headline": "The NCCIA on Saturday warned young people against joining illegal call centres for high salaries, after raids in Islamabad and Rawalpindi in which 143 and 11 people were arrested.",
+ "warnings": [
+  "TikTok skipped: 8 TikTok posts on RiseUp day 2026-11-14; allowed by 20:00 = 6 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-14T20:00:00+05:00",
+ "target_slot": "2026-11-14T20:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-nccia-illegal-call-centres-warning.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-nccia-illegal-call-centres-warning-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-14-nccia-illegal-call-centres-warning.jpg",
+  "story": "posts/2026-11-14-nccia-illegal-call-centres-warning-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 878505353,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Zyada tankhwah ke laalach mein illegal call centre mein naukri na karein! ⚠️\nDawn ke mutabiq NCCIA ne Saturday ko Islamabad mein press conference mein naujawanon ko khabardar kiya. Pichle teen dinon mein Islamabad aur Rawalpindi mein do call centres par chhape mare gaye. Islamabad mein 143 aur Rawalpindi mein 11 log giraftar hue. NCCIA ke Additional Director Muhammad Shoaib Khan ne kaha ke naukri se pehle company se poochein ke woh kahan registered hai aur us ke paas SECP samait kaun si approvals hain. Unhon ne kaha ke giraftari par FIR naujawan ke record ka hissa ban jati hai.\nKya aap naukri se pehle company ki tehqeeq karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #NCCIA #CallCentre #Jobs #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-nccia-illegal-call-centres-warning.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-nccia-illegal-call-centres-warning-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-14T19:49:21+05:00"
+}

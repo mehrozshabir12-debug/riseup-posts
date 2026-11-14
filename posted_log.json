@@ -10291,5 +10291,34 @@
    "instagram": "REEL",
    "tiktok": "VIDEO"
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T20:00:00+05:00",
+  "request_id": "2026-11-14-nccia-illegal-call-centres-warning",
+  "layout": "bold",
+  "headline": "The NCCIA on Saturday warned young people against joining illegal call centres for high salaries, after raids in Islamabad and Rawalpindi in which 143 and 11 people were arrested.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044498/nccia-warns-youth-against-joining-illegal-call-centres-for-lucrative-salaries",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044498/nccia-warns-youth-against-joining-illegal-call-centres-for-lucrative-salaries",
+    "published_at": "2026-11-14T18:53:05+05:00"
+   }
+  ],
+  "published": "2026-11-14T18:53:05+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 878505353,
+  "image": "posts/2026-11-14-nccia-illegal-call-centres-warning.jpg",
+  "story": "posts/2026-11-14-nccia-illegal-call-centres-warning-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-14 20:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
