@@ -1,1 +1,69 @@
-{"slot": "2026-11-14T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T22:46:32+05:00"}
+{
+ "slot": "2026-11-14T23:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T22:46:32+05:00",
+ "run_finished_pkt": "2026-11-14T22:50:39+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "6h",
+ "story": {
+  "headline": "Pakistan will send Climate Change Minister Musadik Malik to New Delhi for the SCO Civilizational Dialogue on November 20 to 22, the foreign ministry said on Saturday, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-to-send-climate-minister-to-india-for-sco-cultural-dialogue-next-week-3007017",
+    "published_at": "2026-11-14T17:36:44+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-musadik-malik-sco-new-delhi",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-musadik-malik-sco-new-delhi.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428213433,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3324749944912037279",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428213443,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4935229957493113286",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: all windows 2026-11-12T22:00..2026-11-15T11:00 read; slot 23:00 free; 9 news posts today before this one (cap 10, this is #10); TikTok 8/8 today -> no TikTok",
+  "previous_slot_check": "22:00 feed 428159565 FB+IG PUBLISHED; story 428159576 FB+IG PUBLISHED",
+  "news_search": "Dawn/Tribune/Arab News/Geo/Brecorder searched; nothing newer and unposted within 2-4h; Musadik Malik SCO New Delhi visit (FO statement Saturday; Tribune 17:20, Arab News 17:36 PKT) in 6h window, not a duplicate",
+  "verification": "Arab News article read: published/modified 2026-11-14T12:36:44Z = 17:36:44 PKT; Musadik Malik, Climate Change Minister; SCO Civilizational Dialogue, New Delhi, 20-22 Nov 2026; strained ties since May 2025 clash; no bilateral talks announced. Facts match Tribune (2026-11-14T12:20:43Z).",
+  "image": "Runway nano-banana-2-lite, 1 image, ok (credits remaining ~1055 before settle)",
+  "publish": "workflow awaiting_publish; card compared with approved 2026-11-14 ECO card: same layout; feed + story scheduled, PENDING; no Reel per owner rule"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Major among 4 troops martyred, 24 terrorists killed in KP/Balochistan ops (ISPR)",
+   "reason": "casualty/violence story; prefer non-violent story"
+  },
+  {
+   "headline": "Pakistan, 16 Muslim nations warn Israeli attacks threaten Gaza ceasefire",
+   "reason": "less direct relevance to ordinary Pakistanis"
+  },
+  {
+   "headline": "Govt reduces petrol price by Rs2 per litre (Brecorder)",
+   "reason": "not fresh / covered by fuel posts already"
+  }
+ ],
+ "errors": []
+}
