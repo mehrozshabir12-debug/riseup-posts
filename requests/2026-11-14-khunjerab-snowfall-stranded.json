@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-14-khunjerab-snowfall-stranded",
+  "type": "news",
+  "headline": "Heavy snowfall at Khunjerab Pass on the Pakistan-China border stranded passengers, tourists, vehicles and dozens of cargo containers on Friday, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044384/snowfall-strands-passengers-cargo-at-khunjerab",
+      "published_at": "2026-11-14T05:26:13+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/264692e1-7427-4d20-b7e9-14b69012ef56/4a66f1d1-c550-48e9-a79b-3395412b61df/Realistic_photo_of_a_high_mountain_pass_road_in_heavy_snowfa.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDUyN2MxZmEyZWFlZWRkMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc1NTA2Nn0.R2SNJui3SrtOD0DY02nzwBZxCocuklEoDEPWkG1IGvE",
+    "head1": "Khunjerab Par Barfbari",
+    "head2_hl": "Musafir",
+    "head2": "Phans Gaye",
+    "kicker": "Karakoram Highway Par Barf",
+    "desc": "Darjanon cargo containers bhi raste mein ruk gaye",
+    "source": "Dawn",
+    "date": "14 NOV 2026"
+  },
+  "caption": "Khunjerab Pass par shadeed barfbari, musafir phans gaye! ❄️\nDawn ke mutabiq Pakistan-China border par Khunjerab Pass par Friday ko bhi shadeed barfbari aur barish jaari rahi. Bohat se musafir, sayyah, gaariyan aur China se saman la rahe darjanon containers raste mein phans gaye. Teen containers Karakoram Highway (KKH) se phisal gaye, aur un ke drivers ko bacha liya gaya. Tourism Minister Naiknaam Karim ne kaha ke Pakistani side par sadak par taqreeban chaar inch barf aur ice hai, aur unhon ne FWO se foran machinery bhejne ko kaha. Police ne logon se kaha hai ke ghair zaroori safar na karein aur sadak ki maloomat ke liye 15 par call karein.\nKya aap ne kabhi barf mein safar kiya hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Khunjerab #Snowfall #GilgitBaltistan #PakistanNews",
+  "tiktok_title": "Khunjerab Pass par shadeed barfbari, musafir aur containers phans gaye",
+  "publish": {
+    "slot": "2026-11-14T12:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
