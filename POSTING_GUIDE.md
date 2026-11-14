@@ -1,3 +1,9 @@
+> ⛔ **14 Nov 2026 — owner's order: NO Instagram Reels for news/photo posts.** Every news, star and showbiz post goes
+> to Instagram as a normal feed photo POST (instagramData {type: POST}) with the JPG card, together with Facebook POST
+> (+ TikTok photo under the limit) and the FB + IG Story. Requests use "reel": {"type": "none"} and no music. The
+> 17 Oct zoom-Reel rule below is CANCELLED. Instagram Reels are only for real videos the owner sends (e.g. Basharat
+> collab reels). Facebook still gets no Reels.
+
 > ▶ **Claude's scheduled tasks RESUMED by the owner (12 Oct 2026, 4:30 PM PKT).** Post exactly as before. The ChatGPT
 > handover (CHATGPT_OPERATOR.md, requests/ workflow) stays PAUSED — do not use requests/ or the workflow.
 

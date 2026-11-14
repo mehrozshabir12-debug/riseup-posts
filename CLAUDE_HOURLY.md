@@ -1,3 +1,9 @@
+>>> OWNER'S RULE 14 Nov 2026 (wins over everything below): NO INSTAGRAM REELS FOR NEWS/PHOTO POSTS.
+>>> Every news and showbiz request uses "reel": {"type": "none"} and NO "music" field. The pipeline then makes ONE
+>>> feed post: the JPG card to Facebook (POST) + Instagram (normal feed POST) + TikTok photo (if under the limit),
+>>> plus the FB + IG Story. Schedule only payloads.feed and payloads.story — there is no payloads.reel, no zoom MP4,
+>>> no music check. Instagram Reels are ONLY for real videos the owner sends (e.g. Basharat collab reels).
+
 RISEUP PAKISTAN — HOURLY RUNBOOK FOR CLAUDE (Runway photo version, 16 Oct 2026)
 ==============================================================================
 Claude's scheduled task runs this at HH:45 PKT (09:45 ... 23:45). One verified story per slot.
@@ -184,7 +190,7 @@ Commit requests/<id>.json to main (id = <RiseUp day date>-<slug>; file name = id
  "caption": "...", "tiktok_title": "...",
  "publish": {"slot": "<T ISO +05:00>", "networks": ["facebook", "instagram", "tiktok"], "stories": true,
              "dry_run": <true in TEST MODE>},
- "reel": {"type": "zoom"}, "music": {"audioId": "<track search term or numeric id>", "label": "<title - artist>"},
+ "reel": {"type": "none"},
  "ai_generated": true}
 
 
