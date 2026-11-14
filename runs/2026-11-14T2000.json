@@ -1,1 +1,61 @@
-{"slot": "2026-11-14T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T19:46:57+05:00"}
+{
+ "slot": "2026-11-14T20:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T19:46:57+05:00",
+ "run_finished_pkt": "2026-11-14T19:49:58+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The NCCIA on Saturday warned young people against joining illegal call centres for high salaries, after raids in Islamabad and Rawalpindi in which 143 and 11 people were arrested.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044498/nccia-warns-youth-against-joining-illegal-call-centres-for-lucrative-salaries",
+    "published_at": "2026-11-14T18:53:05+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-nccia-illegal-call-centres-warning",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-nccia-illegal-call-centres-warning.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428061957,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3147900565362227234",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428061973,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2716182335142674146",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: all windows 2026-11-12T19:00..2026-11-15T09:00 read; slot 20:00 free; 6 news posts today before this one (cap 10); TikTok 8/8 today -> no TikTok",
+  "previous_slot_check": "19:00 feed 428014425 FB+IG PUBLISHED; story 428014436 FB+IG PUBLISHED",
+  "news_search": "Dawn NCCIA call-centre warning (18:53 PKT) chosen; not a duplicate of last 48h",
+  "verification": "Dawn article read: published 18:53:05+05:00, updated 19:02:05+05:00; figures 143 (Islamabad) and 11 (Rawalpindi) arrests, SECP advice, FIR quote checked",
+  "image": "Runway nano-banana-2-lite, 1 image, ok (credits remaining ~1067)",
+  "publish": "workflow awaiting_publish; card compared with approved 2026-11-14 IMF card: same layout; feed + story scheduled, PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Musadik Malik to visit India for SCO Civilizational Dialogue (Arab News/AFP 18:56)",
+   "reason": "good alternative; NCCIA story chosen as more relevant to ordinary people (jobs/youth)"
+  }
+ ],
+ "errors": []
+}
