@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-14-gold-price-drops-rs700-tola",
+  "type": "news",
+  "headline": "Gold price in Pakistan fell by Rs700 per tola on Saturday to Rs410,936, and 10 grams fell by Rs600 to Rs352,311, according to APGJSA rates reported by Business Recorder.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40448909/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+      "published_at": "2026-11-14T16:07:00+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/8aa39969-c393-4a7b-ad42-69a9200f13d8/80c35ff2-5c5a-43ff-9ecd-2b2650a5b53a/Realistic_documentary_photo_inside_a_traditional_jewellery_s.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMDA3MjkzOTE1YjhhZjhjOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc3OTI4MX0.lLGmpIrh0fG5iELF8yYP-Vic_5DapNsUR-WFYFdZGHM",
+    "head1": "Sone Ki Qeemat",
+    "head2_hl": "Rs700",
+    "head2": "Kam",
+    "kicker": "Fi Tola Ab Rs410,936",
+    "desc": "10 gram sona Rs600 sasta ho kar Rs352,311 ka",
+    "source": "Business Recorder",
+    "date": "14 NOV 2026"
+  },
+  "caption": "Sone ki qeemat mein Rs700 fi tola kami! 💰\nBusiness Recorder ke mutabiq Saturday ko Pakistan mein sone ki qeemat Rs700 kam ho kar Rs410,936 fi tola ho gayi. 10 gram sona Rs600 sasta ho kar Rs352,311 ka ho gaya. Yeh rates All-Pakistan Gems and Jewellers Sarafa Association (APGJSA) ne jaari kiye. Aalami market mein sona $7 kam ho kar $3,884 fi ounce par aa gaya.\nKya aap abhi sona khareedenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #GoldRate #PakistanEconomy #PakistanNews",
+  "tiktok_title": "Sone ki qeemat Rs700 fi tola kam, ab Rs410,936",
+  "publish": {
+    "slot": "2026-11-14T18:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
