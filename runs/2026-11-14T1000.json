@@ -1,1 +1,80 @@
-{"slot": "2026-11-14T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T09:46:51+05:00"}
+{
+ "slot": "2026-11-14T10:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T09:46:51+05:00",
+ "run_finished_pkt": "2026-11-14T09:52:32+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan signed 13 agreements and MoUs during the two-day Pakistan Minerals Investment Forum that ended in Islamabad on Friday",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-signs-13-mining-deals-at-investment-forum-says-foreign-interest-growing-3006993",
+    "published_at": "2026-11-14T08:51:50+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-pmif-13-mining-deals-signed",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-pmif-13-mining-deals-signed.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 427736174,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5455189145184415933",
+   "networks": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "id": 427736190,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8345899354663010239",
+   "networks": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 427736202,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6580267872530939913",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "Cafe Lovers - Global Genius (934661001819759, audioType music, displayArtist Global Genius)",
+ "stages": {
+  "metricool_read": "brandId 7305396 Asia/Karachi. Windows 14 Nov 09:00-11:00 (empty, slot free) and 12 Nov 09:00 .. 14 Nov 22:00 in 6h windows, all succeeded. RiseUp day 14 Nov: 0 news posts and 0 TikTok posts before this one.",
+  "previous_slot_check": "13 Nov 23:00 feed 427272812 FB+TikTok PUBLISHED, Reel 427272826 IG PUBLISHED, Story 427272842 FB+IG PUBLISHED.",
+  "news_search": "2h window: Arab News 08:51 PKT story on 13 deals signed as PMIF 2026 ended (forum outcome = new development vs 12 Nov opening post and 13 Nov Ivanhoe-Mari single MoU post; no earlier report of the 13 deals found). Language English (business/policy).",
+  "verification": "Single approved outlet (Arab News), article metadata published 2026-11-14T03:51:50Z = 08:51:50 PKT; every name and number checked against the article.",
+  "image": "Runway nano-banana-2-lite, 1 image, task 3d21d6f1-f20e-4f05-9253-3502c6621ee3; generic conference room handshake with ore samples, no text/logos/real people. Credits 1091 after.",
+  "publish": "GitHub workflow rendered card/story/8s zoom reel (awaiting_publish, no errors/warnings; template sha256 OK). Card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: identical layout. Feed FB+TikTok (FB photo POST) 10:00, IG Reel with music 10:00, FB+IG Story 10:05, all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Petrol price cut by Rs2 to Rs330 (Business Recorder/OGRA)",
+   "reason": "first published 13 Nov 22:30 PKT, older than 8h before slot"
+  },
+  {
+   "headline": "Sindh to replace government petrol vehicles with EVs (Dawn)",
+   "reason": "print story 05:25, older and first-report time unclear; 2h window story preferred"
+  },
+  {
+   "headline": "BLF man jailed in Chinese engineers attack case (Dawn)",
+   "reason": "verdict Friday, print 05:25; crime story, 2h window story preferred"
+  },
+  {
+   "headline": "PM pushes for deeper UK economic ties (Express Tribune)",
+   "reason": "published 05:29 PKT about a Friday event; older"
+  }
+ ],
+ "errors": []
+}

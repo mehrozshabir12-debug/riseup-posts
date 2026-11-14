@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-14-pmif-13-mining-deals-signed",
+ "scheduled": "2026-11-14T10:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 427736174,
+   "status": {
+    "facebook": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "reel": {
+   "metricool_id": 427736190,
+   "status": {
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 427736202,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
