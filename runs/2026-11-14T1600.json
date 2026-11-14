@@ -1,1 +1,70 @@
-{"slot": "2026-11-14T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T15:46:57+05:00"}
+{
+ "slot": "2026-11-14T16:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T15:46:57+05:00",
+ "run_finished_pkt": "2026-11-14T15:50:52+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "KP Governor Faisal Karim Kundi said on Saturday all gold mining leases in Khyber Pakhtunkhwa are suspended, contractors must leave within a week and a new gold mining policy will come within three weeks (Express Tribune).",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2640284/kundi-says-illegal-gold-mining-in-kohat-funded-terrorism-names-politicians",
+    "published_at": "2026-11-14T15:14:05+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-kp-gold-mining-leases-suspended",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-kp-gold-mining-leases-suspended.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 427903106,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7831644339419594275",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 427903123,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5703602591998627277",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none (no Reel; owner rule 14 Nov 2026)",
+ "stages": {
+  "metricool_read": "blogId 7305396 Asia/Karachi, FB/IG/TikTok connected. Slot window 15:00-17:00 empty (slot free). History 12 Nov 15:00 .. 15 Nov 04:00 read in windows, all succeeded. RiseUp day 14 Nov before this: 3 news posts (10:00, 12:00, 14:00), 3 TikTok.",
+  "previous_slot_check": "14:00 slot: feed 427837366 FB+IG+TikTok PUBLISHED, Story 427837372 FB+IG PUBLISHED.",
+  "news_search": "Searched Dawn, Tribune, Geo, Arab News, Brecorder, APP. Dawn latest-news listing was a stale copy (newest 10:31), not used. Chose KP gold mining leases suspension (Tribune 15:14 PKT, 2h window). Language Roman Urdu (English at 10:00 and 14:00, Roman Urdu at 12:00).",
+  "verification": "Single approved outlet Express Tribune, meta published 2026-11-14T10:14:05Z = 15:14:05 PKT; decision (all leases suspended), contractors one week, new policy within three weeks, Peshawar press conference Saturday checked against article. Geo headline 'KP governor suspends gold mining across province' consistent. Names of accused politicians and casualty figures deliberately left out (one-sided accusations / violence).",
+  "image": "Runway nano-banana-2-lite, 1 image, task 2eee4c67-a7f3-45d9-aca3-5667eb2987c7: idle excavators and dumpers at a riverside mining site behind a closed gate, no people, no text/logos. Credits 1079 after.",
+  "publish": "GitHub workflow rendered card + story (awaiting_publish, no errors/warnings). Card compared side by side with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: identical layout (logo, headline, yellow box, kicker, desc, source line, icons). Feed FB POST + IG feed POST (isAiGenerated false) + TikTok photo at 16:00, FB+IG Story at 16:00, all PENDING. No Reel."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "U-19 Asia Cup final: Pakistan 337-9 vs India (Tribune 14:21)",
+   "reason": "match still in progress, result unknown; better as a result story later"
+  },
+  {
+   "headline": "Petrol price cut by Rs2",
+   "reason": "13 Nov, older than 8h"
+  },
+  {
+   "headline": "2 soldiers, 14 militants killed in North Waziristan",
+   "reason": "violence"
+  }
+ ],
+ "errors": []
+}
