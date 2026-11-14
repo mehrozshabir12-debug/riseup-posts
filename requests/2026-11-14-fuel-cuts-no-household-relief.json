@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-14-fuel-cuts-no-household-relief",
+  "type": "news",
+  "headline": "Petrol fell Rs62.66 per litre to Rs330 between October 14 and November 14, but consumers and traders say household costs have not eased, with 29 of 51 SPI items rising, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://arabnews.pk/pakistan/pakistan-fuel-price-cuts-fail-to-ease-household-costs-consumers-say-3007040",
+      "published_at": "2026-11-14T21:29:37+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/cfbfcc64-ac3c-42ea-a70d-733341de7526/436c3a0b-8103-4b83-b42a-424491353cbf/Realistic_documentary_news_photo_of_a_busy_vegetable_and_gro.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzAyNDFiZWQ3OGIyOTcyMiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc5MjgxM30.sPFJ3eYaLiU9a51X4QZnlF4KNYJSBMxXWsllzIBT2IQ",
+    "head1": "Petrol Sasta, Lekin",
+    "head2_hl": "Mehngai",
+    "head2": "Barqarar",
+    "kicker": "Awam Ko Relief Nahi Mila",
+    "desc": "Ek mahine mein petrol Rs62.66 sasta, tamatar taqreeban 82% mehnge",
+    "source": "Arab News",
+    "date": "14 NOV 2026"
+  },
+  "caption": "Petrol sasta hua, lekin ghar ka kharcha kam kyun nahi hua? ⛽\nArab News ke mutabiq 14 October se 14 November tak petrol Rs62.66 fi litre sasta ho kar Rs392.66 se Rs330 par aa gaya, aur diesel Rs36.82 kam ho kar Rs360 fi litre ho gaya. Lekin Pakistan Bureau of Statistics (PBS) ke Sensitive Price Indicator ke mutabiq 51 cheezon mein se 29 ki qeemat barh gayi. Tamatar taqreeban 82% mehnge hue, LPG cylinder 26.4% aur chicken 9.6% mehnga hua. Musafiron ka kehna hai ke bus ke kiraye bhi kam nahi hue. Energy Minister Ali Pervez Malik ne Arab News ko bataya ke woh kirayon ka masla chief ministers ke saath uthayenge.\nKya aap ke ilaqe mein cheezein ya kiraye saste hue? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #Mehngai #FuelPrice #PakistanNews",
+  "tiktok_title": "Petrol Rs62.66 sasta, lekin mehngai kam nahi hui",
+  "publish": {
+    "slot": "2026-11-14T22:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
