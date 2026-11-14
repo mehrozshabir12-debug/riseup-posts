@@ -10024,5 +10024,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T12:00:00+05:00",
+  "request_id": "2026-11-14-khunjerab-snowfall-stranded",
+  "layout": "bold",
+  "headline": "Heavy snowfall at Khunjerab Pass on the Pakistan-China border stranded passengers, tourists, vehicles and dozens of cargo containers on Friday, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044384/snowfall-strands-passengers-cargo-at-khunjerab",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044384/snowfall-strands-passengers-cargo-at-khunjerab",
+    "published_at": "2026-11-14T05:26:13+05:00"
+   }
+  ],
+  "published": "2026-11-14T05:26:13+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 224191229,
+  "image": "posts/2026-11-14-khunjerab-snowfall-stranded.jpg",
+  "story": "posts/2026-11-14-khunjerab-snowfall-stranded-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-14 12:04 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
