@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-14-nccia-illegal-call-centres-warning",
+  "type": "news",
+  "headline": "The NCCIA on Saturday warned young people against joining illegal call centres for high salaries, after raids in Islamabad and Rawalpindi in which 143 and 11 people were arrested.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044498/nccia-warns-youth-against-joining-illegal-call-centres-for-lucrative-salaries",
+      "published_at": "2026-11-14T18:53:05+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/d55383c3-f67b-41c3-9699-37f3a8656c34/1c75e7ca-7c4a-489e-a87c-7dec0566694f/Realistic_documentary_news_photo_inside_a_cramped_makeshift_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZWY2Zjg2ZDk1MzExN2NkYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDc2OTI0MX0.rVDiBTU0g0icBr1dQsFI59eHRqlpaVOKm-SZF0jjKQw",
+    "head1": "Illegal Call Centres",
+    "head2_hl": "Par Chhape",
+    "head2": "",
+    "kicker": "NCCIA Ki Naujawanon Ko Warning",
+    "desc": "Islamabad mein 143, Rawalpindi mein 11 log giraftar",
+    "source": "Dawn",
+    "date": "14 NOV 2026"
+  },
+  "caption": "Zyada tankhwah ke laalach mein illegal call centre mein naukri na karein! ⚠️\nDawn ke mutabiq NCCIA ne Saturday ko Islamabad mein press conference mein naujawanon ko khabardar kiya. Pichle teen dinon mein Islamabad aur Rawalpindi mein do call centres par chhape mare gaye. Islamabad mein 143 aur Rawalpindi mein 11 log giraftar hue. NCCIA ke Additional Director Muhammad Shoaib Khan ne kaha ke naukri se pehle company se poochein ke woh kahan registered hai aur us ke paas SECP samait kaun si approvals hain. Unhon ne kaha ke giraftari par FIR naujawan ke record ka hissa ban jati hai.\nKya aap naukri se pehle company ki tehqeeq karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #NCCIA #CallCentre #Jobs #PakistanNews",
+  "tiktok_title": "NCCIA ki warning: illegal call centres mein naukri na karein",
+  "publish": {
+    "slot": "2026-11-14T20:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
