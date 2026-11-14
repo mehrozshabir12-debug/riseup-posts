@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-14-eco-council-ministers-islamabad",
+ "revision": 1,
+ "request": "requests/2026-11-14-eco-council-ministers-islamabad.json",
+ "type": "news",
+ "headline": "Pakistan will host the 30th meeting of the ECO Council of Ministers in Islamabad on November 15 and 16, to be chaired by Deputy PM and Foreign Minister Ishaq Dar, the Foreign Office said on Saturday, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-14T14:00:00+05:00",
+ "target_slot": "2026-11-14T14:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-eco-council-ministers-islamabad.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-eco-council-ministers-islamabad-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-14-eco-council-ministers-islamabad.jpg",
+  "story": "posts/2026-11-14-eco-council-ministers-islamabad-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 391655920,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Islamabad to host ECO foreign ministers this weekend! 🌏\nAccording to Dawn, Pakistan will host the 30th meeting of the Economic Cooperation Organization (ECO) Council of Ministers in Islamabad on November 15 and 16, the Foreign Office said on Saturday. Deputy Prime Minister and Foreign Minister Ishaq Dar will chair it, and foreign ministers and heads of delegation from ECO member states will attend. Pakistan holds the ECO chairmanship for 2026-27 under the theme \"Reviving Regionalism for a Resilient ECO\", with a focus on regional connectivity, trade and economic growth.\nCan stronger regional trade help Pakistan's economy? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ECO #Islamabad #IshaqDar #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-eco-council-ministers-islamabad.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Islamabad to host 30th ECO Council of Ministers meeting on Nov 15-16",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-eco-council-ministers-islamabad-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-14T13:49:27+05:00"
+}

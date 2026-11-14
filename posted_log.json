@@ -10067,5 +10067,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T14:00:00+05:00",
+  "request_id": "2026-11-14-eco-council-ministers-islamabad",
+  "layout": "bold",
+  "headline": "Pakistan will host the 30th meeting of the ECO Council of Ministers in Islamabad on November 15 and 16, to be chaired by Deputy PM and Foreign Minister Ishaq Dar, the Foreign Office said on Saturday, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16",
+    "published_at": "2026-11-14T10:53:55+05:00"
+   }
+  ],
+  "published": "2026-11-14T10:53:55+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 391655920,
+  "image": "posts/2026-11-14-eco-council-ministers-islamabad.jpg",
+  "story": "posts/2026-11-14-eco-council-ministers-islamabad-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-14 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
