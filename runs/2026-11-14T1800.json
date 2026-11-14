@@ -1,1 +1,70 @@
-{"slot": "2026-11-14T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T17:46:59+05:00"}
+{
+ "slot": "2026-11-14T18:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T17:46:59+05:00",
+ "run_finished_pkt": "2026-11-14T17:51:04+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Gold price in Pakistan fell by Rs700 per tola on Saturday to Rs410,936; 10 grams fell by Rs600 to Rs352,311 (APGJSA rates, Business Recorder).",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40448909/gold-price-drops-by-rs2700-per-tola-in-pakistan",
+    "published_at": "2026-11-14T16:07:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-gold-price-drops-rs700-tola",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-gold-price-drops-rs700-tola.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 427975455,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6110396857209145185",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 427975468,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7697283969617998267",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none (no Reel; owner rule 14 Nov 2026)",
+ "stages": {
+  "metricool_read": "blogId 7305396 Asia/Karachi, FB/IG/TikTok connected. Slot window 17:00-19:00 empty (slot free). History 12 Nov 17:00 .. 15 Nov 06:00 read in 6h windows, all succeeded. RiseUp day 14 Nov before this: 4 news posts (10:00, 12:00, 14:00, 16:00), 4 TikTok.",
+  "previous_slot_check": "16:00 slot: feed 427903106 FB+IG+TikTok PUBLISHED, Story 427903123 FB+IG PUBLISHED.",
+  "news_search": "Searched Tribune, Dawn, Geo, Arab News, Brecorder. Geo homepage fetch was a stale cached copy (Nov 2025), not used. Chose gold price drop (Brecorder 16:07 PKT, 2h window). Language Roman Urdu (pocket story; 10:00/14:00 English, 12:00/16:00 Roman Urdu). Last gold-rate post was 12 Nov (different day's rate), so not a duplicate.",
+  "verification": "Single approved outlet Business Recorder, meta published 2026-11-14 16:07 PKT (updated 16:08). Per tola Rs410,936 (-Rs700), 10 g Rs352,311 (-Rs600), international $3,884/oz (-$7), APGJSA as source of rates, Saturday — all checked against the article.",
+  "image": "Runway nano-banana-2-lite, 1 image, task 8aa39969-c393-4a7b-ad42-69a9200f13d8: jewellery shop counter in a bazaar, anonymous shopkeeper hands and woman from behind, no readable text/logos. Credits 1075 after.",
+  "publish": "GitHub workflow rendered card + story (awaiting_publish, no errors/warnings). Card compared side by side with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: identical layout (logo, headline, yellow box, kicker, desc, source line, icons). Feed FB POST + IG feed POST + TikTok photo at 18:00, FB+IG Story at 18:05 (payload times as returned), all PENDING. No Reel."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "U-19 Asia Cup final Pakistan vs India (Pakistan 337-9, Tribune 14:21)",
+   "reason": "final result not yet published by any approved outlet found; only innings report"
+  },
+  {
+   "headline": "2 soldiers, 16 militants killed in KP operations (ISPR)",
+   "reason": "violence"
+  },
+  {
+   "headline": "PTI-govt talks: Imran relief off the table (Geo)",
+   "reason": "'sources' based"
+  }
+ ],
+ "errors": []
+}
