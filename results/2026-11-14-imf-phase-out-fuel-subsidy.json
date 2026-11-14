@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-14-imf-phase-out-fuel-subsidy",
+ "revision": 1,
+ "request": "requests/2026-11-14-imf-phase-out-fuel-subsidy.json",
+ "type": "news",
+ "headline": "The IMF told Arab News on Saturday that Pakistan should phase out its fuel subsidy scheme for motorcycle, rickshaw and small-car users, and that any future fuel support should be limited, time-bound and targeted.",
+ "warnings": [
+  "TikTok skipped: 6 TikTok posts on RiseUp day 2026-11-14; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-14T19:00:00+05:00",
+ "target_slot": "2026-11-14T19:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-imf-phase-out-fuel-subsidy.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-imf-phase-out-fuel-subsidy-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-14-imf-phase-out-fuel-subsidy.jpg",
+  "story": "posts/2026-11-14-imf-phase-out-fuel-subsidy-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 112107530,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "IMF says Pakistan should end its fuel subsidy! ⛽\nAccording to Arab News, an IMF spokesperson said on Saturday that Pakistan should phase out its fuel subsidy scheme because it is too broadly targeted. Launched in September, the scheme gives motorcycle and rickshaw users a weekly petrol token worth Rs500, and gives small-car owners a Rs100 per litre discount on up to 10 litres every 10 days. The IMF said any future fuel support should be limited, time-bound and targeted through existing social assistance programmes.\nShould the fuel subsidy continue? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IMF #FuelSubsidy #PetrolPrice #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-imf-phase-out-fuel-subsidy.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-14T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-imf-phase-out-fuel-subsidy-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-14T18:49:04+05:00"
+}

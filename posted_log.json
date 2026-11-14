@@ -10214,5 +10214,34 @@
    "instagram": "REEL",
    "tiktok": "VIDEO"
   }
+ },
+ {
+  "date": "2026-11-14",
+  "slot": "2026-11-14T19:00:00+05:00",
+  "request_id": "2026-11-14-imf-phase-out-fuel-subsidy",
+  "layout": "bold",
+  "headline": "The IMF told Arab News on Saturday that Pakistan should phase out its fuel subsidy scheme for motorcycle, rickshaw and small-car users, and that any future fuel support should be limited, time-bound and targeted.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/imf-reiterates-pakistan-should-phase-out-fuel-subsidy-says-future-support-should-be-limited-3007005",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/imf-reiterates-pakistan-should-phase-out-fuel-subsidy-says-future-support-should-be-limited-3007005",
+    "published_at": "2026-11-14T13:11:35+05:00"
+   }
+  ],
+  "published": "2026-11-14T13:11:35+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 112107530,
+  "image": "posts/2026-11-14-imf-phase-out-fuel-subsidy.jpg",
+  "story": "posts/2026-11-14-imf-phase-out-fuel-subsidy-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-14 19:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
