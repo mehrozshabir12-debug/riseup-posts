@@ -1,1 +1,69 @@
-{"slot": "2026-11-14T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-14T18:46:14+05:00"}
+{
+ "slot": "2026-11-14T19:00:00+05:00",
+ "riseup_day": "2026-11-14",
+ "run_started_pkt": "2026-11-14T18:46:14+05:00",
+ "run_finished_pkt": "2026-11-14T18:49:45+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "6h",
+ "story": {
+  "headline": "The IMF told Arab News on Saturday that Pakistan should phase out its fuel subsidy scheme for motorcycle, rickshaw and small-car users; future support should be limited, time-bound and targeted.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/imf-reiterates-pakistan-should-phase-out-fuel-subsidy-says-future-support-should-be-limited-3007005",
+    "published_at": "2026-11-14T13:11:35+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-14-imf-phase-out-fuel-subsidy",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-14-imf-phase-out-fuel-subsidy.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428014425,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1677573910448226081",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428014436,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=819450084237266200",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none (no Reel; owner rule 14 Nov 2026)",
+ "stages": {
+  "metricool_read": "blogId 7305396 Asia/Karachi. Slot window 18:00-20:00: only 18:00 gold feed + 18:05 Story and the owner's 18:48 Dar-e-Nijat reel; 19:00 free. History 12 Nov 18:00 .. 15 Nov 07:00 read in windows, all succeeded. RiseUp day 14 Nov before this: 5 news posts (10,12,14,16,18), 6 TikTok incl. 18:48 drama reel.",
+  "previous_slot_check": "18:00 slot: feed 427975455 FB+IG+TikTok PUBLISHED, Story 427975468 FB+IG PUBLISHED.",
+  "news_search": "Searched Dawn, Tribune, Geo, Brecorder, Arab News, The News, APP. No qualifying story inside 2-4h windows (newer items were ISPR operations = violence, U19 Asia Cup final = minors, Gulf/Houthi diplomacy, already-posted gold/KP mining/ECO). Chose IMF fuel subsidy (Arab News 13:11 PKT, 6h window). Language English (IMF/policy story; 16:00/18:00 were Roman Urdu).",
+  "verification": "Single approved outlet Arab News, meta published 2026-11-14T08:11:35Z = 13:11 PKT. Rs500 weekly petrol token for motorcycle/rickshaw users, Rs100/litre discount on up to 10 litres every 10 days for small cars, launched September, IMF says phase out, future support limited/time-bound/targeted — all checked against the article.",
+  "image": "Runway nano-banana-2-lite, 1 image, petrol station with bikes and rickshaw, no readable text or public figures.",
+  "publish": "Card + story rendered by GitHub workflow; compared side by side with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou(.jpg/-story.jpg): same layout. Pipeline skipped TikTok (pacing: 6 TikTok already, allowed by 19:00 = 5). Feed FB+IG POST at 19:00, Story FB+IG at 19:05, both PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Petrol price cut by Rs2, diesel unchanged",
+   "reason": "announced 13 Nov (older than 8h before slot)"
+  },
+  {
+   "headline": "U19 Asia Cup final Pakistan vs India",
+   "reason": "story about minors"
+  },
+  {
+   "headline": "16 terrorists killed, 2 soldiers martyred in KP (ISPR)",
+   "reason": "violence"
+  }
+ ],
+ "errors": []
+}
