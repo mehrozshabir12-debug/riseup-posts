@@ -1,1 +1,68 @@
-{"slot": "2026-11-15T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T18:47:03+05:00"}
+{
+ "slot": "2026-11-15T19:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T18:47:03+05:00",
+ "run_finished_pkt": "2026-11-15T18:51:04+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "District administrations in Bajaur, Lakki Marwat and Swabi in Khyber Pakhtunkhwa imposed Section 144 on Sunday, banning gatherings and rallies for a month over the law and order situation, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044702/gatherings-in-kps-bajaur-lakki-marwat-swabi-banned-for-30-days-over-law-and-order-situation",
+    "published_at": "2026-11-15T13:55:23+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-15-kp-section-144-bajaur-lakki-swabi",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-kp-section-144-bajaur-lakki-swabi.jpg",
+ "freshness_window": "6h",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "a530732a-a50f-4aed-9660-b4d7f9b4d883",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428907830,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9153764607988183234",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428907856,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7359719371920592583",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: all 6h windows 13 Nov 18:00 .. 16 Nov 07:00 read; slot 19:00 free; news today before this post = 2 (10:00, 12:00), TikTok today = 2",
+  "previous_slot_check": "18:00 slot had no post (run ended error_pipeline_blocked); 12:00 feed+story all PUBLISHED; 10:00 feed+story all PUBLISHED",
+  "news_search": "web search on approved outlets; picked Dawn KP Section 144 story (published 13:55 PKT, updated 17:58 PKT)",
+  "verification": "1 approved outlet (Dawn), article read, timestamp from page metadata; districts, dates (15 Nov-15 Dec Bajaur, until 13 Dec Lakki Marwat, one month Swabi) checked; not a duplicate of last 48h",
+  "image": "Runway nano-banana-2-lite, 1 image, no text/faces/logos",
+  "publish": "feed (FB POST + IG POST + TikTok photo) 19:00 and FB+IG Story 19:05 via payloads exactly; card compared with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan to face India in SAFF Championship final on Nov 17 (Arab News 17:06 PKT)",
+   "reason": "core event (1-0 win over Bangladesh) was Saturday; first-report time older than 8h"
+  },
+  {
+   "headline": "ECO ministerial opens in Islamabad",
+   "reason": "ECO meeting already previewed on 14 Nov 14:00; no new concrete facts chosen"
+  }
+ ],
+ "errors": []
+}
