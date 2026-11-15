@@ -10545,5 +10545,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-15",
+  "slot": "2026-11-15T19:00:00+05:00",
+  "request_id": "2026-11-15-kp-section-144-bajaur-lakki-swabi",
+  "layout": "bold",
+  "headline": "District administrations in Bajaur, Lakki Marwat and Swabi in Khyber Pakhtunkhwa imposed Section 144 on Sunday, banning gatherings and rallies for a month over the law and order situation, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044702/gatherings-in-kps-bajaur-lakki-marwat-swabi-banned-for-30-days-over-law-and-order-situation",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044702/gatherings-in-kps-bajaur-lakki-marwat-swabi-banned-for-30-days-over-law-and-order-situation",
+    "published_at": "2026-11-15T13:55:23+05:00"
+   }
+  ],
+  "published": "2026-11-15T13:55:23+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 455431454,
+  "image": "posts/2026-11-15-kp-section-144-bajaur-lakki-swabi.jpg",
+  "story": "posts/2026-11-15-kp-section-144-bajaur-lakki-swabi-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-15 19:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-15-kp-section-144-bajaur-lakki-swabi",
+ "revision": 1,
+ "request": "requests/2026-11-15-kp-section-144-bajaur-lakki-swabi.json",
+ "type": "news",
+ "headline": "District administrations in Bajaur, Lakki Marwat and Swabi in Khyber Pakhtunkhwa imposed Section 144 on Sunday, banning gatherings and rallies for a month over the law and order situation, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-15T19:00:00+05:00",
+ "target_slot": "2026-11-15T19:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-kp-section-144-bajaur-lakki-swabi.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-kp-section-144-bajaur-lakki-swabi-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-15-kp-section-144-bajaur-lakki-swabi.jpg",
+  "story": "posts/2026-11-15-kp-section-144-bajaur-lakki-swabi-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 455431454,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-15T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "KP ke teen districts mein Section 144 nafiz! 🚫\nDawn ke mutabiq Sunday ko Khyber Pakhtunkhwa ke Bajaur, Lakki Marwat aur Swabi mein amn-o-amaan ki surat-e-haal ki wajah se Section 144 laga diya gaya. Bajaur mein siyasi jalson aur aslaha dikhane par 15 November se 15 December tak pabandi hai. Lakki Marwat mein jalson, jaloos, rallies, aslaha le kar chalne aur pillion riding par 13 December tak pabandi hai. Swabi mein bhi ek mahine ke liye jalson, rallies aur muzahiron par pabandi hai, aur in ke liye Deputy Commissioner se pehle ijazat leni hogi.\nKya aap ke ilaqe mein bhi aisi pabandi lagi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #KhyberPakhtunkhwa #Section144 #LakkiMarwat #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-kp-section-144-bajaur-lakki-swabi.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "KP ke Bajaur, Lakki Marwat aur Swabi mein Section 144, jalson par pabandi",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-15T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-kp-section-144-bajaur-lakki-swabi-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-15T18:49:36+05:00"
+}
