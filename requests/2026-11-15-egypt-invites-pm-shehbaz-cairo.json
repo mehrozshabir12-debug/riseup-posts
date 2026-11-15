@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-15-egypt-invites-pm-shehbaz-cairo",
+  "type": "news",
+  "headline": "Egyptian Foreign Minister Badr Abdelatty repeated an invitation for PM Shehbaz Sharif to visit Cairo, and Deputy PM and Foreign Minister Ishaq Dar responded positively in a phone call on Sunday, the Express Tribune reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2640442/dar-responds-positively-to-egypts-invitation-for-pm-shehbaz-to-visit-cairo",
+      "published_at": "2026-11-15T15:19:00+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9e1d9e63-49ea-4f91-b36a-fb9540ce266c/8ed58b64-c9b6-4e80-8017-c49bf0fd7ddc/Realistic_documentary_photo_of_a_formal_government_office_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjllOWQ1MDcxMzMwOTg2YyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDkwMzMwM30.QONFZamIi5n8X2bs2opwNO1wMSrMesU2cuAPlYa1nZc",
+    "head1": "Egypt Invites",
+    "head2_hl": "PM Shehbaz",
+    "head2": "To Cairo",
+    "kicker": "Dar-Abdelatty Phone Call",
+    "desc": "Dar responds positively; R4 meetings in Europe also discussed",
+    "source": "Express Tribune",
+    "date": "15 NOV 2026"
+  },
+  "caption": "Egypt invites PM Shehbaz Sharif to visit Cairo! 🇵🇰🇪🇬\nAccording to the Express Tribune, Egyptian Foreign Minister Badr Abdelatty repeated Egypt's invitation for Prime Minister Shehbaz Sharif to visit Cairo during a phone call on Sunday with Deputy Prime Minister and Foreign Minister Ishaq Dar, who responded positively, the Foreign Office said. The two ministers also discussed regional and international developments and the upcoming R4 and R4+E4 meetings in Europe, and agreed to stay in close contact.\nCan closer Pakistan-Egypt ties benefit both countries? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #Egypt #IshaqDar #PakistanNews",
+  "tiktok_title": "Egypt invites PM Shehbaz to Cairo, Dar responds positively",
+  "publish": {
+    "slot": "2026-11-15T20:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
