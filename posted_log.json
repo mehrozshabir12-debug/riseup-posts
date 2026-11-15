@@ -10459,5 +10459,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-15",
+  "slot": "2026-11-15T10:00:00+05:00",
+  "request_id": "2026-11-15-quetta-pomegranate-price-doubles",
+  "layout": "bold",
+  "headline": "Prices of high-quality pomegranates in Quetta have doubled to Rs900 per kg from Rs400 last year while Pakistan's border with Afghanistan stays closed to trade, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/apples-to-pomegranates-pakistani-farmers-adapt-to-afghan-border-closures-3007074",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/apples-to-pomegranates-pakistani-farmers-adapt-to-afghan-border-closures-3007074",
+    "published_at": "2026-11-15T09:38:13+05:00"
+   }
+  ],
+  "published": "2026-11-15T09:38:13+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 913265123,
+  "image": "posts/2026-11-15-quetta-pomegranate-price-doubles.jpg",
+  "story": "posts/2026-11-15-quetta-pomegranate-price-doubles-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-15 10:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
