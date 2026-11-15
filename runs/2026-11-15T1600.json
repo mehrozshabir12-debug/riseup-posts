@@ -1,1 +1,26 @@
-{"slot": "2026-11-15T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T15:47:09+05:00"}
+{
+ "slot": "2026-11-15T16:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T15:47:09+05:00",
+ "run_finished_pkt": "2026-11-15T15:47:23+05:00",
+ "test_mode": false,
+ "outcome": "error_pipeline_blocked: receipts/2026-11-15-punjab-898-farm-fires.json (12:00 run) still has posts.feed.status / posts.story.status as the string 'PENDING' instead of a per-network dict; the workflow's receipts phase runs before render and crashes on it (same as 14:00 run 43696288348), so any new request would fail. Not fixed since 14:00; not my file to edit. No Runway credit spent, nothing posted.",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "slot window 15:00-17:00 read: empty, slot 16:00 free",
+  "previous_slot_check": "14:00 slot had no post (run ended error_render_failed)",
+  "news_search": "not started: pipeline blocked",
+  "verification": "n/a",
+  "image": "not generated (would waste credits; workflow cannot render)",
+  "publish": "not published"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "GitHub Actions run 43696288348: automation/process_request.py phase_receipts: AttributeError: 'str' object has no attribute 'items' (cause: receipts/2026-11-15-punjab-898-farm-fires.json status fields are strings)"
+ ]
+}
