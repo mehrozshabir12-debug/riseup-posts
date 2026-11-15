@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-15-quetta-pomegranate-price-doubles",
+  "type": "news",
+  "headline": "Prices of high-quality pomegranates in Quetta have doubled to Rs900 per kg from Rs400 last year while Pakistan's border with Afghanistan stays closed to trade, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/apples-to-pomegranates-pakistani-farmers-adapt-to-afghan-border-closures-3007074",
+      "published_at": "2026-11-15T09:38:13+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/2eedbd54-2fd7-4d1e-a595-0d4ea2c19cb4/8c429927-ed5d-4343-b165-33846a3243f0/Realistic_photo_of_a_busy_fruit_market_in_Quetta__Pakistan__.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDM0NWU5ZTAxMTc0NTg4NCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDg4NTcyOH0._034iwmtJvMdvukcW3lLLV5pbtidJpxq3GyjP7WDbj4",
+    "head1": "Anaar Ki Qeemat",
+    "head2_hl": "Double",
+    "head2": "Ho Gayi",
+    "kicker": "Quetta Mein Rs900 Fi Kilo",
+    "desc": "Afghan border band, ab Pishin ke anaar market mein.",
+    "source": "Arab News",
+    "date": "15 NOV 2026"
+  },
+  "caption": "Anaar ki qeemat double ho gayi!\nArab News ke mutabiq Quetta mein achhe anaar ab Rs900 fi kilo bik rahe hain, jabke pichle saal yeh Rs400 fi kilo thay. Quetta ki Hazar Ganji market ke trader Bashir Khan ke mutabiq 10 kilo ki peti Rs4,000 se barh kar Rs10,000 ki ho gayi hai. Pakistan aur Afghanistan ka border trade ke liye band hai. Pehle Chaman border se Afghan anaar ke taqreeban 250 truck aate thay. Ab zyada anaar Balochistan ke Pishin aur Killa Abdullah se aa rahe hain.\nAap ke shehar mein anaar kitne ka mil raha hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Anaar #Quetta #Mehngai #PakistanNews",
+  "tiktok_title": "Quetta mein anaar Rs400 se Rs900 fi kilo, qeemat double",
+  "publish": {
+    "slot": "2026-11-15T10:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
