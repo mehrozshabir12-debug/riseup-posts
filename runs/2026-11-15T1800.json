@@ -1,0 +1,26 @@
+{
+ "slot": "2026-11-15T18:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T17:46:42+05:00",
+ "run_finished_pkt": "2026-11-15T17:47:15+05:00",
+ "test_mode": false,
+ "outcome": "error_pipeline_blocked: receipts/2026-11-15-punjab-898-farm-fires.json (12:00 run) still has posts.feed.status / posts.story.status as the string 'PENDING' (per-network values are under 'networks'); automation/process_request.py phase_receipts calls .items() on it and crashes before render, so any new request fails. Unchanged since the 14:00 and 16:00 runs; not my file to edit. No Runway credit spent, nothing posted.",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "not done: pipeline blocked before any post could be made",
+  "previous_slot_check": "16:00 slot had no post (run ended error_pipeline_blocked)",
+  "news_search": "not started: pipeline blocked",
+  "verification": "n/a",
+  "image": "not generated (would waste credits; workflow cannot render)",
+  "publish": "not published"
+ },
+ "skipped_candidates": [],
+ "errors": [
+  "receipts/2026-11-15-punjab-898-farm-fires.json unchanged on origin/main (sha256 dc3a81b7...); results/2026-11-15-punjab-898-farm-fires.json still awaiting_publish with no receipt_sha -> phase_receipts line 380: AttributeError: 'str' object has no attribute 'items' (as in GitHub Actions run 43696288348)"
+ ]
+}
