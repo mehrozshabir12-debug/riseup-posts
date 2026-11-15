@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-15-fia-okara-63-illegal-medicines",
+ "revision": 1,
+ "request": "requests/2026-11-15-fia-okara-63-illegal-medicines.json",
+ "status": "rejected",
+ "errors": [
+  "slot 2026-11-15 14:00 PKT was missed (now 18:15); never schedule in the past"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-15T18:15:47+05:00"
+}
