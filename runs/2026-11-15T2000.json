@@ -1,1 +1,77 @@
-{"slot": "2026-11-15T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T19:46:34+05:00"}
+{
+ "slot": "2026-11-15T20:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T19:46:34+05:00",
+ "run_finished_pkt": "2026-11-15T19:52:16+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Egyptian Foreign Minister Badr Abdelatty repeated an invitation for PM Shehbaz Sharif to visit Cairo, and Deputy PM and Foreign Minister Ishaq Dar responded positively in a phone call on Sunday, the Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2640442/dar-responds-positively-to-egypts-invitation-for-pm-shehbaz-to-visit-cairo",
+    "published_at": "2026-11-15T15:19:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-15-egypt-invites-pm-shehbaz-cairo",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-egypt-invites-pm-shehbaz-cairo.jpg",
+ "freshness_window": "6h",
+ "language": "English",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "9e1d9e63-49ea-4f91-b36a-fb9540ce266c",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428958329,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7013985472098617738",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428958355,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5751132716508033283",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: all windows 13 Nov 18:00 .. 16 Nov 08:00 read; slot 20:00 free; news today before this post = 3 (10:00, 12:00, 19:00), TikTok today = 3",
+  "previous_slot_check": "19:00 feed (FB/IG/TikTok) and 19:05 story (FB/IG) all PUBLISHED",
+  "news_search": "web search on approved outlets (Dawn, Tribune, Geo, Arab News, APP, BR); slow Sunday news; picked Tribune Dar-Egypt call (15:19 PKT), also reported by Arab News 15:48 PKT",
+  "verification": "1 approved outlet (Express Tribune), article read, timestamp from meta published_time 10:19 UTC; names, invitation, R4/R4+E4 meetings checked; Arab News confirms the call; not a duplicate of last 48h",
+  "image": "Runway nano-banana-2-lite, 1 image, no readable text/faces/logos (anonymous official from behind, PK and Egypt desk flags)",
+  "publish": "feed (FB POST + IG POST + TikTok photo) 20:00 and FB+IG Story 20:05 via payloads exactly; card compared with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan's new pollution squad races to douse stubble fires (Arab News/Reuters 17:44 PKT)",
+   "reason": "same topic as 12:00 Punjab farm-fires post; Tribune ran it earlier (feature, not a new event)"
+  },
+  {
+   "headline": "Shehbaz, Munir, Erdogan, Saudi leaders top Muslim 500 list (Arab News 11:32 PKT)",
+   "reason": "older than 8h before slot"
+  },
+  {
+   "headline": "ECO ministerial meeting delegates arrive in Islamabad",
+   "reason": "ECO meeting already posted 14 Nov 14:00; no new concrete facts"
+  },
+  {
+   "headline": "Bilawal-Fazl call condemning govt actions (Dawn)",
+   "reason": "one-sided political attack"
+  }
+ ],
+ "errors": []
+}
