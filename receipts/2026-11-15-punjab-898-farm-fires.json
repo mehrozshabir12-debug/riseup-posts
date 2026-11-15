@@ -1,0 +1,25 @@
+{
+ "id": "2026-11-15-punjab-898-farm-fires",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 428642773,
+   "status": "PENDING",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6993492649970319685",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 428642781,
+   "status": "PENDING",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6658363541723696036",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

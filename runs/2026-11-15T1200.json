@@ -1,1 +1,66 @@
-{"slot": "2026-11-15T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T11:46:49+05:00"}
+{
+ "slot": "2026-11-15T12:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T11:46:49+05:00",
+ "run_finished_pkt": "2026-11-15T11:50:01+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "6h",
+ "story": {
+  "headline": "EPA Punjab detected 898 farm fires across eight Punjab districts in 24 hours, with Hafizabad alone reporting 430, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044608/898-farm-fires-detected-across-eight-punjab-districts-in-24-hours",
+    "published_at": "2026-11-15T07:43:24+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-15-punjab-898-farm-fires",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-punjab-898-farm-fires.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428642773,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6993492649970319685",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428642781,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6658363541723696036",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; 6h windows 2026-11-13T11:00..2026-11-16T00:00 all read; slot 12:00 free; RiseUp day 2026-11-15: 1 news, 1 TikTok before this (this is #2)",
+  "previous_slot_check": "2026-11-15 10:00 feed 428593153 FB+IG+TikTok PUBLISHED; story 428593160 FB+IG PUBLISHED",
+  "news_search": "Dawn/Tribune/Arab News/Geo/BR/APP searched; Dawn Punjab farm fires (898 in 24h) picked; ECO ministerial opening (Arab News 09:59) rejected as same event as 14 Nov ECO post",
+  "verification": "Dawn article read: published 2026-11-15T07:43:24+05:00, updated 09:54:21; EPA Punjab dashboard 24h: 898 anomalies in 8 districts, 820 attended, 96 pending; Hafizabad 430, Sheikhupura 172, Nankana Sahib 120; DG Abdullah Nayyer Sheikh quote",
+  "image": "Runway nano-banana-2-lite, 1 image, ok, no text/public figures (credits remaining ~1047)",
+  "publish": "workflow awaiting_publish; feed card and story compared with approved 2026-11-13 Ivanhoe card: identical layout; feed (FB+IG POST+TikTok photo) + story scheduled, PENDING; no Reel per owner rule"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan hosts 30th ECO Council of Ministers in Islamabad",
+   "reason": "same event as 14 Nov ECO post (duplicate within 48h)"
+  },
+  {
+   "headline": "Lahore Lakshmi Chowk restoration",
+   "reason": "less important for ordinary people than farm fires/smog"
+  }
+ ],
+ "errors": []
+}
