@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-15-punjab-898-farm-fires",
+ "revision": 1,
+ "request": "requests/2026-11-15-punjab-898-farm-fires.json",
+ "type": "news",
+ "headline": "EPA Punjab detected 898 farm fires across eight Punjab districts in 24 hours, with Hafizabad alone reporting 430, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-15T12:00:00+05:00",
+ "target_slot": "2026-11-15T12:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-punjab-898-farm-fires.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-punjab-898-farm-fires-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-15-punjab-898-farm-fires.jpg",
+  "story": "posts/2026-11-15-punjab-898-farm-fires-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 922740628,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-15T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Punjab mein 24 ghanton mein khaiton mein aag ke 898 waqiat!\nDawn ke mutabiq EPA Punjab ke dashboard par 24 ghanton mein aath districts mein fasal ki baqiyat jalane ke 898 waqiat pakde gaye. Sab se zyada 430 waqiat Hafizabad mein hue, phir Sheikhupura mein 172 aur Nankana Sahib mein 120. In mein se 820 jagah teams pohanchin, aur 96 waqiat abhi baqi thay. EPA Punjab ke DG Abdullah Nayyer Sheikh ne kaha ke har jagah ki aag par waqt par karwai honi chahiye.\nKya aap ke ilaqe mein bhi smog barh raha hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Smog #Punjab #FarmFires #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-punjab-898-farm-fires.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Punjab mein 24 ghanton mein khaiton mein aag ke 898 waqiat",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-15T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-punjab-898-farm-fires-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-15T11:49:16+05:00"
+}

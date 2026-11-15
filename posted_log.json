@@ -10502,5 +10502,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-15",
+  "slot": "2026-11-15T12:00:00+05:00",
+  "request_id": "2026-11-15-punjab-898-farm-fires",
+  "layout": "bold",
+  "headline": "EPA Punjab detected 898 farm fires across eight Punjab districts in 24 hours, with Hafizabad alone reporting 430, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044608/898-farm-fires-detected-across-eight-punjab-districts-in-24-hours",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044608/898-farm-fires-detected-across-eight-punjab-districts-in-24-hours",
+    "published_at": "2026-11-15T07:43:24+05:00"
+   }
+  ],
+  "published": "2026-11-15T07:43:24+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 922740628,
+  "image": "posts/2026-11-15-punjab-898-farm-fires.jpg",
+  "story": "posts/2026-11-15-punjab-898-farm-fires-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-15 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
