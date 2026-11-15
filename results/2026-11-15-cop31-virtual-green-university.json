@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-15-cop31-virtual-green-university",
+ "revision": 1,
+ "request": "requests/2026-11-15-cop31-virtual-green-university.json",
+ "type": "news",
+ "headline": "At COP31 in Antalya, Climate Change Minister Musadik Malik proposed a virtual green university and a Greenfield fund for youth-led climate innovations, APP reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-15T22:01:00+05:00",
+ "target_slot": "2026-11-15T22:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-cop31-virtual-green-university.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-cop31-virtual-green-university-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-15-cop31-virtual-green-university.jpg",
+  "story": "posts/2026-11-15-cop31-virtual-green-university-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 492362332,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-15T22:01:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan ne naujawanon ke liye virtual green university ki tajweez di! 🌱\nAPP ke mutabiq Climate Change ke Federal Minister Dr Musadik Malik ne Türkiye ke shehar Antalya mein COP31 ke mauqe par yeh tajweez pesh ki. Is university mein mukhtalif mulkon ki universities mil kar research karengi, aur students aur teachers ka tabadla hoga. Unhon ne naujawanon ki climate innovations ke liye \"Greenfield fund\" ki tajweez bhi di. Un ke mutabiq fund ka elaan ho chuka hai aur board bhi bana diya gaya hai.\nKya aap aisi university mein parhna chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #COP31 #ClimateChange #MusadikMalik #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-cop31-virtual-green-university.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "COP31: Pakistan ki virtual green university aur youth climate fund ki tajweez",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-15T22:06:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-cop31-virtual-green-university-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-15T21:55:36+05:00"
+}

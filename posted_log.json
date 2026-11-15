@@ -10674,5 +10674,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-15",
+  "slot": "2026-11-15T22:00:00+05:00",
+  "request_id": "2026-11-15-cop31-virtual-green-university",
+  "layout": "bold",
+  "headline": "At COP31 in Antalya, Climate Change Minister Musadik Malik proposed a virtual green university and a Greenfield fund for youth-led climate innovations, APP reports.",
+  "source_outlet": "APP",
+  "source": "https://www.app.com.pk/national/cop31-pakistan-proposes-virtual-green-university-fund-for-climate-innovators/",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/cop31-pakistan-proposes-virtual-green-university-fund-for-climate-innovators/",
+    "published_at": "2026-11-15T19:05:09+05:00"
+   }
+  ],
+  "published": "2026-11-15T19:05:09+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 492362332,
+  "image": "posts/2026-11-15-cop31-virtual-green-university.jpg",
+  "story": "posts/2026-11-15-cop31-virtual-green-university-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-15 22:01 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
