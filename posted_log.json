@@ -10799,5 +10799,20 @@
       "facebook": "POST",
       "instagram": "REEL"
     }
+  },
+  {
+    "date": "2026-11-16",
+    "kind": "talk_clip",
+    "headline": "Allah Pak Hasideen Ke Hasad Se Mehfooz Rakhe (TikTok only, FB/IG posted 15 Nov)",
+    "language": "Roman Urdu",
+    "video": "posts/2026-11-15-allah-hasideen-ke-hasad-se-mehfooz-rakhe.mp4",
+    "tiktok": true,
+    "scheduled": "2026-11-16 09:47 PKT",
+    "metricool_ids": {
+      "tiktok": 429142899
+    },
+    "networks": {
+      "tiktok": "VIDEO"
+    }
   }
 ]
