@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-15-egypt-invites-pm-shehbaz-cairo",
+ "revision": 1,
+ "request": "requests/2026-11-15-egypt-invites-pm-shehbaz-cairo.json",
+ "type": "news",
+ "headline": "Egyptian Foreign Minister Badr Abdelatty repeated an invitation for PM Shehbaz Sharif to visit Cairo, and Deputy PM and Foreign Minister Ishaq Dar responded positively in a phone call on Sunday, the Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-15T20:00:00+05:00",
+ "target_slot": "2026-11-15T20:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-egypt-invites-pm-shehbaz-cairo.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-egypt-invites-pm-shehbaz-cairo-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-15-egypt-invites-pm-shehbaz-cairo.jpg",
+  "story": "posts/2026-11-15-egypt-invites-pm-shehbaz-cairo-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 918993973,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-15T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Egypt invites PM Shehbaz Sharif to visit Cairo! 🇵🇰🇪🇬\nAccording to the Express Tribune, Egyptian Foreign Minister Badr Abdelatty repeated Egypt's invitation for Prime Minister Shehbaz Sharif to visit Cairo during a phone call on Sunday with Deputy Prime Minister and Foreign Minister Ishaq Dar, who responded positively, the Foreign Office said. The two ministers also discussed regional and international developments and the upcoming R4 and R4+E4 meetings in Europe, and agreed to stay in close contact.\nCan closer Pakistan-Egypt ties benefit both countries? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Pakistan #Egypt #IshaqDar #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-egypt-invites-pm-shehbaz-cairo.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Egypt invites PM Shehbaz to Cairo, Dar responds positively",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-15T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-egypt-invites-pm-shehbaz-cairo-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-15T19:51:15+05:00"
+}

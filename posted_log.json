@@ -10588,5 +10588,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-15",
+  "slot": "2026-11-15T20:00:00+05:00",
+  "request_id": "2026-11-15-egypt-invites-pm-shehbaz-cairo",
+  "layout": "bold",
+  "headline": "Egyptian Foreign Minister Badr Abdelatty repeated an invitation for PM Shehbaz Sharif to visit Cairo, and Deputy PM and Foreign Minister Ishaq Dar responded positively in a phone call on Sunday, the Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2640442/dar-responds-positively-to-egypts-invitation-for-pm-shehbaz-to-visit-cairo",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2640442/dar-responds-positively-to-egypts-invitation-for-pm-shehbaz-to-visit-cairo",
+    "published_at": "2026-11-15T15:19:00+05:00"
+   }
+  ],
+  "published": "2026-11-15T15:19:00+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 918993973,
+  "image": "posts/2026-11-15-egypt-invites-pm-shehbaz-cairo.jpg",
+  "story": "posts/2026-11-15-egypt-invites-pm-shehbaz-cairo-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-15 20:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
