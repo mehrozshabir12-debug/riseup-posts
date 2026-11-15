@@ -10782,5 +10782,22 @@
       "instagram": "REEL",
       "tiktok": "VIDEO"
     }
+  },
+  {
+    "date": "2026-11-15",
+    "kind": "talk_clip",
+    "headline": "Allah Pak Hasideen Ke Hasad Se Mehfooz Rakhe, Ameen Summa Ameen",
+    "language": "Roman Urdu",
+    "video": "posts/2026-11-15-allah-hasideen-ke-hasad-se-mehfooz-rakhe.mp4",
+    "cover": "posts/2026-11-15-allah-hasideen-ke-hasad-se-mehfooz-rakhe-cover.jpg",
+    "tiktok": false,
+    "scheduled": "2026-11-15 23:20 PKT",
+    "metricool_ids": {
+      "reel": 429137926
+    },
+    "networks": {
+      "facebook": "POST",
+      "instagram": "REEL"
+    }
   }
 ]
