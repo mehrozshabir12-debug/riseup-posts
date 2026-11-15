@@ -1,1 +1,72 @@
-{"slot": "2026-11-15T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T22:46:06+05:00"}
+{
+ "slot": "2026-11-15T23:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T22:46:06+05:00",
+ "run_finished_pkt": "2026-11-15T22:53:21+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The PCB inducted Mohammad Yousuf and Sana Mir into the PCB Hall of Fame, taking its membership to 16, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449019/yousuf-sana-mir-join-pcb-hall-of-fame-as-membership-rises-to-16",
+    "published_at": "2026-11-15T15:40:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-15-yousuf-sana-mir-pcb-hall-of-fame",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-yousuf-sana-mir-pcb-hall-of-fame.jpg",
+ "freshness_window": "8h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "bb8dd351-89b7-4636-8dc0-bad28aa2b388",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 429113909,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4021780846009663930",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 429113926,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8086225686818016940",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. All windows 13 Nov 22:47 to 16 Nov 10:47 read OK. Slot 23:00 free (only the owner's 22:45 Sheheryar Munawar reel nearby, untouched). RiseUp day 15 Nov: 6 news feed posts before this (10,12,19,20,21,22); TikTok 7 (6 news + 22:45 reel).",
+  "previous_slot_check": "22:00 feed 429061073 FB/IG/TikTok PUBLISHED; 22:06 story 429061083 FB/IG PUBLISHED.",
+  "news_search": "No suitable story in 2h-6h windows: Section 144 (now 4-5 KP districts) duplicate of 19:00; ECO arrivals/preview duplicate; Asif/Kamal provinces, Bilawal-JUI-F political statements; Muslim 500 list (Tribune 13:33 PKT) older than 8h; SAFF semi-final (14 Nov) old; Akbari Gate and solar-finance stories ~09:00 PKT too old; Geo Hamid Mir/Taliban radio pages unfetchable. Picked Business Recorder PCB Hall of Fame (15:40 PKT, 8h window).",
+  "verification": "Single approved outlet (Business Recorder), published 2026-11-15 15:40 +05:00 (metadata + byline). Names, 16 members, 381 matches/17,300 runs, 1,788 Test runs in 2006, 226 internationals/240 wickets/2,432 runs, Asian Games gold 2010 & 2014 checked against article. No earlier report of this induction found.",
+  "image": "Runway nano-banana-2-lite, cricket hall-of-fame gallery, no people, no readable text.",
+  "publish": "Workflow result awaiting_publish (TikTok skipped by pipeline pacing: 7/7 allowed by 23:00). Card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout. Scheduled payloads.feed (FB+IG POST 23:00) and payloads.story (FB+IG STORY 23:05) exactly as returned."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Ban on gatherings in five KP districts (Arab News)",
+   "reason": "duplicate of 19:00 Section 144 post"
+  },
+  {
+   "headline": "PM Shehbaz, CDF Munir joint No 1 in Muslim 500 (Tribune)",
+   "reason": "published 13:33 PKT, older than 8h before T"
+  },
+  {
+   "headline": "Asif hopeful of consensus on new provinces (Dawn)",
+   "reason": "political statement"
+  }
+ ],
+ "errors": []
+}
