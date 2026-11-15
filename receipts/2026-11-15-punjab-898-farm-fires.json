@@ -4,9 +4,7 @@
  "posts": {
   "feed": {
    "metricool_id": 428642773,
-   "status": "PENDING",
-   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6993492649970319685",
-   "networks": {
+   "status": {
     "facebook": "PENDING",
     "instagram": "PENDING",
     "tiktok": "PENDING"
@@ -14,9 +12,7 @@
   },
   "story": {
    "metricool_id": 428642781,
-   "status": "PENDING",
-   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6658363541723696036",
-   "networks": {
+   "status": {
     "facebook": "PENDING",
     "instagram": "PENDING"
    }

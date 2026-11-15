@@ -377,7 +377,10 @@ def phase_receipts():
             cur = posts.setdefault(name, {"attempts": 0})
             if info.get("metricool_id"):
                 cur["metricool_id"] = info["metricool_id"]
-            cur["status"] = {k: str(v).upper() for k, v in (info.get("status") or {}).items()}
+            st = info.get("status")
+            if not isinstance(st, dict):  # tolerate "status": "PENDING" with per-network values under "networks"
+                st = info.get("networks") if isinstance(info.get("networks"), dict) else {}
+            cur["status"] = {k: str(v).upper() for k, v in st.items()}
             cur["public_urls"] = info.get("public_urls", cur.get("public_urls", {}))
             cur["attempts"] = max(cur.get("attempts", 0), int(info.get("attempts", 1)))
             if info.get("error"):
