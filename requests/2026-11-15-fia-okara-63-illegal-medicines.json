@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-15-fia-okara-63-illegal-medicines",
+  "type": "news",
+  "headline": "The FIA seized 63 types of suspected illegal and unregistered medicines, 29 of them Indian-made, in a raid in Okara district and arrested one suspect, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-seizes-63-types-of-illegal-medicines-in-major-anti-counterfeit-operation-arrests-suspect-3007083",
+      "published_at": "2026-11-15T13:33:17+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f9ca84af-c99e-4be3-8fb7-4bb1e58e0505/595b05a6-858b-486e-be3d-17cac370824b/Realistic_news_photo__a_table_in_a_plain_government_office_i.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjdjYWNhMTQ1NjFjN2E2NSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDgyNDg1Mn0.80zMifBoDh9cat4b3SqT_NY3uObD03Q2WjkKVRPSrEc",
+    "head1": "Ghair Qanooni Dawaiyan",
+    "head2_hl": "63 Iqsam",
+    "head2": "Pakri Gayin",
+    "kicker": "FIA Ka Okara Mein Chhapa",
+    "desc": "29 iqsam ki dawaiyan India ki bani hui thin.",
+    "source": "Arab News",
+    "date": "15 NOV 2026"
+  },
+  "caption": "Okara mein ghair qanooni dawaiyon ki 63 iqsam pakri gayin! 💊\nArab News ke mutabiq FIA ne Punjab ke district Okara mein chhapa mar kar ghair qanooni aur ghair registered dawaiyon ki 63 iqsam qabze mein le lin aur ek mulzim ko giraftar kar liya. In mein goliyan, capsules, sprays, creams aur gels shamil hain. 63 mein se 29 iqsam India ki bani hui thin, jabke baqi Germany, UK, US aur Hong Kong ki batayi gayi hain. FIA ke mutabiq yeh ghair qanooni dawaiyon ke khilaf ab tak ke sab se bare operations mein se ek hai, aur is karobar se jure doosre logon ki tehqeeq jaari hai.\nKya aap dawai khareedte waqt us ki registration check karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #FIA #FakeMedicines #Okara #PakistanNews",
+  "tiktok_title": "FIA ne Okara mein ghair qanooni dawaiyon ki 63 iqsam pakri",
+  "publish": {
+    "slot": "2026-11-15T14:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
