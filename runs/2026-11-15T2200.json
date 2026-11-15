@@ -1,1 +1,83 @@
-{"slot": "2026-11-15T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T21:46:29+05:00"}
+{
+ "slot": "2026-11-15T22:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T21:46:29+05:00",
+ "run_finished_pkt": "2026-11-15T21:57:00+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "At COP31 in Antalya, Climate Change Minister Musadik Malik proposed a virtual green university and a Greenfield fund for youth-led climate innovations, APP reports.",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/cop31-pakistan-proposes-virtual-green-university-fund-for-climate-innovators/",
+    "published_at": "2026-11-15T19:05:09+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-15-cop31-virtual-green-university",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-cop31-virtual-green-university.jpg",
+ "freshness_window": "3h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "brand logo (Apple) visible on a laptop - retried",
+   "runway_task": "a65aab81-c88c-4bfe-b129-f00f6315576a",
+   "model": "nano-banana-2-lite"
+  },
+  {
+   "attempt": 2,
+   "result": "ok",
+   "runway_task": "b305720d-2499-46de-a5b9-69f862d1bf5a",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 429061073,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9181293070958085679",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 429061083,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6357691302627948074",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. All windows 13 Nov 21:46 to 16 Nov 09:46 read OK. Slot 22:00 free. RiseUp day 15 Nov: 5 news feed posts before this (10,12,19,20,21), 5 TikTok.",
+  "previous_slot_check": "21:00 feed 429008890 FB/IG/TikTok PUBLISHED; 21:05 story 429008917 FB/IG PUBLISHED.",
+  "news_search": "No suitable new story in 2h window (OIC/Dar used at 21:00; Section 144, ECO arrivals, Egypt invite duplicates; provinces/referendum and Khawaja Asif items political statements; Geo pages unfetchable). APP COP31 story published 19:05 PKT (3h window).",
+  "verification": "Single approved outlet (APP), article:published_time 2026-11-15T19:05:09+05:00; names, place, proposals checked against article.",
+  "image": "Runway nano-banana-2-lite, 2 attempts (first had laptop logo), final: anonymous students from behind, glacier model, no text/logos.",
+  "publish": "Pipeline status awaiting_publish; feed card compared with approved posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg - same layout. Scheduled payloads.feed 22:01 and payloads.story 22:06 exactly as returned."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Referendum on new provinces, says Mustafa Kamal (Geo)",
+   "reason": "political statement; Geo article could not be opened for timestamp"
+  },
+  {
+   "headline": "Khawaja Asif hints at major political developments (Geo)",
+   "reason": "vague political statement; page unfetchable"
+  },
+  {
+   "headline": "First snowfall in Galiyat (APP feature 14:17)",
+   "reason": "older; snowfall first-report time unclear"
+  },
+  {
+   "headline": "ICC calendar until 2035 (Tribune)",
+   "reason": "article page could not be opened (provenance)"
+  }
+ ],
+ "errors": []
+}
