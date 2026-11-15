@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-15-punjab-898-farm-fires",
+  "type": "news",
+  "headline": "EPA Punjab detected 898 farm fires across eight Punjab districts in 24 hours, with Hafizabad alone reporting 430, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044608/898-farm-fires-detected-across-eight-punjab-districts-in-24-hours",
+      "published_at": "2026-11-15T07:43:24+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/4b67f44e-6d14-49b9-bd8e-6632e42fa82b/00c0a02c-fccb-4de8-ae4e-4e81bc1bd577/Realistic_photo_of_a_harvested_rice_field_in_rural_Punjab__P.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjRjMjMwY2JhZjFkYmQ4YyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDgxOTI3NX0.Oox1IVyIpvNoZRnxS8xMSELqScjZMdGKP1KIdu0YGK0",
+    "head1": "Khaiton Mein Aag",
+    "head2_hl": "898",
+    "head2": "Waqiat",
+    "kicker": "Punjab Ke 8 Districts Mein",
+    "desc": "Sab se zyada 430 waqiat Hafizabad mein report hue.",
+    "source": "Dawn",
+    "date": "15 NOV 2026"
+  },
+  "caption": "Punjab mein 24 ghanton mein khaiton mein aag ke 898 waqiat!\nDawn ke mutabiq EPA Punjab ke dashboard par 24 ghanton mein aath districts mein fasal ki baqiyat jalane ke 898 waqiat pakde gaye. Sab se zyada 430 waqiat Hafizabad mein hue, phir Sheikhupura mein 172 aur Nankana Sahib mein 120. In mein se 820 jagah teams pohanchin, aur 96 waqiat abhi baqi thay. EPA Punjab ke DG Abdullah Nayyer Sheikh ne kaha ke har jagah ki aag par waqt par karwai honi chahiye.\nKya aap ke ilaqe mein bhi smog barh raha hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Smog #Punjab #FarmFires #PakistanNews",
+  "tiktok_title": "Punjab mein 24 ghanton mein khaiton mein aag ke 898 waqiat",
+  "publish": {
+    "slot": "2026-11-15T12:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
