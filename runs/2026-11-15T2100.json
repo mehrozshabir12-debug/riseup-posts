@@ -1,1 +1,77 @@
-{"slot": "2026-11-15T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T20:46:25+05:00"}
+{
+ "slot": "2026-11-15T21:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T20:46:00+05:00",
+ "run_finished_pkt": "2026-11-15T20:52:40+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Deputy PM and Foreign Minister Ishaq Dar met OIC Secretary-General Ismail Ould Cheikh Ahmed in Islamabad on Sunday, and both reiterated support for the people of Palestine and Jammu and Kashmir, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-fm-reaffirms-support-for-palestinians-kashmiris-in-meeting-with-oic-chief-3007112",
+    "published_at": "2026-11-15T20:18:26+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-15-dar-oic-chief-kashmir-palestine",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-dar-oic-chief-kashmir-palestine.jpg",
+ "freshness_window": "2h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "755b9747-c235-49ae-a4a8-e4bc5eac1039",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 429008890,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=538323784561281225",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 429008917,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5601979220053442072",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. All 6h windows 13 Nov 20:46 to 16 Nov 08:46 read OK. Slot 21:00 free. RiseUp day 15 Nov: 4 news feed posts before this (10,12,19,20), 4 TikTok.",
+  "previous_slot_check": "20:00 feed 428958329 FB/IG/TikTok PUBLISHED; 20:05 story 428958355 FB/IG PUBLISHED.",
+  "news_search": "Arab News OIC story published 20:18 PKT (2h window). Dawn/Tribune/Geo checked; other evening items were duplicates (Section 144, ECO arrivals, Egypt invite), political statements, or older than 8h.",
+  "verification": "Single approved outlet (Arab News), timestamp from article metadata 2026-11-15T15:18:26Z; names, place, date checked against article.",
+  "image": "Runway nano-banana-2-lite, 1 image, no text/logos, anonymous delegates.",
+  "publish": "Pipeline status awaiting_publish; feed card compared with approved posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg - same layout. Scheduled payloads.feed 21:00 and payloads.story 21:05 exactly as returned."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM Shehbaz, CDF Munir top 500 most influential Muslims list (Dawn)",
+   "reason": "published 12:18 PKT, older than 8h before slot"
+  },
+  {
+   "headline": "Bilawal condemns govt actions against JUI-F in call with Fazl (Dawn)",
+   "reason": "one-sided political statement"
+  },
+  {
+   "headline": "Diamer GBA-16 re-polling (Dawn)",
+   "reason": "unverified allegations, no result yet"
+  },
+  {
+   "headline": "Section 144 incl. Tank / ECO delegates arrive",
+   "reason": "duplicates of earlier posts"
+  }
+ ],
+ "errors": []
+}
