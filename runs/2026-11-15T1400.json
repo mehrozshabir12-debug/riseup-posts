@@ -1,1 +1,50 @@
-{"slot": "2026-11-15T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T13:47:14+05:00"}
+{
+ "slot": "2026-11-15T14:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T13:46:48+05:00",
+ "run_finished_pkt": "2026-11-15T14:00:00+05:00",
+ "test_mode": false,
+ "outcome": "error_render_failed: GitHub workflow crashed in 'process_request.py receipts' (AttributeError: 'str' object has no attribute 'items') because receipts/2026-11-15-punjab-898-farm-fires.json (12:00 run) has posts.feed.status/posts.story.status as a string 'PENDING' instead of a per-network dict; render step never ran, no card produced",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The FIA seized 63 types of suspected illegal and unregistered medicines, 29 of them Indian-made, in a raid in Okara district and arrested one suspect, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-seizes-63-types-of-illegal-medicines-in-major-anti-counterfeit-operation-arrests-suspect-3007083",
+    "published_at": "2026-11-15T13:33:17+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-15-fia-okara-63-illegal-medicines",
+ "card_url": null,
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; slot window 13:00-15:00 + 6h windows 2026-11-13T13:00..2026-11-16T02:00 all read; slot 14:00 free; RiseUp day 2026-11-15: 2 news, 2 TikTok so far",
+  "previous_slot_check": "2026-11-15 12:00 feed 428642773 FB+IG+TikTok PUBLISHED; story 428642781 FB+IG PUBLISHED",
+  "news_search": "Dawn/Tribune/Arab News/Geo searched; Arab News FIA Okara illegal medicines (13:33 PKT) picked; SAFF semi-final win (event Saturday) too old; ECO = duplicate of 14 Nov",
+  "verification": "Arab News article read: published 2026-11-15T08:33:17Z (13:33 PKT); FIA, Okara, 63 types, 29 Indian-origin, rest Germany/UK/US/Hong Kong, 1 suspect arrested. Note: article says FIA statement was 'on Saturday'; no earlier report found",
+  "image": "Runway nano-banana-2-lite, 1 image, ok (credits remaining ~1043)",
+  "publish": "not published: workflow run 43696288348 failed at receipts phase before render; results/<id>.json never written; per owner rule did not edit the 12:00 receipt (not created in this run) and did not render cards myself"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan edge Bangladesh to reach first SAFF Championship final (Dawn 07:43)",
+   "reason": "match played Saturday, first report older than 8h"
+  },
+  {
+   "headline": "Turkish, Azeri, SCO officials arrive for ECO ministerial",
+   "reason": "same event as 14 Nov ECO post"
+  }
+ ],
+ "errors": [
+  "GitHub Actions run 43696288348 (RiseUp Media Manager): automation/process_request.py line 380 phase_receipts: AttributeError: 'str' object has no attribute 'items'"
+ ]
+}
