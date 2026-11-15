@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-15-cop31-virtual-green-university",
+  "type": "news",
+  "headline": "At COP31 in Antalya, Climate Change Minister Musadik Malik proposed a virtual green university and a Greenfield fund for youth-led climate innovations, APP reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "APP",
+      "url": "https://www.app.com.pk/national/cop31-pakistan-proposes-virtual-green-university-fund-for-climate-innovators/",
+      "published_at": "2026-11-15T19:05:09+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b305720d-2499-46de-a5b9-69f862d1bf5a/b2c12340-a71f-4f6b-8060-7791c5185efb/Realistic_documentary_photo_of_a_university_climate_research.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMDE0Yzk5MjBkNTIxMWRmZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDg5Nzk1Mn0.hfGA4RAWpQZxbxlH1D-jROywZR0ND7ZDVPAEXDfNmQE",
+    "head1": "Naujawanon Ke Liye",
+    "head2_hl": "Green University",
+    "head2": "",
+    "kicker": "COP31 Mein Pakistan Ki Tajweez",
+    "desc": "Climate innovation ke liye Greenfield fund bhi tajweez.",
+    "source": "APP",
+    "date": "15 NOV 2026"
+  },
+  "caption": "Pakistan ne naujawanon ke liye virtual green university ki tajweez di! 🌱\nAPP ke mutabiq Climate Change ke Federal Minister Dr Musadik Malik ne Türkiye ke shehar Antalya mein COP31 ke mauqe par yeh tajweez pesh ki. Is university mein mukhtalif mulkon ki universities mil kar research karengi, aur students aur teachers ka tabadla hoga. Unhon ne naujawanon ki climate innovations ke liye \"Greenfield fund\" ki tajweez bhi di. Un ke mutabiq fund ka elaan ho chuka hai aur board bhi bana diya gaya hai.\nKya aap aisi university mein parhna chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #COP31 #ClimateChange #MusadikMalik #PakistanNews",
+  "tiktok_title": "COP31: Pakistan ki virtual green university aur youth climate fund ki tajweez",
+  "publish": {
+    "slot": "2026-11-15T22:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
