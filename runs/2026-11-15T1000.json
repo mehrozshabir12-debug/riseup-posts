@@ -1,1 +1,70 @@
-{"slot": "2026-11-15T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-15T09:46:15+05:00"}
+{
+ "slot": "2026-11-15T10:00:00+05:00",
+ "riseup_day": "2026-11-15",
+ "run_started_pkt": "2026-11-15T09:46:15+05:00",
+ "run_finished_pkt": "2026-11-15T09:50:33+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Prices of high-quality pomegranates in Quetta have doubled to Rs900 per kg from Rs400 last year while Pakistan's border with Afghanistan stays closed to trade, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/apples-to-pomegranates-pakistani-farmers-adapt-to-afghan-border-closures-3007074",
+    "published_at": "2026-11-15T09:38:13+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-15-quetta-pomegranate-price-doubles",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-15-quetta-pomegranate-price-doubles.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 428593153,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2782652175670689240",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 428593160,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8175271732044384045",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "ok: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all 6h windows 2026-11-13T09:00..2026-11-15T22:00 read; slot 10:00 free; RiseUp day 2026-11-15: 0 news, 0 TikTok before this (this is #1)",
+  "previous_slot_check": "2026-11-14 23:00 feed 428213433 FB+IG PUBLISHED; story 428213443 FB+IG PUBLISHED",
+  "news_search": "Dawn/Tribune/Geo/Arab News/APP searched; Arab News pomegranate/Afghan border story published 09:38 PKT (2h window), not a duplicate of last 48h",
+  "verification": "Arab News article read: published/modified 2026-11-15T04:38:13Z = 09:38:13 PKT, by Saadullah Akhter; Quetta high-quality pomegranate Rs900/kg vs Rs400 last year; 10kg crate Rs4,000 (2025) -> Rs10,000 (Bashir Khan, Hazar Ganji market); ~250 trucks via Chaman (Hajji Jalat Khan Achakzai); supply from Pishin and Killa Abdullah; border closed to trade",
+  "image": "Runway nano-banana-2-lite, 1 image, ok, no text/public figures (credits remaining ~1051)",
+  "publish": "workflow awaiting_publish; feed card and story compared with approved 2026-11-13 Ivanhoe card: identical layout; feed (FB+IG POST+TikTok photo) + story scheduled, PENDING; no Reel per owner rule"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan beat Bangladesh to reach SAFF Championship final vs India",
+   "reason": "first reported Saturday; outside 2h window where a fresher story exists"
+  },
+  {
+   "headline": "Islamabad to host ECO ministerial meeting today",
+   "reason": "duplicate of 2026-11-14 14:00 ECO post"
+  },
+  {
+   "headline": "Pakistan, 16 nations slam Israeli strike on Gaza hospital",
+   "reason": "violence story; newspaper re-run of Saturday news"
+  }
+ ],
+ "errors": []
+}
