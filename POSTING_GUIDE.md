@@ -1,3 +1,16 @@
+> 🖼️ **15 Nov 2026 — owner's order: EVERY Reel gets a designed RiseUp cover** (collab reels, drama clips, any video
+> the owner sends — Instagram REEL, Facebook video, TikTok). Never post a Reel with a random frame as cover.
+> 1. Make it: `python3 template/make_reel_cover.py <video>.mp4 posts/<slug>-cover.jpg "<Hook Headline>"
+>    --hl "<1-2 key words>" --sub "<one line saying what the reel is about>" --tag "<DRAMA CLIP / MUST WATCH /
+>    VIRAL / BREAKING>" [--credit "@creator"] --edited` (use --edited on the edited RiseUp reel; leave it off for the
+>    original clip; --t <sec> forces a frame).
+> 2. Headline = 2–5 word Roman Urdu hook that makes people stop (curiosity/emotion), easy for a common person,
+>    no grammar mistakes, facts only from the clip. Sub-line describes the reel; collab reels always carry --credit.
+> 3. Look at the cover: face/subject visible, text not overflowing, all key text inside the IG grid crop (y 240–1680).
+> 4. Push it to main BEFORE scheduling, then add to the Metricool info:
+>    `"videoThumbnailUrl": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/<slug>-cover.jpg"`.
+>    If Metricool rejects the cover, post the Reel without it and tell the owner.
+
 > ⛔ **14 Nov 2026 — owner's order: NO Instagram Reels for news/photo posts.** Every news, star and showbiz post goes
 > to Instagram as a normal feed photo POST (instagramData {type: POST}) with the JPG card, together with Facebook POST
 > (+ TikTok photo under the limit) and the FB + IG Story. Requests use "reel": {"type": "none"} and no music. The
