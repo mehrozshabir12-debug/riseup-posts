@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-16-pakistan-to-host-makkah-alliance-meeting",
+  "type": "news",
+  "headline": "Deputy PM and Foreign Minister Ishaq Dar said on Monday that Pakistan will host the next meeting of the Makkah Defence Alliance's apex committee, the Strategic Political and Defence Committee, hopefully at the end of this month in Islamabad, Dawn reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044957/pakistan-to-host-next-makkah-alliance-summit-later-this-month-dpm-dar",
+      "published_at": "2026-11-16T20:02:09+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/3b04a715-e9d4-43d2-a7c5-d3864183e73f/e21f93a3-90aa-4996-8119-54eb79569da7/Realistic_news_photo_of_a_formal_high_level_defence_and_fore.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZmQ4MmNhZmExMTQ3ZjVkNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDk1NDQ5MH0.9D6jeQVEEP65Zy4rJ-58ZOgzrQVAGV4E2ePfF_Dy14g",
+    "head1": "Pakistan To Host",
+    "head2_hl": "Makkah Alliance",
+    "head2": "Talks",
+    "kicker": "Defence Pact Apex Committee",
+    "desc": "Dar says meeting likely in Islamabad this month",
+    "source": "Dawn",
+    "date": "16 NOV 2026"
+  },
+  "caption": "Pakistan to host Makkah Defence Alliance meeting! 🤝\nAccording to Dawn, Deputy Prime Minister and Foreign Minister Ishaq Dar said on Monday that Pakistan will host the next meeting of the Makkah Defence Alliance's apex committee, the Strategic Political and Defence Committee, hopefully at the end of this month in Islamabad. The Makkah Joint Defence Agreement was signed on Aug 7 by Pakistan, Saudi Arabia and Turkiye; under it, an attack on any one of them counts as an attack on all. Dar said new members may be admitted about one year after the alliance is established.\nWhat does this alliance mean for Pakistan? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MakkahDefenceAlliance #IshaqDar #SaudiArabia #PakistanNews",
+  "tiktok_title": "Pakistan to host Makkah Defence Alliance apex committee meeting",
+  "publish": {
+    "slot": "2026-11-16T21:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
