@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-16-sbp-fy27-gdp-growth-projection",
+ "revision": 1,
+ "request": "requests/2026-11-16-sbp-fy27-gdp-growth-projection.json",
+ "type": "news",
+ "headline": "The State Bank of Pakistan's annual State of Pakistan's Economy report, released on Monday, projects real GDP growth of 3.5-4.5% in FY27, a current account deficit of 0-1.0% of GDP, and inflation easing gradually toward the 5.0-7.0% target range, Business Recorder reports.",
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-16; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-16T19:00:00+05:00",
+ "target_slot": "2026-11-16T19:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-sbp-fy27-gdp-growth-projection.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-sbp-fy27-gdp-growth-projection-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-16-sbp-fy27-gdp-growth-projection.jpg",
+  "story": "posts/2026-11-16-sbp-fy27-gdp-growth-projection-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 96812194,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-16T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "SBP ne agle saal ki growth ka andaza bata diya! 📊\nBusiness Recorder ke mutabiq State Bank of Pakistan (SBP) ne Monday ko apni salana report \"State of Pakistan's Economy\" jaari ki. Is ke mutabiq FY27 mein mulk ki GDP growth 3.5 se 4.5 feesad rehne ka andaza hai. Current account deficit GDP ke 0 se 1 feesad tak rehne ki umeed hai, aur is mein remittances ka bara hath hoga. SBP ke mutabiq mehngai aahista aahista 5 se 7 feesad ke hadaf ki taraf aayegi, lekin Middle East ke tanaze ki wajah se energy ki qeematein mehngai barha sakti hain.\nKya aap ko mehngai mein kami mehsoos ho rahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #PakistanEconomy #GDP #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-sbp-fy27-gdp-growth-projection.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-16T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-sbp-fy27-gdp-growth-projection-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-16T18:52:19+05:00"
+}

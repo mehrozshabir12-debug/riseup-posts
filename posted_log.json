@@ -11029,5 +11029,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-16",
+  "slot": "2026-11-16T19:00:00+05:00",
+  "request_id": "2026-11-16-sbp-fy27-gdp-growth-projection",
+  "layout": "bold",
+  "headline": "The State Bank of Pakistan's annual State of Pakistan's Economy report, released on Monday, projects real GDP growth of 3.5-4.5% in FY27, a current account deficit of 0-1.0% of GDP, and inflation easing gradually toward the 5.0-7.0% target range, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449187/state-of-pakistans-economy-sbp-projects-gdp-growth-at-35-45-in-fy27",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449187/state-of-pakistans-economy-sbp-projects-gdp-growth-at-35-45-in-fy27",
+    "published_at": "2026-11-16T16:47:03+05:00"
+   }
+  ],
+  "published": "2026-11-16T16:47:03+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 96812194,
+  "image": "posts/2026-11-16-sbp-fy27-gdp-growth-projection.jpg",
+  "story": "posts/2026-11-16-sbp-fy27-gdp-growth-projection-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-16 19:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
