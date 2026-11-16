@@ -1,1 +1,72 @@
-{"slot": "2026-11-16T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T20:47:02+05:00"}
+{
+ "slot": "2026-11-16T21:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T20:47:02+05:00",
+ "run_finished_pkt": "2026-11-16T20:51:59+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Deputy PM and Foreign Minister Ishaq Dar said on Monday that Pakistan will host the next meeting of the Makkah Defence Alliance's apex committee, the Strategic Political and Defence Committee, hopefully at the end of this month in Islamabad, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044957/pakistan-to-host-next-makkah-alliance-summit-later-this-month-dpm-dar",
+    "published_at": "2026-11-16T20:02:09+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-pakistan-to-host-makkah-alliance-meeting",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-pakistan-to-host-makkah-alliance-meeting.jpg",
+ "freshness_window": "2h",
+ "language": "English",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "3b04a715-e9d4-43d2-a7c5-d3864183e73f",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 430267893,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2289938219793335033",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 430267955,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-23112578412753134",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: windows 16 Nov 10:00-17 Nov 08:00 all succeeded; no post at 21:00; 14-15 Nov history checked via repo run logs. Today news feed posts 7/10 before this post, TikTok 6/8 (pipeline skipped TikTok for this slot: allowed by 21:00 = 6).",
+  "previous_slot_check": "20:00 feed 430190862 FB+IG+TikTok PUBLISHED (https://facebook.com/122185478282855502/posts/122190567152855502, https://www.instagram.com/p/Dfzoaagm4En/, https://www.tiktok.com/@riseuppakistan2025/video/7708784960924060948); story 430190908 FB+IG PUBLISHED",
+  "news_search": "Searched Dawn, Tribune, Brecorder, Arab News, Geo/The News, APP. Picked Dawn Makkah Defence Alliance story (published 20:02 PKT, updated 20:41).",
+  "verification": "Single approved outlet (Dawn), meta published 2026-11-16T20:02:09+05:00 read from page; names/dates checked: Ishaq Dar, SPDC, Aug 7 agreement Pakistan/Saudi Arabia/Turkiye, meeting hopefully end of month in Islamabad, new members ~1 year after establishment. Not a duplicate (12:00 ECO post was a different statement).",
+  "image": "Runway nano-banana-2-lite, 1 attempt, conference room scene, no text/logos/flags/identifiable faces; credits remaining 987",
+  "publish": "Pipeline status awaiting_publish; feed card and story compared with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou card: identical layout. Scheduled feed 21:00 (FB POST + IG POST) and story 21:05 (FB+IG) exactly as payloads returned."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan face India in SAFF Cup final in Dhaka (Tribune 18:31 PKT)",
+   "reason": "preview article; first-report time of Pakistan reaching final (semi-final win) not established within 8h"
+  },
+  {
+   "headline": "Lahore to host FIH Hockey Men's Nations Cup Feb 19-28, 2027 (Arab News 13:52 PKT)",
+   "reason": "older (7h) than the chosen 20:02 story"
+  },
+  {
+   "headline": "Imran Khan letter / Bushra Bibi IHC plea",
+   "reason": "sensitive health / political content"
+  }
+ ],
+ "errors": []
+}
