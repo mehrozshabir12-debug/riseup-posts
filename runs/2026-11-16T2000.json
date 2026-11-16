@@ -1,1 +1,73 @@
-{"slot": "2026-11-16T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T19:47:24+05:00"}
+{
+ "slot": "2026-11-16T20:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T19:47:24+05:00",
+ "run_finished_pkt": "2026-11-16T19:58:14+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Gold price in Pakistan fell by Rs2,000 per tola on Monday to Rs408,936, while 10 grams fell by Rs1,715 to Rs350,596 (APGJSA), Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449172/gold-sheds-rs2000-per-tola-in-pakistan",
+    "published_at": "2026-11-16T14:50:53+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-gold-falls-rs2000-per-tola",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-gold-falls-rs2000-per-tola.jpg",
+ "freshness_window": "6h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "fab2d6b7-70e8-495c-86ca-ab5d69da81e2",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 430190862,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6014679729418825",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 430190908,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1010874023188937981",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: slot window 19:00-21:00 had no post at 20:00; today's windows 16 Nov 10:00 .. 17 Nov 08:00 succeeded; 14-15 Nov history checked via repo run logs (run started late, ~13 min before slot); today news feed posts 6/10, TikTok 5/8 before this post",
+  "previous_slot_check": "19:00 feed 430102697 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122190561620855502, https://www.instagram.com/p/Dfzh-VblS22/); story 430102750 FB+IG PUBLISHED",
+  "news_search": "Dawn latest, Tribune Pakistan page, Arab News, Brecorder searched; Geo latest-news listing was a stale 2024 cache (ignored). Picked Brecorder gold rate story 14:50 PKT.",
+  "verification": "Single approved outlet (Business Recorder), article timestamp 2026-11-16T14:50:53+05:00 read from page; all figures checked: Rs408,936/tola (-Rs2,000), Rs350,596/10g (-Rs1,715), silver Rs5,228 (-Rs115), APGJSA. Not a duplicate (last gold post was 14 Nov, Rs410,936).",
+  "image": "Runway nano-banana-2-lite, 1 attempt, jewellery shop scene, no text/logos/public figures; credits remaining 991",
+  "publish": "Pipeline status awaiting_publish; feed card and story compared with approved 2026-11-16-sbp-fy27-gdp-growth-projection card: identical layout. Scheduled feed 20:02 (FB POST + IG POST + TikTok photo) and story 20:07 (FB+IG) exactly as payloads returned (NOW was past T-5 min)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan Shaheens depart for Doha for Asia Cup Rising Stars (Arab News 17:45)",
+   "reason": "departure happened in early hours; first-report time could not be established within 8h"
+  },
+  {
+   "headline": "Pakistan sports endowment fund set to launch within a month (Tribune)",
+   "reason": "article page could not be opened (fetch permission), timestamp unverifiable"
+  },
+  {
+   "headline": "Punjab anti-rape legislation / Imran Khan letter / Bushra Bibi IHC plea",
+   "reason": "sensitive or one-sided political/health content"
+  }
+ ],
+ "errors": []
+}
