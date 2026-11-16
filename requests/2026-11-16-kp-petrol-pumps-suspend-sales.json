@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-16-kp-petrol-pumps-suspend-sales",
+  "type": "news",
+  "headline": "Petrol pump owners in several Khyber Pakhtunkhwa districts suspended fuel sales in protest against frequent government price cuts, causing long vehicle queues, Business Recorder reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449065/kp-petrol-pump-owners-protest-frequent-price-cuts",
+      "published_at": "2026-11-16T04:18:15+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/d752a288-97a7-41f7-b16b-2300e72a8e3a/52248f0d-3048-4fbc-ad20-5d69e908f87a/Realistic_documentary_photo_of_a_closed_roadside_petrol_stat.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMWVhNmE3NGZhYWViNGZkMiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDk0NTQ4N30.MfOHIKiEGlSo9Nw57tJqBWH2L4oKgcYHGE_M6TsE7SM",
+    "head1": "KP Ke Kai Pumps",
+    "head2_hl": "Petrol Band",
+    "head2": "",
+    "kicker": "Qeemat Mein Kami Par Ehtijaj",
+    "desc": "Pump malikan rozana qeemat badalne se nuqsan ki shikayat kar rahe hain",
+    "source": "Business Recorder",
+    "date": "16 NOV 2026"
+  },
+  "caption": "KP ke kai petrol pumps par tail ki farokht band! ⛽\nBusiness Recorder ke mutabiq Khyber Pakhtunkhwa ke kai districts mein petrol pump malikan ne hukoomat ki taraf se bar bar qeemat kam karne par ehtijaj kiya hai, aur kai pumps ne tail bechna band kar diya hai. Is wajah se mukhtalif sarkon par gaariyon ki lambi qataarein lag gayin. Petroleum Sellers Association ke tarjuman Najeebullah ne kaha ke rozana qeemat badalne se malikan ko bara nuqsan ho raha hai. Woh chahte hain ke qeemat mahine mein ek baar, ya kam az kam haftay mein ek baar badli jaye.\nKya aap ke ilaqe mein bhi petrol milne mein mushkil hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #KhyberPakhtunkhwa #Peshawar #PakistanNews",
+  "tiktok_title": "KP ke kai petrol pumps par farokht band, qeemat mein bar bar kami par ehtijaj",
+  "publish": {
+    "slot": "2026-11-16T10:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
