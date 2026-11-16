@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-16-gold-falls-rs2000-per-tola",
+  "type": "news",
+  "headline": "Gold price in Pakistan fell by Rs2,000 per tola on Monday to Rs408,936, while 10 grams fell by Rs1,715 to Rs350,596, according to the All-Pakistan Gems and Jewellers Sarafa Association, Business Recorder reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449172/gold-sheds-rs2000-per-tola-in-pakistan",
+      "published_at": "2026-11-16T14:50:53+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/fab2d6b7-70e8-495c-86ca-ab5d69da81e2/24960d6e-aa60-4a3e-9c5d-b658a504a5a1/Realistic_photo_inside_a_traditional_Pakistani_jewellery_sho.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNWFhNTg1ZTFmOTMwMjNhYSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDk0NDM1M30.eGGQf7TW35zuuzK5ii8fy2j9ZNPfkGyIdaf5PWqD1mw",
+    "head1": "Sone Ki Qeemat",
+    "head2_hl": "Rs2,000",
+    "head2": "Kam",
+    "kicker": "Fi Tola Nayi Qeemat",
+    "desc": "Fi tola sona ab Rs408,936 ka ho gaya",
+    "source": "Business Recorder",
+    "date": "16 NOV 2026"
+  },
+  "caption": "Sone ki qeemat mein Rs2,000 ki kami! 💰\nBusiness Recorder ke mutabiq Monday ko Pakistan mein sone ki qeemat Rs2,000 fi tola kam ho kar Rs408,936 ho gayi. 10 gram sona Rs1,715 sasta ho kar Rs350,596 ka ho gaya. Yeh rates All-Pakistan Gems and Jewellers Sarafa Association ne jaari kiye. Chandi bhi Rs115 sasti ho kar Rs5,228 fi tola ho gayi.\nKya aap sona khareedne ka soch rahe hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #GoldRate #PakistanEconomy #PakistanNews",
+  "tiktok_title": "Sone ki qeemat Rs2,000 fi tola kam, ab Rs408,936",
+  "publish": {
+    "slot": "2026-11-16T20:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
