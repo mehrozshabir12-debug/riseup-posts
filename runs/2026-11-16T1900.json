@@ -1,1 +1,76 @@
-{"slot": "2026-11-16T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T18:49:13+05:00"}
+{
+ "slot": "2026-11-16T19:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T18:49:13+05:00",
+ "run_finished_pkt": "2026-11-16T18:53:18+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The State Bank of Pakistan's annual State of Pakistan's Economy report, released on Monday, projects real GDP growth of 3.5-4.5% in FY27, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449187/state-of-pakistans-economy-sbp-projects-gdp-growth-at-35-45-in-fy27",
+    "published_at": "2026-11-16T16:47:03+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-sbp-fy27-gdp-growth-projection",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-sbp-fy27-gdp-growth-projection.jpg",
+ "freshness_window": "3h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "351fe84b-50ba-46a8-a18c-59cc8ee035e3",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 430102697,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8061258442190573189",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 430102750,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4635663849387805094",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; slot window 18:00-20:00 had no post at 19:00; windows 14 Nov 18:00 .. 17 Nov 07:00 all succeeded; today news feed posts 5/10, TikTok 5/8 before this post",
+  "previous_slot_check": "18:00 feed 430027300 FB/IG/TikTok PUBLISHED; 18:05 story 430027328 FB/IG PUBLISHED",
+  "news_search": "Brecorder SBP State of Pakistan's Economy article published 16:47:03 PKT (meta), report released Monday; within 3h of slot; no SBP outlook post in last 48h",
+  "verification": "Single approved outlet (Business Recorder); GDP 3.5-4.5% FY27, CAD 0-1.0% of GDP, inflation easing toward 5.0-7.0% target, energy price risk from Middle East conflict checked against article",
+  "image": "Runway nano-banana-2-lite, 1 image, busy wholesale market street with trucks and city skyline, anonymous people, no readable text/logos",
+  "publish": "Card + story rendered by GitHub workflow, compared with approved 2026-11-13 Ivanhoe card: same layout; workflow skipped TikTok (pacing: 5 allowed by 19:00); feed FB+IG and story scheduled PENDING; no Reel"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Lahore to host FIH Hockey Men's Nations Cup in Feb 2027 (Arab News 13:52 PKT)",
+   "reason": "announced Friday; article >5h old, older first report"
+  },
+  {
+   "headline": "Imran Khan open letter to chief justices on medical treatment",
+   "reason": "political, one-sided risk"
+  },
+  {
+   "headline": "Salik sends CM Maryam defamation notices",
+   "reason": "political dispute"
+  },
+  {
+   "headline": "13-year-old domestic worker murder case remand",
+   "reason": "story about a minor / violence"
+  }
+ ],
+ "errors": []
+}
