@@ -11156,5 +11156,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-16",
+  "slot": "2026-11-16T22:00:00+05:00",
+  "request_id": "2026-11-16-pak-sl-second-test-rawalpindi-preview",
+  "layout": "bold",
+  "headline": "Pakistan bowling coach Shaun Tait and Sri Lanka captain Kusal Mendis both want an extra push for a result in the second and final Test starting Tuesday in Rawalpindi, after the first Test ended without a result due to bad weather, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result",
+    "published_at": "2026-11-16T19:28:40+05:00"
+   }
+  ],
+  "published": "2026-11-16T19:28:40+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 181251328,
+  "image": "posts/2026-11-16-pak-sl-second-test-rawalpindi-preview.jpg",
+  "story": "posts/2026-11-16-pak-sl-second-test-rawalpindi-preview-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-16 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
