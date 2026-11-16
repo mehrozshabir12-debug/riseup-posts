@@ -1,1 +1,59 @@
-{"slot": "2026-11-16T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T22:47:45+05:00"}
+{
+ "slot": "2026-11-16T23:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T22:47:45+05:00",
+ "run_finished_pkt": "2026-11-16T22:50:54+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Iran's Foreign Minister Abbas Araghchi met Pakistan's Chief of Defence Forces Field Marshal Asim Munir in Rawalpindi on Monday evening during his visit for the ECO meeting hosted by Pakistan, according to Iranian state media cited by Arab News.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://arabnews.pk/pakistan/iran-fm-discusses-regional-developments-with-pakistan-military-chief-in-islamabad-3007218",
+    "published_at": "2026-11-16T22:42:02+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-araghchi-munir-rawalpindi-eco",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-araghchi-munir-rawalpindi-eco.jpg",
+ "freshness_window": "2h",
+ "language": "English",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "9d349eb9-ca8f-4fe3-b44b-aee2458fb24b",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 430433899,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1800591792974480722",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 430433926,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2809834224355068631",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: windows 16 Nov 22:00-17 Nov 00:00 and 17 Nov 00:00-11:00 succeeded; no post at 23:00, nothing upcoming. Older 48h history checked via repo run logs 14-16 Nov (no Araghchi-Munir meeting story; ECO stories on 14 Nov and 16 Nov 12:00 were different events). News feed posts today 9/10 before this one (this makes 10/10). TikTok 7/8 but pipeline skipped TikTok (allowed by 23:00 = 7).",
+  "previous_slot_check": "22:00 feed 430358156 FB+IG+TikTok PUBLISHED (https://facebook.com/122185478282855502/posts/122190576062855502, https://www.instagram.com/p/Dfz3MHjG6d6/, https://www.tiktok.com/@riseuppakistan2025/video/7708818236258766101); story 430358188 FB+IG PUBLISHED",
+  "news_search": "Searched Dawn/Tribune/Geo/The News/Brecorder/Arab News. Dawn latest-news listing newest item 10:32 (stale). Picked Arab News story published 22:42 PKT.",
+  "verification": "Single approved outlet (Arab News), timestamp 2026-11-16T17:42:02Z (22:42 PKT) from meta. Checked: Araghchi met Field Marshal Asim Munir, Chief of Defence Forces, Monday evening at Army Command HQ Rawalpindi (per IRNA); reviewed latest developments in bilateral relations; in Pakistan for ECO meeting; said 10-nation ECO bloc backed Tehran's Hormuz reopening plan; Dar quote 'Let's hope for the best, we haven't given up hope.'",
+  "image": "Runway nano-banana-2-lite, 1 attempt, generic meeting room, figures from behind/blurred, no readable text/logos; credits 979 after generation",
+  "publish": "Pipeline awaiting_publish (TikTok skipped by pipeline). Feed card and story compared with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou card: identical layout. Scheduled feed 23:00 (FB POST + IG POST) and story 23:05 (FB+IG) exactly as payloads returned; all PENDING."
+ },
+ "skipped_candidates": [],
+ "errors": []
+}
