@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-16-dar-eco-afghanistan-terrorism",
+  "type": "news",
+  "headline": "Deputy PM and Foreign Minister Ishaq Dar told the 30th ECO Council of Ministers meeting in Islamabad on Monday that meaningful regional progress requires Afghan authorities to address neighbours' security concerns, particularly terrorism, Dawn reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044898/pakistan-links-regional-cooperation-with-afghanistan-to-action-against-terrorism-at-eco-moot",
+      "published_at": "2026-11-16T09:37:39+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/0175177f-ac1b-44b8-85d4-806b0e5df3b8/5b10d4a4-f525-4bc4-bd73-25cf8677c64b/Realistic_photo_of_a_large_formal_international_ministerial_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZThiNTc5ZWVkNTE0MThkZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDkyNDE0Mn0.wqw3WR1GLoLQoDWXL8g30W8vpGVSqLiLQvsdVv7aYBQ",
+    "head1": "Dar To ECO:",
+    "head2_hl": "Afghanistan",
+    "head2": "Must Act",
+    "kicker": "Terrorism Threat Concerns",
+    "desc": "ECO Council of Ministers meets in Islamabad",
+    "source": "Dawn",
+    "date": "16 NOV 2026"
+  },
+  "caption": "Pakistan tells ECO: Afghanistan must address terrorism concerns! 🌏\nAccording to Dawn, Deputy Prime Minister and Foreign Minister Ishaq Dar said on Monday at the 30th ECO Council of Ministers meeting in Islamabad that meaningful regional progress requires the Afghan authorities to address their neighbours' security concerns, particularly the threat of terrorism. Members are set to discuss and adopt ECO Vision 2035, a 10-year framework on connectivity, economic integration and sustainable growth. Pakistan chairs ECO for 2026-27.\nCan regional trade grow without peace in Afghanistan? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ECO #IshaqDar #Afghanistan #PakistanNews",
+  "tiktok_title": "Dar at ECO: Afghanistan must address neighbours' terrorism concerns",
+  "publish": {
+    "slot": "2026-11-16T12:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
