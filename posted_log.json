@@ -10857,5 +10857,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-16",
+  "slot": "2026-11-16T12:00:00+05:00",
+  "request_id": "2026-11-16-dar-eco-afghanistan-terrorism",
+  "layout": "bold",
+  "headline": "Deputy PM and Foreign Minister Ishaq Dar told the 30th ECO Council of Ministers meeting in Islamabad on Monday that meaningful regional progress requires Afghan authorities to address neighbours' security concerns, particularly terrorism, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044898/pakistan-links-regional-cooperation-with-afghanistan-to-action-against-terrorism-at-eco-moot",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044898/pakistan-links-regional-cooperation-with-afghanistan-to-action-against-terrorism-at-eco-moot",
+    "published_at": "2026-11-16T09:37:39+05:00"
+   }
+  ],
+  "published": "2026-11-16T09:37:39+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 551232663,
+  "image": "posts/2026-11-16-dar-eco-afghanistan-terrorism.jpg",
+  "story": "posts/2026-11-16-dar-eco-afghanistan-terrorism-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-16 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
