@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-16-pm-sme-facilitation-centres-districts",
+  "type": "news",
+  "headline": "Prime Minister Shehbaz Sharif approved SME facilitation centres at district level, with pilot projects in Lahore, Peshawar, Karachi and Quetta, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044933/pm-shehbaz-approves-facilitation-centres-for-smes-at-district-level",
+      "published_at": "2026-11-16T16:40:06+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9b9f56bb-3a76-4b71-b67d-efa38d151359/d1de0be5-7e8b-4fca-8648-92cb47a1ba4e/Realistic_documentary_photo_of_a_small_Pakistani_textile_wor.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDY3NzJkODQwMTlkNjQ1NyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDk2NjY2MH0.M-X_bBPSmqT5EPUWcIfUbyGe9h_JRTxhV3K9wQe896Q",
+    "head1": "SMEs Ke Liye",
+    "head2_hl": "Naye Centres",
+    "head2": "",
+    "kicker": "PM Shehbaz Ki Manzoori",
+    "desc": "Pehle Lahore, Peshawar, Karachi aur Quetta mein pilot project",
+    "source": "Dawn",
+    "date": "16 NOV 2026"
+  },
+  "caption": "Chhote karobar walon ke liye naye facilitation centres! 🏭\nDawn ke mutabiq Wazir-e-Azam Shehbaz Sharif ne Monday ko district level par SME (chhote aur darmiyane karobar) facilitation centres banane ki manzoori de di. Pehle Lahore, Peshawar, Karachi aur Quetta mein pilot project shuru honge. Kamyabi ki surat mein yeh centres aahista aahista tamam districts mein banaye jayenge. Export Finance Scheme ke tehat SMEs aur naye exporters ke liye Rs300 billion rakhe gaye hain. Wazir-e-Azam ne TDAP aur SMEDA ki restructuring ki manzoori bhi di.\nKya aap apna karobar shuru karna chahte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SME #ShehbazSharif #Exports #PakistanNews",
+  "tiktok_title": "PM Shehbaz ki manzoori: district level par SME facilitation centres banenge",
+  "publish": {
+    "slot": "2026-11-16T18:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
