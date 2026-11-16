@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-16-psx-kse100-up-1707-points",
+  "type": "news",
+  "headline": "The Pakistan Stock Exchange's benchmark KSE-100 index rose 1,707.89 points, or 0.96%, to 179,581.76 by 1pm on Monday amid buying in banks, cement, oil and gas and power stocks, Business Recorder reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449135/psx-stocks-surge-kse-100-up-nearly-1",
+      "published_at": "2026-11-16T09:52:16+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/352a47fe-8978-453f-971f-fc6826b83409/49cc3653-b96c-4d72-b361-8d42cd8eac15/Realistic_documentary_photo_of_a_busy_stock_exchange_trading.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiM2QzZjgxY2M4YzE4NmQ5MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDk3Njk3Mn0.i7rnrYklZK9IBO69Rysn48SCzSvZTg_VOHX72KRSnls",
+    "head1": "PSX Stocks Surge",
+    "head2_hl": "1,707.89",
+    "head2": "Points Up",
+    "kicker": "KSE-100 At 179,581.76",
+    "desc": "Benchmark index gained 0.96% by 1pm on Monday",
+    "source": "Business Recorder",
+    "date": "16 NOV 2026"
+  },
+  "caption": "PSX stocks surge as KSE-100 jumps 1,707 points! 📈\nAccording to Business Recorder, the Pakistan Stock Exchange's benchmark KSE-100 index was at 179,581.76 at 1pm on Monday, up 1,707.89 points or 0.96%. Buying was seen in automobile assemblers, cement, commercial banks, oil and gas exploration companies, OMCs and power generation, with HUBCO, MARI, OGDC, POL, PPL, HBL, MEBL, NBP and UBL trading higher. Last week the index gained 3,987.19 points (2.3%) to close at 177,873.88, helped by falling international oil prices and strong workers' remittances.\nDo you invest in the stock market? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #PakistanEconomy #PakistanNews",
+  "tiktok_title": "PSX: KSE-100 up 1,707.89 points to 179,581.76 by 1pm on Monday",
+  "publish": {
+    "slot": "2026-11-16T14:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
