@@ -11071,5 +11071,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-16",
+  "slot": "2026-11-16T20:00:00+05:00",
+  "request_id": "2026-11-16-gold-falls-rs2000-per-tola",
+  "layout": "bold",
+  "headline": "Gold price in Pakistan fell by Rs2,000 per tola on Monday to Rs408,936, while 10 grams fell by Rs1,715 to Rs350,596, according to the All-Pakistan Gems and Jewellers Sarafa Association, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449172/gold-sheds-rs2000-per-tola-in-pakistan",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449172/gold-sheds-rs2000-per-tola-in-pakistan",
+    "published_at": "2026-11-16T14:50:53+05:00"
+   }
+  ],
+  "published": "2026-11-16T14:50:53+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 76320338,
+  "image": "posts/2026-11-16-gold-falls-rs2000-per-tola.jpg",
+  "story": "posts/2026-11-16-gold-falls-rs2000-per-tola-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-16 20:02 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
