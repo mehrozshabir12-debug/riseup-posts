@@ -1,1 +1,69 @@
-{"slot": "2026-11-16T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T11:47:21+05:00"}
+{
+ "slot": "2026-11-16T12:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T11:47:21+05:00",
+ "run_finished_pkt": "2026-11-16T11:50:38+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Deputy PM and Foreign Minister Ishaq Dar told the 30th ECO Council of Ministers meeting in Islamabad on Monday that meaningful regional progress requires Afghan authorities to address neighbours' security concerns, particularly terrorism, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044898/pakistan-links-regional-cooperation-with-afghanistan-to-action-against-terrorism-at-eco-moot",
+    "published_at": "2026-11-16T09:37:39+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-dar-eco-afghanistan-terrorism",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-dar-eco-afghanistan-terrorism.jpg",
+ "freshness_window": "3h",
+ "language": "English",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "0175177f-ac1b-44b8-85d4-806b0e5df3b8",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 429655498,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7943133574206080685",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 429655506,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4342778318193708766",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: 11 six-hour-or-smaller windows NOW-48h..NOW+12h all succeeded; slot 12:00 empty; today news feed posts 1/10, TikTok 1/8 before this post",
+  "previous_slot_check": "10:00 feed 429588648 FB/IG/TikTok PUBLISHED; 10:05 story 429588656 FB/IG PUBLISHED",
+  "news_search": "Dawn ECO speech (published 09:37 PKT, updated 10:12) chosen; new development (Dar's Monday address) vs earlier ECO-host and OIC-sideline posts",
+  "verification": "Single approved outlet (Dawn); names, meeting number, date, ECO Vision 2035, 2026-27 chair checked against article",
+  "image": "Runway nano-banana-2-lite, 1 image, conference hall, no readable text or identifiable people",
+  "publish": "Card + story rendered by GitHub workflow, compared with approved 2026-11-13 Ivanhoe card: same layout; feed+story scheduled PENDING; no Reel"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "ICC announces 2028-31 hosts (India, England, Australia, NZ); Pakistan gets none",
+   "reason": "ICC announcement made Sunday 15 Nov; first report older than 8h before slot"
+  },
+  {
+   "headline": "Kisan Board: govt reluctant to include farmers in fuel subsidy",
+   "reason": "less fresh / not verified within window"
+  }
+ ],
+ "errors": []
+}
