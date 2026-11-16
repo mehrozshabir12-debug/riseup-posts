@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-16-pak-sl-second-test-rawalpindi-preview",
+  "type": "news",
+  "headline": "Pakistan bowling coach Shaun Tait and Sri Lanka captain Kusal Mendis both want an extra push for a result in the second and final Test starting Tuesday in Rawalpindi, after the first Test ended without a result due to bad weather, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result",
+      "published_at": "2026-11-16T19:28:40+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/a51801b9-d8d4-42c3-be8f-07dcf4f54f08/18bf27c3-7d1e-42b9-8d5a-f1c9d40674d4/Realistic_news_photo_of_a_Test_cricket_match_in_a_Pakistani_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDU4NjMwNTVlODg0NmM2MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDk4NDQwNX0.rIWr4H5l8Nr9Xu-UhPh6SzoZSFqjztg9eXkAbrUV27A",
+    "head1": "Pakistan vs Sri Lanka",
+    "head2_hl": "Doosra Test",
+    "head2": "Kal Se",
+    "kicker": "Rawalpindi Mein Aakhri Muqabla",
+    "desc": "Tait aur Kusal: is baar natija nikalna zaroori",
+    "source": "Dawn",
+    "date": "16 NOV 2026"
+  },
+  "caption": "Pakistan aur Sri Lanka ka doosra Test kal se Rawalpindi mein! 🏏\nDawn ke mutabiq pehla Test kharab mausam ki wajah se be-natija raha. Ab Pakistan ke bowling coach Shaun Tait aur Sri Lanka ke captain Kusal Mendis dono chahte hain ke doosre aur aakhri Test mein natija nikle. Shaun Tait ne kaha: \"That extra push is needed.\" Pehle Test mein Saqib Khan ne debut par 7 wickets liye, jabke Saud Shakeel ne 93 aur 97 ran banaye.\nAap ke khayal mein Rawalpindi Test kaun jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TestCricket #Rawalpindi #PakistanCricket",
+  "tiktok_title": "Pakistan vs Sri Lanka doosra Test kal se Rawalpindi mein",
+  "publish": {
+    "slot": "2026-11-16T22:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
