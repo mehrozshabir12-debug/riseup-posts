@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-16-araghchi-munir-rawalpindi-eco",
+  "type": "news",
+  "headline": "Iran's Foreign Minister Abbas Araghchi met Pakistan's Chief of Defence Forces Field Marshal Asim Munir in Rawalpindi on Monday evening during his visit for the ECO meeting hosted by Pakistan, according to Iranian state media cited by Arab News.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://arabnews.pk/pakistan/iran-fm-discusses-regional-developments-with-pakistan-military-chief-in-islamabad-3007218",
+      "published_at": "2026-11-16T22:42:02+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9d349eb9-ca8f-4fe3-b44b-aee2458fb24b/110df491-ed4b-4e2b-b35b-b0db18a458cb/Realistic_news_photo_of_a_formal_diplomatic_meeting_room_in_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiODdmYWM0YjI0NGEyOTI4MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTAxMjkxNH0.SYFrFmcJfre1vwwDag4HJRTfAUcZw2z_GZFH-PyvYCU",
+    "head1": "Iran FM Meets",
+    "head2_hl": "Asim Munir",
+    "head2": "",
+    "kicker": "Araghchi: ECO Backs Hormuz Plan",
+    "desc": "Talks reviewed latest Pakistan-Iran ties, Iranian state media says",
+    "source": "Arab News",
+    "date": "16 NOV 2026"
+  },
+  "caption": "Iran's Foreign Minister meets Pakistan's military chief in Rawalpindi 🇵🇰🇮🇷\nArab News reports, citing Iranian state media IRNA, that Abbas Araghchi met Field Marshal Asim Munir on Monday evening and reviewed the latest developments in Pakistan-Iran relations. Araghchi, in Pakistan for the ECO meeting, also said the 10-nation ECO bloc backed Tehran's plan to reopen the Strait of Hormuz. Ishaq Dar said: \"Let's hope for the best, we haven't given up hope.\"\nWhat do you think? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanIran #ECO #Diplomacy #PakistanNews",
+  "tiktok_title": "Iran FM Araghchi meets Field Marshal Asim Munir in Rawalpindi",
+  "publish": {
+    "slot": "2026-11-16T23:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
