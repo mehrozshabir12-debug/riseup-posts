@@ -1,1 +1,73 @@
-{"slot": "2026-11-16T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T17:48:39+05:00"}
+{
+ "slot": "2026-11-16T18:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T17:48:39+05:00",
+ "run_finished_pkt": "2026-11-16T17:53:24+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif approved SME facilitation centres at district level, with pilot projects in Lahore, Peshawar, Karachi and Quetta, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044933/pm-shehbaz-approves-facilitation-centres-for-smes-at-district-level",
+    "published_at": "2026-11-16T16:40:06+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-pm-sme-facilitation-centres-districts",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-pm-sme-facilitation-centres-districts.jpg",
+ "freshness_window": "2h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "9b9f56bb-3a76-4b71-b67d-efa38d151359",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 430027300,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2386229684806268620",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 430027328,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7530193784480809484",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: slot window 17:00-19:00 empty; windows 14 Nov 17:00 .. 17 Nov 06:00 all succeeded; today news feed posts 4/10, TikTok 4/8 before this post",
+  "previous_slot_check": "16:00 feed 429881127 FB/IG/TikTok PUBLISHED; 16:05 story 429881151 FB/IG PUBLISHED",
+  "news_search": "Dawn article published 16:40:06 PKT (meta), first report (Tribune 17:28 PKT later); within 2h of slot; no SME-centres post in last 48h",
+  "verification": "Single approved outlet (Dawn); pilot cities, Rs300 billion Export Finance Scheme, TDAP/SMEDA restructuring checked against article",
+  "image": "Runway nano-banana-2-lite, 1 image, textile workshop packing fabrics into boxes, anonymous workers, no text/logos",
+  "publish": "Card + story rendered by GitHub workflow, compared with approved 2026-11-13 Ivanhoe card: same layout; feed+story scheduled PENDING; no Reel"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold sheds Rs2,000 per tola (Business Recorder 14:50 PKT)",
+   "reason": "older (4h window); a 2h-window story existed"
+  },
+  {
+   "headline": "Imran Khan letter to top judges on medical care",
+   "reason": "political/health sensitive"
+  },
+  {
+   "headline": "Chaudhry Salik defamation notices to CM Maryam",
+   "reason": "one-sided political dispute"
+  }
+ ],
+ "errors": []
+}
