@@ -1,0 +1,21 @@
+{
+ "id": "2026-11-16-pak-sl-second-test-rawalpindi-preview",
+ "scheduled": "2026-11-16T22:00:00+05:00",
+ "posts": {
+  "feed": {
+   "metricool_id": 430358156,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 430358188,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

@@ -1,1 +1,77 @@
-{"slot": "2026-11-16T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T21:47:20+05:00"}
+{
+ "slot": "2026-11-16T22:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T21:47:20+05:00",
+ "run_finished_pkt": "2026-11-16T21:54:00+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan bowling coach Shaun Tait and Sri Lanka captain Kusal Mendis both want an extra push for a result in the second and final Test starting Tuesday in Rawalpindi, after the first Test ended without a result due to bad weather, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044953/shaun-tait-kusal-mendis-want-extra-push-for-pakistan-sri-lanka-series-result",
+    "published_at": "2026-11-16T19:28:40+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-pak-sl-second-test-rawalpindi-preview",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-pak-sl-second-test-rawalpindi-preview.jpg",
+ "freshness_window": "3h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "a51801b9-d8d4-42c3-be8f-07dcf4f54f08",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 430358156,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4413114182799372381",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 430358188,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5989630105808683043",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: windows 16 Nov 08:00-17 Nov 09:50 all succeeded; no post at 22:00; 14-15 Nov history checked via repo run logs (no cricket Test story). Today news feed posts 8/10 before this post, TikTok 6/8 (this post makes 7).",
+  "previous_slot_check": "21:00 feed 430267893 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122190572288855502, https://www.instagram.com/p/DfzwBdQGyPG/); story 430267955 FB+IG PUBLISHED",
+  "news_search": "Searched Dawn, Tribune, Brecorder, Geo/The News, Arab News, APP. Nothing suitable within 2h (Dawn/Brecorder listing pages cached). Picked Dawn AFP cricket story (19:28 PKT).",
+  "verification": "Single approved outlet (Dawn), article timestamp 2026-11-16T19:28:40+05:00 read from page; checked: 2nd and final Test starts Tuesday in Rawalpindi, 1st Test no result due to bad weather, Shaun Tait quote 'That extra push is needed', Saqib Khan 7-130 on debut, Saud Shakeel 93 and 97.",
+  "image": "Runway nano-banana-2-lite, 1 attempt, generic Test match stadium scene, no readable text/logos/identifiable faces; credits remaining 983 before generation",
+  "publish": "Pipeline status awaiting_publish; feed card and story compared with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou card: identical layout. Scheduled feed 22:00 (FB POST + IG POST + TikTok photo) and story 22:05 (FB+IG) exactly as payloads returned."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan Customs seizes 115 kg opium in Saranan, Balochistan (Arab News 14:53)",
+   "reason": "older; cricket story fresher and more relevant for ordinary readers"
+  },
+  {
+   "headline": "Balochistan assures security as Saudi investors eye opportunities; 20,000 jobs claim (Arab News 18:45)",
+   "reason": "underlying meeting was on Nov 11 (first-report outside 8h); jobs figure is an official's unconfirmed claim"
+  },
+  {
+   "headline": "Imran Khan open letter to top judges on medical treatment (Dawn ~15:30)",
+   "reason": "political/sensitive and older"
+  },
+  {
+   "headline": "Aurangzeb urges banks to boost financing for priority sectors (Brecorder 14:09)",
+   "reason": "older, low public interest"
+  }
+ ],
+ "errors": []
+}
