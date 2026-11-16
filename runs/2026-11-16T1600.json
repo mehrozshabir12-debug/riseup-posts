@@ -1,1 +1,75 @@
-{"slot": "2026-11-16T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T15:46:57+05:00"}
+{
+ "slot": "2026-11-16T16:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T15:46:57+05:00",
+ "run_finished_pkt": "2026-11-16T15:50:37+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Federal Energy Minister Sardar Awais Ahmad Khan Leghari invited Turkmenistan to join the CASA-1000 electricity transmission project during a meeting in Islamabad with Turkmenistan's Energy Minister Annageldi Saparov, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://brecorder.com/news/40449173/pakistan-invites-turkmenistan-to-join-casa-1000",
+    "published_at": "2026-11-16T15:16:48+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-pakistan-invites-turkmenistan-casa1000",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-pakistan-invites-turkmenistan-casa1000.jpg",
+ "freshness_window": "2h",
+ "language": "English",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "d637545f-6b29-496c-a1cb-7e5f09e50fdd",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 429881127,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5907067365036540758",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 429881151,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2603238578316949481",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: slot window 15:00-17:00 empty; 10 six-hour windows NOW-48h..NOW+12h all succeeded (16 Nov 21:00-04:00 window failed once with 'Request cancelled', retried OK); today news feed posts 3/10, TikTok 3/8 before this post",
+  "previous_slot_check": "14:00 feed 429753207 FB/IG/TikTok PUBLISHED; 14:05 story 429753227 FB/IG PUBLISHED",
+  "news_search": "Business Recorder article published 15:16:48 PKT (meta), within 2h of slot; no Turkmenistan/CASA-1000 post in last 48h",
+  "verification": "Single approved outlet (Business Recorder); names (Leghari, Saparov), CASA-1000, two-way flow proposal, TAP 300 million people checked against article",
+  "image": "Runway nano-banana-2-lite, 1 image, transmission towers in mountain landscape, two anonymous workers from behind, no text/logos/identifiable people",
+  "publish": "Card + story rendered by GitHub workflow, compared with approved 2026-11-13 Ivanhoe card: same layout; feed+story scheduled PENDING; no Reel"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Mansehra residents resent gas supply suspension (Dawn)",
+   "reason": "published 07:11 PKT, older than 8h before slot"
+  },
+  {
+   "headline": "Imran Khan open letter to chief justices (Dawn)",
+   "reason": "one-sided political content, avoided"
+  },
+  {
+   "headline": "Pakistan Customs seizes 115kg opium (Arab News)",
+   "reason": "less relevant than energy story"
+  }
+ ],
+ "errors": [
+  "getScheduledPosts 2026-11-16T21:00..2026-11-17T04:00 first attempt: I/O error ... Request cancelled (retry succeeded)"
+ ]
+}
