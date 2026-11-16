@@ -11244,7 +11244,7 @@
   },
   {
     "date": "2026-11-16",
-    "headline": "Alan Walker Lahore pohanche after viral song Alfaaz (owner reel + photo post) — FB/IG reel 23:44, FB/IG photo 23:50",
+    "headline": "Alan Walker Lahore pohanche after viral song Alfaaz (owner reel + photo post) — FB/IG reel 23:44, FB/IG photo 23:45",
     "tiktok": false,
     "networks": {
       "facebook": "POST(video)+POST(photo)",
@@ -11253,19 +11253,19 @@
     "source": "ARY News, Express Tribune",
     "metricool_ids": [
       430492404,
-      430493106
+      430497423
     ]
   },
   {
-    "date": "2026-11-17",
-    "headline": "Alan Walker Alfaaz Lahore reel (TikTok, 00:05 PKT)",
+    "date": "2026-11-16",
+    "headline": "Alan Walker Alfaaz Lahore reel (TikTok, 23:45 PKT — owner asked to post now, 9th TikTok of the day)",
     "tiktok": true,
     "networks": {
       "tiktok": "VIDEO"
     },
     "source": "ARY News, Express Tribune",
     "metricool_ids": [
-      430492625
+      430497498
     ]
   }
 ]
