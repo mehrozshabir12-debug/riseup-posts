@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-16-sbp-fy27-gdp-growth-projection",
+  "type": "news",
+  "headline": "The State Bank of Pakistan's annual State of Pakistan's Economy report, released on Monday, projects real GDP growth of 3.5-4.5% in FY27, a current account deficit of 0-1.0% of GDP, and inflation easing gradually toward the 5.0-7.0% target range, Business Recorder reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449187/state-of-pakistans-economy-sbp-projects-gdp-growth-at-35-45-in-fy27",
+      "published_at": "2026-11-16T16:47:03+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/351fe84b-50ba-46a8-a18c-59cc8ee035e3/474464f3-987f-4de8-89c7-d17c79c4147d/Realistic_documentary_photo_of_a_busy_wholesale_market_stree.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDFhYzdkMDAyYzlmMjA3MCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NDkyNDAzMn0.e1TKkbeAGRqMtm3IN0LyP4Lxn5o0p8EbNsiBwkIlF0k",
+    "head1": "Pakistan Ki Growth",
+    "head2_hl": "3.5-4.5%",
+    "head2": "Ka Andaza",
+    "kicker": "SBP Ki FY27 Report",
+    "desc": "Mehngai 5 se 7 feesad ke hadaf ki taraf aayegi",
+    "source": "Business Recorder",
+    "date": "16 NOV 2026"
+  },
+  "caption": "SBP ne agle saal ki growth ka andaza bata diya! 📊\nBusiness Recorder ke mutabiq State Bank of Pakistan (SBP) ne Monday ko apni salana report \"State of Pakistan's Economy\" jaari ki. Is ke mutabiq FY27 mein mulk ki GDP growth 3.5 se 4.5 feesad rehne ka andaza hai. Current account deficit GDP ke 0 se 1 feesad tak rehne ki umeed hai, aur is mein remittances ka bara hath hoga. SBP ke mutabiq mehngai aahista aahista 5 se 7 feesad ke hadaf ki taraf aayegi, lekin Middle East ke tanaze ki wajah se energy ki qeematein mehngai barha sakti hain.\nKya aap ko mehngai mein kami mehsoos ho rahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #PakistanEconomy #GDP #PakistanNews",
+  "tiktok_title": "SBP: FY27 mein GDP growth 3.5 se 4.5 feesad rehne ka andaza",
+  "publish": {
+    "slot": "2026-11-16T19:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
