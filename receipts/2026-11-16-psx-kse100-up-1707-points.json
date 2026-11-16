@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-16-psx-kse100-up-1707-points",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 429753207,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2070201776917885925",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 429753227,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9017989927009497492",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

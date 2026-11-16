@@ -1,1 +1,74 @@
-{"slot": "2026-11-16T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T13:47:51+05:00"}
+{
+ "slot": "2026-11-16T14:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T13:47:51+05:00",
+ "run_finished_pkt": "2026-11-16T13:53:05+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Pakistan Stock Exchange's benchmark KSE-100 index rose 1,707.89 points, or 0.96%, to 179,581.76 by 1pm on Monday amid buying in banks, cement, oil and gas and power stocks, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449135/psx-stocks-surge-kse-100-up-nearly-1",
+    "published_at": "2026-11-16T09:52:16+05:00",
+    "updated_at": "2026-11-16T13:10:21+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-psx-kse100-up-1707-points",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-psx-kse100-up-1707-points.jpg",
+ "freshness_window": "2h",
+ "language": "English",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "352a47fe-8978-453f-971f-fc6826b83409",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 429753207,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2070201776917885925",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 429753227,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9017989927009497492",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: slot window 13:00-15:00 empty; 10 six-hour windows NOW-48h..NOW+12h all succeeded; today news feed posts 2/10, TikTok 2/8 before this post",
+  "previous_slot_check": "12:00 feed 429655498 FB/IG/TikTok PUBLISHED; 12:05 story 429655506 FB/IG PUBLISHED",
+  "news_search": "Business Recorder PSX intraday article substantively updated 13:10 PKT with 1pm figures; no PSX post in last 48h",
+  "verification": "Single approved outlet (Business Recorder); index level, points, percent, sectors, stocks, prior-week figures checked against article; 179,581.76-1,707.89=177,873.87 matches prior close",
+  "image": "Runway nano-banana-2-lite, 1 image, trading hall, no readable text, logos or identifiable people",
+  "publish": "Card + story rendered by GitHub workflow, compared with approved 2026-11-13 Ivanhoe card and story: same layout; feed+story scheduled PENDING; no Reel"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan goods exports record $11.4bn in July-Oct (Arab News)",
+   "reason": "published 15 Nov 22:47 PKT, older than 8h before slot"
+  },
+  {
+   "headline": "Child maid death case remand (Geo)",
+   "reason": "story about a minor"
+  },
+  {
+   "headline": "FCC allows PHC to hear Article 199 cases (Geo)",
+   "reason": "narrow legal story, less relevant to ordinary people"
+  }
+ ],
+ "errors": []
+}
