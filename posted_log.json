@@ -11267,5 +11267,30 @@
     "metricool_ids": [
       430498861
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "headline": "Laanat Hai Aisi Mohabbat Pe Jis Mein Sitam Hon (owner reel, Rehan Tariq Show clip) — FB video + IG Reel 23:54",
+    "tiktok": false,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL"
+    },
+    "source": "Rehan Tariq Show",
+    "metricool_ids": [
+      430508765
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "headline": "Laanat Hai Aisi Mohabbat Pe reel (TikTok, 00:20 PKT)",
+    "tiktok": true,
+    "networks": {
+      "tiktok": "VIDEO"
+    },
+    "source": "Rehan Tariq Show",
+    "metricool_ids": [
+      430508957
+    ]
   }
 ]
