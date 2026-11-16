@@ -1,1 +1,73 @@
-{"slot": "2026-11-16T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-16T09:47:14+05:00"}
+{
+ "slot": "2026-11-16T10:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "run_started_pkt": "2026-11-16T09:47:14+05:00",
+ "run_finished_pkt": "2026-11-16T09:52:58+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Petrol pump owners in several Khyber Pakhtunkhwa districts suspended fuel sales in protest against frequent government price cuts, causing long vehicle queues, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449065/kp-petrol-pump-owners-protest-frequent-price-cuts",
+    "published_at": "2026-11-16T04:18:15+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-16-kp-petrol-pumps-suspend-sales",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-kp-petrol-pumps-suspend-sales.jpg",
+ "freshness_window": "6h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "d752a288-97a7-41f7-b16b-2300e72a8e3a",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 429588648,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5490228411693251936",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 429588656,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7837833292512079904",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. All six-hour windows 14 Nov 09:45 to 16 Nov 21:50 read OK. Slot 10:00 free (only the owner's 09:47 TikTok dua reel nearby, untouched). RiseUp day 16 Nov: 0 news posts before this.",
+  "previous_slot_check": "15 Nov 23:00 feed 429113909 FB/IG PUBLISHED; 23:05 story 429113926 FB/IG PUBLISHED.",
+  "news_search": "No suitable story in the 2h-4h windows. ECO ministerial/delegates (Geo, Dawn, Arab News) duplicate of 14 Nov ECO and 15 Nov OIC posts; Dawn Blind Asia Cup win (07:09 print) first reported Sunday, older than 8h; Brecorder FBR faceless refund (04:18) less relevant. Picked Brecorder KP petrol pumps (04:18 PKT, 6h window).",
+  "verification": "Single approved outlet (Business Recorder, Amjad Ali Shah, Peshawar), published 2026-11-16 04:18:15 +05:00 (meta + byline). Facts checked: several KP districts, sales suspended, long queues, spokesperson Najeebullah of Petroleum Sellers Association, daily revisions causing losses, demand monthly or at least weekly revision. No earlier report of this event found.",
+  "image": "Runway nano-banana-2-lite, idle roadside petrol station with queue of motorcycles/rickshaws, anonymous people, no readable text.",
+  "publish": "Workflow result awaiting_publish. Card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout. Scheduled payloads.feed (FB+IG POST+TikTok 10:00) and payloads.story (FB+IG STORY 10:05) exactly as returned."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "ECO ministerial meeting in Islamabad (Geo/Dawn/Arab News)",
+   "reason": "duplicate of 14 Nov ECO and 15 Nov OIC/ECO posts"
+  },
+  {
+   "headline": "Pakistan thrash Bangladesh in Blind Asia Cup opener (Dawn)",
+   "reason": "match on Sunday, first report older than 8h"
+  },
+  {
+   "headline": "President upholds FBR faceless refund regime (Brecorder 04:18)",
+   "reason": "less relevant to ordinary people than fuel supply story"
+  }
+ ],
+ "errors": []
+}
