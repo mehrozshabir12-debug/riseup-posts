@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-16-pm-sme-facilitation-centres-districts",
+ "revision": 1,
+ "request": "requests/2026-11-16-pm-sme-facilitation-centres-districts.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif approved SME facilitation centres at district level, with pilot projects in Lahore, Peshawar, Karachi and Quetta, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-16T18:00:00+05:00",
+ "target_slot": "2026-11-16T18:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-pm-sme-facilitation-centres-districts.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-pm-sme-facilitation-centres-districts-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-16-pm-sme-facilitation-centres-districts.jpg",
+  "story": "posts/2026-11-16-pm-sme-facilitation-centres-districts-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 993754820,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-16T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Chhote karobar walon ke liye naye facilitation centres! 🏭\nDawn ke mutabiq Wazir-e-Azam Shehbaz Sharif ne Monday ko district level par SME (chhote aur darmiyane karobar) facilitation centres banane ki manzoori de di. Pehle Lahore, Peshawar, Karachi aur Quetta mein pilot project shuru honge. Kamyabi ki surat mein yeh centres aahista aahista tamam districts mein banaye jayenge. Export Finance Scheme ke tehat SMEs aur naye exporters ke liye Rs300 billion rakhe gaye hain. Wazir-e-Azam ne TDAP aur SMEDA ki restructuring ki manzoori bhi di.\nKya aap apna karobar shuru karna chahte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SME #ShehbazSharif #Exports #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-pm-sme-facilitation-centres-districts.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PM Shehbaz ki manzoori: district level par SME facilitation centres banenge",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-16T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-pm-sme-facilitation-centres-districts-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-16T17:52:32+05:00"
+}

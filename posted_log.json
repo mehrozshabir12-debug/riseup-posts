@@ -10986,5 +10986,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-16",
+  "slot": "2026-11-16T18:00:00+05:00",
+  "request_id": "2026-11-16-pm-sme-facilitation-centres-districts",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif approved SME facilitation centres at district level, with pilot projects in Lahore, Peshawar, Karachi and Quetta, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2044933/pm-shehbaz-approves-facilitation-centres-for-smes-at-district-level",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2044933/pm-shehbaz-approves-facilitation-centres-for-smes-at-district-level",
+    "published_at": "2026-11-16T16:40:06+05:00"
+   }
+  ],
+  "published": "2026-11-16T16:40:06+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 993754820,
+  "image": "posts/2026-11-16-pm-sme-facilitation-centres-districts.jpg",
+  "story": "posts/2026-11-16-pm-sme-facilitation-centres-districts-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-16 18:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
