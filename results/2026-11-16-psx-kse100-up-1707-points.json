@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-16-psx-kse100-up-1707-points",
+ "revision": 1,
+ "request": "requests/2026-11-16-psx-kse100-up-1707-points.json",
+ "type": "news",
+ "headline": "The Pakistan Stock Exchange's benchmark KSE-100 index rose 1,707.89 points, or 0.96%, to 179,581.76 by 1pm on Monday amid buying in banks, cement, oil and gas and power stocks, Business Recorder reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-16T14:00:00+05:00",
+ "target_slot": "2026-11-16T14:00:00+05:00",
+ "riseup_day": "2026-11-16",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-psx-kse100-up-1707-points.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-psx-kse100-up-1707-points-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-16-psx-kse100-up-1707-points.jpg",
+  "story": "posts/2026-11-16-psx-kse100-up-1707-points-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 258668420,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-16T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PSX stocks surge as KSE-100 jumps 1,707 points! 📈\nAccording to Business Recorder, the Pakistan Stock Exchange's benchmark KSE-100 index was at 179,581.76 at 1pm on Monday, up 1,707.89 points or 0.96%. Buying was seen in automobile assemblers, cement, commercial banks, oil and gas exploration companies, OMCs and power generation, with HUBCO, MARI, OGDC, POL, PPL, HBL, MEBL, NBP and UBL trading higher. Last week the index gained 3,987.19 points (2.3%) to close at 177,873.88, helped by falling international oil prices and strong workers' remittances.\nDo you invest in the stock market? Tell us in the comments 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-psx-kse100-up-1707-points.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PSX: KSE-100 up 1,707.89 points to 179,581.76 by 1pm on Monday",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-16T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-16-psx-kse100-up-1707-points-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-16T13:51:54+05:00"
+}

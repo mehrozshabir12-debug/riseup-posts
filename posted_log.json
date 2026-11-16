@@ -10900,5 +10900,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-16",
+  "slot": "2026-11-16T14:00:00+05:00",
+  "request_id": "2026-11-16-psx-kse100-up-1707-points",
+  "layout": "bold",
+  "headline": "The Pakistan Stock Exchange's benchmark KSE-100 index rose 1,707.89 points, or 0.96%, to 179,581.76 by 1pm on Monday amid buying in banks, cement, oil and gas and power stocks, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449135/psx-stocks-surge-kse-100-up-nearly-1",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449135/psx-stocks-surge-kse-100-up-nearly-1",
+    "published_at": "2026-11-16T09:52:16+05:00"
+   }
+  ],
+  "published": "2026-11-16T09:52:16+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 258668420,
+  "image": "posts/2026-11-16-psx-kse100-up-1707-points.jpg",
+  "story": "posts/2026-11-16-psx-kse100-up-1707-points-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-16 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
