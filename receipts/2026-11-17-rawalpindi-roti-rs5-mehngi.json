@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-17-rawalpindi-roti-rs5-mehngi",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 431068823,
+   "status": "PENDING",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8539790804785843646",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publication": "2026-11-17T12:04:00+05:00"
+  },
+  "story": {
+   "metricool_id": 431068837,
+   "status": "PENDING",
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9015070156090094895",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "publication": "2026-11-17T12:09:00+05:00"
+  }
+ }
+}

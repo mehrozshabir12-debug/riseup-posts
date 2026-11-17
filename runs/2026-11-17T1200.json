@@ -1,1 +1,88 @@
-{"slot": "2026-11-17T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-17T11:47:38+05:00"}
+{
+ "slot": "2026-11-17T12:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "run_started_pkt": "2026-11-17T11:47:38+05:00",
+ "run_finished_pkt": "2026-11-17T11:59:46+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Despite a cut in petroleum prices, essential commodities in Rawalpindi have not become cheaper and transport fares have not come down, while the price of a gas-cylinder tandoor loaf has risen by Rs5, the Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2640732/prices-of-essential-commodities-soar",
+    "published_at": "2026-11-17T10:26:00+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-17-rawalpindi-roti-rs5-mehngi",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-rawalpindi-roti-rs5-mehngi.jpg",
+ "freshness_window": "2h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "27e59bc6-ce93-4a33-8c61-c34a2284abb9",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 431068823,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8539790804785843646",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 431068837,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9015070156090094895",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: 6h windows 15 Nov 11:00 -> 17 Nov 23:59 all succeeded; no post at 12:00 (slot free). 2nd news post of RiseUp day 17 Nov (2/10).",
+  "previous_slot_check": "10:00 feed 431000771 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122190632438855502, https://www.instagram.com/p/Df1IlE5iGQM/); story 431000782 FB+IG PUBLISHED.",
+  "news_search": "Searched Dawn/Geo/Tribune/The News/Brecorder/Arab News/APP. Picked Express Tribune Rawalpindi prices story, published 10:26 PKT (first report, print edition online).",
+  "verification": "Single approved outlet (Express Tribune), article:published_time 2026-11-17T05:26:00Z. Verbatim-checked: petroleum prices reduced but commodities not cheaper, transport fares not reduced, gas-cylinder loaf up Rs5, chicken Rs620/kg, eggs Rs280/dozen, mutton Rs2,800/kg, beef Rs1,700/kg.",
+  "image": "Runway nano-banana-2-lite, 1 attempt, Rawalpindi market street with gas-cylinder tandoor, eggs and poultry stalls, anonymous people, no text/logos; credits 971 after generation",
+  "publish": "Pipeline awaiting_publish; TikTok skipped by pipeline (pacing 2 allowed by 12:00). Pipeline moved slot to 12:04 (run reached publish after T-5). Feed card and story compared with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou card/story: identical layout; template sha256 OK. Scheduled feed 12:04 (FB POST + IG POST) and story 12:09 (FB+IG) exactly as payloads returned; all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PSX: buying continues, KSE-100 up over 1,100 points (Brecorder 09:49)",
+   "reason": "PSX intraday already posted 16 Nov 14:00; price story more relevant to ordinary people"
+  },
+  {
+   "headline": "Pakistan, Tajikistan seek early start to CASA-1000 (Arab News 08:59)",
+   "reason": "meeting was Monday; CASA-1000 posted 16 Nov 16:00"
+  },
+  {
+   "headline": "SBP flags inflation forecast revision (Arab News 09:29)",
+   "reason": "same SBP annual report already posted 16 Nov 19:00"
+  },
+  {
+   "headline": "Pakistan condemns Israeli attacks in Syria at UNSC (Dawn 10:28)",
+   "reason": "briefing date unclear (caption says 12 Nov)"
+  },
+  {
+   "headline": "Pakistan Shaheens depart for Asia Cup Rising Stars (Brecorder 06:57)",
+   "reason": "departure was Monday, not fresh"
+  },
+  {
+   "headline": "Govt cuts petrol, HSD price by Rs2 (Tribune)",
+   "reason": "published ~12h before T, outside 8h window; page could not be opened"
+  },
+  {
+   "headline": "Second Test toss (Geo)",
+   "reason": "Geo article could not be opened (client_error)"
+  }
+ ],
+ "errors": []
+}
