@@ -11402,5 +11402,34 @@
    431126850,
    431126873
   ]
+ },
+ {
+  "date": "2026-11-17",
+  "slot": "2026-11-17T14:00:00+05:00",
+  "request_id": "2026-11-17-sri-lanka-98-all-out-rawalpindi",
+  "layout": "bold",
+  "headline": "Pakistan bowled Sri Lanka out for 98 in 35.3 overs on day one of the second Test in Rawalpindi on Tuesday, with Mohammad Abbas, Razaullah and Aamer Jamal taking three wickets each, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test",
+    "published_at": "2026-11-17T12:20:22+05:00"
+   }
+  ],
+  "published": "2026-11-17T12:20:22+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 893448510,
+  "image": "posts/2026-11-17-sri-lanka-98-all-out-rawalpindi.jpg",
+  "story": "posts/2026-11-17-sri-lanka-98-all-out-rawalpindi-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-17 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

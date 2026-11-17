@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-17-sri-lanka-98-all-out-rawalpindi",
+ "revision": 1,
+ "request": "requests/2026-11-17-sri-lanka-98-all-out-rawalpindi.json",
+ "type": "news",
+ "headline": "Pakistan bowled Sri Lanka out for 98 in 35.3 overs on day one of the second Test in Rawalpindi on Tuesday, with Mohammad Abbas, Razaullah and Aamer Jamal taking three wickets each, Dawn reports.",
+ "warnings": [
+  "TikTok skipped: 3 TikTok posts on RiseUp day 2026-11-17; allowed by 14:00 = 3 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-17T14:00:00+05:00",
+ "target_slot": "2026-11-17T14:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sri-lanka-98-all-out-rawalpindi.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sri-lanka-98-all-out-rawalpindi-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-17-sri-lanka-98-all-out-rawalpindi.jpg",
+  "story": "posts/2026-11-17-sri-lanka-98-all-out-rawalpindi-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 893448510,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistani fast bowlers ka kamaal, Sri Lanka sirf 98 par out! 🏏\nDawn ke mutabiq Tuesday ko Rawalpindi mein doosre Test ke pehle din Pakistan ne toss jeet kar pehle bowling ki, aur Sri Lanka ki team 35.3 overs mein sirf 98 ran bana kar out ho gayi. Mohammad Abbas ne 14 ran de kar 3, Razaullah ne 21 ran de kar 3 aur Aamer Jamal ne 24 ran de kar 3 wickets liye. Yeh Rawalpindi mein kisi bhi team ki sab se kam innings hai.\nKya Pakistan yeh Test jeet jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TestCricket #Rawalpindi #PakistanCricket",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sri-lanka-98-all-out-rawalpindi.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sri-lanka-98-all-out-rawalpindi-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-17T13:50:13+05:00"
+}
