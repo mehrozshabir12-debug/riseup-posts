@@ -1,1 +1,76 @@
-{"slot": "2026-11-17T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-17T09:46:32+05:00"}
+{
+ "slot": "2026-11-17T10:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "run_started_pkt": "2026-11-17T09:46:32+05:00",
+ "run_finished_pkt": "2026-11-17T09:51:10+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan and Turkmenistan will review progress on the roughly $10 billion TAPI gas pipeline at the sixth session of their Intergovernmental Commission in Islamabad on Tuesday, co-chaired by Deputy PM Ishaq Dar and Turkmen Foreign Minister Rashid Meredov, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-turkmenistan-to-review-10-billion-tapi-pipeline-progress-in-bilateral-talks-today-3007250",
+    "published_at": "2026-11-17T08:06:08+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-17-pakistan-turkmenistan-tapi-review-talks",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-pakistan-turkmenistan-tapi-review-talks.jpg",
+ "freshness_window": "2h",
+ "language": "English",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "ce724c87-9a5e-474a-81aa-0c47ed5df344",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 431000771,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7799491333141841249",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 431000782,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6288909614736064481",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: windows 17 Nov 09:00-11:00, 11:00-17:00 and 16 Nov 22:00-17 Nov 04:00 succeeded; no post at 10:00 (slot free). 48h history also checked via repo run logs 15-16 Nov. First news post of RiseUp day 17 Nov (1/10).",
+  "previous_slot_check": "23:00 (16 Nov) feed 430433899 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122190580310855502, https://www.instagram.com/p/Dfz9bUJm9km/); story 430433926 FB+IG PUBLISHED. Owner's 23:44/23:45/23:54 reels and 00:05/00:20 TikTok reels all PUBLISHED (not touched).",
+  "news_search": "Searched Dawn/Geo/Tribune/The News/Brecorder/Arab News/APP. Picked Arab News TAPI story published 08:06 PKT (modified 08:50).",
+  "verification": "Single approved outlet (Arab News), timestamp 2026-11-17T03:06:08Z from meta. Checked: 6th session of Pakistan-Turkmenistan Intergovernmental Commission in Islamabad on Tuesday, co-chaired by Ishaq Dar and Rashid Meredov; TAPI ~$10bn, ~1,800 km, ~33 bcm/yr from Galkynysh; stalled for years; TAP electricity project on agenda.",
+  "image": "Runway nano-banana-2-lite, 1 attempt, gas pipeline across dry plain with 3 anonymous workers from behind, no text/logos; credits 975 after generation",
+  "publish": "Pipeline awaiting_publish (TikTok skipped by pipeline: daily pacing). Feed card and story compared with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou card/story: identical layout; template sha256 OK. Scheduled feed 10:00 (FB POST + IG POST) and story 10:05 (FB+IG) exactly as payloads returned; all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan win toss, opt to bowl in 2nd Test vs Sri Lanka (Geo)",
+   "reason": "Geo article could not be opened (fetch client_error), timestamp unverifiable; no other approved outlet had it yet"
+  },
+  {
+   "headline": "Petrol and diesel cut by Rs2/litre from 17 Nov (Brecorder)",
+   "reason": "Published 16 Nov 22:55 PKT, older than 8h before slot"
+  },
+  {
+   "headline": "SBP flags inflation forecast revision (Arab News 09:29)",
+   "reason": "Same SBP annual report already posted 16 Nov 19:00 (duplicate event)"
+  },
+  {
+   "headline": "Pakistan, Tajikistan seek early CASA-1000 start (Arab News 08:59)",
+   "reason": "CASA-1000 covered 16 Nov 16:00; meeting was 16 Nov ECO sidelines (near-duplicate)"
+  }
+ ],
+ "errors": []
+}
