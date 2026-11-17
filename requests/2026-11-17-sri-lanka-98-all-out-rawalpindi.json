@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-sri-lanka-98-all-out-rawalpindi",
+  "type": "news",
+  "headline": "Pakistan bowled Sri Lanka out for 98 in 35.3 overs on day one of the second Test in Rawalpindi on Tuesday, with Mohammad Abbas, Razaullah and Aamer Jamal taking three wickets each, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test",
+      "published_at": "2026-11-17T12:20:22+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/5e49492a-27d2-47dd-912d-88bf8804323d/331304ea-59ab-46ff-9572-93b98341d7d4/Realistic_photo_of_a_Test_cricket_match_in_a_Pakistani_stadi.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMGZmZTc2M2Q2ZjU2OTI1NSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTAyMjY1M30.TJjTNFxbba3jqd7OT4QpWT0QQ84LJ78rC-bOYbelbjw",
+    "head1": "Sri Lanka Sirf",
+    "head2_hl": "98 Par",
+    "head2": "Out",
+    "kicker": "Rawalpindi Test Ka Pehla Din",
+    "desc": "Abbas, Razaullah aur Aamer Jamal ki 3-3 wickets",
+    "source": "Dawn",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Pakistani fast bowlers ka kamaal, Sri Lanka sirf 98 par out! 🏏\nDawn ke mutabiq Tuesday ko Rawalpindi mein doosre Test ke pehle din Pakistan ne toss jeet kar pehle bowling ki, aur Sri Lanka ki team 35.3 overs mein sirf 98 ran bana kar out ho gayi. Mohammad Abbas ne 14 ran de kar 3, Razaullah ne 21 ran de kar 3 aur Aamer Jamal ne 24 ran de kar 3 wickets liye. Yeh Rawalpindi mein kisi bhi team ki sab se kam innings hai.\nKya Pakistan yeh Test jeet jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TestCricket #Rawalpindi #PakistanCricket",
+  "tiktok_title": "Rawalpindi Test: Pakistani pacers ka kamaal, Sri Lanka sirf 98 par out",
+  "publish": {
+    "slot": "2026-11-17T14:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
