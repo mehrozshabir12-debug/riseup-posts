@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-17-pakistan-turkmenistan-tapi-review-talks",
+ "revision": 1,
+ "request": "requests/2026-11-17-pakistan-turkmenistan-tapi-review-talks.json",
+ "type": "news",
+ "headline": "Pakistan and Turkmenistan will review progress on the roughly $10 billion TAPI gas pipeline at the sixth session of their Intergovernmental Commission in Islamabad on Tuesday, co-chaired by Deputy PM Ishaq Dar and Turkmen Foreign Minister Rashid Meredov, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 2 TikTok posts on RiseUp day 2026-11-17; allowed by 10:00 = 1 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-17T10:00:00+05:00",
+ "target_slot": "2026-11-17T10:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-pakistan-turkmenistan-tapi-review-talks.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-pakistan-turkmenistan-tapi-review-talks-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-17-pakistan-turkmenistan-tapi-review-talks.jpg",
+  "story": "posts/2026-11-17-pakistan-turkmenistan-tapi-review-talks-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 590422118,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T10:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan and Turkmenistan to review the $10 billion TAPI gas pipeline today ⛽🇵🇰🇹🇲\nArab News reports that Deputy PM Ishaq Dar and Turkmen Foreign Minister Rashid Meredov will co-chair the sixth session of the Pakistan-Turkmenistan Intergovernmental Commission in Islamabad on Tuesday. The roughly 1,800 km pipeline is planned to carry about 33 billion cubic meters of gas a year from Turkmenistan's Galkynysh field, but work has stalled for years. The TAP electricity transmission project is also on the agenda.\nDo you think TAPI will ever be completed? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #TAPI #Turkmenistan #PakistanEnergy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-pakistan-turkmenistan-tapi-review-talks.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T10:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-pakistan-turkmenistan-tapi-review-talks-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-17T09:49:57+05:00"
+}
