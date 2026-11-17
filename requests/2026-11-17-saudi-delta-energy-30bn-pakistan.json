@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-saudi-delta-energy-30bn-pakistan",
+  "type": "news",
+  "headline": "Saudi company Delta Energy Saudi has signed a framework agreement with Pakistan's Inter State Gas Systems to explore about $30 billion of investment in Pakistan's energy infrastructure, including a gas pipeline from the western border towards Gwadar, Business Recorder reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449353/saudis-delta-energy-to-explore-30-billion-energy-investment-in-pakistan",
+      "published_at": "2026-11-17T15:40:48+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/55a3d2ba-6a19-45ce-804a-af0d75fa7a94/11003b67-fde7-4374-8b72-a313e65a9726/Realistic_documentary_photo_of_a_large_steel_natural_gas_pip.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTI4MTkzYTBiZTVhM2I1NSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTAxODI3Mn0.OSkV3ATd34ZIVS04YJMnNgHaIQ1aq4pqd8cy-fgTiZU",
+    "head1": "Saudi Firm Eyes",
+    "head2_hl": "$30 Billion",
+    "head2": "Investment",
+    "kicker": "Energy Deal With ISGS",
+    "desc": "Gas pipeline plan from western border towards Gwadar",
+    "source": "Business Recorder",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Saudi company eyes $30 billion energy investment in Pakistan! ⚡\nAccording to Business Recorder, Delta Energy Saudi has signed an agreement with Pakistan's Inter State Gas Systems to explore about $30 billion of investment in Pakistan's energy infrastructure. The plan includes a natural gas pipeline from Pakistan's western border towards Gwadar, and possible LNG facilities, gas storage and export terminals. The agreement is a framework to evaluate the projects, not a final investment decision.\nCan this deal ease Pakistan's gas shortage? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Gwadar #SaudiArabia #PakistanEnergy #PakistanNews",
+  "tiktok_title": "Saudi firm to explore $30 billion energy investment in Pakistan",
+  "publish": {
+    "slot": "2026-11-17T18:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
