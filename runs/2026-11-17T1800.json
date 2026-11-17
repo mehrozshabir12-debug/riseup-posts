@@ -1,1 +1,73 @@
-{"slot": "2026-11-17T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-17T17:48:13+05:00"}
+{
+  "slot": "2026-11-17T18:00:00+05:00",
+  "riseup_day": "2026-11-17",
+  "run_started_pkt": "2026-11-17T17:48:13+05:00",
+  "run_finished_pkt": "2026-11-17T17:52:54+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "freshness_window": "3h",
+  "story": {
+    "headline": "Saudi company Delta Energy Saudi has signed a framework agreement with Pakistan's Inter State Gas Systems to explore about $30 billion of investment in Pakistan's energy infrastructure, including a gas pipeline from the western border towards Gwadar, Business Recorder reports.",
+    "sources": [
+      {
+        "outlet": "Business Recorder",
+        "url": "https://www.brecorder.com/news/40449353/saudis-delta-energy-to-explore-30-billion-energy-investment-in-pakistan",
+        "published_at": "2026-11-17T15:40:48+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-17-saudi-delta-energy-30bn-pakistan",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-saudi-delta-energy-30bn-pakistan.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 431410115,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7360193289533897861",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 431410154,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7411007550771776922",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "Windows 16 Nov 18:00 to 18 Nov 06:00 read OK; no post at 18:00; news feed posts today before this = 4 (10,12,14,16); cap 10",
+    "previous_slot_check": "16:00 feed 431271088 FB/IG/TikTok PUBLISHED; story 431271104 FB/IG PUBLISHED",
+    "news_search": "2h window: Karachi Baldia Town factory fire (Dawn 16:01) rejected - article conflicts glass vs plastic factory. 3h window: Delta Energy Saudi $30bn (Business Recorder 15:40) chosen.",
+    "verification": "Business Recorder article opened; timestamp 2026-11-17T15:40:48+05:00; all facts from article; not a duplicate (TAPI post at 10:00 is a different event; article says program is independent of TAPI)",
+    "image": "Runway nano-banana-2-lite, 1 image, ok; 943 credits left before task",
+    "publish": "Pipeline awaiting_publish; TikTok skipped by pipeline (daily pacing 5 by 18:00); card compared with 2026-11-13 Ivanhoe card - same layout; feed + story scheduled exactly as payloads"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Fire engulfs glass factory in Karachi's Baldia Town",
+      "reason": "Factory type inconsistent within article (glass vs plastic)"
+    },
+    {
+      "headline": "SBP flags inflation forecast revision",
+      "reason": "Published 09:29 PKT, older and overlaps 16 Nov SBP annual report post"
+    },
+    {
+      "headline": "Pakistan proposes direct flights to Turkmenistan",
+      "reason": "Same IGC event as 10:00 TAPI post"
+    },
+    {
+      "headline": "Bilawal says system was made to collapse",
+      "reason": "Political statement, avoid one-sided politics"
+    }
+  ],
+  "errors": []
+}
