@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-punjab-lg-polls-two-phases",
+  "type": "news",
+  "headline": "The Election Commission of Pakistan has accepted the Punjab government's proposal to hold the province's local government elections, scheduled for February 2027, in two phases of 18 districts each, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2045194/local-govt-polls-in-punjab-to-be-held-in-two-phases",
+      "published_at": "2026-11-17T19:20:26+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/54968b59-2e98-44e6-baca-252119cfc999/61a47d8c-b4ef-4710-9938-16d851df42a4/Realistic_documentary_photo_of_a_local_election_polling_stat.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTU1NGU5ZmVhNGZhMTE3YSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTA3NTcxMH0.WxJtJUi-PNXtfLJ_NpXUDHg1QYV9hxA7arFROB9ywcc",
+    "head1": "Punjab Baldiyati Elections",
+    "head2_hl": "Do Marhalon",
+    "head2": "Mein",
+    "kicker": "Har Phase Mein 18 Districts",
+    "desc": "ECP ne Punjab hukoomat ki tajweez manzoor kar li",
+    "source": "Dawn",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Punjab mein baldiyati elections do marhalon mein honge! 🗳️\nDawn ke mutabiq Election Commission of Pakistan (ECP) ne Punjab hukoomat ki tajweez manzoor kar li hai. February 2027 mein hone wale local government elections do phases mein honge, aur har phase mein 18 districts shamil honge. Pehle phase mein Lahore, Rawalpindi, Sialkot aur Bahawalpur samet 18 districts hain, jabke doosre phase mein Faisalabad, Multan, Gujranwala aur Rahim Yar Khan samet 18 districts hain. Punjab mein pichle baldiyati elections 2015 mein hue the.\nKya aap apne ilaqe ke local elections mein vote denge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Punjab #LocalElections #ECP #PakistanNews",
+  "tiktok_title": "Punjab ke baldiyati elections do marhalon mein, har phase mein 18 districts",
+  "publish": {
+    "slot": "2026-11-17T21:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
