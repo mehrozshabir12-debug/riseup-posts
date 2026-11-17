@@ -11376,5 +11376,31 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-17",
+  "slot": "2026-11-17T13:35:00+05:00",
+  "request_id": "2026-11-17-imran-khan-letter",
+  "layout": "carousel-7",
+  "headline": "Imran Khan's open letter to top judges: 'I may not return alive' (medical treatment for him and Bushra Bibi)",
+  "source_outlet": "Express Tribune, ANI",
+  "topic": "Imran Khan open letter 16 Nov 2026",
+  "people": [
+   "Imran Khan",
+   "Bushra Bibi"
+  ],
+  "networks": [
+   "facebook",
+   "instagram",
+   "tiktok (manual publish)",
+   "fb+ig story"
+  ],
+  "tiktok": true,
+  "manual_owner_request": true,
+  "metricool_ids": [
+   431126800,
+   431126850,
+   431126873
+  ]
  }
 ]
