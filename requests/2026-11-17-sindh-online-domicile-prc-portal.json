@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-sindh-online-domicile-prc-portal",
+  "type": "news",
+  "headline": "Sindh Chief Secretary Asif Hyder Shah inaugurated an E-Domicile and PRC Portal in Karachi on Tuesday, letting citizens apply online for domicile and permanent residence certificates, APP reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "APP",
+      "url": "https://www.app.com.pk/sindh/sindh-govt-launches-online-domicile-and-prc-service-in-karachi/",
+      "published_at": "2026-11-17T18:32:36+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9c0f25e2-c8e2-451a-a1b3-fe015af475ea/61a048e4-db3f-41fa-b781-e96c94280153/Realistic_photo_of_a_young_Pakistani_man_in_a_shalwar_kameez.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYWE3M2RiZGZmNGE5OGE4MCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTAxMjQ0N30.i6MD71wp8BbgSmpGnwI1Ajh7_-3Ui6qgpx-oKrSxlIY",
+    "head1": "Sindh Mein Domicile",
+    "head2_hl": "Ab Online",
+    "head2": "",
+    "kicker": "E-Domicile Aur PRC Portal",
+    "desc": "Chief Secretary Sindh ne Karachi mein portal launch kiya",
+    "source": "APP",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Sindh mein domicile ab ghar baithe online banwayein! 📱\nAPP ke mutabiq Chief Secretary Sindh Asif Hyder Shah ne Tuesday ko Karachi mein E-Domicile aur PRC Portal ka aaghaz kiya. Ab domicile aur PRC (permanent residence certificate) ke liye online apply kiya ja sakta hai. Registration ke baad chehre ki pehchan se tasdeeq hogi, documents upload honge aur fees online ya bank challan se jama hogi. Chief Secretary ke mutabiq jo kaam hafton mein hota tha, ab ghanton mein hoga. Yeh service pehle Karachi mein shuru hui hai aur baad mein Sindh ke doosre districts tak barhai jayegi.\nKya aap ko kabhi domicile banwane mein mushkil hui? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Sindh #Karachi #Domicile #PakistanNews",
+  "tiktok_title": "Sindh mein domicile aur PRC ab online, pehle Karachi mein service shuru",
+  "publish": {
+    "slot": "2026-11-17T19:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
