@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-17-petrol-price-rs3-cut-rs325",
+  "type": "news",
+  "headline": "OGRA cut the petrol price by Rs3 per litre from Rs328 to Rs325 for Wednesday, November 18, while keeping diesel unchanged at Rs358, Business Recorder reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449380/govt-decreases-petrol-price-rs3-per-litre-keeps-diesel-rate-unchanged",
+      "published_at": "2026-11-17T21:44:59+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/3b44d328-9381-4abb-b140-d1409bd77231/95a83ae0-d529-4ae7-b5be-c916a5d3f0bc/Realistic_documentary_photo_of_a_busy_fuel_station_in_a_Paki.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDFjNmMwNmUxYzM5YWViZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTA5MDAzMH0.2OJE09k8gylot7oo5Ie7Q3iT_iTNDIh_sFgukOkTejQ",
+    "head1": "Petrol Ki Qeemat",
+    "head2_hl": "Rs3 Kam",
+    "head2": "Fi Litre",
+    "kicker": "Ab Petrol Rs325 Litre",
+    "desc": "Diesel Rs358 par barqarar, naye rates Wednesday se.",
+    "source": "Business Recorder",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Petrol phir sasta, Rs3 fi litre ki kami! ⛽\nBusiness Recorder ke mutabiq OGRA ne Tuesday ko notification jaari kiya, jis ke mutabiq petrol ki qeemat Rs328 se kam ho kar Rs325 fi litre ho gayi hai. Diesel ki qeemat Rs358 fi litre par barqarar rahegi. Naye rates Wednesday, 18 November ke liye hain. Is se pehle Monday ko petrol aur diesel dono Rs2 fi litre saste kiye gaye the.\nKya petrol sasta hone se aap ka kharcha kam hua? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #OGRA #Diesel #PakistanNews",
+  "tiktok_title": "Petrol Rs3 sasta, ab Rs325 fi litre; diesel Rs358 par barqarar",
+  "publish": {
+    "slot": "2026-11-17T23:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
