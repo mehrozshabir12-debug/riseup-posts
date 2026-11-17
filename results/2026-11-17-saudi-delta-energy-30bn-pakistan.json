@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-17-saudi-delta-energy-30bn-pakistan",
+ "revision": 1,
+ "request": "requests/2026-11-17-saudi-delta-energy-30bn-pakistan.json",
+ "type": "news",
+ "headline": "Saudi company Delta Energy Saudi has signed a framework agreement with Pakistan's Inter State Gas Systems to explore about $30 billion of investment in Pakistan's energy infrastructure, including a gas pipeline from the western border towards Gwadar, Business Recorder reports.",
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-17; allowed by 18:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-17T18:00:00+05:00",
+ "target_slot": "2026-11-17T18:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-saudi-delta-energy-30bn-pakistan.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-saudi-delta-energy-30bn-pakistan-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-17-saudi-delta-energy-30bn-pakistan.jpg",
+  "story": "posts/2026-11-17-saudi-delta-energy-30bn-pakistan-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 40429670,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Saudi company eyes $30 billion energy investment in Pakistan! ⚡\nAccording to Business Recorder, Delta Energy Saudi has signed an agreement with Pakistan's Inter State Gas Systems to explore about $30 billion of investment in Pakistan's energy infrastructure. The plan includes a natural gas pipeline from Pakistan's western border towards Gwadar, and possible LNG facilities, gas storage and export terminals. The agreement is a framework to evaluate the projects, not a final investment decision.\nCan this deal ease Pakistan's gas shortage? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Gwadar #SaudiArabia #PakistanEnergy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-saudi-delta-energy-30bn-pakistan.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-saudi-delta-energy-30bn-pakistan-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-17T17:51:26+05:00"
+}
