@@ -11628,5 +11628,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-17",
+  "slot": "2026-11-17T21:00:00+05:00",
+  "request_id": "2026-11-17-punjab-lg-polls-two-phases",
+  "layout": "bold",
+  "headline": "The Election Commission of Pakistan has accepted the Punjab government's proposal to hold the province's local government elections, scheduled for February 2027, in two phases of 18 districts each, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2045194/local-govt-polls-in-punjab-to-be-held-in-two-phases",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2045194/local-govt-polls-in-punjab-to-be-held-in-two-phases",
+    "published_at": "2026-11-17T19:20:26+05:00"
+   }
+  ],
+  "published": "2026-11-17T19:20:26+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 868940359,
+  "image": "posts/2026-11-17-punjab-lg-polls-two-phases.jpg",
+  "story": "posts/2026-11-17-punjab-lg-polls-two-phases-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-17 21:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
