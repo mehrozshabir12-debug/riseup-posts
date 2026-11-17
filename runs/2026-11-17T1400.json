@@ -1,1 +1,72 @@
-{"slot": "2026-11-17T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-17T13:47:41+05:00"}
+{
+ "slot": "2026-11-17T14:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "run_started_pkt": "2026-11-17T13:47:41+05:00",
+ "run_finished_pkt": "2026-11-17T13:51:26+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan bowled Sri Lanka out for 98 in 35.3 overs on day one of the second Test in Rawalpindi on Tuesday, with Mohammad Abbas, Razaullah and Aamer Jamal taking three wickets each, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2045154/pakistans-fast-bowling-masterclass-bundles-sri-lanka-out-for-98-in-second-test",
+    "published_at": "2026-11-17T12:20:22+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-17-sri-lanka-98-all-out-rawalpindi",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sri-lanka-98-all-out-rawalpindi.jpg",
+ "freshness_window": "2h",
+ "language": "Roman Urdu",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "runway_task": "5e49492a-27d2-47dd-912d-88bf8804323d",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 431151842,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7861313914332138884",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 431151860,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3674224536814466805",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: windows 15 Nov 13:00 -> 18 Nov 02:00 all succeeded; no non-Story post at 14:00 (slot free). 3rd hourly news post of RiseUp day 17 Nov (plus owner's Imran Khan carousel at 13:35).",
+  "previous_slot_check": "12:00 feed 431068823 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122190641012855502, https://www.instagram.com/p/Df1Wg-ylSDT/); story 431068837 FB+IG PUBLISHED.",
+  "news_search": "Searched Dawn/Tribune/Geo/Arab News/Brecorder. Picked Dawn: Sri Lanka all out for 98 on day one of 2nd Test (new development after 16 Nov 22:00 preview post).",
+  "verification": "Single approved outlet (Dawn), published 12:20:22 PKT, updated 13:47 PKT. Checked: SL 98 all out in 35.3 overs, Pakistan won toss and bowled, Abbas 3-14, Razaullah 3-21, Aamer Jamal 3-24, lowest innings at Rawalpindi (below England's 112 in 2024).",
+  "image": "Runway nano-banana-2-lite, 1 attempt: hazy stadium, anonymous fielders in white celebrating a wicket; no identifiable faces; credits 963 after generation.",
+  "publish": "Pipeline awaiting_publish; TikTok skipped by pipeline (pacing 3 allowed by 14:00). Template sha256 check OK. Feed card and story compared side by side with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou card/story: identical layout. Scheduled feed 14:00 (FB POST + IG POST) and story 14:05 (FB+IG) exactly as payloads returned; all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan proposes direct flights to Turkmenistan (Arab News)",
+   "reason": "Turkmenistan/TAPI talks already posted 10:00 today"
+  },
+  {
+   "headline": "Pakistan condemns Israeli attacks in Syria at UNSC",
+   "reason": "less relevant to ordinary people; cricket result fresher"
+  },
+  {
+   "headline": "Govt cuts petrol, diesel by Rs2",
+   "reason": "older than 8h; petrol cut context already in 12:00 post"
+  }
+ ],
+ "errors": []
+}
