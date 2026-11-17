@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-17-sindh-online-domicile-prc-portal",
+ "revision": 1,
+ "request": "requests/2026-11-17-sindh-online-domicile-prc-portal.json",
+ "type": "news",
+ "headline": "Sindh Chief Secretary Asif Hyder Shah inaugurated an E-Domicile and PRC Portal in Karachi on Tuesday, letting citizens apply online for domicile and permanent residence certificates, APP reports.",
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-17; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-17T19:00:00+05:00",
+ "target_slot": "2026-11-17T19:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sindh-online-domicile-prc-portal.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sindh-online-domicile-prc-portal-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-17-sindh-online-domicile-prc-portal.jpg",
+  "story": "posts/2026-11-17-sindh-online-domicile-prc-portal-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 542406385,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Sindh mein domicile ab ghar baithe online banwayein! 📱\nAPP ke mutabiq Chief Secretary Sindh Asif Hyder Shah ne Tuesday ko Karachi mein E-Domicile aur PRC Portal ka aaghaz kiya. Ab domicile aur PRC (permanent residence certificate) ke liye online apply kiya ja sakta hai. Registration ke baad chehre ki pehchan se tasdeeq hogi, documents upload honge aur fees online ya bank challan se jama hogi. Chief Secretary ke mutabiq jo kaam hafton mein hota tha, ab ghanton mein hoga. Yeh service pehle Karachi mein shuru hui hai aur baad mein Sindh ke doosre districts tak barhai jayegi.\nKya aap ko kabhi domicile banwane mein mushkil hui? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Sindh #Karachi #Domicile #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sindh-online-domicile-prc-portal.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sindh-online-domicile-prc-portal-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-17T18:52:12+05:00"
+}

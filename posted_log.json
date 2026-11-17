@@ -11543,5 +11543,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-17",
+  "slot": "2026-11-17T19:00:00+05:00",
+  "request_id": "2026-11-17-sindh-online-domicile-prc-portal",
+  "layout": "bold",
+  "headline": "Sindh Chief Secretary Asif Hyder Shah inaugurated an E-Domicile and PRC Portal in Karachi on Tuesday, letting citizens apply online for domicile and permanent residence certificates, APP reports.",
+  "source_outlet": "APP",
+  "source": "https://www.app.com.pk/sindh/sindh-govt-launches-online-domicile-and-prc-service-in-karachi/",
+  "sources": [
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/sindh/sindh-govt-launches-online-domicile-and-prc-service-in-karachi/",
+    "published_at": "2026-11-17T18:32:36+05:00"
+   }
+  ],
+  "published": "2026-11-17T18:32:36+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 542406385,
+  "image": "posts/2026-11-17-sindh-online-domicile-prc-portal.jpg",
+  "story": "posts/2026-11-17-sindh-online-domicile-prc-portal-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-17 19:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
