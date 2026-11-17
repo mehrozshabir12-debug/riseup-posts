@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-rawalpindi-roti-rs5-mehngi",
+  "type": "news",
+  "headline": "Despite a cut in petroleum prices, essential commodities in Rawalpindi have not become cheaper and transport fares have not come down, while the price of a gas-cylinder tandoor loaf has risen by Rs5, the Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2640732/prices-of-essential-commodities-soar",
+      "published_at": "2026-11-17T10:26:00+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/27e59bc6-ce93-4a33-8c61-c34a2284abb9/9a7b4c1b-ca54-42f6-8d6b-54560b990236/Realistic_documentary_photo_of_a_busy_local_market_street_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzM2NzdlZjFiOWQ4Njc1MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTAyMjMyMX0.8BttcGk3ORfZs4dvMGj25b725TDLXivKJ1BmEiBuhH0",
+    "head1": "Rawalpindi Mein",
+    "head2_hl": "Roti Rs5",
+    "head2": "Mehngi",
+    "kicker": "Petrol Sasta, Cheezein Nahi",
+    "desc": "Chicken Rs620 kilo, ande Rs280 darjan",
+    "source": "Express Tribune",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Petrol sasta hua, lekin Rawalpindi mein roti Rs5 mehngi! 🫓\nExpress Tribune ke mutabiq petrol ki qeemat kam hone ke bawajood Rawalpindi mein zaroori cheezein sasti nahi huin, aur transport ke kiraye bhi kam nahi hue. Gas cylinder wale tandoor ki roti Rs5 mehngi ho gayi hai. Open market mein chicken Rs620 fi kilo, ande Rs280 fi darjan, mutton Rs2,800 fi kilo aur beef Rs1,700 fi kilo bik raha hai.\nAap ke shehar mein chicken kitne ka hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Mehngai #Rawalpindi #PetrolPrice #PakistanNews",
+  "tiktok_title": "Rawalpindi: petrol sasta, lekin roti Rs5 mehngi, chicken Rs620 kilo",
+  "publish": {
+    "slot": "2026-11-17T12:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
