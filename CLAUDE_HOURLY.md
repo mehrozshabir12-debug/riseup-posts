@@ -1,3 +1,16 @@
+> 🚫 **17 Nov 2026 — owner's order: NO DUPLICATE PHOTO POST FOR A STORY THAT ALREADY HAS A REEL.**
+> On 16 Nov 2026 the Alfaaz/Alan Walker reel went out at 11:44 PM PKT with its cover, and one minute later a
+> separate photo post on the same story went out to Facebook + Instagram. On Facebook it looked like the reel and
+> its cover were uploaded separately. Never again:
+> 1. Before making ANY news, star or showbiz photo post, check posted_log.json, celebrity_log.json AND Metricool
+>    (getScheduledPosts for the last 24 h, blogId 7305396, extendedRange true). If a reel/video or any post on the
+>    same event (same people, same happening, even from another outlet) is already published or scheduled, SKIP
+>    that story and pick another one.
+> 2. Every reel the owner sends is logged in posted_log.json right after it is scheduled (date, slug, topic,
+>    people, "reel": true) so the hourly runs can see it.
+> 3. A reel's cover goes ONLY in videoThumbnailUrl. Never put the cover JPG in media, and never schedule the cover
+>    as its own post.
+
 >>> OWNER'S RULE 14 Nov 2026 (wins over everything below): NO INSTAGRAM REELS FOR NEWS/PHOTO POSTS.
 >>> Every news and showbiz request uses "reel": {"type": "none"} and NO "music" field. The pipeline then makes ONE
 >>> feed post: the JPG card to Facebook (POST) + Instagram (normal feed POST) + TikTok photo (if under the limit),
