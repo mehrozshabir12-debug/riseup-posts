@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-current-account-surplus-oct-39mn",
+  "type": "news",
+  "headline": "Pakistan posted a current account surplus of $39 million in October 2026, against a deficit of $371 million in September, State Bank of Pakistan data released on Tuesday showed, Business Recorder reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449346/pakistan-posts-39mn-current-account-surplus-in-oct-2026",
+      "published_at": "2026-11-17T15:19:23+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/8fa80cf0-a85f-47a7-acf0-2252955f06f6/2242e57f-c655-44ef-84e0-066ed91674d7/Realistic_documentary_photo_of_a_busy_container_terminal_at_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMGY0ZmM5OTliYTE4YjAyNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTA2NjM5M30.fkIYSPsy6T3HZ-oJkU3WQcPa6AUcfiVmaRf4jXI_VPU",
+    "head1": "Current Account",
+    "head2_hl": "$39 Million",
+    "head2": "Surplus",
+    "kicker": "October 2026 SBP Data",
+    "desc": "Shift from a $371 million deficit in September",
+    "source": "Business Recorder",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Pakistan's current account swings to a $39 million surplus in October! 📊\nAccording to Business Recorder, State Bank of Pakistan (SBP) data released on Tuesday shows a current account surplus of $39 million in October 2026, compared with a deficit of $371 million in September and a deficit of $307 million in October last year. For the first four months of FY27, the current account deficit stood at $850 million, down from $1,062 million in the same period last year.\nIs Pakistan's economy finally on the right track? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #CurrentAccount #PakistanEconomy #PakistanNews",
+  "tiktok_title": "Pakistan posts $39 million current account surplus in October 2026",
+  "publish": {
+    "slot": "2026-11-17T16:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
