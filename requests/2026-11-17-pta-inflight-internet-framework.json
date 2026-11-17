@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-17-pta-inflight-internet-framework",
+  "type": "news",
+  "headline": "The Pakistan Telecommunication Authority has finalised a licensing framework for satellite-based in-flight telecommunication services, allowing internet and communication services aboard Pakistani-registered aircraft, Business Recorder reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449371/pta-finalises-licensing-framework-for-in-flight-internet-services",
+      "published_at": "2026-11-17T19:14:35+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/6eb9ffe2-14e7-48c8-9a64-e690456943af/20330a8f-0995-4730-a3ad-a602805e074d/Realistic_photo_inside_the_cabin_of_a_commercial_passenger_a.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNGFiZmFlODI1MGE0M2I2ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTAyNjQzNH0.tyOrlhWrO5QoBS8tcZx04ZeRmikMdAOia2OEhmPr98w",
+    "head1": "Jahaz Mein Bhi",
+    "head2_hl": "Internet",
+    "head2": "",
+    "kicker": "PTA Ka Naya Framework",
+    "desc": "Pakistani jahazon mein satellite internet ki ijazat",
+    "source": "Business Recorder",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Ab jahaz mein bhi internet chalega! ✈️\nBusiness Recorder ke mutabiq PTA ne jahaz mein satellite internet aur communication services ke liye licensing framework final kar diya hai. Licensed companies Pakistan mein registered jahazon mein satellite ke zariye internet de sakengi. In companies ko Pakistan Space Activities Regulatory Board (PSARB) mein registration karwani hogi aur PTA ki licensing sharait poori karni hongi. Pakistan ki fazai hudood se guzarne wale jahazon ko PTA se NOC lena hoga. Is se musafir safar ke dauran internet, entertainment aur apna kaam bhi kar sakenge.\nKya aap safar mein jahaz par internet istemal karenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PTA #Internet #Aviation #PakistanNews",
+  "tiktok_title": "PTA ka faisla: ab Pakistani jahazon mein satellite internet milega",
+  "publish": {
+    "slot": "2026-11-17T20:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
