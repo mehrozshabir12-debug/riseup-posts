@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-17-current-account-surplus-oct-39mn",
+ "revision": 1,
+ "request": "requests/2026-11-17-current-account-surplus-oct-39mn.json",
+ "type": "news",
+ "headline": "Pakistan posted a current account surplus of $39 million in October 2026, against a deficit of $371 million in September, State Bank of Pakistan data released on Tuesday showed, Business Recorder reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-17T16:00:00+05:00",
+ "target_slot": "2026-11-17T16:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-current-account-surplus-oct-39mn.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-current-account-surplus-oct-39mn-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-17-current-account-surplus-oct-39mn.jpg",
+  "story": "posts/2026-11-17-current-account-surplus-oct-39mn-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 207676052,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan's current account swings to a $39 million surplus in October! 📊\nAccording to Business Recorder, State Bank of Pakistan (SBP) data released on Tuesday shows a current account surplus of $39 million in October 2026, compared with a deficit of $371 million in September and a deficit of $307 million in October last year. For the first four months of FY27, the current account deficit stood at $850 million, down from $1,062 million in the same period last year.\nIs Pakistan's economy finally on the right track? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #CurrentAccount #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-current-account-surplus-oct-39mn.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan posts $39 million current account surplus in October 2026",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-current-account-surplus-oct-39mn-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-17T15:50:48+05:00"
+}

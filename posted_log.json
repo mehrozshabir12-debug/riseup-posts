@@ -11444,5 +11444,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-17",
+  "slot": "2026-11-17T16:00:00+05:00",
+  "request_id": "2026-11-17-current-account-surplus-oct-39mn",
+  "layout": "bold",
+  "headline": "Pakistan posted a current account surplus of $39 million in October 2026, against a deficit of $371 million in September, State Bank of Pakistan data released on Tuesday showed, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449346/pakistan-posts-39mn-current-account-surplus-in-oct-2026",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449346/pakistan-posts-39mn-current-account-surplus-in-oct-2026",
+    "published_at": "2026-11-17T15:19:23+05:00"
+   }
+  ],
+  "published": "2026-11-17T15:19:23+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 207676052,
+  "image": "posts/2026-11-17-current-account-surplus-oct-39mn.jpg",
+  "story": "posts/2026-11-17-current-account-surplus-oct-39mn-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-17 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
