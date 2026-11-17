@@ -11334,5 +11334,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-17",
+  "slot": "2026-11-17T12:00:00+05:00",
+  "request_id": "2026-11-17-rawalpindi-roti-rs5-mehngi",
+  "layout": "bold",
+  "headline": "Despite a cut in petroleum prices, essential commodities in Rawalpindi have not become cheaper and transport fares have not come down, while the price of a gas-cylinder tandoor loaf has risen by Rs5, the Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2640732/prices-of-essential-commodities-soar",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2640732/prices-of-essential-commodities-soar",
+    "published_at": "2026-11-17T10:26:00+05:00"
+   }
+  ],
+  "published": "2026-11-17T10:26:00+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 278146578,
+  "image": "posts/2026-11-17-rawalpindi-roti-rs5-mehngi.jpg",
+  "story": "posts/2026-11-17-rawalpindi-roti-rs5-mehngi-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-17 12:04 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

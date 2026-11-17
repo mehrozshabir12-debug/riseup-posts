@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-17-rawalpindi-roti-rs5-mehngi",
+ "revision": 1,
+ "request": "requests/2026-11-17-rawalpindi-roti-rs5-mehngi.json",
+ "type": "news",
+ "headline": "Despite a cut in petroleum prices, essential commodities in Rawalpindi have not become cheaper and transport fares have not come down, while the price of a gas-cylinder tandoor loaf has risen by Rs5, the Express Tribune reports.",
+ "warnings": [
+  "TikTok skipped: 2 TikTok posts on RiseUp day 2026-11-17; allowed by 12:00 = 2 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-17T12:04:00+05:00",
+ "target_slot": "2026-11-17T12:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-rawalpindi-roti-rs5-mehngi.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-rawalpindi-roti-rs5-mehngi-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-17-rawalpindi-roti-rs5-mehngi.jpg",
+  "story": "posts/2026-11-17-rawalpindi-roti-rs5-mehngi-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 278146578,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T12:04:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Petrol sasta hua, lekin Rawalpindi mein roti Rs5 mehngi! 🫓\nExpress Tribune ke mutabiq petrol ki qeemat kam hone ke bawajood Rawalpindi mein zaroori cheezein sasti nahi huin, aur transport ke kiraye bhi kam nahi hue. Gas cylinder wale tandoor ki roti Rs5 mehngi ho gayi hai. Open market mein chicken Rs620 fi kilo, ande Rs280 fi darjan, mutton Rs2,800 fi kilo aur beef Rs1,700 fi kilo bik raha hai.\nAap ke shehar mein chicken kitne ka hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Mehngai #Rawalpindi #PetrolPrice #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-rawalpindi-roti-rs5-mehngi.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-17T12:09:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-rawalpindi-roti-rs5-mehngi-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-17T11:58:46+05:00"
+}
