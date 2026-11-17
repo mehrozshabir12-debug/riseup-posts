@@ -1,1 +1,65 @@
-{"slot": "2026-11-17T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-17T20:47:23+05:00"}
+{
+  "slot": "2026-11-17T21:00:00+05:00",
+  "riseup_day": "2026-11-17",
+  "run_started_pkt": "2026-11-17T20:47:23+05:00",
+  "run_finished_pkt": "2026-11-17T20:51:39+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "freshness_window": "2h",
+  "story": {
+    "headline": "The Election Commission of Pakistan has accepted the Punjab government's proposal to hold the province's local government elections, scheduled for February 2027, in two phases of 18 districts each, Dawn reports.",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "url": "https://www.dawn.com/news/2045194/local-govt-polls-in-punjab-to-be-held-in-two-phases",
+        "published_at": "2026-11-17T19:20:26+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-17-punjab-lg-polls-two-phases",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-punjab-lg-polls-two-phases.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 431646793,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2844679677825467633",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 431646958,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5125483890936623519",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "Windows 15 Nov 20:00 to 18 Nov 09:00 read OK; no post at 21:00; news feed posts today before this = 7 (10,12,14,16,18,19,20); cap 10",
+    "previous_slot_check": "20:00 feed 431560175 FB/IG/TikTok PUBLISHED; story 431560235 FB/IG PUBLISHED",
+    "news_search": "2h window: Punjab LG polls in two phases (Dawn 19:20) chosen; see skipped_candidates",
+    "verification": "Dawn article opened; published 2026-11-17T19:20:26+05:00; all card/caption facts from article; not a duplicate of last 48h",
+    "image": "Runway nano-banana-2-lite, 1 attempt OK; 927 credits left after task",
+    "publish": "Pipeline awaiting_publish (TikTok skipped by pipeline: 6/6 allowed by 21:00); template sha256 OK; card and story compared with 2026-11-13 Ivanhoe card - same layout; feed + story scheduled exactly as payloads"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "ADB approves $500mn loan for Pakistan's pension reforms (Business Recorder 19:17)",
+      "reason": "Punjab LG polls more relevant to ordinary people"
+    },
+    {
+      "headline": "Govt slashes petrol, diesel prices by Rs2 per litre (Business Recorder)",
+      "reason": "older than the 2h window; fuel price theme covered recently"
+    }
+  ],
+  "errors": []
+}
