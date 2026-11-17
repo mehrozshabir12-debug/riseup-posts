@@ -1,1 +1,73 @@
-{"slot": "2026-11-17T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-17T18:47:58+05:00"}
+{
+  "slot": "2026-11-17T19:00:00+05:00",
+  "riseup_day": "2026-11-17",
+  "run_started_pkt": "2026-11-17T18:47:58+05:00",
+  "run_finished_pkt": "2026-11-17T18:53:05+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "freshness_window": "2h",
+  "story": {
+    "headline": "Sindh Chief Secretary Asif Hyder Shah inaugurated an E-Domicile and PRC Portal in Karachi on Tuesday, letting citizens apply online for domicile and permanent residence certificates, APP reports.",
+    "sources": [
+      {
+        "outlet": "APP",
+        "url": "https://www.app.com.pk/sindh/sindh-govt-launches-online-domicile-and-prc-service-in-karachi/",
+        "published_at": "2026-11-17T18:32:36+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-17-sindh-online-domicile-prc-portal",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-sindh-online-domicile-prc-portal.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "readable laptop brand logo (DELL) in photo"
+    },
+    {
+      "attempt": 2,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 431481766,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5184941821373203054",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 431481811,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2735968227512238688",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "Windows 15 Nov 18:00 to 18 Nov 06:00 read OK; no post at 19:00; news feed posts today before this = 5 (10,12,14,16,18); cap 10",
+    "previous_slot_check": "18:00 feed 431410115 FB/IG PUBLISHED; story 431410154 FB/IG PUBLISHED",
+    "news_search": "2h window: Sindh e-domicile/PRC portal (APP 18:32) chosen. Others rejected (see skipped_candidates).",
+    "verification": "APP article opened; article:published_time 2026-11-17T18:32:36+05:00; all card/caption facts from article; not a duplicate of last 48h",
+    "image": "Runway nano-banana-2-lite; attempt 1 had readable laptop logo, retried once; 935 credits left after tasks",
+    "publish": "Pipeline awaiting_publish; TikTok skipped by pipeline (daily pacing 5 by 19:00); card compared with 2026-11-13 Ivanhoe card - same layout; feed + story scheduled exactly as payloads"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Govt cuts petrol, diesel by Rs2 per litre (Business Recorder)",
+      "reason": "published 16 Nov 22:55 PKT, older than 8h"
+    },
+    {
+      "headline": "Pakistan openers take control after SL 98 all out (Dawn)",
+      "reason": "same event as 14:00 post; article only to tea, no exact close-of-play"
+    },
+    {
+      "headline": "ECP rules Chaudhry Shujaat remains PML-Q president (The News)",
+      "reason": "no exact timestamp on article"
+    }
+  ],
+  "errors": []
+}
