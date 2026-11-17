@@ -11670,5 +11670,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-17",
+  "slot": "2026-11-17T22:00:00+05:00",
+  "request_id": "2026-11-17-islamabad-vehicle-fitness-emission-ban",
+  "layout": "bold",
+  "headline": "The government decided on Tuesday to bar vehicles without fitness and emission testing from entering Islamabad to curb smog and air pollution, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2045192/vehicles-without-fitness-emission-tests-to-be-barred-from-islamabad-to-curb-smog",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2045192/vehicles-without-fitness-emission-tests-to-be-barred-from-islamabad-to-curb-smog",
+    "published_at": "2026-11-17T19:09:45+05:00"
+   }
+  ],
+  "published": "2026-11-17T19:09:45+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 639738428,
+  "image": "posts/2026-11-17-islamabad-vehicle-fitness-emission-ban.jpg",
+  "story": "posts/2026-11-17-islamabad-vehicle-fitness-emission-ban-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-17 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
