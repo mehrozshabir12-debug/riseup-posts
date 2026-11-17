@@ -1,1 +1,75 @@
-{"slot": "2026-11-17T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-17T15:47:13+05:00"}
+{
+ "slot": "2026-11-17T16:00:00+05:00",
+ "riseup_day": "2026-11-17",
+ "run_started_pkt": "2026-11-17T15:47:13+05:00",
+ "run_finished_pkt": "2026-11-17T15:52:08+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan posted a current account surplus of $39 million in October 2026, against a deficit of $371 million in September, State Bank of Pakistan data released on Tuesday showed, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449346/pakistan-posts-39mn-current-account-surplus-in-oct-2026",
+    "published_at": "2026-11-17T15:19:23+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-17-current-account-surplus-oct-39mn",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-17-current-account-surplus-oct-39mn.jpg",
+ "freshness_window": "2h",
+ "language": "English",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "text in photo (ship hull name readable)",
+   "runway_task": "ae7383a4-cf3e-47e3-aff4-5c748886ff92",
+   "model": "nano-banana-2-lite"
+  },
+  {
+   "attempt": 2,
+   "result": "ok",
+   "runway_task": "8fa80cf0-a85f-47a7-acf0-2252955f06f6",
+   "model": "nano-banana-2-lite"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 431271088,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6153579418307808939",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 431271104,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8807061151120050313",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: windows 15 Nov 15:00 -> 18 Nov 04:00 all succeeded; no post at 16:00 (slot free). 4th hourly news post of RiseUp day 17 Nov (cap 10). TikTok today before this: 1 (owner's 13:35 carousel), this makes 2 (cap 8).",
+  "previous_slot_check": "14:00 feed 431151842 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122190653216855502, https://www.instagram.com/p/Df1kOlqFcbe/); story 431151860 FB+IG PUBLISHED.",
+  "news_search": "Searched Dawn/Brecorder/Tribune/Arab News. Picked Brecorder: SBP October current account surplus $39mn (published 15:19 PKT) - fresh, not covered in last 48h (16 Nov SBP annual report post is a different release).",
+  "verification": "Single approved outlet (Business Recorder), published 15:19:23, updated 15:26 PKT. Checked: Oct surplus $39mn; Sep deficit $371mn (revised from $356mn); Oct 2025 deficit $307mn; 4MFY27 deficit $850mn vs $1,062mn.",
+  "image": "Runway nano-banana-2-lite, 2 attempts (1st had readable ship name). Final: container port with cranes, anonymous distant workers, no text. Credits 947 after generation.",
+  "publish": "Pipeline awaiting_publish (TikTok included). Template sha256 check OK. Feed card and story compared side by side with approved 2026-11-13-ivanhoe-atlantic-mari-energies-mou card/story: identical layout. Scheduled feed 16:00 (FB POST + IG POST + TikTok photo) and story 16:05 (FB+IG) exactly as payloads returned; all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold, silver prices remain unchanged (Brecorder 13:52)",
+   "reason": "no change - not news; 16 Nov gold drop already posted"
+  },
+  {
+   "headline": "Sindh drought alert for four districts (Arab News)",
+   "reason": "lower priority than fresh SBP data; publish time not checked"
+  }
+ ],
+ "errors": []
+}

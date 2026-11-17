@@ -1,0 +1,23 @@
+{
+ "id": "2026-11-17-current-account-surplus-oct-39mn",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 431271088,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6153579418307808939",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 431271104,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8807061151120050313",
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}
