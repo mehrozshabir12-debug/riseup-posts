@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-17-islamabad-vehicle-fitness-emission-ban",
+  "type": "news",
+  "headline": "The government decided on Tuesday to bar vehicles without fitness and emission testing from entering Islamabad to curb smog and air pollution, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2045192/vehicles-without-fitness-emission-tests-to-be-barred-from-islamabad-to-curb-smog",
+      "published_at": "2026-11-17T19:09:45+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/257c6aaf-8a5b-4081-823a-3bfbfd38e397/32b26838-295d-4f0a-85fc-76e1170f6236/Realistic_photo_of_a_traffic_checkpoint_on_a_wide_city_road_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDlmMGFkYjYxY2NjZTZlNCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTAyNzM4Mn0.qT4TPzydPAOPxuIMhM6zWUhCPt_dJ8iTjnxE68IlWs0",
+    "head1": "Fitness Test Ke Baghair",
+    "head2_hl": "Gaariyan",
+    "head2": "Band",
+    "kicker": "Islamabad Mein Dakhla Mamnoo",
+    "desc": "Smog kam karne ke liye hukoomat ne Tuesday ko faisla kiya.",
+    "source": "Dawn",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Fitness aur emission test ke baghair gaariyan ab Islamabad mein dakhil nahi ho sakengi! 🚗\nDawn ke mutabiq hukoomat ne Tuesday ko smog aur fazai aloodgi kam karne ke liye yeh faisla kiya. Yeh faisla Minister of State for Interior Tallal Chaudhry ki sadarat mein hone wale ijlas mein hua. Ijlas mein yeh bhi tay hua ke khule mein aag jalane walon par bhari jurmane honge. Pak-EPA ke mutabiq October 2026 mein Islamabad ka average AQI 148 raha, jabke October 2025 mein yeh 169 tha. Tallal Chaudhry ne kaha ke dhuan chhorne wale bhatton aur karkhanon ke khilaf bhi sakht karwai hogi.\nKya yeh faisla smog kam karne mein madadgar hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Islamabad #Smog #AirPollution #PakistanNews",
+  "tiktok_title": "Fitness aur emission test ke baghair gaariyon ka Islamabad mein dakhla band",
+  "publish": {
+    "slot": "2026-11-17T22:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
