@@ -11585,5 +11585,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-17",
+  "slot": "2026-11-17T20:00:00+05:00",
+  "request_id": "2026-11-17-pta-inflight-internet-framework",
+  "layout": "bold",
+  "headline": "The Pakistan Telecommunication Authority has finalised a licensing framework for satellite-based in-flight telecommunication services, allowing internet and communication services aboard Pakistani-registered aircraft, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449371/pta-finalises-licensing-framework-for-in-flight-internet-services",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449371/pta-finalises-licensing-framework-for-in-flight-internet-services",
+    "published_at": "2026-11-17T19:14:35+05:00"
+   }
+  ],
+  "published": "2026-11-17T19:14:35+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 334578813,
+  "image": "posts/2026-11-17-pta-inflight-internet-framework.jpg",
+  "story": "posts/2026-11-17-pta-inflight-internet-framework-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-17 20:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
