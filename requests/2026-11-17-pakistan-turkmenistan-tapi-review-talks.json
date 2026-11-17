@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-17-pakistan-turkmenistan-tapi-review-talks",
+  "type": "news",
+  "headline": "Pakistan and Turkmenistan will review progress on the roughly $10 billion TAPI gas pipeline at the sixth session of their Intergovernmental Commission in Islamabad on Tuesday, co-chaired by Deputy PM Ishaq Dar and Turkmen Foreign Minister Rashid Meredov, Arab News reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-turkmenistan-to-review-10-billion-tapi-pipeline-progress-in-bilateral-talks-today-3007250",
+      "published_at": "2026-11-17T08:06:08+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/ce724c87-9a5e-474a-81aa-0c47ed5df344/e42505ab-eb25-42e6-a4ed-00e4831996dc/Realistic_documentary_photo_of_a_long_steel_natural_gas_pipe.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYWQ5OTNiYmYwOTc3MTdhYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTAwMzA3MX0.CbNtg9ZSKAV6XlHKv2w8DyWpI4djFlAL4HXaLyYTZbc",
+    "head1": "Pakistan, Turkmenistan",
+    "head2_hl": "TAPI",
+    "head2": "Talks Today",
+    "kicker": "$10 Billion Gas Pipeline",
+    "desc": "Dar and Meredov co-chair commission session in Islamabad",
+    "source": "Arab News",
+    "date": "17 NOV 2026"
+  },
+  "caption": "Pakistan and Turkmenistan to review the $10 billion TAPI gas pipeline today ⛽🇵🇰🇹🇲\nArab News reports that Deputy PM Ishaq Dar and Turkmen Foreign Minister Rashid Meredov will co-chair the sixth session of the Pakistan-Turkmenistan Intergovernmental Commission in Islamabad on Tuesday. The roughly 1,800 km pipeline is planned to carry about 33 billion cubic meters of gas a year from Turkmenistan's Galkynysh field, but work has stalled for years. The TAP electricity transmission project is also on the agenda.\nDo you think TAPI will ever be completed? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #TAPI #Turkmenistan #PakistanEnergy #PakistanNews",
+  "tiktok_title": "Pakistan, Turkmenistan review $10bn TAPI gas pipeline in Islamabad today",
+  "publish": {
+    "slot": "2026-11-17T10:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
