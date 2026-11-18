@@ -11877,5 +11877,34 @@
    "feed": {},
    "story": {}
   }
+ },
+ {
+  "date": "2026-11-18",
+  "slot": "2026-11-18T16:00:00+05:00",
+  "request_id": "2026-11-18-record-lpg-shipment-15000-tons",
+  "layout": "bold",
+  "headline": "SSGC LPG Limited has imported a record 15,000 metric tons of LPG, the largest cargo of its kind, which berthed at Engro Vopak Terminal, the Petroleum Division said on Wednesday, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449540/record-lpg-shipment-lands-in-pakistan-to-ease-winter-shortage",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449540/record-lpg-shipment-lands-in-pakistan-to-ease-winter-shortage",
+    "published_at": "2026-11-18T14:31:12+05:00"
+   }
+  ],
+  "published": "2026-11-18T14:31:12+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 221867595,
+  "image": "posts/2026-11-18-record-lpg-shipment-15000-tons.jpg",
+  "story": "posts/2026-11-18-record-lpg-shipment-15000-tons-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-18 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
