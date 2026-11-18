@@ -12146,5 +12146,34 @@
   "metricool_ids": [
    433053885
   ]
+ },
+ {
+  "date": "2026-11-18",
+  "slot": "2026-11-18T22:00:00+05:00",
+  "request_id": "2026-11-18-asean-secretary-general-pakistan-visit",
+  "layout": "bold",
+  "headline": "ASEAN Secretary-General Kao Kim Hourn is visiting Pakistan from November 18 to 20 at the invitation of Deputy Prime Minister and Foreign Minister Ishaq Dar, the first high-level visit from the ASEAN Secretariat in over two decades, Arab News reports citing Pakistan's foreign ministry.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/asean-secretary-general-due-in-pakistan-for-two-day-visit-to-discuss-enhanced-cooperation-3007410",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/asean-secretary-general-due-in-pakistan-for-two-day-visit-to-discuss-enhanced-cooperation-3007410",
+    "published_at": "2026-11-18T20:47:15+05:00"
+   }
+  ],
+  "published": "2026-11-18T20:47:15+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 802531210,
+  "image": "posts/2026-11-18-asean-secretary-general-pakistan-visit.jpg",
+  "story": "posts/2026-11-18-asean-secretary-general-pakistan-visit-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-18 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
