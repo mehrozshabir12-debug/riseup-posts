@@ -1,1 +1,70 @@
-{"slot": "2026-11-18T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-18T11:47:04+05:00"}
+{
+ "slot": "2026-11-18T12:00:00+05:00",
+ "riseup_day": "2026-11-18",
+ "run_started_pkt": "2026-11-18T11:47:04+05:00",
+ "run_finished_pkt": "2026-11-18T11:52:20+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Dany Group has bought the former residence of the US consul general in Karachi's Civil Lines area, a 250,000 sq ft compound, for a reported Rs6.92 billion (over $25 million), Business Recorder reports citing Bloomberg.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449509/dany-group-buys-former-us-consul-general-residence-in-karachi-for-over-25-million-report",
+    "published_at": "2026-11-18T10:37:29+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-18-dany-group-buys-ex-us-consul-residence-karachi",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 432447578,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3386436627907786428",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 432447590,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5740957543836335095",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi FB+IG+TikTok connected; slot window 09:00-13:00 had only the 10:01 feed + 10:06 story (12:00 free); all 6h windows 16 Nov 11:00 - 19 Nov 00:00 PKT read OK; 1 news post so far this RiseUp day (this is #2 of 10); TikTok 1 of 8 used before this post",
+  "previous_slot_check": "10:00 slot: feed 432378671 FB+IG+TikTok PUBLISHED; story 432378679 FB+IG PUBLISHED; owner's TikTok draft 431147997 untouched",
+  "news_search": "Dawn/Brecorder/Arab News/Geo searches; Dawn and Brecorder listing pages were stale caches (17 Nov / Dec 2025) so individual articles opened; chose Dany Group purchase of ex-US consul general residence (Brecorder 10:37 PKT, 2h window); no earlier post on it in last 48h",
+  "verification": "single approved outlet Business Recorder, timestamp 2026-11-18T10:37:29+05:00 from article meta; Rs6.92bn (over $25m) per people familiar via Bloomberg, company did not disclose; 250,000 sq ft (2.32 ha) Civil Lines; seller US government; State Dept confirmed sale to Dany Tameerat; CEO Danish A. Rauf quote all checked",
+  "image": "Runway nano-banana-2-lite, 1 image, task 3fd5f402-da1b-41f2-849a-7578f2248504, colonial villa with lawn, no text/people/logos; credits left 911",
+  "publish": "results awaiting_publish; feed card + story compared with approved posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg - same layout; scheduled payloads.feed 12:00 and payloads.story 12:05 exactly as returned, PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan's LNG import bill falls 36% in FY26 (Arab News 09:28 PKT)",
+   "reason": "3h window; a fresher 2h story was available"
+  },
+  {
+   "headline": "Pakistan, Sri Lanka docked WTC points for slow over-rates (Dawn 17 Nov 17:17)",
+   "reason": "older than 8h"
+  },
+  {
+   "headline": "Pakistan edge India to reach blind cricket Asia Cup final (Dawn newspaper)",
+   "reason": "match reported earlier; first-report time older than 8h"
+  }
+ ],
+ "errors": []
+}
