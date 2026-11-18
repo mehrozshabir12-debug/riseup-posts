@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-18-record-lpg-shipment-15000-tons",
+  "type": "news",
+  "headline": "SSGC LPG Limited has imported a record 15,000 metric tons of LPG, the largest cargo of its kind, which berthed at Engro Vopak Terminal, the Petroleum Division said on Wednesday, Business Recorder reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449540/record-lpg-shipment-lands-in-pakistan-to-ease-winter-shortage",
+      "published_at": "2026-11-18T14:31:12+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9969410d-a90f-42c2-bcde-dc4094d86839/1f08b9a2-afae-40a8-9db6-81d08bfd26ba/Realistic_photo_of_a_large_white_LPG_gas_tanker_ship_berthed.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNGZjZGQ0NzVmMGVmNDIzMSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTE2NzczM30.kOIIqogR7vNbLIMCyItf_B5D3EzqJ9Q1q5dj5Aq0cB0",
+    "head1": "LPG Ki Record",
+    "head2_hl": "15,000 Ton",
+    "head2": "Shipment",
+    "kicker": "SSGC LPG Ka Sab Se Bara Import",
+    "desc": "Wazarat ke mutabiq is se LPG ki qeemat kam hone ki umeed",
+    "source": "Business Recorder",
+    "date": "18 NOV 2026"
+  },
+  "caption": "LPG ki ab tak ki sab se bari shipment Pakistan pohanch gayi! 🔥\nBusiness Recorder ke mutabiq SSGC LPG Limited (SLL) ne 15,000 metric ton LPG import ki hai, jo is qism ki sab se bari cargo hai. Yeh shipment Engro Vopak Terminal par pohanchi. Petroleum Division ne Wednesday ko bataya ke naye LPG guidelines ke tehat yeh pehla bara import hai. Wazarat ke mutabiq is se market mein LPG zyada milegi, qeematein kam karne mein madad milegi aur sardiyon mein door daraz aur pahari ilaqon ko supply behtar hogi. Aane wale hafton mein mazeed shipments ki umeed hai.\nKya aap ke ilaqe mein LPG cylinder aasani se mil raha hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LPG #SSGC #GasShortage #PakistanNews",
+  "tiktok_title": "LPG ki record 15,000 ton shipment Pakistan pohanch gayi",
+  "publish": {
+    "slot": "2026-11-18T16:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
