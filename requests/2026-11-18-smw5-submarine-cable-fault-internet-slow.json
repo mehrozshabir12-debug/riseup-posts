@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-18-smw5-submarine-cable-fault-internet-slow",
+  "type": "news",
+  "headline": "Internet users across Pakistan face intermittent connectivity and slow speeds after a fault in the SEA-ME-WE 5 (SMW5) submarine cable about 11 km from Pakistan's shore, the PTA said on Wednesday night, Geo News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Geo News",
+      "url": "https://geo.tv/latest/691688-submarine-cable-fault-disrupts-internet-across-country-pta",
+      "published_at": "2026-11-18T21:25:35+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/010767e4-537e-4e5c-a79a-097ae2ea55f1/6a47bd6b-db37-4e5f-b17a-71fcf2aa80eb/Realistic_photo_at_night_in_a_simple_Pakistani_living_room__.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTI0MmJkNDZmYTZhODA2NyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEzMzc2Nn0.1h8xtAhZSSVXOL-iriRm7_O2OYqOElr1zPveyCICkeI",
+    "head1": "Mulk Bhar Mein",
+    "head2_hl": "Internet",
+    "head2": "Slow",
+    "kicker": "Submarine Cable Mein Kharabi",
+    "desc": "PTA ke mutabiq SMW5 cable mein sahil se 11 km door fault",
+    "source": "Geo News",
+    "date": "18 NOV 2026"
+  },
+  "caption": "Mulk bhar mein internet slow, samundar mein cable kharab! 🌐\nGeo News ke mutabiq PTA ne Wednesday raat bataya ke SEA-ME-WE 5 (SMW5) submarine cable mein Pakistan ke sahil se taqreeban 11 km door kharabi aa gayi hai. Is wajah se poore Pakistan mein internet baar baar ruk raha hai aur speed bhi kam hai. Transworld Associates (TWA) SMW5 Consortium ke saath mil kar kharabi ki wajah dhoond rahi hai, aur internet traffic doosre international links par bheja ja raha hai. Internet poori tarah kab theek hoga, yeh abhi nahi bataya gaya.\nKya aap ka internet bhi slow chal raha hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Internet #PTA #InternetSlow #PakistanNews",
+  "tiktok_title": "Mulk bhar mein internet slow, SMW5 submarine cable mein kharabi",
+  "publish": {
+    "slot": "2026-11-18T23:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
