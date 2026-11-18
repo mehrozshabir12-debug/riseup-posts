@@ -1,1 +1,69 @@
-{"slot": "2026-11-18T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-18T17:47:03+05:00"}
+{
+  "slot": "2026-11-18T18:00:00+05:00",
+  "riseup_day": "2026-11-18",
+  "run_started_pkt": "2026-11-18T17:47:03+05:00",
+  "run_finished_pkt": "2026-11-18T17:50:36+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan were all out for 325 on day two of the second Test against Sri Lanka in Rawalpindi, taking a 227-run first-innings lead, and Sri Lanka reached 74-3 at stumps, still 153 behind, Dawn reports.",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "url": "https://www.dawn.com/news/2045398/pakistan-tighten-grip-on-second-test-as-sri-lanka-stumble-to-74-3",
+        "published_at": "2026-11-18T13:09:23+05:00",
+        "updated_at": "2026-11-18T17:30:32+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-18-pakistan-227-lead-rawalpindi-test-day-2",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-pakistan-227-lead-rawalpindi-test-day-2.jpg",
+  "freshness_window": "2h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "model": "nano-banana-2-lite",
+      "runway_task": "225d7801-27f1-4584-92c6-23ce2814f953",
+      "credits_remaining_after": 899
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 432788942,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-462045518517809593",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 432789017,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2453627814428850000",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; windows 16 Nov 17:00 to 19 Nov 05:48 all succeeded; slot 18:00 free (owner's Bilawal reel at 17:29 only); news today before this = 4 (10,12,14,16); TikTok today = 5 (4 news + Bilawal reel)",
+    "previous_slot_check": "16:00 LPG feed 432659197 FB/IG/TikTok PUBLISHED; story 432659448 FB/IG PUBLISHED",
+    "news_search": "Dawn day-2 report of PAK v SL 2nd Test, substantively updated 17:30 PKT with stumps score (2h window); new development vs 17 Nov day-1 post (SL 98 all out); no day-2 post in last 48h",
+    "verification": "Dawn article read; published 2026-11-18T13:09:23+05:00, updated 17:30:32+05:00; Pakistan 325 all out, lead 227, SL 74-3 trailing 153, Ghazi Ghori 54, Tayyab Arif 46, Lahiru Kumara 5/95 checked",
+    "image": "Runway nano-banana-2-lite, 1 attempt; distant anonymous fielders, no readable text/logos",
+    "publish": "GitHub workflow awaiting_publish, no errors; warning: TikTok skipped by pipeline pacing (5 TikTok by 18:00). Feed and story compared with approved 2026-11-13 Ivanhoe card - same layout. Scheduled payloads.feed 18:00 (FB+IG) and payloads.story 18:05 exactly as returned"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Lahore tops world's most polluted cities, AQI 339 (Dawn 13:39)",
+      "reason": "older; cricket day-2 update fresher (17:30)"
+    },
+    {
+      "headline": "Arab News: record LPG shipment",
+      "reason": "duplicate of 16:00 post"
+    }
+  ],
+  "errors": []
+}
