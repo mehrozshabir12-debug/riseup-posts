@@ -1,0 +1,29 @@
+{
+  "id": "2026-11-18-potato-kinnow-export-russia-exemption",
+  "type": "news",
+  "headline": "Pakistan's government has granted a one-time exemption from the financial instrument requirement for potato and kinnow exports to Russia by sea and land routes, valid until May 15, 2027, Business Recorder reports citing an official memorandum.",
+  "language": "Roman Urdu",
+  "sources": [
+    {"outlet": "Business Recorder", "url": "https://www.brecorder.com/news/40449568/pakistan-eases-export-rules-for-potatoes-kinnow-to-russia", "published_at": "2026-11-18T20:30:47+05:00"}
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/e8fcf925-067f-43e3-aee4-47880c7d41bb/7435b05c-2030-495a-aecf-4c27ce86dad3/Realistic_documentary_photo_of_a_busy_fruit_and_vegetable_pa.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMWU0MDEyOTQxMzk1MTM0ZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTEzNDc0MH0.GW3WniLYVDNzQWkbgCq-OuFurpZXplfvpFpxDTLzL6A",
+    "head1": "Aloo Aur Kinnow",
+    "head2_hl": "Russia",
+    "head2": "Bhejna Asaan",
+    "kicker": "Export Shart Mein Chhoot",
+    "desc": "Financial instrument ki shart 15 May 2027 tak muaf",
+    "source": "Business Recorder",
+    "date": "18 NOV 2026"
+  },
+  "caption": "Aloo aur kinnow Russia bhejna ab asaan! 🍊🥔\nBusiness Recorder ke mutabiq hukoomat ne Russia ko aloo aur kinnow export karne walon ko financial instrument ki shart se ek baar ki chhoot de di hai. Yeh chhoot samundari aur zameeni dono raston ke liye hai aur 15 May 2027 tak lagu rahegi. Financial instrument se murad letter of credit, export contract ya advance payment jaisa intezam hai. Kinnow ka season December se April tak chalta hai.\nKya is se kisanon ko faida hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Kinnow #Exports #Russia #PakistanNews",
+  "tiktok_title": "Aloo aur kinnow Russia bhejna asaan, export shart mein chhoot",
+  "publish": {
+    "slot": "2026-11-18T21:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
