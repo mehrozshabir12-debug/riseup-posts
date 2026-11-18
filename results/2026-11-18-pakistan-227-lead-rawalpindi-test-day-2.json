@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-18-pakistan-227-lead-rawalpindi-test-day-2",
+ "revision": 1,
+ "request": "requests/2026-11-18-pakistan-227-lead-rawalpindi-test-day-2.json",
+ "type": "news",
+ "headline": "Pakistan were all out for 325 on day two of the second Test against Sri Lanka in Rawalpindi, taking a 227-run first-innings lead, and Sri Lanka reached 74-3 at stumps, still 153 behind, Dawn reports.",
+ "warnings": [
+  "TikTok skipped: 5 TikTok posts on RiseUp day 2026-11-18; allowed by 18:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-18T18:00:00+05:00",
+ "target_slot": "2026-11-18T18:00:00+05:00",
+ "riseup_day": "2026-11-18",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-pakistan-227-lead-rawalpindi-test-day-2.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-pakistan-227-lead-rawalpindi-test-day-2-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-18-pakistan-227-lead-rawalpindi-test-day-2.jpg",
+  "story": "posts/2026-11-18-pakistan-227-lead-rawalpindi-test-day-2-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 959334152,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Rawalpindi Test mein Pakistan ki giraft mazboot, 227 ran ki lead! 🏏\nDawn ke mutabiq Wednesday ko doosre Test ke doosre din Pakistan ki pehli innings 325 ran par khatam hui, aur Pakistan ko 227 ran ki bartari mil gayi. Ghazi Ghori ne 54 aur Tayyab Arif ne 46 ran banaye, jabke Sri Lanka ke Lahiru Kumara ne 95 ran de kar 5 wickets liye. Din ke khatam hone par Sri Lanka ne 3 wickets par 74 ran banaye the aur woh abhi 153 ran peeche hai.\nKya Pakistan yeh Test jeet jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TestCricket #Rawalpindi #PakistanCricket",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-pakistan-227-lead-rawalpindi-test-day-2.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-pakistan-227-lead-rawalpindi-test-day-2-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-18T17:49:49+05:00"
+}
