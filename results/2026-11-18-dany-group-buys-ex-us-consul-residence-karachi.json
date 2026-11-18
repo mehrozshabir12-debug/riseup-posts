@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-18-dany-group-buys-ex-us-consul-residence-karachi",
+ "revision": 1,
+ "request": "requests/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi.json",
+ "type": "news",
+ "headline": "Dany Group has bought the former residence of the US consul general in Karachi's Civil Lines area, a 250,000 sq ft compound, for a reported Rs6.92 billion (over $25 million), Business Recorder reports citing Bloomberg.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-18T12:00:00+05:00",
+ "target_slot": "2026-11-18T12:00:00+05:00",
+ "riseup_day": "2026-11-18",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi.jpg",
+  "story": "posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 560376502,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Former US consul general's residence in Karachi sold for Rs6.92 billion! 🏛️\nAccording to Business Recorder, citing a Bloomberg report, Dany Group, a Karachi-based Pakistani conglomerate, has bought the compound in Karachi's Civil Lines area that was once the residence of the US consul general. People familiar with the matter put the price at Rs6.92 billion (over $25 million); the company did not disclose it. The 250,000 square foot property was sold by the US government, and the US State Department confirmed the sale to Dany Tameerat, the group's real estate arm. Dany Tameerat CEO Danish A. Rauf called it a \"significant and historical structure\".\nWhat should be built at this historic site? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Karachi #RealEstate #DanyGroup #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Dany Group buys former US consul general residence in Karachi for Rs6.92bn",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-18T11:51:02+05:00"
+}

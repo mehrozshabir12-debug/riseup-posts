@@ -11798,5 +11798,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-18",
+  "slot": "2026-11-18T12:00:00+05:00",
+  "request_id": "2026-11-18-dany-group-buys-ex-us-consul-residence-karachi",
+  "layout": "bold",
+  "headline": "Dany Group has bought the former residence of the US consul general in Karachi's Civil Lines area, a 250,000 sq ft compound, for a reported Rs6.92 billion (over $25 million), Business Recorder reports citing Bloomberg.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449509/dany-group-buys-former-us-consul-general-residence-in-karachi-for-over-25-million-report",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449509/dany-group-buys-former-us-consul-general-residence-in-karachi-for-over-25-million-report",
+    "published_at": "2026-11-18T10:37:29+05:00"
+   }
+  ],
+  "published": "2026-11-18T10:37:29+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 560376502,
+  "image": "posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi.jpg",
+  "story": "posts/2026-11-18-dany-group-buys-ex-us-consul-residence-karachi-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-18 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
