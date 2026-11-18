@@ -11755,5 +11755,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-18",
+  "slot": "2026-11-18T10:00:00+05:00",
+  "request_id": "2026-11-18-quetta-bite-2026-investment-expo",
+  "layout": "bold",
+  "headline": "Balochistan's first Investment and Trade Expo (BITE 2026) opens on Wednesday, November 18, at a university in Quetta and runs until Thursday, November 19, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://dawn.com/news/2045276/investment-expo-opens-in-quetta-today",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://dawn.com/news/2045276/investment-expo-opens-in-quetta-today",
+    "published_at": "2026-11-18T05:39:00+05:00"
+   }
+  ],
+  "published": "2026-11-18T05:39:00+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 398260715,
+  "image": "posts/2026-11-18-quetta-bite-2026-investment-expo.jpg",
+  "story": "posts/2026-11-18-quetta-bite-2026-investment-expo-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-18 10:01 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
