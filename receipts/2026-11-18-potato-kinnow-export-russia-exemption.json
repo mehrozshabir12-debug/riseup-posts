@@ -1,0 +1,22 @@
+{
+  "id": "2026-11-18-potato-kinnow-export-russia-exemption",
+  "scheduled": true,
+  "posts": {
+    "feed": {
+      "metricool_id": 433024311,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5788514060111006506",
+      "status": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "metricool_id": 433024346,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-679034420956281006",
+      "status": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  }
+}

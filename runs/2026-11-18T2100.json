@@ -1,1 +1,72 @@
-{"slot": "2026-11-18T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-18T20:46:20+05:00"}
+{
+  "slot": "2026-11-18T21:00:00+05:00",
+  "riseup_day": "2026-11-18",
+  "run_started_pkt": "2026-11-18T20:46:20+05:00",
+  "run_finished_pkt": "2026-11-18T20:51:02+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan's government has granted a one-time exemption from the financial instrument requirement for potato and kinnow exports to Russia by sea and land routes, valid until May 15, 2027, Business Recorder reports citing an official memorandum.",
+    "sources": [
+      {
+        "outlet": "Business Recorder",
+        "url": "https://www.brecorder.com/news/40449568/pakistan-eases-export-rules-for-potatoes-kinnow-to-russia",
+        "published_at": "2026-11-18T20:30:47+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-18-potato-kinnow-export-russia-exemption",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-potato-kinnow-export-russia-exemption.jpg",
+  "freshness_window": "2h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "model": "nano-banana-2-lite",
+      "runway_task": "e8fcf925-067f-43e3-aee4-47880c7d41bb",
+      "credits_remaining_after": 887
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 433024311,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5788514060111006506",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 433024346,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-679034420956281006",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; 6-hour windows 16 Nov 20:00 to 19 Nov 10:00 all succeeded; slot 21:00 free; news today before this = 7 (10,12,14,16,18,19,20), this is #8 of 10; TikTok today = 6",
+    "previous_slot_check": "20:00 freelancer feed 432940892 FB/IG PUBLISHED; story 432940938 FB/IG PUBLISHED",
+    "news_search": "Dawn latest, Business Recorder, Tribune/Geo/APP searched; BR potato/kinnow export exemption published 20:30 PKT (freshest suitable, 2h window); no kinnow/potato post in last 48h on Metricool, posted_log or requests",
+    "verification": "BR article read; published 2026-11-18T20:30:47+05:00 (modified 20:31:06), byline Rehan Ayub; one-time exemption from financial instrument requirement, potatoes + kinnow/mandarins to Russia by sea and land, valid until May 15, 2027, kinnow season Dec-Apr checked",
+    "image": "Runway nano-banana-2-lite, 1 attempt; packing yard with kinnow crates and potato sacks, anonymous workers, no text/logos/public figures",
+    "publish": "GitHub workflow awaiting_publish, no errors; warning: TikTok skipped by pipeline pacing (6 TikTok by 21:00). Feed card compared with approved 2026-11-13 Ivanhoe card - same layout. Scheduled payloads.feed 21:00 (FB+IG) and payloads.story 21:05 exactly as returned"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Nawaz/PM Shehbaz AJK 100-day development plan (Dawn 19:49)",
+      "reason": "political meeting; less useful to ordinary people"
+    },
+    {
+      "headline": "Asif hits back at Bilawal (Dawn 19:22)",
+      "reason": "political attack/back-and-forth; avoided"
+    },
+    {
+      "headline": "ASEAN secretary general visit Nov 18-20 (Dawn 19:42)",
+      "reason": "lower public interest"
+    }
+  ],
+  "errors": []
+}
