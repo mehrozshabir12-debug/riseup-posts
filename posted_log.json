@@ -12089,5 +12089,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-18",
+  "slot": "2026-11-18T21:00:00+05:00",
+  "request_id": "2026-11-18-potato-kinnow-export-russia-exemption",
+  "layout": "bold",
+  "headline": "Pakistan's government has granted a one-time exemption from the financial instrument requirement for potato and kinnow exports to Russia by sea and land routes, valid until May 15, 2027, Business Recorder reports citing an official memorandum.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449568/pakistan-eases-export-rules-for-potatoes-kinnow-to-russia",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449568/pakistan-eases-export-rules-for-potatoes-kinnow-to-russia",
+    "published_at": "2026-11-18T20:30:47+05:00"
+   }
+  ],
+  "published": "2026-11-18T20:30:47+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 885374053,
+  "image": "posts/2026-11-18-potato-kinnow-export-russia-exemption.jpg",
+  "story": "posts/2026-11-18-potato-kinnow-export-russia-exemption-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-18 21:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
