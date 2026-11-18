@@ -11841,5 +11841,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-18",
+  "slot": "2026-11-18T14:00:00+05:00",
+  "request_id": "2026-11-18-nestle-pakistan-water-business-subsidiary",
+  "layout": "bold",
+  "headline": "Nestle Pakistan's board has approved a scheme of arrangement to transfer its local water business to a wholly owned subsidiary, Waters and Premium Beverages Pk (Private) Limited, ahead of Nestle S.A.'s joint venture with Platinum Equity, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449531/nestle-pakistan-to-transfer-water-business-ahead-of-platinum-equity-deal",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449531/nestle-pakistan-to-transfer-water-business-ahead-of-platinum-equity-deal",
+    "published_at": "2026-11-18T12:36:11+05:00"
+   }
+  ],
+  "published": "2026-11-18T12:36:11+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 868390084,
+  "image": "posts/2026-11-18-nestle-pakistan-water-business-subsidiary.jpg",
+  "story": "posts/2026-11-18-nestle-pakistan-water-business-subsidiary-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-18 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
