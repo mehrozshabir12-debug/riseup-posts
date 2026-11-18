@@ -1,1 +1,66 @@
-{"slot": "2026-11-18T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-18T15:45:54+05:00"}
+{
+ "slot": "2026-11-18T16:00:00+05:00",
+ "riseup_day": "2026-11-18",
+ "run_started_pkt": "2026-11-18T15:45:54+05:00",
+ "run_finished_pkt": "2026-11-18T15:49:55+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "SSGC LPG Limited has imported a record 15,000 metric tons of LPG, the largest cargo of its kind, which berthed at Engro Vopak Terminal, the Petroleum Division said on Wednesday, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449540/record-lpg-shipment-lands-in-pakistan-to-ease-winter-shortage",
+    "published_at": "2026-11-18T14:31:12+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "language": "Roman Urdu",
+ "request_id": "2026-11-18-record-lpg-shipment-15000-tons",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-record-lpg-shipment-15000-tons.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "runway_task": "9969410d-a90f-42c2-bcde-dc4094d86839",
+   "credits_remaining_before": 903
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 432659197,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1716869929082111203",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 432659448,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8936443930697158266",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none (no Reel, owner rule 14 Nov)",
+ "stages": {
+  "metricool_read": "OK: 6h windows 16 Nov 15:45 to 19 Nov 03:45 all succeeded; slot 16:00 free; today news count before this = 3 (10:00, 12:00, 14:00); TikTok today before this = 3",
+  "previous_slot_check": "14:00 Nestle feed 432534484 FB/IG/TikTok PUBLISHED; story 432534502 FB/IG PUBLISHED",
+  "news_search": "Picked newest suitable story (Brecorder 14:31 PKT, 2h window); no LPG story in last 48h",
+  "verification": "Business Recorder article read; timestamp 2026-11-18T14:31:12+05:00 from page meta; 15,000 metric tons, SSGC LPG Limited, Engro Vopak Terminal, Petroleum Division statement Wednesday checked",
+  "image": "Runway nano-banana-2-lite, 1 attempt, no text/logos/real people",
+  "publish": "Rendered by GitHub workflow (awaiting_publish, no errors); feed and story compared with approved 2026-11-13 Ivanhoe card/story — same layout; scheduled payloads.feed 16:00 and payloads.story 16:05 exactly as returned"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Lahore tops world's most polluted cities, AQI 339 (Dawn 13:39)",
+   "reason": "older than LPG story (3h window); kept for possible later slot"
+  }
+ ],
+ "errors": []
+}
