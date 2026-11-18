@@ -1,1 +1,69 @@
-{"slot": "2026-11-18T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-18T18:46:06+05:00"}
+{
+  "slot": "2026-11-18T19:00:00+05:00",
+  "riseup_day": "2026-11-18",
+  "run_started_pkt": "2026-11-18T18:46:06+05:00",
+  "run_finished_pkt": "2026-11-18T18:49:54+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "The Pakistan Army on Wednesday conducted a successful launch of the Fatah-3 supersonic cruise missile, which ISPR says will boost the operational flexibility and strike range of the Army Rocket Force Command, Dawn reports.",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr",
+        "published_at": "2026-11-18T17:50:57+05:00",
+        "updated_at": "2026-11-18T18:06:17+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-18-fatah-3-supersonic-cruise-missile-test",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-fatah-3-supersonic-cruise-missile-test.jpg",
+  "freshness_window": "2h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "model": "nano-banana-2-lite",
+      "runway_task": "0abd02c6-e40c-4b20-8bd4-0e3a053b5f2a",
+      "credits_remaining_after": 895
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 432860798,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3800553790940166116",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 432860832,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7530786122484136282",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: windows 16 Nov 18:00 to 19 Nov 07:00 all succeeded; slot 19:00 free (owner's Suleman Sohail reel at 18:09 only); news today before this = 5 (10,12,14,16,18), this is #6 of 10; TikTok today = 6 (4 news + 2 owner reels)",
+    "previous_slot_check": "18:00 Rawalpindi Test feed 432788942 FB/IG PUBLISHED; story 432789017 FB/IG PUBLISHED",
+    "news_search": "Dawn/BR/Tribune searched; Dawn ISPR Fatah-3 launch published 17:50 PKT (2h window, freshest); not covered in last 48h (last missile post Fatah-2 on 13 Oct)",
+    "verification": "Dawn article read; published 2026-11-18T17:50:57+05:00, updated 18:06:17; ISPR statement, Army Rocket Force Command, Zardari/Shehbaz/Asim Munir congratulations, Fatah-IV (6 Oct) and Fatah-2 ER (13 Oct) checked",
+    "image": "Runway nano-banana-2-lite, 1 attempt; desert range with distant vapour trail and anonymous observers from behind; no weapon, text or logos",
+    "publish": "GitHub workflow awaiting_publish, no errors; warning: TikTok skipped by pipeline pacing (6 TikTok by 19:00). Feed and story compared with approved 2026-11-13 Ivanhoe card - same layout. Scheduled payloads.feed 19:00 (FB+IG) and payloads.story 19:05 exactly as returned"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Gold per tola drops Rs10,000 to Rs398,936 (Business Recorder, published 13:47, updated 18:09)",
+      "reason": "Fatah-3 first reported later (17:50); gold first-report time outside 2h window"
+    },
+    {
+      "headline": "Govt commences electrification of Thar coal mining (Business Recorder)",
+      "reason": "less important; fresher story chosen"
+    }
+  ],
+  "errors": []
+}
