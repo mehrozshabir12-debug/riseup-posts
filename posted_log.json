@@ -12188,5 +12188,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-18",
+  "slot": "2026-11-18T23:00:00+05:00",
+  "request_id": "2026-11-18-smw5-submarine-cable-fault-internet-slow",
+  "layout": "bold",
+  "headline": "Internet users across Pakistan face intermittent connectivity and slow speeds after a fault in the SEA-ME-WE 5 (SMW5) submarine cable about 11 km from Pakistan's shore, the PTA said on Wednesday night, Geo News reports.",
+  "source_outlet": "Geo News",
+  "source": "https://geo.tv/latest/691688-submarine-cable-fault-disrupts-internet-across-country-pta",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://geo.tv/latest/691688-submarine-cable-fault-disrupts-internet-across-country-pta",
+    "published_at": "2026-11-18T21:25:35+05:00"
+   }
+  ],
+  "published": "2026-11-18T21:25:35+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 633550677,
+  "image": "posts/2026-11-18-smw5-submarine-cable-fault-internet-slow.jpg",
+  "story": "posts/2026-11-18-smw5-submarine-cable-fault-internet-slow-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-18 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

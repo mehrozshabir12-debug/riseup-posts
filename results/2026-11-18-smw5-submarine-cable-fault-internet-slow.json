@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-18-smw5-submarine-cable-fault-internet-slow",
+ "revision": 1,
+ "request": "requests/2026-11-18-smw5-submarine-cable-fault-internet-slow.json",
+ "type": "news",
+ "headline": "Internet users across Pakistan face intermittent connectivity and slow speeds after a fault in the SEA-ME-WE 5 (SMW5) submarine cable about 11 km from Pakistan's shore, the PTA said on Wednesday night, Geo News reports.",
+ "warnings": [
+  "TikTok skipped: 8 TikTok posts on RiseUp day 2026-11-18; allowed by 23:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-18T23:00:00+05:00",
+ "target_slot": "2026-11-18T23:00:00+05:00",
+ "riseup_day": "2026-11-18",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-smw5-submarine-cable-fault-internet-slow.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-smw5-submarine-cable-fault-internet-slow-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-18-smw5-submarine-cable-fault-internet-slow.jpg",
+  "story": "posts/2026-11-18-smw5-submarine-cable-fault-internet-slow-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 633550677,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Mulk bhar mein internet slow, samundar mein cable kharab! 🌐\nGeo News ke mutabiq PTA ne Wednesday raat bataya ke SEA-ME-WE 5 (SMW5) submarine cable mein Pakistan ke sahil se taqreeban 11 km door kharabi aa gayi hai. Is wajah se poore Pakistan mein internet baar baar ruk raha hai aur speed bhi kam hai. Transworld Associates (TWA) SMW5 Consortium ke saath mil kar kharabi ki wajah dhoond rahi hai, aur internet traffic doosre international links par bheja ja raha hai. Internet poori tarah kab theek hoga, yeh abhi nahi bataya gaya.\nKya aap ka internet bhi slow chal raha hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Internet #PTA #InternetSlow #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-smw5-submarine-cable-fault-internet-slow.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T23:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-smw5-submarine-cable-fault-internet-slow-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-18T22:50:39+05:00"
+}
