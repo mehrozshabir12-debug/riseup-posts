@@ -1,1 +1,68 @@
-{"slot": "2026-11-18T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-18T19:46:33+05:00"}
+{
+  "slot": "2026-11-18T20:00:00+05:00",
+  "riseup_day": "2026-11-18",
+  "run_started_pkt": "2026-11-18T19:46:33+05:00",
+  "run_finished_pkt": "2026-11-18T19:50:34+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan's freelancer export earnings hit an all-time monthly high of US$210 million in October 2026, up 53 per cent year-on-year, and reached US$760 million in July-October FY27, up 47 per cent, Finance Minister's Advisor Khurram Schehzad said, APP reports.",
+    "sources": [
+      {
+        "outlet": "APP",
+        "url": "https://www.app.com.pk/business/pakistans-freelancer-export-earnings-hit-record-210-mln-in-october/",
+        "published_at": "2026-11-18T18:12:26+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-18-freelancer-earnings-record-210m-october",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-freelancer-earnings-record-210m-october.jpg",
+  "freshness_window": "2h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "model": "nano-banana-2-lite",
+      "runway_task": "91fc2660-b4f0-47b2-b669-983568b81e23",
+      "credits_remaining_after": 891
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 432940892,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3248338569895299522",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 432940938,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=20937310328671369",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: brand 7305396 Asia/Karachi, FB/IG/TikTok connected; windows 16 Nov 19:00 to 19 Nov 08:00 all succeeded; slot 20:00 free; news today before this = 6 (10,12,14,16,18,19), this is #7 of 10; TikTok today = 6",
+    "previous_slot_check": "19:00 Fatah-3 feed 432860798 FB/IG PUBLISHED; story 432860832 FB/IG PUBLISHED",
+    "news_search": "Dawn/BR/Tribune/Geo/APP/Arab News searched; APP freelancer record earnings published 18:12 PKT (2h window, freshest suitable); no freelancer post in last 48h on Metricool or posted_log",
+    "verification": "APP article read; published 2026-11-18T18:12:26+05:00; Khurram Schehzad (Advisor to Finance Minister), Oct $210m +53% YoY, Jul-Oct $760m vs $515m +47%, FY26 $1.76bn, FY27 may exceed $2bn checked. Geo's same story ($758m) could not be fetched; APP figures used",
+    "image": "Runway nano-banana-2-lite, 1 attempt; young man at laptop in modest room, blurred screen, no text/logos/public figures",
+    "publish": "GitHub workflow awaiting_publish, no errors; warning: TikTok skipped by pipeline pacing (6 TikTok by 20:00). Feed card compared with approved 2026-11-13 Ivanhoe card - same layout. Scheduled payloads.feed 20:00 (FB+IG) and payloads.story 20:05 exactly as returned"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "SECP cuts nano-loan APR cap from 274% to 90% (Business Recorder 15:49)",
+      "reason": "older (6h window); fresher story chosen"
+    },
+    {
+      "headline": "Four terrorists killed in Lakki Marwat police operation (Tribune)",
+      "reason": "violence; less suitable"
+    }
+  ],
+  "errors": []
+}
