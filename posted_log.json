@@ -12316,5 +12316,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-19",
+  "slot": "2026-11-19T14:00:00+05:00",
+  "request_id": "2026-11-19-pindi-test-day3-sl-167-5-lunch",
+  "layout": "bold",
+  "headline": "Sri Lanka were 167-5 at lunch on day three of the second Test in Rawalpindi on Thursday, still 60 runs behind Pakistan, with Aamer Jamal and Razaullah taking two wickets each, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2641148/pakistan-in-commanding-position-as-sri-lanka-continue-losing-wickets-in-pindi",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2641148/pakistan-in-commanding-position-as-sri-lanka-continue-losing-wickets-in-pindi",
+    "published_at": "2026-11-19T12:29:18+05:00"
+   }
+  ],
+  "published": "2026-11-19T12:29:18+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 635692853,
+  "image": "posts/2026-11-19-pindi-test-day3-sl-167-5-lunch.jpg",
+  "story": "posts/2026-11-19-pindi-test-day3-sl-167-5-lunch-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-19 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
