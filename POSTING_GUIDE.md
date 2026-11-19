@@ -1,3 +1,6 @@
+> 🎯 **19 Nov 2026 — owner's order: MATURE, DECENT TONE in every caption.** Use only decent emojis (e.g. 🤍 📌 🎙️ 📝 👇 🇵🇰).
+> NEVER use laughing emojis (😂 🤣 😆 😅) or flexing/arm emojis (💪). Captions stay serious and respectful, even on light clips.
+
 > 🚀 **18 Nov 2026 — owner's order: EVERY reel gets viral hashtags and goes out at a peak-reach time.**
 > 1. **Hashtags (8–12 per reel):** #RiseUpPakistan first, then 2–3 about the person/topic (e.g. #SulemanSohail,
 >    #ImranKhan), 2–3 Pakistan reach tags (#Pakistan #PakistanNews / #PakistaniDrama / #PakistaniYouTuber as fits),
