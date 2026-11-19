@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-19-zardari-shehbaz-agree-dialogue",
+  "type": "news",
+  "headline": "President Asif Ali Zardari and Prime Minister Shehbaz Sharif met in Islamabad on Thursday and agreed that all matters should be resolved through dialogue, a Presidency statement said, Dawn reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2045691/president-zardari-pm-shehbaz-agree-on-resolving-all-matters-through-dialogue",
+      "published_at": "2026-11-19T18:51:06+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f23be7e8-09a4-4bc5-9815-dcecb77b9707/d2893033-8c32-4067-aea4-95a8676db270/Realistic_photo_of_an_elegant_formal_meeting_room_in_a_gover.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTBjNGE1YTMxYTg3NGE2ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTIzNTM2M30.KdKd5Z9wX6R6-zIKq2RxaXadWraiYHbHtkUVDAE5b50",
+    "head1": "Zardari, PM Shehbaz",
+    "head2_hl": "Agree On",
+    "head2": "Dialogue",
+    "kicker": "All Matters To Be Resolved",
+    "desc": "Leaders met in Islamabad, Presidency statement says",
+    "source": "Dawn",
+    "date": "19 NOV 2026"
+  },
+  "caption": "President Zardari and PM Shehbaz agree to resolve all matters through dialogue! 🤝\nAccording to Dawn, President Asif Ali Zardari and Prime Minister Shehbaz Sharif met in Islamabad on Thursday, with Interior Minister Mohsin Naqvi also present. A Presidency statement said the two leaders agreed that all matters should be resolved through dialogue and consultation. They reviewed the country's political situation and also discussed the Middle East conflict.\nCan dialogue settle political differences? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Zardari #ShehbazSharif #Islamabad #PakistanNews",
+  "tiktok_title": "Zardari and PM Shehbaz agree to resolve all matters through dialogue",
+  "publish": {
+    "slot": "2026-11-19T20:00:00+05:00",
+    "networks": ["facebook", "instagram"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
