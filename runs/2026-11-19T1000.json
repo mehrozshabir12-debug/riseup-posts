@@ -1,1 +1,70 @@
-{"slot": "2026-11-19T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-19T09:47:06+05:00"}
+{
+ "slot": "2026-11-19T10:00:00+05:00",
+ "riseup_day": "2026-11-19",
+ "run_started_pkt": "2026-11-19T09:47:06+05:00",
+ "run_finished_pkt": "2026-11-19T09:52:42+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Suparco has warned that smog will worsen across Punjab over the next three days, with Jhang, Narowal, Sheikhupura, Sialkot, Hafizabad, Gujranwala and Dera Ghazi Khan flagged for high or severe smog, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2045563",
+    "published_at": "2026-11-19T06:56:55+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-19-suparco-punjab-smog-warning-3-days",
+ "language": "Roman Urdu",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-suparco-punjab-smog-warning-3-days.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "task_id": "aab2e5a8-164b-4039-a2f2-16b1b33c5c0a",
+   "credits_remaining_after": 871
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 433767470,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1740095382326064775",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 433767481,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7321685089272250050",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Windows 2026-11-17T09:00..2026-11-19T22:00 all succeeded; no non-Story post at 10:00; news feed posts this RiseUp day before this: 0 (cap 10, this is #1); TikTok today: 0 (cap 8)",
+  "previous_slot_check": "18 Nov 23:00 feed 433183324 FB+IG PUBLISHED; 23:05 story 433183354 FB+IG PUBLISHED",
+  "news_search": "Dawn Suparco Punjab smog warning (06:56 PKT) newest important public-interest story; no smog-warning post in last 48h (17 Nov Islamabad vehicle fitness/emission post is a different event)",
+  "verification": "Dawn article opened; published 2026-11-19T06:56:55+05:00, updated 07:44:08; three-day warning, 7 districts, 386 fire incidents, Lahore AQI 339 on Wednesday morning (IQAir), PMD 48h fog/smog forecast checked against article",
+  "image": "Runway nano-banana-2-lite, 1 attempt, smoggy Punjab road scene, no readable text or public figures",
+  "publish": "Pipeline status awaiting_publish; feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: identical approved layout; payloads.feed (FB+IG POST+TikTok) and payloads.story scheduled exactly as returned"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gold prices fall to one-year low (Business Recorder 04:55 PKT)",
+   "reason": "Price move was Wednesday's rate; first report of the event older than 8 hours"
+  },
+  {
+   "headline": "Pakistan projected to have world's largest Muslim population by 2070 (Geo 02:16 PKT)",
+   "reason": "Older than the Dawn smog story (8h window vs 4h); lower public-interest value"
+  }
+ ],
+ "errors": []
+}
