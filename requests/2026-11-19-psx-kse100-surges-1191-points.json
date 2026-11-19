@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-19-psx-kse100-surges-1191-points",
+  "type": "news",
+  "headline": "The KSE-100 index of the Pakistan Stock Exchange rose 1,191.19 points (0.68%) to 177,485.52 by 10:30am on Thursday as buying returned, a day after a 1,223.41-point drop, Business Recorder reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449688/psx-buying-returns-kse-100-surges-nearly-1200-points",
+      "published_at": "2026-11-19T09:52:17+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/c00670e3-0526-4d15-b018-b6370106092e/3a45b34d-40b0-40b2-9041-1ac7a75e963f/Realistic_photo_of_a_modern_stock_brokerage_office_in_Karach.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOGFiZDI2OWQxYjgwYTFlZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTE2ODc5N30.dWlIOF9skVh_h1Io_kZBAXUq9wgqECWbcVf8NU697Kg",
+    "head1": "PSX Bounces Back",
+    "head2_hl": "1,191.19",
+    "head2": "Points",
+    "kicker": "KSE-100 Up In Early Trade",
+    "desc": "Index at 177,485.52 by 10:30am after Wednesday's fall",
+    "source": "Business Recorder",
+    "date": "19 NOV 2026"
+  },
+  "caption": "Buying returns at PSX, KSE-100 jumps 1,191.19 points! 📈\nAccording to Business Recorder, the KSE-100 index was at 177,485.52 at 10:30am on Thursday, up 1,191.19 points or 0.68%. On Wednesday the index had closed at 176,294.33 after falling 1,223.41 points. Buying was seen in automobile, cement, banking, oil and gas, OMC, power and refinery stocks, while Asian markets also rose in early trading.\nDo you invest in the stock market? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #PakistanEconomy #PakistanNews",
+  "tiktok_title": "PSX bounces back: KSE-100 up 1,191.19 points in early trade",
+  "publish": {
+    "slot": "2026-11-19T12:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
