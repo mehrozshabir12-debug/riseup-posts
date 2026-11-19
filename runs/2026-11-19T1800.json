@@ -1,1 +1,9 @@
-{"slot": "2026-11-19T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-19T17:47:18+05:00"}
+{"slot": "2026-11-19T18:00:00+05:00", "riseup_day": "2026-11-19", "run_started_pkt": "2026-11-19T17:47:18+05:00", "run_finished_pkt": "2026-11-19T17:47:36+05:00",
+ "test_mode": false,
+ "outcome": "skipped_slot_taken",
+ "story": null, "request_id": null, "card_url": null, "image_attempts": [],
+ "metricool": {}, "music": "none",
+ "stages": {"metricool_read": "getScheduledPosts 17:00-19:00 PKT: owner's non-Story post id 433965942 (Reel 'Khushhaal ghulam azadi...', FB+IG+TikTok, PENDING) already at 18:00",
+            "previous_slot_check": "17:00 owner reel id 433972967 (Maryam Nawaz) PUBLISHED on facebook, instagram, tiktok; no RiseUp news post at 17:00",
+            "news_search": "not needed - slot taken", "verification": "n/a", "image": "no Runway credits used", "publish": "nothing scheduled; owner's post untouched"},
+ "skipped_candidates": [], "errors": []}
