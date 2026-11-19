@@ -12273,5 +12273,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-19",
+  "slot": "2026-11-19T12:00:00+05:00",
+  "request_id": "2026-11-19-psx-kse100-surges-1191-points",
+  "layout": "bold",
+  "headline": "The KSE-100 index of the Pakistan Stock Exchange rose 1,191.19 points (0.68%) to 177,485.52 by 10:30am on Thursday as buying returned, a day after a 1,223.41-point drop, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40449688/psx-buying-returns-kse-100-surges-nearly-1200-points",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449688/psx-buying-returns-kse-100-surges-nearly-1200-points",
+    "published_at": "2026-11-19T09:52:17+05:00"
+   }
+  ],
+  "published": "2026-11-19T09:52:17+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 708630047,
+  "image": "posts/2026-11-19-psx-kse100-surges-1191-points.jpg",
+  "story": "posts/2026-11-19-psx-kse100-surges-1191-points-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-19 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
