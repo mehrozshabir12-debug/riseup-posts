@@ -12404,5 +12404,20 @@
     "metricool_ids": [
       433991939
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "Aisi pyari azan ke rongte khade ho jayein (owner reel) — FB video + IG Reel + TikTok 16:00",
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      434003875
+    ]
   }
 ]
