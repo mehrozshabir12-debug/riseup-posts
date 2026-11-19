@@ -12374,5 +12374,20 @@
     "metricool_ids": [
       433965942
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "CM Maryam Nawaz ki nanhe police wale se mulaqat (owner reel) — FB video + IG Reel + TikTok 17:00",
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      433972967
+    ]
   }
 ]
