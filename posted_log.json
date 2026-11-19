@@ -12389,5 +12389,20 @@
     "metricool_ids": [
       433972967
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "headline": "Kya bahu ko saas sasur se ijazat leni chahiye — Sahil Adeem on Hafiz Ahmed Podcast (owner reel) — FB video + IG Reel + TikTok 15:05",
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "Hafiz Ahmed Podcast ft. Sahil Adeem",
+    "metricool_ids": [
+      433991939
+    ]
   }
 ]
