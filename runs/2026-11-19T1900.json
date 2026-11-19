@@ -1,1 +1,9 @@
-{"slot": "2026-11-19T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-19T18:47:45+05:00"}
+{"slot": "2026-11-19T19:00:00+05:00", "riseup_day": "2026-11-19", "run_started_pkt": "2026-11-19T18:47:45+05:00", "run_finished_pkt": "2026-11-19T18:47:59+05:00",
+ "test_mode": false,
+ "outcome": "skipped_slot_taken",
+ "story": null, "request_id": null, "card_url": null, "image_attempts": [],
+ "metricool": {}, "music": "none",
+ "stages": {"metricool_read": "getScheduledPosts 18:00-20:00 PKT: owner's non-Story post id 434048450 (Reel 'Mohsin Naqvi: Islamabad mein ghair qanooni bus stands...', FB+IG+TikTok, PENDING) already at 19:00",
+            "previous_slot_check": "18:00 owner reel id 433965942 ('Khushhaal ghulam azadi...') PUBLISHED on facebook, instagram, tiktok; no RiseUp news post at 18:00",
+            "news_search": "not needed - slot taken", "verification": "n/a", "image": "no Runway credits used", "publish": "nothing scheduled; owner's post untouched"},
+ "skipped_candidates": [], "errors": []}
