@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid",
+  "type": "news",
+  "headline": "Pakistan's health ministry said on Friday that 27 suspected counterfeit flu vaccine doses were seized in a Thursday raid on an Excel Labs facility in Islamabad and three people, including its chief executive, were arrested, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/authorities-raid-islamabad-lab-of-major-diagnostics-chain-over-suspected-counterfeit-flu-vaccines-3007574",
+      "published_at": "2026-11-20T12:18:12+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b8eac118-33fd-4ab9-b03c-94046a7ae10d/913c0050-9205-49e2-8377-bb74658291a8/Realistic_news_photo_inside_a_small_diagnostic_laboratory_in.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzM3NzIzMTRhMzE4NWI3MCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTI3MjA4NH0.WY83Ywv_GBN2ygBhV0wz6hIDJ5i3-NBB9NER2nr5u1U",
+    "head1": "Naqli Flu Vaccine",
+    "head2_hl": "27 Doses",
+    "head2": "Qabze Mein",
+    "kicker": "Islamabad Lab Par Chhapa",
+    "desc": "Lab ke CEO samait 3 afraad giraftar, wazarat-e-sehat",
+    "source": "Arab News",
+    "date": "20 NOV 2026"
+  },
+  "caption": "Islamabad mein naqli flu vaccine pakri gayi! 💉\nArab News ke mutabiq wazarat-e-sehat ne Friday ko bataya ke Thursday ko Islamabad mein Excel Labs ki ek facility par chhapa mara gaya, jahan se 27 mashkook naqli flu vaccine doses qabze mein liye gaye. Lab ke chief executive samait 3 afraad giraftar kiye gaye hain. Wazarat ke mutabiq mareezon ko mashkook Influvac Tetra vaccine lagayi ja rahi thi, aur Drug Testing Laboratory lot 913 ko pehle hi naqli qarar de chuki thi. Wazir-e-Sehat Mustafa Kamal ne sakht karwai ka hukum diya hai. Lab ne ab tak in ilzamaat par koi jawab nahi diya.\nKya aap vaccine lagwane se pehle us ki tasdeeq karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #FluVaccine #Islamabad #HealthAlert #PakistanNews",
+  "tiktok_title": "Islamabad lab par chhapa, 27 naqli flu vaccine doses qabze mein",
+  "publish": {
+    "slot": "2026-11-20T14:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
