@@ -12605,5 +12605,27 @@
     "metricool_ids": [
       434946439
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "slot": "2026-11-20T18:00:00+05:00",
+    "slug": "2026-11-20-ducky-bhai-maafi-dha-wali-maid-reel",
+    "headline": "Ducky Bhai ne DHA Wali Maid se maafi maang li (owner reel) — FB video + IG Reel + TikTok 18:00",
+    "topic": "Ducky Bhai apology to DHA Wali Maid",
+    "people": [
+      "Ducky Bhai",
+      "DHA Wali Maid"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      434952388
+    ]
   }
 ]
