@@ -12627,5 +12627,24 @@
     "metricool_ids": [
       434952388
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "slot": "2026-11-20T16:00:00+05:00",
+    "slug": "2026-11-20-kitab-se-zyada-taweez-reel",
+    "headline": "Yahan kitab se zyada taweez likhne wale kamate hain (owner reel) — FB video + IG Reel + TikTok 16:00",
+    "topic": "Social commentary: book writers vs taweez writers",
+    "people": [],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      434967276
+    ]
   }
 ]
