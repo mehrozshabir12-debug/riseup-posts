@@ -12770,5 +12770,34 @@
    435271459,
    435271478
   ]
+ },
+ {
+  "date": "2026-11-20",
+  "slot": "2026-11-20T20:00:00+05:00",
+  "request_id": "2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis",
+  "layout": "bold",
+  "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar said on Friday at Karachi Port, while welcoming the Turkish seismic research vessel Oruç Reis, that Pakistan's natural resources are conservatively estimated at $8 trillion to $10 trillion, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2641349/dpm-dar-says-pakistans-natural-resources-could-be-worth-up-to-10-trillion",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2641349/dpm-dar-says-pakistans-natural-resources-could-be-worth-up-to-10-trillion",
+    "published_at": "2026-11-20T13:28:47+05:00"
+   }
+  ],
+  "published": "2026-11-20T13:28:47+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 842638277,
+  "image": "posts/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis.jpg",
+  "story": "posts/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-20 20:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
