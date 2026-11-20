@@ -12812,5 +12812,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-20",
+  "slot": "2026-11-20T21:00:00+05:00",
+  "request_id": "2026-11-20-shaheens-beat-uae-61-runs-rising-stars",
+  "layout": "bold",
+  "headline": "Defending champions Pakistan Shaheens began their Asia Cup Rising Stars campaign with a 61-run win over the UAE in Doha on Friday, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2045930/pakistan-shaheens-begin-asia-cup-rising-stars-title-defence-with-61-run-win-over-uae",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2045930/pakistan-shaheens-begin-asia-cup-rising-stars-title-defence-with-61-run-win-over-uae",
+    "published_at": "2026-11-20T19:59:35+05:00"
+   }
+  ],
+  "published": "2026-11-20T19:59:35+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 571625057,
+  "image": "posts/2026-11-20-shaheens-beat-uae-61-runs-rising-stars.jpg",
+  "story": "posts/2026-11-20-shaheens-beat-uae-61-runs-rising-stars-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-20 21:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
