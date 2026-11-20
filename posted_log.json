@@ -12896,5 +12896,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-20",
+  "slot": "2026-11-20T23:00:00+05:00",
+  "request_id": "2026-11-20-govt-flags-corruption-risks-10-federal-institutions",
+  "layout": "bold",
+  "headline": "Law Minister Azam Nazeer Tarar said on Friday a government assessment has flagged 10 federal institutions, including the FBR, BISP, Pakistan Railways, NHA, SNGPL and state-owned power distribution companies, for heightened corruption risks, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-flags-corruption-risks-in-tax-welfare-and-other-federal-institutions-3007612",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-flags-corruption-risks-in-tax-welfare-and-other-federal-institutions-3007612",
+    "published_at": "2026-11-20T22:18:23+05:00"
+   }
+  ],
+  "published": "2026-11-20T22:18:23+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 964622248,
+  "image": "posts/2026-11-20-govt-flags-corruption-risks-10-federal-institutions.jpg",
+  "story": "posts/2026-11-20-govt-flags-corruption-risks-10-federal-institutions-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-20 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
