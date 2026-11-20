@@ -1,1 +1,65 @@
-{"slot": "2026-11-20T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-20T13:48:10+05:00"}
+{
+ "slot": "2026-11-20T14:00:00+05:00",
+ "riseup_day": "2026-11-20",
+ "run_started_pkt": "2026-11-20T13:48:10+05:00",
+ "run_finished_pkt": "2026-11-20T13:53:17+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan's health ministry said 27 suspected counterfeit flu vaccine doses were seized in a raid on an Excel Labs facility in Islamabad and three people, including its CEO, were arrested.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/authorities-raid-islamabad-lab-of-major-diagnostics-chain-over-suspected-counterfeit-flu-vaccines-3007574",
+    "published_at": "2026-11-20T12:18:12+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 435271459,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5070056896311675785",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 435271478,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2301809714982138059",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Slot 13:00-15:00 empty. History windows 18 Nov 12:00 - 21 Nov 02:00 all read OK. News feed posts this RiseUp day: 0 before this one. Owner reels at 10,12,16,17,18,19.",
+  "previous_slot_check": "Previous slot 12:00 was owner's reel (Ducky Bhai) — PUBLISHED on FB/IG/TikTok. Last Claude post 23:00 19 Nov — PUBLISHED.",
+  "news_search": "Chose Arab News flu vaccine raid (12:18 PKT, within 2h). Other candidates: Turkish seismic vessel Orus Reis in Karachi (BR, 11:54, 3h window), Pakistan beat SL 8 wkts (Geo 11:04), Musadik Malik India visit (Arab News 10:17), transport fare cuts (Arab News 08:54).",
+  "verification": "Article read in full; timestamp 2026-11-20T07:18Z = 12:18 PKT; all figures (27 doses, 3 arrests, lot 913, Influvac Tetra, Mustafa Kamal) from article. Not a duplicate (05 Nov post was vaccine shortage, different event).",
+  "image": "Runway nano-banana-2-lite, 1 image, no text/faces of public figures",
+  "publish": "Card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout. Feed 14:00 + Story 14:05 scheduled from payloads. TikTok skipped by pipeline (daily limit)."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Turkish seismic vessel arrives in Karachi",
+   "reason": "older than the 2h window winner"
+  },
+  {
+   "headline": "Pakistan beat Sri Lanka by 8 wickets",
+   "reason": "older (11:04) than winner"
+  }
+ ],
+ "errors": []
+}
