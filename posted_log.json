@@ -12854,5 +12854,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-20",
+  "slot": "2026-11-20T22:00:00+05:00",
+  "request_id": "2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks",
+  "layout": "bold",
+  "headline": "Pakistan's Foreign Office said on Friday its position on Israel remains unchanged after its Geneva envoy received an Israeli diplomat's credentials as president of the Conference on Disarmament, calling it a purely procedural act, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-says-israel-policy-unchanged-after-envoys-interaction-confirms-makkah-pact-talks-3007599",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-israel-policy-unchanged-after-envoys-interaction-confirms-makkah-pact-talks-3007599",
+    "published_at": "2026-11-20T19:29:27+05:00"
+   }
+  ],
+  "published": "2026-11-20T19:29:27+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 842333897,
+  "image": "posts/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks.jpg",
+  "story": "posts/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-20 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
