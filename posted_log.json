@@ -12688,5 +12688,27 @@
     "metricool_ids": [
       435007214
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "slot": "2026-11-20T17:00:00+05:00",
+    "slug": "2026-11-20-ducky-bhai-father-gta6-reel",
+    "headline": "Ducky Bhai's father: GTA 6 is not for kids (owner reel) — FB video + IG Reel + TikTok 17:00",
+    "topic": "Zulfiqar Habib (Ducky Bhai's father) warns parents about GTA 6",
+    "people": [
+      "Zulfiqar Habib",
+      "Ducky Bhai"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      435015439
+    ]
   }
 ]
