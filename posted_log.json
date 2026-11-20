@@ -12646,5 +12646,26 @@
     "metricool_ids": [
       434967276
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "slot": "2026-11-20T19:00:00+05:00",
+    "slug": "2026-11-20-shamshad-ali-khan-shifa-ayat-reel",
+    "headline": "Kisi bimar shakhs ko yeh ayat sunayein, InshaAllah shifa milegi | Shamshad Ali Khan (owner reel) — FB video + IG Reel + TikTok 19:00",
+    "topic": "Religious talk: ayat for the sick",
+    "people": [
+      "Shamshad Ali Khan"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      434995728
+    ]
   }
 ]
