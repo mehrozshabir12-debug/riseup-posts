@@ -12582,5 +12582,28 @@
     "metricool_ids": [
       434938870
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "slot": "2026-11-20T12:00:00+05:00",
+    "slug": "2026-11-20-ducky-bhai-dha-wali-maid-reel",
+    "headline": "Ducky Bhai ka DHA Wali Maid par mazaq (owner reel) — FB video + IG Reel + TikTok 12:00",
+    "topic": "Ducky Bhai vlog joke on DHA Wali Maid award (Pakistan Influencer Awards)",
+    "people": [
+      "Ducky Bhai",
+      "DHA Wali Maid",
+      "Hijab Zehra"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      434946439
+    ]
   }
 ]
