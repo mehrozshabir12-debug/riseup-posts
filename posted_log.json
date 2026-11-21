@@ -13194,5 +13194,27 @@
     "metricool_ids": [
       436631383
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "slot": "2026-11-21T18:30:00+05:00",
+    "slug": "2026-11-21-basharat-maaldar-tukre-reel",
+    "headline": "Basharat collab: Maaldar ke paas bethe log, bas tukre ke intezar mein — IG Reel (collab @basharat.137) + FB video + TikTok 18:30",
+    "topic": "Basharat Chaudhry motivational reel",
+    "people": [
+      "Basharat Chaudhry"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL(collab)",
+      "tiktok": "VIDEO"
+    },
+    "source": "Basharat collab (owner video)",
+    "metricool_ids": [
+      436640204,
+      436640242
+    ]
   }
 ]
