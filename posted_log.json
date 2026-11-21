@@ -13286,9 +13286,22 @@
   "tiktok": false,
   "anime": false,
   "reel_kind": "none",
-  "scheduled": "2026-11-21 21:00 PKT",
+  "scheduled": "2026-11-21T21:00:00+05:00",
   "music": null,
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {}
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 436789630,
+   "story": 436789651
+  },
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
