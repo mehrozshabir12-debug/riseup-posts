@@ -1,1 +1,70 @@
-{"slot": "2026-11-21T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-21T09:47:34+05:00"}
+{
+  "slot": "2026-11-21T10:00:00+05:00",
+  "riseup_day": "2026-11-21",
+  "run_started_pkt": "2026-11-21T09:47:34+05:00",
+  "run_finished_pkt": "2026-11-21T09:53:20+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "freshness_window": "2h",
+  "story": {
+    "headline": "Pakistani freelancers and small tech firms are losing high-value clients because PayPal and Stripe do not operate directly in Pakistan, while the government says talks with global payment providers continue without a breakthrough, Arab News reports.",
+    "sources": [
+      {
+        "outlet": "Arab News",
+        "url": "https://www.arabnews.pk/pakistan/pakistani-freelancers-small-tech-firms-lose-clients-over-payment-gateway-restrictions-3007653",
+        "published_at": "2026-11-21T08:31:05+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-21-freelancers-lose-clients-paypal-stripe",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-freelancers-lose-clients-paypal-stripe.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 436378821,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5406896958841926374",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 436378830,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8015752104496709244",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none (reel type none)",
+  "stages": {
+    "metricool_read": "brand 7305396 Asia/Karachi FB/IG/TikTok connected; all windows 19 Nov 09:00 - 21 Nov 22:00 read OK; slot 10:00 free; RiseUp day 21 Nov news count 0 before this, TikTok 0",
+    "previous_slot_check": "20 Nov 23:00 feed 435890953 FB+IG PUBLISHED; story 435890980 FB+IG PUBLISHED",
+    "news_search": "Picked Arab News 08:31 PKT (2h window). Other candidates older (Dawn 04:31/04:32).",
+    "verification": "Arab News article read; published 2026-11-21T03:31:05Z (08:31 PKT); names/quotes checked; not a duplicate of 18 Nov freelancer earnings post",
+    "image": "Runway nano-banana-2-lite, 1 image, task db73017a-3719-48ab-ad7d-17afe05ba938",
+    "publish": "card+story rendered by workflow, compared with approved 2026-11-13 ivanhoe card: same layout; feed + story scheduled as returned"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Govt slashes petrol Re1, raises diesel Rs2 (Brecorder 40450013)",
+      "reason": "article could not be opened, timestamp unverifiable"
+    },
+    {
+      "headline": "Gujranwala, Multan overtake Lahore in air pollution (Dawn 04:32)",
+      "reason": "older than chosen story; smog posted 19 Nov"
+    },
+    {
+      "headline": "CM Murad Rs5.3bn drought relief package (Dawn 04:31)",
+      "reason": "older than chosen story (6h window)"
+    }
+  ],
+  "errors": []
+}
