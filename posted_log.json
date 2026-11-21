@@ -13024,5 +13024,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "2026-11-21T14:00:00+05:00",
+  "request_id": "2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif on Saturday condemned Houthi attacks on Riyadh, including a strike that damaged a tower in the King Abdullah Financial District, and said Pakistan fully supports Saudi Arabia's right to defend itself, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-backs-saudi-arabias-right-to-defend-itself-after-houthi-attacks-target-riyadh-3007662",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-backs-saudi-arabias-right-to-defend-itself-after-houthi-attacks-target-riyadh-3007662",
+    "published_at": "2026-11-21T12:48:57+05:00"
+   }
+  ],
+  "published": "2026-11-21T12:48:57+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 975658261,
+  "image": "posts/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd.jpg",
+  "story": "posts/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-21 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
