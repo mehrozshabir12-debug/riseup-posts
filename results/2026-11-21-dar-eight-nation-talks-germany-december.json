@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-21-dar-eight-nation-talks-germany-december",
+ "revision": 1,
+ "request": "requests/2026-11-21-dar-eight-nation-talks-germany-december.json",
+ "type": "news",
+ "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar told Euronews that Germany has invited the R4 (Pakistan, Saudi Arabia, Turkiye, Egypt) and E4 (Britain, France, Germany, Italy) to talks on Middle East tensions in Germany in December, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 11 TikTok posts on RiseUp day 2026-11-21; allowed by 22:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-21T22:00:00+05:00",
+ "target_slot": "2026-11-21T22:00:00+05:00",
+ "riseup_day": "2026-11-21",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-dar-eight-nation-talks-germany-december.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-dar-eight-nation-talks-germany-december-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-21-dar-eight-nation-talks-germany-december.jpg",
+  "story": "posts/2026-11-21-dar-eight-nation-talks-germany-december-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 406356340,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-21T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Eight-nation talks on Middle East tensions planned in Germany in December! 🇵🇰\nAccording to Arab News, Deputy Prime Minister and Foreign Minister Ishaq Dar told Euronews that Germany has invited the R4 (Pakistan, Saudi Arabia, Turkiye and Egypt) and the E4 (Britain, France, Germany and Italy) for talks in December. \"So, we are fixing a date,\" he said. The eight countries last met in Istanbul on Oct. 23. Dar also said, \"Bloc politics or unilateral politics will not work.\"\nCan dialogue ease tensions in the Middle East? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IshaqDar #MiddleEast #Diplomacy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-dar-eight-nation-talks-germany-december.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-21T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-dar-eight-nation-talks-germany-december-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-21T21:53:24+05:00"
+}

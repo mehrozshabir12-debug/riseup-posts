@@ -13303,5 +13303,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "2026-11-21T22:00:00+05:00",
+  "request_id": "2026-11-21-dar-eight-nation-talks-germany-december",
+  "layout": "bold",
+  "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar told Euronews that Germany has invited the R4 (Pakistan, Saudi Arabia, Turkiye, Egypt) and E4 (Britain, France, Germany, Italy) to talks on Middle East tensions in Germany in December, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-says-eight-nation-talks-on-middle-east-tensions-planned-for-december-3007689",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-says-eight-nation-talks-on-middle-east-tensions-planned-for-december-3007689",
+    "published_at": "2026-11-21T19:24:45+05:00"
+   }
+  ],
+  "published": "2026-11-21T19:24:45+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 406356340,
+  "image": "posts/2026-11-21-dar-eight-nation-talks-germany-december.jpg",
+  "story": "posts/2026-11-21-dar-eight-nation-talks-germany-december-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-21 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
