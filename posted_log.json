@@ -13173,5 +13173,26 @@
     "metricool_ids": [
       436615158
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "slot": "2026-11-21T20:00:00+05:00",
+    "slug": "2026-11-21-veena-malik-body-shaming-reel",
+    "headline": "Veena Malik gets emotional on live show over body shaming (owner reel) — FB video + IG Reel + TikTok 20:00",
+    "topic": "Veena Malik responds to body shaming on live show",
+    "people": [
+      "Veena Malik"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      436630960
+    ]
   }
 ]
