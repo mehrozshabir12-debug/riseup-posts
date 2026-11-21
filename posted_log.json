@@ -13154,5 +13154,24 @@
     "metricool_ids": [
       436597264
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "slot": "2026-11-21T19:00:00+05:00",
+    "slug": "2026-11-21-looks-department-podcast-reel",
+    "headline": "Looks Department: an honest talk you need to hear (owner podcast reel) — FB video + IG Reel + TikTok 19:00",
+    "topic": "Podcast clip on looks and self-worth",
+    "people": [],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      436615158
+    ]
   }
 ]
