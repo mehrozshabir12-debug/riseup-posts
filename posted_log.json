@@ -12981,5 +12981,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "2026-11-21T12:00:00+05:00",
+  "request_id": "2026-11-21-sindh-rs53bn-drought-relief-thar-umerkot",
+  "layout": "bold",
+  "headline": "Sindh Chief Minister Syed Murad Ali Shah announced a Rs5.3 billion relief package for drought-affected communities in 25 dehs of Tharparkar and Umerkot, with each eligible family to get Rs8,000 in three instalments through the BISP payment mechanism, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2046025/cm-murad-announces-rs53bn-relief-package-for-drought-hit-villages",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046025/cm-murad-announces-rs53bn-relief-package-for-drought-hit-villages",
+    "published_at": "2026-11-21T04:31:28+05:00"
+   }
+  ],
+  "published": "2026-11-21T04:31:28+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 859948196,
+  "image": "posts/2026-11-21-sindh-rs53bn-drought-relief-thar-umerkot.jpg",
+  "story": "posts/2026-11-21-sindh-rs53bn-drought-relief-thar-umerkot-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-21 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
