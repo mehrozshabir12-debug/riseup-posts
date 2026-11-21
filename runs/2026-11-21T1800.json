@@ -1,1 +1,24 @@
-{"slot": "2026-11-21T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-21T17:47:25+05:00"}
+{
+  "slot": "2026-11-21T18:00:00+05:00",
+  "riseup_day": "2026-11-21",
+  "run_started_pkt": "2026-11-21T17:47:25+05:00",
+  "run_finished_pkt": "2026-11-21T17:49:09+05:00",
+  "test_mode": false,
+  "outcome": "skipped_slot_taken",
+  "story": null,
+  "request_id": null,
+  "card_url": null,
+  "image_attempts": [],
+  "metricool": {},
+  "music": "none",
+  "stages": {
+    "metricool_read": "windows 21 Nov 11:00-19:00 read OK. Non-Story post already at 18:00: id 436591296 'Irshad Bhatti and Shaila Raza Podcast' (video, FB POST + IG REEL + TikTok, PENDING, created 16:33 by owner account). Also at 18:30 Basharat collab reel (436640204, 436640242). Slot taken -> stop; no news search, no Runway credits used.",
+    "previous_slot_check": "Previous news slot 16:00: feed 436562925 FB+IG+TikTok PUBLISHED; story 436562935 FB+IG PUBLISHED. Owner reels at 17:00 (436597264) and 17:34 (436631383) PUBLISHED on all networks.",
+    "news_search": "not run (slot taken)",
+    "verification": "not run",
+    "image": "not run",
+    "publish": "not run; owner's posts left untouched"
+  },
+  "skipped_candidates": [],
+  "errors": []
+}
