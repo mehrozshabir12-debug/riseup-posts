@@ -13167,12 +13167,12 @@
     "networks": {
       "facebook": "POST(video)",
       "instagram": "REEL",
-      "tiktok": "VIDEO moved to 22 Nov 15:00 (TikTok 8/day cap)"
+      "tiktok": "VIDEO 21 Nov 19:15 (owner asked same day; over 8/day cap)"
     },
     "source": "owner video",
     "metricool_ids": [
       436677483,
-      436678063
+      436679504
     ]
   },
   {
@@ -13232,12 +13232,12 @@
     "networks": {
       "facebook": "POST(video)",
       "instagram": "REEL",
-      "tiktok": "VIDEO moved to 22 Nov 11:00 (TikTok 8/day cap)"
+      "tiktok": "VIDEO 21 Nov 20:15 (owner asked same day; over 8/day cap)"
     },
     "source": "owner video; Bloom Pakistan, TechJuice",
     "metricool_ids": [
       436677546,
-      436677963
+      436679385
     ]
   },
   {
@@ -13254,12 +13254,12 @@
     "networks": {
       "facebook": "POST(video)",
       "instagram": "REEL",
-      "tiktok": "VIDEO 22 Nov 13:00 (cap)"
+      "tiktok": "VIDEO 21 Nov 19:45 (owner asked same day; over 8/day cap)"
     },
     "source": "owner video; ProPakistani",
     "metricool_ids": [
       436677911,
-      436678018
+      436679451
     ]
   }
 ]
