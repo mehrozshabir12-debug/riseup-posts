@@ -13167,11 +13167,12 @@
     "networks": {
       "facebook": "POST(video)",
       "instagram": "REEL",
-      "tiktok": "VIDEO"
+      "tiktok": "VIDEO moved to 22 Nov 15:00 (TikTok 8/day cap)"
     },
     "source": "owner video",
     "metricool_ids": [
-      436615158
+      436677483,
+      436678063
     ]
   },
   {
@@ -13231,11 +13232,34 @@
     "networks": {
       "facebook": "POST(video)",
       "instagram": "REEL",
-      "tiktok": "VIDEO"
+      "tiktok": "VIDEO moved to 22 Nov 11:00 (TikTok 8/day cap)"
     },
     "source": "owner video; Bloom Pakistan, TechJuice",
     "metricool_ids": [
-      436669829
+      436677546,
+      436677963
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "slot": "2026-11-21T19:30:00+05:00",
+    "slug": "2026-11-21-prankster-mian-asif-arrested-reel",
+    "headline": "Faisalabad police ne prankster Mian Asif ko giraftar kar liya (owner reel) — FB video + IG Reel 19:30; TikTok 22 Nov 13:00",
+    "topic": "Faisalabad police arrest TikTok prankster for harassing citizens",
+    "people": [
+      "Mian Asif"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO 22 Nov 13:00 (cap)"
+    },
+    "source": "owner video; ProPakistani",
+    "metricool_ids": [
+      436677911,
+      436678018
     ]
   }
 ]
