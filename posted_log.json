@@ -12938,5 +12938,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "2026-11-21T10:00:00+05:00",
+  "request_id": "2026-11-21-freelancers-lose-clients-paypal-stripe",
+  "layout": "bold",
+  "headline": "Pakistani freelancers and small tech firms are losing high-value clients because PayPal and Stripe do not operate directly in Pakistan, while the government says talks with global payment providers continue without a breakthrough, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistani-freelancers-small-tech-firms-lose-clients-over-payment-gateway-restrictions-3007653",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistani-freelancers-small-tech-firms-lose-clients-over-payment-gateway-restrictions-3007653",
+    "published_at": "2026-11-21T08:31:05+05:00"
+   }
+  ],
+  "published": "2026-11-21T08:31:05+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 830240950,
+  "image": "posts/2026-11-21-freelancers-lose-clients-paypal-stripe.jpg",
+  "story": "posts/2026-11-21-freelancers-lose-clients-paypal-stripe-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-21 10:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
