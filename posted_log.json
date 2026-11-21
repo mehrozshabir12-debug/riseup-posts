@@ -13067,5 +13067,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "2026-11-21T16:00:00+05:00",
+  "request_id": "2026-11-21-pcb-central-contracts-38-players-rizwan-shan-saim-out",
+  "layout": "bold",
+  "headline": "The PCB on Saturday awarded central contracts to 38 men's cricketers for November 1, 2026 to June 30, 2027 under a new five-track system, with Mohammad Rizwan, Shan Masood and Saim Ayub among the notable omissions, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2046112/rizwan-shan-saim-among-notable-omissions-as-pcb-awards-contracts-to-38-players",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046112/rizwan-shan-saim-among-notable-omissions-as-pcb-awards-contracts-to-38-players",
+    "published_at": "2026-11-21T14:29:38+05:00"
+   }
+  ],
+  "published": "2026-11-21T14:29:38+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 203667520,
+  "image": "posts/2026-11-21-pcb-central-contracts-38-players-rizwan-shan-saim-out.jpg",
+  "story": "posts/2026-11-21-pcb-central-contracts-38-players-rizwan-shan-saim-out-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-21 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
