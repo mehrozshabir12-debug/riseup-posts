@@ -13345,5 +13345,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-21",
+  "slot": "2026-11-21T23:00:00+05:00",
+  "request_id": "2026-11-21-mastung-two-operations-15-militants-killed",
+  "layout": "bold",
+  "headline": "Security forces killed 15 suspected militants in two operations in Balochistan's Mastung district, destroying several hideouts and recovering a large quantity of weapons and ammunition, officials said on Saturday, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-security-forces-kill-15-militants-destroy-hideouts-in-balochistan-3007699",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-security-forces-kill-15-militants-destroy-hideouts-in-balochistan-3007699",
+    "published_at": "2026-11-21T22:02:11+05:00"
+   }
+  ],
+  "published": "2026-11-21T22:02:11+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 709401344,
+  "image": "posts/2026-11-21-mastung-two-operations-15-militants-killed.jpg",
+  "story": "posts/2026-11-21-mastung-two-operations-15-militants-killed-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-21 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
