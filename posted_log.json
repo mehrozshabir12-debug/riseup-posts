@@ -13509,5 +13509,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "2026-11-22T18:00:00+05:00",
+  "request_id": "2026-11-22-saudi-pakistan-fms-call-r4-meeting",
+  "layout": "bold",
+  "headline": "Saudi Foreign Minister Prince Faisal bin Farhan and Pakistani Foreign Minister Ishaq Dar discussed by telephone on Sunday convening an R4 foreign ministers' meeting in the near future, Pakistan's foreign ministry said, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/saudi-pakistani-fms-discuss-convening-r4-meeting-to-deliberate-on-regional-developments-3007745",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/saudi-pakistani-fms-discuss-convening-r4-meeting-to-deliberate-on-regional-developments-3007745",
+    "published_at": "2026-11-22T16:07:59+05:00"
+   }
+  ],
+  "published": "2026-11-22T16:07:59+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 204027800,
+  "image": "posts/2026-11-22-saudi-pakistan-fms-call-r4-meeting.jpg",
+  "story": "posts/2026-11-22-saudi-pakistan-fms-call-r4-meeting-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-22 18:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
