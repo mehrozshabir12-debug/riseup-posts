@@ -1,1 +1,65 @@
-{"slot": "2026-11-22T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-22T20:49:02+05:00"}
+{
+ "slot": "2026-11-22T21:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "run_started_pkt": "2026-11-22T20:49:02+05:00",
+ "run_finished_pkt": "2026-11-22T20:58:41+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan will host the 15th annual meeting of the IAEA-backed NSSC Network in Islamabad from Nov 23-26, the Foreign Office said on Sunday (Dawn).",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26",
+    "published_at": "2026-11-22T19:16:27+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-22-islamabad-iaea-nssc-network-meeting",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-islamabad-iaea-nssc-network-meeting.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 437684368,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8031840952483230123",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 437684393,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3115970020146984262",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "6h windows 20 Nov 20:00 .. 23 Nov 09:00 all succeeded; 21:00 slot free; news feed posts today before this = 6 (cap 10); posts with TikTok today = 9 (over limit 8) so TikTok skipped (pipeline warning confirms)",
+  "previous_slot_check": "20:00 = owner's Rajab Butt reel 437604418, FB/IG/TikTok PUBLISHED; 19:00 news 437583425 + story 437583439 PUBLISHED on FB+IG",
+  "news_search": "Dawn IAEA NSSC meeting (19:16 PKT) chosen; Shaheens vs India A match (Dawn 19:27) only first-innings report, no result yet; Karachi high alert (Geo 15:26) less relevant; Peshawar CTD / PSO Oman / Portugal FM already posted",
+  "verification": "Dawn article read: published/modified 2026-11-22T19:16:27+05:00; 15th annual NSSC meeting, Islamabad, Nov 23-26, IAEA + 49 member states, Pakistan hosted in 2016 (first time outside Vienna)",
+  "image": "Runway nano-banana-2-lite, 1 image, task ddcc91f6-dce9-47bd-9159-2e361a14978c, no text/logos/public figures",
+  "publish": "card + story match approved design (compared with 2026-11-13 ivanhoe card); feed 21:03 FB+IG POST, story 21:08 FB+IG STORY, both PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan Shaheens post 313 vs India A (Rising Stars Asia Cup)",
+   "reason": "match still in progress, no final result in approved sources"
+  },
+  {
+   "headline": "Karachi on high alert ahead of rallies",
+   "reason": "less important; local traffic advisory"
+  }
+ ],
+ "errors": []
+}
