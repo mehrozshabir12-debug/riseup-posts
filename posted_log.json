@@ -13387,5 +13387,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "2026-11-22T10:00:00+05:00",
+  "request_id": "2026-11-22-portugal-fm-rangel-visit-trade-talks",
+  "layout": "bold",
+  "headline": "Portuguese Foreign Minister Paulo Rangel is scheduled to begin a two-day visit to Pakistan on Sunday for talks with Ishaq Dar on expanding trade and investment, Pakistan's Foreign Ministry said, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/portuguese-foreign-minister-to-visit-pakistan-today-for-trade-investment-talks-3007726",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/portuguese-foreign-minister-to-visit-pakistan-today-for-trade-investment-talks-3007726",
+    "published_at": "2026-11-22T08:45:25+05:00"
+   }
+  ],
+  "published": "2026-11-22T08:45:25+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 960572978,
+  "image": "posts/2026-11-22-portugal-fm-rangel-visit-trade-talks.jpg",
+  "story": "posts/2026-11-22-portugal-fm-rangel-visit-trade-talks-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-22 10:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
