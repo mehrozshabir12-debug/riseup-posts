@@ -13466,5 +13466,34 @@
    "feed": {},
    "story": {}
   }
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "2026-11-22T16:00:00+05:00",
+  "request_id": "2026-11-22-peshawar-ctd-operation-3-militants-bannu-quadcopter",
+  "layout": "bold",
+  "headline": "Police CTD said on Sunday that three Pakistani Taliban militants were killed in an intelligence-based operation in Matni area of Peshawar, while a quadcopter attack on a jirga in Bannu injured 10 people, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/three-militants-killed-10-injured-in-separate-incidents-in-pakistans-northwest-officials-say-3007733",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/three-militants-killed-10-injured-in-separate-incidents-in-pakistans-northwest-officials-say-3007733",
+    "published_at": "2026-11-22T11:29:15+05:00"
+   }
+  ],
+  "published": "2026-11-22T11:29:15+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 233282547,
+  "image": "posts/2026-11-22-peshawar-ctd-operation-3-militants-bannu-quadcopter.jpg",
+  "story": "posts/2026-11-22-peshawar-ctd-operation-3-militants-bannu-quadcopter-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-22 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
