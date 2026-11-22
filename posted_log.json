@@ -13625,5 +13625,27 @@
     "metricool_ids": [
       437588577
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "slot": "2026-11-22T19:30:00+05:00",
+    "slug": "2026-11-22-mehmood-aslam-sahar-hashmi-reel",
+    "headline": "Mehmood Aslam ka Sahar Hashmi par nazar rakhne wala mazaq (owner reel) — FB + IG Reel + TikTok 19:30",
+    "topic": "Showbiz clip, Mehmood Aslam and Sahar Hashmi",
+    "people": [
+      "Mehmood Aslam",
+      "Sahar Hashmi"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      437598474
+    ]
   }
 ]
