@@ -1,1 +1,74 @@
-{"slot": "2026-11-22T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-22T13:48:47+05:00"}
+{
+ "slot": "2026-11-22T14:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "run_started_pkt": "2026-11-22T13:48:47+05:00",
+ "run_finished_pkt": "2026-11-22T13:54:20+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "type": "tribute",
+ "story": {
+  "headline": "Veteran journalist and former editor of The News Husain Naqi passed away in Lahore on Sunday morning after a cardiac arrest, Dawn reports; President Zardari expressed grief, APP reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046310/veteran-journalist-husain-naqi-passes-away-in-lahore",
+    "published_at": "2026-11-22T12:44:51+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/president-grieved-at-hussain-naqis-death/",
+    "published_at": "2026-11-22T12:36:19+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "language": "Roman Urdu",
+ "request_id": "2026-11-22-husain-naqi-veteran-journalist-passes-away",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-husain-naqi-veteran-journalist-passes-away.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 437379503,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3580969709731136989",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 437379508,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6671537304585129105",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi. Slot window 13:00-15:00 empty; all 6h windows 20 Nov 13:45 - 23 Nov 02:00 read OK. 2 news posts and 2 TikTok so far this RiseUp day, so TikTok included.",
+  "previous_slot_check": "22 Nov 12:00 feed 437320668 FB+IG+TikTok PUBLISHED; 12:05 story 437320679 FB+IG PUBLISHED. 10:00 feed/story also PUBLISHED.",
+  "news_search": "Husain Naqi death (Dawn 12:44, APP 12:36) chosen in 2h window: not posted in last 48h. Other candidates: Peshawar CTD operation 3 militants (Dawn/Tribune), Gilgit-Baltistan harsh winter (Dawn), Portugal FM visit (already posted 10:00).",
+  "verification": "Tribute rule: 2 sources on different sites. Dawn meta published 2026-11-22T12:44:51+05:00 (modified 13:48:51): former The News editor, died Sunday 5am in Lahore after cardiac attack Saturday 6pm following HRCP book launch, HRCP three decades, founded Punjabi daily Sajjan, President Zardari condoled. APP meta published 2026-11-22T12:36:19+05:00: President grieved at Hussain Naqi's death.",
+  "image": "Runway nano-banana-2-lite, 1 image: old typewriter, white rose, glasses and pen on a wooden desk, no people, no readable text; credits ~773 after.",
+  "card_check": "Feed card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout (logo, headline, yellow box, kicker, desc, source line, icons); text, source and date correct. Story same approved look.",
+  "publish": "Feed 14:00 (FB+IG+TikTok) + Story 14:05 (FB+IG) scheduled from payloads exactly; providers PENDING; no Reel, no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Peshawar CTD/Army operation kills 3 TTP-linked militants (11:29)",
+   "reason": "tribute of a major journalist more fresh/relevant; security op already considered at 12:00"
+  },
+  {
+   "headline": "Harsh winter in Gilgit-Baltistan (Dawn)",
+   "reason": "newspaper feature, not fresh within window"
+  }
+ ],
+ "errors": []
+}
