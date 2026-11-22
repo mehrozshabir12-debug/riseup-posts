@@ -13647,5 +13647,26 @@
     "metricool_ids": [
       437598474
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "slot": "2026-11-22T20:00:00+05:00",
+    "slug": "2026-11-22-rajab-butt-grand-entry-reel",
+    "headline": "Rajab Butt's grand entry steals the show (owner reel, original music replaced with self-made trap beat) — FB + IG Reel + TikTok 20:00 (owner asked same day; TikTok over 8/day cap)",
+    "topic": "Rajab Butt event entry montage",
+    "people": [
+      "Rajab Butt"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      437604418
+    ]
   }
 ]
