@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-22-lahore-most-polluted-city-aqi-538",
+  "type": "news",
+  "headline": "Lahore ranked as the world's most polluted major city on Sunday morning with an hourly AQI of 538 on IQAir's live ranking, more than twice second-ranked Delhi, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2046301/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-500",
+      "published_at": "2026-11-22T10:44:45+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/f872cac5-c79e-4322-bf63-33fd2df6ea00/e6294132-4d24-4ba1-bc38-c04812bac9ca/Realistic_news_photo_of_a_busy_city_road_in_Lahore__Pakistan.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTY0OWM5OGUyNzJjY2QyNyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTQ3NTk4Mn0.5t4Lp5m2t9XGAQDAb2R7pxZ2LrSq2kbm-gzeA9FLuJU",
+    "head1": "Lahore Ki Hawa",
+    "head2_hl": "AQI 538",
+    "head2": "Khatarnak",
+    "kicker": "Duniya Mein Sab Se Aloodah",
+    "desc": "IQAir ke mutabiq Lahore ki hawa Delhi se dugni se zyada aloodah",
+    "source": "Dawn",
+    "date": "22 NOV 2026"
+  },
+  "caption": "Lahore phir duniya ka sab se aloodah bara shehar, AQI 538! 😷\nDawn ke mutabiq Sunday subah IQAir ki live ranking mein Lahore ka AQI 9 se 10 baje ke darmiyan 538 raha, jo \"hazardous\" yani khatarnak darje mein aata hai. Doosre number par Delhi 207 ke sath tha, phir Karachi 180. Pakistan ke top 10 aloodah shehron mein Punjab ke 8 shehar shamil hain. Lahore traffic police ke mutabiq dhuan chhorne wali 14,653 gariyon ke challan kiye gaye.\nSmog se bachne ke liye aap kya ehtiyat karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LahoreSmog #AirQuality #Lahore #PakistanNews",
+  "tiktok_title": "Lahore phir duniya ka sab se aloodah shehar, AQI 538 tak pohanch gaya",
+  "publish": {
+    "slot": "2026-11-22T12:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
