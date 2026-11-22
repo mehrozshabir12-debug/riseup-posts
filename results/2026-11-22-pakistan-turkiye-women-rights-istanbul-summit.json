@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-22-pakistan-turkiye-women-rights-istanbul-summit",
+ "revision": 1,
+ "request": "requests/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit.json",
+ "type": "news",
+ "headline": "Pakistan and Türkiye agreed to strengthen cooperation on women's empowerment, human rights and legal affairs at the seventh International Women and Justice Summit in Istanbul, Pakistan's Human Rights Ministry said on Sunday, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 9 TikTok posts on RiseUp day 2026-11-22; allowed by 23:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-22T23:00:00+05:00",
+ "target_slot": "2026-11-22T23:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit.jpg",
+  "story": "posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 509352739,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-22T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan aur Turkiye khawateen ke huqooq par mil kar kaam karenge! 📌\nArab News ke mutabiq Pakistan ki Human Rights Ministry ne Sunday ko bataya ke Istanbul mein 21-22 November ko hone wali 7th International Women and Justice Summit mein Pakistan aur Turkiye ne khawateen ki taraqqi, insani huqooq aur qanooni mamlat mein taawun barhane par ittefaq kiya. Wafaqi Wazir-e-Qanoon Azam Nazeer Tarar ne summit se khitab kiya aur Turkiye ke Wazir-e-Insaf Akın Gürlek aur Family and Social Services ki Wazir Mahinur Özdemir Göktaş se mulaqat ki. Tarar ne is saal shuru ki gayi qaumi strategy ka bhi zikr kiya jo online harassment aur AI ke ghalat istemal ke khilaf hai.\nAap ke khayal mein khawateen ko aage barhne ke liye sab se zyada kis cheez ki zaroorat hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanTurkiye #WomenRights #HumanRights #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-22T23:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-22T22:53:26+05:00"
+}

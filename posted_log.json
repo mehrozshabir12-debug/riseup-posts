@@ -13752,5 +13752,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "2026-11-22T23:00:00+05:00",
+  "request_id": "2026-11-22-pakistan-turkiye-women-rights-istanbul-summit",
+  "layout": "bold",
+  "headline": "Pakistan and Türkiye agreed to strengthen cooperation on women's empowerment, human rights and legal affairs at the seventh International Women and Justice Summit in Istanbul, Pakistan's Human Rights Ministry said on Sunday, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-t%C3%BCrkiye-discuss-womens-rights-cooperation-at-istanbul-summit-3007774",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-t%C3%BCrkiye-discuss-womens-rights-cooperation-at-istanbul-summit-3007774",
+    "published_at": "2026-11-22T20:42:01+05:00"
+   }
+  ],
+  "published": "2026-11-22T20:42:01+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 509352739,
+  "image": "posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit.jpg",
+  "story": "posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-22 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
