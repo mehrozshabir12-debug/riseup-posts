@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-22-islamabad-iaea-nssc-network-meeting",
+  "type": "news",
+  "headline": "Pakistan will host the 15th annual meeting of the IAEA-backed International Network for Nuclear Security Training and Support Centres in Islamabad from Nov 23-26, the Foreign Office said on Sunday, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26",
+      "published_at": "2026-11-22T19:16:27+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/ddcc91f6-dce9-47bd-9159-2e361a14978c/d3706fe5-749d-4ba1-9462-36fc71da21d7/Realistic_news_photo_of_a_modern_international_conference_ha.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNWQxMGVlNzRkZjZjNzk4MyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTUzNDcwOH0.n8zEZWWxk0PoqPbko5NJg2BP39nhroPI1TxjYPOxWUc",
+    "head1": "Islamabad Mein",
+    "head2_hl": "Nuclear Security",
+    "head2": "Meeting",
+    "kicker": "IAEA Network Ki Salana Baithak",
+    "desc": "IAEA aur 49 rukn mumalik ke numainde 23-26 November shirkat karenge",
+    "source": "Dawn",
+    "date": "22 NOV 2026"
+  },
+  "caption": "Pakistan karega IAEA nuclear security network ki salana meeting ki mezbani! 🇵🇰\nDawn ke mutabiq Foreign Office ne Sunday ko bataya ke Pakistan IAEA ke sath mil kar Islamabad mein 23 se 26 November tak International Network for Nuclear Security Training and Support Centres (NSSC Network) ki 15vi salana meeting ki mezbani karega. Is chaar roza meeting mein IAEA ke numainde aur 49 rukn mumalik shirkat karenge. Pakistan ne 2016 mein bhi yeh meeting karwai thi, jab yeh pehli baar Vienna mein IAEA headquarters se bahar hui thi.\nKya aisi meetings se Pakistan ka aalmi naam roshan hota hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IAEA #NuclearSecurity #Islamabad #PakistanNews",
+  "tiktok_title": "Islamabad mein IAEA nuclear security network ki meeting 23-26 November",
+  "publish": {
+    "slot": "2026-11-22T21:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
