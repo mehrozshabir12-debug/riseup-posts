@@ -13710,5 +13710,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "2026-11-22T22:00:00+05:00",
+  "request_id": "2026-11-22-pakistani-injured-bahrain-iranian-attacks",
+  "layout": "bold",
+  "headline": "A Pakistani resident was critically injured and a Bahraini citizen with disabilities was injured in Iranian attacks on Bahrain on Saturday night, Bahrain's interior ministry said on Sunday, Dawn (AFP) reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
+    "published_at": "2026-11-22T17:09:52+05:00"
+   }
+  ],
+  "published": "2026-11-22T17:09:52+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 727595851,
+  "image": "posts/2026-11-22-pakistani-injured-bahrain-iranian-attacks.jpg",
+  "story": "posts/2026-11-22-pakistani-injured-bahrain-iranian-attacks-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-22 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
