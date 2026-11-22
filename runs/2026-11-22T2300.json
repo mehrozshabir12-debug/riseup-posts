@@ -1,1 +1,65 @@
-{"slot": "2026-11-22T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-22T22:48:45+05:00"}
+{
+  "slot": "2026-11-22T23:00:00+05:00",
+  "riseup_day": "2026-11-22",
+  "run_started_pkt": "2026-11-22T22:48:45+05:00",
+  "run_finished_pkt": "2026-11-22T22:54:39+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan and Türkiye agreed to strengthen cooperation on women's empowerment, human rights and legal affairs at the seventh International Women and Justice Summit in Istanbul, Pakistan's Human Rights Ministry said on Sunday, Arab News reports.",
+    "sources": [
+      {
+        "outlet": "Arab News",
+        "url": "https://www.arabnews.pk/pakistan/pakistan-t%C3%BCrkiye-discuss-womens-rights-cooperation-at-istanbul-summit-3007774",
+        "published_at": "2026-11-22T20:42:01+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-22-pakistan-turkiye-women-rights-istanbul-summit",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pakistan-turkiye-women-rights-istanbul-summit.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 437792943,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1156333816674600896",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 437792960,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5964951258655114550",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "freshness_window": "3h",
+  "stages": {
+    "metricool_read": "6h windows 20 Nov 22:00 to 23 Nov 11:00 all OK; slot 23:00 free; news posts this RiseUp day before this run: 8 (cap 10); TikTok today 9 (>=8, TikTok skipped)",
+    "previous_slot_check": "22:00 feed 437736974 FB+IG PUBLISHED; story 437736986 FB+IG PUBLISHED",
+    "news_search": "Dawn latest + Arab News. Picked newest qualifying story (Arab News 20:42 PKT). Not a duplicate of last 48h.",
+    "verification": "Single approved outlet (Arab News) article read; timestamp 2026-11-22T15:42:01Z = 20:42 PKT; names/dates checked",
+    "image": "Runway nano-banana-2-lite, 1 image, no text/real figures",
+    "publish": "Feed 23:00 FB+IG POST, Story 23:05 FB+IG; card compared with 2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Pakistan Shaheens post 313 vs India A (Dawn 19:27)",
+      "reason": "older; match result not final"
+    },
+    {
+      "headline": "Karachi road closures for JUI-F demo / JSRC rally (Dawn first 16:54)",
+      "reason": "political protest story, older first-report"
+    }
+  ],
+  "errors": []
+}
