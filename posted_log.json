@@ -13837,5 +13837,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-23",
+  "slot": "2026-11-23T12:00:00+05:00",
+  "request_id": "2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal",
+  "layout": "bold",
+  "headline": "Pakistan's Planning Minister Ahsan Iqbal is in China to attend the departure ceremony of the Shenzhou-24 mission that will carry the first Pakistani astronaut to the Tiangong space station, after China completed a launch rehearsal, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-minister-in-china-to-attend-departure-ceremony-of-mission-carrying-first-pakistani-astronaut-3007807",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-minister-in-china-to-attend-departure-ceremony-of-mission-carrying-first-pakistani-astronaut-3007807",
+    "published_at": "2026-11-23T10:13:40+05:00"
+   }
+  ],
+  "published": "2026-11-23T10:13:40+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 541343573,
+  "image": "posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal.jpg",
+  "story": "posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-23 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
