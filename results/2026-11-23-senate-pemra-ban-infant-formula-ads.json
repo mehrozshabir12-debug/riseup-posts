@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-23-senate-pemra-ban-infant-formula-ads",
+ "revision": 1,
+ "request": "requests/2026-11-23-senate-pemra-ban-infant-formula-ads.json",
+ "type": "news",
+ "headline": "The Senate Standing Committee on Health directed PEMRA to immediately stop airing infant formula milk advertisements, citing a 2002 law that bars such marketing, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-23T18:00:00+05:00",
+ "target_slot": "2026-11-23T18:00:00+05:00",
+ "riseup_day": "2026-11-23",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-senate-pemra-ban-infant-formula-ads.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-senate-pemra-ban-infant-formula-ads-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-23-senate-pemra-ban-infant-formula-ads.jpg",
+  "story": "posts/2026-11-23-senate-pemra-ban-infant-formula-ads-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 382422016,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "TV par formula doodh ke ishtehar band karne ka hukam! 🍼\nArab News ke mutabiq Senate ki Standing Committee on Health ne Monday ko PEMRA ko hidayat di ke infant formula milk ke ishtehar foran band kiye jayein. Committee ne 2002 ke qanoon ka hawala diya jis ke tehat aise ishtehar mana hain. National Institute of Child Health ke Director Dr. Jamal Raza ke mutabiq Pakistan ne 2024 mein taqreeban $60 million ka infant formula import kiya. Wazir-e-Sehat Mustafa Kamal ne kaha ke maa ka doodh bachche ke liye sab se behtar ghiza hai.\nKya TV par formula doodh ke ishtehar band hone chahiyein? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MaaKaDoodh #PEMRA #ChildHealth #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-senate-pemra-ban-infant-formula-ads.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Senate committee ka PEMRA ko formula doodh ke ishtehar band karne ka hukam",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-senate-pemra-ban-infant-formula-ads-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-23T17:53:17+05:00"
+}

@@ -13966,5 +13966,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-23",
+  "slot": "2026-11-23T18:00:00+05:00",
+  "request_id": "2026-11-23-senate-pemra-ban-infant-formula-ads",
+  "layout": "bold",
+  "headline": "The Senate Standing Committee on Health directed PEMRA to immediately stop airing infant formula milk advertisements, citing a 2002 law that bars such marketing, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-senate-committee-directs-media-regulator-to-ban-infant-formula-milk-advertising-3007828",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-senate-committee-directs-media-regulator-to-ban-infant-formula-milk-advertising-3007828",
+    "published_at": "2026-11-23T16:32:38+05:00"
+   }
+  ],
+  "published": "2026-11-23T16:32:38+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 382422016,
+  "image": "posts/2026-11-23-senate-pemra-ban-infant-formula-ads.jpg",
+  "story": "posts/2026-11-23-senate-pemra-ban-infant-formula-ads-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-23 18:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
