@@ -14176,5 +14176,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-23",
+  "slot": "2026-11-23T23:00:00+05:00",
+  "request_id": "2026-11-23-foodag-pakistan-2026-karachi-72-countries",
+  "layout": "bold",
+  "headline": "Pakistan opened its FoodAg Pakistan 2026 food and agriculture trade show in Karachi with 820 international delegates from 72 countries, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/gulf-food-buyers-among-delegates-from-72-countries-at-karachi-trade-show-3007860",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/gulf-food-buyers-among-delegates-from-72-countries-at-karachi-trade-show-3007860",
+    "published_at": "2026-11-23T21:20:57+05:00"
+   }
+  ],
+  "published": "2026-11-23T21:20:57+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 907893150,
+  "image": "posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries.jpg",
+  "story": "posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-23 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

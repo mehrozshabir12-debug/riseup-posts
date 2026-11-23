@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-23-foodag-pakistan-2026-karachi-72-countries",
+ "revision": 1,
+ "request": "requests/2026-11-23-foodag-pakistan-2026-karachi-72-countries.json",
+ "type": "news",
+ "headline": "Pakistan opened its FoodAg Pakistan 2026 food and agriculture trade show in Karachi with 820 international delegates from 72 countries, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 11 TikTok posts on RiseUp day 2026-11-23; allowed by 23:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-23T23:00:00+05:00",
+ "target_slot": "2026-11-23T23:00:00+05:00",
+ "riseup_day": "2026-11-23",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries.jpg",
+  "story": "posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 907893150,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Karachi mein FoodAg Pakistan 2026 shuru, 72 mumalik ke delegates shamil! 🌾\nArab News ke mutabiq Pakistan ki food aur agriculture trade numaish FoodAg Pakistan 2026 Monday ko Karachi Expo Center mein shuru hui. Organizers ke mutabiq 72 mumalik se 820 ghair-mulki delegates aaye hain, jin mein Gulf ke chhe mumalik bhi shamil hain. Taqreeban 400 Pakistani exhibitors chawal, gosht, poultry, dairy, seafood aur processed foods dikha rahe hain, aur pehle din 2,000 B2B meetings huin. Char din ki is numaish ka iftitah Wafaqi Wazir-e-Tijarat Jam Kamal Khan aur Uganda ke Minister of State Desire Muhooza ne kiya.\nKya is se Pakistani khane ki cheezon ki export barhegi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #FoodAgPakistan #Karachi #Exports #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T23:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-23T22:51:57+05:00"
+}
