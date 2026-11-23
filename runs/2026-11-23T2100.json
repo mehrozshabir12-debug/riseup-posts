@@ -1,1 +1,7 @@
-{"slot": "2026-11-23T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-23T20:47:26+05:00"}
+{"slot": "2026-11-23T21:00:00+05:00", "riseup_day": "2026-11-23", "run_started_pkt": "2026-11-23T20:47:26+05:00", "run_finished_pkt": "2026-11-23T20:47:40+05:00",
+ "test_mode": false,
+ "outcome": "skipped_slot_taken",
+ "story": null, "request_id": null, "card_url": null, "image_attempts": [],
+ "metricool": {}, "music": "none",
+ "stages": {"metricool_read": "getScheduledPosts 20:00-22:00 PKT ok", "slot_check": "Non-Story post already at 21:00: Metricool id 438869089 (Misbah Arshad Miss Universe reel, FB+IG+TikTok, PENDING, not created by this run). Slot skipped; nothing moved or edited.", "previous_slot_check": "20:00: Abdul Samad toss reel id 438842335 PUBLISHED on facebook, instagram, tiktok. No news feed post or Story at 20:00 from the hourly run (that slot was skipped_slot_taken). Also seen: 20:15 Diljit reel 438898852 and 20:30 NCCIA reel 438852941 PUBLISHED; 21:30 Iran spokesperson reel 438924704 PENDING.", "news_search": "not run (slot taken)", "verification": "n/a", "image": "no Runway credits used", "publish": "nothing scheduled"},
+ "skipped_candidates": [], "errors": []}
