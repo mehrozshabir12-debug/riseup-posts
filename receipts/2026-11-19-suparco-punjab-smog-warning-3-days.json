@@ -1,0 +1,21 @@
+{
+ "id": "2026-11-19-suparco-punjab-smog-warning-3-days",
+ "scheduled": true,
+ "posts": {
+  "feed": {
+   "metricool_id": 433767470,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "metricool_id": 433767481,
+   "status": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ }
+}

@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-22-saudi-pakistan-fms-call-r4-meeting",
+ "revision": 1,
+ "request": "requests/2026-11-22-saudi-pakistan-fms-call-r4-meeting.json",
+ "type": "news",
+ "headline": "Saudi Foreign Minister Prince Faisal bin Farhan and Pakistani Foreign Minister Ishaq Dar discussed by telephone on Sunday convening an R4 foreign ministers' meeting in the near future, Pakistan's foreign ministry said, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-22T18:00:00+05:00",
+ "target_slot": "2026-11-22T18:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-saudi-pakistan-fms-call-r4-meeting.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-saudi-pakistan-fms-call-r4-meeting-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-22-saudi-pakistan-fms-call-r4-meeting.jpg",
+  "story": "posts/2026-11-22-saudi-pakistan-fms-call-r4-meeting-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 204027800,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-22T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Saudi Arab aur Pakistan ke wazir-e-kharja ki phone par baat, R4 meeting par ghaur! 🇵🇰🇸🇦\nArab News ke mutabiq Sunday ko Saudi wazir-e-kharja Prince Faisal bin Farhan aur Pakistan ke wazir-e-kharja Ishaq Dar ne telephone par R4 group ke wazir-e-kharja ki jald meeting bulane par baat ki. Pakistan, Saudi Arab, Misr aur Turkiye R4 group ke rukn hain. Daftar-e-kharja ke mutabiq dono ne aalmi forums par taawun par baat ki aur qareebi rabte mein rehne par ittefaq kiya. Ek din pehle Ishaq Dar ne bataya tha ke Germany ne December mein R4 aur E4 mumalik ko baat cheet ke liye bulaya hai.\nKya aap ke khayal mein aisi baat cheet se khitte mein aman aa sakta hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanSaudiArabia #IshaqDar #Diplomacy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-saudi-pakistan-fms-call-r4-meeting.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Saudi aur Pakistani wazir-e-kharja ki R4 meeting bulane par baat",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-22T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-saudi-pakistan-fms-call-r4-meeting-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 437536989,
+    "status": {},
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 437536999,
+    "status": {},
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-22T17:55:18+05:00",
+ "receipt_sha": "d96e39d725c6dd436f848f64383eb9251e28bcac4403c2f2f5ea7237893b9041"
+}

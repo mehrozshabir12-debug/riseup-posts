@@ -1,0 +1,48 @@
+{
+  "id": "2026-11-22-husain-naqi-veteran-journalist-passes-away",
+  "type": "tribute",
+  "headline": "Veteran journalist and former editor of The News Husain Naqi passed away in Lahore on Sunday morning after a cardiac arrest, Dawn reports; President Zardari expressed grief, APP reports.",
+  "language": "Roman Urdu",
+  "person": {
+    "name": "Husain Naqi",
+    "handle": ""
+  },
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2046310/veteran-journalist-husain-naqi-passes-away-in-lahore",
+      "published_at": "2026-11-22T12:44:51+05:00"
+    },
+    {
+      "outlet": "APP",
+      "url": "https://www.app.com.pk/national/president-grieved-at-hussain-naqis-death/",
+      "published_at": "2026-11-22T12:36:19+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b6b67cc7-d8bb-40ec-93ab-b2d670d23b91/df5482d9-8985-463d-adff-42e0355556c5/Realistic__quiet_tribute_photo__an_old_manual_typewriter_on_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjk5Yjc5ZDkwOTA1Yjk2YSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTQ3Mjg1N30.Mw5wB71gvMtMGqp7J-7vXVAnZFlrKNHbSFqEBkJk9zU",
+    "head1": "Senior Sahafi Husain Naqi",
+    "head2_hl": "Chal Base",
+    "head2": "",
+    "kicker": "Sahafat Ki Ek Badi Awaz",
+    "desc": "The News ke sabiq editor aur HRCP rukn ka Lahore mein inteqal",
+    "source": "Dawn / APP",
+    "date": "22 NOV 2026"
+  },
+  "caption": "Senior sahafi aur insani huqooq ki mazboot awaz Husain Naqi chal base. 🕊️\nDawn ke mutabiq The News ke sabiq editor Husain Naqi Sunday subah 5 baje Lahore mein inteqal kar gaye. Saturday shaam HRCP ki ek kitab ki taqreeb ke baad unhein dil ka daura para tha. Woh teen dahaiyon tak HRCP se wabasta rahe aur Punjabi zuban ke pehle daily akhbar \"Sajjan\" ke bani the. APP ke mutabiq Sadr Asif Ali Zardari ne un ki wafat par gehre dukh ka izhar kiya.\nAllah marhoom ki maghfirat farmaye. Aap unhein kis tarah yaad karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #HusainNaqi #Journalism #HumanRights #PakistanNews",
+  "tiktok_title": "Senior sahafi Husain Naqi Lahore mein inteqal kar gaye",
+  "publish": {
+    "slot": "2026-11-22T14:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}

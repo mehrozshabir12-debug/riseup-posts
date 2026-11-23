@@ -1,0 +1,68 @@
+{
+ "slot": "2026-11-22T19:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "run_started_pkt": "2026-11-22T18:48:15+05:00",
+ "run_finished_pkt": "2026-11-22T18:52:56+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "type": "news",
+ "story": {
+  "headline": "Oman's OQ Trading agreed to extend a $200 million credit limit to Pakistan State Oil to finance petroleum purchases, Pakistan's Petroleum Division said on Sunday (Arab News).",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-secures-200-million-oman-oil-credit-facility-amid-iran-war-disruptions-3007760",
+    "published_at": "2026-11-22T18:02:31+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "language": "English",
+ "request_id": "2026-11-22-pso-oman-oq-trading-200m-credit",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pso-oman-oq-trading-200m-credit.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 437583425,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8734604300410045111",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 437583439,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3938114009163935826",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Slot window 17:55-20:00 had no post at 19:00; windows 20 Nov 18:00 - 23 Nov 08:00 read OK. This RiseUp day before this post: 5 news feed posts (10,12,14,16,18), 5 TikTok. News 6/10 after this post.",
+  "previous_slot_check": "22 Nov 18:00 feed 437536989 FB+IG+TikTok PUBLISHED; 18:05 story 437536999 FB+IG PUBLISHED.",
+  "news_search": "Chosen Arab News Oman $200m oil credit for PSO (18:02 PKT, within 2h). Not a duplicate of last 48h posts.",
+  "verification": "Arab News article read; meta published_time 2026-11-22T13:02:31Z = 18:02:31 PKT. Facts: OQ Trading $200m credit limit to PSO; Petroleum Minister Ali Pervaiz Malik and Oman energy minister Salim Al Aufi witnessed ceremony in Muscat; diversify imports amid shipping disruptions from US-Israeli war with Iran; OQ Trading supplied >1 million tons gasoline to PSO in 2026.",
+  "image": "Runway nano-banana-2-lite, 1 image: oil tanker at coastal terminal, two anonymous workers from behind, no text. Credits 765 after.",
+  "card_check": "Feed card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout; text, source and date correct.",
+  "publish": "Scheduled feed 19:00 (FB+IG) and story 19:05 exactly as payloads; pipeline skipped TikTok (pace limit: 6 TikTok allowed by 19:00 = 5). All providers PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan Shaheens vs India A, Asia Cup Rising Stars (Geo, 14:54 PKT)",
+   "reason": "Only toss report available; no result yet."
+  },
+  {
+   "headline": "Pakistan to host IAEA-backed nuclear security network meeting Nov 23-26 (Arab News)",
+   "reason": "Less relevant to ordinary people than fuel supply story."
+  }
+ ],
+ "errors": []
+}

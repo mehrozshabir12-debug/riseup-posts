@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid",
+ "revision": 1,
+ "request": "requests/2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid.json",
+ "type": "news",
+ "headline": "Pakistan's health ministry said on Friday that 27 suspected counterfeit flu vaccine doses were seized in a Thursday raid on an Excel Labs facility in Islamabad and three people, including its chief executive, were arrested, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 7 TikTok posts on RiseUp day 2026-11-20; allowed by 14:00 = 3 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-20T14:00:00+05:00",
+ "target_slot": "2026-11-20T14:00:00+05:00",
+ "riseup_day": "2026-11-20",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid.jpg",
+  "story": "posts/2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 695887433,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-20T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Islamabad mein naqli flu vaccine pakri gayi! 💉\nArab News ke mutabiq wazarat-e-sehat ne Friday ko bataya ke Thursday ko Islamabad mein Excel Labs ki ek facility par chhapa mara gaya, jahan se 27 mashkook naqli flu vaccine doses qabze mein liye gaye. Lab ke chief executive samait 3 afraad giraftar kiye gaye hain. Wazarat ke mutabiq mareezon ko mashkook Influvac Tetra vaccine lagayi ja rahi thi, aur Drug Testing Laboratory lot 913 ko pehle hi naqli qarar de chuki thi. Wazir-e-Sehat Mustafa Kamal ne sakht karwai ka hukum diya hai. Lab ne ab tak in ilzamaat par koi jawab nahi diya.\nKya aap vaccine lagwane se pehle us ki tasdeeq karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #FluVaccine #Islamabad #HealthAlert #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-20T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-islamabad-lab-counterfeit-flu-vaccine-raid-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 435271459,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 435271478,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-20T13:54:49+05:00",
+ "receipt_sha": "3987208500fc727a410b0063243e38708bb3dcce7c0a50d777ba594ef88746c5"
+}

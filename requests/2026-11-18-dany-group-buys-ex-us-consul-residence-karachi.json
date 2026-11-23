@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-18-dany-group-buys-ex-us-consul-residence-karachi",
+  "type": "news",
+  "headline": "Dany Group has bought the former residence of the US consul general in Karachi's Civil Lines area, a 250,000 sq ft compound, for a reported Rs6.92 billion (over $25 million), Business Recorder reports citing Bloomberg.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40449509/dany-group-buys-former-us-consul-general-residence-in-karachi-for-over-25-million-report",
+      "published_at": "2026-11-18T10:37:29+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/3fd5f402-da1b-41f2-849a-7578f2248504/71ee4309-57d8-4eb2-aec7-07fa88bf8387/Realistic_documentary_photo_of_a_large_old_colonial_era_whit.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTk3ZTAxY2MwOGNjMjA1MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTE0MzUwMH0.4msbuzzEUTmiHUDPsjaPJZDQ1NGxKCXXsIqXLDeb6vM",
+    "head1": "US Consul's Old Residence",
+    "head2_hl": "Rs6.92 Billion",
+    "head2": "Deal",
+    "kicker": "Dany Group Buys Karachi Compound",
+    "desc": "Price reported by Bloomberg; 250,000 sq ft in Civil Lines",
+    "source": "Business Recorder",
+    "date": "18 NOV 2026"
+  },
+  "caption": "Former US consul general's residence in Karachi sold for Rs6.92 billion! 🏛️\nAccording to Business Recorder, citing a Bloomberg report, Dany Group, a Karachi-based Pakistani conglomerate, has bought the compound in Karachi's Civil Lines area that was once the residence of the US consul general. People familiar with the matter put the price at Rs6.92 billion (over $25 million); the company did not disclose it. The 250,000 square foot property was sold by the US government, and the US State Department confirmed the sale to Dany Tameerat, the group's real estate arm. Dany Tameerat CEO Danish A. Rauf called it a \"significant and historical structure\".\nWhat should be built at this historic site? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Karachi #RealEstate #DanyGroup #PakistanNews",
+  "tiktok_title": "Dany Group buys former US consul general residence in Karachi for Rs6.92bn",
+  "publish": {
+    "slot": "2026-11-18T12:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}

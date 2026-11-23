@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-19-pindi-test-day3-sl-167-5-lunch",
+  "type": "news",
+  "headline": "Sri Lanka were 167-5 at lunch on day three of the second Test in Rawalpindi on Thursday, still 60 runs behind Pakistan, with Aamer Jamal and Razaullah taking two wickets each, Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2641148/pakistan-in-commanding-position-as-sri-lanka-continue-losing-wickets-in-pindi",
+      "published_at": "2026-11-19T12:29:18+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/323a03cb-30e6-4c65-9468-32ddbf34e1c1/b61323fa-7ade-4f60-bb0a-38d60f8ce5d7/Realistic_photo__low_angle_close_up_of_a_red_leather_cricket.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjgwY2Y1NTVkMThlYTZmZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTE4OTIwNX0.6hKAoZ4z-KINGyMCn0_JASkUF4udAVveYinGcmIe2Gk",
+    "head1": "Pindi Test Mein",
+    "head2_hl": "Pakistan",
+    "head2": "Haawi",
+    "kicker": "Teesra Din, Lunch Tak",
+    "desc": "Sri Lanka 167/5, abhi bhi 60 ran peeche",
+    "source": "Express Tribune",
+    "date": "19 NOV 2026"
+  },
+  "caption": "Pindi Test mein Pakistan haawi, Sri Lanka ke 5 wickets gir gaye! 🏏\nExpress Tribune ke mutabiq Thursday ko Rawalpindi mein doosre Test ke teesre din lunch tak Sri Lanka ne doosri innings mein 5 wickets par 167 ran banaye the, aur woh abhi bhi Pakistan se 60 ran peeche hai. Aamer Jamal ne 36 ran de kar 2 aur Razaullah ne 64 ran de kar 2 wickets liye. Lunch ke waqt Kusal Mendis 32 aur Sonal Dinusha 19 ran par khel rahe the. Pakistan ne pehli innings mein 325 ran bana kar 227 ran ki lead li thi.\nPakistan ki jeet kitni qareeb hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TestCricket #Rawalpindi #PakistanCricket",
+  "tiktok_title": "Pindi Test: Pakistan haawi, Sri Lanka lunch tak 167/5",
+  "publish": {
+    "slot": "2026-11-19T14:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}

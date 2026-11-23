@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-21-dar-eight-nation-talks-germany-december",
+  "type": "news",
+  "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar told Euronews that Germany has invited the R4 (Pakistan, Saudi Arabia, Turkiye, Egypt) and E4 (Britain, France, Germany, Italy) to talks on Middle East tensions in Germany in December, Arab News reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-says-eight-nation-talks-on-middle-east-tensions-planned-for-december-3007689",
+      "published_at": "2026-11-21T19:24:45+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/12c92815-ae4c-4cdb-9fb8-e80ad0adbeb0/a8a08349-a27b-4ac7-8c43-db2210a5a250/A_realistic_photo_of_an_empty_international_diplomatic_confe.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzE0YmU4NzFmMWI3MzZjMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTM5MjExM30.V7qcl4WOfB5b-GK3rlUPfSC9Won8g5MC10eg5xY-wqA",
+    "head1": "Eight-Nation Talks",
+    "head2_hl": "December",
+    "head2": "In Germany",
+    "kicker": "Middle East Tensions",
+    "desc": "Germany invites R4 and E4 countries, says Ishaq Dar",
+    "source": "Arab News",
+    "date": "21 NOV 2026"
+  },
+  "caption": "Eight-nation talks on Middle East tensions planned in Germany in December! 🇵🇰\nAccording to Arab News, Deputy Prime Minister and Foreign Minister Ishaq Dar told Euronews that Germany has invited the R4 (Pakistan, Saudi Arabia, Turkiye and Egypt) and the E4 (Britain, France, Germany and Italy) for talks in December. \"So, we are fixing a date,\" he said. The eight countries last met in Istanbul on Oct. 23. Dar also said, \"Bloc politics or unilateral politics will not work.\"\nCan dialogue ease tensions in the Middle East? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IshaqDar #MiddleEast #Diplomacy #PakistanNews",
+  "tiktok_title": "Eight-nation talks on Middle East tensions planned in Germany in December",
+  "publish": {
+    "slot": "2026-11-21T22:00:00+05:00",
+    "networks": ["facebook", "instagram"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}

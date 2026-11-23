@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-18-pakistan-227-lead-rawalpindi-test-day-2",
+  "type": "news",
+  "headline": "Pakistan were all out for 325 on day two of the second Test against Sri Lanka in Rawalpindi, taking a 227-run first-innings lead, and Sri Lanka reached 74-3 at stumps, still 153 behind, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2045398/pakistan-tighten-grip-on-second-test-as-sri-lanka-stumble-to-74-3",
+      "published_at": "2026-11-18T13:09:23+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/225d7801-27f1-4584-92c6-23ce2814f953/ebdb7762-b0d1-4588-833d-5eec848d5292/Realistic_wide_photo_of_a_Test_cricket_match_in_a_Pakistani_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiM2YzYTg1MDU5YWYzZWE0NCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTExMzM0OX0.jr7JtGtpsJDxkXBD6jaCBVhsjo6fimYsOP6FeerOlsY",
+    "head1": "Pakistan Ko",
+    "head2_hl": "227 Ran",
+    "head2": "Ki Lead",
+    "kicker": "Rawalpindi Test Ka Doosra Din",
+    "desc": "Pakistan 325 par out, Sri Lanka ke 74 ran par 3 out",
+    "source": "Dawn",
+    "date": "18 NOV 2026"
+  },
+  "caption": "Rawalpindi Test mein Pakistan ki giraft mazboot, 227 ran ki lead! 🏏\nDawn ke mutabiq Wednesday ko doosre Test ke doosre din Pakistan ki pehli innings 325 ran par khatam hui, aur Pakistan ko 227 ran ki bartari mil gayi. Ghazi Ghori ne 54 aur Tayyab Arif ne 46 ran banaye, jabke Sri Lanka ke Lahiru Kumara ne 95 ran de kar 5 wickets liye. Din ke khatam hone par Sri Lanka ne 3 wickets par 74 ran banaye the aur woh abhi 153 ran peeche hai.\nKya Pakistan yeh Test jeet jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TestCricket #Rawalpindi #PakistanCricket",
+  "tiktok_title": "Rawalpindi Test: Pakistan ko 227 ran ki lead, Sri Lanka 74/3",
+  "publish": {
+    "slot": "2026-11-18T18:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}

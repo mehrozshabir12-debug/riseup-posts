@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal",
+ "revision": 1,
+ "request": "requests/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal.json",
+ "type": "news",
+ "headline": "Pakistan's Planning Minister Ahsan Iqbal is in China to attend the departure ceremony of the Shenzhou-24 mission that will carry the first Pakistani astronaut to the Tiangong space station, after China completed a launch rehearsal, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-23T12:00:00+05:00",
+ "target_slot": "2026-11-23T12:00:00+05:00",
+ "riseup_day": "2026-11-23",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal.jpg",
+  "story": "posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 541343573,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pehla Pakistani astronaut khala ke safar ke qareeb! 🇵🇰\nArab News ke mutabiq Wafaqi Wazir Ahsan Iqbal aaj China mein us mission ki rawangi ki taqreeb mein shirkat karenge jo pehle Pakistani astronaut ko khala mein le jayega. SUPARCO ne Sunday ko bataya ke China ne Jiuquan mein Shenzhou-24 ki launch rehearsal mukammal kar li hai. Training mukammal karne wale do Pakistani pilots, Muhammad Zeeshan Ali aur Khurram Daud, mein se ek Tiangong space station jayega aur doosra backup hoga. Woh Tiangong jane wala pehla ghair-mulki mehmaan hoga aur taqreeban ek hafta wahan tajurbat karega. Launch ki tareekh abhi elaan nahi hui.\nIs tareekhi lamhe par aap kya kehna chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistaniAstronaut #Shenzhou24 #PakChinaFriendship #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pehla Pakistani astronaut khala ke qareeb, Shenzhou-24 ki rehearsal mukammal",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 438360306,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING",
+     "tiktok": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 438360321,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-23T11:57:08+05:00",
+ "receipt_sha": "fb1a632498b8e333648edf72eb358eb224b1702ee65bdfbbf12324b85e64ae00"
+}

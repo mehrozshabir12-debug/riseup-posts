@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-19-airspace-ban-indian-aircraft-dec24",
+  "type": "news",
+  "headline": "The Pakistan Airports Authority has issued a NOTAM extending the ban on Indian aircraft in Pakistani airspace by one month, until 4:59am on December 24, Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2641192/pakistan-extends-airspace-ban-on-indian-aircraft-until-december-24",
+      "published_at": "2026-11-19T17:20:32+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/41330894-0e3e-4624-8392-7cb6d3335a18/26aff159-8626-4f92-a382-d7e74a46f48f/Realistic_photo_of_an_air_traffic_control_room_at_dusk_in_Pa.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZWJhOWQ4Y2ZiYWE0YmRlZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTI0NTY0N30.3eDY3x697kl8LftaYfgijqk47Ob1OVpWakW3xCJMmKg",
+    "head1": "Bharti Jahazon Par",
+    "head2_hl": "Pabandi",
+    "head2": "Barh Gayi",
+    "kicker": "24 December Tak Fazai Hudood Band",
+    "desc": "Pakistan Airports Authority ne naya NOTAM jari kar diya",
+    "source": "Express Tribune",
+    "date": "19 NOV 2026"
+  },
+  "caption": "Bharti jahazon ke liye Pakistan ki fazai hudood 24 December tak band! ✈️\nExpress Tribune ke mutabiq Pakistan Airports Authority ne naya NOTAM jari kar ke Bharti jahazon par pabandi ek mahina aur barha di hai. Ab yeh pabandi 24 December subah 4:59 baje tak rahegi. Is mein Bharti airlines ke jahaz aur Bharti fauji parwazein dono shamil hain. Yeh pabandi April 2025 se lagi hui hai.\nIs faisle par aap ka kya khayal hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Airspace #PAA #Aviation #PakistanNews",
+  "tiktok_title": "Bharti jahazon par Pakistan ki fazai pabandi 24 December tak barh gayi",
+  "publish": {
+    "slot": "2026-11-19T21:00:00+05:00",
+    "networks": ["facebook", "instagram"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}

@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-22-islamabad-iaea-nssc-network-meeting",
+ "revision": 1,
+ "request": "requests/2026-11-22-islamabad-iaea-nssc-network-meeting.json",
+ "type": "news",
+ "headline": "Pakistan will host the 15th annual meeting of the IAEA-backed International Network for Nuclear Security Training and Support Centres in Islamabad from Nov 23-26, the Foreign Office said on Sunday, Dawn reports.",
+ "warnings": [
+  "TikTok skipped: 9 TikTok posts on RiseUp day 2026-11-22; allowed by 21:00 = 6 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-22T21:03:00+05:00",
+ "target_slot": "2026-11-22T21:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-islamabad-iaea-nssc-network-meeting.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-islamabad-iaea-nssc-network-meeting-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-22-islamabad-iaea-nssc-network-meeting.jpg",
+  "story": "posts/2026-11-22-islamabad-iaea-nssc-network-meeting-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 682996942,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-22T21:03:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan karega IAEA nuclear security network ki salana meeting ki mezbani! 🇵🇰\nDawn ke mutabiq Foreign Office ne Sunday ko bataya ke Pakistan IAEA ke sath mil kar Islamabad mein 23 se 26 November tak International Network for Nuclear Security Training and Support Centres (NSSC Network) ki 15vi salana meeting ki mezbani karega. Is chaar roza meeting mein IAEA ke numainde aur 49 rukn mumalik shirkat karenge. Pakistan ne 2016 mein bhi yeh meeting karwai thi, jab yeh pehli baar Vienna mein IAEA headquarters se bahar hui thi.\nKya aisi meetings se Pakistan ka aalmi naam roshan hota hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IAEA #NuclearSecurity #Islamabad #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-islamabad-iaea-nssc-network-meeting.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-22T21:08:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-islamabad-iaea-nssc-network-meeting-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 437684368,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 437684393,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-22T21:00:36+05:00",
+ "receipt_sha": "116cc6c3119994ae3ab8e8bd1687c248c8b109cfd6b729c10a3ef88ccbab6b41"
+}

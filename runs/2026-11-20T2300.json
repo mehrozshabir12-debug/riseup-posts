@@ -1,0 +1,30 @@
+{
+ "slot": "2026-11-20T23:00:00+05:00",
+ "riseup_day": "2026-11-20",
+ "run_started_pkt": "2026-11-20T22:47:08+05:00",
+ "run_finished_pkt": "2026-11-20T22:53:02+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {"headline": "Law Minister Azam Nazeer Tarar said on Friday a government assessment has flagged 10 federal institutions, including the FBR, BISP, Pakistan Railways, NHA, SNGPL and state-owned power distribution companies, for heightened corruption risks, Arab News reports.",
+  "sources": [{"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/pakistan-flags-corruption-risks-in-tax-welfare-and-other-federal-institutions-3007612", "published_at": "2026-11-20T22:18:23+05:00"}]},
+ "freshness_window": "2h",
+ "request_id": "2026-11-20-govt-flags-corruption-risks-10-federal-institutions",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-govt-flags-corruption-risks-10-federal-institutions.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok (task fd47200a, office desk with files; small illegible oval mark on laptop lid, no readable text/brand, no faces). A second attempt to remove the laptop mark was blocked by the permission classifier, so attempt 1 was used."}],
+ "metricool": {
+  "feed": {"id": 435890953, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8950441640765114483", "networks": {"facebook": "PENDING", "instagram": "PENDING"}},
+  "story": {"id": 435890980, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3173379060123219820", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}},
+ "music": "none",
+ "stages": {
+  "metricool_read": "Windows 20 Nov 10:00-16:00, 16:00-22:00, 22:00-21 Nov 00:00 read OK. Slot 23:00 free. RiseUp day 20 Nov news feed posts before this: 4 (14,20,21,22). Older 48h duplicate history taken from posted_log.json and runs/*.json (19-20 Nov) plus the 22:00 run's full 6h-window check (18 Nov 21:00 - 21 Nov 10:00); no corruption-assessment story found.",
+  "previous_slot_check": "22:00 FO Israel feed (435824196) and 22:05 Story (435824254) PUBLISHED on facebook + instagram.",
+  "news_search": "Arab News 22:18 PKT story on government corruption-risk assessment (newest, 2h window). Other candidates older or already posted.",
+  "verification": "Single approved outlet Arab News; meta article:published_time 2026-11-20T17:18:23Z = 22:18:23 PKT; byline Falak Mahmood Khan. Names (Azam Nazeer Tarar), institutions (FBR, BISP, Pakistan Railways, NHA, SNGPL, state-owned DISCOs), figures (10 flagged, 25 reviewed, 300+ indicators, ~400 reforms) checked against article. Official on-record source, no anonymous claims.",
+  "image": "Runway nano-banana-2-lite, 1 attempt used.",
+  "publish": "Workflow result awaiting_publish; feed + story compared with approved 2026-11-13 Ivanhoe card: identical layout, text correct. Feed 23:00 + Story 23:05 FB+IG scheduled. TikTok skipped by pipeline pacing (7 of allowed 7 by 23:00). Language English (policy story)."},
+ "skipped_candidates": [
+  {"headline": "Pakistan urges transport fare cuts as fuel prices retreat (Arab News)", "reason": "published 08:54 PKT, older than 8h"},
+  {"headline": "Pakistan excluded Afghanistan from ECO meeting (Arab News 17:20)", "reason": "older than chosen 2h-window story"},
+  {"headline": "Musadik Malik visits India (Al Jazeera)", "reason": "rejected earlier: no exact timestamp; older"}],
+ "errors": ["Runway retry (attempt 2) denied: Permission for this action was denied by the Claude Code auto mode classifier. Reason: [Destructive or Unwanted Actions]"]
+}

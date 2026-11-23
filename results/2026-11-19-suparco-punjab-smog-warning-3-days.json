@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-19-suparco-punjab-smog-warning-3-days",
+ "revision": 1,
+ "request": "requests/2026-11-19-suparco-punjab-smog-warning-3-days.json",
+ "type": "news",
+ "headline": "Suparco has warned that smog will worsen across Punjab over the next three days, with Jhang, Narowal, Sheikhupura, Sialkot, Hafizabad, Gujranwala and Dera Ghazi Khan flagged for high or severe smog, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-19T10:00:00+05:00",
+ "target_slot": "2026-11-19T10:00:00+05:00",
+ "riseup_day": "2026-11-19",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-suparco-punjab-smog-warning-3-days.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-suparco-punjab-smog-warning-3-days-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-19-suparco-punjab-smog-warning-3-days.jpg",
+  "story": "posts/2026-11-19-suparco-punjab-smog-warning-3-days-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 970953023,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-19T10:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Punjab mein agle 3 din smog mazeed barhega! 😷\nDawn ke mutabiq Suparco ne khabardar kiya hai ke agle teen din Punjab mein smog ki soorat-e-haal aur kharab hogi. Jhang, Narowal, Sheikhupura, Sialkot, Hafizabad, Gujranwala aur Dera Ghazi Khan mein high ya severe smog ka khatra bataya gaya hai. Satellite data ke mutabiq 24 ghanton mein Punjab mein aag lagne ke 386 waqiat dekhe gaye. Wednesday subah Lahore AQI 339 ke saath IQAir ki duniya ke bare shehron ki list mein pehle number par tha. PMD ne agle 48 ghanton mein subah aur raat ke waqt kai shehron mein fog aur smog ki peshgoi ki hai.\nAap ke shehar mein smog ka kya haal hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Smog #Punjab #Lahore #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-suparco-punjab-smog-warning-3-days.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Suparco ki warning: Punjab mein agle 3 din smog mazeed barhega",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-19T10:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-suparco-punjab-smog-warning-3-days-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 433767470,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING",
+     "tiktok": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 433767481,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-19T09:53:46+05:00",
+ "receipt_sha": "1f12e0ce78ea87e1c4fb559c046a5d7cf6bd71f5215eb56b6b91ed57c1502ac6"
+}

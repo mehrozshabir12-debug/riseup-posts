@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-18-quetta-bite-2026-investment-expo",
+ "revision": 1,
+ "request": "requests/2026-11-18-quetta-bite-2026-investment-expo.json",
+ "type": "news",
+ "headline": "Balochistan's first Investment and Trade Expo (BITE 2026) opens on Wednesday, November 18, at a university in Quetta and runs until Thursday, November 19, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-18T10:01:00+05:00",
+ "target_slot": "2026-11-18T10:00:00+05:00",
+ "riseup_day": "2026-11-18",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-quetta-bite-2026-investment-expo.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-quetta-bite-2026-investment-expo-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-18-quetta-bite-2026-investment-expo.jpg",
+  "story": "posts/2026-11-18-quetta-bite-2026-investment-expo-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 398260715,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T10:01:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Balochistan ki pehli Investment aur Trade Expo aaj se Quetta mein! 🏗️\nDawn ke mutabiq Balochistan Investment and Trade Expo (BITE 2026) Wednesday, 18 November ko Quetta ki Balochistan University of Information Technology, Engineering and Management Sciences mein shuru ho rahi hai. Yeh do din ki expo Thursday, 19 November tak chalegi. Is mein mulk bhar se sanatkar, investors aur karobari log shirkat karenge, aur Balochistan ke karobar apni products dikhayenge. Balochistan Board of Investment and Trade ke Vice Chairman Bilal Khan Kakar ke mutabiq is ka maqsad sube ki karobari salahiyat dikhana aur maqami karobar ko investors se jorna hai.\nKya is expo se Balochistan mein naye rozgar aayenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Balochistan #Quetta #Investment #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-quetta-bite-2026-investment-expo.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Balochistan ki pehli Investment aur Trade Expo aaj se Quetta mein shuru",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T10:06:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-quetta-bite-2026-investment-expo-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 432378671,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING",
+     "tiktok": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 432378679,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-18T09:57:03+05:00",
+ "receipt_sha": "7705f987446fd37c4331e830e03b235a102a97a76eb540a8fbc1fcd86dc5978f"
+}

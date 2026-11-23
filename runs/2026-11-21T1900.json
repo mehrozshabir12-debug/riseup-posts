@@ -1,0 +1,24 @@
+{
+ "slot": "2026-11-21T19:00:00+05:00",
+ "riseup_day": "2026-11-21",
+ "run_started_pkt": "2026-11-21T18:49:03+05:00",
+ "run_finished_pkt": "2026-11-21T18:49:25+05:00",
+ "test_mode": false,
+ "outcome": "skipped_slot_taken",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "getScheduledPosts 2026-11-21 18:00-20:00 PKT succeeded. Non-Story post already at 19:00: id 436677483 'Looks Department' podcast REEL (FB+IG, PENDING, created 18:33 by owner's account) plus its TikTok at 19:15 (id 436679504). Slot taken -> stop.",
+  "previous_slot_check": "18:00 slot was owner's Irshad Bhatti/Shaila Raza podcast reel (id 436591296): FB, IG, TikTok all PUBLISHED. 18:30 Basharat collab reel (ids 436640204, 436640242) all PUBLISHED. No errors to retry; no posts of this pipeline in previous slot (18:00 run was skipped_slot_taken).",
+  "news_search": "not run (slot taken)",
+  "verification": "not run",
+  "image": "not run (no Runway credits spent)",
+  "publish": "not run"
+ },
+ "skipped_candidates": [],
+ "errors": []
+}

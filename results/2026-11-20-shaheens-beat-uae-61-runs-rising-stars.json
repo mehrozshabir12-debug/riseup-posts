@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-20-shaheens-beat-uae-61-runs-rising-stars",
+ "revision": 1,
+ "request": "requests/2026-11-20-shaheens-beat-uae-61-runs-rising-stars.json",
+ "type": "news",
+ "headline": "Defending champions Pakistan Shaheens began their Asia Cup Rising Stars campaign with a 61-run win over the UAE in Doha on Friday, Dawn reports.",
+ "warnings": [
+  "TikTok skipped: 7 TikTok posts on RiseUp day 2026-11-20; allowed by 21:00 = 6 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-20T21:00:00+05:00",
+ "target_slot": "2026-11-20T21:00:00+05:00",
+ "riseup_day": "2026-11-20",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-shaheens-beat-uae-61-runs-rising-stars.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-shaheens-beat-uae-61-runs-rising-stars-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-20-shaheens-beat-uae-61-runs-rising-stars.jpg",
+  "story": "posts/2026-11-20-shaheens-beat-uae-61-runs-rising-stars-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 571625057,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-20T21:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan Shaheens ki shandar shuruaat, UAE ko 61 ran se hara diya! 🏏\nDawn ke mutabiq defending champion Pakistan Shaheens ne Friday ko Doha mein Asia Cup Rising Stars ke apne pehle match mein UAE ko 61 ran se shikast di. Shaheens ne 46.4 overs mein 245 ran banaye. Player of the Match Shamyl Hussain ne 39 gendon par 62 ran banaye, jin mein 7 chhakke shamil the, aur Maaz Sadaqat ne 53 ran banaye. Jawab mein UAE ki poori team 40.5 overs mein 184 ran par out ho gayi. Basil Hameed ne 37 ran de kar 4 wickets liye. Shaheens ka agla match Sunday, 22 November ko India ke khilaf hai.\nIndia ke khilaf match kaun jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanShaheens #AsiaCup #RisingStars #PakistanCricket",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-shaheens-beat-uae-61-runs-rising-stars.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-20T21:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-shaheens-beat-uae-61-runs-rising-stars-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 435748597,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 435748623,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-20T20:55:53+05:00",
+ "receipt_sha": "798763ad480911dd2a3d1e119c093bb53cab808d8b6b1025a537b527b5dc1ec2"
+}

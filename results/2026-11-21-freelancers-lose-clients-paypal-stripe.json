@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-21-freelancers-lose-clients-paypal-stripe",
+ "revision": 1,
+ "request": "requests/2026-11-21-freelancers-lose-clients-paypal-stripe.json",
+ "type": "news",
+ "headline": "Pakistani freelancers and small tech firms are losing high-value clients because PayPal and Stripe do not operate directly in Pakistan, while the government says talks with global payment providers continue without a breakthrough, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-21T10:00:00+05:00",
+ "target_slot": "2026-11-21T10:00:00+05:00",
+ "riseup_day": "2026-11-21",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-freelancers-lose-clients-paypal-stripe.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-freelancers-lose-clients-paypal-stripe-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-21-freelancers-lose-clients-paypal-stripe.jpg",
+  "story": "posts/2026-11-21-freelancers-lose-clients-paypal-stripe-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 830240950,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-21T10:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PayPal aur Stripe na hone se freelancers ke bare clients hath se nikal rahe hain! 💻\nArab News ke mutabiq PayPal aur Stripe Pakistan mein seedha kaam nahi karte, is liye freelancers aur chhoti tech companies ko nuqsan ho raha hai. Islamabad ki software company Veroke ke Akhtar Sharif ne kaha ke America aur Western market mein un ke zyada tar bare clients hath se nikal jaate hain. P@SHA ke chairman Shoab Khan ke mutabiq Upwork aur Fiverr par kaam karne wale Payoneer istemal kar sakte hain, lekin e-commerce, SaaS aur subscription businesses ko mushkil hai. IT ministry ke ek official ke mutabiq Stripe se rabta jaari hai, lekin abhi tak koi final breakthrough nahi hua.\nKya aap ko bhi online payment lene mein mushkil hoti hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Freelancers #PayPal #Stripe #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-freelancers-lose-clients-paypal-stripe.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PayPal, Stripe na hone se freelancers ke bare clients hath se nikal rahe hain",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-21T10:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-freelancers-lose-clients-paypal-stripe-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 436378821,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING",
+     "tiktok": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 436378830,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-21T09:54:52+05:00",
+ "receipt_sha": "32c689a03c4142f12c9e35b25be796f6dd65e44db7c9d79e4bb3e77098b86bff"
+}

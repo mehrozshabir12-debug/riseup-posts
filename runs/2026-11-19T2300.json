@@ -1,0 +1,75 @@
+{
+ "slot": "2026-11-19T23:00:00+05:00",
+ "riseup_day": "2026-11-19",
+ "run_started_pkt": "2026-11-19T22:47:35+05:00",
+ "run_finished_pkt": "2026-11-19T22:53:12+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "OGRA has raised the petrol price by Re1 to Rs323 per litre for Friday, November 20, while keeping diesel unchanged at Rs355, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40449762/govt-increases-petrol-price-re1-per-litre-keeps-diesel-rate-unchanged",
+    "published_at": "2026-11-19T22:36:20+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-19-petrol-up-re1-rs323",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-petrol-up-re1-rs323.jpg",
+ "freshness_window": "2h",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "text in photo: 'HONDA' logo on motorcycle tank (task 666d97ea-5777-4998-8437-b3efa679e83a)"
+  },
+  {
+   "attempt": 2,
+   "result": "ok (task 1598907b-aad8-4e01-9083-9b6b28bfbcf6)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 434551242,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5893109578880861575",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 434551295,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1236802663921202476",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Windows 17 Nov 22:00 .. 20 Nov 11:00 read OK. Slot 23:00 free. RiseUp day 19 Nov news posts: 10:00, 12:01, 14:00, 20:00, 21:00 -> this is #6 of 10. TikTok 8/8 (3 news + 5 owner reels) -> TikTok skipped.",
+  "previous_slot_check": "22:00 slot had no post (previous run error_image_check). 21:00 feed 434403371 + story 434403453: FB + IG PUBLISHED.",
+  "news_search": "2h window: Business Recorder petrol +Re1 to Rs323 (22:36 PKT) chosen. Petrol post of 17 Nov was a different (earlier) price change; this is a new development.",
+  "verification": "BR meta published 2026-11-19T22:36:20+05:00 (modified 22:37:59). Facts: OGRA notification Thursday, petrol Rs322 -> Rs323 (+Re1), diesel unchanged Rs355, effective Friday 20 Nov. BR bold lead wrongly says 'reduced'; headline + body + numbers say increase; ARY, Aaj and 24News (not counted as sources) also report an increase to Rs323.",
+  "image": "Runway nano-banana-2-lite: attempt 1 rejected (brand logo), attempt 2 clean night petrol-station forecourt.",
+  "publish": "Card + story checked against approved card (2026-11-19 airspace card): same layout. Feed 434551242 (FB+IG) at 23:00, Story 434551295 at 23:05, all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Lahore school TNS Beaconhouse wins World's Best School Prize (Dawn 20:09)",
+   "reason": "3h window; 2h-window story existed"
+  },
+  {
+   "headline": "FCC sets aside high court rulings upholding infrastructure cess in Sindh, KP (Dawn 19:43)",
+   "reason": "4h window"
+  },
+  {
+   "headline": "EY-led consortium hired for Karachi/Lahore airport outsourcing",
+   "reason": "first report Dawn 18:11 (6h window)"
+  }
+ ],
+ "errors": [
+  "Runway image attempt 1: 'HONDA' logo visible on fuel tank"
+ ]
+}

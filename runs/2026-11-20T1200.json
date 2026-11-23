@@ -1,0 +1,24 @@
+{
+ "slot": "2026-11-20T12:00:00+05:00",
+ "riseup_day": "2026-11-20",
+ "run_started_pkt": "2026-11-20T11:49:32+05:00",
+ "run_finished_pkt": "2026-11-20T11:49:51+05:00",
+ "test_mode": false,
+ "outcome": "skipped_slot_taken",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "getScheduledPosts 2026-11-20 11:00-13:00 PKT: non-Story post already at 12:00 (Metricool id 434946439, uuid -3011478206902614295, Instagram REEL + Facebook POST + TikTok, 'Ducky Bhai ka DHA Wali Maid par mazaq', created 05:07 PKT, PENDING). Not created by this run; left untouched.",
+  "previous_slot_check": "No 11:00 slot under current schedule; 10:00 slot was the owner's reel (checked by the 10:00 run). Nothing scheduled by Claude since the 23:00 slot of 19 Nov, which the 10:00 run confirmed PUBLISHED.",
+  "news_search": "not run (slot taken)",
+  "verification": "not run",
+  "image": "not run (no Runway credits used)",
+  "publish": "nothing scheduled"
+ },
+ "skipped_candidates": [],
+ "errors": []
+}

@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks",
+ "revision": 1,
+ "request": "requests/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks.json",
+ "type": "news",
+ "headline": "Pakistan's Foreign Office said on Friday its position on Israel remains unchanged after its Geneva envoy received an Israeli diplomat's credentials as president of the Conference on Disarmament, calling it a purely procedural act, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 7 TikTok posts on RiseUp day 2026-11-20; allowed by 22:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-20T22:00:00+05:00",
+ "target_slot": "2026-11-20T22:00:00+05:00",
+ "riseup_day": "2026-11-20",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks.jpg",
+  "story": "posts/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 842333897,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-20T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Israel ke baare mein Pakistan ka moqaf nahi badla, Foreign Office ki wazahat! 🇵🇰\nArab News ke mutabiq Foreign Office ke spokesperson Sajjad Haider Khan ne Friday ko kaha ke Israel par Pakistan ka moqaf barqarar hai. Geneva mein Pakistan ke safeer Tahir Hussain Andrabi ne Conference on Disarmament ke president ki haisiyat se Israel ke Jonathan Peled se credentials wusool kiye the. Spokesperson ne ise \"purely procedural\" amal qarar diya, aur bataya ke Croatia, Ireland, Germany, Malaysia aur Bangladesh ke safeeron ne bhi isi tarah credentials pesh kiye. Arab News ke mutabiq Pakistan, Saudi Arabia aur Türkiye November ke aakhir mein Islamabad mein Makkah defence agreement ka jaiza lene ke liye milne ki tayyari kar rahe hain. Is mulaqat ki tareekh abhi elaan nahi hui.\nIs wazahat par aap ka kya khayal hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ForeignOffice #PakistanNews #MakkahPact #Geneva",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-20T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-fo-israel-stance-unchanged-makkah-pact-talks-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 435824196,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 435824254,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-20T21:57:15+05:00",
+ "receipt_sha": "1cd3d998098814d82a37571a4c8927d3557f2c5e409f815ad66e78dafb1ed2cf"
+}

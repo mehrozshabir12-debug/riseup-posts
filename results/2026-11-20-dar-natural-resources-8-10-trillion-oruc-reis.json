@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis",
+ "revision": 1,
+ "request": "requests/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis.json",
+ "type": "news",
+ "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar said on Friday at Karachi Port, while welcoming the Turkish seismic research vessel Oruç Reis, that Pakistan's natural resources are conservatively estimated at $8 trillion to $10 trillion, Express Tribune reports.",
+ "warnings": [
+  "TikTok skipped: 7 TikTok posts on RiseUp day 2026-11-20; allowed by 20:00 = 6 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-20T20:00:00+05:00",
+ "target_slot": "2026-11-20T20:00:00+05:00",
+ "riseup_day": "2026-11-20",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis.jpg",
+  "story": "posts/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 842638277,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-20T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan's natural resources could be worth $8 to $10 trillion, says Ishaq Dar! 🇵🇰\nAccording to Express Tribune, Deputy Prime Minister and Foreign Minister Ishaq Dar said on Friday that Pakistan's minerals, hydrocarbons and gemstones are conservatively estimated at $8 trillion to $10 trillion. He spoke at Karachi Port while welcoming the Turkish seismic research vessel Oruç Reis. Dar said the seismic survey would take about five to six months, and Turkish Energy Minister Alparslan Bayraktar said the ship would collect 3D seismic data over 670 square kilometres of the Indus offshore basin.\nCan these resources change Pakistan's economy? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IshaqDar #OffshoreExploration #PakistanTurkiye #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-20T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-20-dar-natural-resources-8-10-trillion-oruc-reis-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 435674892,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 435674908,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-20T19:55:15+05:00",
+ "receipt_sha": "2d147ca3563623d6be3dd71334d41306a216530af9d15be0a81a684da3b2a999"
+}

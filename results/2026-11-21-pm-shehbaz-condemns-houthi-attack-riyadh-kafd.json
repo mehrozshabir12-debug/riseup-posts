@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd",
+ "revision": 1,
+ "request": "requests/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif on Saturday condemned Houthi attacks on Riyadh, including a strike that damaged a tower in the King Abdullah Financial District, and said Pakistan fully supports Saudi Arabia's right to defend itself, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-21T14:00:00+05:00",
+ "target_slot": "2026-11-21T14:00:00+05:00",
+ "riseup_day": "2026-11-21",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd.jpg",
+  "story": "posts/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 975658261,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-21T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PM Shehbaz condemns Houthi attack on Riyadh, backs Saudi Arabia's right to defend itself! 🇵🇰🇸🇦\nAccording to Arab News, Prime Minister Shehbaz Sharif on Saturday condemned the Houthi attacks on Riyadh, calling them \"acts of reckless aggression.\" The statement came after a Houthi strike damaged several floors of a tower in Riyadh's King Abdullah Financial District, and Saudi air defenses intercepted three ballistic missiles fired toward Riyadh early Saturday. \"Pakistan stands in unwavering solidarity with our brotherly Kingdom of Saudi Arabia and its people,\" he said, adding that Pakistan fully supports the Kingdom's right to defend its sovereignty and protect its citizens and residents.\nWhat do you think? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanSaudiArabia #ShehbazSharif #Riyadh #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PM Shehbaz condemns Houthi attack on Riyadh, backs Saudi Arabia",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-21T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-21-pm-shehbaz-condemns-houthi-attack-riyadh-kafd-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 436493715,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING",
+     "tiktok": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 436493731,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-21T15:51:56+05:00",
+ "receipt_sha": "42ac219cebff11b60324179f4debfd7a51de8d22b9c11a0b5890cf9bf33b53b9"
+}

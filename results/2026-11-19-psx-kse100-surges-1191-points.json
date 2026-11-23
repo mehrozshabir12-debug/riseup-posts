@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-19-psx-kse100-surges-1191-points",
+ "revision": 1,
+ "request": "requests/2026-11-19-psx-kse100-surges-1191-points.json",
+ "type": "news",
+ "headline": "The KSE-100 index of the Pakistan Stock Exchange rose 1,191.19 points (0.68%) to 177,485.52 by 10:30am on Thursday as buying returned, a day after a 1,223.41-point drop, Business Recorder reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-19T12:00:00+05:00",
+ "target_slot": "2026-11-19T12:00:00+05:00",
+ "riseup_day": "2026-11-19",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-psx-kse100-surges-1191-points.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-psx-kse100-surges-1191-points-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-19-psx-kse100-surges-1191-points.jpg",
+  "story": "posts/2026-11-19-psx-kse100-surges-1191-points-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 708630047,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-19T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Buying returns at PSX, KSE-100 jumps 1,191.19 points! 📈\nAccording to Business Recorder, the KSE-100 index was at 177,485.52 at 10:30am on Thursday, up 1,191.19 points or 0.68%. On Wednesday the index had closed at 176,294.33 after falling 1,223.41 points. Buying was seen in automobile, cement, banking, oil and gas, OMC, power and refinery stocks, while Asian markets also rose in early trading.\nDo you invest in the stock market? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PSX #KSE100 #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-psx-kse100-surges-1191-points.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PSX bounces back: KSE-100 up 1,191.19 points in early trade",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-19T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-psx-kse100-surges-1191-points-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 433834749,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING",
+     "tiktok": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 433834759,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-19T11:56:48+05:00",
+ "receipt_sha": "d871ef393ef810d3b7d7e06bf142c0322b97bdf193e06f503c8fd1e3f6c26935"
+}

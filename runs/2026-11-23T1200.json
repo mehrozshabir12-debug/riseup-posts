@@ -1,0 +1,72 @@
+{
+ "slot": "2026-11-23T12:00:00+05:00",
+ "riseup_day": "2026-11-23",
+ "run_started_pkt": "2026-11-23T11:48:23+05:00",
+ "run_finished_pkt": "2026-11-23T11:55:05+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan's Planning Minister Ahsan Iqbal is in China to attend the departure ceremony of the Shenzhou-24 mission that will carry the first Pakistani astronaut to the Tiangong space station, after China completed a launch rehearsal, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-minister-in-china-to-attend-departure-ceremony-of-mission-carrying-first-pakistani-astronaut-3007807",
+    "published_at": "2026-11-23T10:13:40+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-first-pakistani-astronaut-shenzhou-24-rehearsal.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "runway_task": "43b2a4db-7297-470b-85d9-a0e603ec9db7"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 438360306,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1663898989133055678",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 438360321,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5123081767606963537",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "6-hour windows 21 Nov 11:00 to 24 Nov 00:00 all succeeded; slot 11:00-13:00 empty; RiseUp day 23 Nov news count 1 before this run, TikTok 1",
+  "previous_slot_check": "23 Nov 10:00 feed (438289960) FB+IG+TikTok PUBLISHED; 10:05 Story (438289969) FB+IG PUBLISHED",
+  "news_search": "Searched dawn.com, arabnews.pk, tribune/geo/brecorder. Picked Arab News astronaut story (10:13 PKT). Earlier 7 Nov post on Shenzhou-24 announcement is >48h old; this is a new development (launch rehearsal done, departure ceremony).",
+  "verification": "Single approved outlet (Arab News), timestamp from article meta 2026-11-23T05:13:40Z = 10:13 PKT; names (Ahsan Iqbal, Muhammad Zeeshan Ali, Khurram Daud), Shenzhou-24, Jiuquan, Tiangong, ~1 week checked.",
+  "image": "Runway nano-banana-2-lite, 1 image (rocket on desert launch pad), no text/faces/logos",
+  "publish": "Card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout. Feed 12:00 FB+IG+TikTok, Story 12:05 FB+IG scheduled exactly from payloads; no Reel, no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PSX KSE-100 up nearly 1,200 points (Business Recorder)",
+   "reason": "intraday market update; astronaut story more important/newsworthy"
+  },
+  {
+   "headline": "Pakistan hosts IAEA-backed nuclear security meeting (Arab News)",
+   "reason": "duplicate: posted 22 Nov 21:03"
+  },
+  {
+   "headline": "Pakistan-Portugal business forum (Arab News)",
+   "reason": "same visit posted 22 Nov 10:00"
+  }
+ ],
+ "errors": []
+}

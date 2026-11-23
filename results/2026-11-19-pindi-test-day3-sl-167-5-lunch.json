@@ -1,0 +1,135 @@
+{
+ "id": "2026-11-19-pindi-test-day3-sl-167-5-lunch",
+ "revision": 1,
+ "request": "requests/2026-11-19-pindi-test-day3-sl-167-5-lunch.json",
+ "type": "news",
+ "headline": "Sri Lanka were 167-5 at lunch on day three of the second Test in Rawalpindi on Thursday, still 60 runs behind Pakistan, with Aamer Jamal and Razaullah taking two wickets each, Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-19T14:00:00+05:00",
+ "target_slot": "2026-11-19T14:00:00+05:00",
+ "riseup_day": "2026-11-19",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-pindi-test-day3-sl-167-5-lunch.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-pindi-test-day3-sl-167-5-lunch-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-19-pindi-test-day3-sl-167-5-lunch.jpg",
+  "story": "posts/2026-11-19-pindi-test-day3-sl-167-5-lunch-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 635692853,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-19T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pindi Test mein Pakistan haawi, Sri Lanka ke 5 wickets gir gaye! 🏏\nExpress Tribune ke mutabiq Thursday ko Rawalpindi mein doosre Test ke teesre din lunch tak Sri Lanka ne doosri innings mein 5 wickets par 167 ran banaye the, aur woh abhi bhi Pakistan se 60 ran peeche hai. Aamer Jamal ne 36 ran de kar 2 aur Razaullah ne 64 ran de kar 2 wickets liye. Lunch ke waqt Kusal Mendis 32 aur Sonal Dinusha 19 ran par khel rahe the. Pakistan ne pehli innings mein 325 ran bana kar 227 ran ki lead li thi.\nPakistan ki jeet kitni qareeb hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PAKvSL #TestCricket #Rawalpindi #PakistanCricket",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-pindi-test-day3-sl-167-5-lunch.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pindi Test: Pakistan haawi, Sri Lanka lunch tak 167/5",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-19T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-pindi-test-day3-sl-167-5-lunch-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 433922448,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING",
+     "tiktok": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 433922482,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-19T13:53:10+05:00",
+ "receipt_sha": "4bb63b0ad642f666e47ef27c23d4e01a9b21559f9041ebd5fafd9467319a89c7"
+}

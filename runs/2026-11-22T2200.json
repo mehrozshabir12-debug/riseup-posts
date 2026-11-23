@@ -1,0 +1,69 @@
+{
+ "slot": "2026-11-22T22:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "run_started_pkt": "2026-11-22T21:47:06+05:00",
+ "run_finished_pkt": "2026-11-22T21:53:38+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "A Pakistani resident was critically injured in Iranian attacks on Bahrain on Saturday night, Bahrain's interior ministry said on Sunday (Dawn/AFP).",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says",
+    "published_at": "2026-11-22T17:09:52+05:00"
+   }
+  ]
+ },
+ "freshness_window": "6h",
+ "request_id": "2026-11-22-pakistani-injured-bahrain-iranian-attacks",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pakistani-injured-bahrain-iranian-attacks.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 437736974,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8017879044306744830",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 437736986,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2471818516192015563",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "windows 22 Nov 09:00-15:00, 15:00-21:00, 21:00-23:59 read; 22:00 slot free; news feed posts today before this = 7 (cap 10); TikTok over daily limit so pipeline skipped TikTok; no Bahrain story in Metricool, runs/, requests/ or posted_log",
+  "previous_slot_check": "21:00 news 437684368 + story 437684393 PUBLISHED on FB+IG",
+  "news_search": "Dawn latest-news scanned; Shaheens vs India A (19:27) still no final result; COP31 talks less relevant; IAEA/Portugal/Oman/Saudi already posted; Bahrain injury story (Dawn 17:09) chosen as it affects Pakistanis abroad",
+  "verification": "Dawn/AFP article read: published 2026-11-22T17:09:52+05:00, modified 17:12:04; interior ministry: Pakistani resident injured, critical condition; Bahraini citizen with disabilities injured, stable; both in hospital; attack Saturday night on civilian industrial facility, fire and damage",
+  "image": "Runway nano-banana-2-lite, 1 image, task a821fcdf-add7-42dd-a6a0-987f953a91d3, no text/logos/public figures",
+  "publish": "card + story match approved design (compared with 2026-11-13 ivanhoe card); feed 22:00 FB+IG POST, story 22:05 FB+IG STORY, both PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan Shaheens 313 vs India A",
+   "reason": "no final result in approved sources yet"
+  },
+  {
+   "headline": "COP31 climate talks set to collapse",
+   "reason": "less direct relevance to Pakistan"
+  },
+  {
+   "headline": "Dar hopes for early US-Iran deal (Geo)",
+   "reason": "published 21 Nov, older than 8h"
+  }
+ ],
+ "errors": []
+}

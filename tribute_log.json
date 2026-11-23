@@ -1,26 +1,78 @@
 [
-  {
-    "date": "2026-10-08",
-    "person": "Nana Patekar",
-    "country": "India",
-    "sources": [
-      "https://images.dawn.com/news/1195969/nana-patekar-no-more-veteran-bollywood-actor-dies-at-75",
-      "https://www.thenews.pk/story/1441744-veteran-bollywood-actor-nana-patekar-dies-at-75"
-    ],
-    "published": "2026-10-08 08:13 PKT",
-    "files": [
-      "posts/2026-10-08-nana-patekar-dies.jpg",
-      "posts/2026-10-08-nana-patekar-legacy-en.jpg",
-      "posts/2026-10-08-nana-patekar-anime-en.mp4"
-    ],
-    "scheduled": {
-      "post1": "2026-10-08 20:50",
-      "reel": "2026-10-08 21:20",
-      "post2": "2026-10-08 21:50"
-    },
-    "reel_mood": "sunset",
-    "reel_seed": 874425992,
-    "music_instagram": "own mournful score (no Instagram track)",
-    "language": "English (post 1 Roman Urdu, already published)"
+ {
+  "date": "2026-10-08",
+  "person": "Nana Patekar",
+  "country": "India",
+  "sources": [
+   "https://images.dawn.com/news/1195969/nana-patekar-no-more-veteran-bollywood-actor-dies-at-75",
+   "https://www.thenews.pk/story/1441744-veteran-bollywood-actor-nana-patekar-dies-at-75"
+  ],
+  "published": "2026-10-08 08:13 PKT",
+  "files": [
+   "posts/2026-10-08-nana-patekar-dies.jpg",
+   "posts/2026-10-08-nana-patekar-legacy-en.jpg",
+   "posts/2026-10-08-nana-patekar-anime-en.mp4"
+  ],
+  "scheduled": {
+   "post1": "2026-10-08 20:50",
+   "reel": "2026-10-08 21:20",
+   "post2": "2026-10-08 21:50"
+  },
+  "reel_mood": "sunset",
+  "reel_seed": 874425992,
+  "music_instagram": "own mournful score (no Instagram track)",
+  "language": "English (post 1 Roman Urdu, already published)"
+ },
+ {
+  "date": "2026-11-22",
+  "slot": "2026-11-22T14:00:00+05:00",
+  "request_id": "2026-11-22-husain-naqi-veteran-journalist-passes-away",
+  "layout": "bold",
+  "headline": "Veteran journalist and former editor of The News Husain Naqi passed away in Lahore on Sunday morning after a cardiac arrest, Dawn reports; President Zardari expressed grief, APP reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2046310/veteran-journalist-husain-naqi-passes-away-in-lahore",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046310/veteran-journalist-husain-naqi-passes-away-in-lahore",
+    "published_at": "2026-11-22T12:44:51+05:00"
+   },
+   {
+    "outlet": "APP",
+    "url": "https://www.app.com.pk/national/president-grieved-at-hussain-naqis-death/",
+    "published_at": "2026-11-22T12:36:19+05:00"
+   }
+  ],
+  "published": "2026-11-22T12:44:51+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 776889358,
+  "image": "posts/2026-11-22-husain-naqi-veteran-journalist-passes-away.jpg",
+  "story": "posts/2026-11-22-husain-naqi-veteran-journalist-passes-away-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": true,
+  "music": null,
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 437379503,
+   "story": 437379508
+  },
+  "person": {
+   "name": "Husain Naqi",
+   "handle": ""
+  },
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
   }
+ }
 ]

@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-22-pso-oman-oq-trading-200m-credit",
+ "revision": 1,
+ "request": "requests/2026-11-22-pso-oman-oq-trading-200m-credit.json",
+ "type": "news",
+ "headline": "Oman's OQ Trading has agreed to extend a $200 million credit limit to Pakistan State Oil to finance petroleum purchases under a fuel supply agreement, Pakistan's Petroleum Division said on Sunday, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 6 TikTok posts on RiseUp day 2026-11-22; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-22T19:00:00+05:00",
+ "target_slot": "2026-11-22T19:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pso-oman-oq-trading-200m-credit.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pso-oman-oq-trading-200m-credit-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-22-pso-oman-oq-trading-200m-credit.jpg",
+  "story": "posts/2026-11-22-pso-oman-oq-trading-200m-credit-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 644798211,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-22T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan secures a $200 million oil credit facility from Oman! ⛽🇴🇲\nAccording to Arab News, the government said on Sunday that Oman's OQ Trading has agreed to extend a $200 million credit limit to Pakistan State Oil (PSO) to finance petroleum purchases under a fuel supply agreement. Petroleum Minister Ali Pervaiz Malik and Oman's Minister of Energy and Minerals Salim Al Aufi witnessed the agreement ceremony in Muscat. Pakistan is looking to diversify fuel imports amid shipping disruptions caused by the US-Israeli war with Iran. OQ Trading has supplied more than one million tons of gasoline to PSO in 2026.\nWill this deal help keep fuel supplies steady in Pakistan? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanOman #PSO #EnergySecurity #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pso-oman-oq-trading-200m-credit.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-22T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-pso-oman-oq-trading-200m-credit-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 437583425,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 437583439,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-22T18:54:36+05:00",
+ "receipt_sha": "d9a7cf0edf483257184bda6433a57c402f9f81346fcd4ecdb3542cd14741b23d"
+}

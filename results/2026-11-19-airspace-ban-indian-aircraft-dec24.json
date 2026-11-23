@@ -1,0 +1,125 @@
+{
+ "id": "2026-11-19-airspace-ban-indian-aircraft-dec24",
+ "revision": 1,
+ "request": "requests/2026-11-19-airspace-ban-indian-aircraft-dec24.json",
+ "type": "news",
+ "headline": "The Pakistan Airports Authority has issued a NOTAM extending the ban on Indian aircraft in Pakistani airspace by one month, until 4:59am on December 24, Express Tribune reports.",
+ "warnings": [
+  "TikTok skipped: 8 TikTok posts on RiseUp day 2026-11-19; allowed by 21:00 = 6 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-19T21:00:00+05:00",
+ "target_slot": "2026-11-19T21:00:00+05:00",
+ "riseup_day": "2026-11-19",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-airspace-ban-indian-aircraft-dec24.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-airspace-ban-indian-aircraft-dec24-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-19-airspace-ban-indian-aircraft-dec24.jpg",
+  "story": "posts/2026-11-19-airspace-ban-indian-aircraft-dec24-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 378214356,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-19T21:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Bharti jahazon ke liye Pakistan ki fazai hudood 24 December tak band! ✈️\nExpress Tribune ke mutabiq Pakistan Airports Authority ne naya NOTAM jari kar ke Bharti jahazon par pabandi ek mahina aur barha di hai. Ab yeh pabandi 24 December subah 4:59 baje tak rahegi. Is mein Bharti airlines ke jahaz aur Bharti fauji parwazein dono shamil hain. Yeh pabandi April 2025 se lagi hui hai.\nIs faisle par aap ka kya khayal hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Airspace #PAA #Aviation #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-airspace-ban-indian-aircraft-dec24.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-19T21:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-19-airspace-ban-indian-aircraft-dec24-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 434403371,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 434403453,
+    "status": {
+     "facebook": "PENDING",
+     "instagram": "PENDING"
+    },
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "scheduled",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-19T20:53:01+05:00",
+ "receipt_sha": "96f5433199b6fbbe867f4420911e7c88d55cbc3a15ac015c14945a06e5c613be"
+}

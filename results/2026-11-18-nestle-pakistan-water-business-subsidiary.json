@@ -1,0 +1,128 @@
+{
+ "id": "2026-11-18-nestle-pakistan-water-business-subsidiary",
+ "revision": 1,
+ "request": "requests/2026-11-18-nestle-pakistan-water-business-subsidiary.json",
+ "type": "news",
+ "headline": "Nestle Pakistan's board has approved a scheme of arrangement to transfer its local water business to a wholly owned subsidiary, Waters and Premium Beverages Pk (Private) Limited, ahead of Nestle S.A.'s joint venture with Platinum Equity, Business Recorder reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-18T14:00:00+05:00",
+ "target_slot": "2026-11-18T14:00:00+05:00",
+ "riseup_day": "2026-11-18",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-nestle-pakistan-water-business-subsidiary.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-nestle-pakistan-water-business-subsidiary-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-18-nestle-pakistan-water-business-subsidiary.jpg",
+  "story": "posts/2026-11-18-nestle-pakistan-water-business-subsidiary-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 868390084,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Nestle Pakistan to move its water business into a new subsidiary! 💧\nAccording to Business Recorder, Nestle Pakistan told the Pakistan Stock Exchange on Wednesday that its board has approved a scheme of arrangement to transfer its local water business to Waters and Premium Beverages Pk (Private) Limited (WPB), a wholly owned subsidiary. The move is part of Peranel, the 50/50 joint venture for Nestle's waters and premium beverages business announced by Nestle S.A. and Platinum Equity on July 23. After the scheme takes effect, Nestle Pakistan plans to sell its shares in the subsidiary at fair market value. The scheme still needs approval from shareholders, creditors and the Lahore High Court.\nWhich bottled water do you drink? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Nestle #PSX #PakistanBusiness #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-nestle-pakistan-water-business-subsidiary.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Nestle Pakistan to move its water business into new subsidiary WPB",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-18T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-18-nestle-pakistan-water-business-subsidiary-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 432534484,
+    "status": {},
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 432534502,
+    "status": {},
+    "public_urls": {}
+   }
+  }
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-18T13:51:56+05:00",
+ "receipt_sha": "40d8ac32b21c23e37292f0a7e93a987c478bf32810b66a0b238d90cefc840d0b"
+}

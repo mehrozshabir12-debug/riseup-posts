@@ -1,0 +1,24 @@
+{
+ "slot": "2026-11-20T16:00:00+05:00",
+ "riseup_day": "2026-11-20",
+ "run_started_pkt": "2026-11-20T15:48:02+05:00",
+ "run_finished_pkt": "2026-11-20T15:48:15+05:00",
+ "test_mode": false,
+ "outcome": "skipped_slot_taken",
+ "story": null,
+ "request_id": null,
+ "card_url": null,
+ "image_attempts": [],
+ "metricool": {},
+ "music": "none",
+ "stages": {
+  "metricool_read": "getScheduledPosts 15:00-17:00 PKT: owner's non-Story post already at 16:00 (Metricool id 434967276, reel 'Hamare mulk ka bara almiya', FB/IG/TikTok PENDING, creator not Claude). Slot taken; stopped before news search. Not touched.",
+  "previous_slot_check": "Not needed for a skipped slot; 14:00 Claude post was scheduled (ids 435271459/435271478) and no longer appears as scheduled.",
+  "news_search": "not run (slot taken)",
+  "verification": "n/a",
+  "image": "none (no Runway credits spent)",
+  "publish": "none"
+ },
+ "skipped_candidates": [],
+ "errors": []
+}

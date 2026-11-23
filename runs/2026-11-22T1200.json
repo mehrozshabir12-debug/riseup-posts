@@ -1,0 +1,72 @@
+{
+ "slot": "2026-11-22T12:00:00+05:00",
+ "riseup_day": "2026-11-22",
+ "run_started_pkt": "2026-11-22T11:49:46+05:00",
+ "run_finished_pkt": "2026-11-22T11:55:10+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Lahore ranked as the world's most polluted major city on Sunday morning with an hourly AQI of 538 on IQAir's live ranking, more than twice second-ranked Delhi, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046301/lahore-once-again-ranks-as-worlds-most-polluted-major-city-as-aqi-crosses-500",
+    "published_at": "2026-11-22T10:44:45+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "language": "Roman Urdu",
+ "request_id": "2026-11-22-lahore-most-polluted-city-aqi-538",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-22-lahore-most-polluted-city-aqi-538.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 437320668,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8138488261828784616",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 437320679,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4168300250878200832",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB+IG+TikTok connected. Slot window 11:00-13:00 empty; all 6h windows 20 Nov 11:45 - 23 Nov 00:00 read OK. 1 news post and 1 TikTok so far this RiseUp day, so TikTok included.",
+  "previous_slot_check": "22 Nov 10:00 feed 437269688 FB+IG+TikTok PUBLISHED; 10:05 story 437269696 FB+IG PUBLISHED.",
+  "news_search": "Dawn Lahore AQI 538 (10:44 PKT) chosen in 2h window: daily-life story, no smog post in last 48h. Other candidates: Arab News Dar US-Iran (10:00), Zardari on Lebanon (10:12), Peshawar CTD operation (11:29).",
+  "verification": "Dawn article opened; meta published_time 2026-11-22T10:44:45+05:00; IQAir 538 (9-10am), Delhi 207, Karachi 180, 8 Punjab cities in top 10, 14,653 smoke-emitting vehicle challans checked.",
+  "image": "Runway nano-banana-2-lite, 1 image: smoggy Lahore road with masked anonymous commuters, no readable text; credits ~777 after.",
+  "card_check": "Feed card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout; text, source and date correct. Story same approved look.",
+  "publish": "Feed 12:00 (FB+IG+TikTok) + Story 12:05 (FB+IG) scheduled from payloads exactly; providers PENDING; no Reel, no music."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Arab News: Dar hopeful for US-Iran deal (10:00)",
+   "reason": "interview aired Saturday; less relevant to ordinary people than smog"
+  },
+  {
+   "headline": "Arab News: Zardari condemns Israeli incursions in Lebanon (10:12)",
+   "reason": "lower public impact"
+  },
+  {
+   "headline": "Arab News: 3 militants killed in Peshawar CTD operation (11:29)",
+   "reason": "security story; similar to 21 Nov Mastung post; smog chosen as more relevant"
+  }
+ ],
+ "errors": []
+}
