@@ -1,1 +1,9 @@
-{"slot": "2026-11-23T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-23T18:48:11+05:00"}
+{"slot": "2026-11-23T19:00:00+05:00", "riseup_day": "2026-11-23", "run_started_pkt": "2026-11-23T18:48:11+05:00", "run_finished_pkt": "2026-11-23T18:49:31+05:00",
+ "test_mode": false,
+ "outcome": "skipped_slot_taken",
+ "story": null, "request_id": null, "card_url": null, "image_attempts": [],
+ "metricool": {}, "music": "none",
+ "stages": {"metricool_read": "getScheduledPosts 18:00-20:00 PKT OK. Non-Story post already at 19:00: Metricool id 438795813 (owner's Musadik Malik Indus remark video reel, FB+IG Reel+TikTok, PENDING). Slot skipped; no news search, no Runway credits used.",
+            "previous_slot_check": "18:00 feed 438745575 (Senate/PEMRA infant formula ads): facebook PUBLISHED https://facebook.com/122185478282855502/posts/122191385840855502, instagram PUBLISHED https://www.instagram.com/p/DgFclm0FVcw/, tiktok PUBLISHED https://www.tiktok.com/@riseuppakistan2025/video/7711352684728667444. Story 438745606 at 18:05: facebook PUBLISHED, instagram PUBLISHED.",
+            "news_search": "not run (slot taken)", "verification": "n/a", "image": "n/a", "publish": "n/a"},
+ "skipped_candidates": [], "errors": []}
