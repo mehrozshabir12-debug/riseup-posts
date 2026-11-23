@@ -13923,5 +13923,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-23",
+  "slot": "2026-11-23T16:00:00+05:00",
+  "request_id": "2026-11-23-portugal-backs-pakistan-gsp-plus-jmc",
+  "layout": "bold",
+  "headline": "Portugal's Foreign Minister Paulo Rangel said Pakistan has Portugal's full support for the EU's GSP+ status, and the two countries agreed to set up a Joint Ministerial Commission during talks with Ishaq Dar in Islamabad, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-delegation-level-talks-in-islamabad",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-delegation-level-talks-in-islamabad",
+    "published_at": "2026-11-23T12:25:46+05:00"
+   }
+  ],
+  "published": "2026-11-23T12:25:46+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 53655553,
+  "image": "posts/2026-11-23-portugal-backs-pakistan-gsp-plus-jmc.jpg",
+  "story": "posts/2026-11-23-portugal-backs-pakistan-gsp-plus-jmc-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-23 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
