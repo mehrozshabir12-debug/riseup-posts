@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-23-portugal-backs-pakistan-gsp-plus-jmc",
+  "type": "news",
+  "headline": "Portugal's Foreign Minister Paulo Rangel said Pakistan has Portugal's full support for the EU's GSP+ status, and the two countries agreed to set up a Joint Ministerial Commission during talks with Ishaq Dar in Islamabad, Dawn reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-delegation-level-talks-in-islamabad",
+      "published_at": "2026-11-23T12:25:46+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/6d6d3d0b-305c-4f42-9335-e1c6c6c94fd9/b76d78bb-1b6e-47b8-80ee-44abc56b5fca/Realistic_documentary_photo_of_a_formal_diplomatic_delegatio.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZjYwYjhhYWMwZWQ2MzA5ZSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTU4MzUzMn0.TyBqINYSv0GyLVrl-v6VZXQTXioTXHZk4p2jUqNGQIk",
+    "head1": "Portugal Backs",
+    "head2_hl": "GSP+",
+    "head2": "For Pakistan",
+    "kicker": "Joint Commission Agreed",
+    "desc": "Pakistan and Portugal to set up joint ministerial commission",
+    "source": "Dawn",
+    "date": "23 NOV 2026"
+  },
+  "caption": "Portugal pledges 'full support' for Pakistan's GSP+ status! 🇵🇰🇵🇹\nAccording to Dawn, Portuguese Foreign Minister Paulo Rangel said on Monday that Pakistan has Portugal's full support for the European Union's GSP+ status, during delegation-level talks in Islamabad with Deputy Prime Minister and Foreign Minister Ishaq Dar. The two ministers agreed to set up a Pakistan-Portugal Joint Ministerial Commission to boost trade and investment. Pakistan's current GSP+ status runs until 2027, and Rangel said this was the first visit to Pakistan by a Portuguese delegation in 19 years.\nWill stronger ties with Europe help Pakistani exports grow? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanPortugal #GSPPlus #Trade #PakistanNews",
+  "tiktok_title": "Portugal backs Pakistan's GSP+ status, joint ministerial commission agreed",
+  "publish": {
+    "slot": "2026-11-23T16:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
