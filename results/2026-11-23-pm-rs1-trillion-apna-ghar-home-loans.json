@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-23-pm-rs1-trillion-apna-ghar-home-loans",
+ "revision": 1,
+ "request": "requests/2026-11-23-pm-rs1-trillion-apna-ghar-home-loans.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif urged banks to disburse Rs1 trillion in subsidised Apna Ghar housing loans over the next six months, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 11 TikTok posts on RiseUp day 2026-11-23; allowed by 22:00 = 7 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-23T22:00:00+05:00",
+ "target_slot": "2026-11-23T22:00:00+05:00",
+ "riseup_day": "2026-11-23",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-pm-rs1-trillion-apna-ghar-home-loans.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-pm-rs1-trillion-apna-ghar-home-loans-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-23-pm-rs1-trillion-apna-ghar-home-loans.jpg",
+  "story": "posts/2026-11-23-pm-rs1-trillion-apna-ghar-home-loans-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 35583883,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PM sets a Rs1 trillion home loan target for banks! 🏠\nAccording to Arab News, Prime Minister Shehbaz Sharif on Monday urged banks to disburse Rs1 trillion ($3.6 billion) in subsidised housing loans under the Apna Ghar programme over the next six months. \"In the next six months, we should have a disbursement of Rs1,000 billion,\" he said at an event marking the programme's first Rs100 billion in payouts. Eligible first-time buyers can borrow up to Rs10 million for up to 20 years, at a subsidised 5 percent rate for the first decade. Finance Ministry figures for Oct. 30 show 17,697 loans worth Rs104 billion issued so far.\nWould you apply for an Apna Ghar loan? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ApnaGhar #HomeLoans #Housing #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-pm-rs1-trillion-apna-ghar-home-loans.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-pm-rs1-trillion-apna-ghar-home-loans-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-23T21:52:07+05:00"
+}
