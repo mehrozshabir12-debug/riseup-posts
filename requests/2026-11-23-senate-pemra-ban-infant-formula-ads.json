@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-23-senate-pemra-ban-infant-formula-ads",
+  "type": "news",
+  "headline": "The Senate Standing Committee on Health directed PEMRA to immediately stop airing infant formula milk advertisements, citing a 2002 law that bars such marketing, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-senate-committee-directs-media-regulator-to-ban-infant-formula-milk-advertising-3007828",
+      "published_at": "2026-11-23T16:32:38+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/91613e00-29d8-4902-94ce-723112396132/b1f066d0-aea8-451f-86a7-0f7a58c52904/Realistic_documentary_photo_inside_a_modest_Pakistani_family.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNTA0ZGYwZDhlNDEyMWJhOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTUyODQwOH0.RdgojVBOHV9_2etwlFBxpnGw204Se21duNF_kU2potI",
+    "head1": "Formula Doodh Ke",
+    "head2_hl": "Ishtehar",
+    "head2": "Band",
+    "kicker": "Senate Committee Ka Hukam",
+    "desc": "Committee ne PEMRA ko TV ads foran rokne ki hidayat di",
+    "source": "Arab News",
+    "date": "23 NOV 2026"
+  },
+  "caption": "TV par formula doodh ke ishtehar band karne ka hukam! 🍼\nArab News ke mutabiq Senate ki Standing Committee on Health ne Monday ko PEMRA ko hidayat di ke infant formula milk ke ishtehar foran band kiye jayein. Committee ne 2002 ke qanoon ka hawala diya jis ke tehat aise ishtehar mana hain. National Institute of Child Health ke Director Dr. Jamal Raza ke mutabiq Pakistan ne 2024 mein taqreeban $60 million ka infant formula import kiya. Wazir-e-Sehat Mustafa Kamal ne kaha ke maa ka doodh bachche ke liye sab se behtar ghiza hai.\nKya TV par formula doodh ke ishtehar band hone chahiyein? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MaaKaDoodh #PEMRA #ChildHealth #PakistanNews",
+  "tiktok_title": "Senate committee ka PEMRA ko formula doodh ke ishtehar band karne ka hukam",
+  "publish": {
+    "slot": "2026-11-23T18:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
