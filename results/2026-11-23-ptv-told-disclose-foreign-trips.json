@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-23-ptv-told-disclose-foreign-trips",
+ "revision": 1,
+ "request": "requests/2026-11-23-ptv-told-disclose-foreign-trips.json",
+ "type": "news",
+ "headline": "The Pakistan Information Commission has ordered Pakistan Television Corporation to disclose details of foreign trips its officials took at public expense since January 2025, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-23T10:00:00+05:00",
+ "target_slot": "2026-11-23T10:00:00+05:00",
+ "riseup_day": "2026-11-23",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-ptv-told-disclose-foreign-trips.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-ptv-told-disclose-foreign-trips-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-23-ptv-told-disclose-foreign-trips.jpg",
+  "story": "posts/2026-11-23-ptv-told-disclose-foreign-trips-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 343328656,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T10:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PTV ordered to reveal details of officials' foreign trips paid with public money! 📝\nAccording to Dawn, the Pakistan Information Commission has ordered Pakistan Television Corporation (PTV) to disclose details of foreign trips taken by its officials at public expense since January 2025. The commission allowed an appeal by journalist and RTI activist Saddia Mazhar and directed PTV's managing director to provide the information within 10 days. It said information about public funds cannot be withheld just because it is labelled confidential or sensitive. PTV had cited security and operational concerns, saying the trips covered prime ministerial visits, high-level engagements and international conferences.\nShould every public institution share how it spends taxpayers' money? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PTV #RightToInformation #Transparency #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-ptv-told-disclose-foreign-trips.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PTV ordered to disclose officials' foreign trips at public expense",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-23T10:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-ptv-told-disclose-foreign-trips-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-23T09:52:51+05:00"
+}
