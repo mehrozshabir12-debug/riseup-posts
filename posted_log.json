@@ -14030,5 +14030,26 @@
     "metricool_ids": [
       438795813
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "slot": "2026-11-23T20:00:00+05:00",
+    "slug": "2026-11-23-toss-controversy-abdul-samad-reel",
+    "headline": "Toss controversy: Abdul Samad calls out referee's mistake (owner reel) — FB + IG Reel + TikTok 20:00",
+    "topic": "Cricket toss mix-up clip, Pakistan vs India",
+    "people": [
+      "Abdul Samad"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      438842335
+    ]
   }
 ]
