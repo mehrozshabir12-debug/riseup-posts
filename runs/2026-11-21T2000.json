@@ -1,8 +1,0 @@
-{"slot": "2026-11-21T20:00:00+05:00", "riseup_day": "2026-11-21", "run_started_pkt": "2026-11-21T19:48:51+05:00", "run_finished_pkt": "2026-11-21T19:49:06+05:00",
- "test_mode": false,
- "outcome": "skipped_slot_taken",
- "story": null, "request_id": null, "card_url": null, "image_attempts": [], "metricool": {}, "music": "none",
- "stages": {"metricool_read": "getScheduledPosts 19:00-21:00 PKT: owner's reel id 436677546 ('Dark web par data bechne wala Karachi ka Batman giraftar', FB+IG REEL, PENDING) already at 20:00, plus its TikTok at 20:15 (id 436679385).",
-            "previous_slot_check": "19:00 owner's podcast reel 436677483 FB+IG PUBLISHED; 19:15 TikTok 436679504 PUBLISHED; 19:30 owner's reel 436677911 FB+IG PUBLISHED; 19:45 TikTok 436679451 PUBLISHED. No errors.",
-            "news_search": "not run (slot taken)", "verification": "not run", "image": "not generated (no Runway credits used)", "publish": "nothing scheduled; owner's posts untouched"},
- "skipped_candidates": [], "errors": []}

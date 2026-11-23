@@ -1,7 +1,0 @@
-{"slot": "2026-11-22T20:00:00+05:00", "riseup_day": "2026-11-22", "run_started_pkt": "2026-11-22T19:47:24+05:00", "run_finished_pkt": "2026-11-22T19:47:41+05:00",
- "test_mode": false,
- "outcome": "skipped_slot_taken",
- "story": null, "request_id": null, "card_url": null, "image_attempts": [],
- "metricool": {}, "music": "none",
- "stages": {"metricool_read": "getScheduledPosts 19:55-20:05 PKT: non-Story post 437604418 (owner's Rajab Butt reel, FB+IG Reel+TikTok, PENDING) at 20:00", "previous_slot_check": "not done (slot taken, run stopped)", "news_search": "not run", "verification": "not run", "image": "no Runway credits used", "publish": "nothing scheduled"},
- "skipped_candidates": [], "errors": []}

@@ -1,20 +1,3 @@
-> 🎯 **19 Nov 2026 — owner's order: MATURE, DECENT TONE in every caption.** Use only decent emojis (e.g. 🤍 📌 🎙️ 📝 👇 🇵🇰).
-> NEVER use laughing emojis (😂 🤣 😆 😅) or flexing/arm emojis (💪). Captions stay serious and respectful, even on light clips.
-
-> 🚀 **18 Nov 2026 — owner's order: EVERY reel gets viral hashtags and goes out at a peak-reach time.**
-> 1. **Hashtags (8–12 per reel):** #RiseUpPakistan first, then 2–3 about the person/topic (e.g. #SulemanSohail,
->    #ImranKhan), 2–3 Pakistan reach tags (#Pakistan #PakistanNews / #PakistaniDrama / #PakistaniYouTuber as fits),
->    2–3 topic tags (#Motivation #Politics #Cricket #Showbiz ...) and 1–2 broad tags (#Viral #Trending #ForYou on
->    TikTok, #ReelsPakistan on Instagram). Only tags that truly match the reel — no unrelated trending tags.
->    Search "trending hashtags Pakistan this week" when a big trend is running and add the matching one.
-> 2. **Posting time (Metricool best-time data for this brand, PKT):** peak slots 10:00 AM, 12:00 PM, 6:00 PM;
->    good slots 4–5 PM and 7 PM. Mon–Thu are strongest; Sat–Sun reach is ~40% lower. Avoid 9 PM–7 AM.
->    When the owner sends a reel, schedule it for the NEXT peak slot (or a good slot if no peak slot is free
->    within ~3 hours); never two reels in the same hour. If it is past 9 PM, schedule for 10:00 AM next day.
->    Exception: truly breaking news that would go stale — post right away and say so. This replaces the
->    13 Nov "post owner reels right away" rule. Always tell the owner the exact time chosen.
-> 3. Keep the TikTok 8/day cap: if the chosen slot is over the cap, move TikTok to the next day's peak slot.
-
 > 🚫 **17 Nov 2026 — owner's order: NO DUPLICATE PHOTO POST FOR A STORY THAT ALREADY HAS A REEL.**
 > On 16 Nov 2026 the Alfaaz/Alan Walker reel went out at 11:44 PM PKT with its cover, and one minute later a
 > separate photo post on the same story went out to Facebook + Instagram. On Facebook it looked like the reel and
