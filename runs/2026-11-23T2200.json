@@ -1,1 +1,62 @@
-{"slot": "2026-11-23T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-23T21:47:42+05:00"}
+{
+ "slot": "2026-11-23T22:00:00+05:00",
+ "riseup_day": "2026-11-23",
+ "run_started_pkt": "2026-11-23T21:47:42+05:00",
+ "run_finished_pkt": "2026-11-23T21:53:00+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif urged banks to disburse Rs1 trillion in subsidised Apna Ghar housing loans over the next six months, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-pushes-banks-beyond-government-debt-with-36-billion-home-loan-target-3007850",
+    "published_at": "2026-11-23T20:00:59+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-23-pm-rs1-trillion-apna-ghar-home-loans",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-pm-rs1-trillion-apna-ghar-home-loans.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok (Runway nano-banana-2-lite task 1906b5dc-344e-45ae-85bf-8221c18b1100)"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 439093994,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7366630100968191270",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 439094184,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=968114455285548893",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "freshness_window": "2h",
+ "stages": {
+  "metricool_read": "getScheduledPosts windows 21 Nov 21:00 .. 24 Nov 10:00 all ok; slot 22:00 free",
+  "previous_slot_check": "No hourly news post at 21:00 (slot skipped_slot_taken). 21:00 Misbah Arshad reel 438869089 and 21:30 Iran spokesperson reel 438924704 PUBLISHED on FB, IG, TikTok.",
+  "daily_counts": "news feed posts today before this: 5 (10,12,14,16,18); TikTok posts today: 11 -> over 8, TikTok skipped (pipeline warning confirms)",
+  "news_search": "Picked Arab News Apna Ghar Rs1tn home-loan target (20:00 PKT). No duplicate in last 48h.",
+  "verification": "Arab News article read; meta published 2026-11-23T15:00:59Z = 20:00:59 PKT, byline 20:00; all figures checked against article",
+  "image": "1 Runway image, no text/logos/public figures",
+  "publish": "feed 22:00 FB+IG POST, story 22:05 FB+IG; card compared with approved 2026-11-13 Ivanhoe card: same layout"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "TCP invites bids to import up to 800,000 tonnes of wheat (Express Tribune)",
+   "reason": "published 16:03 PKT; newer Arab News story within 2h window preferred"
+  }
+ ],
+ "errors": []
+}
