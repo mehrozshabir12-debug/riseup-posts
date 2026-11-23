@@ -1,1 +1,71 @@
-{"slot": "2026-11-23T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-23T17:49:07+05:00"}
+{
+  "slot": "2026-11-23T18:00:00+05:00",
+  "riseup_day": "2026-11-23",
+  "run_started_pkt": "2026-11-23T17:49:07+05:00",
+  "run_finished_pkt": "2026-11-23T17:54:32+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "The Senate Standing Committee on Health directed PEMRA to immediately stop airing infant formula milk advertisements, citing a 2002 law that bars such marketing, Arab News reports.",
+    "sources": [
+      {
+        "outlet": "Arab News",
+        "url": "https://www.arabnews.pk/pakistan/pakistan-senate-committee-directs-media-regulator-to-ban-infant-formula-milk-advertising-3007828",
+        "published_at": "2026-11-23T16:32:38+05:00"
+      }
+    ]
+  },
+  "freshness_window": "2h",
+  "request_id": "2026-11-23-senate-pemra-ban-infant-formula-ads",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-senate-pemra-ban-infant-formula-ads.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "model": "nano-banana-2-lite",
+      "runway_task": "91613e00-29d8-4902-94ce-723112396132"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 438745575,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2294594325575088530",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 438745606,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3836800940885035302",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "reel": {
+    "type": "none"
+  },
+  "stages": {
+    "metricool_read": "Windows 21 Nov 17:00 - 24 Nov 06:00 all read OK; slot 18:00 free; today 4 news posts before this (10,12,14,16), TikTok 4 -> now 5/10 news, 5/8 TikTok.",
+    "previous_slot_check": "No 17:00 slot. 16:00 feed 438598803 FB/IG/TikTok PUBLISHED; story 438598826 FB/IG PUBLISHED.",
+    "news_search": "Arab News infant formula ads story (16:32 PKT) chosen within 2h window; new to page, matters to families.",
+    "verification": "Arab News article read; published_time meta 11:32:38Z = 16:32:38 PKT; names/figures checked (Senate Standing Committee on Health, PEMRA, 2002 ordinance, Dr. Jamal Raza, $60 million 2024 imports, Mustafa Kamal).",
+    "image": "Runway nano-banana-2-lite, 1 attempt, no text/logos, anonymous mother seen from behind.",
+    "publish": "Card compared with 14:00 approved card: same layout. Feed 18:00 + Story 18:05 scheduled, PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Pakistan, Uganda move to expand rice exports (Arab News 15:45)",
+      "reason": "less relevant to ordinary people than formula-ad story"
+    },
+    {
+      "headline": "Dawn latest-news listing",
+      "reason": "cached page (newest item 08:38), not used"
+    }
+  ],
+  "errors": []
+}
