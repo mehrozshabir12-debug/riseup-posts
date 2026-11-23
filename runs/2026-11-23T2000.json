@@ -1,1 +1,7 @@
-{"slot": "2026-11-23T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-23T19:47:45+05:00"}
+{"slot": "2026-11-23T20:00:00+05:00", "riseup_day": "2026-11-23", "run_started_pkt": "2026-11-23T19:47:45+05:00", "run_finished_pkt": "2026-11-23T19:49:14+05:00",
+ "test_mode": false,
+ "outcome": "skipped_slot_taken",
+ "story": null, "request_id": null, "card_url": null, "image_attempts": [],
+ "metricool": {}, "music": "none",
+ "stages": {"metricool_read": "getScheduledPosts 19:00-21:00 PKT ok", "slot_check": "Non-Story post already at 20:00: Metricool id 438842335 (Abdul Samad toss reel, FB+IG+TikTok, PENDING, not created by this run). Slot skipped; nothing moved or edited.", "previous_slot_check": "19:00: Musadik Malik reel id 438795813 PUBLISHED on facebook, instagram, tiktok. No news feed post or Story at 19:00 from the hourly run.", "news_search": "not run (slot taken)", "verification": "n/a", "image": "no Runway credits used", "publish": "nothing scheduled"},
+ "skipped_candidates": [], "errors": []}
