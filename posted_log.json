@@ -14093,5 +14093,27 @@
     "metricool_ids": [
       438869089
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "slot": "2026-11-23T20:15:00+05:00",
+    "slug": "2026-11-23-diljit-dosanjh-munir-niazi-reel",
+    "headline": "Diljit Dosanjh recites Munir Niazi's poetry to protest lyrics ban (Ahmedabad concert; owner reel trimmed from 1:48) — FB + IG Reel + TikTok 20:15",
+    "topic": "Diljit Dosanjh quotes Munir Niazi at Ahmedabad concert amid song-ban demands",
+    "people": [
+      "Diljit Dosanjh",
+      "Munir Niazi"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video; Daily Pakistan, Aaj News",
+    "metricool_ids": [
+      438898852
+    ]
   }
 ]
