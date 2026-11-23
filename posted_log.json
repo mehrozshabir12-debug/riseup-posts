@@ -14072,5 +14072,26 @@
     "metricool_ids": [
       438852941
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "slot": "2026-11-23T21:00:00+05:00",
+    "slug": "2026-11-23-misbah-arshad-miss-universe-markhor-reel",
+    "headline": "Misbah Arshad proudly represents Pakistan at Miss Universe 2026 (Markhor national costume; owner reel) — FB + IG Reel + TikTok 21:00",
+    "topic": "Miss Universe Pakistan national costume (Markhor)",
+    "people": [
+      "Misbah Arshad"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      438869089
+    ]
   }
 ]
