@@ -1,1 +1,73 @@
-{"slot": "2026-11-23T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-23T15:47:50+05:00"}
+{
+  "slot": "2026-11-23T16:00:00+05:00",
+  "riseup_day": "2026-11-23",
+  "run_started_pkt": "2026-11-23T15:47:50+05:00",
+  "run_finished_pkt": "2026-11-23T15:54:33+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Portugal's Foreign Minister Paulo Rangel said Pakistan has Portugal's full support for the EU's GSP+ status, and the two countries agreed to set up a Joint Ministerial Commission during talks with Ishaq Dar in Islamabad, Dawn reports.",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "url": "https://www.dawn.com/news/2046519/pakistan-has-portugals-full-support-for-gsp-status-visiting-fm-says-during-delegation-level-talks-in-islamabad",
+        "published_at": "2026-11-23T12:25:46+05:00"
+      }
+    ]
+  },
+  "freshness_window": "4h",
+  "request_id": "2026-11-23-portugal-backs-pakistan-gsp-plus-jmc",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-portugal-backs-pakistan-gsp-plus-jmc.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "model": "nano-banana-2-lite",
+      "runway_task": "6d6d3d0b-305c-4f42-9335-e1c6c6c94fd9"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 438598803,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7510132908543687568",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 438598826,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1686928178956485791",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "reel": {
+    "type": "none"
+  },
+  "stages": {
+    "metricool_read": "Windows 21 Nov 15:00 - 24 Nov 04:00 all read OK; slot 16:00 free; today 3 news posts (10,12,14), TikTok 3.",
+    "previous_slot_check": "No 15:00 slot. 14:00 feed 438461669 FB/IG/TikTok PUBLISHED; story 438461693 FB/IG PUBLISHED.",
+    "news_search": "Portugal GSP+/JMC talks (Dawn 12:25, upd 14:20 PKT) chosen. Yesterday's 10:00 post covered only the start of Rangel's visit; today's GSP+ support and JMC agreement are new outcomes.",
+    "verification": "Dawn article read; timestamps from meta; all names/facts checked.",
+    "image": "Runway nano-banana-2-lite, 1 attempt, faces blurred, no text.",
+    "publish": "Card compared with 14:00 approved card: same layout. Feed 16:00 + Story 16:05 scheduled, PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Khawaja Asif: new-provinces referendum could come early next year (Arab News 14:53)",
+      "reason": "Statement made Sunday on TV show; first report older than 8h; political"
+    },
+    {
+      "headline": "PSX KSE-100 up ~600 points (Brecorder)",
+      "reason": "Intraday figures still moving"
+    }
+  ],
+  "errors": [
+    "Run-start commit 004a0c6 accidentally removed many repo files (stale shallow-clone tree); restored immediately in 65b8201 (tree identical to 0983537 + run log). No template/automation content changed."
+  ]
+}
