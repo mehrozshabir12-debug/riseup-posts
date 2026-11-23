@@ -1,1 +1,76 @@
-{"slot": "2026-11-23T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-23T22:48:22+05:00"}
+{
+  "slot": "2026-11-23T23:00:00+05:00",
+  "riseup_day": "2026-11-23",
+  "run_started_pkt": "2026-11-23T22:48:22+05:00",
+  "run_finished_pkt": "2026-11-23T22:53:31+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan opened its FoodAg Pakistan 2026 food and agriculture trade show in Karachi with 820 international delegates from 72 countries, Arab News reports.",
+    "sources": [
+      {
+        "outlet": "Arab News",
+        "url": "https://www.arabnews.pk/pakistan/gulf-food-buyers-among-delegates-from-72-countries-at-karachi-trade-show-3007860",
+        "published_at": "2026-11-23T21:20:57+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-23-foodag-pakistan-2026-karachi-72-countries",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-23-foodag-pakistan-2026-karachi-72-countries.jpg",
+  "freshness_window": "2h",
+  "language": "Roman Urdu",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "model": "nano-banana-2-lite",
+      "task_id": "208da209-d7c6-4e12-9964-40d10046c2f7"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 439184445,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8746413386131458824",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 439184469,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=6662708725704902983",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "brand 7305396 Asia/Karachi FB/IG/TikTok connected; all windows 2026-11-21T22:00..2026-11-24T11:00 read OK; slot 23:00 free",
+    "previous_slot_check": "22:00 feed 439093994 FB+IG PUBLISHED; 22:05 story 439094184 FB+IG PUBLISHED",
+    "news_search": "FoodAg Pakistan 2026 opening (Arab News 21:20 PKT) chosen; not covered in last 48h",
+    "verification": "Arab News article read; published 2026-11-23T16:20:57Z = 21:20:57 PKT; all figures from article",
+    "image": "1 Runway image, no text/logos/public figures",
+    "publish": "feed + story scheduled from payloads exactly; TikTok skipped by pipeline (11 TikTok posts today, max 8). Card compared with approved card 2026-11-23-senate-pemra-ban-infant-formula-ads.jpg: same layout"
+  },
+  "counts": {
+    "news_posts_today_incl_this": 7,
+    "tiktok_today": 11
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Pakistan arrests two after overseas alerts on college bomb threat, CSAM (Arab News)",
+      "reason": "sensitive crime/abuse content"
+    },
+    {
+      "headline": "Pakistan, Malaysia defence ties: Munir meets Anwar Ibrahim (Dawn 17:52)",
+      "reason": "older; FoodAg fresher and more relevant to ordinary people"
+    },
+    {
+      "headline": "Referendum on new provinces (Dawn) / Bilawal political unity (Geo)",
+      "reason": "political; neutral alternative preferred"
+    }
+  ],
+  "errors": []
+}
