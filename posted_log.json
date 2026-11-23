@@ -14051,5 +14051,26 @@
     "metricool_ids": [
       438842335
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "slot": "2026-11-23T20:30:00+05:00",
+    "slug": "2026-11-23-nccia-dg-online-responsibility-reel",
+    "headline": "NCCIA chief warns: every click, comment and post carries responsibility (owner reel) — FB + IG Reel + TikTok 20:30",
+    "topic": "NCCIA DG Syed Ali Nasir Rizvi warns social media users",
+    "people": [
+      "Syed Ali Nasir Rizvi"
+    ],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      438852941
+    ]
   }
 ]
