@@ -14115,5 +14115,24 @@
     "metricool_ids": [
       438898852
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "slot": "2026-11-23T21:30:00+05:00",
+    "slug": "2026-11-23-iran-spokesperson-pakistan-friendship-reel",
+    "headline": "Iranian spokesperson says: we are proud of our friendship with Pakistan (owner reel from 6:20, styled like owner's reference; self-made Persian-style bed) — FB + IG Reel + TikTok 21:30",
+    "topic": "Iran spokesperson interview in Islamabad on Pak-Iran friendship",
+    "people": [],
+    "tiktok": true,
+    "reel": true,
+    "networks": {
+      "facebook": "POST(video)",
+      "instagram": "REEL",
+      "tiktok": "VIDEO"
+    },
+    "source": "owner video",
+    "metricool_ids": [
+      438924704
+    ]
   }
 ]
