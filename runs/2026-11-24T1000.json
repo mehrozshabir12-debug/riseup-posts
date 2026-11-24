@@ -1,1 +1,24 @@
-{"slot": "2026-11-24T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T09:49:18+05:00"}
+{
+  "slot": "2026-11-24T10:00:00+05:00",
+  "riseup_day": "2026-11-24",
+  "run_started_pkt": "2026-11-24T09:49:18+05:00",
+  "run_finished_pkt": "2026-11-24T09:49:37+05:00",
+  "test_mode": false,
+  "outcome": "skipped_slot_taken",
+  "story": null,
+  "request_id": null,
+  "card_url": null,
+  "image_attempts": [],
+  "metricool": {},
+  "music": "none",
+  "stages": {
+    "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; window 09:00..11:00 read: non-Story post 439774655 (owner reel, Rana Sanaullah/Mohsin Naqvi, FB+IG+TikTok PENDING) already at 10:00 -> slot taken, stop",
+    "previous_slot_check": "23:00 (23 Nov) feed 439184445 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122191415798855502, https://www.instagram.com/p/DgF_SKEle8C/); 23:05 story 439184469 FB+IG PUBLISHED",
+    "news_search": "not run (slot taken)",
+    "verification": "not run",
+    "image": "not run (no Runway credits used)",
+    "publish": "nothing scheduled; owner's post untouched"
+  },
+  "skipped_candidates": [],
+  "errors": []
+}
