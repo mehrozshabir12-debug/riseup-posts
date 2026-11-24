@@ -1,1 +1,77 @@
-{"slot": "2026-11-24T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T22:46:20+05:00"}
+{
+ "slot": "2026-11-24T23:00:00+05:00",
+ "riseup_day": "2026-11-24",
+ "run_started_pkt": "2026-11-24T22:46:20+05:00",
+ "run_finished_pkt": "2026-11-24T22:51:45+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "The Pakistan Telecommunication Authority has proposed a phased shift of telecom towers to solar, battery and hybrid power to cut diesel use and network outages, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450540/pta-proposes-solar-power-for-telecom-towers-facing-frequent-outages",
+    "published_at": "2026-11-24T22:29:26+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-24-pta-solar-power-telecom-towers",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-pta-solar-power-telecom-towers.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 440661272,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8296855187956647788",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 440661299,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4453135003110689908",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Windows 2026-11-22T22:00..2026-11-25T11:00 all succeeded. Slot 23:00 free. RiseUp day 24 Nov pipeline news posts before this = 4 (14:00, 20:00, 21:00, 22:00); TikTok posts today = 7.",
+  "previous_slot_check": "22:00 feed 440578812 FB/IG/TikTok PUBLISHED; 22:05 story 440578867 FB/IG PUBLISHED.",
+  "news_search": "Newest qualifying story: Business Recorder 22:29 PKT (2h window). Not a duplicate of last 48h.",
+  "verification": "Single approved outlet (Business Recorder); meta published_time 2026-11-24T22:29:26+05:00, modified 22:29:37; PTA, solar/battery/hybrid, 5% outage threshold, 10% highest diesel sites, 1/2/3-year plans, comments by 7 Dec 2026 checked.",
+  "image": "nano-banana-2-lite, 1 attempt, rural telecom tower with solar panels, no readable text or identifiable people.",
+  "publish": "Feed card and story compared with approved 2026-11-13 card: identical layout. Pipeline skipped TikTok (7 by 23:00 limit). Scheduled payloads.feed (FB+IG POST) at 23:00 and payloads.story at 23:05."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Last nationwide polio campaign of 2026 from Dec 12 (Arab News 14:25 PKT)",
+   "reason": "Older than 8h before T."
+  },
+  {
+   "headline": "Balochistan rewards up to Rs250m for wanted terrorists (Dawn 19:14)",
+   "reason": "Older than the newer PTA story; security topic."
+  },
+  {
+   "headline": "Petrol cut by Rs3 (Business Recorder 23 Nov 22:33)",
+   "reason": "Older than 8h."
+  },
+  {
+   "headline": "Sikh pilgrims at Nankana Sahib (Arab News 18:22)",
+   "reason": "Older than the 2h window story chosen."
+  },
+  {
+   "headline": "Abhi Microfinance fintech IPO (Arab News 17:18)",
+   "reason": "Older than the 2h window story chosen."
+  }
+ ],
+ "errors": []
+}
