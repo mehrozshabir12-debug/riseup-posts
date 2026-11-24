@@ -14449,5 +14449,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T22:00:00+05:00",
+  "request_id": "2026-11-24-500m-miga-trade-finance-foreign-banks",
+  "layout": "bold",
+  "headline": "Pakistan's government on Tuesday selected Commerzbank, JP Morgan and Standard Chartered Bank to arrange a $500 million trade finance facility backed by the World Bank Group's MIGA, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
+    "published_at": "2026-11-24T21:08:07+05:00"
+   }
+  ],
+  "published": "2026-11-24T21:08:07+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 795641236,
+  "image": "posts/2026-11-24-500m-miga-trade-finance-foreign-banks.jpg",
+  "story": "posts/2026-11-24-500m-miga-trade-finance-foreign-banks-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-24 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
