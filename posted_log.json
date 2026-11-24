@@ -14322,5 +14322,34 @@
   "metricool_ids": [
    439799230
   ]
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T14:00:00+05:00",
+  "request_id": "2026-11-24-millat-electric-bikes-scooters-nov-29",
+  "layout": "bold",
+  "headline": "Millat Tractors will launch five lithium-ion electric bikes and scooters on November 29, made by its subsidiary Millat Industrial with an annual capacity of 250,000 units, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40450508/millat-tractors-to-launch-lithium-ion-bikes-scooters-on-nov-29-report",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450508/millat-tractors-to-launch-lithium-ion-bikes-scooters-on-nov-29-report",
+    "published_at": "2026-11-24T13:05:17+05:00"
+   }
+  ],
+  "published": "2026-11-24T13:05:17+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 806417939,
+  "image": "posts/2026-11-24-millat-electric-bikes-scooters-nov-29.jpg",
+  "story": "posts/2026-11-24-millat-electric-bikes-scooters-nov-29-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-24 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
