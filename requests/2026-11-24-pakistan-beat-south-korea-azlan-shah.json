@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-24-pakistan-beat-south-korea-azlan-shah",
+  "type": "news",
+  "headline": "Pakistan beat South Korea 3-2 at the Sultan Azlan Shah Cup in Ipoh, Malaysia, on Tuesday to keep their hopes of reaching the final alive, Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2642072/pakistan-down-south-korea-to-keep-final-hopes-alive",
+      "published_at": "2026-11-24T17:41:48+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/7a238a16-b23f-4aee-953f-3970a09301d1/ead59f2d-8a04-4471-adfc-e02997ec85d2/Realistic_photo_of_a_field_hockey_match_at_an_outdoor_stadiu.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNmJkOTEwNTZhNjA4MTU1YyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTY1MDAwNn0.a46dk7_6gbQ17YLUm9wQ8kpPxlJQor2mNbjLtuPvfpI",
+    "head1": "Pakistan Beat",
+    "head2_hl": "South Korea 3-2",
+    "head2": "",
+    "kicker": "Sultan Azlan Shah Cup Hockey",
+    "desc": "Hannan Shahid scores twice; final hopes stay alive",
+    "source": "Express Tribune",
+    "date": "24 NOV 2026"
+  },
+  "caption": "Pakistan hockey team ne South Korea ko 3-2 se hara diya! 🏑\nExpress Tribune ke mutabiq Pakistan ne Tuesday ko Malaysia ke shehar Ipoh mein Sultan Azlan Shah Cup mein South Korea ko 3-2 se shikast di. Pakistan ki taraf se Rana Waheed Ashraf ne ek aur Hannan Shahid ne do goal kiye. Is jeet ke baad Pakistan ke chaar match mein nau points ho gaye hain. Final mein jagah ke liye Pakistan ka muqabla Thursday ko mezban Malaysia se hoga.\nKya Pakistan final tak pohanch jayega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanHockey #AzlanShahCup #GreenShirts #PakistanNews",
+  "tiktok_title": "Pakistan hockey team ne South Korea ko 3-2 se hara diya, final ki umeed zinda",
+  "publish": {
+    "slot": "2026-11-24T21:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
