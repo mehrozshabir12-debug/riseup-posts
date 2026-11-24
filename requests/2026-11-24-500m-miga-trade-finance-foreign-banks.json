@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-24-500m-miga-trade-finance-foreign-banks",
+  "type": "news",
+  "headline": "Pakistan's government on Tuesday selected Commerzbank, JP Morgan and Standard Chartered Bank to arrange a $500 million trade finance facility backed by the World Bank Group's MIGA, Dawn reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
+      "published_at": "2026-11-24T21:08:07+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/22a02dba-7d64-4d91-b7a8-561db4a40ae4/d15f1dff-60ab-4875-b87c-ec40dd388730/Realistic_photo_of_a_busy_container_port_terminal_in_Karachi.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzE3Mzg2YjI3OWUwNzc5MCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTY1NTczMH0.5DwhWG0a2h52cMVAwVAF_1yTgp0TVK0bxhW-Dgp02Nw",
+    "head1": "Pakistan Secures",
+    "head2_hl": "$500m Facility",
+    "head2": "",
+    "kicker": "3 Foreign Banks Selected",
+    "desc": "Commerzbank, JP Morgan, Standard Chartered to fund essential imports",
+    "source": "Dawn",
+    "date": "24 NOV 2026"
+  },
+  "caption": "Pakistan picks 3 global banks for a $500 million facility! 🏦\nAccording to Dawn, the government on Tuesday selected Commerzbank, JP Morgan and Standard Chartered Bank to arrange a $500 million trade finance facility backed by the Multilateral Investment Guarantee Agency (MIGA), part of the World Bank Group. The finance ministry said nine international institutions bid, and the banks were chosen for the most competitive terms. The one-year facility, renewable on a 1+1+1 basis, will help finance essential imports. It is Pakistan's first-ever such deal with MIGA, and the first time Commerzbank and JP Morgan have lent commercially to the government.\nIs this good news for Pakistan's economy? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanEconomy #MIGA #Finance #PakistanNews",
+  "tiktok_title": "Pakistan picks Commerzbank, JP Morgan, Standard Chartered for $500m facility",
+  "publish": {
+    "slot": "2026-11-24T22:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
