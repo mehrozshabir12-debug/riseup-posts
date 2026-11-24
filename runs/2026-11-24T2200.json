@@ -1,1 +1,70 @@
-{"slot": "2026-11-24T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T21:46:50+05:00"}
+{
+ "slot": "2026-11-24T22:00:00+05:00",
+ "riseup_day": "2026-11-24",
+ "run_started_pkt": "2026-11-24T21:46:50+05:00",
+ "run_finished_pkt": "2026-11-24T21:52:12+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan's government on Tuesday selected Commerzbank, JP Morgan and Standard Chartered Bank to arrange a $500 million trade finance facility backed by the World Bank Group's MIGA, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
+    "published_at": "2026-11-24T21:08:07+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-24-500m-miga-trade-finance-foreign-banks",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-500m-miga-trade-finance-foreign-banks.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 440578812,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5532528499072938368",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 440578867,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6936161442734323390",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Full history read in windows 2026-11-22T21:00..2026-11-25T10:00, all succeeded. Slot 22:00 free. RiseUp day 24 Nov pipeline news posts before this = 3 (14:00, 20:00, 21:00); pipeline included TikTok.",
+  "previous_slot_check": "21:00 feed 440494745 FB/IG PUBLISHED; 21:05 story 440494804 FB/IG PUBLISHED.",
+  "news_search": "Newest qualifying story: Dawn business 21:08 PKT (2h window). Not a duplicate of last 48h.",
+  "verification": "Single approved outlet (Dawn); meta published_time 2026-11-24T21:08:07+05:00, modified 21:12:42; banks, $500m, MIGA, nine bidders, 1+1+1 renewal, first-ever MIGA deal checked.",
+  "image": "nano-banana-2-lite, 1 attempt, generic port/container scene, no readable text or identifiable people.",
+  "publish": "Feed card and story compared with approved 2026-11-13 card: identical layout. Scheduled payloads.feed (FB+IG POST+TikTok) at 22:00 and payloads.story at 22:05."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Sindh Youth Card launched (Dawn 06:48)",
+   "reason": "Older than 8h before T."
+  },
+  {
+   "headline": "Five militants killed in KP gunfight (Arab News)",
+   "reason": "Violence; lower priority for ordinary readers."
+  },
+  {
+   "headline": "Social media registration plan (Arab News)",
+   "reason": "Duplicate of 20:00 post."
+  }
+ ],
+ "errors": []
+}
