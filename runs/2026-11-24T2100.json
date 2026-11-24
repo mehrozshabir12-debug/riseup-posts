@@ -1,1 +1,73 @@
-{"slot": "2026-11-24T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T20:46:36+05:00"}
+{
+ "slot": "2026-11-24T21:00:00+05:00",
+ "riseup_day": "2026-11-24",
+ "run_started_pkt": "2026-11-24T20:46:36+05:00",
+ "run_finished_pkt": "2026-11-24T20:52:47+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "4h",
+ "story": {
+  "headline": "Pakistan beat South Korea 3-2 at the Sultan Azlan Shah Cup in Ipoh, Malaysia, on Tuesday to keep their hopes of reaching the final alive, Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642072/pakistan-down-south-korea-to-keep-final-hopes-alive",
+    "published_at": "2026-11-24T17:41:48+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-24-pakistan-beat-south-korea-azlan-shah",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-pakistan-beat-south-korea-azlan-shah.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 440494745,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2323802540152538560",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 440494804,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2040033435226910961",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Full 48h history read in windows (2026-11-22T20:00..2026-11-25T09:00), all succeeded. Slot 21:00 free. RiseUp day 24 Nov: pipeline news feed posts before this = 2 (14:00, 20:00); TikTok posts = 6 (pipeline skipped TikTok: allowed by 21:00 = 6).",
+  "previous_slot_check": "20:00 feed 440405499 FB/IG/TikTok PUBLISHED; 20:05 story 440405683 FB/IG PUBLISHED.",
+  "news_search": "Chose newest qualifying story (Tribune 17:41 PKT, 4h window). Not a duplicate of last 48h.",
+  "verification": "Single approved outlet (Express Tribune); timestamp read from article meta 2026-11-24T12:41:48Z; scorers, score, venue, points, next match checked.",
+  "image": "nano-banana-2-lite, 1 attempt, generic hockey scene, no readable text or identifiable people.",
+  "publish": "Card and story compared with approved 2026-11-13 card: identical layout. Scheduled payloads.feed (FB+IG POST) at 21:00 and payloads.story at 21:05."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Zeeshan Ali named first Pakistani astronaut on Shenzhou-24 (Dawn/Tribune)",
+   "reason": "First reported 06:14 PKT, older than 8h before T."
+  },
+  {
+   "headline": "OICCI business confidence turns negative (Business Recorder 15:19)",
+   "reason": "Older (6h window) than the hockey story."
+  },
+  {
+   "headline": "Petrol cut by Rs3 per litre (Business Recorder)",
+   "reason": "Published 23 Nov 22:33 PKT, older than 8h."
+  },
+  {
+   "headline": "Punjab Assembly blasphemy resolution / PM notice of cabinet statements",
+   "reason": "Sensitive/political; Naqvi–Sanaullah spat already covered by 10:00 reel."
+  }
+ ],
+ "errors": []
+}
