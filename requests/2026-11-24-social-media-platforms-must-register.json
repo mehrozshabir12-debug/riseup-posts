@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-24-social-media-platforms-must-register",
+  "type": "news",
+  "headline": "Interior Minister Mohsin Naqvi said Pakistan plans to require social media platforms to register with a new regulator and appoint representatives, saying only 47% of counter-terrorism departments' requests are acted upon, Arab News reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-plans-mandatory-registration-for-social-media-platforms-3007928",
+      "published_at": "2026-11-24T18:28:14+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/22cb7165-a5a4-4c48-b6eb-2b64e816f04b/64fb779d-0ddc-4693-bf0c-768535107f32/Realistic_documentary_photo_of_young_anonymous_Pakistani_men.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOGQ2NTIwNWI0MWMwZDk0ZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTY2NzY3NX0.fdWgzJU6WjOKqS2iLBC-Hz0mDYzGUYC_DP662-VNUig",
+    "head1": "Social Media Platforms",
+    "head2_hl": "Must Register",
+    "head2": "",
+    "kicker": "Interior Minister's New Plan",
+    "desc": "Naqvi: only 47% of counter-terrorism requests acted upon",
+    "source": "Arab News",
+    "date": "24 NOV 2026"
+  },
+  "caption": "Pakistan plans to make social media platforms register! 📱\nAccording to Arab News, Interior Minister Mohsin Naqvi said on Tuesday that Pakistan plans to require social media companies to register with a new regulator and appoint representatives to deal with Pakistani authorities. Speaking at a Sustainable Development Policy Institute seminar in Islamabad, attended by representatives of Meta and TikTok, he said only 47% of requests from counter-terrorism departments are acted upon by the platforms. Registration would also apply to streaming services and major content creators; no deadline was given. \"Blocking a whole platform will remain a last resort,\" Naqvi said.\nShould social media companies have representatives in Pakistan? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SocialMedia #DigitalPakistan #TechNews #PakistanNews",
+  "tiktok_title": "Pakistan plans to make social media platforms register, says Interior Minister",
+  "publish": {
+    "slot": "2026-11-24T20:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
