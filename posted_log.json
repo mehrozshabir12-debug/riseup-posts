@@ -14218,5 +14218,27 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T10:00:00+05:00",
+  "slug": "2026-11-24-rana-sanaullah-mohsin-naqvi-reel",
+  "headline": "Rana Sanaullah responds to Mohsin Naqvi on new provinces issue (owner audio over muted Naqvi clip, background music) — FB + IG Reel + TikTok 10:00",
+  "topic": "Rana Sanaullah vs Mohsin Naqvi on new provinces",
+  "people": [
+   "Rana Sanaullah",
+   "Mohsin Naqvi"
+  ],
+  "tiktok": true,
+  "reel": true,
+  "networks": {
+   "facebook": "POST(video)",
+   "instagram": "REEL",
+   "tiktok": "VIDEO"
+  },
+  "source": "owner video; Samaa TV, Express Tribune",
+  "metricool_ids": [
+   439774655
+  ]
  }
 ]
