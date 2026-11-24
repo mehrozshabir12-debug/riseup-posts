@@ -1,1 +1,24 @@
-{"slot": "2026-11-24T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T15:45:37+05:00"}
+{
+  "slot": "2026-11-24T16:00:00+05:00",
+  "outcome": "skipped_slot_taken",
+  "run_started_pkt": "2026-11-24T15:45:37+05:00",
+  "riseup_day": "2026-11-24",
+  "run_finished_pkt": "2026-11-24T15:45:51+05:00",
+  "test_mode": false,
+  "story": null,
+  "request_id": null,
+  "card_url": null,
+  "image_attempts": [],
+  "metricool": {},
+  "music": "none",
+  "stages": {
+    "metricool_read": "window 15:00..17:00: owner's Sahil Adeem co-education REEL id 439799230 at 16:00 (FB+IG+TikTok PENDING, created by owner) -> slot taken",
+    "previous_slot_check": "no 15:00 slot; 14:00 Millat post no longer in scheduled list (left scheduled queue)",
+    "news_search": "not run (slot taken)",
+    "verification": "n/a",
+    "image": "n/a (no Runway credits used)",
+    "publish": "nothing scheduled; owner's post untouched"
+  },
+  "skipped_candidates": [],
+  "errors": []
+}
