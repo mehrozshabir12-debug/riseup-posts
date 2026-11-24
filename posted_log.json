@@ -14261,5 +14261,24 @@
   "metricool_ids": [
    439782715
   ]
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T18:00:00+05:00",
+  "slug": "2026-11-24-makhiyon-ki-nazar-mendak-reel",
+  "headline": "Motivational owner reel: Makhiyon ki nazar mein mendak hi jungle ka badshah, sher nahi (original audio) — FB + IG Reel + TikTok 18:00",
+  "topic": "Motivational saying reel",
+  "people": [],
+  "tiktok": true,
+  "reel": true,
+  "networks": {
+   "facebook": "POST(video)",
+   "instagram": "REEL",
+   "tiktok": "VIDEO"
+  },
+  "source": "owner video",
+  "metricool_ids": [
+   439792617
+  ]
  }
 ]
