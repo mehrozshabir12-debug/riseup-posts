@@ -14280,5 +14280,26 @@
   "metricool_ids": [
    439792617
   ]
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T19:00:00+05:00",
+  "slug": "2026-11-24-shehzad-dogar-shadiyan-reel",
+  "headline": "Shehzad Dogar talks about his marriages in an interview (owner reel, watermarks/collage cropped out) — FB + IG Reel + TikTok 19:00",
+  "topic": "Shehzad Dogar interview on his marriages",
+  "people": [
+   "Shehzad Dogar"
+  ],
+  "tiktok": true,
+  "reel": true,
+  "networks": {
+   "facebook": "POST(video)",
+   "instagram": "REEL",
+   "tiktok": "VIDEO"
+  },
+  "source": "owner video",
+  "metricool_ids": [
+   439796657
+  ]
  }
 ]
