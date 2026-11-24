@@ -14301,5 +14301,26 @@
   "metricool_ids": [
    439796657
   ]
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T16:00:00+05:00",
+  "slug": "2026-11-24-sahil-adeem-co-education-reel",
+  "headline": "Sahil Adeem claims co-education will be banned in Pakistan (owner reel, speaker-focus edit, background music) — FB + IG Reel + TikTok 16:00",
+  "topic": "Sahil Adeem interview on co-education",
+  "people": [
+   "Sahil Adeem"
+  ],
+  "tiktok": true,
+  "reel": true,
+  "networks": {
+   "facebook": "POST(video)",
+   "instagram": "REEL",
+   "tiktok": "VIDEO"
+  },
+  "source": "owner video",
+  "metricool_ids": [
+   439799230
+  ]
  }
 ]
