@@ -14364,5 +14364,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T20:00:00+05:00",
+  "request_id": "2026-11-24-social-media-platforms-must-register",
+  "layout": "bold",
+  "headline": "Interior Minister Mohsin Naqvi said Pakistan plans to require social media platforms to register with a new regulator and appoint representatives, saying only 47% of counter-terrorism departments' requests are acted upon, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-plans-mandatory-registration-for-social-media-platforms-3007928",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-plans-mandatory-registration-for-social-media-platforms-3007928",
+    "published_at": "2026-11-24T18:28:14+05:00"
+   }
+  ],
+  "published": "2026-11-24T18:28:14+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 60846122,
+  "image": "posts/2026-11-24-social-media-platforms-must-register.jpg",
+  "story": "posts/2026-11-24-social-media-platforms-must-register-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-24 20:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

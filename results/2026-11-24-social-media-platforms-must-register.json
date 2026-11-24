@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-24-social-media-platforms-must-register",
+ "revision": 1,
+ "request": "requests/2026-11-24-social-media-platforms-must-register.json",
+ "type": "news",
+ "headline": "Interior Minister Mohsin Naqvi said Pakistan plans to require social media platforms to register with a new regulator and appoint representatives, saying only 47% of counter-terrorism departments' requests are acted upon, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-24T20:00:00+05:00",
+ "target_slot": "2026-11-24T20:00:00+05:00",
+ "riseup_day": "2026-11-24",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-social-media-platforms-must-register.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-social-media-platforms-must-register-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-24-social-media-platforms-must-register.jpg",
+  "story": "posts/2026-11-24-social-media-platforms-must-register-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 60846122,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-24T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan plans to make social media platforms register! 📱\nAccording to Arab News, Interior Minister Mohsin Naqvi said on Tuesday that Pakistan plans to require social media companies to register with a new regulator and appoint representatives to deal with Pakistani authorities. Speaking at a Sustainable Development Policy Institute seminar in Islamabad, attended by representatives of Meta and TikTok, he said only 47% of requests from counter-terrorism departments are acted upon by the platforms. Registration would also apply to streaming services and major content creators; no deadline was given. \"Blocking a whole platform will remain a last resort,\" Naqvi said.\nShould social media companies have representatives in Pakistan? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SocialMedia #DigitalPakistan #TechNews #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-social-media-platforms-must-register.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan plans to make social media platforms register, says Interior Minister",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-24T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-social-media-platforms-must-register-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-24T19:50:51+05:00"
+}
