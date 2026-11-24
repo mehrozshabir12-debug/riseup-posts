@@ -1,1 +1,69 @@
-{"slot": "2026-11-24T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T13:46:20+05:00"}
+{
+  "slot": "2026-11-24T14:00:00+05:00",
+  "riseup_day": "2026-11-24",
+  "run_started_pkt": "2026-11-24T13:46:20+05:00",
+  "run_finished_pkt": "2026-11-24T13:51:42+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "freshness_window": "2h",
+  "story": {
+    "headline": "Millat Tractors will launch five lithium-ion electric bikes and scooters on November 29, made by its subsidiary Millat Industrial with an annual capacity of 250,000 units, Business Recorder reports.",
+    "sources": [
+      {
+        "outlet": "Business Recorder",
+        "url": "https://www.brecorder.com/news/40450508/millat-tractors-to-launch-lithium-ion-bikes-scooters-on-nov-29-report",
+        "published_at": "2026-11-24T13:05:17+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-24-millat-electric-bikes-scooters-nov-29",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-millat-electric-bikes-scooters-nov-29.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 439966391,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3190579900598535674",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 439966417,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7119273808235679310",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "13:00..15:00 empty (slot free); 6h windows 2026-11-22T13:00..2026-11-25T02:00 all read OK. Today: 0 news feed posts before this; owner reels 10:00,12:00 (published) and 16:00,18:00,19:00 (pending), 5 TikTok",
+    "previous_slot_check": "no 13:00 slot; 12:00 owner reel 439782715 FB+IG+TikTok PUBLISHED",
+    "news_search": "picked Business Recorder 13:05 PKT Millat e-bikes (2h window); also seen: BR PM tells ministers to stop public criticism 13:04 (same Naqvi/Sanaullah event as owner's 10:00 reel), Arab News Portugal investment MoU 12:05 (follow-up of 23 Nov Portugal GSP+ post), Arab News fuel dealers 15-day shutdown warning 08:04 (older)",
+    "verification": "article read; timestamp from meta 2026-11-24T13:05:17+05:00 (updated 13:10); all figures from article",
+    "image": "Runway nano-banana-2-lite, 1 attempt, no text/logos/public figures",
+    "publish": "pipeline skipped TikTok (allowed by 14:00 = 3, already 5); feed FB+IG POST at 14:00, Story FB+IG at 14:05; card compared with 2026-11-13 approved card: same layout"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "PM directs ministers to stop public criticism of cabinet colleagues",
+      "reason": "same Naqvi-Sanaullah event as owner's 10:00 reel"
+    },
+    {
+      "headline": "Portugal, Pakistan sign investment protection MoU",
+      "reason": "same Rangel visit posted 23 Nov 16:00; less relevant than e-bikes"
+    },
+    {
+      "headline": "Fuel dealers threaten nationwide shutdown in 15 days",
+      "reason": "published 08:04, fresher story available"
+    }
+  ],
+  "errors": []
+}
