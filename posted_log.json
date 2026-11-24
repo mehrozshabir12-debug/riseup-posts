@@ -14240,5 +14240,26 @@
   "metricool_ids": [
    439774655
   ]
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T12:00:00+05:00",
+  "slug": "2026-11-24-jensen-huang-nvidia-wapsi-reel",
+  "headline": "Jensen Huang returns to Nvidia as CEO 11 days after resigning; shares ~30% up (owner reel, English text, background music) — FB + IG Reel + TikTok 12:00",
+  "topic": "Jensen Huang reinstated as Nvidia CEO",
+  "people": [
+   "Jensen Huang"
+  ],
+  "tiktok": true,
+  "reel": true,
+  "networks": {
+   "facebook": "POST(video)",
+   "instagram": "REEL",
+   "tiktok": "VIDEO"
+  },
+  "source": "owner video; TIME, Gizmodo, TheWrap",
+  "metricool_ids": [
+   439782715
+  ]
  }
 ]
