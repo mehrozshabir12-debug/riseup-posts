@@ -1,1 +1,24 @@
-{"slot": "2026-11-24T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T18:47:00+05:00"}
+{
+  "slot": "2026-11-24T19:00:00+05:00",
+  "riseup_day": "2026-11-24",
+  "run_started_pkt": "2026-11-24T18:47:00+05:00",
+  "run_finished_pkt": "2026-11-24T18:47:26+05:00",
+  "test_mode": false,
+  "outcome": "skipped_slot_taken",
+  "story": null,
+  "request_id": null,
+  "card_url": null,
+  "image_attempts": [],
+  "metricool": {},
+  "music": "none",
+  "stages": {
+    "metricool_read": "window 18:00..20:00 read: non-Story post 439796657 (owner reel, Shehzad Dogar interview, FB+IG+TikTok PENDING) already at 19:00 -> slot taken, stop.",
+    "previous_slot_check": "18:00 slot was owner reel 439792617: facebook, instagram, tiktok all PUBLISHED (no RiseUp news post to verify)",
+    "news_search": "not run (slot taken)",
+    "verification": "not run",
+    "image": "not run (no Runway credits used)",
+    "publish": "nothing scheduled; owner's posts untouched"
+  },
+  "skipped_candidates": [],
+  "errors": []
+}
