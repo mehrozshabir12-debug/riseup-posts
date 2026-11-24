@@ -14492,5 +14492,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T23:00:00+05:00",
+  "request_id": "2026-11-24-pta-solar-power-telecom-towers",
+  "layout": "bold",
+  "headline": "The Pakistan Telecommunication Authority has proposed a phased shift of telecom towers to solar, battery and hybrid power to cut diesel use and network outages, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40450540/pta-proposes-solar-power-for-telecom-towers-facing-frequent-outages",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450540/pta-proposes-solar-power-for-telecom-towers-facing-frequent-outages",
+    "published_at": "2026-11-24T22:29:26+05:00"
+   }
+  ],
+  "published": "2026-11-24T22:29:26+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 650962837,
+  "image": "posts/2026-11-24-pta-solar-power-telecom-towers.jpg",
+  "story": "posts/2026-11-24-pta-solar-power-telecom-towers-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-24 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
