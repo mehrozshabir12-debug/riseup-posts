@@ -1,1 +1,24 @@
-{"slot": "2026-11-24T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T11:47:09+05:00"}
+{
+  "slot": "2026-11-24T12:00:00+05:00",
+  "riseup_day": "2026-11-24",
+  "run_started_pkt": "2026-11-24T11:47:09+05:00",
+  "run_finished_pkt": "2026-11-24T11:47:26+05:00",
+  "test_mode": false,
+  "outcome": "skipped_slot_taken",
+  "story": null,
+  "request_id": null,
+  "card_url": null,
+  "image_attempts": [],
+  "metricool": {},
+  "music": "none",
+  "stages": {
+    "metricool_read": "window 11:00..13:00 read: non-Story post 439782715 (owner reel, Jensen Huang/NVIDIA, FB+IG+TikTok PENDING) already at 12:00 -> slot taken, stop",
+    "previous_slot_check": "10:00 owner reel 439774655 FB+IG+TikTok PUBLISHED (https://facebook.com/122185478282855502/posts/1150572571054133, https://www.instagram.com/reel/DgHKHhLCCEH/, https://www.tiktok.com/@riseuppakistan2025/video/7711599137946340628); no 11:00 slot",
+    "news_search": "not run (slot taken)",
+    "verification": "not run",
+    "image": "not run (no Runway credits used)",
+    "publish": "nothing scheduled; owner's post untouched"
+  },
+  "skipped_candidates": [],
+  "errors": []
+}
