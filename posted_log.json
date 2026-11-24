@@ -14407,5 +14407,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-24",
+  "slot": "2026-11-24T21:00:00+05:00",
+  "request_id": "2026-11-24-pakistan-beat-south-korea-azlan-shah",
+  "layout": "bold",
+  "headline": "Pakistan beat South Korea 3-2 at the Sultan Azlan Shah Cup in Ipoh, Malaysia, on Tuesday to keep their hopes of reaching the final alive, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2642072/pakistan-down-south-korea-to-keep-final-hopes-alive",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642072/pakistan-down-south-korea-to-keep-final-hopes-alive",
+    "published_at": "2026-11-24T17:41:48+05:00"
+   }
+  ],
+  "published": "2026-11-24T17:41:48+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 786581338,
+  "image": "posts/2026-11-24-pakistan-beat-south-korea-azlan-shah.jpg",
+  "story": "posts/2026-11-24-pakistan-beat-south-korea-azlan-shah-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-24 21:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
