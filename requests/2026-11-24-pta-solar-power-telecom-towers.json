@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-24-pta-solar-power-telecom-towers",
+  "type": "news",
+  "headline": "The Pakistan Telecommunication Authority has proposed a phased shift of telecom towers to solar, battery and hybrid power to cut diesel use and network outages, Business Recorder reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40450540/pta-proposes-solar-power-for-telecom-towers-facing-frequent-outages",
+      "published_at": "2026-11-24T22:29:26+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/e60dc0ba-4496-4efb-b3fa-2efad1309373/ac60c7c4-cb2d-49bf-bf23-e204f31d357b/Realistic_photo_of_a_tall_mobile_telecom_tower_in_a_rural_Pa.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiN2NjMDFmZGRmZTgwZjY4NyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTY2MzQ1M30.hvqjVPA5g9so6Ey0YCRn8hbbFLjDyl2ER6Y6zNqZOYU",
+    "head1": "Solar Power For",
+    "head2_hl": "Mobile Towers",
+    "head2": "",
+    "kicker": "PTA Proposes New Plan",
+    "desc": "Plan aims to cut diesel use and network outages",
+    "source": "Business Recorder",
+    "date": "24 NOV 2026"
+  },
+  "caption": "Mobile towers ab solar par chalenge? 📶\nBusiness Recorder ke mutabiq Pakistan Telecommunication Authority (PTA) ne tajweez di hai ke mobile towers ko qadam ba qadam solar, battery aur hybrid bijli par chalaya jaye, taake diesel ka istemal aur network outages kam hon. PTA ke mutabiq jin sites par ek mahine mein 5% ya us se zyada outage ho, unhein high-outage sites mana jayega. Mobile companies ko ek, do ya teen saal ki timeline ke sath investment plan dena hoga, aur sab se zyada diesel istemal karne wali 10% sites par diesel kam karne ka plan bhi. Industry 7 December 2026 tak apni raye de sakti hai.\nKya aap ke ilaqe mein bhi bijli jane par mobile signal chala jata hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PTA #SolarEnergy #MobileNetwork #PakistanNews",
+  "tiktok_title": "PTA ki tajweez: mobile towers solar aur battery par chalein",
+  "publish": {
+    "slot": "2026-11-24T23:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
