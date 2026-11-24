@@ -1,1 +1,67 @@
-{"slot": "2026-11-24T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T19:46:59+05:00"}
+{
+  "slot": "2026-11-24T20:00:00+05:00",
+  "riseup_day": "2026-11-24",
+  "run_started_pkt": "2026-11-24T19:46:50+05:00",
+  "run_finished_pkt": "2026-11-24T19:51:48+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Interior Minister Mohsin Naqvi said Pakistan plans to require social media platforms to register with a new regulator and appoint representatives, saying only 47% of counter-terrorism departments' requests are acted upon, Arab News reports.",
+    "sources": [
+      {
+        "outlet": "Arab News",
+        "url": "https://www.arabnews.pk/pakistan/pakistan-plans-mandatory-registration-for-social-media-platforms-3007928",
+        "published_at": "2026-11-24T18:28:14+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-24-social-media-platforms-must-register",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-24-social-media-platforms-must-register.jpg",
+  "freshness_window": "2h",
+  "language": "English",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 440405499,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1437942019466347664",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 440405683,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2842898569324574436",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "All 6h windows 22 Nov 19:00 .. 25 Nov 09:00 read OK. No post at 20:00 -> slot free. Today's news feed posts before this: 1 (14:00 Millat); posts incl. TikTok today: 5 owner reels -> TikTok allowed.",
+    "previous_slot_check": "19:00 slot was owner reel 439796657 (Shehzad Dogar): facebook PUBLISHED, instagram PUBLISHED, tiktok AWAITING_CONFIRMATION (Published:7711739349863270420) - not our post, untouched.",
+    "news_search": "Arab News social media registration plan (published 18:28 PKT, updated 19:32 PKT) chosen; 2h window.",
+    "verification": "Single approved outlet (Arab News); timestamps read from article meta (13:28:14Z published, 14:32:54Z modified). Names/figures (Mohsin Naqvi, 47%, SDPI, Meta, TikTok, no deadline) checked against article. Not a duplicate: NCCIA DG reel 23 Nov and Rana Sanaullah reel 24 Nov are different events.",
+    "image": "Runway nano-banana-2-lite, 1 image, task 22cb7165-a5a4-4c48-b6eb-2b64e816f04b; anonymous youths with phones in cafe, no text.",
+    "publish": "Card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: identical approved layout. Feed 440405499 (FB+IG+TikTok) at 20:00, Story 440405683 (FB+IG) at 20:05, all PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Foreign investor confidence in Pakistan slumps (OICCI survey)",
+      "reason": "published 16:58 PKT, fresher story available"
+    },
+    {
+      "headline": "Petroleum dealers warn of another strike",
+      "reason": "published 07:58, outside freshness window; similar story skipped at 14:00"
+    }
+  ],
+  "errors": []
+}
