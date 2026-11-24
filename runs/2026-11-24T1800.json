@@ -1,1 +1,24 @@
-{"slot": "2026-11-24T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-24T17:46:41+05:00"}
+{
+  "slot": "2026-11-24T18:00:00+05:00",
+  "riseup_day": "2026-11-24",
+  "run_started_pkt": "2026-11-24T17:46:41+05:00",
+  "run_finished_pkt": "2026-11-24T17:46:56+05:00",
+  "test_mode": false,
+  "outcome": "skipped_slot_taken",
+  "story": null,
+  "request_id": null,
+  "card_url": null,
+  "image_attempts": [],
+  "metricool": {},
+  "music": "none",
+  "stages": {
+    "metricool_read": "window 17:00..19:00 read: non-Story post 439792617 (owner reel, 'Makhiyon ki nazar mein mendak...' motivation, FB+IG+TikTok PENDING) already at 18:00 -> slot taken, stop. Also owner reel 439796657 (Shehzad Dogar interview) at 19:00.",
+    "previous_slot_check": "16:00 slot was an owner reel (no RiseUp news post to verify); no 17:00 slot",
+    "news_search": "not run (slot taken)",
+    "verification": "not run",
+    "image": "not run (no Runway credits used)",
+    "publish": "nothing scheduled; owner's posts untouched"
+  },
+  "skipped_candidates": [],
+  "errors": []
+}
