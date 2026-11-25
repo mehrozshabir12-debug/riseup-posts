@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-25-pm-approves-nccia-restructuring",
+ "revision": 1,
+ "request": "requests/2026-11-25-pm-approves-nccia-restructuring.json",
+ "type": "news",
+ "headline": "Prime Minister Shehbaz Sharif approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA) and directed the appointment of IT and AI experts and swift resolution of pending cybercrime cases, Dawn reports.",
+ "warnings": [
+  "TikTok skipped: 6 TikTok posts on RiseUp day 2026-11-25; allowed by 19:00 = 5 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-25T19:00:00+05:00",
+ "target_slot": "2026-11-25T19:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pm-approves-nccia-restructuring.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pm-approves-nccia-restructuring-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-25-pm-approves-nccia-restructuring.jpg",
+  "story": "posts/2026-11-25-pm-approves-nccia-restructuring-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 628294784,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-25T19:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PM orders an overhaul of Pakistan's cybercrime agency! 💻\nAccording to Dawn, Prime Minister Shehbaz Sharif on Wednesday approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA) and directed that IT and AI experts be appointed at the agency and all its offices, with recruitment strictly on merit. He ordered that all resources be used to resolve pending cybercrime cases. A committee of federal ministers Mohsin Naqvi, Azam Nazeer Tarar, Muhammad Aurangzeb and Shaza Fatima Khawaja will review the reform proposals and submit recommendations by the end of this week. A proposal to turn the NCCIA into a national-level \"Pakistan Cyber Police\" was also presented.\nHave you or someone you know faced online fraud? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #NCCIA #CyberCrime #DigitalPakistan #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pm-approves-nccia-restructuring.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-25T19:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pm-approves-nccia-restructuring-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-25T18:51:13+05:00"
+}

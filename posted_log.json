@@ -14808,5 +14808,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T19:00:00+05:00",
+  "request_id": "2026-11-25-pm-approves-nccia-restructuring",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA) and directed the appointment of IT and AI experts and swift resolution of pending cybercrime cases, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+    "published_at": "2026-11-25T13:55:46+05:00"
+   }
+  ],
+  "published": "2026-11-25T13:55:46+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 628294784,
+  "image": "posts/2026-11-25-pm-approves-nccia-restructuring.jpg",
+  "story": "posts/2026-11-25-pm-approves-nccia-restructuring-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-25 19:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
