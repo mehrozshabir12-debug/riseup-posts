@@ -14620,5 +14620,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T14:00:00+05:00",
+  "request_id": "2026-11-25-pakistan-first-tuna-quota-maldives",
+  "layout": "bold",
+  "headline": "Pakistan has secured a 25,000-tonne tuna quota from the Indian Ocean Tuna Commission for the first time and invited the Maldives to invest in tuna processing, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40450681/pakistan-secures-first-tuna-quota-eyes-maldives-investment",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450681/pakistan-secures-first-tuna-quota-eyes-maldives-investment",
+    "published_at": "2026-11-25T12:54:14+05:00"
+   }
+  ],
+  "published": "2026-11-25T12:54:14+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 458162741,
+  "image": "posts/2026-11-25-pakistan-first-tuna-quota-maldives.jpg",
+  "story": "posts/2026-11-25-pakistan-first-tuna-quota-maldives-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-25 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
