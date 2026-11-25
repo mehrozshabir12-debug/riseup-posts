@@ -1,1 +1,73 @@
-{"slot": "2026-11-25T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-25T20:47:28+05:00"}
+{
+ "slot": "2026-11-25T21:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "run_started_pkt": "2026-11-25T20:47:28+05:00",
+ "run_finished_pkt": "2026-11-25T20:53:02+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "All four Pakistani cueists, Rana Irfan, Asjad Iqbal, Muhammad Asif and Mubashir Raza, reached the quarterfinals of the IBSF Men's World Cup 2026 in Muscat, Oman, after winning their pre-quarterfinal matches, Express Tribune reports.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642309/pakistan-cueists-storm-into-world-cup-quarter-finals",
+    "published_at": "2026-11-25T19:34:34+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-25-pakistan-cueists-world-cup-quarterfinals",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pakistan-cueists-world-cup-quarterfinals.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 441936992,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4911170917761071199",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 441937020,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4076569986174138896",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; windows 23 Nov 20:00 - 26 Nov 09:00 all read OK; slot 21:00 free; news feed posts today before this: 7 (cap 10)",
+  "previous_slot_check": "20:00 feed 441853318 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122191625486855502, https://www.instagram.com/p/DgKz6_nlQ7N/); 20:05 story 441853353 FB+IG PUBLISHED",
+  "news_search": "Searched dawn.com, tribune.com.pk, arabnews.pk, geo.tv, brecorder.com. 2h window (19:00-21:00) had Express Tribune cueists quarterfinal story (19:34 PKT) and Dawn NCCIA call-centre bust (19:48); cueists chosen (NCCIA already featured at 19:00).",
+  "verification": "Single approved outlet (Express Tribune) read in full; article:published_time 2026-11-25T14:34:34Z = 19:34 PKT; four players, opponents and scores (Irfan 4-0 Aditya Mehta, Asjad 4-1 Firas Kamil Shaba, Asif 4-0 Mohanna Alobaidli, Raza 4-0 Belan Sharif), Muscat Oman, IBSF Men's World Cup 2026 checked. Earlier Dawn 07:04 piece covered group stage only; quarterfinal is a new development. No snooker post in 48h Metricool / logs.",
+  "image": "Runway nano-banana-2-lite, 1 image, task 9500a800-87fa-4841-a1c2-58daa1de3215, anonymous snooker player at table, no readable text/logos",
+  "publish": "Pipeline awaiting_publish; card + story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout. TikTok skipped by pipeline (6 allowed by 21:00). Feed + Story scheduled, all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "NCCIA busts Karachi call centre defrauding elderly US citizens (Dawn 19:48)",
+   "reason": "NCCIA story already posted at 19:00; chose a different topic"
+  },
+  {
+   "headline": "Karachi Baloch Colony building collapse",
+   "reason": "Casualty figures still changing between outlets"
+  },
+  {
+   "headline": "Bajaur residents killed in shipwreck off Libya (Arab News 15:06)",
+   "reason": "Death toll unconfirmed; older window"
+  },
+  {
+   "headline": "Maldivian airline to launch direct flights to Pakistan (Tribune/APP 17:05)",
+   "reason": "Fresher story qualified; Maldives already featured at 14:00"
+  }
+ ],
+ "errors": []
+}
