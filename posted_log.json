@@ -14577,5 +14577,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T12:00:00+05:00",
+  "request_id": "2026-11-25-pakistan-china-petrol-lpg-talks",
+  "layout": "bold",
+  "headline": "Pakistan and China agreed to accelerate talks on a gasoline import arrangement and a proposed LPG plant, the petroleum ministry said, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-china-advance-fuel-talks-as-usiran-war-disrupts-gulf-supplies-3008002",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-china-advance-fuel-talks-as-usiran-war-disrupts-gulf-supplies-3008002",
+    "published_at": "2026-11-25T11:36:42+05:00"
+   }
+  ],
+  "published": "2026-11-25T11:36:42+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 282533616,
+  "image": "posts/2026-11-25-pakistan-china-petrol-lpg-talks.jpg",
+  "story": "posts/2026-11-25-pakistan-china-petrol-lpg-talks-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-25 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

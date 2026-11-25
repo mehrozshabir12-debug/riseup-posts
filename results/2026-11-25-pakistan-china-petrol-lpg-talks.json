@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-25-pakistan-china-petrol-lpg-talks",
+ "revision": 1,
+ "request": "requests/2026-11-25-pakistan-china-petrol-lpg-talks.json",
+ "type": "news",
+ "headline": "Pakistan and China agreed to accelerate talks on a gasoline import arrangement and a proposed LPG plant, the petroleum ministry said, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-25T12:00:00+05:00",
+ "target_slot": "2026-11-25T12:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pakistan-china-petrol-lpg-talks.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pakistan-china-petrol-lpg-talks-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-25-pakistan-china-petrol-lpg-talks.jpg",
+  "story": "posts/2026-11-25-pakistan-china-petrol-lpg-talks-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 282533616,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-25T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Petrol aur LPG par Pakistan aur China ki baat cheet tez! ⛽\nArab News ke mutabiq Petroleum Ministry ne Wednesday ko bataya ke Pakistan aur China ne petrol (gasoline) import ke intezam aur khana pakane aur garmi ke liye ek LPG plant ki tajweez par muzakrat tez karne par ittefaq kiya hai. Wafaqi Wazir-e-Petroleum Ali Pervaiz Malik ne Chinese Safeer Jiang Zaidong se mulaqat ke baad kaha ke hum baat cheet se aage barh kar amal chahte hain. Dono mulk ek joint commercial team banayenge, aur Pakistan State Oil ko storage aur terminals ke liye mumkina partner kaha gaya hai. Yeh qadam US-Iran jang se Gulf ki fuel supply mutasir hone ke baad uthaya ja raha hai. Petrol ki miqdar, qeemat aur LPG plant ki jagah abhi nahi batayi gayi.\nKya is se Pakistan mein fuel ki supply behtar hogi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PakistanChina #Petrol #LPG #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pakistan-china-petrol-lpg-talks.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Pakistan aur China ki petrol aur LPG par baat cheet tez",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-25T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pakistan-china-petrol-lpg-talks-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-25T11:54:20+05:00"
+}
