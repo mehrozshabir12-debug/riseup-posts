@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-25-alibaba-government-super-app",
+  "type": "news",
+  "headline": "Alibaba is developing a super app for Pakistan's government that will bring all government services onto a single digital platform, the Prime Minister's Office said on Wednesday, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/alibaba-developing-app-for-pakistans-government-services-pms-office-says-3008027",
+      "published_at": "2026-11-25T17:07:09+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/d599e9b5-23ad-4601-9b4b-9872652c6f24/667c6b1f-eb8b-466f-8ba4-93d42fc023b4/Realistic_photo_of_an_ordinary_Pakistani_man_in_a_shalwar_ka.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzVlZGFkMzJjN2IzZDMyOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTcyNTYxOH0.g3yG9BHF3VQDL-XUvjsCuoysotan220iaa9NS5GrWFk",
+    "head1": "Sab Sarkari Services",
+    "head2_hl": "Ek App",
+    "head2": "Mein",
+    "kicker": "Alibaba Ki Super App",
+    "desc": "PM Office ke mutabiq Alibaba hukumat ke liye app bana rahi hai",
+    "source": "Arab News",
+    "date": "25 NOV 2026"
+  },
+  "caption": "Ab sab sarkari kaam ek hi app mein! 📱\nArab News ke mutabiq Prime Minister Office ne Wednesday ko bataya ke Chinese company Alibaba Pakistan hukumat ke liye ek \"super app\" bana rahi hai, jis mein tamam sarkari services ek hi digital platform par mil sakengi. App ke launch ki koi tareekh nahi batayi gayi. Isi meeting mein yeh bhi bataya gaya ke telecom companies ne 5G ki tayyari ke liye 86 shehron mein network upgrade mukammal kar liya hai.\nAap is app mein sab se pehle kaun si sarkari service dekhna chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #DigitalPakistan #Alibaba #SuperApp #PakistanNews",
+  "tiktok_title": "Alibaba Pakistan ke liye super app bana rahi hai, sab sarkari services ek app mein",
+  "publish": {
+    "slot": "2026-11-25T18:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
