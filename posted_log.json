@@ -14766,5 +14766,34 @@
    "instagram",
    "tiktok"
   ]
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T18:00:00+05:00",
+  "request_id": "2026-11-25-alibaba-government-super-app",
+  "layout": "bold",
+  "headline": "Alibaba is developing a super app for Pakistan's government that will bring all government services onto a single digital platform, the Prime Minister's Office said on Wednesday, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/alibaba-developing-app-for-pakistans-government-services-pms-office-says-3008027",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/alibaba-developing-app-for-pakistans-government-services-pms-office-says-3008027",
+    "published_at": "2026-11-25T17:07:09+05:00"
+   }
+  ],
+  "published": "2026-11-25T17:07:09+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 374710178,
+  "image": "posts/2026-11-25-alibaba-government-super-app.jpg",
+  "story": "posts/2026-11-25-alibaba-government-super-app-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-25 18:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
