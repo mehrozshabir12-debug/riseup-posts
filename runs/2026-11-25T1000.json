@@ -1,1 +1,70 @@
-{"slot": "2026-11-25T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-25T09:46:10+05:00"}
+{
+ "slot": "2026-11-25T10:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "run_started_pkt": "2026-11-25T09:46:10+05:00",
+ "run_finished_pkt": "2026-11-25T09:52:07+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "China launched the Shenzhou-24 spacecraft carrying Muhammad Zeeshan Ali, the first Pakistani to reach orbit, towards the Tiangong space station, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/china-launches-pakistans-first-astronaut-on-mission-to-its-space-station-3007994",
+    "published_at": "2026-11-25T08:13:19+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-25-zeeshan-ali-first-pakistani-astronaut-launch",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-zeeshan-ali-first-pakistani-astronaut-launch.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 441258294,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8177796619719262197",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 441258309,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1358191614968481012",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. Windows 2026-11-23T09:45..2026-11-25T21:50 all succeeded. Slot 10:00 free (no posts 09:00-11:00). New RiseUp day 25 Nov: 0 news posts, 0 TikTok before this.",
+  "previous_slot_check": "Previous slot 24 Nov 23:00 feed 440661272 FB/IG PUBLISHED; 23:05 story 440661299 FB/IG PUBLISHED.",
+  "news_search": "Newest important story: Arab News 08:13 PKT (2h window) on Shenzhou-24 launch (lift-off 05:18 PKT). 23 Nov 12:00 post covered only the launch rehearsal; the actual launch is a new development, not a duplicate.",
+  "verification": "Single approved outlet (Arab News); meta published_time 2026-11-25T03:13:19Z = 08:13:19 PKT, modified identical. Names (Muhammad Zeeshan Ali, Tang Hongbo, Wu Yi), Jiuquan, Long March 2F, 5:18 a.m. PKT, 5-10 days, first foreign astronaut on Tiangong, crew in good condition checked.",
+  "image": "nano-banana-2-lite, 1 attempt, rocket lift-off in desert, no readable text or identifiable people.",
+  "publish": "Feed card and story compared side by side with approved 2026-11-13 ivanhoe card/story: identical layout. Template sha256 OK. Scheduled payloads.feed (FB+IG POST+TikTok photo) at 10:00 and payloads.story at 10:05."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Bangladesh parliament speaker's first official visit to Pakistan (Arab News 08:51)",
+   "reason": "Newer but less important than the first Pakistani astronaut launch."
+  },
+  {
+   "headline": "Shehbaz tells ministers to stop public criticism of colleagues (Business Recorder)",
+   "reason": "Political infighting; lower public interest than the launch."
+  },
+  {
+   "headline": "Eight killed as vehicle plunges into ravine in northwest Pakistan (Arab News)",
+   "reason": "Accident/casualty story; launch chosen as more important and positive."
+  }
+ ],
+ "errors": []
+}
