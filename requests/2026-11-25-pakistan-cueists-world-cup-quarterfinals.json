@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-25-pakistan-cueists-world-cup-quarterfinals",
+  "type": "news",
+  "headline": "All four Pakistani cueists, Rana Irfan, Asjad Iqbal, Muhammad Asif and Mubashir Raza, reached the quarterfinals of the IBSF Men's World Cup 2026 in Muscat, Oman, after winning their pre-quarterfinal matches, Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2642309/pakistan-cueists-storm-into-world-cup-quarter-finals",
+      "published_at": "2026-11-25T19:34:34+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/9500a800-87fa-4841-a1c2-58daa1de3215/1c93044e-d9a4-46e4-9e80-e259c81769e9/Realistic_photo_of_a_professional_snooker_match_in_a_dimly_l.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZTJiMWYyYmU0Njc3NTk0ZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTcyMjQzMH0.SV7dG8974jqY5yLAPj349DDOdthAODIaqzK4woymZ-Y",
+    "head1": "Snooker World Cup",
+    "head2_hl": "4 Pakistani",
+    "head2": "Quarterfinal Mein",
+    "kicker": "Pre-Quarterfinal Mein Clean Sweep",
+    "desc": "Rana Irfan, Asjad Iqbal, Muhammad Asif aur Mubashir Raza jeet gaye",
+    "source": "Express Tribune",
+    "date": "25 NOV 2026"
+  },
+  "caption": "Snooker World Cup mein 4 Pakistani quarterfinal mein pohanch gaye! 🇵🇰\nExpress Tribune ke mutabiq Muscat, Oman mein IBSF Men's World Cup 2026 ke pre-quarterfinal mein chaaron Pakistani cueists ne apne muqable jeet liye. Rana Irfan ne India ke Aditya Mehta ko 4-0 se hara diya, Asjad Iqbal ne Iraq ke Firas Kamil Shaba ko 4-1 se, Muhammad Asif ne Qatar ke Mohanna Alobaidli ko 4-0 se, aur Mubashir Raza ne Sweden ke Belan Sharif ko 4-0 se shikast di.\nAap ke khayal mein kaun sa Pakistani yeh World Cup jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Snooker #PakistanSports #IBSFWorldCup #PakistanNews",
+  "tiktok_title": "Snooker World Cup: 4 Pakistani cueists quarterfinal mein pohanch gaye",
+  "publish": {
+    "slot": "2026-11-25T21:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
