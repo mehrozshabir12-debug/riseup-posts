@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-25-zeeshan-ali-first-pakistani-astronaut-launch",
+  "type": "news",
+  "headline": "China launched the Shenzhou-24 spacecraft carrying Muhammad Zeeshan Ali, the first Pakistani to reach orbit, towards the Tiangong space station, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/china-launches-pakistans-first-astronaut-on-mission-to-its-space-station-3007994",
+      "published_at": "2026-11-25T08:13:19+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/15a29218-06b0-48ca-a148-86d1a9265ead/3ac7f2fc-3ce5-4977-9917-9bd8621319a0/Realistic_photo_of_a_large_white_space_rocket_lifting_off_at.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTYxYjlkYjc5OGEwMDg1MSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTczMzMwM30.o727vBwC5c7iOLUOPwc_CnjWs7Wo_A-it9NMYxsoLAE",
+    "head1": "Pehla Pakistani",
+    "head2_hl": "Khala Mein",
+    "head2": "",
+    "kicker": "Shenzhou-24 Launch Ho Gaya",
+    "desc": "Zeeshan Ali China ke Tiangong space station ki taraf rawana",
+    "source": "Arab News",
+    "date": "25 NOV 2026"
+  },
+  "caption": "Pehla Pakistani astronaut khala mein pohanch gaya! 🇵🇰🚀\nArab News ke mutabiq China ne Wednesday subah Pakistan ke waqt ke mutabiq 5:18 baje Jiuquan Satellite Launch Center se Long March 2F rocket ke zariye Shenzhou-24 spacecraft launch kiya. Is mein Pakistani pilot Muhammad Zeeshan Ali do Chinese saathiyon, commander Tang Hongbo aur flight engineer Wu Yi, ke sath Tiangong space station ki taraf rawana hue. Woh Tiangong jane wale pehle ghair-mulki astronaut honge aur wahan 5 se 10 din guzarenge. Chinese sarkari TV ke mutabiq teenon khala-baaz theek hain.\nIs tareekhi lamhe par aap Zeeshan Ali ko kya paigham dena chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ZeeshanAli #Shenzhou24 #PakistaniAstronaut #PakistanNews",
+  "tiktok_title": "Pehla Pakistani astronaut Zeeshan Ali khala mein, Shenzhou-24 launch",
+  "publish": {
+    "slot": "2026-11-25T10:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
