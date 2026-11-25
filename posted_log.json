@@ -14850,5 +14850,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T20:00:00+05:00",
+  "request_id": "2026-11-25-international-qirat-competition-final",
+  "layout": "bold",
+  "headline": "Eight Qur'an reciters advanced on Wednesday to the final of Pakistan's second international Qur'an recitation competition, organised by the Ministry of Religious Affairs, with winners to be announced in Islamabad on Thursday, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/eight-reciters-advance-to-final-of-international-quran-competition-in-pakistan-3008035",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/eight-reciters-advance-to-final-of-international-quran-competition-in-pakistan-3008035",
+    "published_at": "2026-11-25T18:34:29+05:00"
+   }
+  ],
+  "published": "2026-11-25T18:34:29+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 715292786,
+  "image": "posts/2026-11-25-international-qirat-competition-final.jpg",
+  "story": "posts/2026-11-25-international-qirat-competition-final-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-25 20:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
