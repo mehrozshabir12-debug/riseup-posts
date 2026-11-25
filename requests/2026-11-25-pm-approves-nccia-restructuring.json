@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-25-pm-approves-nccia-restructuring",
+  "type": "news",
+  "headline": "Prime Minister Shehbaz Sharif approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA) and directed the appointment of IT and AI experts and swift resolution of pending cybercrime cases, Dawn reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+      "published_at": "2026-11-25T13:55:46+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/62465f34-d8d7-497c-9257-a6a185498f0a/12bbddd1-4305-4563-8d77-4db8e9039124/Realistic_photo_of_a_modern_cybercrime_investigation_office_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYjY5NzE3NDY5MTJiNjUzMSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTc4MDgwNn0.zGG8CN5dZnYjN_QLr33ubWoFFTSL2BKmonMIp88dxZk",
+    "head1": "PM Approves",
+    "head2_hl": "NCCIA",
+    "head2": "Overhaul",
+    "kicker": "AI And IT Experts To Join",
+    "desc": "Faster action ordered on pending cybercrime cases",
+    "source": "Dawn",
+    "date": "25 NOV 2026"
+  },
+  "caption": "PM orders an overhaul of Pakistan's cybercrime agency! 💻\nAccording to Dawn, Prime Minister Shehbaz Sharif on Wednesday approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA) and directed that IT and AI experts be appointed at the agency and all its offices, with recruitment strictly on merit. He ordered that all resources be used to resolve pending cybercrime cases. A committee of federal ministers Mohsin Naqvi, Azam Nazeer Tarar, Muhammad Aurangzeb and Shaza Fatima Khawaja will review the reform proposals and submit recommendations by the end of this week. A proposal to turn the NCCIA into a national-level \"Pakistan Cyber Police\" was also presented.\nHave you or someone you know faced online fraud? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #NCCIA #CyberCrime #DigitalPakistan #PakistanNews",
+  "tiktok_title": "PM Shehbaz approves NCCIA overhaul, IT and AI experts to fight cybercrime",
+  "publish": {
+    "slot": "2026-11-25T19:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
