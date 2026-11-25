@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-25-international-qirat-competition-final",
+  "type": "news",
+  "headline": "Eight Qur'an reciters advanced on Wednesday to the final of Pakistan's second international Qur'an recitation competition, organised by the Ministry of Religious Affairs, with winners to be announced in Islamabad on Thursday, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/eight-reciters-advance-to-final-of-international-quran-competition-in-pakistan-3008035",
+      "published_at": "2026-11-25T18:34:29+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/db292052-6141-49d8-9b55-65ee0a62bd3f/11e919d0-c3c2-4843-89eb-1cb7f689a555/Realistic_photo_of_a_dignified_international_Quran_recitatio.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMDc0YThiOTJiNzkwODU4ZiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTcyMTEwNn0.Je1yZeNya1qEh_EABR54Lghoa08vT21Pnzc5UpvCT9g",
+    "head1": "Aalmi Qirat Muqabla",
+    "head2_hl": "8 Qari",
+    "head2": "Final Mein",
+    "kicker": "Natije Ka Elaan Thursday Ko",
+    "desc": "Doosre din 19 qari, 8 final ke liye chune gaye",
+    "source": "Arab News",
+    "date": "25 NOV 2026"
+  },
+  "caption": "Aalmi Qirat muqablay ke final mein 8 qari pohanch gaye! 🤍\nArab News ke mutabiq Pakistan ke doosre international Qur'an recitation muqablay mein Wednesday ko 8 qari final ke liye chune gaye. Teen din ke is muqablay mein duniya bhar se qari hissa le rahe hain, aur doosre din 19 qariyon ne tilawat ki. Yeh muqabla Wizarat-e-Mazhabi Umoor ne munaqqid kiya hai. Jeetne walon ka elaan Thursday ko Islamabad mein hoga, jis ke baad inamaat ki taqreeb hogi.\nAap ka pasandeeda qari kaun hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Qirat #QuranCompetition #Pakistan #PakistanNews",
+  "tiktok_title": "Aalmi Qirat muqabla: 8 qari final mein, natije Thursday ko Islamabad mein",
+  "publish": {
+    "slot": "2026-11-25T20:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
