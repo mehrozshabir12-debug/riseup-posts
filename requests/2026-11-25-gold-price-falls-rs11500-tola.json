@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-25-gold-price-falls-rs11500-tola",
+  "type": "news",
+  "headline": "Gold price in Pakistan fell by Rs11,500 per tola on Wednesday to Rs373,936, while 10 grams fell by Rs9,860 to 320,589, according to APGJSA rates reported by Business Recorder.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40450704/gold-price-per-tola-falls-rs11500-in-pakistan",
+      "published_at": "2026-11-25T18:46:19+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/93177c54-09f3-47ed-9bc8-9771e745e5b7/01500378-6291-47b9-b224-91fd9be90bd4/Realistic_photo_inside_a_traditional_Pakistani_jewellery_sho.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjJlMmZlZmRmNmIzY2UwOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTcyODM4MX0.LXg6IAbR-xPltXf2yIxJ9yq7Yao5ggDoTFM4o5Zq8cc",
+    "head1": "Sone Ki Qeemat",
+    "head2_hl": "Rs11,500",
+    "head2": "Kam",
+    "kicker": "Fi Tola Sona Ab Rs373,936",
+    "desc": "10 gram sona Rs9,860 kam hokar 320,589 par aa gaya",
+    "source": "Business Recorder",
+    "date": "25 NOV 2026"
+  },
+  "caption": "Sone ki qeemat mein Rs11,500 fi tola ki bari kami! 💰\nBusiness Recorder ke mutabiq All-Pakistan Gems and Jewellers Sarafa Association (APGJSA) ke rates ke mutabiq Wednesday ko sone ki qeemat Rs11,500 kam hokar Rs373,936 fi tola ho gayi. 10 gram sona Rs9,860 kam hokar 320,589 par aa gaya. Aalmi market mein sona $115 kam hokar $3,514 fi ounce raha, jabke chandi Rs224 kam hokar Rs4,463 fi tola ho gayi.\nKya aap ab sona khareedenge ya mazeed kami ka intezar karenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #SoneKiQeemat #PakistanEconomy #PakistanNews",
+  "tiktok_title": "Sone ki qeemat Rs11,500 fi tola kam, ab Rs373,936",
+  "publish": {
+    "slot": "2026-11-25T22:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
