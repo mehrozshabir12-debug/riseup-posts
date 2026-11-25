@@ -1,1 +1,85 @@
-{"slot": "2026-11-25T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-25T19:46:20+05:00"}
+{
+ "slot": "2026-11-25T20:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "run_started_pkt": "2026-11-25T19:46:20+05:00",
+ "run_finished_pkt": "2026-11-25T19:53:17+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Eight Qur'an reciters advanced on Wednesday to the final of Pakistan's second international Qur'an recitation competition, organised by the Ministry of Religious Affairs, with winners to be announced in Islamabad on Thursday, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/eight-reciters-advance-to-final-of-international-quran-competition-in-pakistan-3008035",
+    "published_at": "2026-11-25T18:34:29+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-25-international-qirat-competition-final",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-international-qirat-competition-final.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 441853318,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1242374057598367878",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 441853353,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6555541126470875756",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; windows 23 Nov 19:00 - 26 Nov 08:00 all read OK; slot 20:00 free; news feed posts today before this: 6 (cap 10)",
+  "previous_slot_check": "19:00 feed 441768766 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122191618712855502, https://www.instagram.com/p/DgKtLEIlQyf/); 19:05 story 441768811 FB+IG PUBLISHED",
+  "news_search": "Searched dawn.com, tribune.com.pk, arabnews.pk, geo.tv, brecorder.com, app.com.pk, thenews.com.pk. 2h window (18:00-20:00) had Arab News Qur'an competition story (18:34 PKT); other 2h items rejected (see skipped_candidates).",
+  "verification": "Single approved outlet (Arab News) read in full; article:published_time 2026-11-25T13:34:29Z = 18:34 PKT; 8 finalists, 19 contestants day two, three-day event, Ministry of Religious Affairs, winners announced Thursday in Islamabad checked. Not a duplicate in 48h Metricool / posted_log.",
+  "image": "Runway nano-banana-2-lite, 1 image, task db292052-6141-49d8-9b55-65ee0a62bd3f, anonymous reciter on stage, no readable text/logos/public figures",
+  "publish": "Pipeline awaiting_publish; card + story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout. TikTok skipped by pipeline (6 TikTok allowed by 20:00). Feed + Story scheduled, all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Karachi Baloch Colony building collapse (Dawn/Geo/Brecorder, updated this evening)",
+   "reason": "Casualty figures still changing between outlets (1/2/3 dead, 4-14 injured)"
+  },
+  {
+   "headline": "Tarar urges social media companies to open offices in Pakistan (Dawn 18:32)",
+   "reason": "Same theme as 24 Nov 20:00 post; rejected in 19:00 run"
+  },
+  {
+   "headline": "Rawalpindiz sign Matthew Short as PSL 12 direct signing (Dawn 17:19)",
+   "reason": "3h window; fresher 2h-window story qualified"
+  },
+  {
+   "headline": "Fatima Sana-led women's squad for West Indies tour (Dawn 17:29)",
+   "reason": "First reported by APP 11:22 PKT, older than 8h"
+  },
+  {
+   "headline": "Pak-Russia IGC programme 2026-2030 (Tribune/APP 16:31)",
+   "reason": "4h window; fresher story qualified"
+  },
+  {
+   "headline": "Indian film union seeks ban on Pakistani Netflix series (Tribune/Reuters 16:23)",
+   "reason": "4h window; fresher story qualified"
+  },
+  {
+   "headline": "Pakistan seeks human control over nuclear weapons decisions at UNSC (Dawn 11:09)",
+   "reason": "Older than 8h"
+  }
+ ],
+ "errors": []
+}
