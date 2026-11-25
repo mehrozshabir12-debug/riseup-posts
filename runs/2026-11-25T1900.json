@@ -1,1 +1,81 @@
-{"slot": "2026-11-25T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-25T18:46:13+05:00"}
+{
+ "slot": "2026-11-25T19:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "run_started_pkt": "2026-11-25T18:46:13+05:00",
+ "run_finished_pkt": "2026-11-25T18:52:18+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "6h",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA) and directed the appointment of IT and AI experts and swift resolution of pending cybercrime cases, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+    "published_at": "2026-11-25T13:55:46+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-25-pm-approves-nccia-restructuring",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pm-approves-nccia-restructuring.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 441768766,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=256481200691955301",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 441768811,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8729423125104641070",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand 7305396 Asia/Karachi, FB/IG/TikTok connected; all 6h windows 23 Nov 18:00 - 26 Nov 07:00 read OK; slot 19:00 free; news feed posts today before this: 5 (cap 10)",
+  "previous_slot_check": "18:00 feed 441694157 FB+IG PUBLISHED (https://facebook.com/122185478282855502/posts/122191614206855502, https://www.instagram.com/p/DgKmO9TFWnS/); 18:05 story 441694180 FB+IG PUBLISHED",
+  "news_search": "Searched dawn.com, arabnews.pk, tribune.com.pk, brecorder.com, geo.tv, app.com.pk, thenews.com.pk. No qualifying story in 2h/3h/4h windows (see skipped_candidates); picked NCCIA restructuring (Dawn 13:55 PKT) in 6h window.",
+  "verification": "Single approved outlet (Dawn) read in full; timestamp from article meta 2026-11-25T13:55:46+05:00; names/committee/AI-IT experts/Pakistan Cyber Police proposal checked; Express Tribune (15:22 PKT) and Geo/APP carry the same facts.",
+  "image": "Runway nano-banana-2-lite, 1 image, task 62465f34-d8d7-497c-9257-a6a185498f0a, no readable text/logos/public figures",
+  "publish": "Pipeline status awaiting_publish; card + story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout. TikTok skipped by pipeline (6 TikTok posts today, allowed by 19:00 = 5). Feed + Story scheduled, all PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Tarar urges social media companies to open offices in Pakistan (Dawn 18:32 PKT)",
+   "reason": "Same theme as 24 Nov 20:00 post (social media platforms to register / have representatives in Pakistan); article incomplete ('More to follow')"
+  },
+  {
+   "headline": "Under-construction building collapses in Karachi's Baloch Colony (Tribune 16:14 PKT)",
+   "reason": "Casualty figures still unconfirmed/changing (6 vs 10 injured, workers feared trapped)"
+  },
+  {
+   "headline": "Shenzhou-24 docks / Zeeshan Ali aboard Tiangong",
+   "reason": "Duplicate: Zeeshan Ali story already posted 10:00, 16:05 reel, 16:51 reel, 17:15"
+  },
+  {
+   "headline": "PM reviews IT sector, orders STZA audit (APP 17:31 PKT)",
+   "reason": "Same meeting as the 18:00 Alibaba super app post"
+  },
+  {
+   "headline": "Petrol Re1 / diesel Rs4 cut (Brecorder 24 Nov 22:50)",
+   "reason": "Older than 8 hours"
+  },
+  {
+   "headline": "PCB names women's squad for West Indies tour (APP 11:22 PKT)",
+   "reason": "8h window only; a fresher 6h-window story qualified"
+  }
+ ],
+ "errors": []
+}
