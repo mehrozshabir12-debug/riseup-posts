@@ -1,1 +1,70 @@
-{"slot": "2026-11-25T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-25T11:47:32+05:00"}
+{
+ "slot": "2026-11-25T12:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "run_started_pkt": "2026-11-25T11:47:32+05:00",
+ "run_finished_pkt": "2026-11-25T11:55:26+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan and China agreed to accelerate talks on a gasoline import arrangement and a proposed LPG plant, the petroleum ministry said, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-china-advance-fuel-talks-as-usiran-war-disrupts-gulf-supplies-3008002",
+    "published_at": "2026-11-25T11:36:42+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-25-pakistan-china-petrol-lpg-talks",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pakistan-china-petrol-lpg-talks.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 441327691,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8608794379355864294",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 441327705,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-534319589181077864",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. Slot window 11:00-13:00 empty. Six-hour windows 2026-11-23T11:45..2026-11-26T00:00 all succeeded. RiseUp day 25 Nov before this: 1 news post, 1 TikTok.",
+  "previous_slot_check": "Previous slot 10:00 feed 441258294 FB/IG/TikTok PUBLISHED; 10:05 story 441258309 FB/IG PUBLISHED.",
+  "news_search": "Arab News 11:36 PKT (2h window): Pakistan-China fuel/LPG talks. No fuel/LPG/China-energy post in last 48h on Metricool.",
+  "verification": "Single approved outlet (Arab News); meta published_time 2026-11-25T06:36:42Z = 11:36:42 PKT, modified identical. Ali Pervaiz Malik, Jiang Zaidong, joint commercial team, PSO as potential storage/terminal partner, no volumes/pricing/location announced - checked.",
+  "image": "nano-banana-2-lite, 1 attempt, LPG terminal with spherical tanks at a port, anonymous workers, no text/logos.",
+  "publish": "Feed card and story compared side by side with approved 2026-11-13 ivanhoe card/story: identical layout. Scheduled payloads.feed (FB+IG POST+TikTok photo) at 12:00 and payloads.story at 12:05, both PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Shenzhou-24 with Pakistan's first astronaut docks at Tiangong (Tribune)",
+   "reason": "Same event as the 10:00 post (launch); too close to be a new post."
+  },
+  {
+   "headline": "Maryam Nawaz announces 5,000 more Green Buses for Punjab (Dawn 07:07)",
+   "reason": "Older (event on Tuesday) and less fresh than the 11:36 fuel story."
+  },
+  {
+   "headline": "Maldives national airline plans direct flights to Pakistan (Arab News 11:24)",
+   "reason": "Airline, city and date not named; fuel story more important."
+  }
+ ],
+ "errors": []
+}
