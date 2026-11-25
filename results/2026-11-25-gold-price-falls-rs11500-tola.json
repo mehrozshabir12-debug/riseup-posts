@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-25-gold-price-falls-rs11500-tola",
+ "revision": 1,
+ "request": "requests/2026-11-25-gold-price-falls-rs11500-tola.json",
+ "type": "news",
+ "headline": "Gold price in Pakistan fell by Rs11,500 per tola on Wednesday to Rs373,936, while 10 grams fell by Rs9,860 to 320,589, according to APGJSA rates reported by Business Recorder.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-25T22:00:00+05:00",
+ "target_slot": "2026-11-25T22:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-gold-price-falls-rs11500-tola.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-gold-price-falls-rs11500-tola-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-25-gold-price-falls-rs11500-tola.jpg",
+  "story": "posts/2026-11-25-gold-price-falls-rs11500-tola-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 854382403,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-25T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Sone ki qeemat mein Rs11,500 fi tola ki bari kami! 💰\nBusiness Recorder ke mutabiq All-Pakistan Gems and Jewellers Sarafa Association (APGJSA) ke rates ke mutabiq Wednesday ko sone ki qeemat Rs11,500 kam hokar Rs373,936 fi tola ho gayi. 10 gram sona Rs9,860 kam hokar 320,589 par aa gaya. Aalmi market mein sona $115 kam hokar $3,514 fi ounce raha, jabke chandi Rs224 kam hokar Rs4,463 fi tola ho gayi.\nKya aap ab sona khareedenge ya mazeed kami ka intezar karenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #SoneKiQeemat #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-gold-price-falls-rs11500-tola.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Sone ki qeemat Rs11,500 fi tola kam, ab Rs373,936",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-25T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-gold-price-falls-rs11500-tola-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-25T21:53:07+05:00"
+}

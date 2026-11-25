@@ -14934,5 +14934,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T22:00:00+05:00",
+  "request_id": "2026-11-25-gold-price-falls-rs11500-tola",
+  "layout": "bold",
+  "headline": "Gold price in Pakistan fell by Rs11,500 per tola on Wednesday to Rs373,936, while 10 grams fell by Rs9,860 to 320,589, according to APGJSA rates reported by Business Recorder.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40450704/gold-price-per-tola-falls-rs11500-in-pakistan",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450704/gold-price-per-tola-falls-rs11500-in-pakistan",
+    "published_at": "2026-11-25T18:46:19+05:00"
+   }
+  ],
+  "published": "2026-11-25T18:46:19+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 854382403,
+  "image": "posts/2026-11-25-gold-price-falls-rs11500-tola.jpg",
+  "story": "posts/2026-11-25-gold-price-falls-rs11500-tola-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-25 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
