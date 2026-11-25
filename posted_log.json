@@ -14663,5 +14663,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T16:00:00+05:00",
+  "request_id": "2026-11-25-adb-250m-loan-ppp-reforms",
+  "layout": "bold",
+  "headline": "The Asian Development Bank approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership system and prepare bankable infrastructure projects, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+    "published_at": "2026-11-25T15:33:36+05:00"
+   }
+  ],
+  "published": "2026-11-25T15:33:36+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 376804476,
+  "image": "posts/2026-11-25-adb-250m-loan-ppp-reforms.jpg",
+  "story": "posts/2026-11-25-adb-250m-loan-ppp-reforms-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-25 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-25-adb-250m-loan-ppp-reforms",
+ "revision": 1,
+ "request": "requests/2026-11-25-adb-250m-loan-ppp-reforms.json",
+ "type": "news",
+ "headline": "The Asian Development Bank approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership system and prepare bankable infrastructure projects, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-25T16:00:00+05:00",
+ "target_slot": "2026-11-25T16:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-adb-250m-loan-ppp-reforms.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-adb-250m-loan-ppp-reforms-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-25-adb-250m-loan-ppp-reforms.jpg",
+  "story": "posts/2026-11-25-adb-250m-loan-ppp-reforms-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 376804476,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-25T16:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "ADB approves a $250 million loan for Pakistan! 🏗️\nAccording to Dawn, the Asian Development Bank on Wednesday approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership (PPP) system and build a pipeline of bankable, sustainable projects. The financing supports reforms to prepare market-ready, cost-efficient infrastructure projects and improve fiscal risk management. It is the second phase of the Promoting Sustainable Public-Private Partnerships Programme; with ADB support, the government has approved a medium-term PPP pipeline for 2026-2030.\nCan public-private partnerships fix Pakistan's infrastructure gap? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ADB #Infrastructure #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-adb-250m-loan-ppp-reforms.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "ADB approves $250 million loan for Pakistan's PPP reforms",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-25T16:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-adb-250m-loan-ppp-reforms-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-25T15:49:55+05:00"
+}
