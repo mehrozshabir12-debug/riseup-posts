@@ -14706,5 +14706,41 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T16:05:00+05:00",
+  "slug": "2026-11-25-zeeshan-ali-khala-reel",
+  "headline": "Owner reel: Zeeshan Ali, first Pakistani in space (Shenzhou-24) — IG Reel + FB Reel + TikTok",
+  "topic": "Zeeshan Ali Shenzhou-24 launch",
+  "people": [
+   "Muhammad Zeeshan Ali"
+  ],
+  "reel": true,
+  "tiktok": true,
+  "video": "posts/2026-11-25-zeeshan-ali-khala-reel.mp4",
+  "cover": "posts/2026-11-25-zeeshan-ali-khala-reel-cover.jpg",
+  "source": "owner video",
+  "metricool_ids": [
+   441561461,
+   441561502
+  ]
+ },
+ {
+  "date": "2026-11-25",
+  "slot": "2026-11-25T16:35:00+05:00",
+  "slug": "2026-11-25-kaaba-bacha-kiswah-reel",
+  "headline": "Owner reel: child touching the Kiswah at the Holy Kaaba, AI bayan voice — IG Reel + FB Reel + TikTok",
+  "topic": "Child touching Kaaba Kiswah during Umrah",
+  "people": [],
+  "reel": true,
+  "tiktok": true,
+  "video": "posts/2026-11-25-kaaba-bacha-kiswah-reel.mp4",
+  "cover": "posts/2026-11-25-kaaba-bacha-kiswah-reel-cover.jpg",
+  "source": "owner video",
+  "metricool_ids": [
+   441561545,
+   441561573
+  ]
  }
 ]
