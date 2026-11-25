@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-25-adb-250m-loan-ppp-reforms",
+  "type": "news",
+  "headline": "The Asian Development Bank approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership system and prepare bankable infrastructure projects, Dawn reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system",
+      "published_at": "2026-11-25T15:33:36+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/e4cc525d-3646-4bcd-99be-7ea4580dd680/0bd4a798-cb2a-4d3d-8bd5-d8376a38455a/Realistic_photo_of_a_large_infrastructure_construction_site_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDg3NTA2Mzk4YjAwYWYwZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTcxODQ1N30.XbEaDeUuPGX5h1g1BLXeflUg7H_xF4oo4BZeEW9eSbc",
+    "head1": "ADB Approves",
+    "head2_hl": "$250 Million",
+    "head2": "Loan",
+    "kicker": "For Pakistan's PPP Reforms",
+    "desc": "To help prepare market-ready infrastructure projects",
+    "source": "Dawn",
+    "date": "25 NOV 2026"
+  },
+  "caption": "ADB approves a $250 million loan for Pakistan! 🏗️\nAccording to Dawn, the Asian Development Bank on Wednesday approved a $250 million policy-based loan to help Pakistan strengthen its public-private partnership (PPP) system and build a pipeline of bankable, sustainable projects. The financing supports reforms to prepare market-ready, cost-efficient infrastructure projects and improve fiscal risk management. It is the second phase of the Promoting Sustainable Public-Private Partnerships Programme; with ADB support, the government has approved a medium-term PPP pipeline for 2026-2030.\nCan public-private partnerships fix Pakistan's infrastructure gap? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ADB #Infrastructure #PakistanEconomy #PakistanNews",
+  "tiktok_title": "ADB approves $250 million loan for Pakistan's PPP reforms",
+  "publish": {
+    "slot": "2026-11-25T16:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
