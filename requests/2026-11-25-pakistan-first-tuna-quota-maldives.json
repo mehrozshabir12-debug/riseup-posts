@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-25-pakistan-first-tuna-quota-maldives",
+  "type": "news",
+  "headline": "Pakistan has secured a 25,000-tonne tuna quota from the Indian Ocean Tuna Commission for the first time and invited the Maldives to invest in tuna processing, Business Recorder reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40450681/pakistan-secures-first-tuna-quota-eyes-maldives-investment",
+      "published_at": "2026-11-25T12:54:14+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/0564c9fc-08cc-4bf4-9262-f510cab808e6/be727eec-3bff-4c38-a975-451fd2b2c66b/Realistic_photo_of_a_Pakistani_fishing_harbour_on_the_Arabia.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTkyYmZhNzU4ZjZmMDkxMSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTcyOTI2OX0.vmd-9qy6C-C0OYYlaUsO8TtGqFmOUZYC-YT4j9K95Xs",
+    "head1": "Pakistan Gets First",
+    "head2_hl": "Tuna Quota",
+    "head2": "",
+    "kicker": "25,000 Tonnes From IOTC",
+    "desc": "Quota could earn around $200 million in exports",
+    "source": "Business Recorder",
+    "date": "25 NOV 2026"
+  },
+  "caption": "Pakistan secures its first-ever tuna quota! 🐟\nAccording to Business Recorder, Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry said Pakistan has secured a tuna quota of 25,000 metric tonnes from the Indian Ocean Tuna Commission for the first time: 15,000 tonnes of yellowfin and 10,000 tonnes of skipjack. He said the quota could generate around $200 million in export earnings. Meeting a Maldivian delegation led by Tourism and Civil Aviation Minister Mohamed Ameen, he invited the Maldives to invest in Pakistan's tuna-processing and canning industry. A high-level Pakistani delegation is due to visit the Maldives in December.\nCan Pakistan's seafood exports grow from here? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #TunaQuota #BlueEconomy #Exports #PakistanNews",
+  "tiktok_title": "Pakistan secures first-ever 25,000-tonne tuna quota",
+  "publish": {
+    "slot": "2026-11-25T14:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
