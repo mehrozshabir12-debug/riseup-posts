@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-25-petrol-diesel-prices-cut-rs4-rs5",
+  "type": "news",
+  "headline": "OGRA on Wednesday cut the petrol price by Rs4 to Rs314 per litre and high-speed diesel by Rs5 to Rs348 per litre, effective Thursday, November 26, 2026, Business Recorder reported.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40450718/petrol-diesel-prices-fall-further-by-up-to-rs5-per-litre",
+      "published_at": "2026-11-25T22:07:58+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/63b7bdb7-443c-4821-9288-6fd7a8f25f85/dcc7f534-5525-4c0a-a140-e79291d5f130/Realistic_photo_of_a_busy_Pakistani_petrol_station_at_night_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYzRjZmIzYWU3MzExNmZhMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTczNTA4Nn0._gDD756OJH5NX86LY09JrEIh10hmb3DWCzfFuT7WzMs",
+    "head1": "Petrol Ki Qeemat",
+    "head2_hl": "Rs4 Kam",
+    "head2": "",
+    "kicker": "Diesel Bhi Rs5 Sasta",
+    "desc": "Petrol ab Rs314, diesel Rs348 fi litre, Thursday se",
+    "source": "Business Recorder",
+    "date": "25 NOV 2026"
+  },
+  "caption": "Petrol Rs4 aur diesel Rs5 sasta ho gaya! ⛽\nBusiness Recorder ke mutabiq OGRA ne Wednesday ko notification jari kiya ke petrol ki qeemat Rs4 kam hokar Rs314 fi litre aur high-speed diesel ki qeemat Rs5 kam hokar Rs348 fi litre ho gayi hai. Nayi qeematein Thursday, 26 November se lagu hongi. Is se pehle Tuesday ko bhi petrol Re1 aur diesel Rs4 sasta hua tha.\nKya is kami se aap ke kharche mein farq parega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #DieselPrice #OGRA #PakistanNews",
+  "tiktok_title": "Petrol Rs4 aur diesel Rs5 sasta, petrol ab Rs314 fi litre",
+  "publish": {
+    "slot": "2026-11-25T23:00:00+05:00",
+    "networks": ["facebook", "instagram"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
