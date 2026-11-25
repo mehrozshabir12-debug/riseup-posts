@@ -1,1 +1,70 @@
-{"slot": "2026-11-25T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-25T13:46:43+05:00"}
+{
+ "slot": "2026-11-25T14:00:00+05:00",
+ "riseup_day": "2026-11-25",
+ "run_started_pkt": "2026-11-25T13:46:43+05:00",
+ "run_finished_pkt": "2026-11-25T13:52:06+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "freshness_window": "2h",
+ "story": {
+  "headline": "Pakistan has secured a 25,000-tonne tuna quota from the Indian Ocean Tuna Commission for the first time and invited the Maldives to invest in tuna processing, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450681/pakistan-secures-first-tuna-quota-eyes-maldives-investment",
+    "published_at": "2026-11-25T12:54:14+05:00"
+   }
+  ]
+ },
+ "request_id": "2026-11-25-pakistan-first-tuna-quota-maldives",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-25-pakistan-first-tuna-quota-maldives.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 441418185,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1281378658499214035",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 441418201,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6343892022136322380",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Brand 7305396 Asia/Karachi, FB/IG/TikTok connected. Slot window 13:00-15:00 empty. Windows 2026-11-23T13:00..2026-11-26T02:00 all succeeded. RiseUp day 25 Nov before this: 2 news posts, 2 TikTok.",
+  "previous_slot_check": "Previous slot 12:00 feed 441327691 FB/IG/TikTok PUBLISHED; 12:05 story 441327705 FB/IG PUBLISHED.",
+  "news_search": "Business Recorder 12:54 PKT (2h window): first IOTC tuna quota, Maldives investment invite. No tuna/fisheries/Maldives post in last 48h on Metricool.",
+  "verification": "Single approved outlet (Business Recorder); meta published/modified 2026-11-25T12:54:14+05:00. Muhammad Junaid Anwar Chaudhry, Mohamed Ameen, 25,000 t (15,000 yellowfin + 10,000 skipjack), ~$200m export earnings, December delegation visit - checked.",
+  "image": "nano-banana-2-lite, 1 attempt, fishing harbour with tuna on landing floor, anonymous fishermen, no text/logos.",
+  "publish": "Feed card and story compared with approved 2026-11-13 ivanhoe card: identical layout. English caption (Roman Urdu used at 10:00 and 12:00). Scheduled payloads.feed (FB+IG POST+TikTok photo) at 14:00 and payloads.story at 14:05, both PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Qatari dairy producer Baladna explores sourcing animal feed from Pakistan (Arab News 12:07)",
+   "reason": "Older than the 12:54 tuna story; no agreement or volumes announced."
+  },
+  {
+   "headline": "Pakistan calls for human control over nuclear weapons decisions at UNSC (Dawn 11:09)",
+   "reason": "Older; less relevant to ordinary people."
+  },
+  {
+   "headline": "Bangladesh parliament speaker's first official visit to Pakistan (Arab News 08:51)",
+   "reason": "Outside 2h window; diplomatic."
+  }
+ ],
+ "errors": []
+}
