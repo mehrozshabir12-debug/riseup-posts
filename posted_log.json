@@ -15268,5 +15268,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T20:00:00+05:00",
+  "request_id": "2026-11-26-islamabad-rawalpindi-local-holiday-nov27",
+  "layout": "bold",
+  "headline": "The government on Thursday declared Friday, November 27, a local holiday in Islamabad and Rawalpindi, with essential services remaining operational and Red Zone government employees told to work from home, The Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2642478/govt-declares-local-holiday-in-islamabad-pindi-on-nov-27",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642478/govt-declares-local-holiday-in-islamabad-pindi-on-nov-27",
+    "published_at": "2026-11-26T18:43:20+05:00"
+   }
+  ],
+  "published": "2026-11-26T18:43:20+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 181998886,
+  "image": "posts/2026-11-26-islamabad-rawalpindi-local-holiday-nov27.jpg",
+  "story": "posts/2026-11-26-islamabad-rawalpindi-local-holiday-nov27-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 20:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
