@@ -1,1 +1,35 @@
-{"slot": "2026-11-26T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T18:46:30+05:00"}
+{
+ "slot": "2026-11-26T19:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T18:46:16+05:00",
+ "run_finished_pkt": "2026-11-26T18:50:59+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan International Airlines said on Thursday it had restored normal flight operations between Pakistan and Britain using its own Boeing 777 aircraft, a day after its Norwegian leasing partner Norse Atlantic Airways suddenly suspended services, Arab News reports.",
+  "sources": [{"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/pakistans-pia-restores-uk-flights-after-norwegian-partner-suspends-operations-3008148", "published_at": "2026-11-26T18:39:09+05:00"}]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-pia-restores-uk-flights-own-fleet",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-pia-restores-uk-flights-own-fleet.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok", "model": "nano-banana-2-lite", "task_id": "343c3cb5-e3be-4173-a151-2b78cca114e3"}],
+ "metricool": {
+  "feed": {"id": 443150516, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5843386155043698567", "networks": {"facebook": "PENDING", "instagram": "PENDING"}},
+  "story": {"id": 443150643, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-9135756897574106619", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand settings OK (FB, IG, TikTok connected, Asia/Karachi); windows 24 Nov 18:00 .. 27 Nov 07:00 PKT all read OK; no post at 19:00; news feed posts this RiseUp day before this = 4 (10:00, 12:00, 16:00, 18:00) (cap 10)",
+  "previous_slot_check": "18:00 feed 443073859 FB/IG/TikTok PUBLISHED (IG https://www.instagram.com/p/DgNLOG5Fe5L/); 18:05 story 443073881 FB+IG PUBLISHED",
+  "news_search": "PIA restores UK flights with own Boeing 777 fleet (Arab News 18:39 PKT) chosen: newest important story in 2h window, affects Pakistanis travelling to/from UK, not posted in last 48h; Roman Urdu caption",
+  "verification": "Single approved outlet Arab News, meta published_time 2026-11-26T13:39:09Z = 18:39 PKT; PIA, Norse Atlantic Airways, own Boeing 777 fleet, PK786 Heathrow-Islamabad, PK710 Manchester-Lahore cancelled Wednesday night, rebooking and penalty-free full refunds all checked against the article",
+  "image": "Runway nano-banana-2-lite, 1 attempt: airport departure lounge at dusk, anonymous travellers from behind, unbranded wide-body jet; no readable text/logos/public figures",
+  "card_check": "Feed card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout; text, date and source correct; story card same approved story layout",
+  "publish": "feed (FB+IG; pipeline skipped TikTok: 'allowed by 19:00 = 5') + story scheduled via Metricool exactly from payloads, all PENDING"
+ },
+ "skipped_candidates": [
+  {"headline": "Gold price per tola increases Rs4,700 (Business Recorder)", "reason": "article could not be opened to verify timestamp and figures"},
+  {"headline": "Pakistan and Russia target $5 billion trade by 2030 (Arab News)", "reason": "PIA story newer and more relevant to ordinary people"}
+ ],
+ "errors": []
+}
