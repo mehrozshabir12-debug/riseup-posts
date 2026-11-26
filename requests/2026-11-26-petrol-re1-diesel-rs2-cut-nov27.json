@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-26-petrol-re1-diesel-rs2-cut-nov27",
+  "type": "news",
+  "headline": "The federal government cut the petrol price by Re1 to Rs313 per litre and high-speed diesel by Rs2 to Rs346 per litre for November 27, according to an OGRA press release reported by The Express Tribune.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2642510/govt-cuts-petrol-by-re1-diesel-by-rs2-for-nov-27",
+      "published_at": "2026-11-26T22:09:17+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/38dcdbfc-9ec9-4b3a-8c6b-3f2d7ecee7d2/9e2691b2-fbec-4707-afdf-3b5b50aaae23/Realistic_night_photo_of_a_busy_fuel_station_in_a_Pakistani_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMmZhMWZiMzVmYjIzMDJjMCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTg1NTE1N30.8gVkkk8ORZy9N8CwsCOlBYgS30AXBXKQlMW_kBv9V6o",
+    "head1": "Petrol Phir Sasta",
+    "head2_hl": "Re1",
+    "head2": "Kam",
+    "kicker": "Diesel Rs2 Sasta",
+    "desc": "Petrol Rs313 aur diesel Rs346 per litre ho gaya",
+    "source": "Express Tribune",
+    "date": "26 NOV 2026"
+  },
+  "caption": "Petrol aur diesel phir saste ho gaye! ⛽\nExpress Tribune ke mutabiq hukumat ne 27 November ke liye petrol ki qeemat mein Re1 aur high-speed diesel ki qeemat mein Rs2 per litre ki kami kar di hai. OGRA ki press release ke mutabiq ab petrol Rs313 aur diesel Rs346 per litre mein milega. Is se ek din pehle petrol Rs4 aur diesel Rs5 sasta hua tha.\nKya aap ko qeematon mein yeh kami mehsoos ho rahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PetrolPrice #Diesel #OGRA #PakistanNews",
+  "tiktok_title": "Petrol Re1 aur diesel Rs2 sasta: petrol Rs313, diesel Rs346 per litre",
+  "publish": {
+    "slot": "2026-11-26T23:00:00+05:00",
+    "networks": ["facebook", "instagram"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
