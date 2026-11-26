@@ -1,1 +1,36 @@
-{"slot": "2026-11-26T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T17:46:39+05:00"}
+{
+ "slot": "2026-11-26T18:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T17:46:39+05:00",
+ "run_finished_pkt": "2026-11-26T17:51:05+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The State Bank of Pakistan plans to issue its first guidelines on the use of artificial intelligence in banks by March 2027 to prevent unfair lending decisions, strengthen fraud detection and protect customers, SBP Deputy Governor Saleem Ullah said on Thursday, Arab News reports.",
+  "sources": [{"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/pakistan-central-bank-to-issue-ai-banking-rules-by-march-2027-official-3008142", "published_at": "2026-11-26T17:24:17+05:00"}]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-sbp-ai-banking-guidelines-march-2027",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-sbp-ai-banking-guidelines-march-2027.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok", "model": "nano-banana-2-lite", "task_id": "1fcfbeea-b819-4c33-8ee6-75b28ece5535"}],
+ "metricool": {
+  "feed": {"id": 443073859, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2037578864677928932", "networks": {"facebook": "PENDING", "instagram": "PENDING", "tiktok": "PENDING"}},
+  "story": {"id": 443073881, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-683703862099295671", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand settings OK (FB, IG, TikTok connected, Asia/Karachi); windows 24 Nov 17:00 .. 27 Nov 06:00 PKT all read OK; no post at 18:00; news feed posts this RiseUp day before this = 3 (10:00, 12:00, 16:00) (cap 10); TikTok today = 3 (cap 8)",
+  "previous_slot_check": "16:00 feed 442936798 FB/IG/TikTok PUBLISHED (IG https://www.instagram.com/p/DgM8-GeldKU/); 16:05 story 442936882 FB+IG PUBLISHED",
+  "news_search": "SBP AI banking rules by March 2027 (Arab News 17:24 PKT) chosen: newest important story in 2h window, not posted in last 48h; English caption (policy/banking story)",
+  "verification": "Single approved outlet Arab News, meta published_time 2026-11-26T12:24:17Z = 17:24 PKT; SBP, Deputy Governor Saleem Ullah, March 2027 / Q1 2027, unfair lending, fraud detection, human review, ~half of 55 regulated institutions, Financial Stability Review 2024 all checked against the article",
+  "image": "Runway nano-banana-2-lite, 1 attempt: bank branch desk, anonymous officer from behind, customer in profile, laptop with abstract network graphics; no readable text/logos/public figures",
+  "card_check": "Feed card compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same approved layout; text, date and source correct; story card same approved story layout",
+  "publish": "feed + story scheduled via Metricool exactly from payloads, all PENDING"
+ },
+ "skipped_candidates": [
+  {"headline": "Shaun Tait appointed Lahore Qalandars head coach for PSL 12 (Express Tribune)", "reason": "published 13:22 PKT (6h window); newer 2h story available"},
+  {"headline": "Karachi building collapse: SBCA chief removed (Dawn/Tribune)", "reason": "duplicate: 14:00 slot story already published"},
+  {"headline": "Security forces kill 12 terrorists in Balochistan (ISPR)", "reason": "violence"}
+ ],
+ "errors": []
+}
