@@ -15311,5 +15311,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T21:00:00+05:00",
+  "request_id": "2026-11-26-abbott-low-cost-osteoporosis-injection",
+  "layout": "bold",
+  "headline": "Abbott Pakistan on Thursday launched a lower-cost biosimilar of the bone disease drug denosumab, pricing its six-month 60-milligram injection at Rs35,000, as about 9.9 million people in Pakistan have osteoporosis, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-gets-new-bone-disease-drug-in-push-to-lower-treatment-costs-3008162",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-gets-new-bone-disease-drug-in-push-to-lower-treatment-costs-3008162",
+    "published_at": "2026-11-26T20:18:22+05:00"
+   }
+  ],
+  "published": "2026-11-26T20:18:22+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 312655866,
+  "image": "posts/2026-11-26-abbott-low-cost-osteoporosis-injection.jpg",
+  "story": "posts/2026-11-26-abbott-low-cost-osteoporosis-injection-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 21:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

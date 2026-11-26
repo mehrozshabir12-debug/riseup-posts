@@ -1,0 +1,105 @@
+{
+ "id": "2026-11-26-abbott-low-cost-osteoporosis-injection",
+ "revision": 1,
+ "request": "requests/2026-11-26-abbott-low-cost-osteoporosis-injection.json",
+ "type": "news",
+ "headline": "Abbott Pakistan on Thursday launched a lower-cost biosimilar of the bone disease drug denosumab, pricing its six-month 60-milligram injection at Rs35,000, as about 9.9 million people in Pakistan have osteoporosis, Arab News reports.",
+ "warnings": [
+  "TikTok skipped: 6 TikTok posts on RiseUp day 2026-11-26; allowed by 21:00 = 6 (max 8/day)"
+ ],
+ "errors": [],
+ "slot_pkt": "2026-11-26T21:00:00+05:00",
+ "target_slot": "2026-11-26T21:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-abbott-low-cost-osteoporosis-injection.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-abbott-low-cost-osteoporosis-injection-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-26-abbott-low-cost-osteoporosis-injection.jpg",
+  "story": "posts/2026-11-26-abbott-low-cost-osteoporosis-injection-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 312655866,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-26T21:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Haddiyon ki kamzori ka ilaj ab sasta! 💊\nArab News ke mutabiq Abbott Pakistan ne osteoporosis (haddiyon ki kamzori) ke ilaj ke liye denosumab dawa ka kam qeemat wala biosimilar launch kiya hai. Har 6 maah baad lagne wale 60mg injection ki qeemat Rs35,000 rakhi gayi hai. Journal of the Pakistan Medical Association ki research ke mutabiq Pakistan mein taqreeban 9.9 million log osteoporosis ka shikar hain, jin mein 7.2 million khawateen hain. Doctors ka kehna hai ke dawa ki mustaqil supply aur bimari ki jaldi tashkhees bhi zaroori hai.\nKya aap ke ghar mein kisi ko haddiyon ki kamzori ka masla hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Osteoporosis #Health #Medicine #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-abbott-low-cost-osteoporosis-injection.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-26T21:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-abbott-low-cost-osteoporosis-injection-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-26T20:51:32+05:00"
+}
