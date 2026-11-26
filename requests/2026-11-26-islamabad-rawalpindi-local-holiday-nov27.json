@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-26-islamabad-rawalpindi-local-holiday-nov27",
+  "type": "news",
+  "headline": "The government on Thursday declared Friday, November 27, a local holiday in Islamabad and Rawalpindi, with essential services remaining operational and Red Zone government employees told to work from home, The Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2642478/govt-declares-local-holiday-in-islamabad-pindi-on-nov-27",
+      "published_at": "2026-11-26T18:43:20+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/21e559b0-c7ac-405d-9cda-00845a58c934/f9db996e-c244-4313-9a8c-b89037960504/Realistic_news_photograph_of_a_quiet__almost_empty_wide_city.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZTg3OTY0Y2IxNDQyZGM1NCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTgyNDk3MX0.-DkXYI6UH_fIeHRUNmQdyA_b52wVm_nhvzuOBesnerA",
+    "head1": "Islamabad Pindi Mein",
+    "head2_hl": "Kal Chutti",
+    "head2": "",
+    "kicker": "Friday 27 November",
+    "desc": "Zaroori services khuli rahengi, Red Zone mein work from home",
+    "source": "Express Tribune",
+    "date": "26 NOV 2026"
+  },
+  "caption": "Islamabad aur Rawalpindi mein kal chutti ka elaan! 📌\nExpress Tribune ke mutabiq hukumat ne Thursday ko elaan kiya ke Friday, 27 November ko Islamabad aur Rawalpindi mein local holiday hogi. Islamabad ke notification ke mutabiq MCI, CDA, ICT Administration, Islamabad Police, IESCO, SNGPL aur hospitals jaisi zaroori services khuli rahengi. Rawalpindi ke Deputy Commissioner ne bhi district mein chutti ka alag notification jari kiya hai. Islamabad ke Red Zone mein wizaraton aur sarkari idaron ke mulazmeen Friday ko ghar se kaam karenge. Chutti ki wajah nahi batayi gayi.\nKya kal aap ki bhi chutti hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Islamabad #Rawalpindi #Holiday #PakistanNews",
+  "tiktok_title": "Islamabad aur Rawalpindi mein Friday 27 November ko local holiday",
+  "publish": {
+    "slot": "2026-11-26T20:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
