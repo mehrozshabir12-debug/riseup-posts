@@ -1,1 +1,77 @@
-{"slot": "2026-11-26T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T11:45:59+05:00"}
+{
+ "slot": "2026-11-26T12:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T11:45:59+05:00",
+ "run_finished_pkt": "2026-11-26T11:53:45+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry on Thursday proposed that seafood exporters allocate at least 5% of their total exports to value-added products, noting that only three of 578 seafood exporters currently deal in such products, Business Recorder reports.",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450838/govt-proposes-at-least-5-value-addition-target-for-seafood-exporters",
+    "published_at": "2026-11-26T11:11:28+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-seafood-exporters-5pc-value-addition-target",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-seafood-exporters-5pc-value-addition-target.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "task_id": "4ff1da13-326c-4d33-9e6b-fa531286bb11"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 442723165,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2040491811204384073",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 442723176,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8278676210928827304",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand settings OK (FB, IG, TikTok connected, Asia/Karachi); six-hour windows 24 Nov 09:00 .. 26 Nov 23:59 PKT all read OK; no post at 12:00; news feed posts this RiseUp day before this = 1 (cap 10); TikTok today = 1 (cap 8)",
+  "previous_slot_check": "10:00 feed 442649384 FB+IG+TikTok PUBLISHED; 10:05 story 442649388 FB+IG PUBLISHED",
+  "news_search": "Seafood value-addition target (Business Recorder 11:11 PKT) chosen: newest suitable story in 2h window; distinct from 25 Nov tuna-quota post (different event)",
+  "verification": "Single approved outlet (Business Recorder), meta published_time 2026-11-26T11:11:28+05:00; minister Muhammad Junaid Anwar Chaudhry; at least 5% of exports value-added; 3 of 578 exporters; committee headed by Fisheries Development Commissioner Dr Muhammad Hafeez-ur-Rehman",
+  "image": "Runway nano-banana-2-lite, 1 attempt, seafood processing line with anonymous workers, no readable text/logos/public figures",
+  "card_check": "Feed card compared with posts/2026-11-26-islamabad-traffic-restrictions-faizabad-terminal.jpg: same approved layout; text, date and source correct; story card same approved story layout",
+  "publish": "feed + story scheduled via Metricool exactly from payloads, all PENDING"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Gulf buyers eye Pakistani rice, meat at Karachi FoodAg expo (Arab News 09:19 PKT)",
+   "reason": "FoodAg 2026 expo already posted 23 Nov; older than the seafood story"
+  },
+  {
+   "headline": "Security forces kill 12 terrorists in Balochistan IBOs: ISPR (Dawn 10:59 PKT)",
+   "reason": "violence/security operation; avoided per content rules"
+  },
+  {
+   "headline": "Ghani Dairies installs 600 kW solar plant (BR 10:31 PKT)",
+   "reason": "minor company news, less relevant"
+  },
+  {
+   "headline": "PIA to shift UK flights to own fleet (Arab News 08:57 PKT)",
+   "reason": "older"
+  }
+ ],
+ "errors": []
+}
