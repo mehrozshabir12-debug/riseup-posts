@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-26-abbott-low-cost-osteoporosis-injection",
+  "type": "news",
+  "headline": "Abbott Pakistan on Thursday launched a lower-cost biosimilar of the bone disease drug denosumab, pricing its six-month 60-milligram injection at Rs35,000, as about 9.9 million people in Pakistan have osteoporosis, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-gets-new-bone-disease-drug-in-push-to-lower-treatment-costs-3008162",
+      "published_at": "2026-11-26T20:18:22+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/c5bfc245-b170-4864-b209-bca0a2fa2ed3/74b8937c-d876-4ed0-aec7-afcb0387faa1/Realistic_photo_inside_a_clean_Pakistani_clinic__an_elderly_.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYmE5ZWI2MmUzOTUzNGUzYyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTgyNDMwMn0.HJbRiAlsRwM6zHmZAa2pDeH3kqEInEiCm-ie_9qx5IQ",
+    "head1": "Haddiyon Ki Dawa",
+    "head2_hl": "Rs35,000",
+    "head2": "Mein",
+    "kicker": "Osteoporosis Ka Sasta Ilaj",
+    "desc": "6 maah ka 60mg injection, Abbott Pakistan ne launch kiya",
+    "source": "Arab News",
+    "date": "26 NOV 2026"
+  },
+  "caption": "Haddiyon ki kamzori ka ilaj ab sasta! 💊\nArab News ke mutabiq Abbott Pakistan ne osteoporosis (haddiyon ki kamzori) ke ilaj ke liye denosumab dawa ka kam qeemat wala biosimilar launch kiya hai. Har 6 maah baad lagne wale 60mg injection ki qeemat Rs35,000 rakhi gayi hai. Journal of the Pakistan Medical Association ki research ke mutabiq Pakistan mein taqreeban 9.9 million log osteoporosis ka shikar hain, jin mein 7.2 million khawateen hain. Doctors ka kehna hai ke dawa ki mustaqil supply aur bimari ki jaldi tashkhees bhi zaroori hai.\nKya aap ke ghar mein kisi ko haddiyon ki kamzori ka masla hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Osteoporosis #Health #Medicine #PakistanNews",
+  "tiktok_title": "Haddiyon ki kamzori ki dawa: 60mg injection Rs35,000 mein launch",
+  "publish": {
+    "slot": "2026-11-26T21:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
