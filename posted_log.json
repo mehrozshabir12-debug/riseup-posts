@@ -15183,5 +15183,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T18:00:00+05:00",
+  "request_id": "2026-11-26-sbp-ai-banking-guidelines-march-2027",
+  "layout": "bold",
+  "headline": "The State Bank of Pakistan plans to issue its first guidelines on the use of artificial intelligence in banks by March 2027 to prevent unfair lending decisions, strengthen fraud detection and protect customers, SBP Deputy Governor Saleem Ullah said on Thursday, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-central-bank-to-issue-ai-banking-rules-by-march-2027-official-3008142",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-central-bank-to-issue-ai-banking-rules-by-march-2027-official-3008142",
+    "published_at": "2026-11-26T17:24:17+05:00"
+   }
+  ],
+  "published": "2026-11-26T17:24:17+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 574784438,
+  "image": "posts/2026-11-26-sbp-ai-banking-guidelines-march-2027.jpg",
+  "story": "posts/2026-11-26-sbp-ai-banking-guidelines-march-2027-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 18:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

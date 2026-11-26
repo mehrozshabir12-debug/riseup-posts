@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-26-sbp-ai-banking-guidelines-march-2027",
+ "revision": 1,
+ "request": "requests/2026-11-26-sbp-ai-banking-guidelines-march-2027.json",
+ "type": "news",
+ "headline": "The State Bank of Pakistan plans to issue its first guidelines on the use of artificial intelligence in banks by March 2027 to prevent unfair lending decisions, strengthen fraud detection and protect customers, SBP Deputy Governor Saleem Ullah said on Thursday, Arab News reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-26T18:00:00+05:00",
+ "target_slot": "2026-11-26T18:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-sbp-ai-banking-guidelines-march-2027.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-sbp-ai-banking-guidelines-march-2027-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-26-sbp-ai-banking-guidelines-march-2027.jpg",
+  "story": "posts/2026-11-26-sbp-ai-banking-guidelines-march-2027-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 574784438,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-26T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Pakistan's banks will soon have rules for using AI! 🏦\nAccording to Arab News, State Bank of Pakistan Deputy Governor Saleem Ullah said on Thursday that the SBP plans to issue its first guidelines on the use of artificial intelligence in banks by March 2027. The draft sets a risk-based framework meant to prevent unfair lending decisions, strengthen fraud detection and protect customers, including the right to a human review of decisions made by AI. Roughly half of Pakistan's 55 regulated financial institutions already use AI or are developing systems with it, according to the SBP's Financial Stability Review 2024.\nWould you trust a loan decision made by AI? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #ArtificialIntelligence #Banking #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-sbp-ai-banking-guidelines-march-2027.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "SBP to issue first AI rules for banks by March 2027",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-26T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-sbp-ai-banking-guidelines-march-2027-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-26T17:50:23+05:00"
+}
