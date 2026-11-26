@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-26-pia-restores-uk-flights-own-fleet",
+  "type": "news",
+  "headline": "Pakistan International Airlines said on Thursday it had restored normal flight operations between Pakistan and Britain using its own Boeing 777 aircraft, a day after its Norwegian leasing partner Norse Atlantic Airways suddenly suspended services, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistans-pia-restores-uk-flights-after-norwegian-partner-suspends-operations-3008148",
+      "published_at": "2026-11-26T18:39:09+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/343c3cb5-e3be-4173-a151-2b78cca114e3/1db8ac2f-4553-49ce-bb8f-875b4ae07ff6/Realistic_news_photograph_of_a_large_white_wide_body_passeng.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMjZiNWEwMzZhY2JmMTRhNyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTc5MjQzOH0.Ixiz4ovcu6zQoDhLgQm10Eo6u-OFMMrtfkWR9RFi_V0",
+    "head1": "PIA UK Flights",
+    "head2_hl": "Phir Bahaal",
+    "head2": "",
+    "kicker": "Apne Boeing 777 Se",
+    "desc": "Norse Atlantic ne achanak services rok di thin",
+    "source": "Arab News",
+    "date": "26 NOV 2026"
+  },
+  "caption": "PIA ki UK flights phir se bahaal ho gayin! ✈️\nArab News ke mutabiq PIA ne Thursday ko bataya ke Pakistan aur Britain ke darmiyan flights ab us ke apne Boeing 777 jahazon se maamool ke mutabiq chal rahi hain. Is se ek din pehle PIA ki Norwegian partner company Norse Atlantic Airways ne achanak apni services rok di thin, jis ki wajah se Wednesday raat London Heathrow se Islamabad (PK786) aur Manchester se Lahore (PK710) ki flights cancel karni parin. PIA ke mutabiq mutasir musafiron ko agli flights par book kiya gaya, aur jin logon ne safar badla ya aage kiya unhein bina kisi jurmane ke poora refund diya gaya.\nKya aap ya aap ke ghar wale PIA se UK safar karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PIA #UKFlights #Travel #PakistanNews",
+  "tiktok_title": "PIA ki UK flights phir bahaal, ab apne Boeing 777 jahazon se",
+  "publish": {
+    "slot": "2026-11-26T19:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
