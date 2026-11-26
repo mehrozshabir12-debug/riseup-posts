@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-26-govt-ji-committee-fuel-relief",
+  "type": "news",
+  "headline": "The federal government and Jamaat-i-Islami agreed on Thursday, at a meeting between Prime Minister Shehbaz Sharif and JI chief Hafiz Naeemur Rehman at the PM House in Islamabad, to form a committee to further deliberate on and implement JI's recommendations for the economy, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2047234/ji-govt-to-form-committee-to-further-deliberate-implement-recommendations-on-fuel-relief",
+      "published_at": "2026-11-26T21:04:27+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/aba78b6b-869e-4a2a-aefe-da2484c9a300/3b106986-8641-482c-8500-cb2ab6c42d4b/Realistic_photo_of_a_busy_petrol_station_in_Pakistan_at_even.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYTk4ZDYxNzhmZWYwOWExZCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTgwNTQzMn0._qBtdAfCjLMmdGxENRQQTrhAUGctEAOF70TZxOtkRY8",
+    "head1": "Hukumat Aur JI",
+    "head2_hl": "Committee",
+    "head2": "Banegi",
+    "kicker": "Fuel Relief Par Baat Cheet",
+    "desc": "PM Shehbaz aur Hafiz Naeemur Rehman ki mulaqat mein faisla",
+    "source": "Dawn",
+    "date": "26 NOV 2026"
+  },
+  "caption": "Hukumat aur Jamaat-i-Islami ke darmiyan naya faisla! ⛽\nDawn ke mutabiq Thursday ko Islamabad mein PM House par Prime Minister Shehbaz Sharif aur JI ke Ameer Hafiz Naeemur Rehman ki mulaqat hui. Faisla hua ke maeeshat ki behtari ke liye JI ki sifarishat par mazeed ghaur aur un par amal ke liye ek committee banayi jayegi. PM ne bataya ke September mein shuru hone wali PM Fuel Relief Scheme, jo motorcycles aur 800cc tak ki gariyon ke liye hai, se 20 million log faida utha chuke hain. Hafiz Naeemur Rehman ne kaha ke baat cheet mein \"positive development\" hui hai, lekin JI mazeed relief ka mutalba jari rakhegi.\nKya petrol par mazeed relief milna chahiye? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #FuelRelief #JamaatIslami #PetrolPrice #PakistanNews",
+  "tiktok_title": "Hukumat aur JI fuel relief sifarishat par committee banayenge",
+  "publish": {
+    "slot": "2026-11-26T22:00:00+05:00",
+    "networks": ["facebook", "instagram"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
