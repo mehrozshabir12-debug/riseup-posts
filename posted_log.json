@@ -15105,5 +15105,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T14:00:00+05:00",
+  "request_id": "2026-11-26-karachi-collapse-sbca-chief-suspended",
+  "layout": "bold",
+  "headline": "The Sindh government on Thursday suspended Sindh Building Control Authority Director General Waseem Shamshad, East Deputy Commissioner Nasrullah Abbasi, East SSP Zubair Sheikh and 16 SBCA officials over alleged negligence after a six-storey under-construction building collapsed in Karachi's Admin Society near Baloch Colony on Wednesday, killing at least three people and injuring 14, Geo News reports.",
+  "source_outlet": "Geo News",
+  "source": "https://www.geo.tv/latest/692684-sindh-suspends-sbca-chief-other-officials-over-negligence-in-karachi-building-collapse",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/692684-sindh-suspends-sbca-chief-other-officials-over-negligence-in-karachi-building-collapse",
+    "published_at": "2026-11-26T13:16:00+05:00"
+   }
+  ],
+  "published": "2026-11-26T13:16:00+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 713142315,
+  "image": "posts/2026-11-26-karachi-collapse-sbca-chief-suspended.jpg",
+  "story": "posts/2026-11-26-karachi-collapse-sbca-chief-suspended-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
