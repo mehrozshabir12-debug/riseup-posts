@@ -1,1 +1,67 @@
-{"slot": "2026-11-26T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T20:47:00+05:00"}
+{
+ "slot": "2026-11-26T21:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T20:47:00+05:00",
+ "run_finished_pkt": "2026-11-26T20:52:13+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Abbott Pakistan on Thursday launched a lower-cost biosimilar of the bone disease drug denosumab, pricing its six-month 60-milligram injection at Rs35,000, as about 9.9 million people in Pakistan have osteoporosis, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-gets-new-bone-disease-drug-in-push-to-lower-treatment-costs-3008162",
+    "published_at": "2026-11-26T20:18:22+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-abbott-low-cost-osteoporosis-injection",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-abbott-low-cost-osteoporosis-injection.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "task_id": "c5bfc245-b170-4864-b209-bca0a2fa2ed3"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 443317982,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3137062161256657953",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 443318003,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1293193319898397047",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Windows 2026-11-24T20:45 .. 2026-11-27T08:45 PKT read OK (+ T-1h..T+1h). No non-Story post at 21:00 (owner reel at 20:57 is not at T). RiseUp day 2026-11-26: 6 news feed posts before this (10,12,16,18,19,20; 14:00 feed failed earlier). Pipeline skipped TikTok (allowed-by-21:00 pacing = 6).",
+  "previous_slot_check": "20:00 feed 443239872 FB/IG/TikTok PUBLISHED; Story 443239906 FB/IG PUBLISHED.",
+  "news_search": "Picked Arab News bone-disease drug story (20:18 PKT, within 2h). Not a duplicate (16:00 Mehfooz Dawa app is a different event).",
+  "verification": "Article opened; article:published_time 2026-11-26T15:18:22Z; Rs35,000, 60mg six-month injection, 9.9m / 7.2m women, biosimilar, Abbott Pakistan checked against article.",
+  "image": "Runway nano-banana-2-lite, 1 attempt, clinic scene with anonymous elderly woman and doctor, no readable text.",
+  "publish": "Feed card compared with approved posts/2026-11-26-islamabad-rawalpindi-local-holiday-nov27.jpg: same layout. Feed 21:00 (FB+IG) + Story 21:05 scheduled, PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Islamabad FDE winter timings for schools (Express Tribune, 17:52 PKT)",
+   "reason": "older (4h window); newer 2h story available"
+  },
+  {
+   "headline": "Polio case in Karak, tally 10 (Geo)",
+   "reason": "published 25 Nov 20:37 PKT, older than 8h"
+  }
+ ],
+ "errors": []
+}
