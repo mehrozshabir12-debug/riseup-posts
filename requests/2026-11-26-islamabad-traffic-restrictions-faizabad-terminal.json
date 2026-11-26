@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-26-islamabad-traffic-restrictions-faizabad-terminal",
+  "type": "news",
+  "headline": "Islamabad police on Thursday announced traffic restrictions, barring heavy vehicles from Islamabad and Rawalpindi and closing Faizabad Bus Terminal from 6 p.m. Thursday until 12:30 a.m. Saturday, November 28, for the movement of foreign delegations ahead of expected Makkah defense pact talks, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/islamabad-announces-traffic-restrictions-ahead-of-expected-makkah-defense-pact-talks-3008110",
+      "published_at": "2026-11-26T09:35:26+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/e55af375-40bc-4872-927a-34abf51069e3/d6c01067-776a-4dd8-81de-862b40268001/Realistic_news_photo_of_a_wide_highway_entrance_to_Islamabad.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZWFlMmFhNTRkOWQ2M2RkMyIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTc1Njg4NH0.-Mt6USXt91iMa-11ls-wCv6tmmuQ0TPgNWwvbi7dxaA",
+    "head1": "Islamabad Mein Traffic",
+    "head2_hl": "Pabandiyan",
+    "head2": "",
+    "kicker": "Faizabad Terminal Bhi Band",
+    "desc": "Heavy gariyan Thursday shaam 6 se Saturday 12:30 AM tak band",
+    "source": "Arab News",
+    "date": "26 NOV 2026"
+  },
+  "caption": "Islamabad aur Rawalpindi walon ke liye zaroori khabar! 🚦\nArab News ke mutabiq Islamabad police ne Thursday ko foreign delegations ki aamad-o-raft ki wajah se traffic pabandiyon ka elaan kiya hai. Yeh pabandiyan Pakistan, Saudi Arabia aur Turkiye ke Makkah defense pact par mutawaqqa muzakrat se pehle lagayi gayi hain. Heavy gariyon ka motorway aur GT Road se Islamabad aur Rawalpindi mein dakhla Thursday shaam 6 baje se Friday aur Saturday (28 November) ki darmiyani raat 12:30 baje tak band rahega, aur isi dauran Faizabad Bus Terminal bhi band rahega. 7th Avenue se Pak Secretariat tak Metro bus aur electric bus Thursday raat 10 baje se isi waqt tak nahi chalegi. Margalla Hills ki Trail 3 aur 5 Friday ko subah 6 se raat 11 baje tak band rahengi. Police ne shehriyon se kaha hai ke ghair zaroori safar se bachein.\nKya aap ka safar in pabandiyon se mutasir hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Islamabad #Rawalpindi #TrafficUpdate #PakistanNews",
+  "tiktok_title": "Islamabad, Rawalpindi mein traffic pabandiyan, Faizabad terminal band",
+  "publish": {
+    "slot": "2026-11-26T10:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram",
+      "tiktok"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
