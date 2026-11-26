@@ -1,1 +1,29 @@
-{"slot": "2026-11-26T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T22:46:54+05:00"}
+{
+ "slot": "2026-11-26T23:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T22:46:54+05:00",
+ "run_finished_pkt": "2026-11-26T22:52:17+05:00",
+ "test_mode": false,
+ "outcome": "error_publish_permission_denied",
+ "story": {"headline": "The federal government cut the petrol price by Re1 to Rs313 per litre and high-speed diesel by Rs2 to Rs346 per litre for November 27, according to an OGRA press release reported by The Express Tribune.",
+  "sources": [{"outlet": "Express Tribune", "url": "https://tribune.com.pk/story/2642510/govt-cuts-petrol-by-re1-diesel-by-rs2-for-nov-27", "published_at": "2026-11-26T22:09:17+05:00"}]},
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-petrol-re1-diesel-rs2-cut-nov27",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-petrol-re1-diesel-rs2-cut-nov27.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok", "model": "nano-banana-2-lite", "task_id": "38dcdbfc-9ec9-4b3a-8c6b-3f2d7ecee7d2"}],
+ "metricool": {
+  "feed": {"id": null, "plannerUrl": null, "networks": {}},
+  "story": {"id": 443456159, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-397595840908080398", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "Windows 26 Nov 10:00-27 Nov 11:00 read OK (older 24-25 Nov history taken from the 22:00 run's full check + posted_log.json). No non-Story post at 23:00. Today 8 news feed posts before this one (cap 10). TikTok already 8 today, so TikTok left out.",
+  "previous_slot_check": "22:00 feed 443388783 FB+IG PUBLISHED; story 443388806 FB+IG PUBLISHED.",
+  "news_search": "Dawn / Tribune / Geo / Arab News / Brecorder search. Chose Tribune petrol Re1 / diesel Rs2 cut for Nov 27 (new daily price; 25 Nov post was the earlier Rs4/Rs5 cut).",
+  "verification": "Tribune article read: article:published_time 2026-11-26T17:09:17Z = 22:09:17 PKT; Re1/Rs2 cut, Rs313/Rs346, OGRA press release, previous Rs4/Rs5 cut all from article.",
+  "image": "Runway nano-banana-2-lite, 1 image, night fuel station, no readable text or public figures.",
+  "publish": "Card + story rendered by workflow (awaiting_publish), card compared with 2026-11-26-govt-ji-committee-fuel-relief.jpg: identical layout. Story scheduled 23:05 (443456159). FEED createScheduledPost was DENIED by the session permission classifier, so the feed post (FB+IG) was NOT scheduled. Not retried."
+ },
+ "skipped_candidates": [],
+ "errors": ["createScheduledPost (feed, 23:00): Permission for this action was denied by the Claude Code auto mode classifier. Reason: [Undermining Oversight]."]
+}
