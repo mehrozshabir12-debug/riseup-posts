@@ -15140,5 +15140,34 @@
    "feed": {},
    "story": {}
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T16:00:00+05:00",
+  "request_id": "2026-11-26-mehfooz-dawa-medicine-app",
+  "layout": "bold",
+  "headline": "Prime Minister Shehbaz Sharif on Thursday launched the Mehfooz Dawa app in Islamabad, which lets people scan a medicine's batch number to check against a database of around 92,000 medicines whether it is genuine (green screen) or fake (red screen), lodge complaints and report shortages, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2047200/pm-shehbaz-launches-medicine-verification-app-mehfooz-dawa-in-bid-to-curb-counterfeiting",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047200/pm-shehbaz-launches-medicine-verification-app-mehfooz-dawa-in-bid-to-curb-counterfeiting",
+    "published_at": "2026-11-26T15:19:36+05:00"
+   }
+  ],
+  "published": "2026-11-26T15:19:36+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 153055111,
+  "image": "posts/2026-11-26-mehfooz-dawa-medicine-app.jpg",
+  "story": "posts/2026-11-26-mehfooz-dawa-medicine-app-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
