@@ -1,1 +1,36 @@
-{"slot": "2026-11-26T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T15:46:56+05:00"}
+{
+ "slot": "2026-11-26T16:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T15:46:56+05:00",
+ "run_finished_pkt": "2026-11-26T15:51:44+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Prime Minister Shehbaz Sharif on Thursday launched the Mehfooz Dawa app in Islamabad, which lets people scan a medicine's batch number to check against a database of around 92,000 medicines whether it is genuine (green screen) or fake (red screen), lodge complaints and report shortages, Dawn reports.",
+  "sources": [{"outlet": "Dawn", "url": "https://www.dawn.com/news/2047200/pm-shehbaz-launches-medicine-verification-app-mehfooz-dawa-in-bid-to-curb-counterfeiting", "published_at": "2026-11-26T15:19:36+05:00"}]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-mehfooz-dawa-medicine-app",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-mehfooz-dawa-medicine-app.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok", "model": "nano-banana-2-lite", "task_id": "ea09dba9-157c-4876-b8c9-fa8906ca91f5"}],
+ "metricool": {
+  "feed": {"id": 442936798, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3240752917668212810", "networks": {"facebook": "PENDING", "instagram": "PENDING", "tiktok": "PENDING"}},
+  "story": {"id": 442936882, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2208809442744644865", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand settings OK (FB, IG, TikTok connected, Asia/Karachi); six-hour windows 24 Nov 15:00 .. 27 Nov 04:00 PKT all read OK; no post at 16:00; news feed posts this RiseUp day before this = 2 (10:00, 12:00; 14:00 feed was never scheduled) (cap 10); TikTok today = 2 (cap 8)",
+  "previous_slot_check": "14:00 feed: not present in Metricool (14:00 run's feed createScheduledPost was denied; not touched by this run); 14:05 story 442816607 FB+IG PUBLISHED",
+  "news_search": "Mehfooz Dawa medicine verification app launch (Dawn 15:19 PKT; also BR 14:50, Arab News 15:25) chosen: newest important story for ordinary people in 2h window; not posted before",
+  "verification": "Single approved outlet Dawn, meta published_time 2026-11-26T15:19:36+05:00; PM Shehbaz Sharif, Islamabad, Thursday, DRAP CEO Dr Obaidullah, batch-number scan, green = authentic / red = fake, complaints, shortage reports, around 92,000 medicines all checked against the article",
+  "image": "Runway nano-banana-2-lite, 1 attempt: pharmacy counter, anonymous hand scanning plain box with phone, pharmacist from behind; no text/logos/public figures",
+  "card_check": "Feed card compared with posts/2026-11-26-seafood-exporters-5pc-value-addition-target.jpg: same approved layout; text, date and source correct; story card same approved story layout",
+  "publish": "feed + story scheduled via Metricool exactly from payloads, all PENDING"
+ },
+ "skipped_candidates": [
+  {"headline": "Pakistan and Russia target $5 billion trade by 2030 (Arab News)", "reason": "less relevant to ordinary people than medicine app"},
+  {"headline": "IHC extends stay on Islamabad LG polls (Dawn)", "reason": "narrower interest"},
+  {"headline": "Security forces kill 12 terrorists in Balochistan (ISPR)", "reason": "violence"}
+ ],
+ "errors": []
+}
