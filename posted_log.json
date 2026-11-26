@@ -15353,5 +15353,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T22:00:00+05:00",
+  "request_id": "2026-11-26-govt-ji-committee-fuel-relief",
+  "layout": "bold",
+  "headline": "The federal government and Jamaat-i-Islami agreed on Thursday, at a meeting between Prime Minister Shehbaz Sharif and JI chief Hafiz Naeemur Rehman at the PM House in Islamabad, to form a committee to further deliberate on and implement JI's recommendations for the economy, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2047234/ji-govt-to-form-committee-to-further-deliberate-implement-recommendations-on-fuel-relief",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047234/ji-govt-to-form-committee-to-further-deliberate-implement-recommendations-on-fuel-relief",
+    "published_at": "2026-11-26T21:04:27+05:00"
+   }
+  ],
+  "published": "2026-11-26T21:04:27+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 254644356,
+  "image": "posts/2026-11-26-govt-ji-committee-fuel-relief.jpg",
+  "story": "posts/2026-11-26-govt-ji-committee-fuel-relief-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
