@@ -1,1 +1,69 @@
-{"slot": "2026-11-26T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T09:46:17+05:00"}
+{
+ "slot": "2026-11-26T10:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T09:46:17+05:00",
+ "run_finished_pkt": "2026-11-26T09:51:50+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Islamabad police on Thursday announced traffic restrictions, barring heavy vehicles from Islamabad and Rawalpindi and closing Faizabad Bus Terminal from 6 p.m. Thursday until 12:30 a.m. Saturday, November 28, for the movement of foreign delegations ahead of expected Makkah defense pact talks, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/islamabad-announces-traffic-restrictions-ahead-of-expected-makkah-defense-pact-talks-3008110",
+    "published_at": "2026-11-26T09:35:26+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-islamabad-traffic-restrictions-faizabad-terminal",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-islamabad-traffic-restrictions-faizabad-terminal.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "task_id": "e55af375-40bc-4872-927a-34abf51069e3"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 442649384,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8378099615527160489",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 442649388,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8550102771573672943",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand settings OK (FB, IG, TikTok connected, Asia/Karachi); windows 24 Nov 09:00 .. 26 Nov 22:00 PKT all read OK; no post at 10:00; news feed posts this RiseUp day before this = 0 (cap 10); TikTok today = 0 (cap 8)",
+  "previous_slot_check": "23:00 feed 442103103 FB+IG PUBLISHED; 23:05 story 442103140 FB+IG PUBLISHED",
+  "news_search": "Islamabad traffic restrictions (Arab News 09:35 PKT) chosen: newest, practical for ordinary people in Islamabad/Rawalpindi; no traffic/Makkah-pact post in last 48h",
+  "verification": "Single approved outlet (Arab News), article meta published_time 2026-11-26T04:35:26Z = 09:35:26 PKT; heavy vehicles barred via motorway and GT Road 6 p.m. Thu to 12:30 a.m. Sat 28 Nov; Faizabad Bus Terminal shut same period; Metrobus/electric bus 7th Avenue-Pak Secretariat suspended 10 p.m. Thu to 12:30 a.m. Sat; Margalla trails 3 and 5 closed 6 a.m.-11 p.m. Friday",
+  "image": "Runway nano-banana-2-lite, 1 attempt, highway checkpoint with parked trucks and Margalla Hills, no readable text/logos/public figures",
+  "card_check": "Feed card compared with posts/2026-11-25-petrol-diesel-prices-cut-rs4-rs5.jpg: same approved layout; text, date and source correct; story card same approved story layout",
+  "publish": "feed + story scheduled via Metricool, all PENDING (verified with getScheduledPosts 09:55-10:10)"
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PIA to shift UK flights to own Boeing 777 fleet after Norse Atlantic suspension (Arab News/Reuters 08:57 PKT)",
+   "reason": "traffic restrictions newer and affect more people today"
+  },
+  {
+   "headline": "PM orders independent audit of operational technology parks (BR)",
+   "reason": "less relevant for ordinary people"
+  }
+ ],
+ "errors": []
+}
