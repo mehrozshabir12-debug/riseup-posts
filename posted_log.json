@@ -15226,5 +15226,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T19:00:00+05:00",
+  "request_id": "2026-11-26-pia-restores-uk-flights-own-fleet",
+  "layout": "bold",
+  "headline": "Pakistan International Airlines said on Thursday it had restored normal flight operations between Pakistan and Britain using its own Boeing 777 aircraft, a day after its Norwegian leasing partner Norse Atlantic Airways suddenly suspended services, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistans-pia-restores-uk-flights-after-norwegian-partner-suspends-operations-3008148",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-pia-restores-uk-flights-after-norwegian-partner-suspends-operations-3008148",
+    "published_at": "2026-11-26T18:39:09+05:00"
+   }
+  ],
+  "published": "2026-11-26T18:39:09+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 263887972,
+  "image": "posts/2026-11-26-pia-restores-uk-flights-own-fleet.jpg",
+  "story": "posts/2026-11-26-pia-restores-uk-flights-own-fleet-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 19:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
