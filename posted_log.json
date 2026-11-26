@@ -15395,5 +15395,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T23:00:00+05:00",
+  "request_id": "2026-11-26-petrol-re1-diesel-rs2-cut-nov27",
+  "layout": "bold",
+  "headline": "The federal government cut the petrol price by Re1 to Rs313 per litre and high-speed diesel by Rs2 to Rs346 per litre for November 27, according to an OGRA press release reported by The Express Tribune.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2642510/govt-cuts-petrol-by-re1-diesel-by-rs2-for-nov-27",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642510/govt-cuts-petrol-by-re1-diesel-by-rs2-for-nov-27",
+    "published_at": "2026-11-26T22:09:17+05:00"
+   }
+  ],
+  "published": "2026-11-26T22:09:17+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 2519596,
+  "image": "posts/2026-11-26-petrol-re1-diesel-rs2-cut-nov27.jpg",
+  "story": "posts/2026-11-26-petrol-re1-diesel-rs2-cut-nov27-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
