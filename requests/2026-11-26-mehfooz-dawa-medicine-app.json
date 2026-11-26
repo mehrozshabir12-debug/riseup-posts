@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-26-mehfooz-dawa-medicine-app",
+  "type": "news",
+  "headline": "Prime Minister Shehbaz Sharif on Thursday launched the Mehfooz Dawa app in Islamabad, which lets people scan a medicine's batch number to check against a database of around 92,000 medicines whether it is genuine (green screen) or fake (red screen), lodge complaints and report shortages, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2047200/pm-shehbaz-launches-medicine-verification-app-mehfooz-dawa-in-bid-to-curb-counterfeiting",
+      "published_at": "2026-11-26T15:19:36+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/ea09dba9-157c-4876-b8c9-fa8906ca91f5/1cf18e49-9e7e-4679-a15e-726c0075e5aa/Realistic_news_photograph_inside_a_small_neighbourhood_pharm.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiYWYyNjljMjM4YWJiZjAzOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTgxNjczOX0.1o3lRTvwuKa7YxeAX8XjiWvCjok1IWKnMghf1YKAHk8",
+    "head1": "Asli Ya Naqli Dawa?",
+    "head2_hl": "Mehfooz Dawa",
+    "head2": "App",
+    "kicker": "PM Shehbaz Ne Launch Ki",
+    "desc": "Batch number scan karein, green screen asli, red naqli",
+    "source": "Dawn",
+    "date": "26 NOV 2026"
+  },
+  "caption": "Ab dawa asli hai ya naqli, mobile se pata karein! 💊\nDawn ke mutabiq Prime Minister Shehbaz Sharif ne Thursday ko Islamabad mein \"Mehfooz Dawa\" app launch ki. DRAP ke CEO Dr Obaidullah ne bataya ke app mein dawa ka batch number scan karein: green screen ka matlab dawa asli hai aur red screen ka matlab naqli. Naqli dawa milne par app mein shikayat bhi darj ho sakti hai, aur dawa ki kami (shortage) ki report bhi ki ja sakti hai. App se juray database mein taqreeban 92,000 dawaiyan registered hain.\nKya aap yeh app istemal karenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MehfoozDawa #DRAP #Health #PakistanNews",
+  "tiktok_title": "Mehfooz Dawa app: batch number scan karke asli ya naqli dawa pehchanein",
+  "publish": {
+    "slot": "2026-11-26T16:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
