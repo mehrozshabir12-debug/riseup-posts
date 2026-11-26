@@ -1,1 +1,29 @@
-{"slot": "2026-11-26T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T19:47:00+05:00"}
+{
+ "slot": "2026-11-26T20:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T19:47:00+05:00",
+ "run_finished_pkt": "2026-11-26T19:52:04+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {"headline": "The government on Thursday declared Friday, November 27, a local holiday in Islamabad and Rawalpindi, with essential services remaining operational and Red Zone government employees told to work from home, The Express Tribune reports.",
+           "sources": [{"outlet": "Express Tribune", "url": "https://tribune.com.pk/story/2642478/govt-declares-local-holiday-in-islamabad-pindi-on-nov-27", "published_at": "2026-11-26T18:43:20+05:00"}]},
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-islamabad-rawalpindi-local-holiday-nov27",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-islamabad-rawalpindi-local-holiday-nov27.jpg",
+ "image_attempts": [{"attempt": 1, "result": "ok", "model": "nano-banana-2-lite", "task_id": "21e559b0-c7ac-405d-9cda-00845a58c934"}],
+ "metricool": {
+  "feed": {"id": 443239872, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1587261406734235996", "networks": {"facebook": "PENDING", "instagram": "PENDING", "tiktok": "PENDING"}},
+  "story": {"id": 443239906, "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=9105966859382966018", "networks": {"facebook": "PENDING", "instagram": "PENDING"}}
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "All 6-hour windows 2026-11-24T19:45 .. 2026-11-27T07:45 PKT read OK; no non-Story post at 20:00. RiseUp day 2026-11-26: 5 news feed posts before this (10,12,16,18,19; 14:00 feed failed), TikTok 4 before this -> TikTok added (5/8).",
+  "previous_slot_check": "19:00 feed 443150516 FB PUBLISHED, IG PUBLISHED; Story 443150643 FB PUBLISHED, IG PUBLISHED.",
+  "news_search": "Picked Express Tribune local holiday story (18:43 PKT, within 2h). New development vs 10:00 traffic-restriction post (holiday + Red Zone WFH not covered before).",
+  "verification": "Article opened; published_time 2026-11-26T13:43:20Z; names, date, essential services and Red Zone WFH checked against the article.",
+  "image": "Runway nano-banana-2-lite, 1 attempt, empty Islamabad avenue, no text/faces.",
+  "publish": "Feed card compared with approved posts/2026-11-26-pia-restores-uk-flights-own-fleet.jpg: same layout. Feed 20:00 + Story 20:05 scheduled, all PENDING."
+ },
+ "skipped_candidates": [{"headline": "Gold price per tola increases Rs4,700 (Business Recorder)", "reason": "article page could not be fetched to confirm timestamp; holiday story more relevant"}],
+ "errors": []
+}
