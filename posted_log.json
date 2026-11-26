@@ -15019,5 +15019,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T10:00:00+05:00",
+  "request_id": "2026-11-26-islamabad-traffic-restrictions-faizabad-terminal",
+  "layout": "bold",
+  "headline": "Islamabad police on Thursday announced traffic restrictions, barring heavy vehicles from Islamabad and Rawalpindi and closing Faizabad Bus Terminal from 6 p.m. Thursday until 12:30 a.m. Saturday, November 28, for the movement of foreign delegations ahead of expected Makkah defense pact talks, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/islamabad-announces-traffic-restrictions-ahead-of-expected-makkah-defense-pact-talks-3008110",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/islamabad-announces-traffic-restrictions-ahead-of-expected-makkah-defense-pact-talks-3008110",
+    "published_at": "2026-11-26T09:35:26+05:00"
+   }
+  ],
+  "published": "2026-11-26T09:35:26+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 237366894,
+  "image": "posts/2026-11-26-islamabad-traffic-restrictions-faizabad-terminal.jpg",
+  "story": "posts/2026-11-26-islamabad-traffic-restrictions-faizabad-terminal-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 10:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
