@@ -15062,5 +15062,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-26",
+  "slot": "2026-11-26T12:00:00+05:00",
+  "request_id": "2026-11-26-seafood-exporters-5pc-value-addition-target",
+  "layout": "bold",
+  "headline": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry on Thursday proposed that seafood exporters allocate at least 5% of their total exports to value-added products, noting that only three of 578 seafood exporters currently deal in such products, Business Recorder reports.",
+  "source_outlet": "Business Recorder",
+  "source": "https://www.brecorder.com/news/40450838/govt-proposes-at-least-5-value-addition-target-for-seafood-exporters",
+  "sources": [
+   {
+    "outlet": "Business Recorder",
+    "url": "https://www.brecorder.com/news/40450838/govt-proposes-at-least-5-value-addition-target-for-seafood-exporters",
+    "published_at": "2026-11-26T11:11:28+05:00"
+   }
+  ],
+  "published": "2026-11-26T11:11:28+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 304097155,
+  "image": "posts/2026-11-26-seafood-exporters-5pc-value-addition-target.jpg",
+  "story": "posts/2026-11-26-seafood-exporters-5pc-value-addition-target-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-26 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

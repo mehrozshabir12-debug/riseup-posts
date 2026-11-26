@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-26-seafood-exporters-5pc-value-addition-target",
+ "revision": 1,
+ "request": "requests/2026-11-26-seafood-exporters-5pc-value-addition-target.json",
+ "type": "news",
+ "headline": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry on Thursday proposed that seafood exporters allocate at least 5% of their total exports to value-added products, noting that only three of 578 seafood exporters currently deal in such products, Business Recorder reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-26T12:00:00+05:00",
+ "target_slot": "2026-11-26T12:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-seafood-exporters-5pc-value-addition-target.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-seafood-exporters-5pc-value-addition-target-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-26-seafood-exporters-5pc-value-addition-target.jpg",
+  "story": "posts/2026-11-26-seafood-exporters-5pc-value-addition-target-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 304097155,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-26T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Only 3 of Pakistan's 578 seafood exporters sell value-added products! 🦐\nAccording to Business Recorder, Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry has proposed that seafood exporters allocate at least 5% of their total exports to value-added products such as processed and packaged seafood. He set up a committee, headed by Fisheries Development Commissioner Dr Muhammad Hafeez-ur-Rehman, to work with provincial fisheries departments and exporters on ways to promote processed seafood and raise foreign exchange earnings. He also urged investment in processing, packaging, aquaculture and shrimp hatcheries.\nShould Pakistan export more processed seafood instead of raw fish? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Seafood #Exports #BlueEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-seafood-exporters-5pc-value-addition-target.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Govt proposes 5% value-addition target for Pakistan's seafood exporters",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-26T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-seafood-exporters-5pc-value-addition-target-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-26T11:52:31+05:00"
+}
