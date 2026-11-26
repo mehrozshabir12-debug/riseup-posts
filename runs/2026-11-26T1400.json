@@ -1,1 +1,76 @@
-{"slot": "2026-11-26T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T13:46:28+05:00"}
+{
+ "slot": "2026-11-26T14:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T13:46:28+05:00",
+ "run_finished_pkt": "2026-11-26T13:53:32+05:00",
+ "test_mode": false,
+ "outcome": "error_tool_unavailable: metricool createScheduledPost (feed) denied",
+ "story": {
+  "headline": "The Sindh government on Thursday suspended SBCA DG Waseem Shamshad, East DC Nasrullah Abbasi, East SSP Zubair Sheikh and 16 SBCA officials over alleged negligence after a six-storey under-construction building collapsed in Karachi's Admin Society near Baloch Colony, Geo News reports.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/692684-sindh-suspends-sbca-chief-other-officials-over-negligence-in-karachi-building-collapse",
+    "published_at": "2026-11-26T13:16:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-karachi-collapse-sbca-chief-suspended",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-karachi-collapse-sbca-chief-suspended.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "text in photo (CAT logo and 320D on excavator)",
+   "model": "nano-banana-2-lite",
+   "task_id": "895eace5-9e34-4a36-986d-a3275cc2b25e"
+  },
+  {
+   "attempt": 2,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "task_id": "99dedf0e-8773-4ffb-926a-72d6cf17bd63"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": null,
+   "networks": {
+    "facebook": "NOT_SCHEDULED",
+    "instagram": "NOT_SCHEDULED",
+    "tiktok": "NOT_SCHEDULED"
+   }
+  },
+  "story": {
+   "id": 442816607,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-3366402704989270832",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand settings OK (FB, IG, TikTok connected, Asia/Karachi); six-hour windows 24 Nov 12:00 .. 27 Nov 02:00 PKT all read OK; no post at 14:00; news feed posts this RiseUp day before this = 2 (cap 10); TikTok today = 2 (cap 8)",
+  "previous_slot_check": "12:00 feed 442723165 FB+IG+TikTok PUBLISHED; 12:05 story 442723176 FB+IG PUBLISHED",
+  "news_search": "Karachi building collapse follow-up (Geo 13:16 PKT, SBCA DG + DC/SSP East + 16 SBCA officials suspended) chosen: newest important story in 2h window; collapse not previously posted",
+  "verification": "Single approved outlet Geo News, meta published_time 2026-11-26T13:16:00+05:00; all names/figures (Waseem Shamshad, Nasrullah Abbasi, Zubair Sheikh, 16 SBCA officials, Murad Ali Shah, at least 3 dead, 14 injured, Admin Society near Baloch Colony, six-storey) checked against article",
+  "image": "Runway nano-banana-2-lite, 2 attempts (1st had brand logo text), 2nd: rubble with anonymous rescue workers, no text/logos/public figures",
+  "card_check": "Feed card compared with posts/2026-11-26-seafood-exporters-5pc-value-addition-target.jpg: same approved layout; text, date and source correct; story card same approved layout",
+  "publish": "Story scheduled 14:05 (442816607, PENDING). Feed createScheduledPost was DENIED by the session's permission classifier; not retried or worked around. Feed payload is in results/2026-11-26-karachi-collapse-sbca-chief-suspended.json metricool.payloads.feed for manual scheduling."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan, Maldives eye May 2027 for direct flights (BR 11:00, Arab News 12:28)",
+   "reason": "less important for ordinary people than Karachi collapse action; Maldives covered 25 Nov"
+  },
+  {
+   "headline": "Security forces kill 12 terrorists in Balochistan (ISPR)",
+   "reason": "violence"
+  }
+ ],
+ "errors": [
+  "createScheduledPost (feed): Permission for this action was denied by the Claude Code auto mode classifier. Reason: [Destructive or Unwanted Actions]."
+ ]
+}
