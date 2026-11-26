@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-26-sbp-ai-banking-guidelines-march-2027",
+  "type": "news",
+  "headline": "The State Bank of Pakistan plans to issue its first guidelines on the use of artificial intelligence in banks by March 2027 to prevent unfair lending decisions, strengthen fraud detection and protect customers, SBP Deputy Governor Saleem Ullah said on Thursday, Arab News reports.",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/pakistan-central-bank-to-issue-ai-banking-rules-by-march-2027-official-3008142",
+      "published_at": "2026-11-26T17:24:17+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/1fcfbeea-b819-4c33-8ee6-75b28ece5535/cf97deec-9409-4f8d-9f95-c14438c87e61/Realistic_news_photograph_inside_a_modern_bank_branch_in_Kar.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMzk1ZDI1ODAyYzg1MTExMSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTgyMDE2MH0.mu5sSx-I5shOhl_DL6ehXFW_M47nCdRWBrKmB-4cZ00",
+    "head1": "AI Rules For Banks",
+    "head2_hl": "March 2027",
+    "head2": "",
+    "kicker": "SBP Drafts New Guidelines",
+    "desc": "Rules to stop unfair loans and boost fraud checks",
+    "source": "Arab News",
+    "date": "26 NOV 2026"
+  },
+  "caption": "Pakistan's banks will soon have rules for using AI! 🏦\nAccording to Arab News, State Bank of Pakistan Deputy Governor Saleem Ullah said on Thursday that the SBP plans to issue its first guidelines on the use of artificial intelligence in banks by March 2027. The draft sets a risk-based framework meant to prevent unfair lending decisions, strengthen fraud detection and protect customers, including the right to a human review of decisions made by AI. Roughly half of Pakistan's 55 regulated financial institutions already use AI or are developing systems with it, according to the SBP's Financial Stability Review 2024.\nWould you trust a loan decision made by AI? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #ArtificialIntelligence #Banking #PakistanNews",
+  "tiktok_title": "SBP to issue first AI rules for banks by March 2027",
+  "publish": {
+    "slot": "2026-11-26T18:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
