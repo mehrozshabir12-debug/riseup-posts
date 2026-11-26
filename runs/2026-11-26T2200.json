@@ -1,1 +1,71 @@
-{"slot": "2026-11-26T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-26T21:47:23+05:00"}
+{
+ "slot": "2026-11-26T22:00:00+05:00",
+ "riseup_day": "2026-11-26",
+ "run_started_pkt": "2026-11-26T21:47:23+05:00",
+ "run_finished_pkt": "2026-11-26T21:51:52+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The federal government and Jamaat-i-Islami agreed on Thursday, at a meeting between Prime Minister Shehbaz Sharif and JI chief Hafiz Naeemur Rehman at the PM House in Islamabad, to form a committee to further deliberate on and implement JI's recommendations for the economy, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047234/ji-govt-to-form-committee-to-further-deliberate-implement-recommendations-on-fuel-relief",
+    "published_at": "2026-11-26T21:04:27+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-26-govt-ji-committee-fuel-relief",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-26-govt-ji-committee-fuel-relief.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "task_id": "aba78b6b-869e-4a2a-aefe-da2484c9a300"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 443388783,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-415893426317934166",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 443388806,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=279923949300566174",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "All 6h windows 24 Nov 21:00 - 27 Nov 10:00 read OK; no non-Story post at 22:00. Today: 8 news feed posts incl. this one (cap 10); TikTok already 8 today (5 news + 3 owner reels at 20:37, 20:57, 21:02) so TikTok left out.",
+  "previous_slot_check": "21:00 feed 443317982 FB+IG PUBLISHED; story 443318003 FB+IG PUBLISHED; owner reel 443327539 (21:02) FB/IG/TikTok PUBLISHED.",
+  "news_search": "Dawn/Arab News search; chose JI-govt committee (Dawn 21:04 PKT). Not a duplicate of last 48h.",
+  "verification": "Dawn article read: published 2026-11-26T21:04:27+05:00, updated 21:45:32; all names/figures (20 million beneficiaries, 800cc, September launch) from article.",
+  "image": "Runway nano-banana-2-lite, 1 image, petrol station scene, no readable text or public figures.",
+  "publish": "Card + story rendered by workflow with approved template; compared with 21:00 approved card - same layout. Feed 22:00 FB+IG POST, Story 22:05 FB+IG."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan sets sights on moon after first astronaut flight (Arab News 20:50)",
+   "reason": "Zeeshan Ali/space covered repeatedly in last 48h"
+  },
+  {
+   "headline": "Makkah pact nations to discuss Yemen in Islamabad (Arab News 20:55)",
+   "reason": "Same event as Makkah pact talks already covered at 10:00 (traffic restrictions); less relevant to ordinary people"
+  },
+  {
+   "headline": "ECP delimitation schedule for 9 KP districts (Dawn 21:00)",
+   "reason": "Less impact for ordinary people than fuel relief story"
+  }
+ ],
+ "errors": []
+}
