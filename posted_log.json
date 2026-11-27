@@ -15457,7 +15457,21 @@
   "reel_kind": "none",
   "scheduled": "2026-11-27 10:00 PKT",
   "music": null,
-  "publish_status": "awaiting_publish",
-  "metricool_ids": {}
+  "publish_status": "scheduled",
+  "metricool_ids": {
+   "feed": 443931293,
+   "story": 443931307
+  },
+  "network_status": {
+   "feed": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   },
+   "story": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
  }
 ]
