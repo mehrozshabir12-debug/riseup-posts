@@ -1,1 +1,75 @@
-{"slot": "2026-11-27T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-27T15:47:47+05:00"}
+{
+ "slot": "2026-11-27T16:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "run_started_pkt": "2026-11-27T15:47:47+05:00",
+ "run_finished_pkt": "2026-11-27T15:52:24+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Election Commission of Pakistan said on Friday that allocating party tickets is an internal matter for political parties and it has no legal authority to make them field women on winnable general seats, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats",
+    "published_at": "2026-11-27T14:30:03+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-27-ecp-women-winnable-seats",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-ecp-women-winnable-seats.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "runway_task": "91a0ee81-c40f-44e2-a7f1-32c14742204f",
+   "credits_remaining_after": 2071
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 444201259,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8888879054814425641",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 444201281,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7114407035661038333",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: brand 7305396 Asia/Karachi, FB/IG/TikTok connected. 11 windows 25 Nov 15:00 - 28 Nov 04:00 read; no non-Story post at 16:00 (owner posts at 15:08, 15:38, 16:42, 17:04, 17:12 left untouched). News feed posts this RiseUp day before this: 3 (10:00, 12:00, 14:00). TikTok this RiseUp day: 6 published + 1 owner pending (17:12) before this.",
+  "previous_slot_check": "14:00 feed 444090741 FB/IG/TikTok PUBLISHED; story 444090779 FB/IG PUBLISHED.",
+  "news_search": "Picked ECP/women winnable seats (Dawn, 14:30 PKT). Rejected: Libya boat capsize with Pakistanis (Geo 14:51; FO says unverified, casualty figures unconfirmed); Karachi building collapse toll and Pakistan-China zero-tariff talks (Brecorder pages could not be opened to verify timestamp); Makkah alliance meeting (duplicate of 12:00 post).",
+  "verification": "Dawn article read; meta published 2026-11-27T14:30:03+05:00; Section 206, 5 per cent, 563 seats, NA sub-committee details checked.",
+  "image": "Runway nano-banana-2-lite, 1 attempt; no text/logos/identifiable people.",
+  "publish": "Request rendered (awaiting_publish). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: identical layout. Scheduled payloads.feed (16:00) and payloads.story (16:05) exactly as returned; both PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Boat capsizing off Libya involving Pakistanis yet to be verified, says FO",
+   "reason": "unconfirmed casualty figures"
+  },
+  {
+   "headline": "Karachi building collapse death toll rises",
+   "reason": "source page could not be opened"
+  },
+  {
+   "headline": "Pakistan seeks zero-tariff access in talks with China",
+   "reason": "source page could not be opened"
+  }
+ ],
+ "errors": [
+  "web fetch failed (client_error) for brecorder.com/news/40451018 and /40451021"
+ ]
+}
