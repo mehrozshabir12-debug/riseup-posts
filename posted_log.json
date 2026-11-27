@@ -15559,5 +15559,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "2026-11-27T16:00:00+05:00",
+  "request_id": "2026-11-27-ecp-women-winnable-seats",
+  "layout": "bold",
+  "headline": "The Election Commission of Pakistan said on Friday that allocating party tickets is an internal matter for political parties and it has no legal authority to make them field women on winnable general seats, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047464/ecp-says-it-cannot-force-parties-to-field-women-on-winnable-seats",
+    "published_at": "2026-11-27T14:30:03+05:00"
+   }
+  ],
+  "published": "2026-11-27T14:30:03+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 754213713,
+  "image": "posts/2026-11-27-ecp-women-winnable-seats.jpg",
+  "story": "posts/2026-11-27-ecp-women-winnable-seats-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-27 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
