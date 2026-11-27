@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-27-adb-468m-water-agriculture-kp-punjab",
+  "type": "news",
+  "headline": "The Asian Development Bank on Friday approved two loans totalling $468 million to improve water and agriculture management in Khyber Pakhtunkhwa and Punjab, benefiting about 728,000 people, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab",
+      "published_at": "2026-11-27T17:25:14+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/c3474059-3a53-445b-859f-62fa46bfe045/0b5e087c-f932-4eee-aaf1-40d5fcf1224c/Realistic_documentary_photo_of_a_concrete_irrigation_canal_r.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNDdkM2U3MjAzMjRiNmQzYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTg3MjgwMH0.ZnrwhULIHzk3RRDXtuho_pGQUstXsX3gMYPsktdflAc",
+    "head1": "ADB Ka Bara Qarza",
+    "head2_hl": "$468m",
+    "head2": "Manzoor",
+    "kicker": "KP Aur Punjab Ke Liye",
+    "desc": "Pani aur zarat ka nizam behtar banaya jayega",
+    "source": "Dawn",
+    "date": "27 NOV 2026"
+  },
+  "caption": "KP aur Punjab ke kisanon ke liye $468 million manzoor! 🌾\nDawn ke mutabiq Asian Development Bank (ADB) ne Friday ko $468 million ke do qarze manzoor kiye hain, jin se Khyber Pakhtunkhwa aur Punjab mein pani aur zarat ka nizam behtar banaya jayega. KP ke liye $208 million se Nowshera, Swabi aur Upper Chitral mein abpashi ka nizam banaya aur theek kiya jayega. Punjab ke liye $260 million se pahari ilaqon mein achanak aane wale selab (flash floods) ka khatra kam kiya jayega aur selab ka pani mehfooz kiya jayega. ADB ke mutabiq is se taqreeban 728,000 logon ko faida hoga.\nKya is se kisanon ki zindagi behtar hogi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ADB #Agriculture #KhyberPakhtunkhwa #PakistanNews",
+  "tiktok_title": "ADB ne KP aur Punjab ke liye $468m ke qarze manzoor kiye",
+  "publish": {
+    "slot": "2026-11-27T18:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
