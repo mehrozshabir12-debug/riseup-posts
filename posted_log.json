@@ -15638,5 +15638,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "2026-11-27T19:00:00+05:00",
+  "request_id": "2026-11-27-pakistan-seeks-duty-free-china-access",
+  "layout": "bold",
+  "headline": "Pakistan has sought duty-free access to the Chinese market for all its goods to narrow a $19.6 billion bilateral trade deficit, the planning ministry said on Friday after Planning Minister Ahsan Iqbal's talks in Beijing, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-seeks-duty-free-access-to-chinese-market-to-narrow-196-billion-trade-gap-3008240",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-seeks-duty-free-access-to-chinese-market-to-narrow-196-billion-trade-gap-3008240",
+    "published_at": "2026-11-27T17:55:11+05:00"
+   }
+  ],
+  "published": "2026-11-27T17:55:11+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 61544215,
+  "image": "posts/2026-11-27-pakistan-seeks-duty-free-china-access.jpg",
+  "story": "posts/2026-11-27-pakistan-seeks-duty-free-china-access-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-27 19:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
