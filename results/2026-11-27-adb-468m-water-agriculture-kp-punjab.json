@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-27-adb-468m-water-agriculture-kp-punjab",
+ "revision": 1,
+ "request": "requests/2026-11-27-adb-468m-water-agriculture-kp-punjab.json",
+ "type": "news",
+ "headline": "The Asian Development Bank on Friday approved two loans totalling $468 million to improve water and agriculture management in Khyber Pakhtunkhwa and Punjab, benefiting about 728,000 people, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-27T18:00:00+05:00",
+ "target_slot": "2026-11-27T18:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-adb-468m-water-agriculture-kp-punjab.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-adb-468m-water-agriculture-kp-punjab-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-27-adb-468m-water-agriculture-kp-punjab.jpg",
+  "story": "posts/2026-11-27-adb-468m-water-agriculture-kp-punjab-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 264398752,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T18:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "KP aur Punjab ke kisanon ke liye $468 million manzoor! 🌾\nDawn ke mutabiq Asian Development Bank (ADB) ne Friday ko $468 million ke do qarze manzoor kiye hain, jin se Khyber Pakhtunkhwa aur Punjab mein pani aur zarat ka nizam behtar banaya jayega. KP ke liye $208 million se Nowshera, Swabi aur Upper Chitral mein abpashi ka nizam banaya aur theek kiya jayega. Punjab ke liye $260 million se pahari ilaqon mein achanak aane wale selab (flash floods) ka khatra kam kiya jayega aur selab ka pani mehfooz kiya jayega. ADB ke mutabiq is se taqreeban 728,000 logon ko faida hoga.\nKya is se kisanon ki zindagi behtar hogi? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ADB #Agriculture #KhyberPakhtunkhwa #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-adb-468m-water-agriculture-kp-punjab.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "ADB ne KP aur Punjab ke liye $468m ke qarze manzoor kiye",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T18:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-adb-468m-water-agriculture-kp-punjab-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-27T17:51:51+05:00"
+}

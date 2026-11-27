@@ -15595,5 +15595,34 @@
    "feed": {},
    "story": {}
   }
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "2026-11-27T18:00:00+05:00",
+  "request_id": "2026-11-27-adb-468m-water-agriculture-kp-punjab",
+  "layout": "bold",
+  "headline": "The Asian Development Bank on Friday approved two loans totalling $468 million to improve water and agriculture management in Khyber Pakhtunkhwa and Punjab, benefiting about 728,000 people, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab",
+    "published_at": "2026-11-27T17:25:14+05:00"
+   }
+  ],
+  "published": "2026-11-27T17:25:14+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 264398752,
+  "image": "posts/2026-11-27-adb-468m-water-agriculture-kp-punjab.jpg",
+  "story": "posts/2026-11-27-adb-468m-water-agriculture-kp-punjab-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-27 18:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
