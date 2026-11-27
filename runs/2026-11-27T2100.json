@@ -1,1 +1,73 @@
-{"slot": "2026-11-27T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-27T20:47:13+05:00"}
+{
+  "slot": "2026-11-27T21:00:00+05:00",
+  "riseup_day": "2026-11-27",
+  "run_started_pkt": "2026-11-27T20:47:13+05:00",
+  "run_finished_pkt": "2026-11-27T20:53:39+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "The price of 24-karat gold in Pakistan rose by Rs11,500 per tola on Friday to Rs390,136, according to rates issued by the All Pakistan Sarafa Gems and Jewellers Association, APP reports.",
+    "sources": [
+      {
+        "outlet": "APP",
+        "url": "https://www.app.com.pk/business/gold-prices-surge-by-rs11500-per-tola/",
+        "published_at": "2026-11-27T17:31:48+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-27-gold-price-rises-rs11500-tola",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-gold-price-rises-rs11500-tola.jpg",
+  "freshness_window": "4h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 444551390,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4936427755255384648",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 444551426,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8441868697070057980",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: slot window 20:00-22:00 plus 6h windows 25 Nov 20:00 - 28 Nov 09:00, all succeeded. No non-Story post at 21:00 (owner IG reel at 21:05 and 22:06 left untouched). News feed posts this RiseUp day before this: 7 (10,12,14,16,18,19,20) -> this is #8 of 10. TikTok this RiseUp day already 8 (cap) -> TikTok left out (pipeline payload FB+IG only).",
+    "previous_slot_check": "20:00 feed 444487492 FB/IG PUBLISHED (FB 122191851764855502, IG DgP-Si4FTTZ); story 444487531 FB/IG PUBLISHED.",
+    "news_search": "Picked gold price +Rs11,500/tola (APP 17:31 PKT). Previous gold post was 25 Nov (a fall); today's rise is a new daily development. Rejected candidates in skipped_candidates.",
+    "verification": "APP article read: meta article:published_time 2026-11-27T17:31:48+05:00, dateline ISLAMABAD Nov 27. Checked: Friday; 24k per tola +Rs11,500 to Rs390,136; 10g +Rs9,859 to Rs334,478; international +$115 to $3,676/oz; silver per tola +Rs277 to Rs4,906; rates of All Pakistan Sarafa Gems and Jewellers Association. Consistent with 25 Nov Rs373,936 + 26 Nov Rs4,700 rise + today's Rs11,500.",
+    "image": "Runway nano-banana-2-lite, 1 attempt (task 5a3a7e49); gold bridal necklace on velvet stand with small gold bars in jewellery shop, anonymous woman from behind; no text/logos/identifiable people; different look from 25 Nov gold photo.",
+    "publish": "Request rendered (awaiting_publish; feed 21:00, story 21:05). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout (logo, white headline, yellow highlight box, yellow rules, kicker, desc, source line, social icons; story with LATEST NEWS pill and yellow frame). Scheduled payloads.feed and payloads.story exactly as returned; both PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Pakistan pushes Islamabad airport outsourcing tender to early 2027 (Arab News 19:57)",
+      "reason": "based on Privatization Commission statement issued Thursday; first report likely older than 8 h"
+    },
+    {
+      "headline": "Karachi Baloch Colony building collapse death toll rises to 8",
+      "reason": "casualty/disaster story; rejected in earlier runs"
+    },
+    {
+      "headline": "Pakistan, Saudi Arabia, Turkiye conclude Makkah defense pact talks (Arab News)",
+      "reason": "same event as 12:00 post; no substantial new facts"
+    },
+    {
+      "headline": "Gold price per tola jumps Rs11,500 (Business Recorder)",
+      "reason": "page not fetchable (client_error); same story verified via APP instead"
+    }
+  ],
+  "errors": []
+}
