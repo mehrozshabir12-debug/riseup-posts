@@ -1,1 +1,73 @@
-{"slot": "2026-11-27T23:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-27T22:46:43+05:00"}
+{
+  "slot": "2026-11-27T23:00:00+05:00",
+  "riseup_day": "2026-11-27",
+  "run_started_pkt": "2026-11-27T22:46:43+05:00",
+  "run_finished_pkt": "2026-11-27T22:52:17+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "The Pakistan Olympic Association announced on Friday that Pakistan will host the 14th South Asian Games from September 18 to 27, 2027, after the event was postponed from its original April 3-11 dates, Express Tribune reports.",
+    "sources": [
+      {
+        "outlet": "Express Tribune",
+        "url": "https://tribune.com.pk/story/2642678/poa-announces-revised-schedule-of-14th-south-asian-games",
+        "published_at": "2026-11-27T18:42:49+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-27-south-asian-games-sept-2027",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-south-asian-games-sept-2027.jpg",
+  "freshness_window": "6h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 444683065,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2381285636298486954",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 444683080,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8569978363241152407",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: slot window 22:00-00:00 plus 6-hour windows 25 Nov 22:00 - 28 Nov 11:00, all succeeded. No non-Story post at 23:00. News feed posts this RiseUp day before this: 9 (10,12,14,16,18,19,20,21,22) -> this is #10 of 10 (daily cap now reached). TikTok this RiseUp day already 8 -> cap reached, request networks facebook+instagram only.",
+    "previous_slot_check": "22:00 feed 444622332 FB/IG PUBLISHED (FB 122191863290855502, IG DgQMN7jFS9E); story 444622354 FB/IG PUBLISHED. Owner IG reel 443904304 at 22:06 PUBLISHED (not touched).",
+    "news_search": "Picked POA revised schedule for 14th South Asian Games (Express Tribune 18:42 PKT, within 6h of slot). Not a duplicate: no South Asian Games post in last 48h on Metricool or logs (20:00 run had rejected only an earlier unnamed-source version).",
+    "verification": "Tribune article read: meta article:published_time 2026-11-27T13:42:49+00:00 (18:42 PKT), byline Sports Desk. Checked: POA announced Friday; Sept 18-27, 2027; originally April 3-11 in Islamabad, Lahore, Peshawar; agreement of all participating NOCs; POA secretary general Muhammad Khalid Mahmood; reason = rescheduling of 6th Asian Indoor and Martial Arts Games; 28 sports disciplines; third time Pakistan hosts.",
+    "image": "Runway nano-banana-2-lite, 1 attempt (task 192d398c); stadium at golden hour, running track, green-white flags, three anonymous athletes from behind; no readable text/logos/identifiable people.",
+    "publish": "Request rendered (awaiting_publish; feed 23:00, story 23:05). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout (logo, white headline, yellow highlight box, yellow rules, kicker, desc, source line, social icons; story with LATEST NEWS pill and yellow frame). Scheduled payloads.feed and payloads.story exactly as returned. Both PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Petrol price down Re1 per litre, diesel unchanged (Business Recorder)",
+      "reason": "article could not be fetched (client_error); price change announced 26 Nov night, older than 8 h"
+    },
+    {
+      "headline": "Man rescued alive 2 days after Karachi Baloch Colony building collapse, toll 8 (Dawn, first published 10:10, upd 20:34)",
+      "reason": "first report of rescue older than 8 h before slot; casualty story with 11 still missing"
+    },
+    {
+      "headline": "Pakistan, Turkiye pledge support for Saudi Arabia against Houthi attacks (Arab News)",
+      "reason": "same Makkah pact meetings event as 12:00 post"
+    },
+    {
+      "headline": "Shahid Khaqan Abbasi warns against referendum on new provinces (Tribune)",
+      "reason": "political statement; lower relevance for ordinary people"
+    }
+  ],
+  "errors": []
+}
