@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-27-lpg-prices-nearly-halve-uae-cargo",
+  "type": "news",
+  "headline": "LPG prices have fallen nearly 48 percent from last month's highs in parts of Pakistan, with a Karachi dealer quoting Rs420 per kg after a bulk UAE shipment eased the shortage, Arab News reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/pakistan/lpg-prices-nearly-halve-in-parts-of-pakistan-as-uae-cargo-eases-shortage-3008208",
+      "published_at": "2026-11-27T08:27:10+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/04568ded-56d2-444a-9547-c30dbab4b2df/6f3e9788-f1c3-45b9-81e7-2e08bf9877df/Realistic_daytime_photo_of_a_small_LPG_cylinder_shop_on_a_bu.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMTdmOTBlNTBkMzQxYTNlNiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTkxNjQ5Nn0.3ZxavhHbheoIj2fdodflSINHSBaIhtioiZJ_Nv3cpdU",
+    "head1": "LPG Taqreeban Aadhi Sasti",
+    "head2_hl": "48%",
+    "head2": "Kami",
+    "kicker": "Karachi Mein Rs420 Fi Kg",
+    "desc": "Border bandish ke baad kai ilaqon mein Rs800 tak pohanchi thi",
+    "source": "Arab News",
+    "date": "27 NOV 2026"
+  },
+  "caption": "LPG ki qeemat taqreeban aadhi ho gayi! 📉\nArab News ke mutabiq dealers ne bataya ke mulk ke kuch hisson mein LPG (cooking gas) pichle maheene ki sab se oonchi qeemat se taqreeban 48 percent sasti ho gayi hai. Karachi ke ek dealer ne Thursday ko LPG ka rate Rs420 fi kg bataya. 17 October ko Iran border par Gabd-Rimdan aur Taftan crossing band hone ke baad kai ilaqon mein yeh Rs800 fi kg tak pohanch gayi thi. UAE se aane wali LPG ki bari khep ne kami door karne mein madad di. Phir bhi Rs420 ka rate OGRA ki November ki had Rs294.08 fi kg se taqreeban 43 percent zyada hai.\nAap ke ilaqe mein LPG kis rate par mil rahi hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #LPG #GasPrice #Mehngai #PakistanNews",
+  "tiktok_title": "LPG taqreeban aadhi sasti: Karachi mein Rs420 fi kg",
+  "publish": {
+    "slot": "2026-11-27T10:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
