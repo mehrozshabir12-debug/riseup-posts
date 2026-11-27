@@ -1,1 +1,75 @@
-{"slot": "2026-11-27T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-27T13:49:20+05:00"}
+{
+ "slot": "2026-11-27T14:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "run_started_pkt": "2026-11-27T13:49:20+05:00",
+ "run_finished_pkt": "2026-11-27T14:03:19+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Pakistan Cricket Board has announced central contracts for eight women cricketers for the 2026-27 season, with captain Fatima Sana and Sadia Iqbal in Category A, Geo News reports.",
+  "sources": [
+   {
+    "outlet": "Geo News",
+    "url": "https://www.geo.tv/latest/692835-pcb-unveils-womens-central-contracts-for-2026-27-season",
+    "published_at": "2026-11-27T11:55:00+05:00"
+   }
+  ]
+ },
+ "freshness_window": "3h",
+ "request_id": "2026-11-27-pcb-women-central-contracts-2026-27-r2",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-pcb-women-central-contracts-2026-27-r2.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "runway_task": "c1f78afb-f653-4077-94d5-8857f968b6cc",
+   "credits_remaining_after": 2075
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 444090741,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=8355791923414125688",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 444090779,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1927513975872009432",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: 6 windows 25 Nov 13:00 - 28 Nov 02:00 read; no non-Story post at 14:00. Today's news feed posts before this: 2 (10:00, 12:00). TikTok this RiseUp day before this: 5 incl. owner reels.",
+  "previous_slot_check": "12:00 feed 443990763 FB/IG/TikTok PUBLISHED; story 443990786 FB/IG PUBLISHED.",
+  "news_search": "Picked PCB women's central contracts (Geo, 11:55 PKT). Rejected: Arab News moon/astronaut (26 Nov 20:50, too old); Tribune nuclear AI UN (25 Nov, too old); Makkah pact delegates arrive (same event as 12:00 post); JUI-F nationwide protests (already covered by owner reels); Karachi building collapse (Brecorder page could not be opened to verify timestamp).",
+  "verification": "Geo article read; meta published 2026-11-27T11:55:00+05:00; all names/categories/date 30 June 2027 checked.",
+  "image": "Runway nano-banana-2-lite, 1 attempt, no text/logos/identifiable people.",
+  "publish": "First request rejected (slot must be minute 00: 14:10 used). r2 with slot 14:00 rendered; pipeline set feed 14:08 / story 14:13 since it was past T-5. Card compared with posts/2026-11-27-lpg-prices-nearly-halve-uae-cargo.jpg: identical layout. Scheduled payloads exactly as returned."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Delegates arrive in Islamabad for Makkah pact talks",
+   "reason": "duplicate of 12:00 Makkah pact post"
+  },
+  {
+   "headline": "JUI-F chief calls nationwide protests",
+   "reason": "same event already posted (reels)"
+  },
+  {
+   "headline": "Karachi building collapse toll six",
+   "reason": "source page could not be opened"
+  }
+ ],
+ "errors": [
+  "request 2026-11-27-pcb-women-central-contracts-2026-27 rejected: publish.slot is required: the target slot, e.g. 2026-10-14T15:00:00+05:00 (minute 00, hours 10-23 or 00 PKT)"
+ ]
+}
