@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-27-gold-price-rises-rs11500-tola",
+ "revision": 1,
+ "request": "requests/2026-11-27-gold-price-rises-rs11500-tola.json",
+ "type": "news",
+ "headline": "The price of 24-karat gold in Pakistan rose by Rs11,500 per tola on Friday to Rs390,136, according to rates issued by the All Pakistan Sarafa Gems and Jewellers Association, APP reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-27T21:00:00+05:00",
+ "target_slot": "2026-11-27T21:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-gold-price-rises-rs11500-tola.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-gold-price-rises-rs11500-tola-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-27-gold-price-rises-rs11500-tola.jpg",
+  "story": "posts/2026-11-27-gold-price-rises-rs11500-tola-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 726949955,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T21:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Sone ki qeemat mein Rs11,500 fi tola ka izafa! 💰\nAPP ke mutabiq All Pakistan Sarafa Gems and Jewellers Association ke jari karda rates mein Friday ko 24-karat sone ki qeemat Rs11,500 barh kar Rs390,136 fi tola ho gayi. 10 gram sona Rs9,859 barh kar Rs334,478 ka ho gaya. Aalmi market mein sona $115 barh kar $3,676 fi ounce raha, jabke chandi Rs277 barh kar Rs4,906 fi tola ho gayi.\nKya aap ke khayal mein sona mazeed mehnga hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #SoneKiQeemat #PakistanEconomy #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-gold-price-rises-rs11500-tola.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T21:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-gold-price-rises-rs11500-tola-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-27T20:52:30+05:00"
+}
