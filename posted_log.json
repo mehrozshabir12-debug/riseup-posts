@@ -15455,7 +15455,7 @@
   "tiktok": true,
   "anime": false,
   "reel_kind": "none",
-  "scheduled": "2026-11-27 10:00 PKT",
+  "scheduled": true,
   "music": null,
   "publish_status": "scheduled",
   "metricool_ids": {
