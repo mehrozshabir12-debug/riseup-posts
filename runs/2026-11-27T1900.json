@@ -1,1 +1,68 @@
-{"slot": "2026-11-27T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-27T18:47:19+05:00"}
+{
+ "slot": "2026-11-27T19:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "run_started_pkt": "2026-11-27T18:47:19+05:00",
+ "run_finished_pkt": "2026-11-27T18:53:19+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Pakistan has sought duty-free access to the Chinese market for all its goods to narrow a $19.6 billion bilateral trade deficit, the planning ministry said on Friday after Planning Minister Ahsan Iqbal's talks in Beijing, Arab News reports.",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-seeks-duty-free-access-to-chinese-market-to-narrow-196-billion-trade-gap-3008240",
+    "published_at": "2026-11-27T17:55:11+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-27-pakistan-seeks-duty-free-china-access",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-pakistan-seeks-duty-free-china-access.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "runway_task": "b355a634-871f-4346-b8d6-f0798fde8f5a",
+   "credits_remaining_after": 2063
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 444410059,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3304056718280574319",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 444410088,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4641250234112980966",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: windows 25 Nov 18:00 - 28 Nov 07:00 read, all succeeded. No non-Story post at 19:00 (owner reels at 19:06, 20:05, 21:05, 22:06 left untouched). News feed posts this RiseUp day before this: 5 (10,12,14,16,18) -> this is #6 of 10. TikTok this RiseUp day: 8 (10:00, 10:12, 12:00, 14:08, 15:08, 16:00, 17:12, 18:00) -> TikTok left out (cap reached; pipeline also skipped TikTok).",
+  "previous_slot_check": "18:00 feed 444338362 FB/IG/TikTok PUBLISHED (FB 122191838738855502, IG DgPv5zpFbOi, TikTok 7712837519892712724); story 444338394 FB/IG PUBLISHED.",
+  "news_search": "Picked Pakistan seeks duty-free China access (Arab News, 17:55 PKT). No China trade/duty-free story in the last 48 h on Metricool or posted_log. Rejected: Karachi building collapse toll (casualty story, already rejected earlier), Fatima Sana PCB contracts (already posted 14:00), ADB $468m (posted 18:00), Islamabad road closures (covered 26 Nov 10:00), PM SME guidance / IAEA (less relevant).",
+  "verification": "Arab News article read via web fetch: meta published_time 2026-11-27T12:55:11Z = 17:55:11 PKT; byline Nov 27 2026 17:55. Checked $19.6 billion deficit, imports $22.34bn, exports $2.71bn in FY2025-26, Ahsan Iqbal, Zhou Haibing (NDRC vice chairman), Beijing, non-reciprocal arrangement separate from FTA modelled on China's zero-tariff access for African countries.",
+  "image": "Runway nano-banana-2-lite, 1 attempt; container port scene at sunset, no text/logos/identifiable people.",
+  "publish": "Request rendered (awaiting_publish). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout (logo, white headline, yellow highlight box, yellow rules, kicker, desc, source line, social icons; story with LATEST NEWS pill and yellow frame). Scheduled payloads.feed (19:00, FB+IG) and payloads.story (19:05) exactly as returned; both PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Karachi Baloch Colony building collapse death toll rises to 8",
+   "reason": "casualty/disaster story; rejected in earlier runs"
+  },
+  {
+   "headline": "PM calls for simplified procedures for SMEs",
+   "reason": "less relevant to ordinary people"
+  }
+ ],
+ "errors": []
+}
