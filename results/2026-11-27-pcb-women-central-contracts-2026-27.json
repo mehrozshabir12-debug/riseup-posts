@@ -1,0 +1,12 @@
+{
+ "id": "2026-11-27-pcb-women-central-contracts-2026-27",
+ "revision": 1,
+ "request": "requests/2026-11-27-pcb-women-central-contracts-2026-27.json",
+ "status": "rejected",
+ "errors": [
+  "publish.slot is required: the target slot, e.g. 2026-10-14T15:00:00+05:00 (minute 00, hours 10-23 or 00 PKT)"
+ ],
+ "warnings": [],
+ "published": false,
+ "updated_at": "2026-11-27T13:53:33+05:00"
+}
