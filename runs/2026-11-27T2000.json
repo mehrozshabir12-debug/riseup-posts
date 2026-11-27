@@ -1,1 +1,84 @@
-{"slot": "2026-11-27T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-27T19:48:19+05:00"}
+{
+ "slot": "2026-11-27T20:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "run_started_pkt": "2026-11-27T19:48:19+05:00",
+ "run_finished_pkt": "2026-11-27T20:00:06+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The State Bank of Pakistan said on Friday it has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Pujya Mata Sahib Hasi Devi, the fifth head of the historic Shadani Darbar in Ghotki district, available from Friday at SBP Banking Services Corporation exchange counters, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047495/sbp-issues-rs200-commemorative-coin-to-mark-mata-sahib-hasi-devis-200th-birth-anniversary",
+    "published_at": "2026-11-27T19:21:30+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-27-sbp-rs200-commemorative-coin",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-sbp-rs200-commemorative-coin.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "runway_task": "65dfac9f-816e-4fcd-88b8-2300189d851e",
+   "credits_remaining_after": 2059
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 444487492,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1991622334018309549",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 444487531,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7004755511130607332",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: windows 25 Nov 19:00 - 28 Nov 08:00 read, all succeeded. No non-Story post at 20:00 (owner IG reel at 20:05 and later owner reels 21:05, 22:06 left untouched). News feed posts this RiseUp day before this: 6 (10,12,14,16,18,19) -> this is #7 of 10. TikTok this RiseUp day: 8 (10:00, 10:12, 12:00, 14:08, 15:08, 16:00, 17:12, 18:00) -> cap reached, TikTok left out.",
+  "previous_slot_check": "19:00 feed 444410059 FB/IG PUBLISHED (FB 122191843466855502, IG DgP2TVmlR_j); story 444410088 FB/IG PUBLISHED.",
+  "news_search": "Picked SBP Rs200 commemorative coin (Dawn, 19:21 PKT). No coin/SBP-coin story in last 48 h. Rejected candidates listed in skipped_candidates.",
+  "verification": "Dawn article read: meta published_time 2026-11-27T19:21:30+05:00, modified 19:25:58+05:00. Checked: SBP statement on Friday; Rs200; 200th birth anniversary of Pujya Mata Sahib Hasi Devi; fifth head of Shadani Darbar, Hayat Pitafi, Ghotki district; available from Friday at exchange counters of all SBP BSC field offices; cupro-nickel, 30 mm, 13.5 grammes.",
+  "image": "Runway nano-banana-2-lite, 1 attempt; plain silver coin in velvet box on bank counter, no text/logos/identifiable people.",
+  "publish": "Request rendered (awaiting_publish, pipeline set feed 20:05, story 20:10). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout (logo, white headline, yellow highlight box, yellow rules, kicker, desc, source line, social icons; story with LATEST NEWS pill and yellow frame). Scheduled payloads.feed and payloads.story exactly as returned; both PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan, Saudi Arabia, Turkiye open Makkah defense pact talks in Islamabad (Arab News 19:18)",
+   "reason": "same event as 12:00 post (which already said meetings in Islamabad Fri/Sat) and 26 Nov traffic post; no substantial new facts"
+  },
+  {
+   "headline": "Moroccan reciter wins international Qur'an competition (Arab News 13:11)",
+   "reason": "awards given Thursday evening; first report older than 8 h"
+  },
+  {
+   "headline": "Pakistan eyes Sept 15-30 window for 14th South Asian Games (Tribune 15:57)",
+   "reason": "based on unnamed source; follow-up POA announcement page could not be fetched (PROVENANCE_REQUIRED)"
+  },
+  {
+   "headline": "Gold price per tola jumps Rs11,500 (Business Recorder)",
+   "reason": "article could not be fetched (client_error), timestamp/figures unverifiable"
+  },
+  {
+   "headline": "Pakistani woman jet ski instructor at Kallar Kahar (Dawn/AFP 11:00)",
+   "reason": "feature, less fresh than chosen story"
+  },
+  {
+   "headline": "Karachi building collapse toll rises to 8",
+   "reason": "casualty/disaster story; rejected in earlier runs"
+  }
+ ],
+ "errors": []
+}
