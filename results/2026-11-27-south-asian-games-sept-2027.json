@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-27-south-asian-games-sept-2027",
+ "revision": 1,
+ "request": "requests/2026-11-27-south-asian-games-sept-2027.json",
+ "type": "news",
+ "headline": "The Pakistan Olympic Association announced on Friday that Pakistan will host the 14th South Asian Games from September 18 to 27, 2027, after the event was postponed from its original April 3-11 dates, Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-27T23:00:00+05:00",
+ "target_slot": "2026-11-27T23:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-south-asian-games-sept-2027.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-south-asian-games-sept-2027-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-27-south-asian-games-sept-2027.jpg",
+  "story": "posts/2026-11-27-south-asian-games-sept-2027-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 214768496,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T23:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "South Asian Games ki nayi tareekhon ka elaan! 🇵🇰\nExpress Tribune ke mutabiq Pakistan Olympic Association (POA) ne Friday ko elaan kiya ke 14th South Asian Games ab 18 se 27 September 2027 tak Pakistan mein honge. Yeh games pehle 3 se 11 April tak Islamabad, Lahore aur Peshawar mein hone thay. POA ke secretary general Muhammad Khalid Mahmood ke mutabiq nayi tareekhein 6th Asian Indoor and Martial Arts Games ka schedule badalne ki wajah se rakhi gayi hain, aur tamam shareek mulkon ki Olympic committees ne in par ittefaq kiya hai. Is edition mein 28 khel shamil honge, aur Pakistan teesri baar in games ki mezbani karega.\nAap in games mein kaun sa khel dekhna chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SouthAsianGames #POA #PakistanSports #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-south-asian-games-sept-2027.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T23:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-south-asian-games-sept-2027-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-27T22:51:19+05:00"
+}

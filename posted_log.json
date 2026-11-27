@@ -15806,5 +15806,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "2026-11-27T23:00:00+05:00",
+  "request_id": "2026-11-27-south-asian-games-sept-2027",
+  "layout": "bold",
+  "headline": "The Pakistan Olympic Association announced on Friday that Pakistan will host the 14th South Asian Games from September 18 to 27, 2027, after the event was postponed from its original April 3-11 dates, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2642678/poa-announces-revised-schedule-of-14th-south-asian-games",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642678/poa-announces-revised-schedule-of-14th-south-asian-games",
+    "published_at": "2026-11-27T18:42:49+05:00"
+   }
+  ],
+  "published": "2026-11-27T18:42:49+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 214768496,
+  "image": "posts/2026-11-27-south-asian-games-sept-2027.jpg",
+  "story": "posts/2026-11-27-south-asian-games-sept-2027-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-27 23:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
