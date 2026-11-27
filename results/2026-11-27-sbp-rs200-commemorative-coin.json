@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-27-sbp-rs200-commemorative-coin",
+ "revision": 1,
+ "request": "requests/2026-11-27-sbp-rs200-commemorative-coin.json",
+ "type": "news",
+ "headline": "The State Bank of Pakistan said on Friday it has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Pujya Mata Sahib Hasi Devi, the fifth head of the historic Shadani Darbar in Ghotki district, available from Friday at SBP Banking Services Corporation exchange counters, Dawn reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-27T20:05:00+05:00",
+ "target_slot": "2026-11-27T20:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-sbp-rs200-commemorative-coin.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-sbp-rs200-commemorative-coin-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-27-sbp-rs200-commemorative-coin.jpg",
+  "story": "posts/2026-11-27-sbp-rs200-commemorative-coin-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 874157030,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "SBP ne Rs200 ka yaadgaari sikka jari kar diya! 🪙\nDawn ke mutabiq State Bank of Pakistan (SBP) ne Friday ko bataya ke Pujya Mata Sahib Hasi Devi ki 200th birth anniversary par Rs200 ka yaadgaari (commemorative) sikka jari kiya gaya hai. Mata Sahib Hasi Devi Ghotki district ke Hayat Pitafi ilaqe mein tareekhi Shadani Darbar ki paanchvi sarbarah thin. Yeh sikka Friday se SBP Banking Services Corporation ke tamam field offices ke exchange counters par mil raha hai. Sikka cupro-nickel ka hai, is ka diameter 30 mm aur wazan 13.5 gram hai.\nKya aap yaadgaari sikke jama karte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #SBP #CommemorativeCoin #InterfaithHarmony #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-sbp-rs200-commemorative-coin.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T20:10:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-sbp-rs200-commemorative-coin-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-27T19:59:12+05:00"
+}

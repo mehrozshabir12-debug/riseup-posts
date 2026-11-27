@@ -15680,5 +15680,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "2026-11-27T20:00:00+05:00",
+  "request_id": "2026-11-27-sbp-rs200-commemorative-coin",
+  "layout": "bold",
+  "headline": "The State Bank of Pakistan said on Friday it has issued a Rs200 commemorative coin to mark the 200th birth anniversary of Pujya Mata Sahib Hasi Devi, the fifth head of the historic Shadani Darbar in Ghotki district, available from Friday at SBP Banking Services Corporation exchange counters, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2047495/sbp-issues-rs200-commemorative-coin-to-mark-mata-sahib-hasi-devis-200th-birth-anniversary",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047495/sbp-issues-rs200-commemorative-coin-to-mark-mata-sahib-hasi-devis-200th-birth-anniversary",
+    "published_at": "2026-11-27T19:21:30+05:00"
+   }
+  ],
+  "published": "2026-11-27T19:21:30+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 874157030,
+  "image": "posts/2026-11-27-sbp-rs200-commemorative-coin.jpg",
+  "story": "posts/2026-11-27-sbp-rs200-commemorative-coin-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-27 20:05 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
