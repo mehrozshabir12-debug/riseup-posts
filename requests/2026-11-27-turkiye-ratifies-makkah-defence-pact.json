@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-27-turkiye-ratifies-makkah-defence-pact",
+  "type": "news",
+  "headline": "Turkish President Recep Tayyip Erdogan has officially approved the Makkah Agreement on Joint Defense with Pakistan and Saudi Arabia, completing Turkiye's ratification, the Turkish official gazette reported on Friday, according to Arab News (Reuters).",
+  "language": "English",
+  "sources": [
+    {
+      "outlet": "Arab News",
+      "url": "https://www.arabnews.pk/middle-east/erdogan-completes-ratification-process-for-the-makkah-agreement-on-joint-defense-3008217",
+      "published_at": "2026-11-27T11:24:06+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/19301e15-b8f2-48b9-b60d-afbe724983ba/dc6961a2-214e-437c-888e-730b3bb1a3b0/Realistic_photo_of_a_formal_government_conference_room_in_Is.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiOTM2MGI3MmY5YWFhNGUxNSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTkwNDMwM30.biR2UiDfBTJaII4q7sF_t_pghsAd-CV7_zB2YGPE_UQ",
+    "head1": "Turkiye Ratifies",
+    "head2_hl": "Makkah Pact",
+    "head2": "",
+    "kicker": "Joint Defence With Pakistan",
+    "desc": "Erdogan approves pact with Pakistan and Saudi Arabia",
+    "source": "Arab News",
+    "date": "27 NOV 2026"
+  },
+  "caption": "Turkiye completes ratification of the Makkah defence pact! 🤝\nAccording to Arab News (Reuters), the Turkish official gazette reported on Friday that President Recep Tayyip Erdogan has officially approved the Makkah Agreement on Joint Defense with Pakistan and Saudi Arabia, completing Turkiye's ratification. The Turkish Parliament approved it on November 5. The three countries signed the agreement in Makkah in August; under it, an attack on one party is treated as an attack on all. The three nations are scheduled to hold meetings in Islamabad on Friday and Saturday.\nWhat does this pact mean for Pakistan? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MakkahPact #Turkiye #SaudiArabia #PakistanNews",
+  "tiktok_title": "Turkiye ratifies Makkah joint defence pact with Pakistan and Saudi Arabia",
+  "publish": {
+    "slot": "2026-11-27T12:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
