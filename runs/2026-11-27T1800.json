@@ -1,1 +1,68 @@
-{"slot": "2026-11-27T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-27T17:48:16+05:00"}
+{
+ "slot": "2026-11-27T18:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "run_started_pkt": "2026-11-27T17:48:16+05:00",
+ "run_finished_pkt": "2026-11-27T17:52:47+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "The Asian Development Bank on Friday approved two loans totalling $468 million to improve water and agriculture management in Khyber Pakhtunkhwa and Punjab, benefiting about 728,000 people, Dawn reports.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047486/adb-approves-468m-in-loans-to-boost-water-agriculture-management-in-kp-and-punjab",
+    "published_at": "2026-11-27T17:25:14+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-27-adb-468m-water-agriculture-kp-punjab",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-adb-468m-water-agriculture-kp-punjab.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok",
+   "model": "nano-banana-2-lite",
+   "runway_task": "c3474059-3a53-445b-859f-62fa46bfe045",
+   "credits_remaining_after": 2067
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 444338362,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=3720202686973955678",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING",
+    "tiktok": "PENDING"
+   }
+  },
+  "story": {
+   "id": 444338394,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8952322366226152607",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "OK: brand 7305396 Asia/Karachi, FB/IG/TikTok connected. Windows 25 Nov 17:00 - 28 Nov 06:00 read (all succeeded); no non-Story post at 18:00 (owner posts 17:04, 17:12, 19:06, 20:05, 21:05, 22:06 untouched). News feed posts this RiseUp day before this: 4 (10:00, 12:00, 14:00, 16:00). TikTok this RiseUp day before this: 7 (10:00, 10:12, 12:00, 14:08, 15:08, 16:00, 17:12) -> this is #8.",
+  "previous_slot_check": "16:00 feed 444201259 FB/IG/TikTok PUBLISHED (FB 122191827452855502, IG DgPhqDalVH3, TikTok 7712805273370381589); story 444201281 FB/IG PUBLISHED.",
+  "news_search": "Picked ADB $468m KP/Punjab water & agriculture loans (Dawn, 17:25 PKT). Not a duplicate (25 Nov ADB $250m PPP loan is a different loan). Rejected: Libya boat capsize (unverified, FO); Karachi building collapse toll (graphic/casualty story, earlier rejected); IAEA cooperation and PM SME guidance (less relevant to ordinary people).",
+  "verification": "Dawn article read via web fetch; meta published 2026-11-27T17:25:14+05:00, modified 17:48:19; $468m, $208m KP (Nowshera, Swabi, Upper Chitral), $260m Punjab hill torrent project, 728,000 people checked.",
+  "image": "Runway nano-banana-2-lite, 1 attempt; irrigation canal scene, no text/logos/identifiable people.",
+  "publish": "Request rendered (awaiting_publish). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg/-story.jpg: identical layout; template sha256 OK. Scheduled payloads.feed (18:00) and payloads.story (18:05) exactly as returned; both PENDING."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Boat capsizing off Libya involving Pakistanis yet to be verified, says FO",
+   "reason": "unverified / unconfirmed casualty figures"
+  }
+ ],
+ "errors": [
+  "add_repo / register_repo_root tools not available in this session; repo was already cloned locally, so the run continued",
+  "curl to dawn.com blocked by sandbox (exit 56); article read via web fetch instead"
+ ]
+}
