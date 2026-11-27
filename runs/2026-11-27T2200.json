@@ -1,1 +1,73 @@
-{"slot": "2026-11-27T22:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-27T21:49:04+05:00"}
+{
+  "slot": "2026-11-27T22:00:00+05:00",
+  "riseup_day": "2026-11-27",
+  "run_started_pkt": "2026-11-27T21:49:04+05:00",
+  "run_finished_pkt": "2026-11-27T21:54:30+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan made a winning start to the IBSF Team World Cup in Oman on Friday, with Muhammad Asif and Asjad Iqbal beating Oman 3-0 and Rana Irfan and Mubashir Raza beating Sweden 3-0, Express Tribune reports.",
+    "sources": [
+      {
+        "outlet": "Express Tribune",
+        "url": "https://tribune.com.pk/story/2642685/pakistan-sweep-opening-ties-at-ibsf-world-cup",
+        "published_at": "2026-11-27T19:47:05+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-27-pakistan-ibsf-team-world-cup-opening-wins",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins.jpg",
+  "freshness_window": "3h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 444622332,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2783867302773738712",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 444622354,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-800779298401792271",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: slot window 21:00-23:00 plus windows 25 Nov 21:00 - 28 Nov 10:00, all succeeded. No non-Story post at 22:00 (owner IG reel 443904304 at 22:06 left untouched, same handling as the 21:00 run with the 21:05 reel). News feed posts this RiseUp day before this: 8 (10,12,14,16,18,19,20,21) -> this is #9 of 10. TikTok this RiseUp day already 8 (10:00 LPG, 10:12 reel, 12:00, 14:08, 15:08 reel, 16:00, 17:12 reel, 18:00) -> cap reached.",
+    "previous_slot_check": "21:00 feed 444551390 FB/IG PUBLISHED (FB 122191857272855502, IG DgQE2qblTEF); story 444551426 FB/IG PUBLISHED.",
+    "news_search": "Picked Pakistan 3-0 + 3-0 opening wins at IBSF Team World Cup (Express Tribune 19:47 PKT). Not a duplicate: 25 Nov post was the individual IBSF Men's World Cup quarterfinals; the Team World Cup is a separate event that started Friday.",
+    "verification": "Tribune article read: meta article:published_time 2026-11-27T14:47:05+00:00 (19:47 PKT). Checked: Friday, Oman, 16 teams in 4 groups, top two advance; Asif/Asjad beat Oman 72-30, 103-77, 89-34; Irfan/Mubashir beat Sweden 88-30, 67-27, 77-24; Irfan beat Asif 5-0 in Thursday's World Cup final.",
+    "image": "Runway nano-banana-2-lite, 1 attempt (task db72ccce); bright snooker arena, white and red ball on green baize, two anonymous players from behind shaking hands; no readable text/logos/identifiable people; different look from 25 Nov snooker photo.",
+    "publish": "Request rendered (awaiting_publish; feed 22:00, story 22:05). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout (logo, white headline, yellow highlight box, yellow rules, kicker, desc, source line, social icons; story with LATEST NEWS pill and yellow frame). Scheduled payloads.feed and payloads.story; the returned feed payload included tiktok although today's TikTok count is already 8, so tiktok provider and tiktokData were removed to respect the owner's 8/day TikTok cap (everything else exactly as returned). Both PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Makkah Defence Alliance meeting in Islamabad concludes (Dawn, upd 19:31; Arab News upd 20:40)",
+      "reason": "same event as the 12:00 Makkah pact post; no outcome or joint statement yet"
+    },
+    {
+      "headline": "Pakistan warns nuclear weapons must stay under human control (Tribune)",
+      "reason": "published 25 Nov, older than 8 h"
+    },
+    {
+      "headline": "Karachi Baloch Colony building collapse toll / rescue",
+      "reason": "casualty/disaster story; Brecorder page could not be fetched"
+    },
+    {
+      "headline": "Pakistan pushes Islamabad airport outsourcing tender to early 2027 (Arab News)",
+      "reason": "rejected by 21:00 run: first report likely older than 8 h"
+    }
+  ],
+  "errors": []
+}
