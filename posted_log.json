@@ -15430,5 +15430,34 @@
    "feed": {},
    "story": {}
   }
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "2026-11-27T10:00:00+05:00",
+  "request_id": "2026-11-27-lpg-prices-nearly-halve-uae-cargo",
+  "layout": "bold",
+  "headline": "LPG prices have fallen nearly 48 percent from last month's highs in parts of Pakistan, with a Karachi dealer quoting Rs420 per kg after a bulk UAE shipment eased the shortage, Arab News reports.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/lpg-prices-nearly-halve-in-parts-of-pakistan-as-uae-cargo-eases-shortage-3008208",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/lpg-prices-nearly-halve-in-parts-of-pakistan-as-uae-cargo-eases-shortage-3008208",
+    "published_at": "2026-11-27T08:27:10+05:00"
+   }
+  ],
+  "published": "2026-11-27T08:27:10+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 387578486,
+  "image": "posts/2026-11-27-lpg-prices-nearly-halve-uae-cargo.jpg",
+  "story": "posts/2026-11-27-lpg-prices-nearly-halve-uae-cargo-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-27 10:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
