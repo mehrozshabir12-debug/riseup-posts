@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-27-gold-price-rises-rs11500-tola",
+  "type": "news",
+  "headline": "The price of 24-karat gold in Pakistan rose by Rs11,500 per tola on Friday to Rs390,136, according to rates issued by the All Pakistan Sarafa Gems and Jewellers Association, APP reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "APP",
+      "url": "https://www.app.com.pk/business/gold-prices-surge-by-rs11500-per-tola/",
+      "published_at": "2026-11-27T17:31:48+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/5a3a7e49-954a-46d5-aa36-caa905a22a6e/05d974d3-2e55-4a97-80b8-7dfbc9392473/Realistic_documentary_photo_inside_a_Pakistani_jewellery_sho.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNTFlNzMxZjYzN2M3N2YzYiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTkxMDkwMn0.pNR-0sm0fAK88pYcI6_-rrRX0cK-Rzs1KDhQ0-P0O6Y",
+    "head1": "Sona Phir Mehnga",
+    "head2_hl": "Rs11,500",
+    "head2": "Fi Tola",
+    "kicker": "Nayi Qeemat Rs390,136",
+    "desc": "Aalmi market mein sona $115 barh kar $3,676 fi ounce",
+    "source": "APP",
+    "date": "27 NOV 2026"
+  },
+  "caption": "Sone ki qeemat mein Rs11,500 fi tola ka izafa! 💰\nAPP ke mutabiq All Pakistan Sarafa Gems and Jewellers Association ke jari karda rates mein Friday ko 24-karat sone ki qeemat Rs11,500 barh kar Rs390,136 fi tola ho gayi. 10 gram sona Rs9,859 barh kar Rs334,478 ka ho gaya. Aalmi market mein sona $115 barh kar $3,676 fi ounce raha, jabke chandi Rs277 barh kar Rs4,906 fi tola ho gayi.\nKya aap ke khayal mein sona mazeed mehnga hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #GoldPrice #SoneKiQeemat #PakistanEconomy #PakistanNews",
+  "tiktok_title": "Sona Rs11,500 fi tola mehnga, nayi qeemat Rs390,136",
+  "publish": {
+    "slot": "2026-11-27T21:00:00+05:00",
+    "networks": ["facebook", "instagram"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
