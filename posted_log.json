@@ -15473,5 +15473,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "2026-11-27T12:00:00+05:00",
+  "request_id": "2026-11-27-turkiye-ratifies-makkah-defence-pact",
+  "layout": "bold",
+  "headline": "Turkish President Recep Tayyip Erdogan has officially approved the Makkah Agreement on Joint Defense with Pakistan and Saudi Arabia, completing Turkiye's ratification, the Turkish official gazette reported on Friday, according to Arab News (Reuters).",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/middle-east/erdogan-completes-ratification-process-for-the-makkah-agreement-on-joint-defense-3008217",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/middle-east/erdogan-completes-ratification-process-for-the-makkah-agreement-on-joint-defense-3008217",
+    "published_at": "2026-11-27T11:24:06+05:00"
+   }
+  ],
+  "published": "2026-11-27T11:24:06+05:00",
+  "language": "English",
+  "scene": "ai_photo",
+  "seed": 899076523,
+  "image": "posts/2026-11-27-turkiye-ratifies-makkah-defence-pact.jpg",
+  "story": "posts/2026-11-27-turkiye-ratifies-makkah-defence-pact-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-27 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

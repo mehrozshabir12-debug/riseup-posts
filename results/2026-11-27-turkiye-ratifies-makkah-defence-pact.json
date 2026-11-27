@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-27-turkiye-ratifies-makkah-defence-pact",
+ "revision": 1,
+ "request": "requests/2026-11-27-turkiye-ratifies-makkah-defence-pact.json",
+ "type": "news",
+ "headline": "Turkish President Recep Tayyip Erdogan has officially approved the Makkah Agreement on Joint Defense with Pakistan and Saudi Arabia, completing Turkiye's ratification, the Turkish official gazette reported on Friday, according to Arab News (Reuters).",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-27T12:00:00+05:00",
+ "target_slot": "2026-11-27T12:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-turkiye-ratifies-makkah-defence-pact.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-turkiye-ratifies-makkah-defence-pact-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-27-turkiye-ratifies-makkah-defence-pact.jpg",
+  "story": "posts/2026-11-27-turkiye-ratifies-makkah-defence-pact-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 899076523,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T12:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Turkiye completes ratification of the Makkah defence pact! 🤝\nAccording to Arab News (Reuters), the Turkish official gazette reported on Friday that President Recep Tayyip Erdogan has officially approved the Makkah Agreement on Joint Defense with Pakistan and Saudi Arabia, completing Turkiye's ratification. The Turkish Parliament approved it on November 5. The three countries signed the agreement in Makkah in August; under it, an attack on one party is treated as an attack on all. The three nations are scheduled to hold meetings in Islamabad on Friday and Saturday.\nWhat does this pact mean for Pakistan? Tell us below 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MakkahPact #Turkiye #SaudiArabia #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-turkiye-ratifies-makkah-defence-pact.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Turkiye ratifies Makkah joint defence pact with Pakistan and Saudi Arabia",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T12:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-turkiye-ratifies-makkah-defence-pact-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-27T11:53:31+05:00"
+}
