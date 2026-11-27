@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-27-pakistan-ibsf-team-world-cup-opening-wins",
+ "revision": 1,
+ "request": "requests/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins.json",
+ "type": "news",
+ "headline": "Pakistan made a winning start to the IBSF Team World Cup in Oman on Friday, with Muhammad Asif and Asjad Iqbal beating Oman 3-0 and Rana Irfan and Mubashir Raza beating Sweden 3-0, Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-27T22:00:00+05:00",
+ "target_slot": "2026-11-27T22:00:00+05:00",
+ "riseup_day": "2026-11-27",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins.jpg",
+  "story": "posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 488696082,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T22:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Snooker Team World Cup mein Pakistan ka shandar aaghaz! 🇵🇰\nExpress Tribune ke mutabiq Friday ko Oman mein IBSF Team World Cup ke pehle muqablon mein Pakistan ki dono jorion ne 3-0 se jeet hasil ki. Muhammad Asif aur Asjad Iqbal ne Oman ko 72-30, 103-77 aur 89-34 se haraya, jabke Rana Irfan aur Mubashir Raza ne Sweden ko 88-30, 67-27 aur 77-24 se shikast di. Tournament mein 16 teams 4 groups mein hain, aur har group ki top 2 teams knockout stage mein jayengi. Is se pehle Thursday ko Rana Irfan ne final mein Muhammad Asif ko 5-0 se hara kar IBSF World Cup jeeta tha.\nKya Pakistan yeh Team World Cup bhi jeetega? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Snooker #IBSFWorldCup #PakistanSports #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "Snooker Team World Cup: Pakistan ki dono jorion ki 3-0 se jeet",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-27T22:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-27T21:53:12+05:00"
+}

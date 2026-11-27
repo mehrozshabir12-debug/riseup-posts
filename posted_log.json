@@ -15764,5 +15764,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-27",
+  "slot": "2026-11-27T22:00:00+05:00",
+  "request_id": "2026-11-27-pakistan-ibsf-team-world-cup-opening-wins",
+  "layout": "bold",
+  "headline": "Pakistan made a winning start to the IBSF Team World Cup in Oman on Friday, with Muhammad Asif and Asjad Iqbal beating Oman 3-0 and Rana Irfan and Mubashir Raza beating Sweden 3-0, Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2642685/pakistan-sweep-opening-ties-at-ibsf-world-cup",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642685/pakistan-sweep-opening-ties-at-ibsf-world-cup",
+    "published_at": "2026-11-27T19:47:05+05:00"
+   }
+  ],
+  "published": "2026-11-27T19:47:05+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 488696082,
+  "image": "posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins.jpg",
+  "story": "posts/2026-11-27-pakistan-ibsf-team-world-cup-opening-wins-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-27 22:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
