@@ -16042,5 +16042,34 @@
    "feed": {},
    "story": {}
   }
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "2026-11-28T19:00:00+05:00",
+  "request_id": "2026-11-28-govt-seeks-rs304-fca-oct-dec",
+  "layout": "bold",
+  "headline": "The government has asked Nepra to allow a flat additional fuel cost adjustment of Rs3.04 per unit for October to December 2026, and Nepra has called an emergency public hearing on December 2, Dawn reported.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2047674/govt-seeks-flat-rs304-per-unit-fuel-cost-adjustment-for-oct-dec",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047674/govt-seeks-flat-rs304-per-unit-fuel-cost-adjustment-for-oct-dec",
+    "published_at": "2026-11-28T15:13:41+05:00"
+   }
+  ],
+  "published": "2026-11-28T15:13:41+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 858874620,
+  "image": "posts/2026-11-28-govt-seeks-rs304-fca-oct-dec.jpg",
+  "story": "posts/2026-11-28-govt-seeks-rs304-fca-oct-dec-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-28 19:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
