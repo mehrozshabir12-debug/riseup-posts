@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-28-govt-seeks-rs304-fca-oct-dec",
+  "type": "news",
+  "headline": "The government has asked Nepra to allow a flat additional fuel cost adjustment of Rs3.04 per unit for October to December 2026, and Nepra has called an emergency public hearing on December 2, Dawn reported.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2047674/govt-seeks-flat-rs304-per-unit-fuel-cost-adjustment-for-oct-dec",
+      "published_at": "2026-11-28T15:13:41+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/bea395b8-e99c-4346-b322-1d83bea59633/1eada204-c9df-4e83-b7c4-9e2fad774119/Realistic_photo_of_an_ordinary_Pakistani_household_in_the_ev.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiY2UxMTcwMjRhOGQzY2Q5OSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NjAzNjUxNn0.3QybYVDIQdBgzHmFx8O8Y0gVEAu-pai2J-Tgl4PdzkA",
+    "head1": "Bijli Par Mazeed",
+    "head2_hl": "Rs3.04",
+    "head2": "Fi Unit",
+    "kicker": "Hukumat Ki NEPRA Se Darkhwast",
+    "desc": "October se December tak flat FCA ki ijazat maangi gayi",
+    "source": "Dawn",
+    "date": "28 NOV 2026"
+  },
+  "caption": "Bijli ke bill mein mazeed Rs3.04 fi unit ka bojh? ⚡\nDawn ke mutabiq hukumat ne NEPRA se October se December 2026 tak Rs3.04 fi unit flat fuel cost adjustment (FCA) ki ijazat maangi hai. NEPRA ne is par 2 December ko emergency public hearing rakhi hai, aur yeh FCA December ke bijli bills se lag sakta hai. Ministry ki darkhwast ke mutabiq October ka izafi FCA Rs2.88 fi unit hai, jabke November ka andaza 92 paisa aur December ka andaza Rs5.13 fi unit hai.\nKya aap ka bijli ka bill pehle hi zyada aa raha hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #BijliBill #NEPRA #FCA #PakistanNews",
+  "tiktok_title": "Bijli bill mein Rs3.04 fi unit FCA? Hukumat ki NEPRA se darkhwast",
+  "publish": {
+    "slot": "2026-11-28T19:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
