@@ -15891,5 +15891,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "2026-11-28T12:00:00+05:00",
+  "request_id": "2026-11-28-kaghan-snowfall-naran-routes-closed",
+  "layout": "bold",
+  "headline": "An intense cold spell has frozen lakes, waterfalls and streams in Kaghan Valley as the season's first snowfall hit Babusar Top, Lake Saiful Malook, Lake Lulusar, Batakundi and Jalkhad, and all routes beyond Naran have been closed to traffic, The Express Tribune reported.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2642749/freezing-temps-turn-waterfalls-lakes-into-ice",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642749/freezing-temps-turn-waterfalls-lakes-into-ice",
+    "published_at": "2026-11-28T09:47:23+05:00"
+   }
+  ],
+  "published": "2026-11-28T09:47:23+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 439025848,
+  "image": "posts/2026-11-28-kaghan-snowfall-naran-routes-closed.jpg",
+  "story": "posts/2026-11-28-kaghan-snowfall-naran-routes-closed-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-28 12:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
