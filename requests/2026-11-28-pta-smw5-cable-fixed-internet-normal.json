@@ -1,0 +1,24 @@
+{
+  "id": "2026-11-28-pta-smw5-cable-fixed-internet-normal",
+  "type": "news",
+  "headline": "The Pakistan Telecommunication Authority said on Saturday that the SEA-ME-WE 5 (SMW5) submarine cable, which developed a fault about 11 kilometres from Pakistan's coast on November 18, has been repaired and internet services across the country have returned to normal, Dawn reported.",
+  "language": "Roman Urdu",
+  "sources": [
+    {"outlet": "Dawn", "url": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal", "published_at": "2026-11-28T14:37:06+05:00"}
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/bd3c0fdc-9a7b-44c3-88a4-b6651613f746/ce23e86a-a96a-4f8a-a23a-c515964a25b5/Realistic_photo_of_a_young_Pakistani_man_in_a_simple_shalwar.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMTQ2NWMwYWFkODQxMzIyOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTk3OTE3OH0.g6gsWwNORlFLJdgXKTws2KAAw5GYGKEsVyBdkCHXoDY",
+    "head1": "Internet Phir Se",
+    "head2_hl": "Normal",
+    "head2": "Ho Gaya",
+    "kicker": "PTA Ka Elaan",
+    "desc": "SMW5 cable ki kharabi theek, 18 November se masla tha",
+    "source": "Dawn",
+    "date": "28 NOV 2026"
+  },
+  "caption": "Internet ab phir se normal ho gaya! 🌐\nDawn ke mutabiq Pakistan Telecommunication Authority (PTA) ne Saturday ko bataya ke SEA-ME-WE 5 (SMW5) submarine cable ki kharabi theek kar di gayi hai aur mulk bhar mein internet services normal ho gayi hain. Yeh kharabi 18 November ko Pakistan ke sahil se taqreeban 11 kilometre door samne aayi thi. PTA ke mutabiq Transworld Associates (TWA) aur international SMW5 consortium ne mil kar cable theek ki, aur is dauran internet traffic ko doosre international raston se chalaya gaya taake kam se kam masla ho. Pakistan ko 7 submarine cables se internet milta hai.\nKya aap ka internet ab theek chal raha hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PTA #Internet #SMW5 #PakistanNews",
+  "tiktok_title": "PTA: SMW5 cable theek ho gayi, Pakistan mein internet phir se normal",
+  "publish": {"slot": "2026-11-28T16:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
