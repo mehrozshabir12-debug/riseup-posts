@@ -1,0 +1,24 @@
+{
+  "id": "2026-11-28-zeeshan-ali-space-call-pm",
+  "type": "news",
+  "headline": "Pakistan's first astronaut, Wing Commander Zeeshan Ali, spoke live on Saturday from China's Tiangong space station with Prime Minister Shehbaz Sharif and Field Marshal Asim Munir and urged Pakistan's youth to excel in science and technology, Arab News reported.",
+  "language": "Roman Urdu",
+  "sources": [
+    {"outlet": "Arab News", "url": "https://www.arabnews.pk/pakistan/pakistans-first-astronaut-urges-youth-to-pursue-science-in-call-with-leaders-3008333", "published_at": "2026-11-28T15:51:50+05:00"}
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/91de3a8d-966b-434b-a3ff-670475211c37/0dad5e00-62d9-4286-8399-8337950480db/Realistic_photo_inside_a_modern_orbital_space_station_module.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNzA2NGQ1YzkzNjlmYTk3MCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTk3MzMyMX0.ypeKGA3G9uf6aKTfb3BUW8NP6RqZrNfUwafM2Y0h6kM",
+    "head1": "Khala Se Paigham",
+    "head2_hl": "Zeeshan Ali",
+    "head2": "",
+    "kicker": "PM Se Live Baat",
+    "desc": "Naujawan science aur technology mein aage barhein",
+    "source": "Arab News",
+    "date": "28 NOV 2026"
+  },
+  "caption": "Khala se Pakistan ke naam paigham! 🚀\nArab News ke mutabiq Pakistan ke pehle astronaut Wing Commander Zeeshan Ali ne Saturday ko China ke Tiangong space station se Prime Minister Shehbaz Sharif aur Field Marshal Asim Munir se live baat ki. Zameen se taqreeban 400 km upar se unhon ne kaha ke sab kuch plan ke mutabiq theek chal raha hai, aur mulk ke naujawanon ko paigham diya ke taleem ko aage barhayein aur science aur technology mein kamyabi hasil karein. Zeeshan Ali Wednesday ko Shenzhou-24 mission ke zariye space station pahunche thay aur wahan 5 se 10 din tak scientific tajurbaat karenge.\nKya aap bhi astronaut banna chahenge? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #ZeeshanAli #Shenzhou24 #PakistanInSpace #PakistanNews",
+  "tiktok_title": "Khala se Zeeshan Ali ki PM se live baat, naujawanon ko science ka paigham",
+  "publish": {"slot": "2026-11-28T18:00:00+05:00", "networks": ["facebook", "instagram", "tiktok"], "stories": true, "dry_run": false},
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
