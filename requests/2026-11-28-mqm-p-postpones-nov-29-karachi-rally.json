@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-28-mqm-p-postpones-nov-29-karachi-rally",
+  "type": "news",
+  "headline": "MQM-P leader Dr Farooq Sattar announced on Saturday that the party is postponing its November 29 rally in Karachi, saying the Karachi commissioner forced the cancellation citing security threats, and that a new date will be announced in December, The Express Tribune reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2642819/mqm-p-postpones-nov-29-rally-renews-demand-for-smaller-administrative-units",
+      "published_at": "2026-11-28T18:11:48+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b2d4e6a2-cb0d-4e5a-ac2e-69245728600c/5f4ce8ad-1bfd-4268-86c7-181179376d3a/Realistic_photo_of_an_empty_outdoor_political_rally_ground_o.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNjEwNjVmMjNmNzU2YTY0NiIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NjAyODMyM30.oSPwHtpDNtNp82RwxMwfDocs6TeiR6qHdhABwa7NgoA",
+    "head1": "MQM-P Ki Rally",
+    "head2_hl": "Postpone",
+    "head2": "",
+    "kicker": "29 November Ka Program",
+    "desc": "Farooq Sattar: nayi tareekh December mein batayi jayegi",
+    "source": "Express Tribune",
+    "date": "28 NOV 2026"
+  },
+  "caption": "Karachi mein MQM-P ki 29 November wali rally postpone! 📢\nExpress Tribune ke mutabiq MQM-P ke rehnuma Dr Farooq Sattar ne Saturday ko elaan kiya ke party 29 November ki rally postpone kar rahi hai. Un ke mutabiq Karachi commissioner ne security khatron ki wajah se rally cancel karwayi. Farooq Sattar ne Sindh hukumat ke is faisle ko \"extremely discriminatory and unjust\" kaha aur bataya ke rally ki nayi tareekh December mein batayi jayegi. Health Minister Mustafa Kamal ne kaha ke logon ki jaan aur hifazat kisi bhi siyasi jalse se zyada zaroori hai.\nKya aap ke khayal mein yeh faisla theek hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MQMP #Karachi #FarooqSattar #PakistanNews",
+  "tiktok_title": "MQM-P ki 29 November wali Karachi rally postpone, nayi tareekh December mein",
+  "publish": {
+    "slot": "2026-11-28T20:00:00+05:00",
+    "networks": ["facebook", "instagram"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
