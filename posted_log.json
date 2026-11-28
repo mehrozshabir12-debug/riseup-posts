@@ -16006,5 +16006,34 @@
    "feed": {},
    "story": {}
   }
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "2026-11-28T18:00:00+05:00",
+  "request_id": "2026-11-28-zeeshan-ali-space-call-pm",
+  "layout": "bold",
+  "headline": "Pakistan's first astronaut, Wing Commander Zeeshan Ali, spoke live on Saturday from China's Tiangong space station with Prime Minister Shehbaz Sharif and Field Marshal Asim Munir and urged Pakistan's youth to excel in science and technology, Arab News reported.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistans-first-astronaut-urges-youth-to-pursue-science-in-call-with-leaders-3008333",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistans-first-astronaut-urges-youth-to-pursue-science-in-call-with-leaders-3008333",
+    "published_at": "2026-11-28T15:51:50+05:00"
+   }
+  ],
+  "published": "2026-11-28T15:51:50+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 689635939,
+  "image": "posts/2026-11-28-zeeshan-ali-space-call-pm.jpg",
+  "story": "posts/2026-11-28-zeeshan-ali-space-call-pm-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-28 18:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
