@@ -1,1 +1,68 @@
-{"slot": "2026-11-28T19:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-28T18:47:51+05:00"}
+{
+  "slot": "2026-11-28T19:00:00+05:00",
+  "riseup_day": "2026-11-28",
+  "run_started_pkt": "2026-11-28T18:46:59+05:00",
+  "run_finished_pkt": "2026-11-28T18:52:41+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "The government has asked Nepra to allow a flat additional fuel cost adjustment of Rs3.04 per unit for October to December 2026, and Nepra has called an emergency public hearing on December 2, Dawn reported.",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "url": "https://www.dawn.com/news/2047674/govt-seeks-flat-rs304-per-unit-fuel-cost-adjustment-for-oct-dec",
+        "published_at": "2026-11-28T15:13:41+05:00"
+      }
+    ]
+  },
+  "freshness_window": "4h",
+  "request_id": "2026-11-28-govt-seeks-rs304-fca-oct-dec",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-govt-seeks-rs304-fca-oct-dec.jpg",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok",
+      "runway_task": "bea395b8-e99c-4346-b322-1d83bea59633",
+      "model": "nano-banana-2-lite"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 445459685,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-5554201338953186210",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    },
+    "story": {
+      "id": 445459701,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-608986864822566004",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "reel": "none (owner rule 14 Nov 2026)",
+  "stages": {
+    "metricool_read": "Windows 26 Nov 18:00 to 29 Nov 07:00 all read OK; no non-Story post at 19:00; 6th news post of RiseUp day (cap 10).",
+    "previous_slot_check": "18:00 feed 445414615 FB/IG/TikTok PUBLISHED; 18:05 story 445414638 FB/IG PUBLISHED.",
+    "news_search": "Dawn FCA Rs3.04 story (15:13 PKT) chosen; electricity bills matter to ordinary people; no FCA post in last 48h.",
+    "verification": "Single approved outlet (Dawn), timestamp from article meta; all figures checked against article (Rs3.04, Rs2.88 Oct, 92 paisa Nov est., Rs5.13 Dec est., hearing Dec 2). Article's 'Tuesday (Dec 2)' day label is inconsistent (Dec 2 2026 is Wednesday) so the day name was left out.",
+    "image": "Runway nano-banana-2-lite, one image, no readable text or public figures.",
+    "publish": "Card and story compared with approved 2026-11-13 Ivanhoe card: same layout. Feed (FB+IG) and Story scheduled exactly from payloads. TikTok skipped by pipeline (hourly TikTok pacing: 5 allowed by 19:00)."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Baloch Colony building collapse death toll rises to 13 (Dawn)",
+      "reason": "Same event already posted this week; casualty update not a new development"
+    },
+    {
+      "headline": "Balochistan bans Iranian oil transport on Makran route (Brecorder)",
+      "reason": "FCA story more relevant to ordinary people"
+    }
+  ],
+  "errors": []
+}
