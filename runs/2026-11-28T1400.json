@@ -1,1 +1,75 @@
-{"slot": "2026-11-28T14:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-28T13:48:23+05:00"}
+{
+  "slot": "2026-11-28T14:00:00+05:00",
+  "riseup_day": "2026-11-28",
+  "run_started_pkt": "2026-11-28T13:48:23+05:00",
+  "run_finished_pkt": "2026-11-28T13:54:07+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan's ECC, chaired by Finance Minister Muhammad Aurangzeb, on Friday approved in principle raising the 2026-27 wheat import ceiling from 1 million to 2.5 million metric tons, subject to federal cabinet ratification, Arab News reported.",
+    "sources": [
+      {
+        "outlet": "Arab News",
+        "url": "https://www.arabnews.pk/pakistan/pakistan-raises-wheat-import-ceiling-to-25-million-tons-amid-supply-concerns-3008315",
+        "published_at": "2026-11-28T10:38:27+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-28-wheat-import-ceiling-2-5-million-tons",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-wheat-import-ceiling-2-5-million-tons.jpg",
+  "freshness_window": "4h",
+  "language": "Roman Urdu",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "text in photo (KARACHI on ship hull), task 44f26acb"
+    },
+    {
+      "attempt": 2,
+      "result": "ok, task 6c80e691"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 445257263,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-1623390504254552151",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 445257277,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7888655823296839231",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: slot window 13:00-15:00 empty (no post at 14:00); 6-hour windows 26 Nov 13:00 - 29 Nov 02:00 all succeeded. News feed posts this RiseUp day before this: 2 (10:00 PIA/Saudia, 12:00 Kaghan) -> this is #3 of 10. TikTok this RiseUp day: 10:00, 10:13 (owner), 12:00, 12:15 (owner) = 4 + this = 5 of 8.",
+    "previous_slot_check": "28 Nov 12:00 feed 445195713 FB/IG/TikTok PUBLISHED (FB 122191924856855502, IG DgRrFdBlaiR, TikTok 7713114393843846408); story 445195723 FB/IG PUBLISHED. No errors.",
+    "news_search": "Searched Dawn/Tribune/Geo/Arab News/APP/BR/The News. Picked Arab News wheat import ceiling (10:38 PKT, 3h22m before slot, 4h window) - affects flour prices for ordinary people. No wheat/flour post in last 48h on Metricool.",
+    "verification": "Arab News article read: article:published_time 2026-11-28T05:38:27Z (10:38 PKT), byline Ismail Dilawar, Karachi. Checked: ECC approved in principle on Friday raising wheat import ceiling 1 MMT -> 2.5 MMT for 2026-27 food year; chaired by Finance Minister Muhammad Aurangzeb; subject to federal cabinet ratification; aim adequate supply and price stability until next harvest; Punjab 950,000 t, Sindh 450,000 t, KP 300,000 t requested; provinces bear entire cost; priority berthing for wheat vessels.",
+    "image": "Runway nano-banana-2-lite, 2 attempts (first had readable 'KARACHI' on hull -> one retry allowed). Final: grain pouring from crane grab into truck at port, sacks, two anonymous workers from behind; no text/logos/identifiable people. Credits remaining ~2031.",
+    "publish": "Request rendered (awaiting_publish; feed 14:00, story 14:05). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg/-story.jpg: same layout and size (1080x1350 / 1080x1920; logo, white headline, yellow highlight box, yellow rules, kicker, desc, source line, social icons; story with LATEST NEWS pill and yellow frame). Template sha256 check OK. Scheduled payloads.feed and payloads.story exactly as returned. Both PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Karachi Port-Pipri freight corridor commences operations (Business Recorder)",
+      "reason": "article page could not be fetched to read its timestamp"
+    },
+    {
+      "headline": "Talal seeks to quash govt ouster rumours (Express Tribune)",
+      "reason": "political / rumour-based"
+    },
+    {
+      "headline": "Charsadda students' bus firing (Dawn)",
+      "reason": "violence involving students (likely minors)"
+    }
+  ],
+  "errors": []
+}
