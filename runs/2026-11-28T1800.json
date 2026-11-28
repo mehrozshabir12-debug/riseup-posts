@@ -1,1 +1,66 @@
-{"slot": "2026-11-28T18:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-28T17:47:48+05:00"}
+{
+  "slot": "2026-11-28T18:00:00+05:00",
+  "riseup_day": "2026-11-28",
+  "run_started_pkt": "2026-11-28T17:47:48+05:00",
+  "run_finished_pkt": "2026-11-28T17:52:56+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "Pakistan's first astronaut, Wing Commander Zeeshan Ali, spoke live on Saturday from China's Tiangong space station with Prime Minister Shehbaz Sharif and Field Marshal Asim Munir and urged Pakistan's youth to excel in science and technology, Arab News reported.",
+    "sources": [
+      {
+        "outlet": "Arab News",
+        "url": "https://www.arabnews.pk/pakistan/pakistans-first-astronaut-urges-youth-to-pursue-science-in-call-with-leaders-3008333",
+        "published_at": "2026-11-28T15:51:50+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-28-zeeshan-ali-space-call-pm",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-zeeshan-ali-space-call-pm.jpg",
+  "freshness_window": "3h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 445414615,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-7036052501993797821",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 445414638,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-8082163369159277519",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: 26 Nov 17:00 - 29 Nov 06:00 PKT read in windows; slot 18:00 free; news posts today 4 (10,12,14,16), TikTok today 6 before this post (7 with it)",
+    "previous_slot_check": "16:00 feed 445329404 FB/IG/TikTok PUBLISHED; 16:05 story 445329419 FB/IG PUBLISHED",
+    "news_search": "Dawn, Express Tribune, Arab News searched; picked astronaut Zeeshan Ali live call with PM (Arab News 15:51 PKT). Last astronaut post was 25 Nov (outside 48h); live call is a new development.",
+    "verification": "Arab News article read; published_time 2026-11-28T10:51:50Z = 15:51:50 PKT; names, 400 km, Shenzhou-24, Wednesday arrival, 5-10 day stay checked against article",
+    "image": "Runway nano-banana-2-lite, 1 attempt, astronaut seen from behind in station, no text",
+    "publish": "Card checked vs approved 2026-11-13 Ivanhoe card: same layout; feed + story scheduled PENDING"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Karachi Baloch Colony building collapse death toll",
+      "reason": "casualty/disaster figures still changing"
+    },
+    {
+      "headline": "Lahore Fort Akbari Gate to reopen",
+      "reason": "published 08:36 PKT, outside 8h window; no fixed reopening date"
+    }
+  ],
+  "errors": []
+}
