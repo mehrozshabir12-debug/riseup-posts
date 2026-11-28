@@ -1,0 +1,33 @@
+{
+  "id": "2026-11-28-kaghan-snowfall-naran-routes-closed",
+  "type": "news",
+  "headline": "An intense cold spell has frozen lakes, waterfalls and streams in Kaghan Valley as the season's first snowfall hit Babusar Top, Lake Saiful Malook, Lake Lulusar, Batakundi and Jalkhad, and all routes beyond Naran have been closed to traffic, The Express Tribune reported.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2642749/freezing-temps-turn-waterfalls-lakes-into-ice",
+      "published_at": "2026-11-28T09:47:23+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/87d083a9-10b0-4286-acbb-9892febd9341/b306407f-335f-4325-90d3-349b04aaf2cb/Realistic_photo_of_a_high_mountain_valley_in_northern_Pakist.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiZDlmM2ZlYTAxNmY4MjAxOSIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTkzNTkwNH0.aMHrM0ioJI_qBsSOc6U8tKCMSdgzfNBslXr0MKCe0rg",
+    "head1": "Naran Se Aage",
+    "head2_hl": "Raste Band",
+    "head2": "",
+    "kicker": "Pehli Barfbari, Jheelein Jam Gayin",
+    "desc": "Kaghan mein shadeed sardi, Sohi Waterfall bhi jam gaya",
+    "source": "Express Tribune",
+    "date": "28 NOV 2026"
+  },
+  "caption": "Kaghan Valley mein shadeed sardi, jheelein aur aabshar jam gaye! ❄️\nExpress Tribune ke mutabiq Kaghan Valley aur Babusar Top mein shadeed sardi ki lehar hai aur kai jagah temperature freezing point se neeche chala gaya hai. Batakundi mein Sohi Waterfall ka pani barf ban gaya hai, aur jheelein aur nale bhi jam gaye hain. Babusar Top, Jheel Saiful Malook, Jheel Lulusar, Batakundi aur Jalkhad mein mausam ki pehli barfbari hui hai. Naran se aage tamam raste traffic ke liye band kar diye gaye hain, aur gariyon ke liye snow chains zaroori hain.\nKya aap is sardi mein northern areas jane ka irada rakhte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Naran #Kaghan #Snowfall #PakistanNews",
+  "tiktok_title": "Kaghan mein pehli barfbari: Naran se aage raste band, jheelein jam gayin",
+  "publish": {
+    "slot": "2026-11-28T12:00:00+05:00",
+    "networks": ["facebook", "instagram", "tiktok"],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {"type": "none"},
+  "ai_generated": true
+}
