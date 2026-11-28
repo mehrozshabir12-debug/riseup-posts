@@ -15848,5 +15848,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "2026-11-28T10:00:00+05:00",
+  "request_id": "2026-11-28-pia-saudia-charter-jeddah-madinah",
+  "layout": "bold",
+  "headline": "PIA has chartered three Saudia aircraft for 15 days to fly its Jeddah and Madinah routes amid a fleet shortage, and the deal may be extended, PIA spokesperson Abdullah Hafeez Khan told Arab News.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-airline-may-extend-saudi-aircraft-charter-deal-after-uk-flight-disruption-3008308",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-airline-may-extend-saudi-aircraft-charter-deal-after-uk-flight-disruption-3008308",
+    "published_at": "2026-11-28T08:39:21+05:00"
+   }
+  ],
+  "published": "2026-11-28T08:39:21+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 927476015,
+  "image": "posts/2026-11-28-pia-saudia-charter-jeddah-madinah.jpg",
+  "story": "posts/2026-11-28-pia-saudia-charter-jeddah-madinah-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-28 10:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

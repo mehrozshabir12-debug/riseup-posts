@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-28-pia-saudia-charter-jeddah-madinah",
+ "revision": 1,
+ "request": "requests/2026-11-28-pia-saudia-charter-jeddah-madinah.json",
+ "type": "news",
+ "headline": "PIA has chartered three Saudia aircraft for 15 days to fly its Jeddah and Madinah routes amid a fleet shortage, and the deal may be extended, PIA spokesperson Abdullah Hafeez Khan told Arab News.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-28T10:00:00+05:00",
+ "target_slot": "2026-11-28T10:00:00+05:00",
+ "riseup_day": "2026-11-28",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-pia-saudia-charter-jeddah-madinah.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-pia-saudia-charter-jeddah-madinah-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-28-pia-saudia-charter-jeddah-madinah.jpg",
+  "story": "posts/2026-11-28-pia-saudia-charter-jeddah-madinah-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 927476015,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-28T10:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "PIA ke Jeddah aur Madinah ke musafir ab Saudia ke jahazon mein safar karenge! ✈️\nArab News ke mutabiq PIA ne jahazon ki kami poori karne ke liye Saudi airline Saudia se 3 jahaz 15 din ke liye charter kiye hain. PIA ke spokesperson Abdullah Hafeez Khan ne bataya ke ek hafte ke jaize ke baad yeh muddat barhayi ja sakti hai. Yeh jahaz Jeddah aur Madinah ki flights chala rahe hain, jabke Riyadh aur Dammam ke liye PIA apne jahaz istemal kar rahi hai. Jin musafiron ke paas Saudi shehron ke liye PIA ke tickets hain, unhein Saudia ke charter jahazon mein seat di jayegi aur un ke tickets durust rahenge.\nKya aap ya aap ke ghar wale jald Umrah ya Saudi safar par ja rahe hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #PIA #Saudia #Umrah #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-pia-saudia-charter-jeddah-madinah.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "PIA ne Jeddah aur Madinah flights ke liye Saudia se 3 jahaz charter kiye",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-28T10:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-pia-saudia-charter-jeddah-madinah-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-28T09:52:45+05:00"
+}
