@@ -1,1 +1,65 @@
-{"slot": "2026-11-28T20:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-28T19:48:10+05:00"}
+{
+ "slot": "2026-11-28T20:00:00+05:00",
+ "riseup_day": "2026-11-28",
+ "run_started_pkt": "2026-11-28T19:48:10+05:00",
+ "run_finished_pkt": "2026-11-28T19:55:30+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "MQM-P leader Dr Farooq Sattar announced on Saturday that the party is postponing its November 29 Karachi rally, citing the Karachi commissioner's cancellation over security threats; new date in December.",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642819/mqm-p-postpones-nov-29-rally-renews-demand-for-smaller-administrative-units",
+    "published_at": "2026-11-28T18:11:48+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-28-mqm-p-postpones-nov-29-karachi-rally",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 445506134,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-4150258358104077049",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 445506146,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=2714173147480147312",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "brand ok (FB/IG/TikTok connected); all history windows 26 Nov 19:00 - 29 Nov 08:00 read OK. No non-Story post at 20:00 (owner FB reel at 20:11 noted, untouched). RiseUp day counts before this post: 6 news, TikTok 8/8 (5 news + 3 owner reels) -> TikTok excluded.",
+  "previous_slot_check": "19:00 feed 445459685 FB+IG PUBLISHED; 19:05 story 445459701 FB+IG PUBLISHED.",
+  "news_search": "Candidates: MQM-P rally postponed (Tribune 18:11 PKT, chosen); PM condemns Kuwait drone attack injuring Pakistani (Tribune 17:22 PKT); Karachi Baloch Colony collapse toll 13 (Dawn updated 18:29, casualty story). Already covered today: PTA cable, Zeeshan Ali, FCA, wheat, Kaghan, PIA.",
+  "verification": "Single approved outlet (Express Tribune), article meta published_time 2026-11-28T13:11:48Z read; all names/dates checked.",
+  "image": "Runway nano-banana-2-lite, 1 attempt, empty rally ground, no readable text/people identifiable.",
+  "publish": "Card compared to posts/2026-11-28-zeeshan-ali-space-call-pm.jpg: identical approved layout. NOW was 19:55 (later than T-5), so feed at 20:01 and story at 20:06 per runbook section 0."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "PM Shehbaz condemns drone attack on Kuwait, Pakistani injured",
+   "reason": "older (17:22) than chosen story"
+  },
+  {
+   "headline": "Baloch Colony building collapse toll rises to 13",
+   "reason": "casualty-focused tragedy; fresher political story preferred"
+  }
+ ],
+ "errors": []
+}
