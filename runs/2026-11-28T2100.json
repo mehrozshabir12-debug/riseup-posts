@@ -1,1 +1,65 @@
-{"slot": "2026-11-28T21:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-28T20:49:13+05:00"}
+{
+ "slot": "2026-11-28T21:00:00+05:00",
+ "riseup_day": "2026-11-28",
+ "run_started_pkt": "2026-11-28T20:49:13+05:00",
+ "run_finished_pkt": "2026-11-28T20:55:01+05:00",
+ "test_mode": false,
+ "outcome": "scheduled",
+ "story": {
+  "headline": "Deputy PM/FM Ishaq Dar met PPP Chairman Bilawal Bhutto-Zardari at Zardari House, Islamabad, on Saturday to discuss the upcoming Parliament session and potential legislative agendas.",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047689/govt-ppp-discuss-upcoming-parliament-session-and-potential-legislatives-agendas",
+    "published_at": "2026-11-28T20:26:35+05:00"
+   }
+  ]
+ },
+ "freshness_window": "2h",
+ "request_id": "2026-11-28-dar-bilawal-parliament-session-meeting",
+ "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-dar-bilawal-parliament-session-meeting.jpg",
+ "image_attempts": [
+  {
+   "attempt": 1,
+   "result": "ok"
+  }
+ ],
+ "metricool": {
+  "feed": {
+   "id": 445560306,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7048184935180094057",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  },
+  "story": {
+   "id": 445560325,
+   "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=7994868461377834691",
+   "networks": {
+    "facebook": "PENDING",
+    "instagram": "PENDING"
+   }
+  }
+ },
+ "music": "none",
+ "stages": {
+  "metricool_read": "All windows 26 Nov 20:00 - 29 Nov 09:00 read OK. No non-Story post at 21:00 (owner FB reel at 21:12 and IG reel 21:35 noted, untouched). RiseUp day counts before this post: 7 news; TikTok 8/8 (5 news + 3 owner reels) -> TikTok excluded.",
+  "previous_slot_check": "20:00 feed 445506134 FB+IG PUBLISHED; 20:05 story 445506146 FB+IG PUBLISHED.",
+  "news_search": "Candidates: Dar-Bilawal meeting (Dawn 20:26 PKT, chosen, 2h window); Pakistan 4th at Azlan Shah Cup (Tribune 18:13 PKT, 3h window); Makkah alliance roadmap (Arab News 09:13 PKT, too old); Baloch Colony collapse toll (casualty story); MQM-P rally already posted.",
+  "verification": "Single approved outlet (Dawn), meta published_time 2026-11-28T20:26:35+05:00, modified 20:32:54+05:00; all names checked.",
+  "image": "Runway nano-banana-2-lite, 1 attempt: empty formal drawing room, no people, no text.",
+  "publish": "Card compared to posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally.jpg: identical approved layout. Feed 21:00, story 21:05, FB+IG only."
+ },
+ "skipped_candidates": [
+  {
+   "headline": "Pakistan finish fourth in Azlan Shah Cup",
+   "reason": "older (18:13) than chosen 2h-window story"
+  },
+  {
+   "headline": "Makkah alliance discusses roadmap for expansion",
+   "reason": "published 09:13 PKT, older than 8h"
+  }
+ ],
+ "errors": []
+}
