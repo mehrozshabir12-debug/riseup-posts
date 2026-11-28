@@ -1,1 +1,67 @@
-{"slot": "2026-11-28T10:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-28T09:48:01+05:00"}
+{
+  "slot": "2026-11-28T10:00:00+05:00",
+  "riseup_day": "2026-11-28",
+  "run_started_pkt": "2026-11-28T09:48:01+05:00",
+  "run_finished_pkt": "2026-11-28T09:53:25+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "PIA has chartered three Saudia aircraft for 15 days to fly its Jeddah and Madinah routes amid a fleet shortage, and the deal may be extended, PIA spokesperson Abdullah Hafeez Khan told Arab News.",
+    "sources": [
+      {
+        "outlet": "Arab News",
+        "url": "https://www.arabnews.pk/pakistan/pakistan-airline-may-extend-saudi-aircraft-charter-deal-after-uk-flight-disruption-3008308",
+        "published_at": "2026-11-28T08:39:21+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-28-pia-saudia-charter-jeddah-madinah",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-pia-saudia-charter-jeddah-madinah.jpg",
+  "freshness_window": "2h",
+  "language": "Roman Urdu",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 445144005,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=12480424916567385",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 445144011,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-2683508684073644932",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: brand settings (blogId 7305396, Asia/Karachi, FB/IG/TikTok connected); slot window 09:00-11:00 plus 6-hour windows 26 Nov 09:00 - 28 Nov 22:00, all succeeded. No non-Story post at 10:00 (owner TikTok-only video at 10:13 not touched). News feed posts this RiseUp day before this: 0 -> this is #1 of 10. TikTok this RiseUp day: owner videos 10:13 and 12:15 -> 2 + this = 3 of 8.",
+    "previous_slot_check": "27 Nov 23:00 feed 444683065 FB/IG PUBLISHED (FB 122191867460855502, IG DgQSfAvlbaR); story 444683080 FB/IG PUBLISHED. No errors.",
+    "news_search": "Picked PIA charters 3 Saudia aircraft for Jeddah/Madinah routes, may extend (Arab News 08:39 PKT, 2h window). New development vs 26 Nov 19:00 post (PIA UK flights restored): this is about the Saudi routes and the Saudia charter, not posted before.",
+    "verification": "Arab News article read: meta article:published_time 2026-11-28T03:39:21Z (08:39 PKT), byline Waseem Abbasi. Checked: 3 aircraft from Saudia for 15 days; may be extended after a week's assessment; spokesperson Abdullah Hafeez Khan; planes fly Jeddah and Madinah, PIA own aircraft for Riyadh and Dammam; PIA ticket holders for Saudi cities seated on chartered Saudia planes, tickets remain valid.",
+    "image": "Runway nano-banana-2-lite, 1 attempt (task 27ed313e); airport terminal, plain white wide-body plane at gate, anonymous travellers and pilgrims from behind; no logos/identifiable people (tiny unreadable-at-card-size gate number only).",
+    "publish": "Request rendered (awaiting_publish; feed 10:00, story 10:05). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout (logo, white headline, yellow highlight box, yellow rules, kicker, desc, source line, social icons; story with LATEST NEWS pill and yellow frame). Scheduled payloads.feed and payloads.story exactly as returned. Both PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Pakistan reaffirms support for Saudi Arabia as Makkah alliance discusses expansion roadmap (Arab News 09:13)",
+      "reason": "same Makkah defence pact talks already covered 26-27 Nov (traffic restrictions, Turkiye ratification); PIA story more useful for ordinary people"
+    },
+    {
+      "headline": "Peshawar launches school meal programme for 10,000 students (Express Tribune 05:53)",
+      "reason": "older (4h window) than the chosen 2h-window story"
+    }
+  ],
+  "errors": []
+}
