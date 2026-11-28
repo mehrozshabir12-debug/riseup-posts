@@ -106,9 +106,23 @@
     }
    }
   },
-  "posts": {}
+  "posts": {
+   "feed": {
+    "attempts": 1,
+    "metricool_id": 445414615,
+    "status": {},
+    "public_urls": {}
+   },
+   "story": {
+    "attempts": 1,
+    "metricool_id": 445414638,
+    "status": {},
+    "public_urls": {}
+   }
+  }
  },
  "status": "awaiting_publish",
  "log": "posted_log.json",
- "updated_at": "2026-11-28T17:51:34+05:00"
+ "updated_at": "2026-11-28T17:55:44+05:00",
+ "receipt_sha": "9f6c38ad31342a6e09ced9533135c198f2db53cda671d1967f100edee8178991"
 }
