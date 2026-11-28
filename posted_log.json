@@ -15970,5 +15970,34 @@
    "feed": {},
    "story": {}
   }
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "2026-11-28T16:00:00+05:00",
+  "request_id": "2026-11-28-pta-smw5-cable-fixed-internet-normal",
+  "layout": "bold",
+  "headline": "The Pakistan Telecommunication Authority said on Saturday that the SEA-ME-WE 5 (SMW5) submarine cable, which developed a fault about 11 kilometres from Pakistan's coast on November 18, has been repaired and internet services across the country have returned to normal, Dawn reported.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal",
+    "published_at": "2026-11-28T14:37:06+05:00"
+   }
+  ],
+  "published": "2026-11-28T14:37:06+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 758633894,
+  "image": "posts/2026-11-28-pta-smw5-cable-fixed-internet-normal.jpg",
+  "story": "posts/2026-11-28-pta-smw5-cable-fixed-internet-normal-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-28 16:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
