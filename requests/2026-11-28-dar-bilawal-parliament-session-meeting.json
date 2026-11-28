@@ -1,0 +1,38 @@
+{
+  "id": "2026-11-28-dar-bilawal-parliament-session-meeting",
+  "type": "news",
+  "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar met PPP Chairman Bilawal Bhutto-Zardari at Zardari House in Islamabad on Saturday, where the upcoming Parliament session and potential legislative agendas were discussed, Dawn reports.",
+  "language": "Roman Urdu",
+  "sources": [
+    {
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2047689/govt-ppp-discuss-upcoming-parliament-session-and-potential-legislatives-agendas",
+      "published_at": "2026-11-28T20:26:35+05:00"
+    }
+  ],
+  "card": {
+    "photo_url": "https://dnznrvs05pmza.cloudfront.net/gemini/gemini-3.1-flash-lite-image/images/b2e44629-9522-46bc-af04-a6997368bd00/eaee32f0-65e7-4740-afcf-04b21127a2e0/Realistic_photo_of_an_elegant_formal_meeting_room_in_a_resid.jpg?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiNmVlNjA0MTY4ODFkODRjOCIsImJ1Y2tldCI6InJ1bndheS10YXNrLWFydGlmYWN0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NjAyNzI4Nn0.tKFp2oqo7zDExmxcgV5oxJ12skObZCKeG1wVVXJR_xg",
+    "head1": "Dar Aur Bilawal Ki",
+    "head2_hl": "Mulaqat",
+    "head2": "",
+    "kicker": "Parliament Session Par Baat",
+    "desc": "Agle session ke qanooni agenda par guftagu hui",
+    "source": "Dawn",
+    "date": "28 NOV 2026"
+  },
+  "caption": "Parliament ke agle session se pehle Dar aur Bilawal ki mulaqat! 🏛️\nDawn ke mutabiq Deputy Prime Minister aur Foreign Minister Ishaq Dar ne Saturday ko Islamabad mein Zardari House par PPP Chairman Bilawal Bhutto-Zardari se mulaqat ki. PPP ke handout ke mutabiq is mulaqat mein Parliament ke agle session aur mumkina qanooni agenda par baat hui. Ishaq Dar ke saath National Assembly ke Speaker Ayaz Sadiq, Parliamentary Affairs Minister Tariq Fazal Chaudhry aur Minister of State for Interior Bilal Azhar Kayani bhi thay, jabke Bilawal ke saath Senator Sherry Rehman aur MNA Naveed Qamar mojood thay.\nAap Parliament se kis masle par qanoon chahte hain? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #IshaqDar #Bilawal #Parliament #PakistanNews",
+  "tiktok_title": "Ishaq Dar aur Bilawal ki mulaqat, Parliament ke agle session par baat",
+  "publish": {
+    "slot": "2026-11-28T21:00:00+05:00",
+    "networks": [
+      "facebook",
+      "instagram"
+    ],
+    "stories": true,
+    "dry_run": false
+  },
+  "reel": {
+    "type": "none"
+  },
+  "ai_generated": true
+}
