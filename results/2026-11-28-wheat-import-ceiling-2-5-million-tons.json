@@ -1,0 +1,114 @@
+{
+ "id": "2026-11-28-wheat-import-ceiling-2-5-million-tons",
+ "revision": 1,
+ "request": "requests/2026-11-28-wheat-import-ceiling-2-5-million-tons.json",
+ "type": "news",
+ "headline": "Pakistan's Economic Coordination Committee, chaired by Finance Minister Muhammad Aurangzeb, on Friday approved in principle raising the wheat import ceiling for the 2026-27 food year from 1 million to 2.5 million metric tons, subject to federal cabinet ratification, Arab News reported.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-28T14:00:00+05:00",
+ "target_slot": "2026-11-28T14:00:00+05:00",
+ "riseup_day": "2026-11-28",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-wheat-import-ceiling-2-5-million-tons.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-wheat-import-ceiling-2-5-million-tons-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-28-wheat-import-ceiling-2-5-million-tons.jpg",
+  "story": "posts/2026-11-28-wheat-import-ceiling-2-5-million-tons-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 238837232,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-28T14:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Gandum ki import had barha kar 2.5 million ton kar di gayi! 🌾\nArab News ke mutabiq Finance Minister Muhammad Aurangzeb ki sadarat mein Economic Coordination Committee (ECC) ne Friday ko 2026-27 ke liye gandum import ki had 1 million se barha kar 2.5 million metric ton karne ki usooli manzoori de di. Maqsad yeh hai ke agli fasal tak gandum ki kami na ho aur qeematein qabu mein rahein. Is faisle ki federal cabinet se manzoori abhi baqi hai. Punjab ne 950,000 ton, Sindh ne 450,000 ton aur Khyber Pakhtunkhwa ne 300,000 ton gandum mangi hai, aur import ka poora kharcha suube khud uthayenge. Gandum lane wale jahazon ko bandargahon par pehle jagah (priority berthing) bhi milegi.\nKya is se aata sasta hoga? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #Wheat #Gandum #AataPrice #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     },
+     {
+      "network": "tiktok"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-wheat-import-ceiling-2-5-million-tons.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    },
+    "tiktokData": {
+     "privacyOption": "PUBLIC_TO_EVERYONE",
+     "title": "ECC ne gandum import ki had 1 se barha kar 2.5 million ton kar di",
+     "autoAddMusic": true,
+     "disableComment": false,
+     "disableDuet": false,
+     "disableStitch": false
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-28T14:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-wheat-import-ceiling-2-5-million-tons-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-28T13:53:00+05:00"
+}

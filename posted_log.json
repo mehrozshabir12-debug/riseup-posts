@@ -15934,5 +15934,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "2026-11-28T14:00:00+05:00",
+  "request_id": "2026-11-28-wheat-import-ceiling-2-5-million-tons",
+  "layout": "bold",
+  "headline": "Pakistan's Economic Coordination Committee, chaired by Finance Minister Muhammad Aurangzeb, on Friday approved in principle raising the wheat import ceiling for the 2026-27 food year from 1 million to 2.5 million metric tons, subject to federal cabinet ratification, Arab News reported.",
+  "source_outlet": "Arab News",
+  "source": "https://www.arabnews.pk/pakistan/pakistan-raises-wheat-import-ceiling-to-25-million-tons-amid-supply-concerns-3008315",
+  "sources": [
+   {
+    "outlet": "Arab News",
+    "url": "https://www.arabnews.pk/pakistan/pakistan-raises-wheat-import-ceiling-to-25-million-tons-amid-supply-concerns-3008315",
+    "published_at": "2026-11-28T10:38:27+05:00"
+   }
+  ],
+  "published": "2026-11-28T10:38:27+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 238837232,
+  "image": "posts/2026-11-28-wheat-import-ceiling-2-5-million-tons.jpg",
+  "story": "posts/2026-11-28-wheat-import-ceiling-2-5-million-tons-story.jpg",
+  "tiktok": true,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-28 14:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
