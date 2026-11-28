@@ -16126,5 +16126,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "2026-11-28T21:00:00+05:00",
+  "request_id": "2026-11-28-dar-bilawal-parliament-session-meeting",
+  "layout": "bold",
+  "headline": "Deputy Prime Minister and Foreign Minister Ishaq Dar met PPP Chairman Bilawal Bhutto-Zardari at Zardari House in Islamabad on Saturday, where the upcoming Parliament session and potential legislative agendas were discussed, Dawn reports.",
+  "source_outlet": "Dawn",
+  "source": "https://www.dawn.com/news/2047689/govt-ppp-discuss-upcoming-parliament-session-and-potential-legislatives-agendas",
+  "sources": [
+   {
+    "outlet": "Dawn",
+    "url": "https://www.dawn.com/news/2047689/govt-ppp-discuss-upcoming-parliament-session-and-potential-legislatives-agendas",
+    "published_at": "2026-11-28T20:26:35+05:00"
+   }
+  ],
+  "published": "2026-11-28T20:26:35+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 634258153,
+  "image": "posts/2026-11-28-dar-bilawal-parliament-session-meeting.jpg",
+  "story": "posts/2026-11-28-dar-bilawal-parliament-session-meeting-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-28 21:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]
