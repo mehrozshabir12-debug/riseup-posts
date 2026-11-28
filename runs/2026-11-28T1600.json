@@ -1,1 +1,66 @@
-{"slot": "2026-11-28T16:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-28T15:47:40+05:00"}
+{
+  "slot": "2026-11-28T16:00:00+05:00",
+  "riseup_day": "2026-11-28",
+  "run_started_pkt": "2026-11-28T15:47:40+05:00",
+  "run_finished_pkt": "2026-11-28T15:52:30+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "The Pakistan Telecommunication Authority said on Saturday that the SEA-ME-WE 5 (SMW5) submarine cable, which developed a fault about 11 kilometres from Pakistan's coast on November 18, has been repaired and internet services across the country have returned to normal, Dawn reported.",
+    "sources": [
+      {
+        "outlet": "Dawn",
+        "url": "https://www.dawn.com/news/2047668/pta-says-submarine-cable-fault-fixed-internet-services-return-to-normal",
+        "published_at": "2026-11-28T14:37:06+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-28-pta-smw5-cable-fixed-internet-normal",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-pta-smw5-cable-fixed-internet-normal.jpg",
+  "freshness_window": "2h",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 445329404,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=1089998308065324",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 445329419,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=5657002627693299506",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "6 windows 2026-11-26T15:45..2026-11-29T03:45 PKT all succeeded; slot 16:00 free; today's news feed posts before this run: 3 (10:00,12:00,14:00) -> this is #4 of 10; TikTok today before this run: 5 (3 news + 2 videos) -> this is #6 of 8",
+    "previous_slot_check": "14:00 feed 445257263 FB/IG/TikTok PUBLISHED; story 445257277 FB/IG PUBLISHED",
+    "news_search": "Dawn PTA SMW5 cable restored (14:37 PKT, 1h23m before T) chosen; no internet/cable post in last 48h",
+    "verification": "Dawn article read; meta published/modified 2026-11-28T14:37:06+05:00; all facts on card/caption from article",
+    "image": "Runway nano-banana-2-lite, 1 image, no text/logos/public figures",
+    "publish": "card matched approved layout (compared with wheat-import card); feed + story scheduled, PENDING; no reel, no music"
+  },
+  "skipped_candidates": [
+    {
+      "headline": "Govt seeks flat Rs3.04/unit FCA for Oct-Dec (Dawn)",
+      "reason": "not chosen; PTA story fresher and wider impact"
+    },
+    {
+      "headline": "Pakistan seeks duty-free access to China (Tribune)",
+      "reason": "duplicate of 27 Nov 19:00 post"
+    }
+  ],
+  "errors": []
+}
