@@ -1,1 +1,79 @@
-{"slot": "2026-11-28T12:00:00+05:00", "outcome": "started", "run_started_pkt": "2026-11-28T11:48:28+05:00"}
+{
+  "slot": "2026-11-28T12:00:00+05:00",
+  "riseup_day": "2026-11-28",
+  "run_started_pkt": "2026-11-28T11:48:28+05:00",
+  "run_finished_pkt": "2026-11-28T11:55:10+05:00",
+  "test_mode": false,
+  "outcome": "scheduled",
+  "story": {
+    "headline": "An intense cold spell has frozen lakes, waterfalls and streams in Kaghan Valley as the season's first snowfall hit Babusar Top, Lake Saiful Malook, Lake Lulusar, Batakundi and Jalkhad, and all routes beyond Naran have been closed to traffic, The Express Tribune reported.",
+    "sources": [
+      {
+        "outlet": "Express Tribune",
+        "url": "https://tribune.com.pk/story/2642749/freezing-temps-turn-waterfalls-lakes-into-ice",
+        "published_at": "2026-11-28T09:47:23+05:00"
+      }
+    ]
+  },
+  "request_id": "2026-11-28-kaghan-snowfall-naran-routes-closed",
+  "card_url": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-kaghan-snowfall-naran-routes-closed.jpg",
+  "freshness_window": "3h",
+  "language": "Roman Urdu",
+  "image_attempts": [
+    {
+      "attempt": 1,
+      "result": "ok"
+    }
+  ],
+  "metricool": {
+    "feed": {
+      "id": 445195713,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=-6062904994467525375",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING",
+        "tiktok": "PENDING"
+      }
+    },
+    "story": {
+      "id": 445195723,
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7305396&openWithPostUuid=4176092038612077979",
+      "networks": {
+        "facebook": "PENDING",
+        "instagram": "PENDING"
+      }
+    }
+  },
+  "music": "none",
+  "stages": {
+    "metricool_read": "OK: brand settings (blogId 7305396, Asia/Karachi, FB/IG/TikTok connected); slot window 11:00-13:00 plus 6-hour windows 26 Nov 11:00 - 29 Nov 00:00, all succeeded. No non-Story post at 12:00 (owner TikTok-only video at 12:15 not touched). News feed posts this RiseUp day before this: 1 (10:00 PIA) -> this is #2 of 10. TikTok this RiseUp day: 10:00 PIA, owner videos 10:13 and 12:15 -> 3 + this = 4 of 8.",
+    "previous_slot_check": "28 Nov 10:00 feed 445144005 FB/IG/TikTok PUBLISHED (FB 122191916006855502, IG DgRdPgEle2W, TikTok 7713083216046984469); story 445144011 FB/IG PUBLISHED. No errors.",
+    "news_search": "2h window: only Dawn 'CDA seals Fazl's Islamabad residence' (11:12) - skipped as politically charged amid the government-JUI-F standoff. 3h window: picked Kaghan cold spell / first snowfall / routes beyond Naran closed (Express Tribune 09:47 PKT). No weather post in last 48h.",
+    "verification": "Express Tribune article read: meta article:published_time 2026-11-28T04:47:23+00:00 (09:47 PKT), byline Our Correspondent, Balakot dateline. Checked: intense cold spell in Kaghan Valley and Babusar Top, temperatures below freezing at various locations; lakes, waterfalls, streams frozen; Sohi Waterfall in Batakundi turned to ice; first snowfall of season in Babusar Top, Lake Saiful Malook, Lake Lulusar, Batakundi, Jalkhad; all routes beyond Naran closed to traffic; snow chains needed. No temperature figures used.",
+    "image": "Runway nano-banana-2-lite, 1 attempt (task 87d083a9); snowy mountain road, frozen waterfall, lake, plain jeep with snow chains, two anonymous travellers from behind; no text/logos/identifiable people.",
+    "publish": "Request rendered (awaiting_publish; feed 12:00, story 12:05). Feed card and story compared with posts/2026-11-13-ivanhoe-atlantic-mari-energies-mou.jpg: same layout (logo, white headline, yellow highlight box, yellow rules, kicker, desc, source line, social icons; story with LATEST NEWS pill and yellow frame). Scheduled payloads.feed and payloads.story exactly as returned. Both PENDING."
+  },
+  "skipped_candidates": [
+    {
+      "headline": "CDA seals Fazlur Rehman's Islamabad residence after owner's CNIC cancelled (Dawn 11:12)",
+      "reason": "politically charged story in an ongoing government-JUI-F confrontation; avoided under neutral-politics rule"
+    },
+    {
+      "headline": "Karachi Baloch Colony building collapse toll rises to 11 (Dawn 09:51, Geo 09:36)",
+      "reason": "collapse happened Wednesday 25 Nov; first report far older than 8 h, toll update only; deaths/missing story"
+    },
+    {
+      "headline": "ECC raises wheat import ceiling to 2.5 million tons (Dawn 27 Nov 23:35, Arab News 10:38)",
+      "reason": "first reported 27 Nov 23:35 PKT, more than 8 h before slot"
+    },
+    {
+      "headline": "Flour price row / chakki shutdown in Hyderabad (Express Tribune 06:17)",
+      "reason": "older than the 3h window story; local; snowfall story newer"
+    },
+    {
+      "headline": "Petrol down Re1 / Zong 1,000 5G sites (Business Recorder)",
+      "reason": "article pages could not be opened (client_error), timestamps unverifiable"
+    }
+  ],
+  "errors": []
+}
