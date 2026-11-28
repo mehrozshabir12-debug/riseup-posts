@@ -16084,5 +16084,34 @@
     "instagram": "PENDING"
    }
   }
+ },
+ {
+  "date": "2026-11-28",
+  "slot": "2026-11-28T20:00:00+05:00",
+  "request_id": "2026-11-28-mqm-p-postpones-nov-29-karachi-rally",
+  "layout": "bold",
+  "headline": "MQM-P leader Dr Farooq Sattar announced on Saturday that the party is postponing its November 29 rally in Karachi, saying the Karachi commissioner forced the cancellation citing security threats, and that a new date will be announced in December, The Express Tribune reports.",
+  "source_outlet": "Express Tribune",
+  "source": "https://tribune.com.pk/story/2642819/mqm-p-postpones-nov-29-rally-renews-demand-for-smaller-administrative-units",
+  "sources": [
+   {
+    "outlet": "Express Tribune",
+    "url": "https://tribune.com.pk/story/2642819/mqm-p-postpones-nov-29-rally-renews-demand-for-smaller-administrative-units",
+    "published_at": "2026-11-28T18:11:48+05:00"
+   }
+  ],
+  "published": "2026-11-28T18:11:48+05:00",
+  "language": "Roman Urdu",
+  "scene": "ai_photo",
+  "seed": 753053528,
+  "image": "posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally.jpg",
+  "story": "posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally-story.jpg",
+  "tiktok": false,
+  "anime": false,
+  "reel_kind": "none",
+  "scheduled": "2026-11-28 20:00 PKT",
+  "music": null,
+  "publish_status": "awaiting_publish",
+  "metricool_ids": {}
  }
 ]

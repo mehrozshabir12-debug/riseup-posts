@@ -1,0 +1,103 @@
+{
+ "id": "2026-11-28-mqm-p-postpones-nov-29-karachi-rally",
+ "revision": 1,
+ "request": "requests/2026-11-28-mqm-p-postpones-nov-29-karachi-rally.json",
+ "type": "news",
+ "headline": "MQM-P leader Dr Farooq Sattar announced on Saturday that the party is postponing its November 29 rally in Karachi, saying the Karachi commissioner forced the cancellation citing security threats, and that a new date will be announced in December, The Express Tribune reports.",
+ "warnings": [],
+ "errors": [],
+ "slot_pkt": "2026-11-28T20:00:00+05:00",
+ "target_slot": "2026-11-28T20:00:00+05:00",
+ "riseup_day": "2026-11-28",
+ "media": {
+  "feed": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally.jpg",
+  "story": "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally-story.jpg"
+ },
+ "media_paths": {
+  "feed": "posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally.jpg",
+  "story": "posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally-story.jpg",
+  "reel_kind": "none"
+ },
+ "render": {},
+ "card_seed": 753053528,
+ "published": false,
+ "metricool": {
+  "blogId": "7305396",
+  "mode": "chatgpt_connector",
+  "payloads": {
+   "feed": {
+    "publicationDate": {
+     "dateTime": "2026-11-28T20:00:00",
+     "timezone": "Asia/Karachi"
+    },
+    "text": "Karachi mein MQM-P ki 29 November wali rally postpone! 📢\nExpress Tribune ke mutabiq MQM-P ke rehnuma Dr Farooq Sattar ne Saturday ko elaan kiya ke party 29 November ki rally postpone kar rahi hai. Un ke mutabiq Karachi commissioner ne security khatron ki wajah se rally cancel karwayi. Farooq Sattar ne Sindh hukumat ke is faisle ko \"extremely discriminatory and unjust\" kaha aur bataya ke rally ki nayi tareekh December mein batayi jayegi. Health Minister Mustafa Kamal ne kaha ke logon ki jaan aur hifazat kisi bhi siyasi jalse se zyada zaroori hai.\nKya aap ke khayal mein yeh faisla theek hai? Comment mein batayein 👇\n\nImage: AI-generated illustration.\n\n#RiseUpPakistan #MQMP #Karachi #FarooqSattar #PakistanNews",
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "POST"
+    },
+    "instagramData": {
+     "type": "POST",
+     "isAiGenerated": true
+    }
+   },
+   "story": {
+    "publicationDate": {
+     "dateTime": "2026-11-28T20:05:00",
+     "timezone": "Asia/Karachi"
+    },
+    "providers": [
+     {
+      "network": "facebook"
+     },
+     {
+      "network": "instagram"
+     }
+    ],
+    "media": [
+     "https://raw.githubusercontent.com/mehrozshabir12-debug/riseup-posts/main/posts/2026-11-28-mqm-p-postpones-nov-29-karachi-rally-story.jpg"
+    ],
+    "autoPublish": true,
+    "draft": false,
+    "shortener": false,
+    "firstCommentText": "",
+    "mediaAltText": [],
+    "descendants": [],
+    "hasNotReadNotes": false,
+    "smartLinkData": {
+     "ids": []
+    },
+    "facebookData": {
+     "type": "STORY"
+    },
+    "instagramData": {
+     "type": "STORY",
+     "isAiGenerated": true
+    }
+   }
+  },
+  "posts": {}
+ },
+ "status": "awaiting_publish",
+ "log": "posted_log.json",
+ "updated_at": "2026-11-28T19:54:41+05:00"
+}
